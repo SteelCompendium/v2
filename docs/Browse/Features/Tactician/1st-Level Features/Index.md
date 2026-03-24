@@ -5,15 +5,40 @@ type: index
 
 # Tactician: 1st-Level Features Index
 
-| File Name                                                   | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ----------------------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Commanding Presence](../Commanding%20Presence)             | Vanguard   |      | 1     | trait        | feature     |          |        |
-| [Covert Operations](../Covert%20Operations)                 | Insurgent  |      | 1     | trait        | feature     |          |        |
-| [Field Arsenal](../Field%20Arsenal)                         |            |      | 1     | trait        | feature     |          |        |
-| [Focus in Combat](../Focus%20in%20Combat)                   |            |      | 1     | trait        | feature     |          |        |
-| [Focus Outside of Combat](../Focus%20Outside%20of%20Combat) |            |      | 1     | trait        | feature     |          |        |
-| [Kit Signature Ability](../Kit%20Signature%20Ability)       |            |      | 1     | trait        | feature     |          |        |
-| [Mark](../Mark)                                             |            |      | 1     | trait        | feature     |          |        |
-| [Strike Now](../Strike%20Now)                               |            |      | 1     | trait        | feature     |          |        |
-| [Studied Commander](../Studied%20Commander)                 | Mastermind |      | 1     | trait        | feature     |          |        |
-| [Tactical Doctrine](../Tactical%20Doctrine)                 |            |      | 1     | trait        | feature     |          |        |
+## Vanguard
+
+<div class="browse-index" markdown>
+
+- [Commanding Presence](../Commanding%20Presence)
+
+</div>
+
+## Insurgent
+
+<div class="browse-index" markdown>
+
+- [Covert Operations](../Covert%20Operations)
+
+</div>
+
+## Other
+
+<div class="browse-index" markdown>
+
+- [Field Arsenal](../Field%20Arsenal)
+- [Focus in Combat](../Focus%20in%20Combat)
+- [Focus Outside of Combat](../Focus%20Outside%20of%20Combat)
+- [Kit Signature Ability](../Kit%20Signature%20Ability)
+- [Mark](../Mark)
+- [Strike Now](../Strike%20Now)
+- [Tactical Doctrine](../Tactical%20Doctrine)
+
+</div>
+
+## Mastermind
+
+<div class="browse-index" markdown>
+
+- [Studied Commander](../Studied%20Commander)
+
+</div>

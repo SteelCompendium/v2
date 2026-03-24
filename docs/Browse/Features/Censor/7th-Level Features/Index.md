@@ -5,20 +5,108 @@ type: index
 
 # Censor: 7th-Level Features Index
 
-| File Name                                                             | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
-| --------------------------------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Blessing of Iron](../Blessing%20of%20Iron)                           | Protection |      | 7     | trait        | feature     |          |        |
-| [Characteristic Increase](../Characteristic%20Increase)               |            |      | 7     | trait        | feature     |          |        |
-| [Covenant of the Heart](../Covenant%20of%20the%20Heart)               | Love       |      | 7     | trait        | feature     |          |        |
-| [Divine Quartermaster](../Divine%20Quartermaster)                     | Creation   |      | 7     | trait        | feature     |          |        |
-| [Focused Wrath](../Focused%20Wrath)                                   |            |      | 7     | trait        | feature     |          |        |
-| [Font of Grace](../Font%20of%20Grace)                                 | Life       |      | 7     | trait        | feature     |          |        |
-| [Gods Library](../Gods%20Library)                                     | Knowledge  |      | 7     | trait        | feature     |          |        |
-| [Light of the Burning Sun](../Light%20of%20the%20Burning%20Sun)       | Sun        |      | 7     | trait        | feature     |          |        |
-| [Natures Bounty](../Natures%20Bounty)                                 | Nature     |      | 7     | trait        | feature     |          |        |
-| [Ride the Lightning](../Ride%20the%20Lightning)                       | Storm      |      | 7     | trait        | feature     |          |        |
-| [Skill](../Skill)                                                     |            |      | 7     | trait        | feature     |          |        |
-| [Trinity of Trickery](../Trinity%20of%20Trickery)                     | Trickery   |      | 7     | trait        | feature     |          |        |
-| [Word of Death Deferred](../Word%20of%20Death%20Deferred)             | Death      |      | 7     | trait        | feature     |          |        |
-| [Word of Fate Denied](../Word%20of%20Fate%20Denied)                   | Fate       |      | 7     | trait        | feature     |          |        |
-| [Your Triumphs Are Remembered](../Your%20Triumphs%20Are%20Remembered) | War        |      | 7     | trait        | feature     |          |        |
+## Protection
+
+<div class="browse-index" markdown>
+
+- [Blessing of Iron](../Blessing%20of%20Iron)
+
+</div>
+
+## Other
+
+<div class="browse-index" markdown>
+
+- [Characteristic Increase](../Characteristic%20Increase)
+- [Focused Wrath](../Focused%20Wrath)
+- [Skill](../Skill)
+
+</div>
+
+## Love
+
+<div class="browse-index" markdown>
+
+- [Covenant of the Heart](../Covenant%20of%20the%20Heart)
+
+</div>
+
+## Creation
+
+<div class="browse-index" markdown>
+
+- [Divine Quartermaster](../Divine%20Quartermaster)
+
+</div>
+
+## Life
+
+<div class="browse-index" markdown>
+
+- [Font of Grace](../Font%20of%20Grace)
+
+</div>
+
+## Knowledge
+
+<div class="browse-index" markdown>
+
+- [Gods Library](../Gods%20Library)
+
+</div>
+
+## Sun
+
+<div class="browse-index" markdown>
+
+- [Light of the Burning Sun](../Light%20of%20the%20Burning%20Sun)
+
+</div>
+
+## Nature
+
+<div class="browse-index" markdown>
+
+- [Natures Bounty](../Natures%20Bounty)
+
+</div>
+
+## Storm
+
+<div class="browse-index" markdown>
+
+- [Ride the Lightning](../Ride%20the%20Lightning)
+
+</div>
+
+## Trickery
+
+<div class="browse-index" markdown>
+
+- [Trinity of Trickery](../Trinity%20of%20Trickery)
+
+</div>
+
+## Death
+
+<div class="browse-index" markdown>
+
+- [Word of Death Deferred](../Word%20of%20Death%20Deferred)
+
+</div>
+
+## Fate
+
+<div class="browse-index" markdown>
+
+- [Word of Fate Denied](../Word%20of%20Fate%20Denied)
+
+</div>
+
+## War
+
+<div class="browse-index" markdown>
+
+- [Your Triumphs Are Remembered](../Your%20Triumphs%20Are%20Remembered)
+
+</div>

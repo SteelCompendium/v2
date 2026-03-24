@@ -89,6 +89,10 @@ update push="true":
         printf '%s\n' 'title: Rulebook Chapters' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Read/.nav.yml"
         printf '%s\n' 'title: Full Rulebook' > "${v2_dir}/docs/Full Book/.nav.yml"
 
+        # --- Transform index pages into grid layouts ---
+        echo >&2 "[INFO] Transforming index pages..."
+        python3 "${v2_dir}/scripts/transform_indexes.py" "${v2_dir}/docs/Browse"
+
         # Move static content overrides over (these take precedence)
         cp -R "${v2_dir}/static_content/docs" "${v2_dir}"
 

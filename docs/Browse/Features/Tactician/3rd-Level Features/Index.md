@@ -5,6 +5,8 @@ type: index
 
 # Tactician: 3rd-Level Features Index
 
-| File Name                                 | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ----------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Out of Position](../Out%20of%20Position) |          |      | 3     | trait        | feature     |          |        |
+<div class="browse-index" markdown>
+
+- [Out of Position](../Out%20of%20Position)
+
+</div>

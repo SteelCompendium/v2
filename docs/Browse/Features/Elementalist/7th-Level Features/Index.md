@@ -5,9 +5,11 @@ type: index
 
 # Elementalist: 7th-Level Features Index
 
-| File Name                                               | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Characteristic Increase](../Characteristic%20Increase) |          |      | 7     | trait        | feature     |          |        |
-| [Mantle of Quintessence](../Mantle%20of%20Quintessence) |          |      | 7     | trait        | feature     |          |        |
-| [Skill](../Skill)                                       |          |      | 7     | trait        | feature     |          |        |
-| [Surging Essence](../Surging%20Essence)                 |          |      | 7     | trait        | feature     |          |        |
+<div class="browse-index" markdown>
+
+- [Characteristic Increase](../Characteristic%20Increase)
+- [Mantle of Quintessence](../Mantle%20of%20Quintessence)
+- [Skill](../Skill)
+- [Surging Essence](../Surging%20Essence)
+
+</div>

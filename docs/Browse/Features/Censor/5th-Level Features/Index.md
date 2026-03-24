@@ -5,8 +5,26 @@ type: index
 
 # Censor: 5th-Level Features Index
 
-| File Name                           | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ----------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Evil Revealed](../Evil%20Revealed) | Exorcist |      | 5     | trait        | feature     |          |        |
-| [Prophecy](../Prophecy)             | Oracle   |      | 5     | trait        | feature     |          |        |
-| [Stand Fast](../Stand%20Fast)       | Paragon  |      | 5     | trait        | feature     |          |        |
+## Exorcist
+
+<div class="browse-index" markdown>
+
+- [Evil Revealed](../Evil%20Revealed)
+
+</div>
+
+## Oracle
+
+<div class="browse-index" markdown>
+
+- [Prophecy](../Prophecy)
+
+</div>
+
+## Paragon
+
+<div class="browse-index" markdown>
+
+- [Stand Fast](../Stand%20Fast)
+
+</div>

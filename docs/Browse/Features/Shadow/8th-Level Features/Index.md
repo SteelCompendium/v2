@@ -5,9 +5,34 @@ type: index
 
 # Shadow: 8th-Level Features Index
 
-| File Name                       | Subclass        | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ------------------------------- | --------------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Cinder Step](../Cinder%20Step) | Black Ash       |      | 8     | trait        | feature     |          |        |
-| [Parkour](../Parkour)           | Harlequin Mask  |      | 8     | trait        | feature     |          |        |
-| [Perk](../Perk)                 |                 |      | 8     | trait        | feature     |          |        |
-| [Time Bomb](../Time%20Bomb)     | Caustic Alchemy |      | 8     | trait        | feature     |          |        |
+## Black Ash
+
+<div class="browse-index" markdown>
+
+- [Cinder Step](../Cinder%20Step)
+
+</div>
+
+## Harlequin Mask
+
+<div class="browse-index" markdown>
+
+- [Parkour](../Parkour)
+
+</div>
+
+## Other
+
+<div class="browse-index" markdown>
+
+- [Perk](../Perk)
+
+</div>
+
+## Caustic Alchemy
+
+<div class="browse-index" markdown>
+
+- [Time Bomb](../Time%20Bomb)
+
+</div>

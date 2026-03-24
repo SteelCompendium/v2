@@ -5,8 +5,26 @@ type: index
 
 # Fury: 5th-Level Features Index
 
-| File Name                   | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
-| --------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Bounder](../Bounder)       | Berserker  |      | 5     | trait        | feature     |          |        |
-| [Stormborn](../Stormborn)   | Stormwight |      | 5     | trait        | feature     |          |        |
-| [Unfettered](../Unfettered) | Reaver     |      | 5     | trait        | feature     |          |        |
+## Berserker
+
+<div class="browse-index" markdown>
+
+- [Bounder](../Bounder)
+
+</div>
+
+## Stormwight
+
+<div class="browse-index" markdown>
+
+- [Stormborn](../Stormborn)
+
+</div>
+
+## Reaver
+
+<div class="browse-index" markdown>
+
+- [Unfettered](../Unfettered)
+
+</div>

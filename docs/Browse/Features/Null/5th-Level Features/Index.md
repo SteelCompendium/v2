@@ -5,8 +5,26 @@ type: index
 
 # Null: 5th-Level Features Index
 
-| File Name                                     | Subclass      | Cost | Level | Feature Type | Action Type | Distance | Target |
-| --------------------------------------------- | ------------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Chilling Readiness](../Chilling%20Readiness) | Cryokinetic   |      | 5     | trait        | feature     |          |        |
-| [Inertial Fulcrum](../Inertial%20Fulcrum)     | Metakinetic   |      | 5     | trait        | feature     |          |        |
-| [Instant Action](../Instant%20Action)         | Chronokinetic |      | 5     | trait        | feature     |          |        |
+## Cryokinetic
+
+<div class="browse-index" markdown>
+
+- [Chilling Readiness](../Chilling%20Readiness)
+
+</div>
+
+## Metakinetic
+
+<div class="browse-index" markdown>
+
+- [Inertial Fulcrum](../Inertial%20Fulcrum)
+
+</div>
+
+## Chronokinetic
+
+<div class="browse-index" markdown>
+
+- [Instant Action](../Instant%20Action)
+
+</div>

@@ -14,6 +14,9 @@
       "serve": [
         ". .venv/bin/activate && mkdocs serve"
       ],
+      "just_serve": [
+        ". .venv/bin/activate && mkdocs serve --dirtyreload"
+      ],
       "build": [
         ". .venv/bin/activate && mkdocs build"
       ],

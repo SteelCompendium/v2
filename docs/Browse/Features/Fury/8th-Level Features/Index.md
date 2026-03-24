@@ -5,9 +5,34 @@ type: index
 
 # Fury: 8th-Level Features Index
 
-| File Name                                       | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ----------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [A Step Ahead](../A%20Step%20Ahead)             | Reaver     |      | 8     | trait        | feature     |          |        |
-| [Menagerie](../Menagerie)                       | Stormwight |      | 8     | trait        | feature     |          |        |
-| [Perk](../Perk)                                 |            |      | 8     | trait        | feature     |          |        |
-| [Strongest There Is](../Strongest%20There%20Is) | Berserker  |      | 8     | trait        | feature     |          |        |
+## Reaver
+
+<div class="browse-index" markdown>
+
+- [A Step Ahead](../A%20Step%20Ahead)
+
+</div>
+
+## Stormwight
+
+<div class="browse-index" markdown>
+
+- [Menagerie](../Menagerie)
+
+</div>
+
+## Other
+
+<div class="browse-index" markdown>
+
+- [Perk](../Perk)
+
+</div>
+
+## Berserker
+
+<div class="browse-index" markdown>
+
+- [Strongest There Is](../Strongest%20There%20Is)
+
+</div>

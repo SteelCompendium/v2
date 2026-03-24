@@ -5,6 +5,8 @@ type: index
 
 # Talent: 3rd-Level Features Index
 
-| File Name       | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| --------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [Scan](../Scan) |          |      | 3     | trait        | feature     |          |        |
+<div class="browse-index" markdown>
+
+- [Scan](../Scan)
+
+</div>
