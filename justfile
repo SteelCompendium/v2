@@ -85,7 +85,7 @@ update push="true":
         echo >&2 "[INFO] Search exclusion applied."
 
         # --- Add .nav.yml for tab title overrides and sorting ---
-        printf '%s\n' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Browse/.nav.yml"
+        printf '%s\n' 'nav:' '  - index.md' '  - glob: "*"' '    sort:' '      type: natural' '      by: title' > "${v2_dir}/docs/Browse/.nav.yml"
         printf '%s\n' 'title: Rulebook Chapters' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Read/.nav.yml"
         printf '%s\n' 'title: Full Rulebook' > "${v2_dir}/docs/Full Book/.nav.yml"
 
