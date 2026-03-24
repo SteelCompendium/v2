@@ -8,8 +8,76 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
-/* Keeps preferences from getting funky */
-.width-prefs { position: sticky; top: 4rem; padding: .5rem; background: var(--md-default-bg-color); z-index: 3; }
+/* Preferences page */
+.prefs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18em, 1fr));
+    gap: 1.5em;
+    margin: 1em 0;
+}
+
+.pref-card {
+    padding: 1.2em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.4em;
+    background: var(--md-default-bg-color);
+}
+
+.pref-card label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.4em;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--md-default-fg-color--light);
+}
+
+.pref-card select,
+.pref-card input[type="text"] {
+    width: 100%;
+    padding: 0.5em 0.6em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.3em;
+    background: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    font-size: 0.9em;
+    font-family: inherit;
+}
+
+.pref-card select:focus,
+.pref-card input[type="text"]:focus {
+    outline: 2px solid var(--md-accent-fg-color);
+    outline-offset: -1px;
+}
+
+.pref-card .pref-hint {
+    display: block;
+    margin-top: 0.3em;
+    font-size: 0.8em;
+    color: var(--md-default-fg-color--lighter);
+}
+
+.pref-card .pref-actions {
+    display: flex;
+    gap: 0.5em;
+    margin-top: 0.6em;
+}
+
+.pref-card button {
+    padding: 0.4em 1em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.3em;
+    background: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    cursor: pointer;
+    font-size: 0.85em;
+}
+
+.pref-card button:hover {
+    background: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
 
 /* Browse index: multi-column link grid */
 .browse-index ul {
