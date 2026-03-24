@@ -12,12 +12,11 @@ Welcome to the Steel Compendium! This site includes the full Draw Steel Rules an
 Use the **tabs** at the top to choose how you want to explore the rules:
 
 - **Browse** -- Look up specific rules, abilities, classes, kits, and more. Each item has its own page, easy to search and share. This is the best way to find something specific.
-- **Read** -- Read the rules organized by chapter, as they appear in the book. Good for reading through sections in order.
-- **Full Book** -- The complete Heroes book on a single page. Useful for Ctrl+F searching across everything, but slow to load.
+- **Rulebook Chapters** -- Read the rules organized by chapter, as they appear in the book. Good for reading through sections in order.
+- **Full Rulebook** -- The complete Heroes book on a single page. Useful for Ctrl+F searching across everything, but slow to load.
 - **Bestiary** -- Monsters and creatures.
-- **Adventures** -- Published adventures.
 
-**Search** is scoped to the **Browse** section by default, so you get clean results without duplicates.
+**Search** indexes Browse and Bestiary pages, so you get clean results without duplicates.
 
 ### Data Formats
 

@@ -1,8 +1,7 @@
-order:
+nav:
    - index.md
    - Browse
    - Read
    - Full Book
    - Bestiary
-   - Adventures
    - preferences.md

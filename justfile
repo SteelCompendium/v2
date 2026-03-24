@@ -53,10 +53,7 @@ update push="true":
             cp -R "$staging/Bestiary" "${v2_dir}/docs/Bestiary"
         fi
 
-        # Adventures
-        if [ -d "$staging/Adventures" ]; then
-            cp -R "$staging/Adventures" "${v2_dir}/docs/Adventures"
-        fi
+        # Adventures (skipped -- no adventures planned for release)
 
         # --- Fix index links ---
         echo >&2 "[INFO] Fixing index links..."
@@ -87,9 +84,10 @@ update push="true":
         done
         echo >&2 "[INFO] Search exclusion applied."
 
-        # --- Add .nav.yml for Browse and Read sections ---
+        # --- Add .nav.yml for tab title overrides and sorting ---
         printf '%s\n' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Browse/.nav.yml"
-        printf '%s\n' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Read/.nav.yml"
+        printf '%s\n' 'title: Rulebook Chapters' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Read/.nav.yml"
+        printf '%s\n' 'title: Full Rulebook' > "${v2_dir}/docs/Full Book/.nav.yml"
 
         # Move static content overrides over (these take precedence)
         cp -R "${v2_dir}/static_content/docs" "${v2_dir}"
