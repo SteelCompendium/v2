@@ -10,3 +10,37 @@ th:empty {
 
 /* Keeps preferences from getting funky */
 .width-prefs { position: sticky; top: 4rem; padding: .5rem; background: var(--md-default-bg-color); z-index: 3; }
+
+/* Browse index: multi-column link grid */
+.browse-index ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14em, 1fr));
+    gap: 0.4em 1.5em;
+}
+
+.browse-index li {
+    margin: 0;
+    padding: 0.4em 0.6em;
+    border-radius: 0.3em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.browse-index li:hover {
+    background: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
+
+.browse-index li a {
+    display: block;
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+    font-weight: 500;
+}
+
+.browse-index li a:hover {
+    color: var(--md-accent-fg-color);
+}
