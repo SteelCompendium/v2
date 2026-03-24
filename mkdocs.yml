@@ -1,0 +1,81 @@
+site_name: "Steel Compendium: Draw Steel Rules"
+site_url: https://steelcompendium.io/v2/
+
+copyright: The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
+
+theme:
+   name: "material"
+   palette:
+   # dark mode
+   - media: "(prefers-color-scheme: dark)"
+     scheme: slate
+     primary: black
+     accent: blue
+     toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+   # Light mode
+   - media: "(prefers-color-scheme: light)"
+     scheme: default
+     primary: blue grey
+     accent: blue
+     toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+   logo: Media/favicon.ico
+   favicon: Media/favicon.ico
+   custom_dir: overrides
+
+   features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.top
+      - search.suggest
+      - search.highlight
+
+# Extensions
+markdown_extensions:
+   - footnotes
+   - pymdownx.arithmatex:
+        generic: true
+   - pymdownx.tasklist:
+        custom_checkbox: true
+   - def_list
+   - pymdownx.critic
+   - pymdownx.caret
+   - pymdownx.keys
+   - pymdownx.mark
+   - pymdownx.tilde
+   - pymdownx.superfences:
+        custom_fences:
+           - name: mermaid
+             class: mermaid
+             format: !!python/name:pymdownx.superfences.fence_code_format
+   - toc:
+        permalink: true
+        toc_depth: 1-8
+
+extra:
+   homepage: https://steelcompendium.io/v2
+   analytics:
+      provider: google
+      property: G-PMF9SHHXNY
+
+plugins:
+   - search
+   - roamlinks
+   - awesome-nav
+
+extra_css:
+   - stylesheets/extra.css
+   - stylesheets/custom_font.css
+
+extra_javascript:
+   - https://polyfill.io/v3/polyfill.min.js?features=es6
+   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+   - https://unpkg.com/mermaid/dist/mermaid.min.js
+   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+   - javascripts/tablesort.js
+   - javascripts/preferences.js
