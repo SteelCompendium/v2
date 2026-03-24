@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": [
+    "python3@latest",
+    "github-cli@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "if [ ! -d .venv ]; then python3 -m venv .venv; fi",
+      ". .venv/bin/activate",
+      "pip install -q mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav"
+    ],
+    "scripts": {
+      "serve": [
+        ". .venv/bin/activate && mkdocs serve"
+      ],
+      "build": [
+        ". .venv/bin/activate && mkdocs build"
+      ],
+      "update": [
+        "just update push=false"
+      ]
+    }
+  }
+}

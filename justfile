@@ -87,19 +87,9 @@ update push="true":
         done
         echo >&2 "[INFO] Search exclusion applied."
 
-        # --- Add .nav.yml for Browse section ---
-        cat > "${v2_dir}/docs/Browse/.nav.yml" << 'NAVEOF'
-sort:
-  type: natural
-  by: title
-NAVEOF
-
-        # --- Add .nav.yml for Read section ---
-        cat > "${v2_dir}/docs/Read/.nav.yml" << 'NAVEOF'
-sort:
-  type: natural
-  by: title
-NAVEOF
+        # --- Add .nav.yml for Browse and Read sections ---
+        printf '%s\n' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Browse/.nav.yml"
+        printf '%s\n' 'sort:' '  type: natural' '  by: title' > "${v2_dir}/docs/Read/.nav.yml"
 
         # Move static content overrides over (these take precedence)
         cp -R "${v2_dir}/static_content/docs" "${v2_dir}"
