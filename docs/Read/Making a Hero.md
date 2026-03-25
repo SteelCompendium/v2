@@ -79,7 +79,7 @@ Choose your hero's humanoid ancestry from among the range of [ancestries](../Cha
 
 #### 3. Culture
 
-Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
+Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](../Chapters/Background) for more information.
 
 <!-- -->
 > **Choosing Skills**
@@ -91,7 +91,7 @@ Choose or create your hero's culture. Although ancestry gives your hero any numb
 
 #### 4. Career
 
-Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in Chapter 4: Background for more information.
+Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in [Chapter 4: Background](../Chapters/Background) for more information.
 
 <!-- -->
 > **I Speak Their Language**
@@ -108,11 +108,11 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 #### 7. Add Free Strikes
 
-A free strike is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? Free strike! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your free strikes are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike)! Every hero has a melee weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) and a ranged weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make free strikes on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../../Browse/Ancestries/Wode%20Elf) master archer can stab a too-close enemy with a dagger as a free strike, and a greataxe-wielding [orc](../../Browse/Ancestries/Orc) [fury](../../Browse/Classes/Fury) can use a free strike to hurl a handaxe at a [flying](../../Browse/Movement/Fly) enemy staying annoyingly out of melee range.
+You can also make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../../Browse/Ancestries/Wode%20Elf) master archer can stab a too-close enemy with a dagger as a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), and a greataxe-wielding [orc](../../Browse/Ancestries/Orc) [fury](../../Browse/Classes/Fury) can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) to hurl a handaxe at a [flying](../../Browse/Movement/Fly) enemy staying annoyingly out of melee range.
 
-See Free Strikes in Chapter 10: Combat for more information on using free strikes, and see Abilities in Chapter 5: [Classes](../Chapters/Classes) for information on the ability format and how to read it.
+See [Free Strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in Chapter 10: Combat for more information on using [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), and see Abilities in Chapter 5: [Classes](../Chapters/Classes) for information on the ability format and how to read it.
 
 ###### Melee Weapon Free Strike
 

@@ -37,6 +37,6 @@ type: feature/ability/conduit/2nd-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 2 lightning damage; vertical slide 1
-- **12-16:** 5 lightning damage; vertical slide 2
-- **17+:** 7 lightning damage; vertical slide 3
+- **≤11:** 2 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 1
+- **12-16:** 5 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 2
+- **17+:** 7 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 3

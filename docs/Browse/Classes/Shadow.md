@@ -517,7 +517,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../Browse/Movement/Teleport), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../Browse/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../Browse/Movement/Teleport), you can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../Browse/Movement/Teleport), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -576,7 +576,7 @@ Choose one of the following abilities.
 > - **12-16:** Slide 5
 > - **17+:** Slide 7
 >
-> **Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+> **Effect:** This forced movement ignores [stability](../../../Browse/Movement/Stability). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
 <!-- -->
 > ###### So Gullible (5 Insight)
@@ -589,7 +589,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../Browse/Movement/Teleport) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../Browse/Movement/Teleport) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
@@ -762,7 +762,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 > | --------------- | -------------: |
 > | **📏 3 burst**  | **🎯 Special** |
 >
-> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.
 
 <!-- -->
 > ###### Into the Shadows (9 Insight)
@@ -854,9 +854,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; vertical push 5
-> - **12-16:** 6 + A damage; vertical push 10
-> - **17+:** 9 + A damage; vertical push 15
+> - **≤11:** 3 + A damage; [vertical](../../../Browse/Movement/Vertical) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../Browse/Movement/Vertical) push 10
+> - **17+:** 9 + A damage; [vertical](../../../Browse/Movement/Vertical) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 
@@ -933,11 +933,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
 ### 7th-Level Features
 
@@ -1078,7 +1078,7 @@ As a 9th-level [shadow](../../../Browse/Classes/Shadow), you gain the following 
 
 #### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the Careful Observation ability, the Umbral Form feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the Careful Observation ability, the Umbral Form feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). While making a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -1156,9 +1156,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A fire damage; vertical push 8
-> - **12-16:** 7 + A fire damage; vertical push 10
-> - **17+:** 11 + A fire damage; vertical push 15
+> - **≤11:** 4 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 8
+> - **12-16:** 7 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 10
+> - **17+:** 11 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 15
 >
 > **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
 

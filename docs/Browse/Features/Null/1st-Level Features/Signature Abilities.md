@@ -112,9 +112,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 5 + A psychic damage; vertical pull 1
-> - **12-16:** 8 + A psychic damage; vertical pull 2
-> - **17+:** 11 + A psychic damage; vertical pull 3
+> - **≤11:** 5 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 1
+> - **12-16:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 2
+> - **17+:** 11 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 3
 
 <!-- -->
 > ###### Phase Inversion Strike

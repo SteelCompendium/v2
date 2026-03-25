@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; vertical push 2
-> - **12-16:** 6 damage; vertical push 4
-> - **17+:** 9 damage; vertical push 6
+> - **≤11:** 3 damage; [vertical](../../../../../Browse/Movement/Vertical) push 2
+> - **12-16:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical) push 4
+> - **17+:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical) push 6
 >
 > **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../../Browse/Conditions/Weakened) until the end of your turn.
 

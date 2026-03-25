@@ -127,7 +127,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a free strike against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.
 >
 > **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../Browse/Conditions/Slowed) (EoT).
 
@@ -155,7 +155,7 @@ If both kits grant you the same benefit, you take one or the other and can't cha
 For example, if you take the [Shining Armor](../../../../Browse/Kits/Shining%20Armor) and [Sniper](../../../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
-- Stability Bonus: +1
+- [Stability](../../../../Browse/Movement/Stability) Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
@@ -329,7 +329,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 Three allies** |
 >
-> **Effect:** Each target can make a free strike.
+> **Effect:** Each target can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### This Is What We Planned For (5 Focus)

@@ -851,7 +851,7 @@ Only a handful of those who dwell on Orden have ever heard of these figures, or 
 
 #### Lords of Law and Chaos
 
-The Space Gods do not concern themselves overmuch with what [humans](../../Browse/Ancestries/Human) call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs stability, predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
+The Space Gods do not concern themselves overmuch with what [humans](../../Browse/Ancestries/Human) call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs [stability](../../Browse/Movement/Stability), predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
 
 #### Heralds of the Space Gods
 

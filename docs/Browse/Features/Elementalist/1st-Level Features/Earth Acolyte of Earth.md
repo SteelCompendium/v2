@@ -19,4 +19,4 @@ type: feature/trait/elementalist/1st-level-feature
 
 ##### Earth: Acolyte of Earth
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../../../../Browse/Movement/Stability) increases by 1 until the start of your next turn. This benefit is cumulative.

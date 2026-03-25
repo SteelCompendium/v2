@@ -18,9 +18,9 @@ A creature who has "burrow" in their speed entry, or who gains the temporary abi
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../../Browse/Movement/Dig%20Maneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](../../../Browse/Movement/Burrow) creature has a creature who is not unconscious [grabbed](../../../Browse/Conditions/Grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](../../../Browse/Movement/Dig%20Maneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../../Browse/Movement/Burrow) creature has a creature who is not unconscious [grabbed](../../../Browse/Conditions/Grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
@@ -52,4 +52,4 @@ If a creature who can't [burrow](../../../Browse/Movement/Burrow) wants to dig i
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while [burrowing](../../../Browse/Movement/Burrow) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](../../../Browse/Movement/Burrow) is force moved by movement that isn't [vertical](../../../Browse/Movement/Vertical), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](../../../Browse/Movement/Vertical), the creature is moved through the dirt as if it were air.

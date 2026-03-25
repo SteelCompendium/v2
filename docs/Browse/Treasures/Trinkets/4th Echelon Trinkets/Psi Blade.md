@@ -28,4 +28,4 @@ type: treasure/trinkets/4th-echelon
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals an extra 3 psychic damage.

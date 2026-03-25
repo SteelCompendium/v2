@@ -18,4 +18,4 @@ type: feature/trait/tactician/4th-level-feature
 
 #### Improved Field Arsenal
 
-Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you gain an edge.
+Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) using a weapon from one of your equipped kits, you gain an edge.

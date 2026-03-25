@@ -32,6 +32,6 @@ type: feature/ability/tactician/1st-level-feature
 
 **Trigger:** The target moves.
 
-**Effect:** At any time during the target's movement, one ally can make a free strike against them.
+**Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.
 
 **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../../Browse/Conditions/Slowed) (EoT).

@@ -22,7 +22,7 @@ type: title/2nd-echelon
 **Effect:** Choose one of the following benefits:
 
 - *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../../../../Browse/Conditions/Prone) creatures. Additionally, being [prone](../../../../Browse/Conditions/Prone) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../../../Browse/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../../../Browse/Conditions/Grabbed) enemy take the strike's damage.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../../../Browse/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Both the target and the [grabbed](../../../../Browse/Conditions/Grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 

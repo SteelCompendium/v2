@@ -41,4 +41,4 @@ type: feature/ability/talent/1st-level-feature
 - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
 - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their stability.
+**Effect:** You can [vertical](../../../../../Browse/Movement/Vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their [stability](../../../../../Browse/Movement/Stability).

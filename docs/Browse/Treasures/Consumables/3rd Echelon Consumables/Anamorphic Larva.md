@@ -28,6 +28,6 @@ type: treasure/consumable/3rd-echelon
 
 **Project Goal:** 180
 
-**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with stability 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with [stability](../../../../../Browse/Movement/Stability) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
 
 At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their Intuition score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.

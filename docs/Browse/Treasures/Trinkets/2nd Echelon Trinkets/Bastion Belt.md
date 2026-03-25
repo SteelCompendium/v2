@@ -28,4 +28,4 @@ type: treasure/trinkets/2nd-echelon
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to Stability. This Stamina bonus adds to the Stamina bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to [Stability](../../../../../Browse/Movement/Stability). This Stamina bonus adds to the Stamina bonus granted by other treasures.

@@ -29,7 +29,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+> **Effect:** Each target can make a ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). A target ignores banes and double banes when making this strike.
 
 <!-- -->
 > ###### Counterstrategy (11 Focus)

@@ -32,7 +32,7 @@ Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Fe
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../Browse/Conditions/Grabbed).
 
-Additionally, you have a bonus to stability equal to your Might score.
+Additionally, you have a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Might score.
 
 ##### Nature's Knight
 
@@ -90,4 +90,4 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.

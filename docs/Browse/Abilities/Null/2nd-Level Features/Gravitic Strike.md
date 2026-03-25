@@ -38,6 +38,6 @@ type: feature/ability/null/2nd-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 8 + A psychic damage; vertical pull 3
-- **12-16:** 12 + A psychic damage; vertical pull 5
-- **17+:** 16 + A psychic damage; vertical pull 7
+- **≤11:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 3
+- **12-16:** 12 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 5
+- **17+:** 16 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 7

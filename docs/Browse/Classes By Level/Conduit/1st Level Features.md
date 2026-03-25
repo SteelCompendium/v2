@@ -77,7 +77,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Love Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) maneuver or an ability that targets an ally.
 - **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
@@ -102,7 +102,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) or Hide maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../Browse/Classes/Conduit) level.
 
 ###### War Domain Piety and Effect
@@ -246,7 +246,7 @@ You have the following ability, which you can use once on your turn.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Ray of Wrath
@@ -313,7 +313,7 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
@@ -323,7 +323,7 @@ Your god blesses your flesh and infuses it with divine quickness. You gain a +1 
 
 ##### Prayer of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../Browse/Movement/Stability).
 
 #### Conduit Ward
 
@@ -398,9 +398,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; vertical pull 2
-> - **12-16:** 5 + I holy damage; vertical pull 3
-> - **17+:** 8 + I holy damage; vertical pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../../../Browse/Movement/Vertical) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../../../Browse/Movement/Vertical) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../../../Browse/Movement/Vertical) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -506,7 +506,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring stability.
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../Browse/Movement/Stability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)

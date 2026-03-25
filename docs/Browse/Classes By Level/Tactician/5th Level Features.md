@@ -50,7 +50,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee free strike.
+When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### 9-Focus Ability
 

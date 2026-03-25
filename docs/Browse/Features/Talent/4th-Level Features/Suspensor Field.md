@@ -18,6 +18,6 @@ type: feature/trait/talent/4th-level-feature
 
 #### Suspensor Field
 
-You can [fly](../../../../../Browse/Movement/Fly). While [flying](../../../../../Browse/Movement/Fly), your stability is reduced to 0 and can't be increased. If you can already [fly](../../../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly) instead.
+You can [fly](../../../../../Browse/Movement/Fly). While [flying](../../../../../Browse/Movement/Fly), your [stability](../../../../../Browse/Movement/Stability) is reduced to 0 and can't be increased. If you can already [fly](../../../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly) instead.
 
 If you are strained while [flying](../../../../../Browse/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.

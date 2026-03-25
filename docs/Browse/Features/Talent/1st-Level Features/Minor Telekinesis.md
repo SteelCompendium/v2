@@ -33,4 +33,4 @@ You have the following ability.
 >
 > **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 >
-> **Spend 3 Clarity:** You can vertical slide the target.
+> **Spend 3 Clarity:** You can [vertical](../../../../../Browse/Movement/Vertical) slide the target.

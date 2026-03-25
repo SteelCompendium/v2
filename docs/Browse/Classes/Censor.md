@@ -123,7 +123,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 >
 > Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 >
-> - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 > - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../Browse/Conditions/Taunted) by you until the end of their next turn.
@@ -136,7 +136,7 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 - **Exorcist:** You can [teleport](../../../Browse/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
+- **Paragon:** You can [vertical](../../../Browse/Movement/Vertical) pull the judged creature up to a number of squares equal to twice your Presence score.
 
 #### Kit
 
@@ -1221,7 +1221,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 > - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 > - **17+:** 12 + P damage; I < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a different creature must make the [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the target instead.
 
 ### 9th-Level Features
 

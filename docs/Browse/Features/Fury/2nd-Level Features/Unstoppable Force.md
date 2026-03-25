@@ -19,4 +19,4 @@ type: feature/trait/fury/2nd-level-feature
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](../../../../../Browse/Movement/Jump) as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../../../../Browse/Movement/Jump) as part of your charge.

@@ -42,4 +42,4 @@ type: feature/ability/talent/2nd-level-feature
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) until the end of the target's next turn.

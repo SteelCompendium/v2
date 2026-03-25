@@ -84,7 +84,7 @@ Your primordial damage type is cold.
 ##### Kit Bonuses
 
 - **Stamina Bonus:** +9 per echelon
-- **Stability Bonus:** +2
+- **[Stability](../../../../Browse/Movement/Stability) Bonus:** +2
 - **Melee Damage Bonus:** +0/+0/+4
 
 ##### Signature Ability
@@ -113,9 +113,9 @@ As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | You can have up to two creatures [grabbed](../../../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../../../Browse/Conditions/Grabbed), you gain 1 surge.             |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                               |
+| 6               | You gain an edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                   |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                         |
+| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
@@ -169,14 +169,14 @@ As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocit
 
 ###### Corven Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                 |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                             |
-| 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                               |
-| 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                    |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+| Ferocity        | Benefit                                                                                                                                                                                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                                                                                                                          |
+| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                      |
+| 6               | You gain an edge on Agility tests, the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver, and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.       |
+| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                        |
+| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver, and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                          |
 
 #### Raden
 
@@ -229,14 +229,14 @@ As your ferocity grows, you gain benefits as noted on the Raden Growing Ferocity
 
 ###### Raden Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                 |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                             |
-| 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                               |
-| 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver                                                     |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+| Ferocity        | Benefit                                                                                                                                                                                                                                                   |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                                                                                                                         |
+| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                     |
+| 6               | You gain an edge on Agility tests, the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver, and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.      |
+| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                       |
+| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver, and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                         |
 
 #### Vuken
 
@@ -244,7 +244,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Aspect Benefits
 
-Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
+Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can then use the [Aid Attack](../../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) maneuver as a free triggered action.
 
 ##### Animal Form: Wolf
 
@@ -289,9 +289,9 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can target one additional creature.                                                                     |
 | 4               | The first time on a turn that you push a creature or knock a creature [prone](../../../../Browse/Conditions/Prone), you gain 1 surge.                                                                           |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
+| 6               | You gain an edge on Agility tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                        |
 | 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](../../../../Browse/Conditions/Prone), you gain 2 surges.                                                                          |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
+| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                  |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |

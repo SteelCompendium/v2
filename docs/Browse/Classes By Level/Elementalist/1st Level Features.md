@@ -32,7 +32,7 @@ You choose an elemental specialization from the following options: earth, fire, 
 
 ##### Earth: Acolyte of Earth
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../../../Browse/Movement/Stability) increases by 1 until the start of your next turn. This benefit is cumulative.
 
 ##### Fire: Acolyte of Fire
 
@@ -68,7 +68,7 @@ When you use an ability outside of combat that lets you spend unlimited essence 
 
 #### Hurl Element
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Hurl Element
@@ -112,7 +112,7 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
+> - You use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You [teleport](../../../../Browse/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../../../../Browse/Movement/Teleport) 1 additional square for each essence spent.
 
@@ -263,7 +263,7 @@ You weave an elemental enchantment into your body that enhances your statistics.
 
 ##### Enchantment of Battle
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this enchantment.
 
@@ -281,7 +281,7 @@ You have a +2 bonus to the distance of your ranged magic abilities.
 
 ##### Enchantment of Permanence
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../Browse/Movement/Stability).
 
 #### Elementalist Ward
 

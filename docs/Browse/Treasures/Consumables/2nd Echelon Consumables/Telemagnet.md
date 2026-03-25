@@ -30,8 +30,8 @@ type: treasure/consumable/2nd-echelon
 
 **Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of size 3 or less a number of squares based on that target's size:
 
-- **Size 1L or smaller:** vertical pull 6
-- **Size 2:** vertical pull 3
-- **Size 3:** vertical pull 1
+- **Size 1L or smaller:** [vertical](../../../../../Browse/Movement/Vertical) pull 6
+- **Size 2:** [vertical](../../../../../Browse/Movement/Vertical) pull 3
+- **Size 3:** [vertical](../../../../../Browse/Movement/Vertical) pull 1
 
 If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.

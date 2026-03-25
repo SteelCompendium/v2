@@ -105,7 +105,7 @@ When you use an ability outside of combat that lets you spend unlimited clarity 
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Mind Spike
@@ -130,13 +130,13 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability).
 
 ##### Distance Augmentation
 
@@ -172,7 +172,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: Background). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../Chapters/Background)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -254,7 +254,7 @@ You have the following ability.
 >
 > **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 >
-> **Spend 3 Clarity:** You can vertical slide the target.
+> **Spend 3 Clarity:** You can [vertical](../../../Browse/Movement/Vertical) slide the target.
 
 ##### Remote Assistance
 
@@ -368,7 +368,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** Slide 4 + R
 > - **17+:** Slide 6 + R; [prone](../../../Browse/Conditions/Prone)
 >
-> **Strained:** You must vertical push the target instead of sliding them.
+> **Strained:** You must [vertical](../../../Browse/Movement/Vertical) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse
@@ -484,7 +484,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 > - **17+:** 8 + R damage; M < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their stability.
+> **Effect:** You can [vertical](../../../Browse/Movement/Vertical) pull the target up to 2 squares. If the target is made [restrained](../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their [stability](../../../Browse/Movement/Stability).
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -495,7 +495,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)
@@ -540,7 +540,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | -------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 >
-> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../Browse/Movement/Stability). A creature can only be force moved this way once a turn.
 >
 > **Strained:** You are [weakened](../../../Browse/Conditions/Weakened) (save ends). While you are [weakened](../../../Browse/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
@@ -553,7 +553,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target's stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.
+> **Effect:** The target's [stability](../../../Browse/Movement/Stability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../Browse/Movement/Stability) increase lasts until the target no longer has temporary Stamina from this ability.
 >
 > **Strained:** You can't use maneuvers (save ends).
 
@@ -663,9 +663,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; vertical push 2
-> - **12-16:** 6 damage; vertical push 4
-> - **17+:** 9 damage; vertical push 6
+> - **≤11:** 3 damage; [vertical](../../../Browse/Movement/Vertical) push 2
+> - **12-16:** 6 damage; [vertical](../../../Browse/Movement/Vertical) push 4
+> - **17+:** 9 damage; [vertical](../../../Browse/Movement/Vertical) push 6
 >
 > **Strained:** The size of the burst increases by 1, and you are [weakened](../../../Browse/Conditions/Weakened) until the end of your turn.
 
@@ -705,7 +705,7 @@ Choose one of the following abilities.
 > - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../Browse/Conditions/Weakened) (save ends)
 > - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -718,7 +718,7 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a free strike against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >
@@ -840,7 +840,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](../../../Browse/Movement/Fly). While [flying](../../../Browse/Movement/Fly), your stability is reduced to 0 and can't be increased. If you can already [fly](../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../Browse/Movement/Fly) instead.
+You can [fly](../../../Browse/Movement/Fly). While [flying](../../../Browse/Movement/Fly), your [stability](../../../Browse/Movement/Stability) is reduced to 0 and can't be increased. If you can already [fly](../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../Browse/Movement/Fly) instead.
 
 If you are strained while [flying](../../../Browse/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.
 
@@ -1061,9 +1061,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 damage; vertical pull 5 toward the center of the area
-> - **12-16:** 9 damage; vertical pull 7 toward the center of the area
-> - **17+:** 13 damage; vertical pull 10 toward the center of the area
+> - **≤11:** 6 damage; [vertical](../../../Browse/Movement/Vertical) pull 5 toward the center of the area
+> - **12-16:** 9 damage; [vertical](../../../Browse/Movement/Vertical) pull 7 toward the center of the area
+> - **17+:** 13 damage; [vertical](../../../Browse/Movement/Vertical) pull 10 toward the center of the area
 >
 > **Effect:** Targets closest to the center of the area are pulled first.
 >
@@ -1080,11 +1080,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
-> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-> - **17+:** Slide 12 + R; [prone](../../../Browse/Conditions/Prone); M < STRONG, the forced movement is vertical
+> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../Browse/Movement/Vertical)
+> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../Browse/Movement/Vertical)
+> - **17+:** Slide 12 + R; [prone](../../../Browse/Conditions/Prone); M < STRONG, the forced movement is [vertical](../../../Browse/Movement/Vertical)
 >
-> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](../../../Browse/Conditions/Weakened) (save ends).
+> **Strained:** The forced movement ignores [stability](../../../Browse/Movement/Stability). You take 2d6 damage and are [weakened](../../../Browse/Conditions/Weakened) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 
@@ -1187,7 +1187,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](../../../Browse/Movement/Fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../../Browse/Movement/Fly), a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../../../Browse/Movement/Fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../../Browse/Movement/Fly), a target's [stability](../../../Browse/Movement/Stability) is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -1359,7 +1359,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../Browse/Movement/Vertical) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >

@@ -67,7 +67,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and [stability](../../../../Browse/Movement/Stability) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
+> **Effect:** You and the target each make a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets and which enemies the target creature's [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets. You then slide the target 5 squares, ignoring [stability](../../../../Browse/Movement/Stability).
 
 ##### 6th-Level Virtuoso Abilities
 

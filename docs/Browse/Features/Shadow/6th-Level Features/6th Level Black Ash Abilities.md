@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; vertical push 5
-> - **12-16:** 6 + A damage; vertical push 10
-> - **17+:** 9 + A damage; vertical push 15
+> - **≤11:** 3 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 10
+> - **17+:** 9 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 

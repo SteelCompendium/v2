@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Hurl Element
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Hurl Element

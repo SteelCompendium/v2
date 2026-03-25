@@ -22,4 +22,4 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 - **Exorcist:** You can [teleport](../../../../../Browse/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
+- **Paragon:** You can [vertical](../../../../../Browse/Movement/Vertical) pull the judged creature up to a number of squares equal to twice your Presence score.

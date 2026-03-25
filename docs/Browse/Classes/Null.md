@@ -148,14 +148,14 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 
 ###### Chronokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                     |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.                                              |
-| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| Discipline      | Benefit                                                                                                                                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver. |
+| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                |
+| 6               | You gain an edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                          |
+| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                               |
+| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                    |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                |
 
 ##### Cryokinetic Mastery
 
@@ -165,31 +165,31 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 ###### Cryokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                              |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.    |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../Browse/Classes/Null) Field ability, you gain 1 surge.  |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../Browse/Classes/Null) Field ability, you gain 2 surges. |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                          |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.          |
+| Discipline      | Benefit                                                                                                                                                                                                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../Browse/Classes/Null) Field ability, you gain 1 surge.                                                                           |
+| 6               | You gain an edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../Browse/Classes/Null) Field ability, you gain 2 surges.                                                                          |
+| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                       |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
 
-Whenever you use your Inertial Shield ability, you can then use the Knockback maneuver as a free triggered action.
+Whenever you use your Inertial Shield ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the Metakinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                     |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Intuition score.                                                                          |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                  |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                 |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| Discipline      | Benefit                                                                                                                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, the forced movement distance gains a bonus equal to your Intuition score. |
+| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                     |
+| 6               | You gain an edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                              |
+| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                    |
+| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                        |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.    |
 
 #### Null Speed
 
@@ -201,7 +201,7 @@ Your training has turned your body into the perfect psionic weapon, shaping path
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability).
 
 ##### Force Augmentation
 
@@ -213,7 +213,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Psionic Martial Arts
 
-Whenever you use the Knockback or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the Knockback maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities
 
@@ -315,9 +315,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 5 + A psychic damage; vertical pull 1
-> - **12-16:** 8 + A psychic damage; vertical pull 2
-> - **17+:** 11 + A psychic damage; vertical pull 3
+> - **≤11:** 5 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 1
+> - **12-16:** 8 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 2
+> - **17+:** 11 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 3
 
 <!-- -->
 > ###### Phase Inversion Strike
@@ -374,7 +374,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -472,7 +472,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](../../../Browse/Conditions/Slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](../../../Browse/Conditions/Slowed), has their [stability](../../../Browse/Movement/Stability) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -604,9 +604,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A psychic damage; vertical pull 3
-> - **12-16:** 12 + A psychic damage; vertical pull 5
-> - **17+:** 16 + A psychic damage; vertical pull 7
+> - **≤11:** 8 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 3
+> - **12-16:** 12 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 5
+> - **17+:** 16 + A psychic damage; [vertical](../../../Browse/Movement/Vertical) pull 7
 
 <!-- -->
 > ###### Kinetic Shield (5 Discipline)
@@ -779,7 +779,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed)
 > - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed)
 >
-> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -870,9 +870,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** Vertical slide 6
-> - **12-16:** Vertical slide 8
-> - **17+:** Vertical slide 10
+> - **≤11:** [Vertical](../../../Browse/Movement/Vertical) slide 6
+> - **12-16:** [Vertical](../../../Browse/Movement/Vertical) slide 8
+> - **17+:** [Vertical](../../../Browse/Movement/Vertical) slide 10
 >
 > **Effect:** The pillars vanish as soon as the effects of the forced movement are resolved.
 
@@ -902,11 +902,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** Vertical slide 5
-> - **12-16:** Vertical slide 7
-> - **17+:** Vertical slide 9
+> - **≤11:** [Vertical](../../../Browse/Movement/Vertical) slide 5
+> - **12-16:** [Vertical](../../../Browse/Movement/Vertical) slide 7
+> - **17+:** [Vertical](../../../Browse/Movement/Vertical) slide 9
 >
-> **Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+> **Effect:** This movement ignores [stability](../../../Browse/Movement/Stability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
 
 <!-- -->
 > ###### Iron Body (9 Discipline)
@@ -917,7 +917,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../Browse/Movement/Stability) gains a bonus equal to your Intuition score.
 
 ### 7th-Level Features
 
@@ -993,7 +993,7 @@ Your [null](../../../Browse/Classes/Null) tradition grants you a feature, as sho
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](../../../Browse/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](../../../Browse/Classes/Null) Field ability gain a bonus to [stability](../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 

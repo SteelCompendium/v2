@@ -14,7 +14,7 @@ type: movement
 
 ##### Climb or Swim
 
-A creature who has "[climb](../../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../../Browse/Movement/Climb%20or%20Swim), can [climb](../../../Browse/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../../Browse/Movement/Climb%20or%20Swim), can [swim](../../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
+A creature who has "[climb](../../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../../Browse/Movement/Climb%20or%20Swim), can [climb](../../../Browse/Movement/Climb%20or%20Swim) across [vertical](../../../Browse/Movement/Vertical) and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../../Browse/Movement/Climb%20or%20Swim), can [swim](../../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
 
 Creatures without those types of movement can still [climb](../../../Browse/Movement/Climb%20or%20Swim) or [swim](../../../Browse/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of [climbing](../../../Browse/Movement/Climb%20or%20Swim) or [swimming](../../../Browse/Movement/Climb%20or%20Swim) costs 2 squares of movement. If a surface is difficult to [climb](../../../Browse/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../../../Browse/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../../../Browse/Movement/Climb%20or%20Swim) or [swim](../../../Browse/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
@@ -24,7 +24,7 @@ You can attempt to [climb](../../../Browse/Movement/Climb%20or%20Swim) a creatur
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **≤11:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you.
 - **12-16:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 - **17+:** You [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 

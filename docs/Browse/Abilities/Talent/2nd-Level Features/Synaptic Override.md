@@ -37,7 +37,7 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** The target makes a free strike against one enemy of your choice.
+- **≤11:** The target makes a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 

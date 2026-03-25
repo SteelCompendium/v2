@@ -142,7 +142,7 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ##### Grounded (1 Point)
 
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](../../../Browse/Movement/Stability).
 
 ##### Spark Off Your Skin (2 Points)
 

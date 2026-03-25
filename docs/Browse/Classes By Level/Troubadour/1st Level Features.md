@@ -269,7 +269,7 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a free strike against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the creature who made the triggering strike.
 
 <!-- -->
 > ###### Turnabout Is Fair Play
@@ -455,9 +455,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a free strike.
-> - **12-16:** The target can shift up to 2 squares and make a free strike that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)

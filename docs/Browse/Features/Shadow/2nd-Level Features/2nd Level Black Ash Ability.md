@@ -46,4 +46,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../../Browse/Movement/Teleport), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../../Browse/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../../Browse/Movement/Teleport), you can spend a Recovery.

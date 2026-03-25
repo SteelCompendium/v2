@@ -56,9 +56,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 damage; vertical pull 3
-> - **12-16:** 5 damage; vertical pull 5
-> - **17+:** 8 damage; vertical pull 7
+> - **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical) pull 3
+> - **12-16:** 5 damage; [vertical](../../../../Browse/Movement/Vertical) pull 5
+> - **17+:** 8 damage; [vertical](../../../../Browse/Movement/Vertical) pull 7
 >
 > **Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 

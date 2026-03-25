@@ -36,5 +36,5 @@ type: feature/ability/troubadour/8th-level-feature
 
 - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 - The target has damage immunity equal to your Presence score.
-- The target has a bonus to stability and a penalty to speed equal to your Presence score.
-- The target has a bonus to speed and a penalty to stability equal to your Presence score.
+- The target has a bonus to [stability](../../../../../Browse/Movement/Stability) and a penalty to speed equal to your Presence score.
+- The target has a bonus to speed and a penalty to [stability](../../../../../Browse/Movement/Stability) equal to your Presence score.

@@ -34,4 +34,4 @@ type: feature/ability/troubadour/6th-level-feature
 | --------------- | ---------------------------: |
 | **📏 5 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and [stability](../../../../../Browse/Movement/Stability) bonus of your currently equipped kit in addition to their own kit's bonuses.

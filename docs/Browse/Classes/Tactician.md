@@ -175,7 +175,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a free strike against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.
 >
 > **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../Browse/Conditions/Slowed) (EoT).
 
@@ -203,7 +203,7 @@ If both kits grant you the same benefit, you take one or the other and can't cha
 For example, if you take the [Shining Armor](../../../Browse/Kits/Shining%20Armor) and [Sniper](../../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
-- Stability Bonus: +1
+- [Stability](../../../Browse/Movement/Stability) Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
@@ -377,7 +377,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 Three allies** |
 >
-> **Effect:** Each target can make a free strike.
+> **Effect:** Each target can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### This Is What We Planned For (5 Focus)
@@ -422,7 +422,7 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can use a free triggered action and spend 2 focus to make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against that creature.
 
 #### 2nd-Level Doctrine Ability
 
@@ -441,9 +441,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ###### Try Me Instead (5 Focus)
@@ -528,7 +528,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 1 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../Browse/Movement/Stability) equal to your Might score. Additionally, each target gains 2 surges.
 
 ### 3rd-Level Features
 
@@ -536,7 +536,7 @@ As a 3rd-level [tactician](../../../Browse/Classes/Tactician), you gain the foll
 
 #### Out of Position
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring [stability](../../../Browse/Movement/Stability). The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 #### 7-Focus Ability
 
@@ -551,7 +551,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
+> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Hit 'Em Hard! (7 Focus)
@@ -600,7 +600,7 @@ The first time each combat round that you or any ally damages a target marked by
 
 #### Improved Field Arsenal
 
-Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you gain an edge.
+Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) using a weapon from one of your equipped kits, you gain an edge.
 
 #### Perk
 
@@ -648,7 +648,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee free strike.
+When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### 9-Focus Ability
 
@@ -710,7 +710,7 @@ As a 6th-level [tactician](../../../Browse/Classes/Tactician), you gain the foll
 
 #### Master of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
 
 #### Perk
 
@@ -752,7 +752,7 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; slide 3
 > - **17+:** 13 + M damage; slide 5
 >
-> **Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
+> **Effect:** If a target is force moved into another creature, they must make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against that creature.
 
 ##### 6th-Level Mastermind Abilities
 
@@ -816,9 +816,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
-> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../Browse/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -966,7 +966,7 @@ As a 9th-level [tactician](../../../Browse/Classes/Tactician), you gain the foll
 
 #### Grandmaster of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
 
 #### 9th-Level Doctrine Ability
 
@@ -1017,7 +1017,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+> **Effect:** Each target can make a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). A target ignores banes and double banes when making this strike.
 
 <!-- -->
 > ###### Counterstrategy (11 Focus)
@@ -1070,7 +1070,7 @@ Choose one of the following abilities.
 > - **12-16:** 13 + M damage
 > - **17+:** 17 + M damage
 >
-> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against any target marked by you.
 
 ### 10th-Level Features
 

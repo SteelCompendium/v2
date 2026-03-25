@@ -35,6 +35,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** The target can shift 1 square and make a free strike.
-- **12-16:** The target can shift up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+- **≤11:** The target can shift 1 square and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+- **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge.
+- **17+:** The target can shift up to 3 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge, then can spend a Recovery.

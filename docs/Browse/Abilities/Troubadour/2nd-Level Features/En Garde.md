@@ -41,4 +41,4 @@ type: feature/ability/troubadour/2nd-level-feature
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+**Effect:** The target can make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you. If they do, you can make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the target.

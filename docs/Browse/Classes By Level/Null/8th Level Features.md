@@ -34,7 +34,7 @@ Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as 
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 

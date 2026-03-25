@@ -316,7 +316,7 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a tri
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a free strike against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the creature who made the triggering strike.
 
 <!-- -->
 > ###### Turnabout Is Fair Play
@@ -502,9 +502,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a free strike.
-> - **12-16:** The target can shift up to 2 squares and make a free strike that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)
@@ -600,7 +600,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 <!-- -->
 > ###### Twist at the End (5 Drama)
@@ -626,7 +626,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ###### En Garde! (5 Drama)
@@ -643,7 +643,7 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+> **Effect:** The target can make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you. If they do, you can make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 
@@ -742,9 +742,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability
-> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability
-> - **17+:** Slide 7; P < STRONG, this slide ignores the target's stability
+> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../Browse/Movement/Stability)
+> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../Browse/Movement/Stability)
+> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../Browse/Movement/Stability)
 >
 > **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
@@ -880,7 +880,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -1022,7 +1022,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and [stability](../../../Browse/Movement/Stability) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -1052,7 +1052,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
+> **Effect:** You and the target each make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets and which enemies the target creature's [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets. You then slide the target 5 squares, ignoring [stability](../../../Browse/Movement/Stability).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -1177,7 +1177,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../Browse/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../../Browse/Movement/Teleport) ally can then make a melee free strike.
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../Browse/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../../Browse/Movement/Teleport) ally can then make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -1203,8 +1203,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 >
 > - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 > - The target has damage immunity equal to your Presence score.
-> - The target has a bonus to stability and a penalty to speed equal to your Presence score.
-> - The target has a bonus to speed and a penalty to stability equal to your Presence score.
+> - The target has a bonus to [stability](../../../Browse/Movement/Stability) and a penalty to speed equal to your Presence score.
+> - The target has a bonus to speed and a penalty to [stability](../../../Browse/Movement/Stability) equal to your Presence score.
 
 <!-- -->
 > ###### The Show Must Go On (11 Drama)
@@ -1256,7 +1256,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -1343,7 +1343,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + P sonic damage; push 10
 > - **17+:** 22 + P sonic damage; push 15
 >
-> **Effect:** Forced movement from this ability ignores stability.
+> **Effect:** Forced movement from this ability ignores [stability](../../../Browse/Movement/Stability).
 
 ### 10th-Level Features
 

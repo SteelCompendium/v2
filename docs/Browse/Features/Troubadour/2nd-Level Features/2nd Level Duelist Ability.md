@@ -29,7 +29,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ###### En Garde! (5 Drama)
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+> **Effect:** The target can make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you. If they do, you can make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the target.

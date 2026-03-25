@@ -28,4 +28,4 @@ type: treasure/trinkets/1st-echelon
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee free strike as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as a free maneuver once during the fall before you hit the ground.

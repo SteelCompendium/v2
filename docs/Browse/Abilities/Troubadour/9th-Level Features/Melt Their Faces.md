@@ -42,4 +42,4 @@ type: feature/ability/troubadour/9th-level-feature
 - **12-16:** 16 + P sonic damage; push 10
 - **17+:** 22 + P sonic damage; push 15
 
-**Effect:** Forced movement from this ability ignores stability.
+**Effect:** Forced movement from this ability ignores [stability](../../../../../Browse/Movement/Stability).

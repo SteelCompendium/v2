@@ -88,7 +88,7 @@ Closely tied to the heroic keyword, the cinematic keyword is about how we like a
 
 When Sir Vanazor the [dragon knight](../../Browse/Ancestries/Dragon%20Knight) [fury](../../Browse/Classes/Fury) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
-You should imagine your [tactician](../../Browse/Classes/Tactician) character leading the battle, granting your allies free strikes, extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
+You should imagine your [tactician](../../Browse/Classes/Tactician) character leading the battle, granting your allies [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
 ### Fantasy
 
@@ -148,7 +148,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Aura:** When an ability or other effect creates an aura, that area is expressed as "X aura." The number X is the radius of the aura, which always originates from the creature or object who created it, extends from the outside of the creator's space, and moves with them.
 
-**Background:** A hero's culture and career.
+**[Background](../Chapters/Background):** A hero's culture and career.
 
 **Bane:** A situational disadvantage that gives a creature a −2 penalty to a power roll.
 
@@ -172,7 +172,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
-**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee free strike or use an ability with the Charge keyword against a target when they end their move.
+**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use an ability with the Charge keyword against a target when they end their move.
 
 **Ceiling:** Any solid surface above a creature.
 
@@ -260,7 +260,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Dwarf](../../Browse/Ancestries/Dwarf):** An ancestry with stone skin and short stature.
 
-**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../../Browse/Conditions/Bleeding) and they can't use the Catch Breath maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
+**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../../Browse/Conditions/Bleeding) and they can't use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
 
 **Echelon:** A grouping of heroic levels that informs players of the types of heroic deeds the heroes can achieve. There are four echelons of play: 1st echelon (1st to 3rd level), 2nd echelon (4th to 6th level), 3rd echelon (7th to 9th level), and 4th echelon (10th level).
 
@@ -290,13 +290,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Focus:** The [tactician](../../Browse/Classes/Tactician)'s Heroic Resource.
 
-**Forced Movement:** When an ability or effect compels a creature to move, usually against their will. There are three types of forced movement: a pull, a push, and a slide. Forced movement is always along the ground unless noted as vertical. Forced movement can be reduced by stability.
+**Forced Movement:** When an ability or effect compels a creature to move, usually against their will. There are three types of forced movement: a pull, a push, and a slide. Forced movement is always along the ground unless noted as [vertical](../../Browse/Movement/Vertical). Forced movement can be reduced by [stability](../../Browse/Movement/Stability).
 
 **Follower:** An NPC dedicated to helping a hero. Many of the actions of a follower are controlled by a player.
 
 **Free Maneuver:** A maneuver that doesn't count against the one maneuver per turn a creature can take. A free maneuver can only be used by a creature on their turn.
 
-**Free Strike:** The simplest and most basic weapon attack any creature can make. A free strike is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a free strike as a main action, but it's not the best bang for buck.
+**Free Strike:** The simplest and most basic weapon attack any creature can make. A [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as a main action, but it's not the best bang for buck.
 
 **Free Triggered Action:** An action a creature can use on any turn, including their own, but only when a specific trigger occurs. There is no limit to the number of free triggered actions a creature can take during combat.
 
@@ -374,7 +374,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Melee:** Melee abilities require a creature to make contact with a target using the creature's body, a weapon, or an implement.
 
-**Melee Free Strike:** A free strike made using a melee ability.
+**Melee Free Strike:** A [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) made using a melee ability.
 
 **[Memonek](../../Browse/Ancestries/Memonek):** An ancestry of machine people.
 
@@ -408,7 +408,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../../Browse/Movement/Teleport), the creature can make a melee free strike as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../../Browse/Movement/Teleport), the creature can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -452,7 +452,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
-**Ranged Free Strike:** A free strike made using a ranged ability.
+**Ranged Free Strike:** A [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) made using a ranged ability.
 
 **Reactive Test:** When the Director asks for a test without context to see if a hero can react to an event or effect they are unaware of.
 
@@ -514,7 +514,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
-**Stability:** A measure of a creature's immovability. When a creature is force moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
+**Stability:** A measure of a creature's immovability. When a creature is force moved, the distance they can be force moved is reduced by a number of squares equal to their [stability](../../Browse/Movement/Stability).
 
 **Stamina:** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are dying. When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
@@ -582,7 +582,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Vasloria:** A forested, feudal-medieval continent in Orden.
 
-**Vertical:** When any form of forced movement is noted as vertical, the creature performing the forced movement can move the target up or down in addition to horizontally.
+**Vertical:** When any form of forced movement is noted as [vertical](../../Browse/Movement/Vertical), the creature performing the forced movement can move the target up or down in addition to horizontally.
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 

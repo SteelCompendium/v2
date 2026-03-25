@@ -38,9 +38,9 @@ type: feature/ability/talent/6th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 damage; vertical pull 5 toward the center of the area
-- **12-16:** 9 damage; vertical pull 7 toward the center of the area
-- **17+:** 13 damage; vertical pull 10 toward the center of the area
+- **≤11:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical) pull 5 toward the center of the area
+- **12-16:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical) pull 7 toward the center of the area
+- **17+:** 13 damage; [vertical](../../../../../Browse/Movement/Vertical) pull 10 toward the center of the area
 
 **Effect:** Targets closest to the center of the area are pulled first.
 

@@ -41,4 +41,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.

@@ -126,7 +126,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Love Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) maneuver or an ability that targets an ally.
 - **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
@@ -151,7 +151,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) or Hide maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../Browse/Classes/Conduit) level.
 
 ###### War Domain Piety and Effect
@@ -295,7 +295,7 @@ You have the following ability, which you can use once on your turn.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Ray of Wrath
@@ -362,7 +362,7 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
@@ -372,7 +372,7 @@ Your god blesses your flesh and infuses it with divine quickness. You gain a +1 
 
 ##### Prayer of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability).
 
 #### Conduit Ward
 
@@ -447,9 +447,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; vertical pull 2
-> - **12-16:** 5 + I holy damage; vertical pull 3
-> - **17+:** 8 + I holy damage; vertical pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -555,7 +555,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring stability.
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)
@@ -746,7 +746,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
+> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a target you choose
 > - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 > - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -826,9 +826,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 lightning damage; vertical slide 1
-> - **12-16:** 5 lightning damage; vertical slide 2
-> - **17+:** 7 lightning damage; vertical slide 3
+> - **≤11:** 2 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 1
+> - **12-16:** 5 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 2
+> - **17+:** 7 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 3
 
 <!-- -->
 > ###### Statue of Power (5 Piety)
@@ -1143,7 +1143,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | -------------------------------: |
 > | **📏 4 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores stability for your allies.
+> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../Browse/Movement/Stability) for your allies.
 
 <!-- -->
 > ###### Blade of the Heavens (9 Piety)
@@ -1558,7 +1558,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../Browse/Movement/Fly), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../Browse/Movement/Fly), [stability](../../../Browse/Movement/Stability) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -1568,7 +1568,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a free strike.
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 >
 > **Power Roll + Intuition:**
 >

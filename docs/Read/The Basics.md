@@ -22,7 +22,7 @@ search:
 
 The flow of playing *Draw Steel* is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
 
-**Director (Willy):** *You stand in the doorway of the top level of the ruined necromancer's tower. The air is stale and reeks of death. A pale full moon shines through a broken ceiling, illuminating six sarcophagi upon a raised dais, each with a lid carved in the likeness of a devil. Broken flasks, beakers, and other laboratory glass covers the floor.*
+**Director (Willy):** *You stand in the doorway of the top level of the ruined necromancer's tower. The air is stale and reeks of death. A pale full moon shines through a broken ceiling, illuminating six sarcophagi upon a raised dais, each with a lid carved in the likeness of a [devil](../../Browse/Ancestries/Devil). Broken flasks, beakers, and other laboratory glass covers the floor.*
 
 After the Director sets the scene, each player describes how their character interacts with the area. The Director then describes how the environment and any creatures in it respond to the heroes' actions.
 
@@ -305,7 +305,7 @@ When you spend a Recovery, you regain Stamina equal to your **recovery value**, 
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the Catch Breath maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the Catch Breath maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
@@ -385,7 +385,7 @@ Ajax abolished all faiths and temples. He executed the dukes who organized and u
 
 Now there is only suspicion.
 
-**The high elves of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../../Browse/Ancestries/Wode%20Elf) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
+**The [high elves](../../Browse/Ancestries/High%20Elf) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../../Browse/Ancestries/Wode%20Elf) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](../../Browse/Ancestries/Dwarf) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](../../Browse/Ancestries/Dwarf) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 

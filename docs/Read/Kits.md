@@ -20,7 +20,7 @@ search:
 
 # Kits
 
-The knight in [shining armor](../../Browse/Kits/Shining%20Armor). The [warrior priest](../../Browse/Kits/Warrior%20Priest). The [sniper](../../Browse/Kits/Sniper). Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](../../Browse/Kits/Shining%20Armor). The [warrior priest](../../Browse/Kits/Warrior%20Priest). The [sniper](../../Browse/Kits/Sniper). [Censors](../../Browse/Classes/Censor), furies, shadows, [tacticians](../../Browse/Classes/Tactician), and [troubadours](../../Browse/Classes/Troubadour) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -109,7 +109,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your Stamina, speed, and [stability](../../Browse/Movement/Stability), as well as the damage and distance of your weapon abilities, including your [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -121,7 +121,7 @@ Your kit's speed bonus is added to your speed.
 
 #### Stability Bonus
 
-Your kit's stability bonus is added to your stability.
+Your kit's [stability](../../Browse/Movement/Stability) bonus is added to your [stability](../../Browse/Movement/Stability).
 
 #### Damage Bonuses
 
@@ -156,9 +156,9 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 <!-- -->
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 #### Arcane Archer
 
@@ -910,15 +910,15 @@ You wear no armor and wield a whip.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; vertical pull 1
-- **12-16:** 7 + M or A damage; vertical pull 2
-- **17+:** 10 + M or A damage; vertical pull 3
+- **≤11:** 4 + M or A damage; [vertical](../../Browse/Movement/Vertical) pull 1
+- **12-16:** 7 + M or A damage; [vertical](../../Browse/Movement/Vertical) pull 2
+- **17+:** 10 + M or A damage; [vertical](../../Browse/Movement/Vertical) pull 3
 
 ### Optional Rule: Losing Equipment
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
 
-- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and stability bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and [stability](../../Browse/Movement/Stability) bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
 - If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
 - If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
@@ -927,26 +927,26 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 ###### Kits Table
 
-| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
-| --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
-| [Arcane Archer](../../Browse/Kits/Arcane%20Archer)         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
-| [Battlemind](../../Browse/Kits/Battlemind)                 | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Dual Wielder](../../Browse/Kits/Dual%20Wielder)           | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Guisarmier](../../Browse/Kits/Guisarmier)                 | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| [Martial Artist](../../Browse/Kits/Martial%20Artist)       | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Mountain](../../Browse/Kits/Mountain)                     | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
-| [Panther](../../Browse/Kits/Panther)                       | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](../../Browse/Kits/Pugilist)                     | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Raider](../../Browse/Kits/Raider)                         | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Ranger](../../Browse/Kits/Ranger)                         | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Rapid-Fire                                                                        | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
-| [Retiarius](../../Browse/Kits/Retiarius)                   | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
-| [Shining Armor](../../Browse/Kits/Shining%20Armor)         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Sniper](../../Browse/Kits/Sniper)                         | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
-| [Spellsword](../../Browse/Kits/Spellsword)                 | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Stick and Robe](../../Browse/Kits/Stick%20and%20Robe)     | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-| [Swashbuckler](../../Browse/Kits/Swashbuckler)             | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Sword and Board](../../Browse/Kits/Sword%20and%20Board)   | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
-| [Warrior Priest](../../Browse/Kits/Warrior%20Priest)       | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Whirlwind](../../Browse/Kits/Whirlwind)                   | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | [Stability](../../Browse/Movement/Stability) | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | ------------------------------------------------------------------- | ------------ | ------------- | -------------- | --------------- | --------- |
+| [Arcane Archer](../../Browse/Kits/Arcane%20Archer)         | None           | Bow                | -                   | +1    | -                                                                   | -            | +2/+2/+2      | -              | +10             | +1        |
+| [Battlemind](../../Browse/Kits/Battlemind)                 | Light          | Medium             | +3                  | +2    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) | Light          | Light              | +3                  | +2    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Dual Wielder](../../Browse/Kits/Dual%20Wielder)           | Medium         | Light, medium      | +6                  | +2    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Guisarmier](../../Browse/Kits/Guisarmier)                 | Medium         | Polearm            | +6                  | -     | +1                                                                  | +2/+2/+2     | -             | +1             | -               | -         |
+| [Martial Artist](../../Browse/Kits/Martial%20Artist)       | None           | Unarmed strikes    | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Mountain](../../Browse/Kits/Mountain)                     | Heavy          | Heavy              | +9                  | -     | +2                                                                  | +0/+0/+4     | -             | -              | -               | -         |
+| [Panther](../../Browse/Kits/Panther)                       | None           | Heavy              | +6                  | +1    | +1                                                                  | +0/+0/+4     | -             | -              | -               | -         |
+| [Pugilist](../../Browse/Kits/Pugilist)                     | None           | Unarmed strikes    | +6                  | +2    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -         |
+| [Raider](../../Browse/Kits/Raider)                         | Light, shield  | Light              | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Ranger](../../Browse/Kits/Ranger)                         | Medium         | Bow, medium        | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Rapid-Fire](../../Browse/Kits/Rapid%20Fire)               | Light          | Bow                | +3                  | +1    | -                                                                   | -            | +2/+2/+2      | -              | +7              | +1        |
+| [Retiarius](../../Browse/Kits/Retiarius)                   | Light          | Ensnaring, polearm | +3                  | +1    | -                                                                   | +2/+2/+2     | -             | +1             | -               | +1        |
+| [Shining Armor](../../Browse/Kits/Shining%20Armor)         | Heavy, shield  | Medium             | +12                 | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Sniper](../../Browse/Kits/Sniper)                         | None           | Bow                | -                   | +1    | -                                                                   | -            | +0/+0/+4      | -              | +10             | +1        |
+| [Spellsword](../../Browse/Kits/Spellsword)                 | Light, shield  | Medium             | +6                  | +1    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -         |
+| [Stick and Robe](../../Browse/Kits/Stick%20and%20Robe)     | Light          | Polearm            | +3                  | +2    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Swashbuckler](../../Browse/Kits/Swashbuckler)             | Light          | Medium             | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1        |
+| [Sword and Board](../../Browse/Kits/Sword%20and%20Board)   | Medium, shield | Medium             | +9                  | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | +1        |
+| [Warrior Priest](../../Browse/Kits/Warrior%20Priest)       | Heavy          | Light              | +9                  | +1    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -         |
+| [Whirlwind](../../Browse/Kits/Whirlwind)                   | None           | Whip               | -                   | +3    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1        |

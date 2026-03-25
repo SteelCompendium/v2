@@ -57,7 +57,7 @@ When you use an ability outside of combat that lets you spend unlimited clarity 
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Mind Spike
@@ -82,13 +82,13 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../Browse/Movement/Stability).
 
 ##### Distance Augmentation
 
@@ -124,7 +124,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: Background). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -206,7 +206,7 @@ You have the following ability.
 >
 > **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 >
-> **Spend 3 Clarity:** You can vertical slide the target.
+> **Spend 3 Clarity:** You can [vertical](../../../../Browse/Movement/Vertical) slide the target.
 
 ##### Remote Assistance
 
@@ -320,7 +320,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** Slide 4 + R
 > - **17+:** Slide 6 + R; [prone](../../../../Browse/Conditions/Prone)
 >
-> **Strained:** You must vertical push the target instead of sliding them.
+> **Strained:** You must [vertical](../../../../Browse/Movement/Vertical) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse
@@ -436,7 +436,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
 > - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their stability.
+> **Effect:** You can [vertical](../../../../Browse/Movement/Vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their [stability](../../../../Browse/Movement/Stability).
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -447,7 +447,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)
@@ -492,7 +492,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | -------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 >
-> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../../Browse/Movement/Stability). A creature can only be force moved this way once a turn.
 >
 > **Strained:** You are [weakened](../../../../Browse/Conditions/Weakened) (save ends). While you are [weakened](../../../../Browse/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
@@ -505,7 +505,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target's stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.
+> **Effect:** The target's [stability](../../../../Browse/Movement/Stability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../Browse/Movement/Stability) increase lasts until the target no longer has temporary Stamina from this ability.
 >
 > **Strained:** You can't use maneuvers (save ends).
 

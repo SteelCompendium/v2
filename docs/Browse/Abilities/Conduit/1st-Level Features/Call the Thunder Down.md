@@ -40,4 +40,4 @@ type: feature/ability/conduit/1st-level-feature
 - **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
 
-**Effect:** You can push each willing ally in the area the same distance, ignoring stability.
+**Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../Browse/Movement/Stability).

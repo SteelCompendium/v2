@@ -33,4 +33,4 @@ type: feature/ability/fury/2nd-level-feature
 | ----------------- | ----------------------: |
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+**Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../../Browse/Movement/Stability), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals extra damage equal to your Might score.

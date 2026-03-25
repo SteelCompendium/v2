@@ -105,9 +105,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; vertical push 2
-> - **12-16:** 6 damage; vertical push 4
-> - **17+:** 9 damage; vertical push 6
+> - **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical) push 2
+> - **12-16:** 6 damage; [vertical](../../../../Browse/Movement/Vertical) push 4
+> - **17+:** 9 damage; [vertical](../../../../Browse/Movement/Vertical) push 6
 >
 > **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../Browse/Conditions/Weakened) until the end of your turn.
 
@@ -147,7 +147,7 @@ Choose one of the following abilities.
 > - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
 > - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -160,7 +160,7 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a free strike against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >

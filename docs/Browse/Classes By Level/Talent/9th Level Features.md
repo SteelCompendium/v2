@@ -77,7 +77,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../Browse/Movement/Vertical) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >

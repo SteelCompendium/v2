@@ -28,4 +28,4 @@ type: treasure/trinkets/1st-echelon
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../../../../../Browse/Movement/Climb%20or%20Swim) unless you are force moved, and any creature [grabbed](../../../../../Browse/Conditions/Grabbed) by you takes a bane on the test for the Escape Grab maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../../../../../Browse/Movement/Climb%20or%20Swim) unless you are force moved, and any creature [grabbed](../../../../../Browse/Conditions/Grabbed) by you takes a bane on the test for the [Escape Grab](../../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.

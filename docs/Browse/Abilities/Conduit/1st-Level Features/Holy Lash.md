@@ -34,6 +34,6 @@ type: feature/ability/conduit/1st-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
+- **≤11:** 3 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical) pull 2
+- **12-16:** 5 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical) pull 3
+- **17+:** 8 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical) pull 4

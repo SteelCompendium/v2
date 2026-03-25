@@ -35,4 +35,4 @@ type: feature/ability/troubadour/6th-level-feature
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
+**Effect:** You and the target each make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets and which enemies the target creature's [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets. You then slide the target 5 squares, ignoring [stability](../../../../../Browse/Movement/Stability).

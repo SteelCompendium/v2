@@ -42,7 +42,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](../../../../Browse/Movement/Jump) as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../../../Browse/Movement/Jump) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 > | ----------------- | ----------------------: |
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 >
-> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../Browse/Movement/Stability), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals extra damage equal to your Might score.
 
 <!-- -->
 > ###### Wrecking Ball (5 Ferocity)

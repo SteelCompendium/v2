@@ -18,7 +18,7 @@ As a 6th-level [tactician](../../../../Browse/Classes/Tactician), you gain the f
 
 #### Master of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
 
 #### Perk
 
@@ -60,7 +60,7 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; slide 3
 > - **17+:** 13 + M damage; slide 5
 >
-> **Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
+> **Effect:** If a target is force moved into another creature, they must make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against that creature.
 
 ##### 6th-Level Mastermind Abilities
 
@@ -124,8 +124,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
-> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../../Browse/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.

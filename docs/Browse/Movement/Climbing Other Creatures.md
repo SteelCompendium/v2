@@ -18,7 +18,7 @@ You can attempt to [climb](../../../Browse/Movement/Climb%20or%20Swim) a creatur
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **≤11:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you.
 - **12-16:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 - **17+:** You [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 

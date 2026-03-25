@@ -90,7 +90,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** Slide 4 + R
 > - **17+:** Slide 6 + R; [prone](../../../../../Browse/Conditions/Prone)
 >
-> **Strained:** You must vertical push the target instead of sliding them.
+> **Strained:** You must [vertical](../../../../../Browse/Movement/Vertical) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse

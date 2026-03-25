@@ -26,11 +26,11 @@ If your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) is de
 
 **Familiar**
 
-| [Familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) |          -          |            Level -             |            -            |          EV -          |
-| :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |
-|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |
-|                                **-**<br/> Immunities                                | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+| [Familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) |          -          |            Level -             |                                       -                                        |                                                    EV -                                                     |
+| :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina | **0**<br/> [Stability](../../../../Browse/Movement/Stability) | **-**<br/> [Free Strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) |
+|                                **-**<br/> Immunities                                | **-**<br/> Movement |                                |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
+|                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |                              **0**<br/> Intuition                              |                                            **+1**<br/> Presence                                             |
 
 <!-- -->
 > **Telepathic**

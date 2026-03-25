@@ -33,4 +33,4 @@ type: feature/ability/null/6th-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+**Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../../../Browse/Movement/Stability) gains a bonus equal to your Intuition score.

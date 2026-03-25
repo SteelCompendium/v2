@@ -32,7 +32,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../../Browse/Complications/Infernal%20Contract) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../../Browse/Complications/Infernal%20Contract) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](../../Browse/Ancestries/Devil)!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -62,7 +62,7 @@ Complications are presented in alphabetical order.
 | 14   | [Cult Victim](../../Browse/Complications/Cult%20Victim)                                   | 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness)                   |
 | 15   | [Curse of Caution](../../Browse/Complications/Curse%20of%20Caution)                       | 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii)     |
 | 16   | [Curse of Immortality](../../Browse/Complications/Curse%20of%20Immortality)               | 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice)                 |
-| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune)                 | 67   | Psychic Eruption                                                                                                 |
+| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune)                 | 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption)                         |
 | 18   | [Curse of Poverty](../../Browse/Complications/Curse%20of%20Poverty)                       | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
 | 19   | [Curse of Punishment](../../Browse/Complications/Curse%20of%20Punishment)                 | 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
 | 20   | [Curse of Stone](../../Browse/Complications/Curse%20of%20Stone)                           | 70   | [Rival](../../Browse/Complications/Rival)                                                 |
@@ -167,7 +167,7 @@ Complications are presented in alphabetical order.
 | 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness)                   |
 | 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii)     |
 | 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice)                 |
-| 67   | Psychic Eruption                                                                                                 |
+| 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption)                         |
 | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
 | 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
 | 70   | [Rival](../../Browse/Complications/Rival)                                                 |
@@ -224,7 +224,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -266,7 +266,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the Escape Grab, Grab, and Knockback maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Grab, and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -381,7 +381,7 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
 
-**Benefit:** You have a +1 bonus to stability. Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
+**Benefit:** You have a +1 bonus to [stability](../../Browse/Movement/Stability). Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
 
 **Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](../../Browse/Conditions/Dazed).
 
@@ -429,7 +429,7 @@ You have contracted a rare magical disease called [evanesceria](../../Browse/Com
 
 Whether you're a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you've been cast forth from your homeland, never to return. At least not until you're strong enough to set things right.
 
-**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background)).
 
 **Drawback:** If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 
@@ -507,9 +507,9 @@ You were once a renowned hero, but you've been living the last few years in blis
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
-**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a free strike.
+**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
-**Drawback:** While you are [dazed](../../Browse/Conditions/Dazed), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
+**Drawback:** While you are [dazed](../../Browse/Conditions/Dazed), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against an adjacent creature.
 
 **Special:** You can't take this complication if you can't be made [dazed](../../Browse/Conditions/Dazed).
 
@@ -615,7 +615,7 @@ You made a deal with a [devil](../../Browse/Ancestries/Devil). Not a very good d
 
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
-**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background)).
 
 **Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
 
@@ -835,7 +835,7 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
-**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0)), though you can speak Caelian.
+**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](../Chapters/Background)), though you can speak Caelian.
 
 #### Refugee
 
@@ -857,7 +857,7 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.
 
-**Benefit:** You have the following ability, which you can use as a ranged free strike.
+**Benefit:** You have the following ability, which you can use as a ranged [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Telekinetic Grasp
@@ -974,7 +974,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
 
-**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
 **Special:** You can't take this complication if you are a [fury](../../Browse/Classes/Fury) with the stormwight primordial aspect.
 
@@ -1027,7 +1027,7 @@ You live for danger. Whether in battle or mundane peril, you can transcend your 
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
-**Benefit:** Whenever you make a melee free strike against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the free strike, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+**Benefit:** Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 
 **Drawback:** While you have temporary Stamina from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
 
@@ -1043,9 +1043,9 @@ You occasionally hear a [voice in your head](../../Browse/Complications/Voice%20
 
 You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.
 
-**Benefit:** You gain a +1 bonus to stability.
+**Benefit:** You gain a +1 bonus to [stability](../../Browse/Movement/Stability).
 
-**Drawback:** If you are ever forced to disobey your organization's orders, your stability becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
+**Drawback:** If you are ever forced to disobey your organization's orders, your [stability](../../Browse/Movement/Stability) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
 
 #### Vow of Honesty
 
@@ -1125,7 +1125,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 #### Wodewalker
 
-You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green elementalists had saved your life by infusing the regenerative bark of a tree to your body.
+You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/Classes/Elementalist) had saved your life by infusing the regenerative bark of a tree to your body.
 
 **Benefit:** Your recovery value increases by an amount equal to your highest characteristic score.
 
