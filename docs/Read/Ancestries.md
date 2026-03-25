@@ -947,7 +947,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat (1 Point)
 
-You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 ##### High Senses (1 Point)
 
@@ -1589,7 +1589,7 @@ You have the following ability.
 
 ###### Shadowmeld
 
-*You become an actual [shadow](../../Browse/Classes/Shadow).*
+*You become an actual shadow.*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
@@ -1617,7 +1617,7 @@ Courage is all you know. You can't be made [frightened](../../Browse/Conditions/
 
 ##### Graceful Retreat (1 Point)
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 ##### Nimblestep (2 Points)
 
@@ -1881,7 +1881,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ###### Concussive Slam
 
-*You slam an [invisible force](../../Browse/Perks/Supernatural%20Perks/Invisible%20Force) down upon the target.*
+*You slam an invisible force down upon the target.*
 
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |

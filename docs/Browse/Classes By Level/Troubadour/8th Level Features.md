@@ -26,15 +26,15 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature         |
-| --------- | --------------- |
-| Auteur    | Deleted Scene   |
-| Duelist   | Masterwork      |
-| Virtuoso  | Crowd Favorites |
+| Class Act | Feature                                                                                                  |
+| --------- | -------------------------------------------------------------------------------------------------------- |
+| Auteur    | [Deleted Scene](../../../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
+| Duelist   | Masterwork                                                                                               |
+| Virtuoso  | [Crowd Favorites](../../../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your Routines feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Moonlight Sonata
@@ -60,7 +60,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ##### Deleted Scene
 
-Whenever a creature within distance of your Dramatic Monologue ability makes a power roll, you can spend 1 drama as a free triggered action to use Dramatic Monologue, targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue), targeting only one creature.
 
 ##### Masterwork
 

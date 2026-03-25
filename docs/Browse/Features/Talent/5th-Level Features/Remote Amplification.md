@@ -19,4 +19,4 @@ type: feature/trait/talent/5th-level-feature
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your Telepathic Speech feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.

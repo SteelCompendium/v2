@@ -19,4 +19,4 @@ type: feature/trait/censor/7th-level-feature
 
 ##### Font of Grace
 
-Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) gains 10 temporary Stamina.

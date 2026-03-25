@@ -26,11 +26,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, a
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature          |
-| --------------- | ---------------- |
-| Black Ash       | Burning Ash      |
-| Caustic Alchemy | Trained Assassin |
-| Harlequin Mask  | Friend!          |
+| College         | Feature                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
+| Black Ash       | [Burning Ash](../../../../Browse/Shadow/2nd-Level%20Features/Burning%20Ash)           |
+| Caustic Alchemy | [Trained Assassin](../../../../Browse/Shadow/2nd-Level%20Features/Trained%20Assassin) |
+| Harlequin Mask  | Friend!                                                                                                |
 
 ##### Burning Ash
 
@@ -40,7 +40,7 @@ The ash you leave behind burns your foes. The first time on a turn that you use 
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the Disengage move action as part of that ability.
+Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as part of that ability.
 
 ##### Trained Assassin
 
@@ -78,9 +78,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your In All This Confusion ability.
+> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../Browse/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability. Before you [teleport](../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion). After you [teleport](../../../../Browse/Movement/Teleport), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 

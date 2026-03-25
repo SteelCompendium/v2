@@ -34,7 +34,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 #### 6th-Level Aspect Ability
 
-Your primordial aspect grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Berserker Abilities
 

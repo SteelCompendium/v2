@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Incineration, Viscous Fire.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration), [Viscous Fire](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -55,7 +55,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to [teleport](../../../../../Browse/Movement/Teleport).*
+> *You absorb the life energy of another creature and use it to teleport.*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |

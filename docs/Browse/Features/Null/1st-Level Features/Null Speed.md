@@ -18,4 +18,4 @@ type: feature/trait/null/1st-level-feature
 
 #### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the Disengage move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action equal to your Agility score.

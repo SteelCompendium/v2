@@ -22,11 +22,11 @@ Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as 
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition     | Feature            |
-| ------------- | ------------------ |
-| Chronokinetic | Instant Action     |
-| Cryokinetic   | Chilling Readiness |
-| Metakinetic   | Inertial Fulcrum   |
+| Tradition     | Feature                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Instant Action](../../../../Browse/Null/5th-Level%20Features/Instant%20Action)         |
+| Cryokinetic   | [Chilling Readiness](../../../../Browse/Null/5th-Level%20Features/Chilling%20Readiness) |
+| Metakinetic   | [Inertial Fulcrum](../../../../Browse/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
 
 #### Chilling Readiness
 

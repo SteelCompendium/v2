@@ -31,7 +31,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 <!-- -->
 > ###### Absorption Field (7 Discipline)
 >
-> *Your [null](../../../../Browse/Classes/Null) field absorbs kinetic energy.*
+> *Your null field absorbs kinetic energy.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
@@ -64,7 +64,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 <!-- -->
 > ###### Synapse Field (7 Discipline)
 >
-> *Attacks made by allies in your [null](../../../../Browse/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
+> *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |

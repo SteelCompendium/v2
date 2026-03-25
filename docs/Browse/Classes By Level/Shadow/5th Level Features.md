@@ -22,11 +22,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, a
 
 ###### 5th-Level College Features Table
 
-| College         | Feature           |
-| --------------- | ----------------- |
-| Black Ash       | Trail of Cinders  |
-| Caustic Alchemy | Volatile Reagents |
-| Harlequin Mask  | Harlequin Gambit  |
+| College         | Feature                                                                                                  |
+| --------------- | -------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Trail of Cinders](../../../../Browse/Shadow/5th-Level%20Features/Trail%20of%20Cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../../../Browse/Shadow/5th-Level%20Features/Volatile%20Reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../../../Browse/Shadow/5th-Level%20Features/Harlequin%20Gambit)   |
 
 ##### Harlequin Gambit
 
@@ -44,7 +44,7 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../../Browse/Movement/Fly), you fall.
+Additionally, your [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../../Browse/Movement/Fly), you fall.
 
 #### 9-Insight Ability
 
@@ -53,7 +53,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 <!-- -->
 > ###### Blackout (9 Insight)
 >
-> *You cause a plume of [shadow](../../../../Browse/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
+> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
 >
 > | **Area, Magic** |   **Maneuver** |
 > | --------------- | -------------: |

@@ -18,13 +18,13 @@ As a 1st-level [fury](../../../../Browse/Classes/Fury), you gain the following f
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
 - **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
 - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
 - **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
-Your primordial aspect is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 #### Ferocity
 
@@ -45,7 +45,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../../Browse/Fury/1st-Level%20Features/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -53,7 +53,7 @@ When you use an ability outside of combat that lets you spend unlimited ferocity
 
 You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
-Some Growing Ferocity benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various Growing Ferocity tables in this section.
+Some [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
@@ -79,19 +79,19 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 #### 1st-Level Aspect Features
 
-Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                        |
-| ---------- | ------------------------------ |
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Aspect     | Feature                                                                                                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Strength)                                                                                    |
+| Reaver     | Kit, [Primordial Cunning](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Cunning)                                                                                      |
+| Stormwight | [Beast Shape](../../../../Browse/Fury/1st-Level%20Features/Beast%20Shape), [Relentless Hunter](../../../../Browse/Fury/1st-Level%20Features/Relentless%20Hunter) |
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your Growing Ferocity feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 ##### Kit
 
@@ -101,13 +101,13 @@ You can use and gain the benefits of a kit. See Chapter 6: Kits for more informa
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your ferocity grows, you gain benefits as noted on the Reaver Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your ferocity grows, you gain benefits as noted on the Berserker Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
@@ -115,15 +115,15 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the Aspect Triggered Actions table.
 
 ###### Aspect Triggered Actions Table
 
-| Aspect     | Triggered Action   |
-| ---------- | ------------------ |
-| Berserker  | Lines of Force     |
-| Reaver     | Unearthly Reflexes |
-| Stormwight | Furious Change     |
+| Aspect     | Triggered Action                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------ |
+| Berserker  | [Lines of Force](../../../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force)       |
+| Reaver     | [Unearthly Reflexes](../../../../Browse/Abilities/Fury/1st-Level%20Features/Unearthly%20Reflexes) |
+| Stormwight | [Furious Change](../../../../Browse/Abilities/Fury/1st-Level%20Features/Furious%20Change)         |
 
 <!-- -->
 > ###### Furious Change
@@ -180,7 +180,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death)!)
 
 <!-- -->
 > ###### Brutal Slam

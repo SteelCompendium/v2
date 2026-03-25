@@ -19,4 +19,4 @@ type: feature/trait/talent/5th-level-feature
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your Telepathic Speech feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.

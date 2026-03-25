@@ -22,11 +22,11 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features     |
-| --------- | ------------ |
-| Auteur    | Missed Cue   |
-| Duelist   | Foil         |
-| Virtuoso  | Second Album |
+| Class Act | Features                                                                                           |
+| --------- | -------------------------------------------------------------------------------------------------- |
+| Auteur    | [Missed Cue](../../../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue)     |
+| Duelist   | Foil                                                                                               |
+| Virtuoso  | [Second Album](../../../../Browse/Troubadour/3rd-Level%20Features/Second%20Album) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your Routines feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"

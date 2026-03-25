@@ -542,7 +542,7 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/Movement/Climb%20or%20Swim), Heal, Navigate.)
+**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Heal, Navigate.)
 
 **Languages:** Two languages
 

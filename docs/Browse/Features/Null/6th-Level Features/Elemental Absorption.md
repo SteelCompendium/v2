@@ -18,4 +18,4 @@ type: feature/trait/null/6th-level-feature
 
 #### Elemental Absorption
 
-Whenever you use your Inertial Shield triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.

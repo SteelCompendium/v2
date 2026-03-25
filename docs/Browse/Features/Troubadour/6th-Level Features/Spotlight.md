@@ -18,7 +18,7 @@ type: feature/trait/troubadour/6th-level-feature
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Spotlight

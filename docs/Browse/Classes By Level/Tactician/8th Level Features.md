@@ -22,15 +22,15 @@ You gain one perk of your choice.
 
 #### 8th-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                            |
-| ---------- | ---------------------------------- |
-| Insurgent  | Bait and Ambush                    |
-| Mastermind | Pincer Movement                    |
-| Vanguard   | See Your Enemies Driven Before You |
+| Doctrine   | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Bait and Ambush](../../../../Browse/Tactician/8th-Level%20Features/Bait%20and%20Ambush)                                             |
+| Mastermind | [Pincer Movement](../../../../Browse/Tactician/8th-Level%20Features/Pincer%20Movement)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](../../../../Browse/Tactician/8th-Level%20Features/See%20Your%20Enemies%20Driven%20Before%20You) |
 
 ##### Bait and Ambush
 

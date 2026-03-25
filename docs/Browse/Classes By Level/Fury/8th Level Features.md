@@ -22,15 +22,15 @@ You gain one perk of your choice.
 
 #### 8th-Level Aspect Feature
 
-Your primordial aspect grants you a feature, as shown on the 8th-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature            |
-| ---------- | ------------------ |
-| Berserker  | Strongest There Is |
-| Reaver     | A Step Ahead       |
-| Stormwight | Menagerie          |
+| Aspect     | Feature                                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Strongest There Is](../../../../Browse/Fury/8th-Level%20Features/Strongest%20There%20Is) |
+| Reaver     | [A Step Ahead](../../../../Browse/Fury/8th-Level%20Features/A%20Step%20Ahead)             |
+| Stormwight | Menagerie                                                                                                  |
 
 ##### Menagerie
 
@@ -38,7 +38,7 @@ You can use all stormwight kits. During a respite, you can choose to swap your s
 
 ##### A Step Ahead
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, the distance you can shift gains a bonus equal to your Agility score.
 
 ##### Strongest There Is
 

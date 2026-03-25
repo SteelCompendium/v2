@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Blessed Light, Staggering Curse.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light), [Staggering Curse](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse).)
 
 <!-- -->
 > ###### Blessed Light

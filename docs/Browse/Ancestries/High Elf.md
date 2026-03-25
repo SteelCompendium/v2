@@ -102,7 +102,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat (1 Point)
 
-You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 ##### High Senses (1 Point)
 

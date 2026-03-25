@@ -881,7 +881,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 
 ##### Acquire Ability
 
-You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../../Browse/Classes/Tactician), you can gain the Strike Now ability instead. You can't gain this benefit again for the same class.
+You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../../Browse/Classes/Tactician), you can gain the [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now) ability instead. You can't gain this benefit again for the same class.
 
 ##### Hone Ability
 

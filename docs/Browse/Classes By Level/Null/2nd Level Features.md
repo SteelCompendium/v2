@@ -26,11 +26,11 @@ Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as 
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature               |
-| ------------- | --------------------- |
-| Chronokinetic | Rapid Processing      |
-| Cryokinetic   | Entropic Adaptability |
-| Metakinetic   | Inertial Sink         |
+| Tradition     | Feature                                                                                                        |
+| ------------- | -------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](../../../../Browse/Null/2nd-Level%20Features/Rapid%20Processing)           |
+| Cryokinetic   | [Entropic Adaptability](../../../../Browse/Null/2nd-Level%20Features/Entropic%20Adaptability) |
+| Metakinetic   | [Inertial Sink](../../../../Browse/Null/2nd-Level%20Features/Inertial%20Sink)                 |
 
 ##### Entropic Adaptability
 

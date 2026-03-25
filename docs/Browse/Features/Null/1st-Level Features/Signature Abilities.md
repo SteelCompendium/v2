@@ -18,7 +18,7 @@ type: feature/trait/null/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Faster Than the Eye, Inertial Step.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../../Browse/Abilities/Null/1st-Level%20Features/Faster%20Than%20the%20Eye), [Inertial Step](../../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Step).)
 
 <!-- -->
 > ###### Dance of Blows

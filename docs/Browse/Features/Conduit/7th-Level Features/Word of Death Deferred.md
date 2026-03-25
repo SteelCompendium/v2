@@ -19,6 +19,6 @@ type: feature/trait/conduit/7th-level-feature
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your Healing Grace ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.

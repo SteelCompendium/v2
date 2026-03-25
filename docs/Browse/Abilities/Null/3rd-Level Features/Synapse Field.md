@@ -8,7 +8,7 @@ distance: Self
 feature_type: ability
 file_basename: Synapse Field
 file_dpath: Abilities/Null/3rd-Level Features
-flavor: Attacks made by allies in your [null](scc:mcdm.heroes.v1:class:null) field disrupt your enemies' thoughts, causing psychic pain.
+flavor: Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.
 item_id: synapse-field-7-discipline
 item_index: '02'
 item_name: Synapse Field (7 Discipline)
@@ -26,7 +26,7 @@ type: feature/ability/null/3rd-level-feature
 
 ###### Synapse Field (7 Discipline)
 
-*Attacks made by allies in your [null](../../../../../Browse/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |
 | ----------- | -----------: |

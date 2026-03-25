@@ -8,7 +8,7 @@ distance: 4 burst
 feature_type: ability
 file_basename: Cinderstorm
 file_dpath: Abilities/Shadow/6th-Level Features
-flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) your friends in a burst of ash and fire.
+flavor: You teleport your friends in a burst of ash and fire.
 item_id: cinderstorm-9-insight
 item_index: '02'
 item_name: Cinderstorm (9 Insight)
@@ -27,7 +27,7 @@ type: feature/ability/shadow/6th-level-feature
 
 ###### Cinderstorm (9 Insight)
 
-*You [teleport](../../../../../Browse/Movement/Teleport) your friends in a burst of ash and fire.*
+*You teleport your friends in a burst of ash and fire.*
 
 | **Magic**      |                          **Maneuver** |
 | -------------- | ------------------------------------: |

@@ -36,7 +36,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your Hurl Element ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -60,9 +60,9 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../../../Browse/Elementalist/1st-Level%20Features/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see Persistent Magic below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
@@ -112,8 +112,8 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You [teleport](../../../../Browse/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../../../../Browse/Movement/Teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
@@ -122,12 +122,12 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                    |
-| -------------- | -------------------------- |
-| Earth          | Motivate Earth             |
-| Fire           | Return to Formlessness     |
-| Green          | It Is the Soul Which Hears |
-| Void           | A Beyonding of Vision      |
+| Specialization | Feature                                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                       |
+| Fire           | [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)     |
+| Green          | [It Is the Soul Which Hears](../../../../Browse/Elementalist/1st-Level%20Features/It%20Is%20the%20Soul%20Which%20Hears) |
+| Void           | [A Beyonding of Vision](../../../../Browse/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20Vision)               |
 
 ##### A Beyonding of Vision
 
@@ -144,7 +144,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../../Browse/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20Vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -190,12 +190,12 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 ###### Elemental Specialization Triggered Actions Table
 
-| Specialization | Triggered Action          |
-| -------------- | ------------------------- |
-| Earth          | Skin Like Castle Walls    |
-| Fire           | Explosive Assistance      |
-| Green          | Breath of Dawn Remembered |
-| Void           | Subtle Relocation         |
+| Specialization | Triggered Action                                                                                                                             |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Skin%20Like%20Castle%20Walls)       |
+| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Explosive%20Assistance)               |
+| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Breath%20of%20Dawn%20Remembered) |
+| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Subtle%20Relocation)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered
@@ -259,7 +259,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../../Browse/Elementalist/1st-Level%20Features/Enchantment%20of%20Destruction).)
 
 ##### Enchantment of Battle
 
@@ -269,7 +269,7 @@ If you have a kit, you can't take this enchantment.
 
 ##### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 ##### Enchantment of Destruction
 
@@ -285,7 +285,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* Ward of Surprising Reactivity.)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../../../Browse/Elementalist/1st-Level%20Features/Ward%20of%20Surprising%20Reactivity).)
 
 ##### Ward of Delightful Consequences
 
@@ -309,7 +309,7 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Incineration, Viscous Fire.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -346,7 +346,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to [teleport](../../../../Browse/Movement/Teleport).*
+> *You absorb the life energy of another creature and use it to teleport.*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |

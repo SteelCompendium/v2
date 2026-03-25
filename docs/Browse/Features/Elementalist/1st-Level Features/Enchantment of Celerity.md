@@ -18,4 +18,4 @@ type: feature/trait/elementalist/1st-level-feature
 
 ##### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.

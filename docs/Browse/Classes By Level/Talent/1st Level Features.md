@@ -49,11 +49,11 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../../../../Browse/Talent/1st-Level%20Features/Clarity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as Minor Telekinesis, you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
@@ -78,7 +78,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../Browse/Talent/1st-Level%20Features/Force%20Augmentation).)
 
 ##### Battle Augmentation
 
@@ -100,11 +100,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward.)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../../../Browse/Talent/1st-Level%20Features/Repulsive%20Ward).)
 
 ##### Entropy Ward
 
@@ -124,7 +124,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -132,11 +132,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 ###### 1st-Level Tradition Features Table
 
-| Tradition   | Features                         |
-| ----------- | -------------------------------- |
-| Chronopathy | Accelerate, Again                |
-| Telekinesis | Minor Telekinesis, Repel         |
-| Telepathy   | Feedback Loop, Remote Assistance |
+| Tradition   | Features                                                                                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chronopathy | Accelerate, Again                                                                                                                                                                                                              |
+| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), Repel                                                                                                      |
+| Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance) |
 
 ##### Accelerate
 
@@ -145,7 +145,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has [slowed](../../../../Browse/Conditions/Slowed) down.*
+> *To your ally, it seems as though the world has slowed down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |
@@ -248,7 +248,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, Kinetic Grip.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, [Kinetic Grip](../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
 
 <!-- -->
 > ###### Entropic Bolt

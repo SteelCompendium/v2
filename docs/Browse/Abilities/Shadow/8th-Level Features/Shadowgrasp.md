@@ -8,7 +8,7 @@ distance: 2 burst
 feature_type: ability
 file_basename: Shadowgrasp
 file_dpath: Abilities/Shadow/8th-Level Features
-flavor: The shadows around you give way, allowing the [shadow](scc:mcdm.heroes.v1:class:shadow) creature within you to grasp at your foes.
+flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
 item_id: shadowgrasp-11-insight
 item_index: '05'
 item_name: Shadowgrasp (11 Insight)
@@ -27,7 +27,7 @@ type: feature/ability/shadow/8th-level-feature
 
 ###### Shadowgrasp (11 Insight)
 
-*The shadows around you give way, allowing the [shadow](../../../../../Browse/Classes/Shadow) creature within you to grasp at your foes.*
+*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |

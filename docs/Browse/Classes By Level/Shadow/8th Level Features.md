@@ -26,19 +26,19 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, a
 
 ###### 8th-Level College Features Table
 
-| College         | Feature     |
-| --------------- | ----------- |
-| Black Ash       | Cinder Step |
-| Caustic Alchemy | Time Bomb   |
-| Harlequin Mask  | Parkour     |
+| College         | Feature                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Cinder Step](../../../../Browse/Shadow/8th-Level%20Features/Cinder%20Step)       |
+| Caustic Alchemy | [Time Bomb](../../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb) |
+| Harlequin Mask  | Parkour                                                                                            |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../../Browse/Movement/Teleport). When you [teleport](../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](../../../../Browse/Movement/Teleport). When you [teleport](../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../../../Browse/Shadow/2nd-Level%20Features/Burning%20Ash) and [Trail of Cinders](../../../../Browse/Shadow/5th-Level%20Features/Trail%20of%20Cinders) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../Browse/Shadow/5th-Level%20Features/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 
@@ -66,7 +66,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already [weakened](../../../../Browse/Conditions/Weakened) foe.*
+> *A practiced attack will instantly kill an already weakened foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -83,7 +83,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the [shadow](../../../../Browse/Classes/Shadow) creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |

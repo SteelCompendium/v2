@@ -2186,7 +2186,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](../../Browse/Classes/Elementalist) 1st-level Hurl Element feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](../../Browse/Classes/Elementalist) 1st-level [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
@@ -2246,7 +2246,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
 - *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../../Browse/Movement/Jump) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](../../Browse/Classes/Censor) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) feature from the [censor](../../Browse/Classes/Censor) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -2447,7 +2447,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > **Effect:** Each target can use the Charge main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the Tactical Doctrine feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.
 
 #### Blood Magic
 
@@ -2533,7 +2533,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature Healing Grace as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the [Deities and](#page-369-0) [Domains table](#page-369-0) in [Chapter 14: Gods and Religion](#page-367-1). From that god or saint's domains, choose a [Conduit](#page-108-0) 1st-level domain feature (see [Chapter 5: Classes](#page-83-2)).
 
@@ -2615,7 +2615,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features Coat the Blade or Smoke Bomb (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Shadow/1st-Level%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -2753,7 +2753,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *[Devil](../../Browse/Ancestries/Devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ###### The [Devil](../../Browse/Ancestries/Devil)'s Chord (9 Heroic Resource)
+> ###### The Devil's Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >

@@ -140,7 +140,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ###### Concussive Slam
 
-*You slam an [invisible force](../../../Browse/Perks/Supernatural%20Perks/Invisible%20Force) down upon the target.*
+*You slam an invisible force down upon the target.*
 
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |

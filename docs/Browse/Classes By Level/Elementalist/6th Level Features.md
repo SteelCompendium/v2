@@ -70,7 +70,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ###### Meteor (9 Essence)
 >
-> *You [teleport](../../../../Browse/Movement/Teleport) the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |

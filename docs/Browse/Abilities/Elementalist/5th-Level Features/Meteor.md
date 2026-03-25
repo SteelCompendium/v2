@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Meteor
 file_dpath: Abilities/Elementalist/5th-Level Features
-flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) the target into the air and let the ground and the elemental force of fire do the rest.
+flavor: You teleport the target into the air and let the ground and the elemental force of fire do the rest.
 item_id: meteor-9-essence
 item_index: '01'
 item_name: Meteor (9 Essence)
@@ -30,7 +30,7 @@ type: feature/ability/elementalist/5th-level-feature
 
 ###### Meteor (9 Essence)
 
-*You [teleport](../../../../../Browse/Movement/Teleport) the target into the air and let the ground and the elemental force of fire do the rest.*
+*You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
 
 | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 | ------------------------------------ | ----------------------------: |

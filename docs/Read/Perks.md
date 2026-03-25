@@ -229,7 +229,7 @@ Whenever you make a test to recall lore and don't have a skill that applies to t
 
 #### Specialist
 
-You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your specialist knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
+You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your [specialist](../../Browse/Perks/Lore%20Perks/Specialist) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
 
 #### Traveling Sage
 
@@ -244,7 +244,7 @@ This section presents supernatural perks in alphabetical order.
 You have the following ability.
 
 <!-- -->
-> ###### [Arcane Trick](../../Browse/Perks/Supernatural%20Perks/Arcane%20Trick)
+> ###### Arcane Trick
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >
@@ -296,7 +296,7 @@ If your [familiar](../../Browse/Perks/Supernatural%20Perks/Familiar) is destroye
 You have the following ability.
 
 <!-- -->
-> ###### [Invisible Force](../../Browse/Perks/Supernatural%20Perks/Invisible%20Force)
+> ###### Invisible Force
 >
 > *You manipulate a tiny object with your mind.*
 >
@@ -311,7 +311,7 @@ You have the following ability.
 You have the following ability.
 
 <!-- -->
-> ###### [Psychic Whisper](../../Browse/Perks/Supernatural%20Perks/Psychic%20Whisper)
+> ###### Psychic Whisper
 >
 > *You send a one-way telepathic message to a friend.*
 >

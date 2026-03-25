@@ -19,4 +19,4 @@ type: feature/trait/elementalist/1st-level-feature
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your Hurl Element ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability (see below) also gains this bonus when you use it to deal fire damage.

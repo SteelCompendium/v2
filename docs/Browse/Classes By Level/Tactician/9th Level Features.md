@@ -22,7 +22,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 #### 9th-Level Doctrine Ability
 
-Your tactical doctrine grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 
@@ -31,7 +31,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the [shadow](../../../../Browse/Classes/Shadow) colleges.*
+> *I had to pry this secret from the shadow colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |

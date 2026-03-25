@@ -18,7 +18,7 @@ type: feature/trait/fury/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death)!)
 
 <!-- -->
 > ###### Brutal Slam

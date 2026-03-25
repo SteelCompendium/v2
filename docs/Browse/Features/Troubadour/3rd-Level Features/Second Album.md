@@ -19,7 +19,7 @@ type: feature/trait/troubadour/3rd-level-feature
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your Routines feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"

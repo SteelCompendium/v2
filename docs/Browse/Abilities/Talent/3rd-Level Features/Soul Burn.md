@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Soul Burn
 file_dpath: Abilities/Talent/3rd-Level Features
-flavor: You blast their soul out of their body, leaving it to helplessly float back to a [weakened](scc:mcdm.heroes.v1:condition:weakened) husk.
+flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 item_id: soul-burn-7-clarity
 item_index: '02'
 item_name: Soul Burn (7 Clarity)
@@ -29,7 +29,7 @@ type: feature/ability/talent/3rd-level-feature
 
 ###### Soul Burn (7 Clarity)
 
-*You blast their soul out of their body, leaving it to helplessly float back to a [weakened](../../../../../Browse/Conditions/Weakened) husk.*
+*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 
 | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 | ------------------------------------------- | ------------------: |

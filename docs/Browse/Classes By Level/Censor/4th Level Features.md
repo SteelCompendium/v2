@@ -38,24 +38,24 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                     |
-| ---------- | --------------------------- |
-| Creation   | Improved Hands of the Maker |
-| Death      | Seance                      |
-| Fate       | Oracular Warning            |
-| Knowledge  | Saint's Epiphany            |
-| Life       | Blessing of Life            |
-| Love       | Invocation of the Heart     |
-| Nature     | Wode Road                   |
-| Protection | Impervious Touch            |
-| Storm      | Windwalk                    |
-| Sun        | Light of Revelation         |
-| Trickery   | Blessing of Secrets         |
-| War        | Improved Sanctified Weapon  |
+| Domain     | Feature                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Improved Hands of the Maker](../../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
+| Death      | Seance                                                                                                                              |
+| Fate       | [Oracular Warning](../../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
+| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Life       | [Blessing of Life](../../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
+| Love       | [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
+| Nature     | [Wode Road](../../../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
+| Protection | [Impervious Touch](../../../../Browse/Conduit/4th-Level%20Features/Impervious%20Touch)                             |
+| Storm      | [Windwalk](../../../../Browse/Conduit/4th-Level%20Features/Windwalk)                                               |
+| Sun        | [Light of Revelation](../../../../Browse/Conduit/4th-Level%20Features/Light%20of%20Revelation)                     |
+| Trickery   | [Blessing of Secrets](../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)           |
+| War        | [Improved Sanctified Weapon](../../../../Browse/Conduit/4th-Level%20Features/Improved%20Sanctified%20Weapon)       |
 
 ##### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your My Life for Yours ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 
 ##### Blessing of Secrets
 
@@ -80,11 +80,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ##### Improved Hands of the Maker
 
-When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) ability, you can create a mundane object that is size 2 or smaller.
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../../Browse/Conduit/1st-Level%20Features/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 

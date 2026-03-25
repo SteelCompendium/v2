@@ -32,7 +32,7 @@ When you gain ferocity at the start of each of your turns during combat, you gai
 
 #### Growing Ferocity Improvement
 
-Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.
+Your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 10 or more ferocity.
 
 #### Skill
 

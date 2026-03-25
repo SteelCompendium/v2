@@ -18,4 +18,4 @@ type: feature/trait/conduit/1st-level-feature
 
 ##### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.

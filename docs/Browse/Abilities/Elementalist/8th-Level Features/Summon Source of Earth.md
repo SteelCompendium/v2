@@ -61,7 +61,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 <!-- -->
 > **Earth Harness**
 >
-> A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+> A creature that has the [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me) ability can use it as a free action to meld into the source.
 
 <!-- -->
 > **Boulder Bash**

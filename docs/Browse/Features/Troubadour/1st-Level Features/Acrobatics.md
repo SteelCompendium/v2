@@ -19,7 +19,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Acrobatics

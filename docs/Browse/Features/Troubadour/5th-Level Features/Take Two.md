@@ -19,7 +19,7 @@ type: feature/trait/troubadour/5th-level-feature
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Take Two!

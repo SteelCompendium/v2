@@ -17,7 +17,7 @@ type: perk/supernatural
 You have the following ability.
 
 <!-- -->
-> ###### [Psychic Whisper](../../../../Browse/Perks/Supernatural%20Perks/Psychic%20Whisper)
+> ###### Psychic Whisper
 >
 > *You send a one-way telepathic message to a friend.*
 >

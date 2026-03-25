@@ -26,16 +26,16 @@ Your elemental specialization grants you a feature, as shown on the 8th-Level El
 
 ###### 8th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                |
-| -------------- | ---------------------- |
-| Earth          | Summon Source of Earth |
-| Fire           | The Flame Primordial   |
-| Green          | Chimeric Manifestation |
-| Void           | Black Hole Star        |
+| Specialization | Feature                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Summon Source of Earth](../../../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth) |
+| Fire           | [The Flame Primordial](../../../../Browse/Elementalist/8th-Level%20Features/The%20Flame%20Primordial)                 |
+| Green          | [Chimeric Manifestation](../../../../Browse/Elementalist/8th-Level%20Features/Chimeric%20Manifestation)               |
+| Void           | [Black Hole Star](../../../../Browse/Elementalist/8th-Level%20Features/Black%20Hole%20Star)                           |
 
 ##### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your Hurl Element ability and [vertical](../../../../Browse/Movement/Vertical) pull that target up to 5 squares. If their [stability](../../../../Browse/Movement/Stability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../../../Browse/Movement/Stability) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability and [vertical](../../../../Browse/Movement/Vertical) pull that target up to 5 squares. If their [stability](../../../../Browse/Movement/Stability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../../../Browse/Movement/Stability) for your allies.
 
 Additionally, your Mantle of Essence improves. While in the area of the aura, enemies and objects have their [stability](../../../../Browse/Movement/Stability) reduced by an amount equal to your level.
 
@@ -49,7 +49,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -92,7 +92,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >

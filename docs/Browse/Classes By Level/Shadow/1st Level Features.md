@@ -44,7 +44,7 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../../../Browse/Shadow/1st-Level%20Features/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
@@ -54,11 +54,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you one or two f
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                    |
-| --------------- | -------------------------- |
-| Black Ash       | Black Ash Teleport         |
-| Caustic Alchemy | Coat the Blade, Smoke Bomb |
-| Harlequin Mask  | I'm No Threat              |
+| College         | Feature                                                                                                                                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | Black Ash Teleport                                                                                                                                                                                         |
+| Caustic Alchemy | [Coat the Blade](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../../../Browse/Shadow/1st-Level%20Features/Smoke%20Bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                              |
 
 ##### Black Ash Teleport
 
@@ -107,7 +107,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, you gain a +1 bonus to the distance you can shift.
 >
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 >
@@ -123,11 +123,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a triggered 
 
 ###### College Triggered Actions Table
 
-| College         | Triggered Action      |
-| --------------- | --------------------- |
-| Black Ash       | In All This Confusion |
-| Caustic Alchemy | Defensive Roll        |
-| Harlequin Mask  | Clever Trick          |
+| College         | Triggered Action                                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) |
+| Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll)                   |
+| Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -199,7 +199,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Teamwork Has Its Place.)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place).)
 
 <!-- -->
 > ###### Gasping in Pain
@@ -297,7 +297,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 <!-- -->
 > ###### Eviscerate (3 Insight)
 >
-> *You leave your foe [bleeding](../../../../Browse/Conditions/Bleeding) out after a devastating attack.*
+> *You leave your foe bleeding out after a devastating attack.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |

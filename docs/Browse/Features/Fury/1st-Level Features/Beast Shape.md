@@ -19,4 +19,4 @@ type: feature/trait/fury/1st-level-feature
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your Growing Ferocity feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.

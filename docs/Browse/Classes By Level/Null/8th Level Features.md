@@ -26,11 +26,11 @@ Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as 
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature           |
-| ------------- | ----------------- |
-| Chronokinetic | Shared Momentum   |
-| Cryokinetic   | Synaptic Triage   |
-| Metakinetic   | Inertial Dampener |
+| Tradition     | Feature                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| Chronokinetic | [Shared Momentum](../../../../Browse/Null/8th-Level%20Features/Shared%20Momentum)     |
+| Cryokinetic   | [Synaptic Triage](../../../../Browse/Null/8th-Level%20Features/Synaptic%20Triage)     |
+| Metakinetic   | [Inertial Dampener](../../../../Browse/Null/8th-Level%20Features/Inertial%20Dampener) |
 
 ##### Inertial Dampener
 
@@ -38,7 +38,7 @@ You and each creature or object of your choice in the area of your [Null](../../
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](../../../../Browse/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your [Null](../../../../Browse/Classes/Null) Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ###### Arcane Purge (11 Discipline)
 >
-> *You focus your [null](../../../../Browse/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |

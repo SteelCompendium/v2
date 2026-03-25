@@ -40,7 +40,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cinderstorm (9 Insight)
 >
-> *You [teleport](../../../../../Browse/Movement/Teleport) your friends in a burst of ash and fire.*
+> *You teleport your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |

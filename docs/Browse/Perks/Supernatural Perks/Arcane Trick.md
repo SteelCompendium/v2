@@ -17,7 +17,7 @@ type: perk/supernatural
 You have the following ability.
 
 <!-- -->
-> ###### [Arcane Trick](../../../../Browse/Perks/Supernatural%20Perks/Arcane%20Trick)
+> ###### Arcane Trick
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >

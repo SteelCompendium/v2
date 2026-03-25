@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
 
 <!-- -->
 > ###### Misdirecting Strike (7 Insight)

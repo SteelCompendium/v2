@@ -16,4 +16,4 @@ type: condition
 
 While a creature is [bleeding](../../../Browse/Conditions/Bleeding), whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](../../../Browse/Classes/Tactician)'s Strike Now ability triggers the damage from the [bleeding](../../../Browse/Conditions/Bleeding) condition.
+You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](../../../Browse/Classes/Tactician)'s [Strike Now](../../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now) ability triggers the damage from the [bleeding](../../../Browse/Conditions/Bleeding) condition.

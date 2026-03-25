@@ -32,4 +32,4 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../../../Browse/Elementalist/1st-Level%20Features/A%20Beyonding%20of%20Vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.

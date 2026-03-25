@@ -33,6 +33,6 @@ type: feature/ability/shadow/2nd-level-feature
 | ---------------------- | -----------------: |
 | **📏 Self; see below** |        **🎯 Self** |
 
-**Trigger:** You use your In All This Confusion ability.
+**Trigger:** You use your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../../Browse/Movement/Teleport), you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability. Before you [teleport](../../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion). After you [teleport](../../../../../Browse/Movement/Teleport), you can spend a Recovery.

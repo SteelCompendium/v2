@@ -18,4 +18,4 @@ type: feature/trait/shadow/7th-level-feature
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../../../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.

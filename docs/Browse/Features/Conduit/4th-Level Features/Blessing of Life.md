@@ -19,4 +19,4 @@ type: feature/trait/conduit/4th-level-feature
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability regains Stamina, they regain additional Stamina equal to your Intuition score.

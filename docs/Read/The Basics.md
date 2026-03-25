@@ -28,7 +28,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](../../Browse/Classes/Tactician)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](../../Browse/Classes/Talent)):** *Linn uses her Minor Telekinesis ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](../../Browse/Classes/Talent)):** *Linn uses her [Minor Telekinesis](../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
 **James (playing Korvo, a [shadow](../../Browse/Classes/Shadow)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
@@ -116,7 +116,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../Browse/Classes/Fury) uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../Browse/Classes/Fury) uses their [Brutal Slam](../../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
 A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../Browse/Classes/Tactician) might not have an ability that lets them [climb](../../Browse/Movement/Climb%20or%20Swim) up the face of a cliff, so [climbing](../../Browse/Movement/Climb%20or%20Swim) is an activity they can attempt with a test. An [elementalist](../../Browse/Classes/Elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests) for more information.
 
@@ -236,13 +236,13 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../../Browse/Classes/Tactician) takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../../Browse/Classes/Tactician) takes 7 damage and uses the [Parry](../../Browse/Abilities/Tactician/1st-Level%20Features/Parry) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../../Browse/Ancestries/Human), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../../Browse/Classes/Elementalist) can't use their Return to Formlessness ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../../Browse/Classes/Elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../../Browse/Classes/Elementalist) can't use their [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../../Browse/Classes/Elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -327,7 +327,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
-Since this game encompasses power levels from hometown heroes to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
+Since this game encompasses power levels from hometown heroes to [demigods](../../Browse/Titles/4th%20Echelon/Demigod), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 

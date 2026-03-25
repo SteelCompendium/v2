@@ -26,11 +26,11 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you two features, 
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                             |
-| -------- | ------------------------------------ |
-| Exorcist | Saint's Vigilance, A Sense for Truth |
-| Oracle   | It Was Foretold, Judge of Character  |
-| Paragon  | Lead by Example, Stalwart Icon       |
+| Order    | Features                                                                                                                                                                                                             |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | Saint's Vigilance, [A Sense for Truth](../../../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth)                                                                                      |
+| Oracle   | [It Was Foretold](../../../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character) |
+| Paragon  | [Lead by Example](../../../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)             |
 
 ##### It Was Foretold
 

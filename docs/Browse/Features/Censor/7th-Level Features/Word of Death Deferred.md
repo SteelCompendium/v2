@@ -19,6 +19,6 @@ type: feature/trait/censor/7th-level-feature
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your My Life for Yours ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.

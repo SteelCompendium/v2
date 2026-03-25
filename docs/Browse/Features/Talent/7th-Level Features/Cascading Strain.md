@@ -18,4 +18,4 @@ type: feature/trait/talent/7th-level-feature
 
 #### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your Mind Spike ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability to take the same damage.

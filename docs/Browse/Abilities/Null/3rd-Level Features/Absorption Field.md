@@ -8,7 +8,7 @@ distance: Self
 feature_type: ability
 file_basename: Absorption Field
 file_dpath: Abilities/Null/3rd-Level Features
-flavor: Your [null](scc:mcdm.heroes.v1:class:null) field absorbs kinetic energy.
+flavor: Your null field absorbs kinetic energy.
 item_id: absorption-field-7-discipline
 item_index: '01'
 item_name: Absorption Field (7 Discipline)
@@ -26,7 +26,7 @@ type: feature/ability/null/3rd-level-feature
 
 ###### Absorption Field (7 Discipline)
 
-*Your [null](../../../../../Browse/Classes/Null) field absorbs kinetic energy.*
+*Your null field absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |
 | ----------- | -----------: |

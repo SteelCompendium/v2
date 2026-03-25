@@ -34,20 +34,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                      |
-| ---------- | ---------------------------- |
-| Creation   | Divine Quartermaster         |
-| Death      | Word of Death Deferred       |
-| Fate       | Word of Fate Denied          |
-| Knowledge  | Gods' Library                |
-| Life       | Font of Grace                |
-| Love       | Covenant of the Heart        |
-| Nature     | Nature's Bounty              |
-| Protection | Blessing of Iron             |
-| Storm      | Thunderstruck                |
-| Sun        | Light of the Burning Sun     |
-| Trickery   | Trinity of Trickery          |
-| War        | Your Triumphs Are Remembered |
+| Domain     | Feature                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](../../../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                       |
+| Life       | [Font of Grace](../../../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
+| Nature     | Nature's Bounty                                                                                                                     |
+| Protection | [Blessing of Iron](../../../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
+| Storm      | Thunderstruck                                                                                                                       |
+| Sun        | [Light of the Burning Sun](../../../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -55,18 +55,18 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and [teleport](../../../../Browse/Movement/Teleport) to them.*
+> *You concentrate on a friend and teleport to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -74,7 +74,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your Healing Grace ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your Minor Miracle feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -117,7 +117,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your Healing Grace ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 

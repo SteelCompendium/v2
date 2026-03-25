@@ -104,7 +104,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s Hesitation Is Weakness ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s [Hesitation Is Weakness](../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
@@ -122,9 +122,9 @@ The [Movement](#page-281-3) section below breaks down how your move action works
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury) hero can use the Lines of Force triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury) hero can use the [Lines of Force](../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their Hesitation Is Weakness ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their In All This Confusion triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their [Hesitation Is Weakness](../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -148,7 +148,7 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
 Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
@@ -395,7 +395,7 @@ A creature's [stability](../../Browse/Movement/Stability) can't be less than 0, 
 
 ##### "When a Creature Moves..."
 
-Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
+Certain abilities and effects trigger [when a creature moves](../../Browse/Movement/When%20a%20Creature%20Moves) into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
 ##### Death Effects and Forced Movement
 
@@ -411,11 +411,11 @@ When a creature takes the Advance move action, they move a number of squares up 
 
 #### Disengage
 
-When a creature takes the Disengage move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they disengage. A creature who does so can break up their shift with their maneuver and main action however they wish.
+When a creature takes the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they [disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage). A creature who does so can break up their shift with their maneuver and main action however they wish.
 
 #### Ride
 
-A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the Disengage move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -542,17 +542,17 @@ A creature can use this main action to make a [free strike](../../Browse/Abiliti
 
 #### Heal
 
-A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+A creature who uses the [Heal](../../Browse/Abilities/Common/Main%20Actions/Heal) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
 ### Free Strikes
 
 Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see Charge above).
 
-Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s Overwatch ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s [Overwatch](../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch) ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](../../Browse/Classes/Tactician)'s Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](../../Browse/Classes/Tactician)'s [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 

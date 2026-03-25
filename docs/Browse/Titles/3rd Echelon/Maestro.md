@@ -25,7 +25,7 @@ type: title/3rd-echelon
 - *[Devil](../../../../Browse/Ancestries/Devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ###### The [Devil](../../../../Browse/Ancestries/Devil)'s Chord (9 Heroic Resource)
+> ###### The Devil's Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >

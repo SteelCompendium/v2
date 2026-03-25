@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### Umbral Form
 
-As a maneuver, you lose control of yourself, becoming a [shadow](../../../../Browse/Classes/Shadow) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically [climb](../../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
@@ -60,7 +60,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cinderstorm (9 Insight)
 >
-> *You [teleport](../../../../Browse/Movement/Teleport) your friends in a burst of ash and fire.*
+> *You teleport your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |

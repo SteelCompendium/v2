@@ -34,15 +34,15 @@ You gain one skill of your choice.
 
 #### 7th-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature            |
-| ---------- | ------------------ |
-| Insurgent  | Asymmetric Warfare |
-| Mastermind | Grand Strategy     |
-| Vanguard   | Shock and Awe      |
+| Doctrine   | Feature                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Asymmetric Warfare](../../../../Browse/Tactician/7th-Level%20Features/Asymmetric%20Warfare) |
+| Mastermind | [Grand Strategy](../../../../Browse/Tactician/7th-Level%20Features/Grand%20Strategy)         |
+| Vanguard   | [Shock and Awe](../../../../Browse/Tactician/7th-Level%20Features/Shock%20and%20Awe)         |
 
 ##### Asymmetric Warfare
 

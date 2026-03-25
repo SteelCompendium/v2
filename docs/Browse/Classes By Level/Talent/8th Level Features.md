@@ -26,11 +26,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                          |
-| ----------- | --------------------------------- |
-| Chronopathy | Doubling the Hours, Stasis Shield |
-| Telekinesis | Levitation Field, Low Gravity     |
-| Telepathy   | Mindlink, Universal Connection    |
+| Tradition   | Features                                                                                                                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../../../Browse/Talent/8th-Level%20Features/Doubling%20the%20Hours), [Stasis Shield](../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield) |
+| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../../../Browse/Talent/8th-Level%20Features/Low%20Gravity) |
+| Telepathy   | [Mindlink](../../../../Browse/Talent/8th-Level%20Features/Mindlink), [Universal Connection](../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)           |
 
 ##### Doubling the Hours
 
@@ -59,7 +59,7 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your Telepathic Speech feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
 #### Stasis Shield
 
@@ -82,7 +82,7 @@ You have the following ability.
 
 #### Universal Connection
 
-The range of your Telepathic Speech feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to anywhere on the same world.
 
 #### 11-Clarity Ability
 

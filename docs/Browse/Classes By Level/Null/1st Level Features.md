@@ -40,7 +40,7 @@ You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../../../../Browse/Null/1st-Level%20Features/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../../Browse/Classes/Null), but they might appear in future products.)
 
@@ -94,24 +94,24 @@ Some Discipline Mastery benefits can be applied only if you are a specific level
 
 ##### Chronokinetic Mastery
 
-Whenever you use the Inertial Shield ability, you can use the Disengage move action as a free triggered action.
+Whenever you use the [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can use the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
 
 Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                                                    |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver. |
-| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                |
-| 6               | You gain an edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                          |
-| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                               |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                    |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                |
+| Discipline      | Benefit                                                                                                                                                                                                                                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can use the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action either before or after the maneuver. |
+| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
+| 6               | You gain an edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                                           |
+| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
+| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                                     |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
-Whenever you use your Inertial Shield ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the Grab maneuver as a free triggered action.
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the Cryokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -128,7 +128,7 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 ##### Metakinetic Mastery
 
-Whenever you use your Inertial Shield ability, you can then use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the Metakinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -145,11 +145,11 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 #### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the Disengage move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action equal to your Agility score.
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* Speed Augmentation.)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../../Browse/Talent/1st-Level%20Features/Speed%20Augmentation).)
 
 ##### Density Augmentation
 
@@ -161,7 +161,7 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
 
 #### Psionic Martial Arts
 
@@ -173,7 +173,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Faster Than the Eye, Inertial Step.)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../Browse/Abilities/Null/1st-Level%20Features/Faster%20Than%20the%20Eye), [Inertial Step](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Step).)
 
 <!-- -->
 > ###### Dance of Blows
@@ -441,4 +441,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the Disengage move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free maneuver before or after you use this ability.
