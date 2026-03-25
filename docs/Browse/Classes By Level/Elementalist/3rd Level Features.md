@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 3rd-Level Features
 
-As a 3rd-level elementalist, you gain the following features.
+As a 3rd-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### 3rd-Level Specialization Feature
 

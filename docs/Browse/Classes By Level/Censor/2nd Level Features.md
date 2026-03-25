@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 2nd-Level Features
 
-As a 2nd-level censor, you gain the following features.
+As a 2nd-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your censor order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -58,7 +58,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your censor order grants your choice of one of two heroic abilities.
+Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -75,11 +75,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
 >
-> **Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -146,8 +146,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
-> - **17+:** 12 + P damage; P < STRONG, restrained (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 >
-> **Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.

@@ -37,8 +37,8 @@ type: feature/ability/shadow/5th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-- **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+- **≤11:** 10 + A damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **12-16:** 15 + A damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **17+:** 21 + A damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
 
 **Effect:** The target can't communicate with anyone until the end of the encounter.

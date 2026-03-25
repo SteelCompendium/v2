@@ -21,6 +21,6 @@ type: title/1st-echelon
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) 1st-level Hurl Element feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.

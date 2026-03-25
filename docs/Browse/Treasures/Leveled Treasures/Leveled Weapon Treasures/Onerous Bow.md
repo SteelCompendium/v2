@@ -28,8 +28,8 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target weakened until the end of their next turn.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the end of their next turn.
 
-**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target weakened and slowed until the end of their next turn.
+**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of their next turn.
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double bane to target two creatures adjacent to the original target.

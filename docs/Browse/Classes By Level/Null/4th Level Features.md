@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 4th-Level Features
 
-As a 4th-level null, you gain the following features.
+As a 4th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -26,7 +26,7 @@ Your Discipline Mastery feature provides additional benefits when you have 8 or 
 
 #### Enhanced Null Field
 
-While using your Null Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
 #### Perk
 
@@ -34,7 +34,7 @@ You gain one perk of your choice.
 
 #### Regenerative Field
 
-The first time each combat round that an enemy in the area of your Null Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 #### Skill
 

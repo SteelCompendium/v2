@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 2nd-Level Features
 
-As a 2nd-level troubadour, you gain the following features.
+As a 2nd-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
 
 #### Appeal to the Muses
 
@@ -52,7 +52,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Class Act Ability
 
-Your troubadour class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 

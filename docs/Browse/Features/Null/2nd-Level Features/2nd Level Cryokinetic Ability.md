@@ -31,9 +31,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-> - **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -44,4 +44,4 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.

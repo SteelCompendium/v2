@@ -8,7 +8,7 @@ distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Eviscerate
 file_dpath: Abilities/Shadow/1st-Level Features
-flavor: You leave your foe bleeding out after a devastating attack.
+flavor: You leave your foe [bleeding](scc:mcdm.heroes.v1:condition:bleeding) out after a devastating attack.
 item_id: eviscerate-3-insight
 item_index: '02'
 item_name: Eviscerate (3 Insight)
@@ -29,7 +29,7 @@ type: feature/ability/shadow/1st-level-feature
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe bleeding out after a devastating attack.*
+*You leave your foe [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -37,6 +37,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
-- **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
-- **17+:** 10 + A damage; A < STRONG, bleeding (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+- **17+:** 10 + A damage; A < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)

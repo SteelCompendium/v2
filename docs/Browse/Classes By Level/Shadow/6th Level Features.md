@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 6th-Level Features
 
-As a 6th-level shadow, you gain the following features.
+As a 6th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
 
 #### Perk
 
@@ -22,9 +22,9 @@ You gain one perk of your choice.
 
 #### Umbral Form
 
-As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically climb at full speed while moving.
+- You can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -34,7 +34,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your shadow college grants your choice of one of two heroic abilities.
+Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -60,13 +60,13 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cinderstorm (9 Insight)
 >
-> *You teleport your friends in a burst of ash and fire.*
+> *You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -101,7 +101,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can fly until the end of the encounter.
+> - **12-16:** The creature can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities

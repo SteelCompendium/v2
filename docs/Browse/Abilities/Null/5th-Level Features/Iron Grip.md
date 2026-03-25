@@ -37,8 +37,8 @@ type: feature/ability/null/5th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 10 + A damage; A < WEAK, grabbed
-- **12-16:** 14 + A damage; A < AVERAGE, grabbed
-- **17+:** 18 + A damage; A < STRONG, grabbed
+- **≤11:** 10 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **17+:** 18 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
 
-**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.

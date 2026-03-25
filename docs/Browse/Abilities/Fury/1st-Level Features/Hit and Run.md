@@ -36,6 +36,6 @@ type: feature/ability/fury/1st-level-feature
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
-- **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+- **17+:** 7 + M damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 **Effect:** You can shift 1 square.

@@ -24,11 +24,11 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* Climb, Heal, Navigate.)
+**Skills:** The Navigate skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Heal, Navigate.)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* Wood Wise.)
+**Perk:** One exploration perk (*Quick Build:* [Wood Wise](https://steelcompendium.io/v2/Browse/Rules/Perks/Exploration%20Perks/Wood%20Wise).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

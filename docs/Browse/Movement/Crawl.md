@@ -14,4 +14,4 @@ type: movement
 
 ##### Crawl
 
-If you are prone (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain prone and crawl on the ground. Doing so costs you 1 additional square of movement for every square you crawl. If you intentionally want to crawl, you can fall prone as a free maneuver. While voluntarily prone, you can choose to stand as a free maneuver.
+If you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl). If you intentionally want to [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl), you can fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) as a free maneuver. While voluntarily [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you can choose to stand as a free maneuver.

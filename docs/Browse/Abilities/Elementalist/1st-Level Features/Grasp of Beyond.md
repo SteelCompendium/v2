@@ -6,7 +6,7 @@ distance: Melee 1
 feature_type: ability
 file_basename: Grasp of Beyond
 file_dpath: Abilities/Elementalist/1st-Level Features
-flavor: You absorb the life energy of another creature and use it to teleport.
+flavor: You absorb the life energy of another creature and use it to [teleport](scc:mcdm.heroes.v1:movement:teleport).
 item_id: grasp-of-beyond
 item_index: '19'
 item_name: Grasp of Beyond
@@ -27,7 +27,7 @@ type: feature/ability/elementalist/1st-level-feature
 
 ###### Grasp of Beyond
 
-*You absorb the life energy of another creature and use it to teleport.*
+*You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
 
 | **Magic, Melee, Strike, Void** |     **Main action** |
 | ------------------------------ | ------------------: |
@@ -39,4 +39,4 @@ type: feature/ability/elementalist/1st-level-feature
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can teleport up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.

@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)

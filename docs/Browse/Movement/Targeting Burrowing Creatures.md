@@ -14,10 +14,10 @@ type: movement
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a burrowing creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The burrowing creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while burrowing, you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while burrowing and are adjacent to another creature who is burrowing, you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) and are adjacent to another creature who is [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while burrowing.
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow).

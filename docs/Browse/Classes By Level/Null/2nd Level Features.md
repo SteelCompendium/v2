@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level null, you gain the following features.
+As a 2nd-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -34,11 +34,11 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 
@@ -48,7 +48,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your null tradition grants your choice of one of two abilities.
+Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -95,9 +95,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-> - **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -108,7 +108,7 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ##### 2nd-Level Metakinetic Ability
 
@@ -144,4 +144,4 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) even while dying.

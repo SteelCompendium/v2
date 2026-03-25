@@ -55,7 +55,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -67,7 +67,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can teleport up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -112,9 +112,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground

@@ -72,8 +72,8 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
 >
 > **Effect:** This damage ignores immunity.

@@ -14,9 +14,9 @@ type: ancestry
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) for snatching children who wander too far into the woods. [Humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) *should* fear the trees.
 
-The wode elves' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
+The [wode elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -32,11 +32,11 @@ The wode elves' natural ability to mask their presence, called *glamor*, complem
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
-The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
+The elves were tall, taller than an adult [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -60,9 +60,9 @@ The elf smiled at the children. "But have no fear," they said. Their Vaslorian w
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
-Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other wode elf's garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
+Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
 
-Llyander turned to Rhythylthin and the rest of the wode elf band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
+Llyander turned to Rhythylthin and the rest of the [wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
@@ -98,7 +98,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-Wode elf heroes have access to the following traits.
+[Wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 
@@ -142,6 +142,6 @@ You have the following signature ability. Signature abilities can be used at wil
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)

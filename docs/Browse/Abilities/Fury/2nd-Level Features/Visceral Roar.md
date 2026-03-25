@@ -35,8 +35,8 @@ type: feature/ability/fury/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 2 damage; push 1; M < WEAK, dazed (save ends)
-- **12-16:** 5 damage; push 2; M < AVERAGE, dazed (save ends)
-- **17+:** 7 damage; push 3; M < STRONG, dazed (save ends)
+- **≤11:** 2 damage; push 1; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **17+:** 7 damage; push 3; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
 
 **Effect:** This ability deals your primordial damage type (see Stormwight Kits).

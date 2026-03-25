@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 6th-Level Features
 
-As a 6th-level troubadour, you gain the following features.
+As a 6th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -37,7 +37,7 @@ You have the following performance ability, which is usable with your Routines f
 
 #### 6th-Level Class Act Ability
 
-Your troubadour class act grants your choice of one of two heroic abilities.
+Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -54,9 +54,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, frightened (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -84,9 +84,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, bleeding (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, bleeding (save ends)
-> - **17+:** 24 + A damage; bleeding (EoT), or if M < STRONG, bleeding (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **17+:** 24 + A damage; [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -112,13 +112,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A prone target ignores this ability.
+> **Effect:** A [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, prone
-> - **12-16:** 10 sonic damage; P < AVERAGE, prone
-> - **17+:** 13 sonic damage; P < STRONG, prone
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)

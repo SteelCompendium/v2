@@ -14,17 +14,17 @@ type: class/null/level
 
 ### 1st-Level Features
 
-As a 1st-level null, you gain the following features.
+As a 1st-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your null tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -34,7 +34,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -42,7 +42,7 @@ You lose any remaining discipline at the end of the encounter.
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), but they might appear in future products.)
 
 #### Null Field
 
@@ -59,7 +59,7 @@ You project a psionic field of order around your body, dampening the effects of 
 >
 > **Effect:** Each target reduces their potencies by 1.
 >
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your Null Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field one of the following additional effects until the start of your next turn:
 >
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -88,7 +88,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
 Some Discipline Mastery benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -117,14 +117,14 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 ###### Cryokinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                   |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                  |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
+| Discipline      | Benefit                                                                                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.    |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you gain 1 surge.  |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you gain 2 surges. |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                          |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.          |
 
 ##### Metakinetic Mastery
 
@@ -237,9 +237,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, grabbed
-> - **12-16:** 7 + A damage; A < AVERAGE, grabbed
-> - **17+:** 9 + A damage; A < STRONG, grabbed
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -252,9 +252,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; taunted (EoT)
-> - **12-16:** 5 + A damage; taunted (EoT), slide 1
-> - **17+:** 6 + A damage; taunted (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -286,7 +286,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -299,9 +299,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-> - **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
 
 ##### Heroic Abilities
 
@@ -337,7 +337,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > | ----------------- | ----------------------------: |
 > | **📏 2 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.
+> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability takes psychic damage equal to your Intuition score.
 
 <!-- -->
 > ###### Relentless Nemesis (3 Discipline)
@@ -367,9 +367,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, dazed and slowed (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, dazed and slowed (save ends)
-> - **17+:** 7 + A damage; I < STRONG, dazed and slowed (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -386,11 +386,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, weakened (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, weakened (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, weakened (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
 >
-> **Effect:** While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -424,7 +424,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is slowed, has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)

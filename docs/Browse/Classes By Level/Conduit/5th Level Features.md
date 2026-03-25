@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 5th-Level Features
 
-As a 5th-level conduit, you gain the following features.
+As a 5th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
 
 #### 5th-Level Domain Feature
 
@@ -52,9 +52,9 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 corruption damage; I < WEAK, prone and can't stand (save ends)
-> - **12-16:** 7 corruption damage; I < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 11 corruption damage; I < STRONG, prone and can't stand (save ends)
+> - **≤11:** 4 corruption damage; I < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 11 corruption damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Sanctuary (9 Piety)

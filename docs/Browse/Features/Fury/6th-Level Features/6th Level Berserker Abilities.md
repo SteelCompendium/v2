@@ -29,7 +29,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your maximum [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >

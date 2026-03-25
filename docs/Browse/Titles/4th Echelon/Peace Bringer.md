@@ -15,7 +15,7 @@ type: title/4th-echelon
 
 #### Peace Bringer
 
-*There goes Diana, peace bringer. She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
+*There goes Diana, [peace bringer](https://steelcompendium.io/v2/Browse/Rules/Titles/4th%20Echelon/Peace%20Bringer). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 

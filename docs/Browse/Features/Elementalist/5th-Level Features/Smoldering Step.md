@@ -19,6 +19,6 @@ type: feature/trait/elementalist/5th-level-feature
 
 ##### Smoldering Step
 
-You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) into an area of fire your size or larger and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.

@@ -33,4 +33,4 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 >
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 >
-> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target can stand up.

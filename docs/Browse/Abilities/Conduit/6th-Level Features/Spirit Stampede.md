@@ -37,6 +37,6 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 5 damage; M < WEAK, prone and can't stand (save ends)
-- **12-16:** 8 damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 11 damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 5 damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+- **12-16:** 8 damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+- **17+:** 11 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)

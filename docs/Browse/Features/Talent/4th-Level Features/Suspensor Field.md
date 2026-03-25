@@ -18,6 +18,6 @@ type: feature/trait/talent/4th-level-feature
 
 #### Suspensor Field
 
-You can fly. While flying, your stability is reduced to 0 and can't be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+You can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). While [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), your stability is reduced to 0 and can't be increased. If you can already [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you have a +2 bonus to speed while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.

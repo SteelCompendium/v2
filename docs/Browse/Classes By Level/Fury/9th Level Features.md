@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 9th-Level Features
 
-As a 9th-level fury, you gain the following features.
+As a 9th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
 
 #### Harbinger of the Primordial Chaos
 

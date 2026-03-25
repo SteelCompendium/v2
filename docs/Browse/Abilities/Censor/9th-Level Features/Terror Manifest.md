@@ -37,8 +37,8 @@ type: feature/ability/censor/9th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
-- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
+- **≤11:** 7 + P psychic damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **17+:** 13 + P psychic damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
 
-**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+**Effect:** While [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.

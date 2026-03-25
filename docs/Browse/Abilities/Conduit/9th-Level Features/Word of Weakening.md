@@ -37,8 +37,8 @@ type: feature/ability/conduit/9th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 10 + I corruption damage; A < WEAK, weakened (save ends)
-- **12-16:** 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-- **17+:** 21 + I corruption damage; A < STRONG, weakened (save ends)
+- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **17+:** 21 + I corruption damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
 
-**Effect:** While weakened this way, the target has damage weakness 10.
+**Effect:** While [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way, the target has damage weakness 10.

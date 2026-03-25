@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 8th-Level Features
 
-As an 8th-level shadow, you gain the following features.
+As an 8th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -34,7 +34,7 @@ Your shadow college grants you a feature, as shown on the 8th-Level College Feat
 
 ##### Cinder Step
 
-Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). When you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, it counts as using a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
@@ -66,7 +66,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already weakened foe.*
+> *A practiced attack will instantly kill an already [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -83,7 +83,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |
@@ -91,9 +91,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-> - **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+> - **≤11:** 11 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Speed of Shadows (11 Insight)
@@ -117,6 +117,6 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 damage; M < WEAK, slowed (save ends)
-> - **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 24 damage; M < STRONG, slowed (save ends)
+> - **≤11:** 12 damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 24 damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)

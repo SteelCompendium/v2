@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 7th-Level Features
 
-As a 7th-level fury, you gain the following features.
+As a 7th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 

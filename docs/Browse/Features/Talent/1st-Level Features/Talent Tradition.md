@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -29,4 +29,4 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a talent tradition from the following options: chronopathy, telekinesis, or telepathy. Your talent tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)

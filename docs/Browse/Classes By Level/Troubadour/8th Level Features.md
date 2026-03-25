@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 8th-Level Features
 
-As an 8th-level troubadour, you gain the following features.
+As an 8th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Class Act Feature
 
-Your troubadour class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 
@@ -81,7 +81,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to teleport an ally within distance of that ability into the creature's space in a plume of rose petals. You or the teleported ally can then make a melee free strike.
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) ally can then make a melee free strike.
 
 <!-- -->
 > ###### Power Ballad (11 Drama)

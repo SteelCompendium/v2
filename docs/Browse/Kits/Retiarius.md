@@ -14,7 +14,7 @@ type: kit
 
 #### Retiarius
 
-The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+The [retiarius](https://steelcompendium.io/v2/Browse/Rules/Kits/Retiarius) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
 ##### Equipment
 
@@ -44,6 +44,6 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; A < WEAK, slowed (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, slowed (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, restrained (EoT)
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (EoT)

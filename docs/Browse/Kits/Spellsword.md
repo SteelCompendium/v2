@@ -14,7 +14,7 @@ type: kit
 
 #### Spellsword
 
-The Spellsword kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
+The [Spellsword](https://steelcompendium.io/v2/Browse/Rules/Kits/Spellsword) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
 ##### Equipment
 

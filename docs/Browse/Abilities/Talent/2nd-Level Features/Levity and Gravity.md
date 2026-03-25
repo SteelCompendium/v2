@@ -38,8 +38,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R damage; M < WEAK, prone
-- **12-16:** 10 + R damage; M < AVERAGE, prone
-- **17+:** 14 + R damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 6 + R damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **12-16:** 10 + R damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **17+:** 14 + R damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
 
 **Strained:** You take half the damage the target takes.

@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, frightened (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)

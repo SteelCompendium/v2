@@ -32,4 +32,4 @@ type: feature/ability/fury/3rd-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) until the end of their turn.

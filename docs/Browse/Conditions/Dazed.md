@@ -14,4 +14,4 @@ type: condition
 
 ##### Dazed
 
-A creature who is dazed can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A dazed creature also can't use triggered actions, free triggered actions, or free maneuvers.
+A creature who is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) creature also can't use triggered actions, free triggered actions, or free maneuvers.

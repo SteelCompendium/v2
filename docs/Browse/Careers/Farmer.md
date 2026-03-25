@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* Monster Whisperer.)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](https://steelcompendium.io/v2/Browse/Rules/Perks/Exploration%20Perks/Monster%20Whisperer).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

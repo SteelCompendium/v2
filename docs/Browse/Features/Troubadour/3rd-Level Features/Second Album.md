@@ -41,4 +41,4 @@ You have the following performance abilities, which are usable with your Routine
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) until the end of their turn.

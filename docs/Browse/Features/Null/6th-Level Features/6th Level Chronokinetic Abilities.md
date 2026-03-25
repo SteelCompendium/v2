@@ -44,6 +44,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 damage; M < WEAK, dazed
-> - **12-16:** 8 damage; M < AVERAGE, dazed
-> - **17+:** 12 damage; M < STRONG, dazed
+> - **≤11:** 6 damage; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+> - **12-16:** 8 damage; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+> - **17+:** 12 damage; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)

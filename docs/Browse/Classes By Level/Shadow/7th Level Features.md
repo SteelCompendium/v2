@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 7th-Level Features
 
-As a 7th-level shadow, you gain the following features.
+As a 7th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
 
 #### Characteristic Increase
 

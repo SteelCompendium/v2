@@ -17,15 +17,15 @@ type: title/3rd-echelon
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
-**Prerequisite:** You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
+**Prerequisite:** You visit the realms of gods, [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil), or other immortal beings and hear a note of the Music of Creation.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the troubadour class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
-- *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
+- *[Devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
-> ###### The Devil's Chord (9 Heroic Resource)
+> ###### The [Devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil)'s Chord (9 Heroic Resource)
 >
 > *Helloooo Orden!*
 >
@@ -36,8 +36,8 @@ type: title/3rd-echelon
 > **Power Roll + Presence:**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
-> - **12-16:** 6 sonic damage; M < AVERAGE, weakened (save ends)
-> - **17+:** 10 sonic damage; M < STRONG, weakened and bleeding (save ends)
+> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **17+:** 10 sonic damage; M < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 

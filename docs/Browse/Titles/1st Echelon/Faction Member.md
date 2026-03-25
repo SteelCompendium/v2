@@ -25,7 +25,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Academic Faction:* You find a sage who can make up to three Reason tests to recall lore or make project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
 - *Guild Faction:* You find an expert crafter who can make up to three project rolls for crafting projects on your behalf. The crafter has a +5 bonus to these tests. These project rolls take 10 uninterrupted minutes each and don't need to be made during a respite.
-- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **human guards**). These minions follow your orders for a day.
+- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) guards**). These minions follow your orders for a day.
 - *Spy Faction:* You find an agent who can provide you with three pieces of information about the settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation motivation or pitfall of an important person.
 
 **Special:** You can gain this title multiple times, once for each faction. You can be stripped of this title if you act against the faction's interests.

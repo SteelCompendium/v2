@@ -23,4 +23,4 @@ type: title/3rd-echelon
 
 - *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to stability against magic or psionic abilities.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
-- *Time Raider Training:* You gain 2 ancestry points to spend on purchased time raider ancestry traits (see [Chapter 3](#page-35-0)).
+- *[Time Raider](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) Training:* You gain 2 ancestry points to spend on purchased [time raider](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) ancestry traits (see [Chapter 3](#page-35-0)).

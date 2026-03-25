@@ -33,10 +33,10 @@ type: title/2nd-echelon
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; M < WEAK, prone and can't stand (save ends)
-> - **12-16:** 11 damage; M < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 16 damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 7 damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the Climb skill. If you already have this skill, you instead gain an edge on tests made using the Climb skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill. While you're [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.

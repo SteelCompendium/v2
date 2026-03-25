@@ -23,7 +23,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cacophony of Cinders (11 Insight)
 >
-> *You tumble through the battle, stabbing foes and teleporting allies.*
+> *You tumble through the battle, stabbing foes and [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) allies.*
 >
 > | **Magic, Melee, Weapon** | **Main action** |
 > | ------------------------ | --------------: |
@@ -33,9 +33,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -52,4 +52,4 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.

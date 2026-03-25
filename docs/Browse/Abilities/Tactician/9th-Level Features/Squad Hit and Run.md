@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Squad Hit and Run
 file_dpath: Abilities/Tactician/9th-Level Features
-flavor: I had to pry this secret from the shadow colleges.
+flavor: I had to pry this secret from the [shadow](scc:mcdm.heroes.v1:class:shadow) colleges.
 item_id: squad-hit-and-run-11-focus
 item_index: '06'
 item_name: Squad! Hit and Run! (11 Focus)
@@ -27,7 +27,7 @@ type: feature/ability/tactician/9th-level-feature
 
 ###### Squad! Hit and Run! (11 Focus)
 
-*I had to pry this secret from the shadow colleges.*
+*I had to pry this secret from the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges.*
 
 | **Ranged**       |            **Main action** |
 | ---------------- | -------------------------: |

@@ -37,10 +37,10 @@ type: feature/ability/elementalist/5th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 3 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 5 corruption damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **17+:** 5 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 
-**Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is restrained (save ends).
+**Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends).
 
 **Persistent 1:** The area remains until the start of your next turn.

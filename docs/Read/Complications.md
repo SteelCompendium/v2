@@ -32,7 +32,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose Infernal Contract as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](https://steelcompendium.io/v2/Browse/Rules/Complications/Infernal%20Contract) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -44,163 +44,163 @@ Complications are presented in alphabetical order.
 
 ###### Complications Table 2-Column
 
-| d100 | Complication                        | d100 | Complication               |
-| ---- | ----------------------------------- | ---- | -------------------------- |
-| 1    | Advanced Studies                    | 51   | Loner                      |
-| 2    | Amnesia                             | 52   | Lost in Time               |
-| 3    | Animal Form                         | 53   | Lost Your Head             |
-| 4    | Antihero                            | 54   | Lucky                      |
-| 5    | Artifact Bonded                     | 55   | Master Chef                |
-| 6    | Bereaved                            | 56   | Meddling Butler            |
-| 7    | Betrothed                           | 57   | Medium                     |
-| 8    | Chaos Touched                       | 58   | Medusa Blood               |
-| 9    | Chosen One                          | 59   | Misunderstood              |
-| 10   | Consuming Interest                  | 60   | Mundane                    |
-| 11   | Corrupted Mentor                    | 61   | Outlaw                     |
-| 12   | Coward                              | 62   | Pirate                     |
-| 13   | Crash Landed                        | 63   | Preacher                   |
-| 14   | Cult Victim                         | 64   | Primordial Sickness        |
-| 15   | Curse of Caution                    | 65   | Prisoner of the Synlirii   |
-| 16   | Curse of Immortality                | 66   | Promising Apprentice       |
-| 17   | Curse of Misfortune                 | 67   | Psychic Eruption           |
-| 18   | Curse of Poverty                    | 68   | Raised by Beasts           |
-| 19   | Curse of Punishment                 | 69   | Refugee                    |
-| 20   | Curse of Stone                      | 70   | Rival                      |
-| 21   | Cursed Weapon                       | 71   | Rogue Talent               |
-| 22   | Disgraced                           | 72   | Runaway                    |
-| 23   | Dragon Dreams                       | 73   | Searching for a Cure       |
-| 24   | Elemental Inside                    | 74   | Secret Identity            |
-| 25   | Evanesceria                         | 75   | Secret Twin                |
-| 26   | Exile                               | 76   | Self-Taught                |
-| 27   | Fallen Immortal                     | 77   | Sewer Folk                 |
-| 28   | Famous Relative                     | 78   | Shadow Born                |
-| 29   | Feytouched                          | 79   | Shared Spirit              |
-| 30   | Fiery Ideal                         | 80   | Shattered Legacy           |
-| 31   | Fire and Chaos                      | 81   | Shipwrecked                |
-| 32   | Following in the Footsteps          | 82   | Sibling's Shield           |
-| 33   | Forbidden Romance                   | 83   | Silent Sentinel            |
-| 34   | Frostheart                          | 84   | Slight Case of Lycanthropy |
-| 35   | Getting Too Old for This            | 85   | Stolen Face                |
-| 36   | Gnoll-Mauled                        | 86   | Strange Inheritance        |
-| 37   | Greening                            | 87   | Stripped of Rank           |
-| 38   | Grifter                             | 88   | Thrill Seeker              |
-| 39   | Grounded                            | 89   | Vampire Scion              |
-| 40   | Guilty Conscience                   | 90   | Voice in Your Head         |
-| 41   | Hawk Rider                          | 91   | Vow of Duty                |
-| 42   | Host Body                           | 92   | Vow of Honesty             |
-| 43   | Hunted                              | 93   | Waking Dreams              |
-| 44   | Hunter                              | 94   | War Dog Collar             |
-| 45   | Indebted                            | 95   | War of Assassins           |
-| 46   | Infernal Contract                   | 96   | Ward                       |
-| 47   | Infernal Contract... But, Like, Bad | 97   | Waterborn                  |
-| 48   | Ivory Tower                         | 98   | Wodewalker                 |
-| 49   | Lifebonded                          | 99   | Wrathful Spirit            |
-| 50   | Lightning Soul                      | 100  | Wrongly Imprisoned         |
+| d100 | Complication                                                                                                     | d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](https://steelcompendium.io/v2/Browse/Rules/Complications/Advanced%20Studies)                         | 51   | [Loner](https://steelcompendium.io/v2/Browse/Rules/Complications/Loner)                                                 |
+| 2    | [Amnesia](https://steelcompendium.io/v2/Browse/Rules/Complications/Amnesia)                                             | 52   | [Lost in Time](https://steelcompendium.io/v2/Browse/Rules/Complications/Lost%20in%20Time)                               |
+| 3    | [Animal Form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form)                                   | 53   | [Lost Your Head](https://steelcompendium.io/v2/Browse/Rules/Complications/Lost%20Your%20Head)                           |
+| 4    | [Antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero)                                           | 54   | [Lucky](https://steelcompendium.io/v2/Browse/Rules/Complications/Lucky)                                                 |
+| 5    | [Artifact Bonded](https://steelcompendium.io/v2/Browse/Rules/Complications/Artifact%20Bonded)                           | 55   | [Master Chef](https://steelcompendium.io/v2/Browse/Rules/Complications/Master%20Chef)                                   |
+| 6    | [Bereaved](https://steelcompendium.io/v2/Browse/Rules/Complications/Bereaved)                                           | 56   | [Meddling Butler](https://steelcompendium.io/v2/Browse/Rules/Complications/Meddling%20Butler)                           |
+| 7    | [Betrothed](https://steelcompendium.io/v2/Browse/Rules/Complications/Betrothed)                                         | 57   | [Medium](https://steelcompendium.io/v2/Browse/Rules/Complications/Medium)                                               |
+| 8    | [Chaos Touched](https://steelcompendium.io/v2/Browse/Rules/Complications/Chaos%20Touched)                               | 58   | [Medusa Blood](https://steelcompendium.io/v2/Browse/Rules/Complications/Medusa%20Blood)                                 |
+| 9    | [Chosen One](https://steelcompendium.io/v2/Browse/Rules/Complications/Chosen%20One)                                     | 59   | [Misunderstood](https://steelcompendium.io/v2/Browse/Rules/Complications/Misunderstood)                                 |
+| 10   | [Consuming Interest](https://steelcompendium.io/v2/Browse/Rules/Complications/Consuming%20Interest)                     | 60   | [Mundane](https://steelcompendium.io/v2/Browse/Rules/Complications/Mundane)                                             |
+| 11   | [Corrupted Mentor](https://steelcompendium.io/v2/Browse/Rules/Complications/Corrupted%20Mentor)                         | 61   | [Outlaw](https://steelcompendium.io/v2/Browse/Rules/Complications/Outlaw)                                               |
+| 12   | [Coward](https://steelcompendium.io/v2/Browse/Rules/Complications/Coward)                                               | 62   | [Pirate](https://steelcompendium.io/v2/Browse/Rules/Complications/Pirate)                                               |
+| 13   | [Crash Landed](https://steelcompendium.io/v2/Browse/Rules/Complications/Crash%20Landed)                                 | 63   | [Preacher](https://steelcompendium.io/v2/Browse/Rules/Complications/Preacher)                                           |
+| 14   | [Cult Victim](https://steelcompendium.io/v2/Browse/Rules/Complications/Cult%20Victim)                                   | 64   | [Primordial Sickness](https://steelcompendium.io/v2/Browse/Rules/Complications/Primordial%20Sickness)                   |
+| 15   | [Curse of Caution](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Caution)                       | 65   | [Prisoner of the Synlirii](https://steelcompendium.io/v2/Browse/Rules/Complications/Prisoner%20of%20the%20Synlirii)     |
+| 16   | [Curse of Immortality](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Immortality)               | 66   | [Promising Apprentice](https://steelcompendium.io/v2/Browse/Rules/Complications/Promising%20Apprentice)                 |
+| 17   | [Curse of Misfortune](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Misfortune)                 | 67   | Psychic Eruption                                                                                                 |
+| 18   | [Curse of Poverty](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Poverty)                       | 68   | [Raised by Beasts](https://steelcompendium.io/v2/Browse/Rules/Complications/Raised%20by%20Beasts)                       |
+| 19   | [Curse of Punishment](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Punishment)                 | 69   | [Refugee](https://steelcompendium.io/v2/Browse/Rules/Complications/Refugee)                                             |
+| 20   | [Curse of Stone](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Stone)                           | 70   | [Rival](https://steelcompendium.io/v2/Browse/Rules/Complications/Rival)                                                 |
+| 21   | [Cursed Weapon](https://steelcompendium.io/v2/Browse/Rules/Complications/Cursed%20Weapon)                               | 71   | Rogue [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)                                               |
+| 22   | [Disgraced](https://steelcompendium.io/v2/Browse/Rules/Complications/Disgraced)                                         | 72   | [Runaway](https://steelcompendium.io/v2/Browse/Rules/Complications/Runaway)                                             |
+| 23   | [Dragon Dreams](https://steelcompendium.io/v2/Browse/Rules/Complications/Dragon%20Dreams)                               | 73   | [Searching for a Cure](https://steelcompendium.io/v2/Browse/Rules/Complications/Searching%20for%20a%20Cure)             |
+| 24   | [Elemental Inside](https://steelcompendium.io/v2/Browse/Rules/Complications/Elemental%20Inside)                         | 74   | [Secret Identity](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Identity)                           |
+| 25   | [Evanesceria](https://steelcompendium.io/v2/Browse/Rules/Complications/Evanesceria)                                     | 75   | [Secret Twin](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Twin)                                   |
+| 26   | [Exile](https://steelcompendium.io/v2/Browse/Rules/Complications/Exile)                                                 | 76   | Self-Taught                                                                                                      |
+| 27   | [Fallen Immortal](https://steelcompendium.io/v2/Browse/Rules/Complications/Fallen%20Immortal)                           | 77   | [Sewer Folk](https://steelcompendium.io/v2/Browse/Rules/Complications/Sewer%20Folk)                                     |
+| 28   | [Famous Relative](https://steelcompendium.io/v2/Browse/Rules/Complications/Famous%20Relative)                           | 78   | [Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) Born                                                |
+| 29   | [Feytouched](https://steelcompendium.io/v2/Browse/Rules/Complications/Feytouched)                                       | 79   | [Shared Spirit](https://steelcompendium.io/v2/Browse/Rules/Complications/Shared%20Spirit)                               |
+| 30   | [Fiery Ideal](https://steelcompendium.io/v2/Browse/Rules/Complications/Fiery%20Ideal)                                   | 80   | [Shattered Legacy](https://steelcompendium.io/v2/Browse/Rules/Complications/Shattered%20Legacy)                         |
+| 31   | [Fire and Chaos](https://steelcompendium.io/v2/Browse/Rules/Complications/Fire%20and%20Chaos)                           | 81   | [Shipwrecked](https://steelcompendium.io/v2/Browse/Rules/Complications/Shipwrecked)                                     |
+| 32   | [Following in the Footsteps](https://steelcompendium.io/v2/Browse/Rules/Complications/Following%20in%20the%20Footsteps) | 82   | Sibling's Shield                                                                                                 |
+| 33   | [Forbidden Romance](https://steelcompendium.io/v2/Browse/Rules/Complications/Forbidden%20Romance)                       | 83   | [Silent Sentinel](https://steelcompendium.io/v2/Browse/Rules/Complications/Silent%20Sentinel)                           |
+| 34   | [Frostheart](https://steelcompendium.io/v2/Browse/Rules/Complications/Frostheart)                                       | 84   | [Slight Case of Lycanthropy](https://steelcompendium.io/v2/Browse/Rules/Complications/Slight%20Case%20of%20Lycanthropy) |
+| 35   | [Getting Too Old for This](https://steelcompendium.io/v2/Browse/Rules/Complications/Getting%20Too%20Old%20for%20This)   | 85   | [Stolen Face](https://steelcompendium.io/v2/Browse/Rules/Complications/Stolen%20Face)                                   |
+| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](https://steelcompendium.io/v2/Browse/Rules/Complications/Strange%20Inheritance)                   |
+| 37   | [Greening](https://steelcompendium.io/v2/Browse/Rules/Complications/Greening)                                           | 87   | [Stripped of Rank](https://steelcompendium.io/v2/Browse/Rules/Complications/Stripped%20of%20Rank)                       |
+| 38   | [Grifter](https://steelcompendium.io/v2/Browse/Rules/Complications/Grifter)                                             | 88   | [Thrill Seeker](https://steelcompendium.io/v2/Browse/Rules/Complications/Thrill%20Seeker)                               |
+| 39   | [Grounded](https://steelcompendium.io/v2/Browse/Rules/Complications/Grounded)                                           | 89   | [Vampire Scion](https://steelcompendium.io/v2/Browse/Rules/Complications/Vampire%20Scion)                               |
+| 40   | [Guilty Conscience](https://steelcompendium.io/v2/Browse/Rules/Complications/Guilty%20Conscience)                       | 90   | [Voice in Your Head](https://steelcompendium.io/v2/Browse/Rules/Complications/Voice%20in%20Your%20Head)                 |
+| 41   | [Hawk Rider](https://steelcompendium.io/v2/Browse/Rules/Complications/Hawk%20Rider)                                     | 91   | [Vow of Duty](https://steelcompendium.io/v2/Browse/Rules/Complications/Vow%20of%20Duty)                                 |
+| 42   | [Host Body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body)                                       | 92   | [Vow of Honesty](https://steelcompendium.io/v2/Browse/Rules/Complications/Vow%20of%20Honesty)                           |
+| 43   | [Hunted](https://steelcompendium.io/v2/Browse/Rules/Complications/Hunted)                                               | 93   | [Waking Dreams](https://steelcompendium.io/v2/Browse/Rules/Complications/Waking%20Dreams)                               |
+| 44   | [Hunter](https://steelcompendium.io/v2/Browse/Rules/Complications/Hunter)                                               | 94   | [War Dog Collar](https://steelcompendium.io/v2/Browse/Rules/Complications/War%20Dog%20Collar)                           |
+| 45   | [Indebted](https://steelcompendium.io/v2/Browse/Rules/Complications/Indebted)                                           | 95   | [War of Assassins](https://steelcompendium.io/v2/Browse/Rules/Complications/War%20of%20Assassins)                       |
+| 46   | [Infernal Contract](https://steelcompendium.io/v2/Browse/Rules/Complications/Infernal%20Contract)                       | 96   | [Ward](https://steelcompendium.io/v2/Browse/Rules/Complications/Ward)                                                   |
+| 47   | [Infernal Contract](https://steelcompendium.io/v2/Browse/Rules/Complications/Infernal%20Contract)... But, Like, Bad     | 97   | [Waterborn](https://steelcompendium.io/v2/Browse/Rules/Complications/Waterborn)                                         |
+| 48   | [Ivory Tower](https://steelcompendium.io/v2/Browse/Rules/Complications/Ivory%20Tower)                                   | 98   | [Wodewalker](https://steelcompendium.io/v2/Browse/Rules/Complications/Wodewalker)                                       |
+| 49   | [Lifebonded](https://steelcompendium.io/v2/Browse/Rules/Complications/Lifebonded)                                       | 99   | [Wrathful Spirit](https://steelcompendium.io/v2/Browse/Rules/Complications/Wrathful%20Spirit)                           |
+| 50   | [Lightning Soul](https://steelcompendium.io/v2/Browse/Rules/Complications/Lightning%20Soul)                             | 100  | [Wrongly Imprisoned](https://steelcompendium.io/v2/Browse/Rules/Complications/Wrongly%20Imprisoned)                     |
 
 ###### Complications Table
 
-| d100 | Complication                        |
-| ---- | ----------------------------------- |
-| 1    | Advanced Studies                    |
-| 2    | Amnesia                             |
-| 3    | Animal Form                         |
-| 4    | Antihero                            |
-| 5    | Artifact Bonded                     |
-| 6    | Bereaved                            |
-| 7    | Betrothed                           |
-| 8    | Chaos Touched                       |
-| 9    | Chosen One                          |
-| 10   | Consuming Interest                  |
-| 11   | Corrupted Mentor                    |
-| 12   | Coward                              |
-| 13   | Crash Landed                        |
-| 14   | Cult Victim                         |
-| 15   | Curse of Caution                    |
-| 16   | Curse of Immortality                |
-| 17   | Curse of Misfortune                 |
-| 18   | Curse of Poverty                    |
-| 19   | Curse of Punishment                 |
-| 20   | Curse of Stone                      |
-| 21   | Cursed Weapon                       |
-| 22   | Disgraced                           |
-| 23   | Dragon Dreams                       |
-| 24   | Elemental Inside                    |
-| 25   | Evanesceria                         |
-| 26   | Exile                               |
-| 27   | Fallen Immortal                     |
-| 28   | Famous Relative                     |
-| 29   | Feytouched                          |
-| 30   | Fiery Ideal                         |
-| 31   | Fire and Chaos                      |
-| 32   | Following in the Footsteps          |
-| 33   | Forbidden Romance                   |
-| 34   | Frostheart                          |
-| 35   | Getting Too Old for This            |
-| 36   | Gnoll-Mauled                        |
-| 37   | Greening                            |
-| 38   | Grifter                             |
-| 39   | Grounded                            |
-| 40   | Guilty Conscience                   |
-| 41   | Hawk Rider                          |
-| 42   | Host Body                           |
-| 43   | Hunted                              |
-| 44   | Hunter                              |
-| 45   | Indebted                            |
-| 46   | Infernal Contract                   |
-| 47   | Infernal Contract... But, Like, Bad |
-| 48   | Ivory Tower                         |
-| 49   | Lifebonded                          |
-| 50   | Lightning Soul                      |
-| 51   | Loner                               |
-| 52   | Lost in Time                        |
-| 53   | Lost Your Head                      |
-| 54   | Lucky                               |
-| 55   | Master Chef                         |
-| 56   | Meddling Butler                     |
-| 57   | Medium                              |
-| 58   | Medusa Blood                        |
-| 59   | Misunderstood                       |
-| 60   | Mundane                             |
-| 61   | Outlaw                              |
-| 62   | Pirate                              |
-| 63   | Preacher                            |
-| 64   | Primordial Sickness                 |
-| 65   | Prisoner of the Synlirii            |
-| 66   | Promising Apprentice                |
-| 67   | Psychic Eruption                    |
-| 68   | Raised by Beasts                    |
-| 69   | Refugee                             |
-| 70   | Rival                               |
-| 71   | Rogue Talent                        |
-| 72   | Runaway                             |
-| 73   | Searching for a Cure                |
-| 74   | Secret Identity                     |
-| 75   | Secret Twin                         |
-| 76   | Self-Taught                         |
-| 77   | Sewer Folk                          |
-| 78   | Shadow Born                         |
-| 79   | Shared Spirit                       |
-| 80   | Shattered Legacy                    |
-| 81   | Shipwrecked                         |
-| 82   | Sibling's Shield                    |
-| 83   | Silent Sentinel                     |
-| 84   | Slight Case of Lycanthropy          |
-| 85   | Stolen Face                         |
-| 86   | Strange Inheritance                 |
-| 87   | Stripped of Rank                    |
-| 88   | Thrill Seeker                       |
-| 89   | Vampire Scion                       |
-| 90   | Voice in Your Head                  |
-| 91   | Vow of Duty                         |
-| 92   | Vow of Honesty                      |
-| 93   | Waking Dreams                       |
-| 94   | War Dog Collar                      |
-| 95   | War of Assassins                    |
-| 96   | Ward                                |
-| 97   | Waterborn                           |
-| 98   | Wodewalker                          |
-| 99   | Wrathful Spirit                     |
-| 100  | Wrongly Imprisoned                  |
+| d100 | Complication                                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- |
+| 1    | [Advanced Studies](https://steelcompendium.io/v2/Browse/Rules/Complications/Advanced%20Studies)                         |
+| 2    | [Amnesia](https://steelcompendium.io/v2/Browse/Rules/Complications/Amnesia)                                             |
+| 3    | [Animal Form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form)                                   |
+| 4    | [Antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero)                                           |
+| 5    | [Artifact Bonded](https://steelcompendium.io/v2/Browse/Rules/Complications/Artifact%20Bonded)                           |
+| 6    | [Bereaved](https://steelcompendium.io/v2/Browse/Rules/Complications/Bereaved)                                           |
+| 7    | [Betrothed](https://steelcompendium.io/v2/Browse/Rules/Complications/Betrothed)                                         |
+| 8    | [Chaos Touched](https://steelcompendium.io/v2/Browse/Rules/Complications/Chaos%20Touched)                               |
+| 9    | [Chosen One](https://steelcompendium.io/v2/Browse/Rules/Complications/Chosen%20One)                                     |
+| 10   | [Consuming Interest](https://steelcompendium.io/v2/Browse/Rules/Complications/Consuming%20Interest)                     |
+| 11   | [Corrupted Mentor](https://steelcompendium.io/v2/Browse/Rules/Complications/Corrupted%20Mentor)                         |
+| 12   | [Coward](https://steelcompendium.io/v2/Browse/Rules/Complications/Coward)                                               |
+| 13   | [Crash Landed](https://steelcompendium.io/v2/Browse/Rules/Complications/Crash%20Landed)                                 |
+| 14   | [Cult Victim](https://steelcompendium.io/v2/Browse/Rules/Complications/Cult%20Victim)                                   |
+| 15   | [Curse of Caution](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Caution)                       |
+| 16   | [Curse of Immortality](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Immortality)               |
+| 17   | [Curse of Misfortune](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Misfortune)                 |
+| 18   | [Curse of Poverty](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Poverty)                       |
+| 19   | [Curse of Punishment](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Punishment)                 |
+| 20   | [Curse of Stone](https://steelcompendium.io/v2/Browse/Rules/Complications/Curse%20of%20Stone)                           |
+| 21   | [Cursed Weapon](https://steelcompendium.io/v2/Browse/Rules/Complications/Cursed%20Weapon)                               |
+| 22   | [Disgraced](https://steelcompendium.io/v2/Browse/Rules/Complications/Disgraced)                                         |
+| 23   | [Dragon Dreams](https://steelcompendium.io/v2/Browse/Rules/Complications/Dragon%20Dreams)                               |
+| 24   | [Elemental Inside](https://steelcompendium.io/v2/Browse/Rules/Complications/Elemental%20Inside)                         |
+| 25   | [Evanesceria](https://steelcompendium.io/v2/Browse/Rules/Complications/Evanesceria)                                     |
+| 26   | [Exile](https://steelcompendium.io/v2/Browse/Rules/Complications/Exile)                                                 |
+| 27   | [Fallen Immortal](https://steelcompendium.io/v2/Browse/Rules/Complications/Fallen%20Immortal)                           |
+| 28   | [Famous Relative](https://steelcompendium.io/v2/Browse/Rules/Complications/Famous%20Relative)                           |
+| 29   | [Feytouched](https://steelcompendium.io/v2/Browse/Rules/Complications/Feytouched)                                       |
+| 30   | [Fiery Ideal](https://steelcompendium.io/v2/Browse/Rules/Complications/Fiery%20Ideal)                                   |
+| 31   | [Fire and Chaos](https://steelcompendium.io/v2/Browse/Rules/Complications/Fire%20and%20Chaos)                           |
+| 32   | [Following in the Footsteps](https://steelcompendium.io/v2/Browse/Rules/Complications/Following%20in%20the%20Footsteps) |
+| 33   | [Forbidden Romance](https://steelcompendium.io/v2/Browse/Rules/Complications/Forbidden%20Romance)                       |
+| 34   | [Frostheart](https://steelcompendium.io/v2/Browse/Rules/Complications/Frostheart)                                       |
+| 35   | [Getting Too Old for This](https://steelcompendium.io/v2/Browse/Rules/Complications/Getting%20Too%20Old%20for%20This)   |
+| 36   | Gnoll-Mauled                                                                                                     |
+| 37   | [Greening](https://steelcompendium.io/v2/Browse/Rules/Complications/Greening)                                           |
+| 38   | [Grifter](https://steelcompendium.io/v2/Browse/Rules/Complications/Grifter)                                             |
+| 39   | [Grounded](https://steelcompendium.io/v2/Browse/Rules/Complications/Grounded)                                           |
+| 40   | [Guilty Conscience](https://steelcompendium.io/v2/Browse/Rules/Complications/Guilty%20Conscience)                       |
+| 41   | [Hawk Rider](https://steelcompendium.io/v2/Browse/Rules/Complications/Hawk%20Rider)                                     |
+| 42   | [Host Body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body)                                       |
+| 43   | [Hunted](https://steelcompendium.io/v2/Browse/Rules/Complications/Hunted)                                               |
+| 44   | [Hunter](https://steelcompendium.io/v2/Browse/Rules/Complications/Hunter)                                               |
+| 45   | [Indebted](https://steelcompendium.io/v2/Browse/Rules/Complications/Indebted)                                           |
+| 46   | [Infernal Contract](https://steelcompendium.io/v2/Browse/Rules/Complications/Infernal%20Contract)                       |
+| 47   | [Infernal Contract](https://steelcompendium.io/v2/Browse/Rules/Complications/Infernal%20Contract)... But, Like, Bad     |
+| 48   | [Ivory Tower](https://steelcompendium.io/v2/Browse/Rules/Complications/Ivory%20Tower)                                   |
+| 49   | [Lifebonded](https://steelcompendium.io/v2/Browse/Rules/Complications/Lifebonded)                                       |
+| 50   | [Lightning Soul](https://steelcompendium.io/v2/Browse/Rules/Complications/Lightning%20Soul)                             |
+| 51   | [Loner](https://steelcompendium.io/v2/Browse/Rules/Complications/Loner)                                                 |
+| 52   | [Lost in Time](https://steelcompendium.io/v2/Browse/Rules/Complications/Lost%20in%20Time)                               |
+| 53   | [Lost Your Head](https://steelcompendium.io/v2/Browse/Rules/Complications/Lost%20Your%20Head)                           |
+| 54   | [Lucky](https://steelcompendium.io/v2/Browse/Rules/Complications/Lucky)                                                 |
+| 55   | [Master Chef](https://steelcompendium.io/v2/Browse/Rules/Complications/Master%20Chef)                                   |
+| 56   | [Meddling Butler](https://steelcompendium.io/v2/Browse/Rules/Complications/Meddling%20Butler)                           |
+| 57   | [Medium](https://steelcompendium.io/v2/Browse/Rules/Complications/Medium)                                               |
+| 58   | [Medusa Blood](https://steelcompendium.io/v2/Browse/Rules/Complications/Medusa%20Blood)                                 |
+| 59   | [Misunderstood](https://steelcompendium.io/v2/Browse/Rules/Complications/Misunderstood)                                 |
+| 60   | [Mundane](https://steelcompendium.io/v2/Browse/Rules/Complications/Mundane)                                             |
+| 61   | [Outlaw](https://steelcompendium.io/v2/Browse/Rules/Complications/Outlaw)                                               |
+| 62   | [Pirate](https://steelcompendium.io/v2/Browse/Rules/Complications/Pirate)                                               |
+| 63   | [Preacher](https://steelcompendium.io/v2/Browse/Rules/Complications/Preacher)                                           |
+| 64   | [Primordial Sickness](https://steelcompendium.io/v2/Browse/Rules/Complications/Primordial%20Sickness)                   |
+| 65   | [Prisoner of the Synlirii](https://steelcompendium.io/v2/Browse/Rules/Complications/Prisoner%20of%20the%20Synlirii)     |
+| 66   | [Promising Apprentice](https://steelcompendium.io/v2/Browse/Rules/Complications/Promising%20Apprentice)                 |
+| 67   | Psychic Eruption                                                                                                 |
+| 68   | [Raised by Beasts](https://steelcompendium.io/v2/Browse/Rules/Complications/Raised%20by%20Beasts)                       |
+| 69   | [Refugee](https://steelcompendium.io/v2/Browse/Rules/Complications/Refugee)                                             |
+| 70   | [Rival](https://steelcompendium.io/v2/Browse/Rules/Complications/Rival)                                                 |
+| 71   | Rogue [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)                                               |
+| 72   | [Runaway](https://steelcompendium.io/v2/Browse/Rules/Complications/Runaway)                                             |
+| 73   | [Searching for a Cure](https://steelcompendium.io/v2/Browse/Rules/Complications/Searching%20for%20a%20Cure)             |
+| 74   | [Secret Identity](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Identity)                           |
+| 75   | [Secret Twin](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Twin)                                   |
+| 76   | Self-Taught                                                                                                      |
+| 77   | [Sewer Folk](https://steelcompendium.io/v2/Browse/Rules/Complications/Sewer%20Folk)                                     |
+| 78   | [Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) Born                                                |
+| 79   | [Shared Spirit](https://steelcompendium.io/v2/Browse/Rules/Complications/Shared%20Spirit)                               |
+| 80   | [Shattered Legacy](https://steelcompendium.io/v2/Browse/Rules/Complications/Shattered%20Legacy)                         |
+| 81   | [Shipwrecked](https://steelcompendium.io/v2/Browse/Rules/Complications/Shipwrecked)                                     |
+| 82   | Sibling's Shield                                                                                                 |
+| 83   | [Silent Sentinel](https://steelcompendium.io/v2/Browse/Rules/Complications/Silent%20Sentinel)                           |
+| 84   | [Slight Case of Lycanthropy](https://steelcompendium.io/v2/Browse/Rules/Complications/Slight%20Case%20of%20Lycanthropy) |
+| 85   | [Stolen Face](https://steelcompendium.io/v2/Browse/Rules/Complications/Stolen%20Face)                                   |
+| 86   | [Strange Inheritance](https://steelcompendium.io/v2/Browse/Rules/Complications/Strange%20Inheritance)                   |
+| 87   | [Stripped of Rank](https://steelcompendium.io/v2/Browse/Rules/Complications/Stripped%20of%20Rank)                       |
+| 88   | [Thrill Seeker](https://steelcompendium.io/v2/Browse/Rules/Complications/Thrill%20Seeker)                               |
+| 89   | [Vampire Scion](https://steelcompendium.io/v2/Browse/Rules/Complications/Vampire%20Scion)                               |
+| 90   | [Voice in Your Head](https://steelcompendium.io/v2/Browse/Rules/Complications/Voice%20in%20Your%20Head)                 |
+| 91   | [Vow of Duty](https://steelcompendium.io/v2/Browse/Rules/Complications/Vow%20of%20Duty)                                 |
+| 92   | [Vow of Honesty](https://steelcompendium.io/v2/Browse/Rules/Complications/Vow%20of%20Honesty)                           |
+| 93   | [Waking Dreams](https://steelcompendium.io/v2/Browse/Rules/Complications/Waking%20Dreams)                               |
+| 94   | [War Dog Collar](https://steelcompendium.io/v2/Browse/Rules/Complications/War%20Dog%20Collar)                           |
+| 95   | [War of Assassins](https://steelcompendium.io/v2/Browse/Rules/Complications/War%20of%20Assassins)                       |
+| 96   | [Ward](https://steelcompendium.io/v2/Browse/Rules/Complications/Ward)                                                   |
+| 97   | [Waterborn](https://steelcompendium.io/v2/Browse/Rules/Complications/Waterborn)                                         |
+| 98   | [Wodewalker](https://steelcompendium.io/v2/Browse/Rules/Complications/Wodewalker)                                       |
+| 99   | [Wrathful Spirit](https://steelcompendium.io/v2/Browse/Rules/Complications/Wrathful%20Spirit)                           |
+| 100  | [Wrongly Imprisoned](https://steelcompendium.io/v2/Browse/Rules/Complications/Wrongly%20Imprisoned)                     |
 
 #### Advanced Studies
 
@@ -224,19 +224,19 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to burrow or fly, or to automatically climb or swim at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) or [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), or to automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your animal form. Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form). Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
-**Benefit:** You have 3 antihero tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 antihero token in place of 1 Heroic Resource. Whenever you have fewer than 3 antihero tokens and you would earn a hero token for your party through your deeds, you instead regain 1 antihero token.
+**Benefit:** You have 3 [antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero) token.
 
-**Drawback:** While you have fewer than 3 antihero tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+**Drawback:** While you have fewer than 3 [antihero](https://steelcompendium.io/v2/Browse/Rules/Complications/Antihero) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 
 #### Artifact Bonded
 
@@ -321,9 +321,9 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
-**Benefit:** While you are frightened, you can move toward the source of your fear.
+**Benefit:** While you are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), you can move toward the source of your fear.
 
-**Drawback:** Whenever you make a saving throw to end the frightened condition, you roll a d10 twice and take the lower roll.
+**Drawback:** Whenever you make a saving throw to end the [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) condition, you roll a d10 twice and take the lower roll.
 
 #### Crash Landed
 
@@ -331,7 +331,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a pi
 
 **Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you crash landed.
+**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](https://steelcompendium.io/v2/Browse/Rules/Complications/Crash%20Landed).
 
 #### Cult Victim
 
@@ -361,7 +361,7 @@ For as long as you can remember, you've never gotten older. You've simply advent
 
 You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
 
-**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall prone.
+**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
 
 #### Curse of Poverty
 
@@ -383,7 +383,7 @@ As a child, you met a creature who turns people to stone, such as a medusa. You 
 
 **Benefit:** You have a +1 bonus to stability. Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
 
-**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are dazed.
+**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed).
 
 #### Cursed Weapon
 
@@ -395,7 +395,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 #### Disgraced
 
-You're a disgraced member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
+You're a [disgraced](https://steelcompendium.io/v2/Browse/Rules/Complications/Disgraced) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
 **Benefit:** You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
 
@@ -405,7 +405,7 @@ You're a disgraced member of a powerful family or guild, having been turned out 
 
 You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven't told anyone about these dreams, except for your one strange relative who seems to know more than they're letting on.
 
-**Benefit:** Choose 2 ancestry points' worth of purchased dragon knight traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
+**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dragon%20Knight) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
 
 **Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
@@ -419,7 +419,7 @@ When an evil mage threatened someone you loved, you blocked that foe's summoning
 
 #### Evanesceria
 
-You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
+You have contracted a rare magical disease called [evanesceria](https://steelcompendium.io/v2/Browse/Rules/Complications/Evanesceria). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
 **Benefit:** At the start of any combat round, you can attempt to absent yourself from reality by rolling a d10. On a 6 or higher, you disappear, then reappear in the space you left or the nearest unoccupied space of your choice when you take your turn. You can't attempt to absent yourself again until you earn 1 or more Victories.
 
@@ -443,7 +443,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 #### Famous Relative
 
-Sure, you're a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
+Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](https://steelcompendium.io/v2/Browse/Rules/Complications/Famous%20Relative). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
 **Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
@@ -481,15 +481,15 @@ Your personal idol was a mighty hero, and you have modeled yourself after them. 
 
 #### Forbidden Romance
 
-You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, betrothed to another, or has been driven from your side, you are fated to always be apart.
+You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](https://steelcompendium.io/v2/Browse/Rules/Complications/Betrothed) to another, or has been driven from your side, you are fated to always be apart.
 
-**Benefit:** You can secretly call on your betrothed for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+**Benefit:** You can secretly call on your [betrothed](https://steelcompendium.io/v2/Browse/Rules/Complications/Betrothed) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
 
 **Drawback:** When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](https://steelcompendium.io/v2/Browse/Rules/Titles/1st%20Echelon/Presumed%20Dead). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -509,9 +509,9 @@ As a child, you survived a gnoll attack. But that attack left you with a jagged 
 
 **Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a free strike.
 
-**Drawback:** While you are dazed, if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
+**Drawback:** While you are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee free strike against an adjacent creature.
 
-**Special:** You can't take this complication if you can't be made dazed.
+**Special:** You can't take this complication if you can't be made [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed).
 
 #### Greening
 
@@ -533,7 +533,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level Elementalist Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Specialization feature Motivate Earth (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the Motivate Earth ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -557,13 +557,13 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your host body follows all the usual rules for a character and is considered to be alive. At any time while your host body is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new host body, provided the body belongs to a playable ancestry. When you do so, your original host body dies if it was alive. Your new host body gains all your statistics except size, ancestry traits, and other statistics related to your former host body's ancestry, which you instead gain from your new host body. When you inhabit a new host body, you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body), provided the body belongs to a playable ancestry. When you do so, your original [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body) dies if it was alive. Your new [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body)'s ancestry, which you instead gain from your new [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body). When you inhabit a new [host body](https://steelcompendium.io/v2/Browse/Rules/Complications/Host%20Body), you start with 1 Stamina and can immediately spend a Recovery.
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Revenant), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
@@ -597,11 +597,11 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Benefit:** Whenever you are present for a battle in which both sides have creatures who aren't surprised, your side determines who goes first if the d10 roll is a 4 or higher (see [Combat Round](#page-279-1) in [Chapter 10: Combat](#page-288-0)).
 
-**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
+**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil) after you and those you care about.
 
 #### Infernal Contract... But, Like, Bad
 
-You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
+You made a deal with a [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil). Not a very good deal, because it wasn't a very good [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 
@@ -623,13 +623,13 @@ You studied in an academy or other educational institution. Your training was th
 
 In a sinister ritual, your soul has been bound to that of another creature. This might be a companion, a creature you are beholden to, or an enemy. When they die, you die—making you the perfect bodyguard.
 
-**Benefit:** Choose another creature who doesn't have the Lifebonded complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
+**Benefit:** Choose another creature who doesn't have the [Lifebonded](https://steelcompendium.io/v2/Browse/Rules/Complications/Lifebonded) complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
 
 **Drawback:** If the creature you're bound to dies, you die as well, no matter what other traits or features you have.
 
 #### Lightning Soul
 
-You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful elementalist, but you absorbed the lightning into your body. It's always there now, simmering under the surface.
+You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
 **Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
 
@@ -641,7 +641,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are taunted by that creature until your ally's Stamina is higher than 0, another creature makes you taunted, or the end of the encounter.
+**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted), or the end of the encounter.
 
 #### Lost in Time
 
@@ -734,9 +734,9 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > **Power Roll + Might or Presence:**
 >
-> - **≤11:** 2 damage; M < WEAK, slowed (save ends)
-> - **12-16:** 4 damage; M < AVERAGE, slowed (save ends)
-> - **17+:** 6 damage; M < STRONG, slowed (save ends)
+> - **≤11:** 2 damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 4 damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 6 damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 >
 > **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
 
@@ -827,7 +827,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
 > - **17+:** 1 psychic damage for each Heroic Resource you spend
 
-**Drawback:** Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.
+**Drawback:** Whenever you become [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding), [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), or [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened), you must use Psychic Blast as a free triggered action.
 
 #### Raised by Beasts
 
@@ -898,11 +898,11 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
-**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your secret identity for 1 day.
+**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Identity) for 1 day.
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your secret twin had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](https://steelcompendium.io/v2/Browse/Rules/Complications/Secret%20Twin) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -918,7 +918,7 @@ While your peers were learning their trades in fancy schools, you honed your cap
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
-**Benefit:** You can automatically climb or swim (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+**Benefit:** You can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
 
 **Drawback:** You have poison weakness 5.
 
@@ -966,7 +966,7 @@ You were trained by a group of spies, who psionically infused silence into your 
 
 **Benefit:** You have the Eavesdrop and Sneak skills from the intrigue skill group, plus one skill of your choice from the lore skill group. Additionally, you can telepathically communicate with any creature provided they share a language with you and you can observe each other. A creature you communicate with this way can respond telepathically if they choose.
 
-**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are dazed until the end of your next turn.
+**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) until the end of your next turn.
 
 #### Slight Case of Lycanthropy
 
@@ -976,7 +976,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a fury with the stormwight primordial aspect.
+**Special:** You can't take this complication if you are a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) with the stormwight primordial aspect.
 
 #### Stolen Face
 
@@ -1011,7 +1011,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the Strike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the Strike Now [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -1033,7 +1033,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 #### Voice in Your Head
 
-You occasionally hear a voice in your head, giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](https://steelcompendium.io/v2/Browse/Rules/Complications/Voice%20in%20Your%20Head), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
@@ -1102,7 +1102,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
-**Benefit:** You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
+**Benefit:** You can automatically [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Rogue Wave
@@ -1135,9 +1135,9 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
-**Benefit:** While you are taunted by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
+**Benefit:** While you are [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
 
-**Drawback:** In combat, whenever a creature makes a strike against you and you are not taunted, you are taunted by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
+**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted), you are [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
 
 #### Wrongly Imprisoned
 

@@ -36,6 +36,6 @@ type: feature/ability/shadow/1st-level-feature
 
 - **≤11:** 3 + A damage
 - **12-16:** 5 + A damage
-- **17+:** 8 + A damage; I < STRONG, prone
+- **17+:** 8 + A damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
 
 **Effect:** One ally within 5 squares of the target gains 1 surge.

@@ -26,11 +26,11 @@ When you want your hero to rifle through a desk and locate a specific document, 
 
 The Director should ask a player to make a test only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
 
-The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a dwarf king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
+The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a [dwarf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) up the wall without needing to make a test.
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
@@ -46,13 +46,13 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
 ##### Might Tests
 
-You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, [swimming](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) against a mighty current, and other feats of physical power.
 
 ##### Agility Tests
 
@@ -136,7 +136,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
+For instance, if a hero suffers a consequence while trying to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](https://steelcompendium.io/v2/Browse/Rules/Titles/4th%20Echelon/Monarch) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -153,7 +153,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 ##### Failure
 
-If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
@@ -161,7 +161,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -175,7 +175,7 @@ If you succeed on a test without consequence or reward, you simply achieve whate
 
 If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends.
 
-The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while climbing a wall, they might find a ladder at the top they can lower so that any allies climbing up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
+The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a wall, they might find a ladder at the top they can lower so that any allies [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
 
 As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a noble. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering magic from the noble's private stash in congratulations and admiration.
 
@@ -285,27 +285,27 @@ Sometimes you won't have a skill that applies to a test. That's okay! If your ch
 
 Although certain skills are often paired with one characteristic more than others, a skill can apply to a test made using any characteristic that makes sense. The Director has the final say on which characteristic is used to complete a task, and can call for a different characteristic based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The Climb skill applies to both of these tests.
+For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill applies to both of these tests.
 
 #### Many Specific Skills
 
-*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, Jump, Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [jumping](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), [swimming](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), and lifting heavy objects, your character might use separate [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), Lift, and [Swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
-Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an elementalist who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) who has a gymnastic background in [jumping](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 <!-- -->
 > **Edges on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the conduit's Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)'s Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
 <!-- -->
 > **Are All Skills Equal?**
 >
-> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
+> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
 
 #### Skill Groups
 
@@ -315,9 +315,9 @@ Skills are broken down into five skill groups: crafting, exploration, interperso
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
-Rewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
+Rewards for tests made with [crafting skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Crafting%20Skills) typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
 
-Consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
+Consequences for tests made with [crafting skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Crafting%20Skills) typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
 ###### Crafting Skills Table
 
@@ -338,32 +338,32 @@ Consequences for tests made with crafting skills typically include wasting rare 
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
-Rewards for tests made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+Rewards for tests made with [exploration skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Exploration%20Skills) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
 
-Consequences for tests made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+Consequences for tests made with [exploration skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Exploration%20Skills) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
 ###### Exploration Skills Table
 
-| Skill      | Use                                                             |
-| ---------- | --------------------------------------------------------------- |
-| Climb      | Move up vertical surfaces                                       |
-| Drive      | Control vehicles                                                |
-| Endurance  | Remain engaged in strenuous activity over a long period of time |
-| Gymnastics | Move across unsteady or narrow surfaces; tumble                 |
-| Heal       | Use mundane first aid                                           |
-| Jump       | Leap vertical and horizontal distances                          |
-| Lift       | Pick up, carry, and throw heavy objects                         |
-| Navigate   | Read a map and travel without becoming lost                     |
-| Ride       | Ride and control a nonsapient mount, such as a horse            |
-| Swim       | Move through deep liquid                                        |
+| Skill                                                                   | Use                                                             |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) | Move up vertical surfaces                                       |
+| Drive                                                                   | Control vehicles                                                |
+| Endurance                                                               | Remain engaged in strenuous activity over a long period of time |
+| Gymnastics                                                              | Move across unsteady or narrow surfaces; tumble                 |
+| Heal                                                                    | Use mundane first aid                                           |
+| [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump)               | Leap vertical and horizontal distances                          |
+| Lift                                                                    | Pick up, carry, and throw heavy objects                         |
+| Navigate                                                                | Read a map and travel without becoming lost                     |
+| Ride                                                                    | Ride and control a nonsapient mount, such as a horse            |
+| [Swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim)  | Move through deep liquid                                        |
 
 ##### Interpersonal Skills
 
-Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) when you attempt to influence creatures who have emotions and who can understand you.
 
-Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+Rewards for tests made with [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
-Consequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+Consequences for tests made with [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 ###### Interpersonal Skills Table
 
@@ -389,7 +389,7 @@ Skills from the intrigue skill group are used in tasks centered around investiga
 
 Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
 
-Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
+Consequences for tests made with [intrigue skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Intrigue%20Skills) include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
 ###### Intrigue Skills Table
 
@@ -412,9 +412,9 @@ Consequences for tests made with intrigue skills include getting caught in the a
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
-Rewards for tests made with lore skills typically include learning an extra piece of useful information.
+Rewards for tests made with [lore skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Lore%20Skills) typically include learning an extra piece of useful information.
 
-Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
+Consequences for tests made with [lore skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Lore%20Skills) typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
 
 ###### Lore Skills Table
 
@@ -444,15 +444,15 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director (Matt):** *The towering walls that surround the Star Chamber stand before you, the single iron gate closed and locked, with a platoon of armed guards outside.*
 
-**James (playing Korvo, a shadow):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
+**James (playing Korvo, a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
 
-**Grace (playing Val, a conduit):** *Agreed.*
+**Grace (playing Val, a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)):** *Agreed.*
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a tactician):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
+**Alyssa (playing Jorn, a [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
@@ -466,13 +466,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim).*
 
-**Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -490,11 +490,11 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **James:** *Nothing risked, nothing saved. Let's do it. Just be careful. Any loud noises could attract those guards.*
 
-**Alyssa:** *Please. I'm a pro. Since I'm lifting this polder off the ground, does the Lift skill apply?*
+**Alyssa:** *Please. I'm a pro. Since I'm lifting this [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) off the ground, does the Lift skill apply?*
 
 **Director:** *Yes, it does. Roll it up. That's a medium difficulty test.*
 
-Lifting the diminutive polder, Alyssa rolls 2d10-but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
+Lifting the diminutive [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder), Alyssa rolls 2d10-but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
 
 **Alyssa:** *A 6! Oof. That's tier 1.*
 
@@ -504,7 +504,7 @@ The Director then decides to make the failure potentially more interesting, by a
 
 **Director:** *I'll give you a choice, though. You can leave Korvo on the ground, or pull him up and suffer the consequence of making some noise while doing so.*
 
-**Grace:** *Ah, pull the polder up.*
+**Grace:** *Ah, pull the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) up.*
 
 **Alyssa:** *Yeah. We have to face these guards sometime.*
 
@@ -561,7 +561,7 @@ While you are hidden from another creature and not in combat, you can attempt to
 
 ### Group Tests
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
 #### Group Test Difficulty
 
@@ -686,13 +686,13 @@ The Director determines that crossing the desert is a montage test of hard diffi
 
 When the test begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the test, since the Infinite Desert is filled with these hazards.
 
-Urdoncara, a fury, starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
+Urdoncara, a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a tactician, wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), wants to make a Reason test using the [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
-Karrel, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+Karrel, an [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
-Val, a conduit, offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
+Val, a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 
 ##### Interlude
 
@@ -702,11 +702,11 @@ Before the next montage test round, the Director pauses the montage test to run 
 
 Urdoncara wants to make a Might test using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the test thanks to the edge from Val's earlier success. The montage test has 4 successes and 1 failure.
 
-Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the tactician is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the tactician rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
+Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
 
 Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
 
-Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the conduit recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
+Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
 
 ##### Other Options
 

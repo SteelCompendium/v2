@@ -42,11 +42,11 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Source of Earth**
 
-|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
-| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+|       Elemental       |                                        -                                        |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **[Burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
 > **Earthwalk**
@@ -56,7 +56,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 <!-- -->
 > **Tunneler**
 >
-> When the source burrows, they create a size 2 tunnel.
+> When the source [burrows](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), they create a size 2 tunnel.
 
 <!-- -->
 > **Earth Harness**

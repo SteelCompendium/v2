@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Soul Burn
 file_dpath: Abilities/Talent/3rd-Level Features
-flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
+flavor: You blast their soul out of their body, leaving it to helplessly float back to a [weakened](scc:mcdm.heroes.v1:condition:weakened) husk.
 item_id: soul-burn-7-clarity
 item_index: '02'
 item_name: Soul Burn (7 Clarity)
@@ -29,7 +29,7 @@ type: feature/ability/talent/3rd-level-feature
 
 ###### Soul Burn (7 Clarity)
 
-*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+*You blast their soul out of their body, leaving it to helplessly float back to a [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) husk.*
 
 | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 | ------------------------------------------- | ------------------: |
@@ -37,9 +37,9 @@ type: feature/ability/talent/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
-- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
-- **17+:** 14 + P damage; P < STRONG, dazed (save ends)
+- **≤11:** 6 + P damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **12-16:** 10 + P damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **17+:** 14 + P damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 

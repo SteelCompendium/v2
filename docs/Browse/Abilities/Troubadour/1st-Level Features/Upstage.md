@@ -38,6 +38,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Agility or Presence:**
 
-- **≤11:** Taunted (EoT); A < WEAK, prone
-- **12-16:** Taunted (EoT); A < AVERAGE, prone
-- **17+:** Taunted (EoT); A < STRONG, prone and can't stand (EoT)
+- **≤11:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **12-16:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **17+:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (EoT)

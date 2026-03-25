@@ -35,8 +35,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
 
-**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+**Strained:** You are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) by this ability is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) instead.

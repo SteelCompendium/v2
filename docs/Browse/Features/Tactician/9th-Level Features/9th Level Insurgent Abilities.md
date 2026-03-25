@@ -23,7 +23,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the shadow colleges.*
+> *I had to pry this secret from the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |
@@ -44,6 +44,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, dazed (save ends)
-> - **12-16:** R < AVERAGE, dazed (save ends)
-> - **17+:** R < STRONG, dazed (save ends)
+> - **≤11:** R < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **17+:** R < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)

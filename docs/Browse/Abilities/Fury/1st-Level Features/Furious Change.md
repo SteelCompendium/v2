@@ -32,6 +32,6 @@ type: feature/ability/fury/1st-level-feature
 
 **Trigger:** You lose Stamina and are not dying.
 
-**Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+**Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form.
 
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.

@@ -33,4 +33,4 @@ type: feature/ability/troubadour/1st-level-feature
 | --------------- | ------------------------------------: |
 | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
+**Effect:** Each target can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. Any [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) target who was [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) is no longer [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed).

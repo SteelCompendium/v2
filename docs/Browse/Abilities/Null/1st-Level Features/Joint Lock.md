@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, grabbed
-- **12-16:** 7 + A damage; A < AVERAGE, grabbed
-- **17+:** 9 + A damage; A < STRONG, grabbed
+- **≤11:** 4 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **12-16:** 7 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **17+:** 9 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)

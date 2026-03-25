@@ -15,7 +15,7 @@ type: common-ability/maneuver
 
 #### Escape Grab
 
-A creature who is grabbed by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
+A creature who is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
 
 <!-- -->
 > ###### Escape Grab
@@ -27,9 +27,9 @@ A creature who is grabbed by another creature, an object, or an effect (see [Gra
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you grabbed can make a melee free strike against you before you are no longer grabbed.
-> - **17+:** You are no longer grabbed.
+> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) can make a melee free strike against you before you are no longer [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+> - **17+:** You are no longer [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
 >
-> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you grabbed.
+> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
 
-See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the grabbed condition.
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) condition.

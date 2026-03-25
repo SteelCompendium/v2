@@ -8,7 +8,7 @@ distance: Melee 1
 feature_type: ability
 file_basename: Arcane Purge
 file_dpath: Abilities/Null/8th-Level Features
-flavor: You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.
+flavor: You focus your [null](scc:mcdm.heroes.v1:class:null) field into a pressure point strike that prevents your foe from channeling sorcery.
 item_id: arcane-purge-11-discipline
 item_index: '04'
 item_name: Arcane Purge (11 Discipline)
@@ -29,7 +29,7 @@ type: feature/ability/null/8th-level-feature
 
 ###### Arcane Purge (11 Discipline)
 
-*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 | ---------------------------------- | ------------------: |

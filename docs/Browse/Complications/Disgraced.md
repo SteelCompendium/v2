@@ -14,7 +14,7 @@ type: complication
 
 #### Disgraced
 
-You're a disgraced member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
+You're a [disgraced](https://steelcompendium.io/v2/Browse/Rules/Complications/Disgraced) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
 **Benefit:** You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
 

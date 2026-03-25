@@ -6,7 +6,7 @@ update push="true":
 
     dir="$(mktemp -d)"
     echo >&2 "[INFO] Grabbing compendium markdown..."
-    git clone git@github.com:SteelCompendium/data-md.git "$dir"
+    git clone git@github.com:SteelCompendium/data-md-linked.git "$dir"
     (
         v2_dir="$(pwd)"
         cd "$dir"
@@ -62,6 +62,14 @@ update push="true":
             sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
             sed -i -E 's|File Name|File Name   |g' "$f"
             sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
+        done
+
+        # replace placeholder text with actuals
+        echo >&2 "[INFO] Updating markdown links for mkdocs"
+        find "${v2_dir}/docs" -type f -name '*.md' -print0 |
+        while IFS= read -r -d '' f; do
+            sed -i -E 's|REL_PATH_PREFIX|https://steelcompendium.io/v2/Browse/|g' "$f"
+            sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
         done
 
         # --- Inject search exclusion front matter ---

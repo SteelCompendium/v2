@@ -36,6 +36,6 @@ type: feature/ability/conduit/1st-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
+- **≤11:** 6 + I holy damage; I < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **17+:** 13 + I holy damage; I < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)

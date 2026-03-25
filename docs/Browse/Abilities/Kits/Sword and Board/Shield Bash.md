@@ -34,4 +34,4 @@ type: kit-ability/sword-and-board
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG, prone
+- **17+:** 9 + M or A damage; push 3; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)

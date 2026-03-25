@@ -43,4 +43,4 @@ type: feature/ability/talent/9th-level-feature
 
 **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 
-**Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+**Strained:** You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends). If you scored a critical hit with this ability, you die.

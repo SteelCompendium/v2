@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 4th-Level Features
 
-As a 4th-level shadow, you gain the following features.
+As a 4th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
 
 #### Characteristic Increase
 

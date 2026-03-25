@@ -34,6 +34,6 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, grabbed
-- **12-16:** 5 + M damage; M < AVERAGE, grabbed
-- **17+:** 7 + M damage; M < STRONG, grabbed
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **17+:** 7 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)

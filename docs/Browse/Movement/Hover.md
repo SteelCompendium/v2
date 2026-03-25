@@ -14,4 +14,4 @@ type: movement
 
 ##### Hover
 
-A creature who has "hover" in their speed entry (most commonly alongside "fly" or "teleport"), or who gains the temporary ability to hover, can remain motionless in midair. They don't fall even if they are knocked prone or their speed is reduced to 0.
+A creature who has "hover" in their speed entry (most commonly alongside "[fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly)" or "[teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport)"), or who gains the temporary ability to [hover](https://steelcompendium.io/v2/Browse/Rules/Movement/Hover), can remain motionless in midair. They don't fall even if they are knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) or their speed is reduced to 0.

@@ -37,6 +37,6 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I damage; A < WEAK, prone and restrained (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, prone and restrained (save ends)
-- **17+:** 16 + I damage; A < STRONG, prone and restrained (save ends)
+- **≤11:** 8 + I damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **12-16:** 12 + I damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **17+:** 16 + I damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)

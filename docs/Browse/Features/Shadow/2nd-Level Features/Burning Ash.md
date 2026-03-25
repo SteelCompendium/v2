@@ -19,4 +19,4 @@ type: feature/trait/shadow/2nd-level-feature
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.

@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 7th-Level Features
 
-As a 7th-level elementalist, you gain the following features.
+As a 7th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 

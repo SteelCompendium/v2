@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-- **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-- **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **12-16:** 7 + A damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **17+:** 9 + A damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)

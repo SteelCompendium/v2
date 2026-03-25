@@ -18,4 +18,4 @@ type: feature/trait/fury/1st-level-feature
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther).)

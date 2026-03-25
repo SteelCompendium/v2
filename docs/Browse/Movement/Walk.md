@@ -14,4 +14,4 @@ type: movement
 
 ##### Walk
 
-Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+[Walking](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.

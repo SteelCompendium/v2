@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One intrigue perk (*Quick Build:* Forgettable Face.)
+**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](https://steelcompendium.io/v2/Browse/Rules/Perks/Intrigue%20Perks/Forgettable%20Face).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

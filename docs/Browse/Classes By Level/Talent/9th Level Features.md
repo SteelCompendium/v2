@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 9th-Level Features
 
-As a 9th-level talent, you gain the following features.
+As a 9th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
 
 #### Fortress of Perfect Thought
 
@@ -24,11 +24,11 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made taunted or frightened.
+- You can't be made [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) or [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened).
 
 #### 9th-Level Tradition Ability
 
-Your talent tradition grants your choice of one of two heroic abilities.
+Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; slowed (save ends)
-> - **12-16:** 6 corruption damage; slowed (save ends)
-> - **17+:** 10 corruption damage; slowed (save ends)
+> - **≤11:** 4 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 10 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -104,7 +104,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -142,8 +142,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, frightened (save ends)
-> - **12-16:** R < AVERAGE, frightened (save ends)
-> - **17+:** R < STRONG, frightened (save ends)
+> - **≤11:** R < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **17+:** R < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

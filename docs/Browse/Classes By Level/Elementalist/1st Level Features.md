@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 1st-Level Features
 
-As a 1st-level elementalist, you gain the following features.
+As a 1st-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Elemental Specialization
 
@@ -25,7 +25,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -114,7 +114,7 @@ You have the following ability.
 >
 > - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+> - You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -253,13 +253,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 >
 > **Trigger:** The target starts their turn, moves, or is force moved.
 >
-> **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) them at any point during the move.
 >
-> **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
+> **Spend 1 Essence:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to twice your Reason score instead.
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -346,7 +346,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -358,7 +358,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can teleport up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -403,9 +403,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -511,7 +511,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, prone
+> - **17+:** 8 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 

@@ -48,7 +48,7 @@ The Director has a number of key jobs in this game, which we'll go over in this 
 - Before a campaign starts, the Director pitches the idea of their campaign to the players.
 - Before each game, the Director prepares the adventure by building scenes that include encounters, negotiations, and downtime activities.
 - During the game, the Director presents the scenes they've prepared to the players.
-- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the fly.
+- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly).
 - During the game, the Director acts as a referee, adjudicating the rules. If something isn't covered by the rules, the Director decides how to determine what happens next in the game.
 - After the game, the Director makes or reviews notes covering what happened during the game, then starts planning for the next game session.
 
@@ -90,7 +90,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](https://steelcompendium.io/v2/Browse/Rules/Chapters/The%20Basics)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 <!-- -->
 > **Personal Problems at the Table**
@@ -147,7 +147,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Memonek) and [time raiders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](https://steelcompendium.io/v2/Browse/Rules/Chapters/Ancestries) (see [Chapter 3](https://steelcompendium.io/v2/Browse/Rules/Chapters/Ancestries)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](https://steelcompendium.io/v2/Browse/Rules/Chapters/Background)) so that no one can take [Aristocrat](https://steelcompendium.io/v2/Browse/Rules/Careers/Aristocrat) or [Politician](https://steelcompendium.io/v2/Browse/Rules/Careers/Politician).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -226,7 +226,7 @@ If you're planning on running a long-arc campaign, you might want to make sure t
 
 ##### Adventure of the Week
 
-An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of time raiders before they disappear across the timescape with their kidnapped victims.
+An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of [time raiders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) before they disappear across the timescape with their kidnapped victims.
 
 Adventure-of-the-week campaigns can give the heroes plenty of downtime between adventures, since the quests aren't connected. However, they often lack the personal drama that comes from a campaign with recurring threats and villains.
 
@@ -246,7 +246,7 @@ Multiple-front campaigns make the world feel authentic and alive, but they requi
 
 As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
 
-Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](#page-17-3) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](https://steelcompendium.io/v2/Browse/Rules/Chapters/The%20Basics) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
 
 - **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
@@ -263,16 +263,16 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the talent, has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth elementalist. Sorin wanted to abduct Linn's talent mentor, a dwarf who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), has the [Elemental Inside](https://steelcompendium.io/v2/Browse/Rules/Complications/Elemental%20Inside) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist). Sorin wanted to abduct Linn's [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) mentor, a [dwarf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
-Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the talent's story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
+Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)'s story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
 - **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
-- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
-At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) is likely to return and try to free Bruulv once again!
 
 ### Creating Adventures
 
@@ -319,7 +319,7 @@ Of course, some villains want to cause violence and mayhem just for the sake of 
 <!-- -->
 > **Stealing is Encouraged**
 >
-> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
+> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) man in your favorite novel to make an NPC? Make the NPC a [dwarf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf) woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
 
 #### Adventure Goal
 
@@ -358,7 +358,7 @@ What's notable about the NPC's appearance? Do they have distinguishing features 
 
 ##### Voice
 
-When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This dwarf has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
+When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This [dwarf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf) has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
 
 ##### Behavior
 
@@ -495,7 +495,7 @@ Allow the heroes' investigation to drive the action. In an exploration scene, yo
 
 The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
 
-[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
+[Chapter 9: Tests](https://steelcompendium.io/v2/Browse/Rules/Chapters/Tests) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
 
 Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
 
@@ -531,7 +531,7 @@ If a test is a **success**, the hero does what they set out to do! You can even 
 
 If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
-Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
+Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](https://steelcompendium.io/v2/Browse/Rules/Chapters/Tests).
 
 #### Creating and Running Hazards
 
@@ -556,7 +556,7 @@ All activated hazards have some kind of trigger, and the heroes should be allowe
 
 If a hero doesn't think to search for a trigger before stumbling into a hazard, you can still call for a test to let them notice the trigger when the hazard is about to activate, provided it makes sense to do so. If a hero is about to cross over a tripwire that triggers a trap, you might call for an Intuition test to notice the wire at the point when it can be clearly seen. On a failed test, the character walks into the tripwire and activates the trap.
 
-Once a trigger is noticed, the heroes might get a chance to disarm it if that's possible. There's probably nothing to be done short of renovating an old mine to stop it from collapsing when anyone damages its walls, but the characters can try to disable a magic rune in a corridor that teleports any creature moving over it into the middle of an ocean. Just remember that trying and failing to disarm a trigger might trigger the hazard!
+Once a trigger is noticed, the heroes might get a chance to disarm it if that's possible. There's probably nothing to be done short of renovating an old mine to stop it from collapsing when anyone damages its walls, but the characters can try to disable a magic rune in a corridor that [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) any creature moving over it into the middle of an ocean. Just remember that trying and failing to disarm a trigger might trigger the hazard!
 
 ##### Hazard Damage
 
@@ -603,7 +603,7 @@ Some hazards deal effects in addition to or instead of damage. A hazard that is 
 - A character loses a Recovery.
 - A curse leaves a character with a demonic-sounding voice that imposes a bane on Presence tests.
 - A character receives a gaping wound that causes them to take 1d10 damage whenever they roll a natural 2 before they next finish a respite.
-- A character is teleported into the middle of a nearby body of water.
+- A character is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) into the middle of a nearby body of water.
 
 But although lasting and interesting consequences are fun, make sure they don't derail your story to the point where the whole game becomes about solving the problems created by a hazard—unless your group thinks that's fun!
 
@@ -617,7 +617,7 @@ Refer to the details you wrote down for your NPCs while you roleplay them. Keep 
 
 ### Creating and Running Negotiations
 
-When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+When you're preparing for a negotiation (see [Chapter 11: Negotiation](https://steelcompendium.io/v2/Browse/Rules/Chapters/Negotiation)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
 When assigning negotiation stats, keep the following guidelines in mind:
 
@@ -647,7 +647,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the troubadour's Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour)'s Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 
@@ -826,7 +826,7 @@ The burgomaster has the following possible pitfalls:
 
 *The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
 
-The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
+The virtuoso archetype can be used for any other local celebrity, such as a [master crafter](https://steelcompendium.io/v2/Browse/Rules/Titles/3rd%20Echelon/Master%20Crafter), inspired artist, famous [gladiator](https://steelcompendium.io/v2/Browse/Rules/Careers/Gladiator), or world champion.
 
 ###### Motivations
 
@@ -885,7 +885,7 @@ The duke archetype can be used for any other royal counselor, such as an archmag
 The duke has the following possible motivations:
 
 - **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
-- **Higher Authority:** I must do as my liege commands. So tell me how you seek to serve them as well.
+- **Higher Authority:** I must do as my liege commands. [So tell me](https://steelcompendium.io/v2/Browse/Rules/Perks/Interpersonal%20Perks/So%20Tell%20Me) how you seek to serve them as well.
 - **Peace:** We must have stability. I will sacrifice anything—and anyone—for this.
 - **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
 
@@ -1012,7 +1012,7 @@ You can use montage tests to play out chases, escapes, investigations, wildernes
 
 When you prepare a montage test, you'll want to write down some key information.
 
-First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](#page-263-0)).
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](https://steelcompendium.io/v2/Browse/Rules/Chapters/Tests)).
 
 You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
 
@@ -1020,7 +1020,7 @@ You'll then need to create the three outcomes of the montage: total success, par
 
 When you run a montage test, start by setting the scene for the players and listing the various challenges the heroes must overcome. Allow the players to strategize about the order in which they'll tackle these challenges and make tests.
 
-When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](#page-263-0)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
+When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](https://steelcompendium.io/v2/Browse/Rules/Chapters/Tests)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
 
 After each test, narrate the hero's failure or success in such a way that the other players can understand if and how the challenge has been overcome. Your description might even spark some new ideas for what the characters can do next.
 
@@ -1052,7 +1052,7 @@ The following challenges can be part of the montage test:
 
 - **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* Presence, Reason. *Suggested Skills:* Architecture, Intimidate, Lead.
 - **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a Recovery if they incur a consequence on the test for this challenge.
-- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
+- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
 - **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested Characteristic:* Presence. *Suggested Skills:* Intimidate, Lead, Persuade.
 - **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Handle Animals, Lift, Ride.
 - **Move Burning Rubble:** Shifting burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge.
@@ -1062,7 +1062,7 @@ The following challenges can be part of the montage test:
 
 At the end of the first montage test round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the end of the round. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise, they earn a failure.
 
-- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Gymnastics, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump).
 - **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears—a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
 - **Help!** Townsfolk are about to run into a burning building to save a trapped relative. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townspeople from entering the burning building while another rescues the relative. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Lift, Persuade.
 
@@ -1100,7 +1100,7 @@ The first time any hero fails a test made as part of the montage test while the 
 
 The following challenges can be part of the heroes' infiltration:
 
-- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Gymnastics, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump).
 - **Avoid Traffic:** By finding the dustiest, least-traveled areas and sticking to them, characters can avoid notice. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Search, Track.
 - **Lie Low:** Once while the alarm level is greater than 0, the heroes can find a place to hide for a bit, reducing the alarm level by 1. This activity doesn't require a test or generate a success or failure.
 - **Make a Diversion:** After causing a ruckus, the characters quickly go the other way. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Alchemy, Perform, Sabotage.
@@ -1166,7 +1166,7 @@ The following challenges can be part of the montage test:
 
 - **Ask Around:** Characters can gather clues from locals or bystanders—or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
 - **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
-- **Obtain a Good View:** Characters can climb up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Obtain a Good View:** Characters can [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Gymnastics, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump).
 - **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
 - **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a Recovery.
 
@@ -1220,7 +1220,7 @@ One of the following outcomes ends the montage test:
 
 ### Running Respites
 
-When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1:](#page-17-3) [The Basics](#page-17-3)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1: The Basics](https://steelcompendium.io/v2/Browse/Rules/Chapters/The%20Basics), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
 
 #### Safe Place
 
@@ -1230,13 +1230,13 @@ Heroes can't take a respite unless they're in a safe place. This typically means
 
 #### Too Many Respites?
 
-It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](#page-307-2)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](https://steelcompendium.io/v2/Browse/Rules/Chapters/Downtime%20Projects)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
 
 If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
 
 #### Project Events
 
-Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](#page-307-2)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](https://steelcompendium.io/v2/Browse/Rules/Chapters/Downtime%20Projects)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
 
 When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
 
@@ -1264,7 +1264,7 @@ That said, you can make it easier to craft treasures and other items by changing
 
 ### Granting Rewards
 
-You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](#page-327-1)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
+You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](https://steelcompendium.io/v2/Browse/Rules/Chapters/Rewards)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
 
 #### Granting Treasures
 
@@ -1293,7 +1293,7 @@ The players can choose their hero's treasures, and can replace any leveled treas
 
 #### Making New Treasures
 
-You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](#page-307-2).
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](https://steelcompendium.io/v2/Browse/Rules/Chapters/Downtime%20Projects).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 
@@ -1325,7 +1325,7 @@ The heroes increase their wealth whenever they score a big payday or recover a h
 You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the following activities might:
 
 - A hero stands alone against a group of enemies to allow their comrades to escape.
-- A hero willingly jumps into quicksand, into lava, off a cliff, or into similar peril to save another character.
+- A hero willingly [jumps](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) into quicksand, into lava, off a cliff, or into similar peril to save another character.
 - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
 - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 

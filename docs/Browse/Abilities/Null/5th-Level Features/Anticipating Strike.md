@@ -39,8 +39,8 @@ type: feature/ability/null/5th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
-- **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
-- **17+:** 13 + A damage; I < STRONG, restrained (save ends)
+- **≤11:** 7 + A damage; I < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **12-16:** 10 + A damage; I < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **17+:** 13 + A damage; I < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 
 **Effect:** This strike resolves before the triggering movement or main action.

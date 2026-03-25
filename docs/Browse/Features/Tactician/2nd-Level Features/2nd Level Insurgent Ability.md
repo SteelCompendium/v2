@@ -46,6 +46,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-> - **17+:** 4 + R damage; R < STRONG, frightened (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)

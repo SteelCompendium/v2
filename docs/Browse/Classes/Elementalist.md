@@ -16,7 +16,7 @@ type: class
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
+**As an [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -48,22 +48,22 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                            | Abilities                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                    | Abilities                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Ward, [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
-As a 1st-level elementalist, you gain the following features.
+As a 1st-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Elemental Specialization
 
@@ -74,7 +74,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -163,7 +163,7 @@ You have the following ability.
 >
 > - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+> - You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -302,13 +302,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 >
 > **Trigger:** The target starts their turn, moves, or is force moved.
 >
-> **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) them at any point during the move.
 >
-> **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
+> **Spend 1 Essence:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to twice your Reason score instead.
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -395,7 +395,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -407,7 +407,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can teleport up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -452,9 +452,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -560,7 +560,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, prone
+> - **17+:** 8 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
@@ -636,7 +636,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### 2nd-Level Features
 
-As a 2nd-level elementalist, you gain the following features.
+As a 2nd-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -667,38 +667,38 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
-You choose a specific animal and appearance while in animal form. For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an animal form, your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
-| Animal Type           | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                               |
-| --------------------- | ----- | ----------------- | ------------- | ---- | --------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Canine                | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
-| Fish                  | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                             |
-| Rodent                | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                         |
-| Bird                  | 3rd   | 0                 | 5 (fly)       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                     |
-| Great cat             | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked prone, and you can<br/> make a melee free strike against them (no action required).                                                         |
-| Giant frog            | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high jump or long jump up to half your speed. This<br/> jump can allow you to move more squares than your speed.                                                                |
-| Horse                 | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                        |
-| Mohler                | 4th   | 0                 | 7 (burrow)    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
-| Bear                  | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                 |
-| Giant bird            | 5th   | 0                 | 7 (fly)       | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                      |
-| Giant<br/> salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                |
-| Giant spider          | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                              |
-| Giant snake           | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While grabbed this way, the target takes 2<br/> damage at the start of each of their turns.                                                                        |
-| Kangaroo              | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is dazed (save<br/> ends). When you take the Advance move action, you can high jump or long<br/> jump up to half your speed. This jump can allow you to move more squares<br/> than your speed.                    |
-| Spiny armadillo       | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                |
-| Ostrich               | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                   |
-| Shark                 | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are bleeding or winded.                                                                                                                                  |
-| Giant octopus         | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures grabbed. |
-| Rhinoceros            | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                   |
-| King terror lizard    | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                |
+| Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | --------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canine                | 2nd   | 5                 | 7                                                                               | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Fish                  | 2nd   | 0                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Rodent                | 2nd   | 0                 | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Bird                  | 3rd   | 0                 | 5 ([fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly))                     | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Great cat             | 3rd   | 5                 | 6 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +1/+1/+1           | As a maneuver, you can [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), and you can<br/> make a melee free strike against them (no action required).                                                                                                                                                |
+| Giant frog            | 4th   | 5                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) or long [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to half your speed. This<br/> [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) can allow you to move more squares than your speed.                                                                                                     |
+| Horse                 | 4th   | 5                 | 8                                                                               | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                            |
+| Mohler                | 4th   | 0                 | 7 ([burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow))               | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Bear                  | 5th   | 10                | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Giant bird            | 5th   | 0                 | 7 ([fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly))                     | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                          |
+| Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Giant spider          | 6th   | 0                 | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                  |
+| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save<br/> ends). When you take the Advance move action, you can high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) or long<br/> [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to half your speed. This [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) can allow you to move more squares<br/> than your speed. |
+| Spiny armadillo       | 7th   | 10                | 5                                                                               | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                    |
+| Ostrich               | 8th   | 0                 | 10                                                                              | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Shark                 | 8th   | 0                 | 8 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                           |
+| Giant octopus         | 9th   | 5                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).                                                                                                                                           |
+| Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                       |
+| King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ##### There Is No Space Between
 
@@ -713,7 +713,7 @@ You have the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 >
 > At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
 
@@ -764,7 +764,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > | ----------------------------- | ----------------------: |
 > | **📏 Ranged 10**              | **🎯 Self or one ally** |
 >
-> **Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+> **Effect:** The target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 >
 > **Power Roll + Reason:**
 >
@@ -783,13 +783,13 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 
 ### 3rd-Level Features
 
-As a 3rd-level elementalist, you gain the following features.
+As a 3rd-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### 3rd-Level Specialization Feature
 
@@ -916,7 +916,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 ### 4th-Level Features
 
-As a 4th-level elementalist, you gain the following features.
+As a 4th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -965,7 +965,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level elementalist, you gain the following features.
+As a 5th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### 5th-Level Specialization Feature
 
@@ -982,7 +982,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -996,11 +996,11 @@ Additionally, whenever an ally within distance of your Hurl Element ability is f
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can teleport a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) a number of squares equal to your Reason score.
 
 ##### Smoldering Step
 
-You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) into an area of fire your size or larger and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
@@ -1070,17 +1070,17 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 corruption damage; A < WEAK, restrained (save ends)
-> - **12-16:** 3 corruption damage; A < AVERAGE, restrained (save ends)
-> - **17+:** 5 corruption damage; A < STRONG, restrained (save ends)
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is restrained (save ends).
+> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends).
 >
 > **Persistent 1:** The area remains until the start of your next turn.
 
 ### 6th-Level Features
 
-As a 6th-level elementalist, you gain the following features.
+As a 6th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -1110,7 +1110,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 > | ------------------------------------ | ----------------------: |
 > | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 >
-> **Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+> **Effect:** The target has a +3 bonus to speed, they can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 >
 > **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -1125,7 +1125,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Effect:** Until the start of your next turn, the target has the following benefits:
 >
-> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become restrained until the effect ends.
+> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the effect ends.
 > - They have fire immunity 10.
 > - Their strikes deal extra fire damage equal to twice your Reason score.
 > - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
@@ -1136,7 +1136,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ###### Meteor (9 Essence)
 >
-> *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |
@@ -1144,11 +1144,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** You teleport the target up to 4 squares.
-> - **12-16:** You teleport the target up to 6 squares.
-> - **17+:** You teleport the target up to 8 squares.
+> - **≤11:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 4 squares.
+> - **12-16:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 6 squares.
+> - **17+:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 8 squares.
 >
-> **Effect:** If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
+> **Effect:** If the target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
 
 <!-- -->
 > ###### The Wode Remembers and Returns (9 Essence)
@@ -1165,7 +1165,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 ### 7th-Level Features
 
-As a 7th-level elementalist, you gain the following features.
+As a 7th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1187,7 +1187,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level elementalist, you gain the following features.
+As an 8th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -1214,9 +1214,9 @@ Additionally, your Mantle of Essence improves. While in the area of the aura, en
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
-Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -1249,11 +1249,11 @@ You have the following ability.
 >
 > **Source of Earth**
 >
-> |       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
-> | :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-> |    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-> | **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-> |   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+> |       Elemental       |                                        -                                        |       Level 8       |          BRUTE          |          EV -          |
+> | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
+> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+> | **-**<br/> Immunities | **[Burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+> |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 >
 > > **Earthwalk**
 > >
@@ -1261,7 +1261,7 @@ You have the following ability.
 >
 > > **Tunneler**
 > >
-> > When the source burrows, they create a size 2 tunnel.
+> > When the source [burrows](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), they create a size 2 tunnel.
 >
 > > **Earth Harness**
 > >
@@ -1292,9 +1292,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are prone. Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Each ally within distance also gains this benefit.
 >
-> Each enemy who ends their turn within 3 squares of the tree is restrained until the end of their next turn. A creature restrained this way can use a main action to end the effect early.
+> Each enemy who ends their turn within 3 squares of the tree is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the end of their next turn. A creature [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way can use a main action to end the effect early.
 
 <!-- -->
 > ###### Muse of Fire (11 Essence)
@@ -1322,7 +1322,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ----------------------------- | --------------: |
 > | **📏 Ranged 10**              |  **🎯 Special** |
 >
-> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked prone. At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 <!-- -->
 > ###### World Torn Asunder (11 Essence)
@@ -1335,15 +1335,15 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** M < WEAK, prone
-> - **12-16:** M < AVERAGE, prone
-> - **17+:** M < STRONG, prone
+> - **≤11:** M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **12-16:** M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
 >
-> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
 
 ### 9th-Level Features
 
-As a 9th-level elementalist, you gain the following features.
+As a 9th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Grand Wyrding
 
@@ -1407,15 +1407,15 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
 >
 > **Effect:** This damage ignores immunity.
 
 ### 10th-Level Features
 
-As a 10th-level elementalist, you gain the following features.
+As a 10th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
 
 #### Breath
 
@@ -1462,11 +1462,11 @@ The number of Recoveries you have increases by 2, and each time you finish a res
 
 Additionally, as a respite activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a respite activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic consumables on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if prone. Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ##### Master of Void
 
-Whenever you willingly move, you can teleport.
+Whenever you willingly move, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 

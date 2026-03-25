@@ -8,7 +8,7 @@ distance: 4 burst
 feature_type: ability
 file_basename: Cinderstorm
 file_dpath: Abilities/Shadow/6th-Level Features
-flavor: You teleport your friends in a burst of ash and fire.
+flavor: You [teleport](scc:mcdm.heroes.v1:movement:teleport) your friends in a burst of ash and fire.
 item_id: cinderstorm-9-insight
 item_index: '02'
 item_name: Cinderstorm (9 Insight)
@@ -27,10 +27,10 @@ type: feature/ability/shadow/6th-level-feature
 
 ###### Cinderstorm (9 Insight)
 
-*You teleport your friends in a burst of ash and fire.*
+*You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) your friends in a burst of ash and fire.*
 
 | **Magic**      |                          **Maneuver** |
 | -------------- | ------------------------------------: |
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+**Effect:** Each target can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.

@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 4th-Level Features
 
-As a 4th-level troubadour, you gain the following features.
+As a 4th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 

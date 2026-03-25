@@ -14,7 +14,7 @@ type: kit
 
 #### Arcane Archer
 
-The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](https://steelcompendium.io/v2/Browse/Rules/Kits/Arcane%20Archer) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment
 

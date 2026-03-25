@@ -14,7 +14,7 @@ type: complication
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](https://steelcompendium.io/v2/Browse/Rules/Titles/1st%20Echelon/Presumed%20Dead). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 

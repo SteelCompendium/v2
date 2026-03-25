@@ -14,35 +14,35 @@ type: ancestry
 
 ## Polder
 
-After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans and share their gods and culture. Almost every human culture in Orden has a polder saint or a human saint venerated by polder.
+After [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) are the most numerous and diverse ancestry in Orden. They are not [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), but they live in and among [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) and share their gods and culture. Almost every [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) culture in Orden has a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) saint or a [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) saint venerated by [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder).
 
-Short, averaging 31/2 feet tall, the polders' origins are obscure. They are a young species who, like humans, have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many polders consider this a base slander and point out they're also famed as chefs, though polders can be found in every profession, especially in cities.
+Short, averaging 31/2 feet tall, the [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder)' origins are obscure. They are a young species who, like [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) consider this a base slander and point out they're also famed as chefs, though [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) can be found in every profession, especially in cities.
 
 ### On Polders
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Curls Around Dying Embers said. "But what do *you* say?"
 
-"Eh?" the polder asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
+"Eh?" the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a polder before," he said.
+"Oh," the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) before," he said.
 
 "Are you kidding me?" Jackson said.
 
 "No! Sorry, I just..."
 
-"What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking village and town from here to the sea."
+"What are you, from the moon? Where you from that you never met a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) before? There's [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) in every fucking village and town from here to the sea."
 
-"Really? That's weird. I'm from Tor, I've been all over—just never met a polder before."
+"Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) before."
 
-Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
-"Well, we're adorable," the polder said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
+"Well, we're adorable," the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
-The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
+The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
 
 "You're talking just... my voice is just as loud as yours!"
 
@@ -50,17 +50,17 @@ The polder put his drink down. "Oh, thank you. Thank you very much. You know, it
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-"Humans are loud, yes," Embers agreed.
+"[Humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) are loud, yes," Embers agreed.
 
 "Do we have to... can we talk about something else, please?" John said.
 
-"I just..." The polder wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder), got [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 
 The little man smiled. "Getting into places we ain't supposed to be." "Now we're talking," Sir John said. "You were saying we need the people behind us. I agree."
 
-"Yeah, okay. To business: How to rally the people." The polder took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
+"Yeah, okay. To business: How to rally the people." The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
 
 "I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
@@ -74,11 +74,11 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) looked at the [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
-"What do you mean?" Now it was the polder's turn to be confused. "What do you mean, 'What do I mean?'" John said.
+"What do you mean?" Now it was the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder)'s turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
 "I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
@@ -86,15 +86,15 @@ The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Wel
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) void mage, then back at the [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
-The polder turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
+The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) turned back to Sir John. "Hello. I lie for a living. And I'm *really good at it*. Sometimes also kill people, but only if lying or running away doesn't work."
 
 John turned to Embers. "I thought he was a thief."
 
-"I was a thief," the polder said.
+"I was a thief," the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) said.
 
 "You *were* a thief."
 
@@ -102,21 +102,21 @@ John turned to Embers. "I thought he was a thief."
 
 "Did they kick you out, or did you quit?"
 
-"Depends on who you ask. I don't like being told what to do. It's sort of a polder thing. Hereditary or ancestral or whatever. Everybody wants a polder chef until they start trying to tell us what to cook."
+"Depends on who you ask. I don't like being told what to do. It's sort of a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) thing. Hereditary or ancestral or whatever. Everybody wants a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) chef until they start trying to tell us what to cook."
 
 "So what are you now?"
 
 "I'm annoying."
 
-The elf smiled. "He's a troubadour—one of the best."
+The elf smiled. "He's a [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour)—one of the best."
 
 Sir John looked at him, nodded. "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
-The polder grinned. "I ain't that kind of troubadour. I'm the other kind. I think the best story is the one people tell each other."
+The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) grinned. "I ain't that kind of [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour). I'm the other kind. I think the best story is the one people tell each other."
 
-"Propaganda," Sir John said, a grin spreading across his face. The polder pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
+"Propaganda," Sir John said, a grin spreading across his face. The [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) pointed a finger at him and smiled. John heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
 
-"Hey," the polder said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
+"Hey," the [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks the part all right. Or she, I can never tell with these guys."
 
 John turned to see.
 
@@ -124,13 +124,13 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The dragon knight stared at them for a moment, then turned back to his friend.
+The [dragon knight](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dragon%20Knight) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
 ### Polder Traits
 
-Polder heroes have access to the following traits.
+[Polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) heroes have access to the following traits.
 
 ### Signature Trait: Shadowmeld
 
@@ -138,13 +138,13 @@ You have the following ability.
 
 ###### Shadowmeld
 
-*You become an actual shadow.*
+*You become an actual [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow).*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -158,11 +158,11 @@ You have 4 ancestry points to spend on the following traits. (*Quick Build:* Cor
 
 ##### Corruption Immunity (1 Point)
 
-Your innate shadow magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+Your innate [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
 ##### Fearless (2 Points)
 
-Courage is all you know. You can't be made frightened.
+Courage is all you know. You can't be made [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened).
 
 ##### Graceful Retreat (1 Point)
 

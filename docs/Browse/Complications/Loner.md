@@ -18,4 +18,4 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are taunted by that creature until your ally's Stamina is higher than 0, another creature makes you taunted, or the end of the encounter.
+**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted), or the end of the encounter.

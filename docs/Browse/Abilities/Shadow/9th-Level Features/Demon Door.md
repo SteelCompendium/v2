@@ -42,4 +42,4 @@ type: feature/ability/shadow/9th-level-feature
 - **12-16:** 18 + A corruption damage; push 5
 - **17+:** 25 + A corruption damage; push 7
 
-**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a critical hit, the target is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
