@@ -112,3 +112,14 @@ th:empty {
 .browse-index li a:hover {
     color: var(--md-accent-fg-color);
 }
+
+.grid.cards {
+    h3 {
+        margin: 0;
+    }
+
+    hr {
+        margin-top: 0;
+    }
+}
+
