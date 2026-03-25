@@ -14,17 +14,17 @@ type: class/fury/level
 
 ### 6th-Level Features
 
-As a 6th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 6th-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
 
 #### Marauder of the Primordial Chaos
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../../../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../../../../Browse/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -49,7 +49,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your maximum [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](../../../../Browse/Movement/Jump) up to your maximum [jump](../../../../Browse/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >
@@ -104,11 +104,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 10 + M damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../../../../Browse/Conditions/Frightened) of you (save ends).
 
 ##### 6th-Level Stormwight Abilities
 
@@ -125,11 +125,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 13 damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 17 damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 8 damage; M < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **17+:** 17 damage; M < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed)
 >
-> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](../../../../Browse/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 <!-- -->
 > ###### Riders on the Storm (9 Ferocity)
@@ -140,6 +140,6 @@ Choose one of the following abilities.
 > | --------------- | -------------------------------: |
 > | **📏 3 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the start of their next turn or until the effect ends.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../../../Browse/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../Browse/Movement/Fly) until the start of their next turn or until the effect ends.
 >
 > **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.

@@ -68,9 +68,32 @@ update push="true":
         echo >&2 "[INFO] Updating markdown links for mkdocs"
         find "${v2_dir}/docs" -type f -name '*.md' -print0 |
         while IFS= read -r -d '' f; do
-            sed -i -E 's|REL_PATH_PREFIX|https://steelcompendium.io/v2/Browse/|g' "$f"
+            file_dir="$(dirname "$f")"
+            rel_path="$(python3 -c "import os.path; print(os.path.relpath('${v2_dir}/docs', '${file_dir}'))")"
+            sed -i -E "s|REL_PATH_PREFIXRules/Chapters|${rel_path}/Chapters|g" "$f"
+            sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/../Browse|g" "$f"
             sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
         done
+
+    #        # Replace link placeholders with relative paths (works for both mkdocs serve and build).
+    #        # Links in data-md-linked resolve to paths like REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX.
+    #        # The justfile restructures Rules/* -> docs/Browse/*, so strip "Rules/" and compute
+    #        # a relative path from each file's directory to docs/Browse/.
+    #        # Chapter links (Rules/Chapters/*) map to docs/Read/*.
+    #        echo >&2 "[INFO] Updating markdown links for mkdocs"
+    #        browse_dir="${v2_dir}/docs/Browse"
+    #        read_dir="${v2_dir}/docs/Read"
+    #        find "${v2_dir}/docs" -type f -name '*.md' -print0 |
+    #        while IFS= read -r -d '' f; do
+    #            file_dir="$(dirname "$f")"
+    #            rel_browse="$(python3 -c "import os.path; print(os.path.relpath('${browse_dir}', '${file_dir}'))")"
+    #            rel_read="$(python3 -c "import os.path; print(os.path.relpath('${read_dir}', '${file_dir}'))")"
+    #            # Chapter links: Rules/Chapters/* -> Read/*
+    #            sed -i -E "s|REL_PATH_PREFIXRules/Chapters/|${rel_read}/|g" "$f"
+    #            # Everything else under Rules/ -> Browse/
+    #            sed -i -E "s|REL_PATH_PREFIXRules/|${rel_browse}/|g" "$f"
+    #            sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
+    #        done
 
         # --- Inject search exclusion front matter ---
         echo >&2 "[INFO] Injecting search exclusion for Read and Full Book..."

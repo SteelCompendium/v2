@@ -29,7 +29,7 @@ type: feature/ability/shadow/9th-level-feature
 
 ###### Cacophony of Cinders (11 Insight)
 
-*You tumble through the battle, stabbing foes and [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) allies.*
+*You tumble through the battle, stabbing foes and [teleporting](../../../../../Browse/Movement/Teleport) allies.*
 
 | **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |
@@ -39,6 +39,6 @@ type: feature/ability/shadow/9th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** An enemy takes 6 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 3 squares.
-- **12-16:** An enemy takes 10 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares.
-- **17+:** An enemy takes 14 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 7 squares.
+- **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 3 squares.
+- **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares.
+- **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 7 squares.

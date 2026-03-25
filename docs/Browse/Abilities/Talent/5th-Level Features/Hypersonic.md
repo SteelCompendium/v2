@@ -35,7 +35,7 @@ type: feature/ability/talent/5th-level-feature
 | -------------------------------------- | ----------------------------: |
 | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
-**Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](../../../../../Browse/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
 
 **Power Roll + Reason:**
 
@@ -43,4 +43,4 @@ type: feature/ability/talent/5th-level-feature
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of your turn and each target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../../Browse/Conditions/Slowed) until the end of your turn and each target is [slowed](../../../../../Browse/Conditions/Slowed) until the end of their turn.

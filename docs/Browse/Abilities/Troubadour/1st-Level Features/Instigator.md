@@ -38,4 +38,4 @@ type: feature/ability/troubadour/1st-level-feature
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** The target is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../../../../Browse/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.

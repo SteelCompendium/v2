@@ -36,6 +36,6 @@ type: feature/ability/elementalist/5th-level-feature
 | ------------------------------------ | ----------------------: |
 | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to speed, they can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 bonus to speed, they can [fly](../../../../../Browse/Movement/Fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 
 **Persistent 1:** The effect lasts until the start of your next turn.

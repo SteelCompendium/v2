@@ -37,4 +37,4 @@ type: feature/ability/conduit/1st-level-feature
 - **12-16:** 3 holy damage
 - **17+:** 5 holy damage
 
-**Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and each ally in the area to unoccupied spaces in the area.
+**Effect:** You can [teleport](../../../../../Browse/Movement/Teleport) yourself and each ally in the area to unoccupied spaces in the area.

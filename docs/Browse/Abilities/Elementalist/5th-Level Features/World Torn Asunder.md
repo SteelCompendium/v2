@@ -36,8 +36,8 @@ type: feature/ability/elementalist/5th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **12-16:** M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **17+:** M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **≤11:** M < WEAK, [prone](../../../../../Browse/Conditions/Prone)
+- **12-16:** M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
+- **17+:** M < STRONG, [prone](../../../../../Browse/Conditions/Prone)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](../../../../../Browse/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.

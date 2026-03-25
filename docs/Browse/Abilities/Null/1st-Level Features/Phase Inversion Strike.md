@@ -39,4 +39,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 
-**Effect:** Before the push is resolved, you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, you can't push them.
+**Effect:** Before the push is resolved, you [teleport](../../../../../Browse/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../../Browse/Movement/Teleport) this way, you can't push them.

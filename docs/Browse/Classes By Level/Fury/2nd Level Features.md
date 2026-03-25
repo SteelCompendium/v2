@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 2nd-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 
@@ -42,7 +42,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](../../../../Browse/Movement/Jump) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -97,9 +97,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 8 + M damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -114,9 +114,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 6 damage; A < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -133,9 +133,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 10 damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -150,8 +150,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).

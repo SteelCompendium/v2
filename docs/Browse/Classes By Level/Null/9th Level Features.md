@@ -14,15 +14,15 @@ type: class/null/level
 
 ### 9th-Level Features
 
-As a 9th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 9th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](../../../../Browse/Conditions/Bleeding) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 #### 9th-Level Tradition Ability
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
+Your [null](../../../../Browse/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 
@@ -92,11 +92,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../../Browse/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -126,8 +126,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed)
+> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed)
+> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed)
 >
-> **Effect:** While [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+> **Effect:** While [dazed](../../../../Browse/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.

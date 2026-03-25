@@ -29,7 +29,7 @@ type: feature/ability/shadow/1st-level-feature
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) out after a devastating attack.*
+*You leave your foe [bleeding](../../../../../Browse/Conditions/Bleeding) out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -37,6 +37,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **17+:** 10 + A damage; A < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)

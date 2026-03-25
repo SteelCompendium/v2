@@ -52,6 +52,6 @@ Choose one of the following abilities.
 >
 > - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
 > - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-> - **17+:** Slide 12 + R; [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone); M < STRONG, the forced movement is vertical
+> - **17+:** Slide 12 + R; [prone](../../../../../Browse/Conditions/Prone); M < STRONG, the forced movement is vertical
 >
-> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends).
+> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](../../../../../Browse/Conditions/Weakened) (save ends).

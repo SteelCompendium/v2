@@ -14,6 +14,6 @@ type: condition
 
 ##### Restrained
 
-A creature who is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
+A creature who is [restrained](../../../Browse/Conditions/Restrained) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](../../../Browse/Conditions/Restrained) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained), that condition ends.
+If a creature [teleports](../../../Browse/Movement/Teleport) while [restrained](../../../Browse/Conditions/Restrained), that condition ends.

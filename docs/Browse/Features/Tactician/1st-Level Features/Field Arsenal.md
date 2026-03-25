@@ -18,11 +18,11 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor), [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../../../../../Browse/Kits/Shining%20Armor), [Sniper](../../../../../Browse/Kits/Sniper).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) and [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../../../../Browse/Kits/Shining%20Armor) and [Sniper](../../../../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -33,4 +33,4 @@ For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Brows
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.

@@ -14,11 +14,11 @@ type: skill
 
 ##### Interpersonal Skills
 
-Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) when you attempt to influence creatures who have emotions and who can understand you.
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](../../../Browse/Skills/Interpersonal%20Skills) when you attempt to influence creatures who have emotions and who can understand you.
 
-Rewards for tests made with [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+Rewards for tests made with [interpersonal skills](../../../Browse/Skills/Interpersonal%20Skills) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
-Consequences for tests made with [interpersonal skills](https://steelcompendium.io/v2/Browse/Rules/Skills/Interpersonal%20Skills) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+Consequences for tests made with [interpersonal skills](../../../Browse/Skills/Interpersonal%20Skills) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 ###### Interpersonal Skills Table
 

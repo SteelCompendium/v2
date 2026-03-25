@@ -18,4 +18,4 @@ type: feature/trait/null/3rd-level-feature
 
 #### Psionic Leap
 
-You can long [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) and high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.
+You can long [jump](../../../../../Browse/Movement/Jump) and high [jump](../../../../../Browse/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.

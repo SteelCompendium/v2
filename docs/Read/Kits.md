@@ -20,7 +20,7 @@ search:
 
 # Kits
 
-The knight in [shining armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor). The [warrior priest](https://steelcompendium.io/v2/Browse/Rules/Kits/Warrior%20Priest). The [sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper). Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](../../Browse/Kits/Shining%20Armor). The [warrior priest](../../Browse/Kits/Warrior%20Priest). The [sniper](../../Browse/Kits/Sniper). Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -30,7 +30,7 @@ Your choice of kit is always flexible, and your hero is never locked into a spec
 
 Each kit's equipment entry details the armor and weapons the kit provides. It's important to know what equipment a kit uses, because that informs your hero's appearance and story. Equipment is part of what affects the math behind your kit's benefits, alongside the fighting techniques each kit provides. Equipment also determines the type of magic and psionic treasures your character can wield.
 
-The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the [Guisarmier](https://steelcompendium.io/v2/Browse/Rules/Kits/Guisarmier) kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
+The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the [Guisarmier](../../Browse/Kits/Guisarmier) kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
 
 You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
 
@@ -103,7 +103,7 @@ Whip weapons include the standard whip, spiked chains, flails, and any similarly
 
 #### Kits and Treasures
 
-When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](https://steelcompendium.io/v2/Browse/Rules/Kits/Ranger) or [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) kits. However, you can't use it with the [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger) or [Stick and Robe](https://steelcompendium.io/v2/Browse/Rules/Kits/Stick%20and%20Robe) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../../Browse/Kits/Ranger) or [Shining Armor](../../Browse/Kits/Shining%20Armor) kits. However, you can't use it with the [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) or [Stick and Robe](../../Browse/Kits/Stick%20and%20Robe) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
 
 If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
 
@@ -131,7 +131,7 @@ Kits can grant you a bonus to damage with both melee and ranged weapon abilities
 
 Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
 
-For example, the [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](../../Browse/Kits/Shining%20Armor) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](../../Browse/Kits/Sniper) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
 
 #### Distance Bonus
 
@@ -145,7 +145,7 @@ A kit that has a disengage bonus increases the number of squares you can shift w
 
 ### Kit Signature Ability
 
-Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the [Guisarmier](https://steelcompendium.io/v2/Browse/Rules/Kits/Guisarmier) kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
+Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../../Browse/Kits/Guisarmier) kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
 
 For details on the ability format, see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2).
 
@@ -162,7 +162,7 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 #### Arcane Archer
 
-The [Arcane Archer](https://steelcompendium.io/v2/Browse/Rules/Kits/Arcane%20Archer) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](../../Browse/Kits/Arcane%20Archer) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment
 
@@ -198,7 +198,7 @@ You wear no armor and wield a bow.
 
 #### Battlemind
 
-Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](https://steelcompendium.io/v2/Browse/Rules/Kits/Battlemind) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](../../Browse/Kits/Battlemind) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
 ##### Equipment
 
@@ -234,7 +234,7 @@ You wear light armor and wield a medium weapon.
 
 #### Cloak and Dagger
 
-Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
 ##### Equipment
 
@@ -272,7 +272,7 @@ You wear light armor and wield one or two light weapons.
 
 #### Dual Wielder
 
-The [Dual Wielder](https://steelcompendium.io/v2/Browse/Rules/Kits/Dual%20Wielder) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+The [Dual Wielder](../../Browse/Kits/Dual%20Wielder) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
 ##### Equipment
 
@@ -308,7 +308,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 #### Guisarmier
 
-The [Guisarmier](https://steelcompendium.io/v2/Browse/Rules/Kits/Guisarmier) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
+The [Guisarmier](../../Browse/Kits/Guisarmier) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
 ##### Equipment
 
@@ -342,7 +342,7 @@ You wear medium armor and wield a polearm.
 
 #### Martial Artist
 
-If you want to be fast in a fight, then [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [Martial Artist](../../Browse/Kits/Martial%20Artist) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
 
 ##### Equipment
 
@@ -378,7 +378,7 @@ You wear no armor and wield only your unarmed strikes.
 
 #### Mountain
 
-The [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
+The [Mountain](../../Browse/Kits/Mountain) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
 ##### Equipment
 
@@ -412,7 +412,7 @@ You wear heavy armor and wield a heavy weapon.
 
 #### Panther
 
-If you want a good balance of protection, speed, and damage, the [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther) kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+If you want a good balance of protection, speed, and damage, the [Panther](../../Browse/Kits/Panther) kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
 ##### Equipment
 
@@ -448,7 +448,7 @@ You wear no armor and wield a heavy weapon.
 
 #### Pugilist
 
-Meant for brawlers and boxers, the [Pugilist](https://steelcompendium.io/v2/Browse/Rules/Kits/Pugilist) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+Meant for brawlers and boxers, the [Pugilist](../../Browse/Kits/Pugilist) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
 ##### Equipment
 
@@ -484,7 +484,7 @@ You wear no armor and wield only your unarmed strikes.
 
 #### Raider
 
-The [Raider](https://steelcompendium.io/v2/Browse/Rules/Kits/Raider) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+The [Raider](../../Browse/Kits/Raider) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
 ##### Equipment
 
@@ -524,7 +524,7 @@ You wear light armor and wield a shield and a light weapon.
 
 #### Ranger
 
-The [Ranger](https://steelcompendium.io/v2/Browse/Rules/Kits/Ranger) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+The [Ranger](../../Browse/Kits/Ranger) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
 ##### Equipment
 
@@ -556,9 +556,9 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 3 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 #### Rapid-Fire
 
@@ -598,7 +598,7 @@ You wear light armor and wield a bow.
 
 #### Retiarius
 
-The [retiarius](https://steelcompendium.io/v2/Browse/Rules/Kits/Retiarius) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+The [retiarius](../../Browse/Kits/Retiarius) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
 ##### Equipment
 
@@ -628,13 +628,13 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (EoT)
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../Browse/Conditions/Slowed) (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (EoT)
 
 #### Shining Armor
 
-The [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The [Shining Armor](../../Browse/Kits/Shining%20Armor) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment
 
@@ -664,11 +664,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 - **12-16:** 8 + M or A damage
 - **17+:** 11 + M or A damage
 
-**Effect:** The target is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) until the end of their next turn.
+**Effect:** The target is [taunted](../../Browse/Conditions/Taunted) until the end of their next turn.
 
 #### Sniper
 
-The [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
+The [Sniper](../../Browse/Kits/Sniper) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
 ##### Equipment
 
@@ -704,7 +704,7 @@ You wear no armor and wield a bow.
 
 #### Spellsword
 
-The [Spellsword](https://steelcompendium.io/v2/Browse/Rules/Kits/Spellsword) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
+The [Spellsword](../../Browse/Kits/Spellsword) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
 ##### Equipment
 
@@ -740,7 +740,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 #### Stick and Robe
 
-Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](https://steelcompendium.io/v2/Browse/Rules/Kits/Stick%20and%20Robe) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../../Browse/Kits/Stick%20and%20Robe) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
 
 ##### Equipment
 
@@ -776,7 +776,7 @@ You wear light armor and wield a polearm.
 
 #### Swashbuckler
 
-If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](https://steelcompendium.io/v2/Browse/Rules/Kits/Swashbuckler) kit. This is a great kit for heroes who want to be master duelists.
+If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](../../Browse/Kits/Swashbuckler) kit. This is a great kit for heroes who want to be master duelists.
 
 ##### Equipment
 
@@ -812,7 +812,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The [Sword and Board](https://steelcompendium.io/v2/Browse/Rules/Kits/Sword%20and%20Board) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](../../Browse/Kits/Sword%20and%20Board) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -842,11 +842,11 @@ You wear medium armor and wield a shield and a medium weapon.
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **17+:** 9 + M or A damage; push 3; M < STRONG, [prone](../../Browse/Conditions/Prone)
 
 #### Warrior Priest
 
-The [Warrior Priest](https://steelcompendium.io/v2/Browse/Rules/Kits/Warrior%20Priest) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+The [Warrior Priest](../../Browse/Kits/Warrior%20Priest) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
 ##### Equipment
 
@@ -882,7 +882,7 @@ You wear heavy armor and wield a light weapon.
 
 #### Whirlwind
 
-The [Whirlwind](https://steelcompendium.io/v2/Browse/Rules/Kits/Whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+The [Whirlwind](../../Browse/Kits/Whirlwind) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
 ##### Equipment
 
@@ -929,24 +929,24 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 | Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
 | --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
-| [Arcane Archer](https://steelcompendium.io/v2/Browse/Rules/Kits/Arcane%20Archer)         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
-| [Battlemind](https://steelcompendium.io/v2/Browse/Rules/Kits/Battlemind)                 | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Dual Wielder](https://steelcompendium.io/v2/Browse/Rules/Kits/Dual%20Wielder)           | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Guisarmier](https://steelcompendium.io/v2/Browse/Rules/Kits/Guisarmier)                 | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist)       | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain)                     | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
-| [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther)                       | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](https://steelcompendium.io/v2/Browse/Rules/Kits/Pugilist)                     | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Raider](https://steelcompendium.io/v2/Browse/Rules/Kits/Raider)                         | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| [Ranger](https://steelcompendium.io/v2/Browse/Rules/Kits/Ranger)                         | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Arcane Archer](../../Browse/Kits/Arcane%20Archer)         | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
+| [Battlemind](../../Browse/Kits/Battlemind)                 | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Dual Wielder](../../Browse/Kits/Dual%20Wielder)           | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Guisarmier](../../Browse/Kits/Guisarmier)                 | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
+| [Martial Artist](../../Browse/Kits/Martial%20Artist)       | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Mountain](../../Browse/Kits/Mountain)                     | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
+| [Panther](../../Browse/Kits/Panther)                       | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
+| [Pugilist](../../Browse/Kits/Pugilist)                     | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Raider](../../Browse/Kits/Raider)                         | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Ranger](../../Browse/Kits/Ranger)                         | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | Rapid-Fire                                                                        | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
-| [Retiarius](https://steelcompendium.io/v2/Browse/Rules/Kits/Retiarius)                   | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
-| [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor)         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper)                         | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
-| [Spellsword](https://steelcompendium.io/v2/Browse/Rules/Kits/Spellsword)                 | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| [Stick and Robe](https://steelcompendium.io/v2/Browse/Rules/Kits/Stick%20and%20Robe)     | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-| [Swashbuckler](https://steelcompendium.io/v2/Browse/Rules/Kits/Swashbuckler)             | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| [Sword and Board](https://steelcompendium.io/v2/Browse/Rules/Kits/Sword%20and%20Board)   | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
-| [Warrior Priest](https://steelcompendium.io/v2/Browse/Rules/Kits/Warrior%20Priest)       | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| [Whirlwind](https://steelcompendium.io/v2/Browse/Rules/Kits/Whirlwind)                   | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Retiarius](../../Browse/Kits/Retiarius)                   | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
+| [Shining Armor](../../Browse/Kits/Shining%20Armor)         | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Sniper](../../Browse/Kits/Sniper)                         | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
+| [Spellsword](../../Browse/Kits/Spellsword)                 | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Stick and Robe](../../Browse/Kits/Stick%20and%20Robe)     | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Swashbuckler](../../Browse/Kits/Swashbuckler)             | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Sword and Board](../../Browse/Kits/Sword%20and%20Board)   | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
+| [Warrior Priest](../../Browse/Kits/Warrior%20Priest)       | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Whirlwind](../../Browse/Kits/Whirlwind)                   | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |

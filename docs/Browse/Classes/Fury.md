@@ -16,7 +16,7 @@ type: class
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
+**As a [fury](../../../Browse/Classes/Fury), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -43,13 +43,13 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](../../../Browse/Movement/Jump), Nature.)
 
 ###### Fury Advancement Table
 
 | Level | Features                                                                                                                                                                  | Abilities                 | Aspect Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) Abilities | Signature, 3, 5           | -                |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](../../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                      | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7        | 5                |
 | 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill                                           | Signature, 3, 5, 7        | 5                |
@@ -62,7 +62,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ### 1st-Level Features
 
-As a 1st-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 1st-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Primordial Aspect
 
@@ -81,7 +81,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](https://steelcompendium.io/v2/Browse/Rules/Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../Browse/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -143,7 +143,7 @@ You can use and gain the benefits of a stormwight kit (see Stormwight Kits). You
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../Browse/Kits/Panther).)
 
 ##### Primordial Cunning
 
@@ -184,7 +184,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../Browse/Complications/Animal%20Form) or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -220,7 +220,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](../../../Browse/Movement/Jump) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -258,7 +258,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -273,9 +273,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../Browse/Conditions/Grabbed)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### To the Death!
@@ -364,11 +364,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
 >
-> **Effect:** While [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](../../../Browse/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -385,9 +385,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../Browse/Conditions/Bleeding) and [weakened](../../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding) and [weakened](../../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../Browse/Conditions/Bleeding) and [weakened](../../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -438,7 +438,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 ### 2nd-Level Features
 
-As a 2nd-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 2nd-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 
@@ -466,7 +466,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](../../../Browse/Movement/Jump) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -521,9 +521,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 8 + M damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../Browse/Conditions/Dazed) and [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../Browse/Conditions/Dazed) and [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../Browse/Conditions/Dazed) and [frightened](../../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -538,9 +538,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 6 damage; A < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -557,9 +557,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 10 damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -574,15 +574,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).
 
 ### 3rd-Level Features
 
-As a 3rd-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 3rd-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### 3rd-Level Aspect Feature
 
@@ -598,7 +598,7 @@ Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Fe
 
 ##### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../Browse/Conditions/Grabbed).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
@@ -606,7 +606,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) (see Stormwight Kits).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../../../Browse/Complications/Animal%20Form) (see Stormwight Kits).
 
 ##### See Through Their Tricks
 
@@ -625,7 +625,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) until the end of their turn.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../Browse/Conditions/Frightened) until the end of their turn.
 
 <!-- -->
 > ###### Face the Storm! (7 Ferocity)
@@ -636,7 +636,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../../../Browse/Conditions/Taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../../Browse/Conditions/Taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
 <!-- -->
 > ###### Steelbreaker (7 Ferocity)
@@ -662,7 +662,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 ### 4th-Level Features
 
-As a 4th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 4th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 
@@ -694,7 +694,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 5th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### 5th-Level Aspect Feature
 
@@ -710,15 +710,15 @@ Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Fe
 
 ##### Bounder
 
-Your [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance for the purpose of determining damage and whether you land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) (see Falling in Chapter 10). You are not [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) after falling and landing on another creature.
+Your [jump](../../../Browse/Movement/Jump) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](../../../Browse/Movement/Jump) distance for the purpose of determining damage and whether you land [prone](../../../Browse/Conditions/Prone) (see Falling in Chapter 10). You are not [prone](../../../Browse/Conditions/Prone) after falling and landing on another creature.
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
-At the start of your turn, you can end any [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../../../Browse/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
 #### 9-Ferocity Ability
 
@@ -735,11 +735,11 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 10 + M damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 20 + M damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 20 + M damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target takes 1 damage for every square they move, including from forced movement.
+> **Effect:** While [slowed](../../../Browse/Conditions/Slowed) this way, the target takes 1 damage for every square they move, including from forced movement.
 
 <!-- -->
 > ###### My Turn! (9 Ferocity)
@@ -788,25 +788,25 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 18 + M damage; M < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 18 + M damage; M < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, any other effect that would make the target [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) instead makes them [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed) this way, any other effect that would make the target [slowed](../../../Browse/Conditions/Slowed) instead makes them [restrained](../../../Browse/Conditions/Restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../../Browse/Conditions/Restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ### 6th-Level Features
 
-As a 6th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 6th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Marauder of the Primordial Chaos
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../../../Browse/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -831,7 +831,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your maximum [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](../../../Browse/Movement/Jump) up to your maximum [jump](../../../Browse/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >
@@ -886,11 +886,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 10 + M damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](../../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 ##### 6th-Level Stormwight Abilities
 
@@ -907,11 +907,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 13 damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 17 damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 8 damage; M < WEAK, [grabbed](../../../Browse/Conditions/Grabbed)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed)
+> - **17+:** 17 damage; M < STRONG, [grabbed](../../../Browse/Conditions/Grabbed)
 >
-> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](../../../Browse/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 <!-- -->
 > ###### Riders on the Storm (9 Ferocity)
@@ -922,13 +922,13 @@ Choose one of the following abilities.
 > | --------------- | -------------------------------: |
 > | **📏 3 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the start of their next turn or until the effect ends.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../../Browse/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../Browse/Movement/Fly) until the start of their next turn or until the effect ends.
 >
 > **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
 ### 7th-Level Features
 
-As a 7th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 7th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 
@@ -954,7 +954,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As an 8th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 
@@ -1046,7 +1046,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 ### 9th-Level Features
 
-As a 9th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 9th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Harbinger of the Primordial Chaos
 
@@ -1170,13 +1170,13 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 10th-level [fury](../../../Browse/Classes/Fury), you gain the following features.
 
 #### Chaos Incarnate
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your Primordial Storm feature (see Stormwight Kits) increases to three times your Might score.
 
-When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 Additionally, when you use Primordial Strike, you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
@@ -1235,9 +1235,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](../../../Browse/Complications/Animal%20Form) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](../../../Browse/Complications/Animal%20Form), you treat your Renown as 2 higher than usual.
 >
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../../../Browse/Complications/Animal%20Form), into your hybrid form, or back into your true form.
 
 ##### Primordial Storm
 
@@ -1249,7 +1249,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ##### Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your [animal form](../../../Browse/Complications/Animal%20Form), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
 
 ##### Signature Ability
 
@@ -1265,7 +1265,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by you.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../../../Browse/Conditions/Grabbed) by you.
 
 ##### Animal Form: Bear
 
@@ -1297,9 +1297,9 @@ Your primordial damage type is cold.
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **17+:** 11 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../Browse/Conditions/Grabbed)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed)
+- **17+:** 11 + M damage; M < STRONG, [grabbed](../../../Browse/Conditions/Grabbed)
 
 ##### Growing Ferocity
 
@@ -1309,16 +1309,16 @@ As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity
 
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | You can have up to two creatures [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), you gain 1 surge.             |
+| 2               | You can have up to two creatures [grabbed](../../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../../Browse/Conditions/Grabbed), you gain 1 surge.             |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                               |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                         |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
 
-With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -1326,11 +1326,11 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](../../../Browse/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly).
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../../../Browse/Movement/Fly).
 
 ##### Primordial Storm: Anabatic Wind
 
@@ -1386,11 +1386,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -1475,9 +1475,9 @@ Your primordial damage type is lightning.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **12-16:** 7 + M damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **17+:** 9 + M damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **≤11:** 4 + M damage; A < WEAK, [prone](../../../Browse/Conditions/Prone)
+- **12-16:** 7 + M damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone)
+- **17+:** 9 + M damage; A < STRONG, [prone](../../../Browse/Conditions/Prone)
 
 ##### Growing Ferocity
 
@@ -1488,8 +1488,8 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a creature [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you gain 1 surge.                                                                           |
+| 4               | The first time on a turn that you push a creature or knock a creature [prone](../../../Browse/Conditions/Prone), you gain 1 surge.                                                                           |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you gain 2 surges.                                                                          |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](../../../Browse/Conditions/Prone), you gain 2 surges.                                                                          |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |

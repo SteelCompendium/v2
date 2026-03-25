@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > | ----------------------------- | ----------------------: |
 > | **📏 Ranged 10**              | **🎯 Self or one ally** |
 >
-> **Effect:** The target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+> **Effect:** The target is [teleported](../../../../../Browse/Movement/Teleport) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 >
 > **Power Roll + Reason:**
 >
@@ -82,6 +82,6 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)

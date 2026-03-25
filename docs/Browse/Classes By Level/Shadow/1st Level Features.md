@@ -14,19 +14,19 @@ type: class/shadow/level
 
 ### 1st-Level Features
 
-As a 1st-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 1st-level [shadow](../../../../Browse/Classes/Shadow), you gain the following features.
 
 #### Shadow College
 
-[Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../../Browse/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../../Browse/Classes/Shadow) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](../../../../Browse/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow). Its graduates are unmatched in mobility, using sorcery to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../../Browse/Classes/Shadow). Its graduates are unmatched in mobility, using sorcery to [teleport](../../../../Browse/Movement/Teleport) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](../../../../Browse/Classes/Shadow) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
@@ -46,11 +46,11 @@ You lose any remaining insight at the end of the encounter.
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
 #### 1st-Level College Features
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](../../../../Browse/Classes/Shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -73,9 +73,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -119,7 +119,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 #### College Triggered Action
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -168,9 +168,9 @@ Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](../../../../Browse/Movement/Teleport) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -191,7 +191,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../../Browse/Kits/Cloak%20and%20Dagger).)
 
 #### Shadow Abilities
 
@@ -214,7 +214,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../../../Browse/Conditions/Prone)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -297,7 +297,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 <!-- -->
 > ###### Eviscerate (3 Insight)
 >
-> *You leave your foe [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) out after a devastating attack.*
+> *You leave your foe [bleeding](../../../../Browse/Conditions/Bleeding) out after a devastating attack.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |
@@ -305,9 +305,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)

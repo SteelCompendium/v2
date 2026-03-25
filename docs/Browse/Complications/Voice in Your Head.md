@@ -14,7 +14,7 @@ type: complication
 
 #### Voice in Your Head
 
-You occasionally hear a [voice in your head](https://steelcompendium.io/v2/Browse/Rules/Complications/Voice%20in%20Your%20Head), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](../../../Browse/Complications/Voice%20in%20Your%20Head), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 

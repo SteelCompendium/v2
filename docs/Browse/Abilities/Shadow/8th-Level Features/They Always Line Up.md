@@ -36,6 +36,6 @@ type: feature/ability/shadow/8th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 18 damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 24 damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 12 damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 24 damage; M < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)

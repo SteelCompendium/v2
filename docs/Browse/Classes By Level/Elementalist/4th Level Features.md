@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 4th-Level Features
 
-As a 4th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 4th-level [elementalist](../../../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 

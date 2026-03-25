@@ -14,7 +14,7 @@ type: complication
 
 #### Infernal Contract... But, Like, Bad
 
-You made a deal with a [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil). Not a very good deal, because it wasn't a very good [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil) to void the deal.
+You made a deal with a [devil](../../../Browse/Ancestries/Devil). Not a very good deal, because it wasn't a very good [devil](../../../Browse/Ancestries/Devil). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](../../../Browse/Ancestries/Devil) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 

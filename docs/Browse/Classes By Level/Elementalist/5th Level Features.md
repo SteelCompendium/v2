@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 5th-Level Features
 
-As a 5th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 5th-level [elementalist](../../../../Browse/Classes/Elementalist), you gain the following features.
 
 #### 5th-Level Specialization Feature
 
@@ -31,7 +31,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form).
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../../../../Browse/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](../../../../Browse/Complications/Animal%20Form).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -45,11 +45,11 @@ Additionally, whenever an ally within distance of your Hurl Element ability is f
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../../../Browse/Movement/Teleport) a number of squares equal to your Reason score.
 
 ##### Smoldering Step
 
-You can use 1 square of movement to [walk](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) into an area of fire your size or larger and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](../../../../Browse/Movement/Walk) into an area of fire your size or larger and [teleport](../../../../Browse/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
@@ -119,10 +119,10 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 5 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends).
+> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../Browse/Conditions/Restrained) (save ends).
 >
 > **Persistent 1:** The area remains until the start of your next turn.

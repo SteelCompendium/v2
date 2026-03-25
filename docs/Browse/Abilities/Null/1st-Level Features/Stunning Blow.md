@@ -37,6 +37,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 5 + A damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 7 + A damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) and [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) and [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 7 + A damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) and [slowed](../../../../../Browse/Conditions/Slowed) (save ends)

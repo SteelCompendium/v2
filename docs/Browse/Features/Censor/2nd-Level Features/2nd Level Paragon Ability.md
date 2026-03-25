@@ -42,8 +42,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While the target is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../../../../Browse/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.

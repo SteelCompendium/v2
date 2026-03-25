@@ -31,7 +31,7 @@ You project a psionic field of order around your body, dampening the effects of 
 >
 > **Effect:** Each target reduces their potencies by 1.
 >
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../../../../Browse/Classes/Null) Field one of the following additional effects until the start of your next turn:
 >
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.

@@ -32,6 +32,6 @@ type: feature/ability/null/8th-level-feature
 | ---------------------- | --------------------------: |
 | **📏 Self; see below** | **🎯 Self or one creature** |
 
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability.
+**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../../../../../Browse/Classes/Null) Field ability.
 
-**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends). While the triggering creature is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../../Browse/Conditions/Dazed) (save ends). While the triggering creature is [dazed](../../../../../Browse/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

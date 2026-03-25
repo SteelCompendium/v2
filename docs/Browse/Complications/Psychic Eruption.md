@@ -35,4 +35,4 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
 > - **17+:** 1 psychic damage for each Heroic Resource you spend
 
-**Drawback:** Whenever you become [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding), [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), or [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened), you must use Psychic Blast as a free triggered action.
+**Drawback:** Whenever you become [bleeding](../../../Browse/Conditions/Bleeding), [frightened](../../../Browse/Conditions/Frightened), or [weakened](../../../Browse/Conditions/Weakened), you must use Psychic Blast as a free triggered action.

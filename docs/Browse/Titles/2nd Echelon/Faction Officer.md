@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
-**Prerequisite:** You have the [Faction Member](https://steelcompendium.io/v2/Browse/Rules/Titles/1st%20Echelon/Faction%20Member) title, and you greatly advance the faction's goals.
+**Prerequisite:** You have the [Faction Member](../../../../Browse/Titles/1st%20Echelon/Faction%20Member) title, and you greatly advance the faction's goals.
 
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 

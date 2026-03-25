@@ -36,8 +36,8 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **17+:** 8 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
 
-**Effect:** While [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
+**Effect:** While [bleeding](../../../../../Browse/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.

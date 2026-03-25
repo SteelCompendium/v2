@@ -35,6 +35,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)

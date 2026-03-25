@@ -23,7 +23,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) down.*
+> *To your ally, it seems as though the world has [slowed](../../../../../Browse/Conditions/Slowed) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |

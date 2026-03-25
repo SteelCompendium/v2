@@ -27,7 +27,7 @@ type: feature/ability/tactician/9th-level-feature
 
 ###### Squad! Hit and Run! (11 Focus)
 
-*I had to pry this secret from the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges.*
+*I had to pry this secret from the [shadow](../../../../../Browse/Classes/Shadow) colleges.*
 
 | **Ranged**       |            **Main action** |
 | ---------------- | -------------------------: |

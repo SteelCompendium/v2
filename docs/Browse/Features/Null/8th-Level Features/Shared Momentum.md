@@ -19,4 +19,4 @@ type: feature/trait/null/8th-level-feature
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](../../../../../Browse/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.

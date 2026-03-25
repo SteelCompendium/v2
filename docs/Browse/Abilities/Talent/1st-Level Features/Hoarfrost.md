@@ -35,8 +35,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
 
-**Strained:** You are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) by this ability is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) instead.
+**Strained:** You are [slowed](../../../../../Browse/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](../../../../../Browse/Conditions/Slowed) by this ability is [restrained](../../../../../Browse/Conditions/Restrained) instead.

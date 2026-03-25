@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](https://steelcompendium.io/v2/Browse/Rules/Perks/Interpersonal%20Perks/Spot%20the%20Tell).)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../../../Browse/Perks/Interpersonal%20Perks/Spot%20the%20Tell).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -14,7 +14,7 @@ type: kit
 
 #### Raider
 
-The [Raider](https://steelcompendium.io/v2/Browse/Rules/Kits/Raider) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+The [Raider](../../../Browse/Kits/Raider) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
 ##### Equipment
 

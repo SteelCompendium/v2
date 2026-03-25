@@ -19,4 +19,4 @@ type: feature/trait/fury/5th-level-feature
 
 ##### Unfettered
 
-At the start of your turn, you can end any [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../../../../../Browse/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.

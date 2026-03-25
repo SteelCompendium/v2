@@ -37,6 +37,6 @@ type: feature/ability/null/2nd-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 cold damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 9 cold damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 13 cold damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)

@@ -21,8 +21,8 @@ type: title/2nd-echelon
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creatures. Additionally, being [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../../../../Browse/Conditions/Prone) creatures. Additionally, being [prone](../../../../Browse/Conditions/Prone) doesn't impose a bane on your strikes.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../../../Browse/Conditions/Grabbed), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../../../Browse/Conditions/Grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -35,8 +35,8 @@ type: title/2nd-echelon
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 10 damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 14 damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 14 damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
-> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends).
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](../../../../Browse/Conditions/Frightened) (save ends).

@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **12-16:** 9 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **17+:** 12 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
+> - **≤11:** 5 + R damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT)
+> - **12-16:** 9 + R damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT)
+> - **17+:** 12 + R damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 

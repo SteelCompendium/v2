@@ -28,7 +28,7 @@ type: feature/ability/shadow/8th-level-feature
 
 ###### Assassinate (11 Insight)
 
-*A practiced attack will instantly kill an already [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) foe.*
+*A practiced attack will instantly kill an already [weakened](../../../../../Browse/Conditions/Weakened) foe.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |

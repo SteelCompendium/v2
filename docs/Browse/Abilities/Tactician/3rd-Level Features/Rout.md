@@ -32,4 +32,4 @@ type: feature/ability/tactician/3rd-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the creature who dealt the damage (save ends).
+**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../../Browse/Conditions/Frightened) of the creature who dealt the damage (save ends).

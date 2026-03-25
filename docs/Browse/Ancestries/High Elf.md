@@ -14,9 +14,9 @@ type: ancestry
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) history describes a better age, before the coming of [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../../../Browse/Ancestries/High%20Elf) history describes a better age, before the coming of [humans](../../../Browse/Ancestries/Human) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the [high elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](../../../Browse/Ancestries/High%20Elf) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -24,7 +24,7 @@ In the millennia since their creators retired to Arcadia, the [high elves](https
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) escort Llyander at their side. Lord Tear, King of the [High Elves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../../../Browse/Ancestries/Wode%20Elf) escort Llyander at their side. Lord Tear, King of the [High Elves](../../../Browse/Ancestries/High%20Elf), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -34,15 +34,15 @@ The five children stood alone in the center of a large circular courtyard open t
 
 "Yes," Jeremy said, looking at the nearest guards with their longspears and swords. "We feel very safe."
 
-"Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human)."
+"Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](../../../Browse/Ancestries/Human)."
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-"Show me an elf who hates [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
+"Show me an elf who hates [humans](../../../Browse/Ancestries/Human)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](../../../Browse/Ancestries/Human) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-"Well done, consort. Young [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
+"Well done, consort. Young [humans](../../../Browse/Ancestries/Human), your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -64,7 +64,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Wode%20Elf) spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../../../Browse/Ancestries/Wode%20Elf) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -80,13 +80,13 @@ Llyander put a finger to their lips, silencing young Meliora. "It is not a thing
 
 Llyander shrugged. "What does anyone really look like?" And while the other children chalked this up to their escort's normally abstruse mode of communication, Meliora caught a glimpse of understanding somewhere in her mind.
 
-The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
+The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](../../../Browse/Ancestries/Human) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 
 ### High Elf Traits
 
-[High elf](https://steelcompendium.io/v2/Browse/Rules/Ancestries/High%20Elf) heroes have access to the following traits.
+[High elf](../../../Browse/Ancestries/High%20Elf) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -98,7 +98,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 ##### Glamor of Terror (2 Points)
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](../../../Browse/Conditions/Frightened) of you until the end of their next turn.
 
 ##### Graceful Retreat (1 Point)
 
@@ -118,4 +118,4 @@ Accessing memories is as easy as living in the present for you. You gain an edge
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed).
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../../Browse/Conditions/Dazed).

@@ -28,7 +28,7 @@ type: treasure/trinkets/3rd-echelon
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) to wear this ring. While you do so, the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1.
+**Effect:** You must be a [null](../../../../../Browse/Classes/Null) to wear this ring. While you do so, the area of your [Null](../../../../../Browse/Classes/Null) Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -44,7 +44,7 @@ Additionally, you have the following ability.
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](../../../../../Browse/Conditions/Slowed) in this way, the target takes a bane on magic or psionic abilities.

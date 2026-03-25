@@ -19,4 +19,4 @@ type: feature/trait/conduit/1st-level-feature
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../../Browse/Classes/Conduit) level.

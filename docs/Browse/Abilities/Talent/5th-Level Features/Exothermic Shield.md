@@ -36,4 +36,4 @@ type: feature/ability/talent/5th-level-feature
 
 **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
-**Strained:** The target gains 2 surges. You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
+**Strained:** The target gains 2 surges. You are [weakened](../../../../../Browse/Conditions/Weakened) and [slowed](../../../../../Browse/Conditions/Slowed) (save ends).

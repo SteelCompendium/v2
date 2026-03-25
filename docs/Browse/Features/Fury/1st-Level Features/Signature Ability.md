@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -63,9 +63,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../../Browse/Conditions/Grabbed)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../../Browse/Conditions/Grabbed)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### To the Death!

@@ -14,11 +14,11 @@ type: class/shadow/level
 
 ### 5th-Level Features
 
-As a 5th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 5th-level [shadow](../../../../Browse/Classes/Shadow), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -36,15 +36,15 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../../Browse/Movement/Teleport) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). If no such space exists, they can't [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../../Browse/Classes/Shadow) ability to [teleport](../../../../Browse/Movement/Teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../../Browse/Movement/Teleport). If no such space exists, they can't [teleport](../../../../Browse/Movement/Teleport) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you fall.
+Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../../Browse/Movement/Fly), you fall.
 
 #### 9-Insight Ability
 
@@ -53,7 +53,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 <!-- -->
 > ###### Blackout (9 Insight)
 >
-> *You cause a plume of [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
+> *You cause a plume of [shadow](../../../../Browse/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
 >
 > | **Area, Magic** |   **Maneuver** |
 > | --------------- | -------------: |
@@ -106,8 +106,8 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 21 + A damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 10 + A damage; P < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 21 + A damage; P < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** The target can't communicate with anyone until the end of the encounter.

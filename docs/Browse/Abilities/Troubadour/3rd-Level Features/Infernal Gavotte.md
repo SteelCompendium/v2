@@ -37,8 +37,8 @@ type: feature/ability/troubadour/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 fire damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **12-16:** 7 fire damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **17+:** 10 fire damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **≤11:** 5 fire damage; A < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **17+:** 10 fire damage; A < STRONG, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
 
 **Effect:** Each ally in the area can shift up to 2 squares.

@@ -37,6 +37,6 @@ type: feature/ability/tactician/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **17+:** 8 + M damage; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)

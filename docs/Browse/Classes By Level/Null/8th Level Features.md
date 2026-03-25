@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As an 8th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -34,15 +34,15 @@ Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition g
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](../../../../Browse/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ###### Arcane Purge (11 Discipline)
 >
-> *You focus your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your [null](../../../../Browse/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |
@@ -76,11 +76,11 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
-> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
+> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../Browse/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
 
 <!-- -->
 > ###### Scalar Assault (11 Discipline)
@@ -106,6 +106,6 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../../../../Browse/Classes/Null) Field ability.
 >
-> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends). While the triggering creature is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../Browse/Conditions/Dazed) (save ends). While the triggering creature is [dazed](../../../../Browse/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

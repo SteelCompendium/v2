@@ -32,6 +32,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Trigger:** You take damage.
 
-**Effect:** You take half the damage, then can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 4 squares after the triggering effect resolves.
+**Effect:** You take half the damage, then can [teleport](../../../../../Browse/Movement/Teleport) up to 4 squares after the triggering effect resolves.
 
-**Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](../../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.

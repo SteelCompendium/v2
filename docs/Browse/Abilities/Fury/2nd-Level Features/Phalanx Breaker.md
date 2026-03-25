@@ -37,6 +37,6 @@ type: feature/ability/fury/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 2 damage; A < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **12-16:** 4 damage; A < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **17+:** 6 damage; A < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **≤11:** 2 damage; A < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **17+:** 6 damage; A < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)

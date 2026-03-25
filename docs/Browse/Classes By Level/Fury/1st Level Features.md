@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 1st-Level Features
 
-As a 1st-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 1st-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
 
 #### Primordial Aspect
 
@@ -33,7 +33,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](https://steelcompendium.io/v2/Browse/Rules/Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../../../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../../Browse/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -95,7 +95,7 @@ You can use and gain the benefits of a stormwight kit (see Stormwight Kits). You
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../../Browse/Kits/Panther).)
 
 ##### Primordial Cunning
 
@@ -136,7 +136,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../../Browse/Complications/Animal%20Form) or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -172,7 +172,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](../../../../Browse/Movement/Jump) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -210,7 +210,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -225,9 +225,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### To the Death!
@@ -316,11 +316,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
 >
-> **Effect:** While [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](../../../../Browse/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -337,9 +337,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 

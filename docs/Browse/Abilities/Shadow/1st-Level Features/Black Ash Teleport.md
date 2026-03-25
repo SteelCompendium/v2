@@ -30,6 +30,6 @@ type: feature/ability/shadow/1st-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
-**Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](../../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.

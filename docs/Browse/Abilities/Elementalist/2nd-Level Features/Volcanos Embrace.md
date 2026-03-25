@@ -38,6 +38,6 @@ type: feature/ability/elementalist/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 + R fire damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-- **17+:** 12 + R fire damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+- **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)

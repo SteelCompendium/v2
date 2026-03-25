@@ -36,8 +36,8 @@ type: feature/ability/conduit/3rd-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 psychic damage; I < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-- **12-16:** 9 psychic damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-- **17+:** 13 psychic damage; I < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **≤11:** 6 psychic damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+- **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+- **17+:** 13 psychic damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
 
-**Effect:** Each target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you or a creature you choose within distance.
+**Effect:** Each target is [frightened](../../../../../Browse/Conditions/Frightened) of you or a creature you choose within distance.

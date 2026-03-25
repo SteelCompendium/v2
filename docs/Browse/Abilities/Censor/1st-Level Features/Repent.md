@@ -36,6 +36,6 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P holy damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+- **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **17+:** 11 + P holy damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)

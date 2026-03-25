@@ -33,7 +33,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../../../../Browse/Conditions/Prone)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 

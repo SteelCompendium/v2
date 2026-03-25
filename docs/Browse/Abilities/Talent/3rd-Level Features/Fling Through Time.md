@@ -37,10 +37,10 @@ type: feature/ability/talent/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 3 + P corruption damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../../../../Browse/Ancestries/Human)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.

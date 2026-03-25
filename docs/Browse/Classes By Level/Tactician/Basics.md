@@ -38,7 +38,7 @@ type: class/tactician/level
 
 | Level | Features                                                                                                                                                                             | Abilities      | Doctrine Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) Abilities | 3, 5           | -                  |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](../../../../Browse/Classes/Tactician) Abilities | 3, 5           | -                  |
 | 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                             | 3, 5           | 5                  |
 | 3rd   | Out of Position, 7-Focus Ability                                                                                                                                                     | 3, 5, 7        | 5                  |
 | 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                                                                                | 3, 5, 7        | 5                  |

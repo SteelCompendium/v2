@@ -37,10 +37,10 @@ type: feature/ability/talent/5th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 10 + R psychic damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 20 + R psychic damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
 
-**Effect:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
+**Effect:** While [slowed](../../../../../Browse/Conditions/Slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
 
-**Strained:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way.
+**Strained:** While [slowed](../../../../../Browse/Conditions/Slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../../../Browse/Conditions/Slowed) this way.

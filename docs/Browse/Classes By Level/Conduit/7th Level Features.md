@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 7th-Level Features
 
-As a 7th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 7th-level [conduit](../../../../Browse/Classes/Conduit), you gain the following features.
 
 #### Characteristic Increase
 
@@ -30,7 +30,7 @@ You gain one skill of your choice.
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../../../Browse/Classes/Conduit) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
@@ -60,13 +60,13 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to them.*
+> *You concentrate on a friend and [teleport](../../../../Browse/Movement/Teleport) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 

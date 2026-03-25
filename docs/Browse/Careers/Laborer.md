@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Brawny](https://steelcompendium.io/v2/Browse/Rules/Perks/Exploration%20Perks/Brawny).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](../../../Browse/Perks/Exploration%20Perks/Brawny).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

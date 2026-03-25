@@ -27,7 +27,7 @@ type: feature/ability/shadow/5th-level-feature
 
 ###### Blackout (9 Insight)
 
-*You cause a plume of [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
+*You cause a plume of [shadow](../../../../../Browse/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
 
 | **Area, Magic** |   **Maneuver** |
 | --------------- | -------------: |

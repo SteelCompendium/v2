@@ -28,4 +28,4 @@ type: treasure/consumable/2nd-echelon
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) and [hover](https://steelcompendium.io/v2/Browse/Rules/Movement/Hover). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](../../../../../Browse/Movement/Fly) and [hover](../../../../../Browse/Movement/Hover). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.

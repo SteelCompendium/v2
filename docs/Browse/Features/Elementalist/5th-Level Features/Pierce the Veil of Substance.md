@@ -21,4 +21,4 @@ type: feature/trait/elementalist/5th-level-feature
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../../../../Browse/Movement/Teleport) a number of squares equal to your Reason score.

@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 1st-Level Features
 
-As a 1st-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 1st-level [tactician](../../../../Browse/Classes/Tactician), you gain the following features.
 
 #### Tactical Doctrine
 
@@ -42,12 +42,12 @@ You lose any remaining focus at the end of the encounter.
 
 Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../../Browse/Classes/Tactician), but they might appear in future products.)
 
 <!-- -->
-> **[Tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) Abilities Explained**
+> **[Tactician](../../../../Browse/Classes/Tactician) Abilities Explained**
 >
-> Many of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s abilities are the actual commands they give their friends!
+> Many of the [tactician](../../../../Browse/Classes/Tactician)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](../../../../Browse/Classes/Tactician) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](../../../../Browse/Classes/Tactician) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](../../../../Browse/Classes/Tactician)'s abilities are the actual commands they give their friends!
 
 #### 1st-Level Doctrine Feature
 
@@ -129,7 +129,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 >
-> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT).
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../Browse/Conditions/Slowed) (EoT).
 
 <!-- -->
 > ###### Parry
@@ -148,11 +148,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor), [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../../../../Browse/Kits/Shining%20Armor), [Sniper](../../../../Browse/Kits/Sniper).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) and [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../../../Browse/Kits/Shining%20Armor) and [Sniper](../../../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -163,7 +163,7 @@ For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Brows
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -178,16 +178,16 @@ You know how to focus the attention of your allies as you push them toward victo
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../Browse/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../../../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
 > - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-> - If you damage a creature marked by you with a melee ability, the creature is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you until the end of their next turn.
+> - If you damage a creature marked by you with a melee ability, the creature is [taunted](../../../../Browse/Conditions/Taunted) by you until the end of their next turn.
 >
 > You can't gain more than one benefit from the same trigger.
 
@@ -250,9 +250,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 
 <!-- -->
 > ###### Inspiring Strike (3 Focus)
@@ -314,9 +314,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; R < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; R < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; R < WEAK, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 + M damage; R < STRONG, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 

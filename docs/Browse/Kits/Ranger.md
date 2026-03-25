@@ -14,7 +14,7 @@ type: kit
 
 #### Ranger
 
-The [Ranger](https://steelcompendium.io/v2/Browse/Rules/Kits/Ranger) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+The [Ranger](../../../Browse/Kits/Ranger) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
 ##### Equipment
 
@@ -46,6 +46,6 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 3 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)

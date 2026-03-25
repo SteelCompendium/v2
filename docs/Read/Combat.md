@@ -35,7 +35,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 
 A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
-The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small [polders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder), medium [humans](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human), and large [hakaan](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Hakaan). As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
+The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small [polders](../../Browse/Ancestries/Polder), medium [humans](../../Browse/Ancestries/Human), and large [hakaan](../../Browse/Ancestries/Hakaan). As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
 
 Objects also have a size rating, which usually indicates how many squares they occupy. Some objects are identified as having an irregular size, with that size instead representing the object's mass and weight relative to a creature of the same size. If a mechanic mentions objects of a certain size, that mechanic includes all objects of that size, including irregular objects.
 
@@ -46,9 +46,9 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 | Size | Example Creature                                                |
 | ---- | --------------------------------------------------------------- |
 | 1T   | Pixie                                                           |
-| 1S   | [Polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) |
-| 1M   | [Human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human)   |
-| 1L   | [Hakaan](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Hakaan) |
+| 1S   | [Polder](../../Browse/Ancestries/Polder) |
+| 1M   | [Human](../../Browse/Ancestries/Human)   |
+| 1L   | [Hakaan](../../Browse/Ancestries/Hakaan) |
 | 2    | Ogre                                                            |
 | 3    | Shambling mound                                                 |
 | 4    | Hill giant                                                      |
@@ -104,7 +104,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)'s Hesitation Is Weakness ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s Hesitation Is Weakness ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
@@ -122,9 +122,9 @@ The [Movement](#page-281-3) section below breaks down how your move action works
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) hero can use the Lines of Force triggered action to force move a target, but only after an enemy has first tried to force move the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury) hero can use the Lines of Force triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) hero can use their Hesitation Is Weakness ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) can still use their In All This Confusion triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their Hesitation Is Weakness ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their In All This Confusion triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -136,7 +136,7 @@ Boring stuff like opening an unlocked door, picking up an arrow from the ground,
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
-Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) ally decked out in the [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](../../Browse/Classes/Talent) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](../../Browse/Classes/Tactician) ally decked out in the [Shining Armor](../../Browse/Kits/Shining%20Armor) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
@@ -160,7 +160,7 @@ At the Director's discretion, you can be forced into the same space as another c
 
 #### Can't Exceed Speed
 
-A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) condition (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
+A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the [slowed](../../Browse/Conditions/Slowed) condition (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
 
 #### Can't Cut Corners
 
@@ -174,37 +174,37 @@ You can't shift into or while within difficult terrain or damaging terrain (see 
 
 #### Movement Types
 
-Creatures in the game can use eight types of movement: [walk](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk), [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl), [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).
+Creatures in the game can use eight types of movement: [walk](../../Browse/Movement/Walk), [burrow](../../Browse/Movement/Burrow), [climb](../../Browse/Movement/Climb%20or%20Swim), [swim](../../Browse/Movement/Climb%20or%20Swim), [jump](../../Browse/Movement/Jump), [crawl](../../Browse/Movement/Crawl), [fly](../../Browse/Movement/Fly), and [teleport](../../Browse/Movement/Teleport).
 
 ##### Walk
 
-[Walking](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+[Walking](../../Browse/Movement/Walk) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
 ##### Burrow
 
-A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) says otherwise. Similarly, a [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature doesn't leave a tunnel unless the rules say so.
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](../../Browse/Movement/Burrow), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](../../Browse/Movement/Burrow) says otherwise. Similarly, a [burrowing](../../Browse/Movement/Burrow) creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver
 
 It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature has a creature who is not unconscious [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](../../Browse/Movement/Burrow) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/Movement/Burrow) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) and are adjacent to another creature who is [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow) and are adjacent to another creature who is [burrowing](../../Browse/Movement/Burrow), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow).
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow).
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](../../Browse/Movement/Burrow), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
-If a creature who can't [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
+If a creature who can't [burrow](../../Browse/Movement/Burrow) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
 ###### Claw Dirt
 
@@ -214,89 +214,89 @@ If a creature who can't [burrow](https://steelcompendium.io/v2/Browse/Rules/Move
 
 **Power Roll + Might:**
 
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (EoT).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT).
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed) and [weakened](../../Browse/Conditions/Weakened) (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed) (EoT).
 - **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while [burrowing](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](../../Browse/Movement/Burrow) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
-A creature who has "[climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), can [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), can [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) in liquid at full speed.
+A creature who has "[climb](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../Browse/Movement/Climb%20or%20Swim), can [climb](../../Browse/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../Browse/Movement/Climb%20or%20Swim), can [swim](../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
 
-Creatures without those types of movement can still [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swimming](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) costs 2 squares of movement. If a surface is difficult to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of [climbing](../../Browse/Movement/Climb%20or%20Swim) or [swimming](../../Browse/Movement/Climb%20or%20Swim) costs 2 squares of movement. If a surface is difficult to [climb](../../Browse/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../../Browse/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
-You can attempt to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](../../Browse/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](../../Browse/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
-- **12-16:** You fail to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) the creature.
-- **17+:** You [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) the creature.
+- **≤11:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a free strike against you.
+- **12-16:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
+- **17+:** You [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
 
-While you [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](../../Browse/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) as usual (see [Falling](#page-283-3) below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](../../Browse/Conditions/Prone) as usual (see [Falling](#page-283-3) below).
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](../../Browse/Conditions/Prone).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) while [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or riding a creature, you fall and land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](../../Browse/Conditions/Prone) while [climbing](../../Browse/Movement/Climb%20or%20Swim) or riding a creature, you fall and land [prone](../../Browse/Conditions/Prone) in an adjacent space of your choice, taking damage as usual from the fall.
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the Advance move action), you can automatically long [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the Advance move action), you can automatically long [jump](../../Browse/Movement/Jump) a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your [jump](../../Browse/Movement/Jump) is automatically 1 square as part of that movement.
 
-If you want to [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) even longer or higher than your baseline [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) allows, make a Might or Agility test:
+If you want to [jump](../../Browse/Movement/Jump) even longer or higher than your baseline [jump](../../Browse/Movement/Jump) allows, make a Might or Agility test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You don't [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) any farther than your baseline [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) allows.
-- **12-16:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) 1 square longer and higher than your baseline [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) allows.
-- **17+:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) 2 squares longer and higher than your baseline [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) allows.
+- **≤11:** You don't [jump](../../Browse/Movement/Jump) any farther than your baseline [jump](../../Browse/Movement/Jump) allows.
+- **12-16:** You [jump](../../Browse/Movement/Jump) 1 square longer and higher than your baseline [jump](../../Browse/Movement/Jump) allows.
+- **17+:** You [jump](../../Browse/Movement/Jump) 2 squares longer and higher than your baseline [jump](../../Browse/Movement/Jump) allows.
 
-You can't [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) farther or higher than the distance of the effect that allows you to move. You can't [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) out of difficult terrain or damaging terrain (see below).
+You can't [jump](../../Browse/Movement/Jump) farther or higher than the distance of the effect that allows you to move. You can't [jump](../../Browse/Movement/Jump) out of difficult terrain or damaging terrain (see below).
 
 ##### Crawl
 
-If you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl). If you intentionally want to [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl), you can fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) as a free maneuver. While voluntarily [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you can choose to stand as a free maneuver.
+If you are [prone](../../Browse/Conditions/Prone) (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain [prone](../../Browse/Conditions/Prone) and [crawl](../../Browse/Movement/Crawl) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/Movement/Crawl). If you intentionally want to [crawl](../../Browse/Movement/Crawl), you can fall [prone](../../Browse/Conditions/Prone) as a free maneuver. While voluntarily [prone](../../Browse/Conditions/Prone), you can choose to stand as a free maneuver.
 
 ##### Fly
 
-A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) creature is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](../../Browse/Movement/Fly), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](../../Browse/Movement/Fly) creature is knocked [prone](../../Browse/Conditions/Prone) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
 
 ##### Hover
 
-A creature who has "hover" in their speed entry (most commonly alongside "[fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly)" or "[teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport)"), or who gains the temporary ability to [hover](https://steelcompendium.io/v2/Browse/Rules/Movement/Hover), can remain motionless in midair. They don't fall even if they are knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) or their speed is reduced to 0.
+A creature who has "hover" in their speed entry (most commonly alongside "[fly](../../Browse/Movement/Fly)" or "[teleport](../../Browse/Movement/Teleport)"), or who gains the temporary ability to [hover](../../Browse/Movement/Hover), can remain motionless in midair. They don't fall even if they are knocked [prone](../../Browse/Conditions/Prone) or their speed is reduced to 0.
 
 ##### Teleport
 
-When a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), they move from one space to another space instantaneously. The following rules apply to [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport):
+When a creature [teleports](../../Browse/Movement/Teleport), they move from one space to another space instantaneously. The following rules apply to [teleporting](../../Browse/Movement/Teleport):
 
-- [Teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
-- When a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), they bypass any obstacles between the space they leave and their destination space.
-- A creature [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) themself must have line of effect to their destination space. A creature [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) another creature must have line of effect from the space the [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) creature leaves and to their destination space.
-- A [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) creature's destination space can't be occupied by another creature or object.
-- The effect that lets a creature [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) indicates how far they can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). That distance can be greater than the creature's speed.
-- If a creature can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) as part of their usual movement, they can use the Advance move action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) a number of squares up to their usual speed, unmodified by conditions or effects.
-- If a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) while [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), they can be standing when they reach their destination space provided they are able to stand. If a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) by another creature, it is up to that creature whether the [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) creature remains [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) or stands if they are able.
-- If you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) while affected by the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) or [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) conditions, those conditions end for you.
-- When a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), they must leave the space where they start and enter a new space. A creature can't [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to and from the same space.
+- [Teleporting](../../Browse/Movement/Teleport) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
+- When a creature [teleports](../../Browse/Movement/Teleport), they bypass any obstacles between the space they leave and their destination space.
+- A creature [teleporting](../../Browse/Movement/Teleport) themself must have line of effect to their destination space. A creature [teleporting](../../Browse/Movement/Teleport) another creature must have line of effect from the space the [teleported](../../Browse/Movement/Teleport) creature leaves and to their destination space.
+- A [teleporting](../../Browse/Movement/Teleport) creature's destination space can't be occupied by another creature or object.
+- The effect that lets a creature [teleport](../../Browse/Movement/Teleport) indicates how far they can [teleport](../../Browse/Movement/Teleport). That distance can be greater than the creature's speed.
+- If a creature can [teleport](../../Browse/Movement/Teleport) as part of their usual movement, they can use the Advance move action to [teleport](../../Browse/Movement/Teleport) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature [teleports](../../Browse/Movement/Teleport) while [prone](../../Browse/Conditions/Prone), they can be standing when they reach their destination space provided they are able to stand. If a [prone](../../Browse/Conditions/Prone) creature is [teleported](../../Browse/Movement/Teleport) by another creature, it is up to that creature whether the [teleported](../../Browse/Movement/Teleport) creature remains [prone](../../Browse/Conditions/Prone) or stands if they are able.
+- If you [teleport](../../Browse/Movement/Teleport) while affected by the [grabbed](../../Browse/Conditions/Grabbed) or [restrained](../../Browse/Conditions/Restrained) conditions, those conditions end for you.
+- When a creature [teleports](../../Browse/Movement/Teleport), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/Movement/Teleport) to and from the same space.
 
 #### Falling
 
-When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
+When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/Conditions/Prone). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
 
 Falling is not forced movement, but being force moved downward is considered falling. Movement from falling doesn't provoke opportunity attacks (see [Opportunity Attacks](#page-289-4) below).
 
 ##### Falling Onto Another Creature
 
-A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](../../Browse/Conditions/Prone) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](../../Browse/Conditions/Prone).
 
 ##### Falling Far
 
@@ -314,7 +314,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) only if they have "climb" in their speed entry or can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
+A creature can gain this benefit while [climbing](../../Browse/Movement/Climb%20or%20Swim) only if they have "climb" in their speed entry or can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 
 #### Forced Movement
 
@@ -324,7 +324,7 @@ Some actions and maneuvers allow a creature to push, pull, or slide a target cre
 - **Pull X:** The creature moves the target up to X squares toward them in a straight line, without moving them vertically. Each square the creature moves the target must bring the target closer to them.
 - **Slide X:** The creature moves the target up to X squares in any direction, except for vertically. Unlike a push or a pull, a slide doesn't need to be a straight line.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../../Browse/Classes/Conduit) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
@@ -337,7 +337,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) is always a vertical forced move, whether or not the effect specifies it.
+If a creature who can't [fly](../../Browse/Movement/Fly) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](../../Browse/Movement/Fly) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -385,7 +385,7 @@ If any forced movement remains after the object is destroyed, you can continue t
 
 ##### Forced Into a Fall
 
-If you can't [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the forced movement ends, you fall.
+If you can't [fly](../../Browse/Movement/Fly) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the forced movement ends, you fall.
 
 ##### Stability
 
@@ -435,7 +435,7 @@ A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-2
 
 #### Escape Grab
 
-A creature who is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
+A creature who is [grabbed](../../Browse/Conditions/Grabbed) by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
 
 <!-- -->
 > ###### Escape Grab
@@ -447,12 +447,12 @@ A creature who is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Condition
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) can make a melee free strike against you before you are no longer [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
-> - **17+:** You are no longer [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee free strike against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
+> - **17+:** You are no longer [grabbed](../../Browse/Conditions/Grabbed).
 >
-> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/Conditions/Grabbed).
 
-See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) condition.
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
 
 #### Grab
 
@@ -468,14 +468,14 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
-> - **17+:** The target is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by you.
+> - **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](../../Browse/Conditions/Grabbed).
+> - **17+:** The target is [grabbed](../../Browse/Conditions/Grabbed) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
 Unless otherwise indicated, a creature can grab only one creature at a time.
 
-See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) condition.
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
 
 #### Hide
 
@@ -512,7 +512,7 @@ The Search for Hidden Creatures maneuver allows a creature to attempt to locate 
 
 #### Stand Up
 
-A creature can use the Stand Up maneuver to stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature stand up.
+A creature can use the Stand Up maneuver to stand up if they are [prone](../../Browse/Conditions/Prone), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](../../Browse/Conditions/Prone) creature stand up.
 
 #### Use Consumable
 
@@ -530,15 +530,15 @@ You can convert your main action into a maneuver or a move action, allowing you 
 
 When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) or [burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) or [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they charge. They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
-When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/Conditions/Taunted) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
 
 #### Free Strike
 
-A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) foe.
+A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](../../Browse/Classes/Fury) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](../../Browse/Movement/Fly) foe.
 
 #### Heal
 
@@ -548,11 +548,11 @@ A creature who uses the Heal main action employs medicine or inspiring words to 
 
 Every creature can use a free strike ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee free strike in one main action (see Charge above).
 
-Many rules and abilities allow heroes to make free strikes when it isn't their turn, such as the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Overwatch ability. As well, all characters can make an opportunity attack free strike.
+Many rules and abilities allow heroes to make free strikes when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s Overwatch ability. As well, all characters can make an opportunity attack free strike.
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a free strike instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](../../Browse/Classes/Tactician)'s Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a free strike instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 
@@ -642,7 +642,7 @@ If multiple damage weaknesses apply to a source of damage, only the weakness wit
 
 ### Stamina
 
-Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../Browse/Conditions/Bleeding) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
@@ -658,7 +658,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are [bleeding](../../Browse/Conditions/Bleeding), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -680,7 +680,7 @@ Heroes remain unconscious for 1 hour if no one does anything to wake them. After
 
 ##### Unconscious
 
-While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) as a free maneuver.
+While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [prone](../../Browse/Conditions/Prone). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from [prone](../../Browse/Conditions/Prone) as a free maneuver.
 
 #### Temporary Stamina
 
@@ -705,7 +705,7 @@ The Director can decide that a well-made or poorly made object has more or less 
 
 ### Underwater Combat
 
-If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving, their power rolls take a bane.
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving, their power rolls take a bane.
 
 ### Suffocating
 
@@ -715,11 +715,11 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../../Browse/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
-If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) separately.
+If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](../../Browse/Movement/Teleport) separately.
 
-If your mount dies, they fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), and you fall off them and land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) in the nearest unoccupied space of your choice.
+If your mount dies, they fall [prone](../../Browse/Conditions/Prone), and you fall off them and land [prone](../../Browse/Conditions/Prone) in the nearest unoccupied space of your choice.
 
 ### End of Combat
 
@@ -777,11 +777,11 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ##### Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil) suddenly becomes the heroes' new objective!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/Ancestries/Devil) suddenly becomes the heroes' new objective!
 
 ##### Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Time%20Raider) actually aboard.
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../Browse/Ancestries/Time%20Raider) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../Browse/Ancestries/Time%20Raider) actually aboard.
 
 #### Dramatic Finish
 
@@ -789,13 +789,13 @@ If the heroes are able to end a fight with a dramatic finish, the Director assig
 
 #### Event Ending
 
-If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) if that makes more sense.
+If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the [fly](../../Browse/Movement/Fly) if that makes more sense.
 
 Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
 
 <!-- -->
 > **Fleeing Foes**
 >
-> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/Conditions/Grabbed) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 >
 > Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.

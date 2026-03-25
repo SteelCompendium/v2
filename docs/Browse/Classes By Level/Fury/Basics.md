@@ -32,13 +32,13 @@ type: class/fury/level
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](../../../../Browse/Movement/Jump), Nature.)
 
 ###### Fury Advancement Table
 
 | Level | Features                                                                                                                                                                  | Abilities                 | Aspect Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) Abilities | Signature, 3, 5           | -                |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](../../../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                      | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7        | 5                |
 | 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill                                           | Signature, 3, 5, 7        | 5                |

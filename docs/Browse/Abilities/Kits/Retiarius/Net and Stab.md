@@ -32,6 +32,6 @@ type: kit-ability/retiarius
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (EoT)
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (EoT)

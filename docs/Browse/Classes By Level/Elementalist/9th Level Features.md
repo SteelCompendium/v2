@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 9th-Level Features
 
-As a 9th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 9th-level [elementalist](../../../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Grand Wyrding
 
@@ -78,8 +78,8 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** This damage ignores immunity.

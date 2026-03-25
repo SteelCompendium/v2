@@ -38,8 +38,8 @@ type: feature/ability/null/9th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A psychic damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-- **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-- **17+:** 13 + A psychic damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+- **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed)
+- **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed)
+- **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed)
 
-**Effect:** While [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../../../../../Browse/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.

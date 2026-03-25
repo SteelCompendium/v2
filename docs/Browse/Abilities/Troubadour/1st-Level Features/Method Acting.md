@@ -36,8 +36,8 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 + A damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **17+:** 14 + A damage; P < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **17+:** 14 + A damage; P < STRONG, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
 
-**Effect:** You can become [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+**Effect:** You can become [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.

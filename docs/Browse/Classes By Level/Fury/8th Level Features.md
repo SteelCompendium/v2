@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 8th-Level Features
 
-As an 8th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As an 8th-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 

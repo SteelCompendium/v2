@@ -17,7 +17,7 @@ type: title/1st-echelon
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
-**Prerequisite:** You fight alongside three or more [dwarves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf).
+**Prerequisite:** You fight alongside three or more [dwarves](../../../../Browse/Ancestries/Dwarf).
 
 **Effect:** Choose one of the following benefits:
 

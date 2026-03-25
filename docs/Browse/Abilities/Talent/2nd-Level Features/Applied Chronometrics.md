@@ -41,6 +41,6 @@ type: feature/ability/talent/2nd-level-feature
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), that condition ends for them.
+**Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../../Browse/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../../Browse/Conditions/Dazed), that condition ends for them.
 
 **Strained:** Your speed is halved until the end of the encounter.

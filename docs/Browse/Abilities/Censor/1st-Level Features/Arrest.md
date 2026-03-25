@@ -37,8 +37,8 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **12-16:** 9 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **17+:** 13 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **≤11:** 6 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
+- **12-16:** 9 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
+- **17+:** 13 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
 
-**Effect:** If the target makes a strike against a creature while [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while [grabbed](../../../../../Browse/Conditions/Grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.

@@ -99,7 +99,7 @@ An NPC with the benevolence pitfall has a cynical view of the world, believing t
 Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
-- "If you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
+- "If you can [teleport](../../Browse/Movement/Teleport) us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
 ##### Discovery
 
@@ -202,7 +202,7 @@ An NPC with the protection pitfall is happy to leave others to fend for themselv
 Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
 
 - "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
-- "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) over the marsh's monsters."
+- "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply [fly](../../Browse/Movement/Fly) over the marsh's monsters."
 
 ##### Revelry
 
@@ -358,7 +358,7 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 | 8          | Duke, spymaster                                                                                 |
 | 9          | Archmage, prince                                                                                |
 | 10         | Demon lord, monarch                                                                             |
-| 11         | Archdevil, archfey, [demigod](https://steelcompendium.io/v2/Browse/Rules/Titles/4th%20Echelon/Demigod) |
+| 11         | Archdevil, archfey, [demigod](../../Browse/Titles/4th%20Echelon/Demigod) |
 | 12         | Deity, titan                                                                                    |
 
 ##### Influencing Tests
@@ -421,7 +421,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with Zola Honeycut, the [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with Zola Honeycut, the [human](../../Browse/Ancestries/Human) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
@@ -454,25 +454,25 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out.
 
-**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
+**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](../../Browse/Ancestries/Human) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
-**James (playing Korvo, a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Polder) could ask for: Linn, Jorn, and Val."*
+**James (playing Korvo, a [shadow](../../Browse/Classes/Shadow)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](../../Browse/Ancestries/Polder) could ask for: Linn, Jorn, and Val."*
 
 **Director:** *Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"*
 
-**Alyssa (playing Jorn, a [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)):** *"We're building an army to take down Saxton once and for all."*
+**Alyssa (playing Jorn, a [tactician](../../Browse/Classes/Tactician)):** *"We're building an army to take down Saxton once and for all."*
 
 In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
-**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of [dwarves](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Dwarf) in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
+**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of [dwarves](../../Browse/Ancestries/Dwarf) in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
 
 **Alyssa:** *Ah! So she has heard of me at least! Thanks, Renown.*
 
-**Grace (playing Val, a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
+**Grace (playing Val, a [conduit](../../Browse/Classes/Conduit)):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
 
 **Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."*
 
-**Matt (playing Linn, a [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
+**Matt (playing Linn, a [talent](../../Browse/Classes/Talent)):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 

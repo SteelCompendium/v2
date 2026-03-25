@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 4th-Level Features
 
-As a 4th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 4th-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 

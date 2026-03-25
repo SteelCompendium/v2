@@ -26,10 +26,10 @@ type: feature/ability/null/3rd-level-feature
 
 ###### Synapse Field (7 Discipline)
 
-*Attacks made by allies in your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your [null](../../../../../Browse/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](../../../../../Browse/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.

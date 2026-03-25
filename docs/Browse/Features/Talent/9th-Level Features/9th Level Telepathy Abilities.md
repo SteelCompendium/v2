@@ -52,8 +52,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** R < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** R < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** R < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** R < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

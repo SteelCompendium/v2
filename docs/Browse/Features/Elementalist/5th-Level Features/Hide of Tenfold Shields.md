@@ -19,6 +19,6 @@ type: feature/trait/elementalist/5th-level-feature
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form).
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../../../../../Browse/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](../../../../../Browse/Complications/Animal%20Form).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.

@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 2nd-level [conduit](../../../../Browse/Classes/Conduit), you gain the following features.
 
 #### The Lists of Heaven
 
@@ -30,7 +30,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../../Browse/Classes/Conduit) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -128,9 +128,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 7 damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)

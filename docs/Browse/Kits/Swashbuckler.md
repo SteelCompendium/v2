@@ -14,7 +14,7 @@ type: kit
 
 #### Swashbuckler
 
-If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](https://steelcompendium.io/v2/Browse/Rules/Kits/Swashbuckler) kit. This is a great kit for heroes who want to be master duelists.
+If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](../../../Browse/Kits/Swashbuckler) kit. This is a great kit for heroes who want to be master duelists.
 
 ##### Equipment
 

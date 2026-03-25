@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 8th-Level Features
 
-As an 8th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As an 8th-level [censor](../../../../Browse/Classes/Censor), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Order Feature
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../../../Browse/Classes/Censor) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -34,7 +34,7 @@ Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order g
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../../Browse/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -59,11 +59,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 18 + M damage; I < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way can't be targeted by their allies' abilities.
+> **Effect:** At the end of each of your turns, a target [weakened](../../../../Browse/Conditions/Weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../../../../Browse/Conditions/Weakened) this way can't be targeted by their allies' abilities.
 
 <!-- -->
 > ###### Hand of the Gods (11 Wrath)
@@ -93,11 +93,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 18 + M damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+> **Effect:** At the end of each of your turns, a target [dazed](../../../../Browse/Conditions/Dazed) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
 <!-- -->
 > ###### Your Allies Turn on You! (11 Wrath)
@@ -110,8 +110,8 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 12 + P damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 12 + P damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+> **Effect:** While the target is [slowed](../../../../Browse/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../../../../Browse/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.

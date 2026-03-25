@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** Slide 5; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** Slide 7; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** Slide 3; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** Slide 7; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
 
 <!-- -->
 > ###### Edict of Peace (9 Wrath)

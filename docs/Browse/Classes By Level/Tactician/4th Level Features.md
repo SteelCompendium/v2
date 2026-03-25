@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 4th-Level Features
 
-As a 4th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 4th-level [tactician](../../../../Browse/Classes/Tactician), you gain the following features.
 
 #### Characteristic Increase
 

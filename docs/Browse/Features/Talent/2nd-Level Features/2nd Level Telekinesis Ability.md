@@ -35,7 +35,7 @@ Choose one of the following abilities.
 > - **12-16:** 6 damage; vertical push 4
 > - **17+:** 9 damage; vertical push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../../Browse/Conditions/Weakened) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -48,8 +48,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** 10 + R damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** 14 + R damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
+> - **17+:** 14 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.

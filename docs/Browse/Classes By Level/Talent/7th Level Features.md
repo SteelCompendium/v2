@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 7th-Level Features
 
-As a 7th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 7th-level [talent](../../../../Browse/Classes/Talent), you gain the following features.
 
 #### Ancestral Memory
 

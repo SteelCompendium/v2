@@ -14,4 +14,4 @@ type: condition
 
 ##### Slowed
 
-A creature who is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) has speed 2 unless their speed is already lower, and they can't shift.
+A creature who is [slowed](../../../Browse/Conditions/Slowed) has speed 2 unless their speed is already lower, and they can't shift.

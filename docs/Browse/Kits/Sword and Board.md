@@ -14,7 +14,7 @@ type: kit
 
 #### Sword and Board
 
-The [Sword and Board](https://steelcompendium.io/v2/Browse/Rules/Kits/Sword%20and%20Board) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](../../../Browse/Kits/Sword%20and%20Board) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -44,4 +44,4 @@ You wear medium armor and wield a shield and a medium weapon.
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **17+:** 9 + M or A damage; push 3; M < STRONG, [prone](../../../Browse/Conditions/Prone)

@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 7th-Level Features
 
-As a 7th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 7th-level [troubadour](../../../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 

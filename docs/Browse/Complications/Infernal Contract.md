@@ -18,4 +18,4 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Benefit:** Whenever you are present for a battle in which both sides have creatures who aren't surprised, your side determines who goes first if the d10 roll is a 4 or higher (see [Combat Round](#page-279-1) in [Chapter 10: Combat](#page-288-0)).
 
-**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil) after you and those you care about.
+**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](../../../Browse/Ancestries/Devil) after you and those you care about.

@@ -15,4 +15,4 @@ type: common-ability/maneuver
 
 #### Stand Up
 
-A creature can use the Stand Up maneuver to stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature stand up.
+A creature can use the Stand Up maneuver to stand up if they are [prone](../../../../../Browse/Conditions/Prone), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](../../../../../Browse/Conditions/Prone) creature stand up.

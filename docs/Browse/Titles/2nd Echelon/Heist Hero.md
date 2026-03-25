@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *Everybody know their assignments? All right, let's go.*
 
-**Prerequisite:** You have the [Troupe Leading Player](https://steelcompendium.io/v2/Browse/Rules/Titles/1st%20Echelon/Troupe%20Leading%20Player) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
+**Prerequisite:** You have the [Troupe Leading Player](../../../../Browse/Titles/1st%20Echelon/Troupe%20Leading%20Player) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:
 

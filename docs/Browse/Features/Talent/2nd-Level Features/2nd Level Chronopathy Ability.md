@@ -35,7 +35,7 @@ Choose one of the following abilities.
 > - **12-16:** You target three creatures, one of which can be you.
 > - **17+:** You target four creatures, one of which can be you.
 >
-> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), that condition ends for them.
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../../Browse/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../../Browse/Conditions/Dazed), that condition ends for them.
 >
 > **Strained:** Your speed is halved until the end of the encounter.
 
@@ -50,9 +50,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
-> - **12-16:** The target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../../Browse/Conditions/Slowed) (save ends).
+> - **12-16:** The target is [slowed](../../../../../Browse/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../../../../Browse/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >

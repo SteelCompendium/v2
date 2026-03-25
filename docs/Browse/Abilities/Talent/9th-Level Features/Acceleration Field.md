@@ -41,6 +41,6 @@ type: feature/ability/talent/9th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 4 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 6 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **17+:** 10 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 4 corruption damage; [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 6 corruption damage; [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **17+:** 10 corruption damage; [slowed](../../../../../Browse/Conditions/Slowed) (save ends)

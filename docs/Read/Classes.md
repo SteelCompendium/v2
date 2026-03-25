@@ -22,25 +22,25 @@ search:
 
 While all your character creation decisions bear narrative weight, none influences the way you play the game like your choice of class. Your class determines how your hero battles the threats of the timescape and overcomes other obstacles. Do you bend elemental forces to your will through the practiced casting of magic spells? Do you channel the ferocity of the Primordial Chaos as you tear across the battlefield, felling foes left and right? Or do you belt out heroic ballads that give your allies a second wind and inspire them to ever-greater achievements?
 
-Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a Heroic Resource that fuels many of those abilities. This book presents nine [classes](https://steelcompendium.io/v2/Browse/Rules/Chapters/Classes) to choose from.
+Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a Heroic Resource that fuels many of those abilities. This book presents nine [classes](../Chapters/Classes) to choose from.
 
-**[Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor):** A [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
+**[Censor](../../Browse/Classes/Censor):** A [censor](../../Browse/Classes/Censor) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
-**[Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit):** A [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are renowned for their healing abilities.
+**[Conduit](../../Browse/Classes/Conduit):** A [conduit](../../Browse/Classes/Conduit) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are renowned for their healing abilities.
 
-**[Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist):** An [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
+**[Elementalist](../../Browse/Classes/Elementalist):** An [elementalist](../../Browse/Classes/Elementalist) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
-**[Fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) lives.
+**[Fury](../../Browse/Classes/Fury):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../../Browse/Classes/Fury) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../../Browse/Classes/Fury) lives.
 
-**[Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null):** Disciplined and calm, the [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](../../Browse/Classes/Null):** Disciplined and calm, the [null](../../Browse/Classes/Null) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
-**[Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow):** Stalking from the darkness, the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
+**[Shadow](../../Browse/Classes/Shadow):** Stalking from the darkness, the [shadow](../../Browse/Classes/Shadow) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
-**[Tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician):** A brilliant strategist and weapons master, the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
+**[Tactician](../../Browse/Classes/Tactician):** A brilliant strategist and weapons master, the [tactician](../../Browse/Classes/Tactician) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
 
-**[Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent):** A [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
+**[Talent](../../Browse/Classes/Talent):** A [talent](../../Browse/Classes/Talent) is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
 
-**[Troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour):** A [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
+**[Troubadour](../../Browse/Classes/Troubadour):** A [troubadour](../../Browse/Classes/Troubadour) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
 ### Subclasses
 
@@ -61,7 +61,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)'s Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](../../Browse/Classes/Fury)'s Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
@@ -69,21 +69,21 @@ Each class has a Heroic Resource that your hero earns during combat, with some o
 
 The nine Heroic Resources in the game are:
 
-- The [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor)'s wrath
-- The [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)'s piety
-- The [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist)'s essence
-- The [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)'s ferocity
-- The [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null)'s discipline
-- The [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)'s insight
-- The [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s focus
-- The [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)'s clarity
-- The [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour)'s drama
+- The [censor](../../Browse/Classes/Censor)'s wrath
+- The [conduit](../../Browse/Classes/Conduit)'s piety
+- The [elementalist](../../Browse/Classes/Elementalist)'s essence
+- The [fury](../../Browse/Classes/Fury)'s ferocity
+- The [null](../../Browse/Classes/Null)'s discipline
+- The [shadow](../../Browse/Classes/Shadow)'s insight
+- The [tactician](../../Browse/Classes/Tactician)'s focus
+- The [talent](../../Browse/Classes/Talent)'s clarity
+- The [troubadour](../../Browse/Classes/Troubadour)'s drama
 
 ##### Heroic Abilities
 
 If an ability has a Heroic Resource cost to activate—as in, you can't use the ability at all without spending some of your Heroic Resource—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
-Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)'s Healing Grace. These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
+Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit](../../Browse/Classes/Conduit)'s Healing Grace. These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
 ##### Signature Abilities
 
@@ -138,7 +138,7 @@ Each ability notes the type of activity required to use it, on the right side of
 
 ##### Trigger
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Parry ability is: "A creature deals damage to the target." A [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) can use their Parry ability only when that specific triggering event occurs.
+If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician](../../Browse/Classes/Tactician)'s Parry ability is: "A creature deals damage to the target." A [tactician](../../Browse/Classes/Tactician) can use their Parry ability only when that specific triggering event occurs.
 
 #### Distance
 
@@ -158,7 +158,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
 
 ##### Self
 
@@ -215,7 +215,7 @@ If an ability targets one or more creatures, it can affect creatures within the 
 
 If an ability targets one or more objects, it can affect any object within the ability's distance or area. Unless otherwise noted, objects have poison immunity all and psychic immunity all. [(Damage](#page-291-1) in [Chapter 10: Combat](#page-288-0) has information on damage immunity.)
 
-When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)'s Minor Telekinesis ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
+When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent](../../Browse/Classes/Talent)'s Minor Telekinesis ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
 
 ##### Enemy
 
@@ -238,13 +238,13 @@ If an area ability doesn't provide a number of targets but instead says it appli
 <!-- -->
 > **Telling Friend From Foe**
 >
-> There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally—or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All [classes](https://steelcompendium.io/v2/Browse/Rules/Chapters/Classes) have access to at least one ability that targets creatures, whether friend or foe.
+> There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally—or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All [classes](../Chapters/Classes) have access to at least one ability that targets creatures, whether friend or foe.
 
 #### Ability Roll
 
 If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you use the ability. ([Chapter 1: The Basics](#page-17-3) talks about power rolls.)
 
-Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)'s Brutal Slam ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
+Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury](../../Browse/Classes/Fury)'s Brutal Slam ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
 - **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
@@ -254,13 +254,13 @@ Unlike power rolls made as tests (see Chapter 9), ability rolls always do someth
 
 Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score—either Might, Agility, Reason, Intuition, or Presence—to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
-Using the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)'s Brutal Slam ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
+Using the [fury](../../Browse/Classes/Fury)'s Brutal Slam ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
-For a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) with a Might of 2, the ability's damage breakdown would be:
+For a [fury](../../Browse/Classes/Fury) with a Might of 2, the ability's damage breakdown would be:
 
 - **≤11:** 5
 - **12-16:** 8
@@ -288,7 +288,7 @@ Unless otherwise indicated, any effects that are determined by a power roll's ti
 
 #### "During the Move"
 
-Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)'s One Hundred Throats ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
+Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow](../../Browse/Classes/Shadow)'s One Hundred Throats ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
 
 #### Rolled Damage
 
@@ -296,7 +296,7 @@ Certain effects talk about rolled damage, which refers to the variable damage de
 
 #### Potencies
 
-Many abilities and other effects impose conditions and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high Might should be harder to knock [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) most of the time than a creature lacking in that characteristic.
+Many abilities and other effects impose conditions and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high Might should be harder to knock [prone](../../Browse/Conditions/Prone) most of the time than a creature lacking in that characteristic.
 
 Ability effects that have a **potency** are applied to a target only if the effect's potency value is higher than the target's indicated characteristic score. The characteristic a target uses to resist a potency is based on the ability used, while the value of the potency for your hero's abilities is based on one of your characteristics and determined by your class.
 
@@ -308,57 +308,57 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 
 In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value—for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
-As an example, consider the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)'s Judgment's Hammer ability, which has the following power roll:
+As an example, consider the [conduit](../../Browse/Classes/Conduit)'s Judgment's Hammer ability, which has the following power roll:
 
 **Power Roll + Intuition:**
 
-- **≤11:** 3 + I holy damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **12-16:** 6 + I holy damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **17+:** 9 + I holy damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+- **≤11:** 3 + I holy damage; A < WEAK, [prone](../../Browse/Conditions/Prone)
+- **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone)
+- **17+:** 9 + I holy damage; A < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
-At 1st level, a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) uses their Intuition score to determine their potency values, and that score is 2. That gives the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) the following potencies:
+At 1st level, a [conduit](../../Browse/Classes/Conduit) uses their Intuition score to determine their potency values, and that score is 2. That gives the [conduit](../../Browse/Classes/Conduit) the following potencies:
 
 - Weak: 0
 - Average: 1
 - Strong: 2
 
-When writing Judgment's Hammer on their character sheet, the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit)'s player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
+When writing Judgment's Hammer on their character sheet, the [conduit](../../Browse/Classes/Conduit)'s player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
 
 **Power Roll + Intuition:**
 
-- **≤11:** 5 holy damage; A < 0, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **12-16:** 8 holy damage; A < 1, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **17+:** 11 holy damage; A < 2, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+- **≤11:** 5 holy damage; A < 0, [prone](../../Browse/Conditions/Prone)
+- **12-16:** 8 holy damage; A < 1, [prone](../../Browse/Conditions/Prone)
+- **17+:** 11 holy damage; A < 2, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
-During a game session, the [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) uses Judgment's Hammer to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
+During a game session, the [conduit](../../Browse/Classes/Conduit) uses Judgment's Hammer to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
 
 - With a tier 1 outcome (11 or lower), the ability deals 5 holy damage to the bandit. But the bandit resists the additional effect because they have Agility 0 (and therefore don't have an Agility of less than 0).
-- With a tier 2 outcome (12-16), the ability deals 8 holy damage. But the bandit is also knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), unable to resist the additional effect because they would need an Agility of 1 or higher to do so. If the bandit had Agility 1 or higher, they would have taken 8 holy damage but stayed standing.
+- With a tier 2 outcome (12-16), the ability deals 8 holy damage. But the bandit is also knocked [prone](../../Browse/Conditions/Prone), unable to resist the additional effect because they would need an Agility of 1 or higher to do so. If the bandit had Agility 1 or higher, they would have taken 8 holy damage but stayed standing.
 - With a tier 3 outcome (17 or higher), the bandit takes 11 holy damage and is knocked flat and left struggling to stand, unable to resist the strong potency of the additional effect with a mere Agility 0.
 
 ##### Potency Presentation
 
-Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)."
+Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](../../Browse/Classes/Conduit) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall [prone](../../Browse/Conditions/Prone)."
 
-Reading the ability this way prevents a lot of back and forth. You don't need to ask, "What's the target's Agility score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an Agility of 1 or higher, they fall [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)." Players can let the Director figure out whether the target is [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with potencies against the heroes.
+Reading the ability this way prevents a lot of back and forth. You don't need to ask, "What's the target's Agility score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an Agility of 1 or higher, they fall [prone](../../Browse/Conditions/Prone)." Players can let the Director figure out whether the target is [prone](../../Browse/Conditions/Prone) and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with potencies against the heroes.
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor)'s Judgment ability and the [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null)'s [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](../../Browse/Classes/Censor)'s Judgment ability and the [null](../../Browse/Classes/Null)'s [Null](../../Browse/Classes/Null) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Overwatch ability allows the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) to spend 1 focus to impose the [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) targets a creature whose high Reason leaves them unaffected, the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
+For example, the [tactician](../../Browse/Classes/Tactician)'s Overwatch ability allows the [tactician](../../Browse/Classes/Tactician) to spend 1 focus to impose the [slowed](../../Browse/Conditions/Slowed) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/Classes/Tactician) targets a creature whose high Reason leaves them unaffected, the [tactician](../../Browse/Classes/Tactician) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
 #### Critical Hit
 
-Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (see [Conditions](#page-91-2) below).
+Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](../../Browse/Conditions/Dazed) (see [Conditions](#page-91-2) below).
 
-You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Strike Now ability can be critical hits.
+You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician](../../Browse/Classes/Tactician)'s Strike Now ability can be critical hits.
 
 #### Roll Against Multiple Creatures
 
@@ -368,7 +368,7 @@ For example, if you target three creatures with a strike ability and the power r
 
 #### Surges
 
-A [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour)'s battle song, a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)'s building ferocity, and a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)'s patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
+A [troubadour](../../Browse/Classes/Troubadour)'s battle song, a [fury](../../Browse/Classes/Fury)'s building ferocity, and a [shadow](../../Browse/Classes/Shadow)'s patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
 
 When you gain surges, you keep track of them on your character sheet. Surges can be used in combat to deal extra damage to your foes and increase the value of your potencies, as follows:
 
@@ -383,7 +383,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)'s Black Ash [Teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) ability is a maneuver that allows you to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](../../Browse/Classes/Shadow)'s Black Ash [Teleport](../../Browse/Movement/Teleport) ability is a maneuver that allows you to [teleport](../../Browse/Movement/Teleport) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -393,9 +393,9 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
-For example, the [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null)'s [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) each have their [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
+For example, the [null](../../Browse/Classes/Null)'s [Null](../../Browse/Classes/Null) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](../../Browse/Classes/Null) each have their [Null](../../Browse/Classes/Null) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
-Different effects that impose the same condition (see [Conditions](#page-91-2) below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (imposing a bane on the target's power rolls), the target isn't [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) twice to impose a double bane on those rolls. A character who is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by an enemy can't be [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
+Different effects that impose the same condition (see [Conditions](#page-91-2) below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../../Browse/Conditions/Weakened) (imposing a bane on the target's power rolls), the target isn't [weakened](../../Browse/Conditions/Weakened) twice to impose a double bane on those rolls. A character who is [grabbed](../../Browse/Conditions/Grabbed) by an enemy can't be [grabbed](../../Browse/Conditions/Grabbed) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
 
 #### Ending Effects
 
@@ -449,25 +449,25 @@ Some abilities and other effects apply specific negative effects called conditio
 
 ##### Bleeding
 
-While a creature is [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding), whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
+While a creature is [bleeding](../../Browse/Conditions/Bleeding), whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s Strike Now ability triggers the damage from the [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) condition.
+You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](../../Browse/Classes/Tactician)'s Strike Now ability triggers the damage from the [bleeding](../../Browse/Conditions/Bleeding) condition.
 
 ##### Dazed
 
-A creature who is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) creature also can't use triggered actions, free triggered actions, or free maneuvers.
+A creature who is [dazed](../../Browse/Conditions/Dazed) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../../Browse/Conditions/Dazed) creature also can't use triggered actions, free triggered actions, or free maneuvers.
 
 ##### Frightened
 
-When a creature is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), any ability roll they make against the source of their fear takes a bane. If that source is a creature, their ability rolls made against the [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) creature gain an edge. A [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) condition from one source while already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) by a different source, the new condition replaces the old one.
+When a creature is [frightened](../../Browse/Conditions/Frightened), any ability roll they make against the source of their fear takes a bane. If that source is a creature, their ability rolls made against the [frightened](../../Browse/Conditions/Frightened) creature gain an edge. A [frightened](../../Browse/Conditions/Frightened) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../Browse/Conditions/Frightened) condition from one source while already [frightened](../../Browse/Conditions/Frightened) by a different source, the new condition replaces the old one.
 
 ##### Grabbed
 
-A creature who is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) has speed 0, can't be force moved except by a creature, object, or effect that has them [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), can't use the Knockback maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)), and takes a bane on abilities that don't target the creature, object, or effect that has them [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed). If a creature is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by another creature and that creature moves, they bring the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) creature with them. If a creature's size is equal to or less than the size of a creature they have [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), their speed is halved while they have that creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+A creature who is [grabbed](../../Browse/Conditions/Grabbed) has speed 0, can't be force moved except by a creature, object, or effect that has them [grabbed](../../Browse/Conditions/Grabbed), can't use the Knockback maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)), and takes a bane on abilities that don't target the creature, object, or effect that has them [grabbed](../../Browse/Conditions/Grabbed). If a creature is [grabbed](../../Browse/Conditions/Grabbed) by another creature and that creature moves, they bring the [grabbed](../../Browse/Conditions/Grabbed) creature with them. If a creature's size is equal to or less than the size of a creature they have [grabbed](../../Browse/Conditions/Grabbed), their speed is halved while they have that creature [grabbed](../../Browse/Conditions/Grabbed).
 
-A creature who has another creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) can use a maneuver to move the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) creature into an unoccupied space adjacent to them.
+A creature who has another creature [grabbed](../../Browse/Conditions/Grabbed) can use a maneuver to move the [grabbed](../../Browse/Conditions/Grabbed) creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) at any time to end that condition (no action required). A [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) creature can attempt to escape being [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), or if either the [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+A creature can release a creature they have [grabbed](../../Browse/Conditions/Grabbed) at any time to end that condition (no action required). A [grabbed](../../Browse/Conditions/Grabbed) creature can attempt to escape being [grabbed](../../Browse/Conditions/Grabbed) using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](../../Browse/Conditions/Grabbed) creature [teleports](../../Browse/Movement/Teleport), or if either the [grabbed](../../Browse/Conditions/Grabbed) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../../Browse/Conditions/Grabbed).
 
 A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
 
@@ -475,33 +475,33 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 ##### Prone
 
-While a creature is [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature must [crawl](https://steelcompendium.io/v2/Browse/Rules/Movement/Crawl) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), [swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), or [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) while [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). If they are [climbing](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), or [jumping](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) when knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), they fall.
+While a creature is [prone](../../Browse/Conditions/Prone), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](../../Browse/Conditions/Prone) creature must [crawl](../../Browse/Movement/Crawl) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](../../Browse/Movement/Climb%20or%20Swim), [jump](../../Browse/Movement/Jump), [swim](../../Browse/Movement/Climb%20or%20Swim), or [fly](../../Browse/Movement/Fly) while [prone](../../Browse/Conditions/Prone). If they are [climbing](../../Browse/Movement/Climb%20or%20Swim), [flying](../../Browse/Movement/Fly), or [jumping](../../Browse/Movement/Jump) when knocked [prone](../../Browse/Conditions/Prone), they fall.
 
-Unless the ability or effect that imposed the [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) condition says otherwise, a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) creature can likewise use the Stand Up maneuver to make that creature stand up.
+Unless the ability or effect that imposed the [prone](../../Browse/Conditions/Prone) condition says otherwise, a [prone](../../Browse/Conditions/Prone) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](../../Browse/Conditions/Prone) creature can likewise use the Stand Up maneuver to make that creature stand up.
 
 ##### Restrained
 
-A creature who is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
+A creature who is [restrained](../../Browse/Conditions/Restrained) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](../../Browse/Conditions/Restrained) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained), that condition ends.
+If a creature [teleports](../../Browse/Movement/Teleport) while [restrained](../../Browse/Conditions/Restrained), that condition ends.
 
 ##### Slowed
 
-A creature who is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) has speed 2 unless their speed is already lower, and they can't shift.
+A creature who is [slowed](../../Browse/Conditions/Slowed) has speed 2 unless their speed is already lower, and they can't shift.
 
 ##### Taunted
 
-A creature who is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) them, as long as they have line of effect to that creature. If a creature gains the [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) condition from one source while already [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by a different source, the new condition replaces the old one.
+A creature who is [taunted](../../Browse/Conditions/Taunted) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](../../Browse/Conditions/Taunted) them, as long as they have line of effect to that creature. If a creature gains the [taunted](../../Browse/Conditions/Taunted) condition from one source while already [taunted](../../Browse/Conditions/Taunted) by a different source, the new condition replaces the old one.
 
 ##### Weakened
 
-A creature who is [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) takes a bane on power rolls.
+A creature who is [weakened](../../Browse/Conditions/Weakened) takes a bane on power rolls.
 
 #### Abilities in Class Tables
 
 Each class in this chapter includes a table that shows the progression as a hero gains new levels in that class. Each of those tables has an Abilities column and another column that shows abilities granted by the hero's subclass, tracking all the heroic abilities a hero of that class has at each level. Each ability is represented by a numeral noting the ability's Heroic Resource cost.
 
-For example a 6th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor)'s subclass). This means a [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
+For example a 6th-level [censor](../../Browse/Classes/Censor) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor](../../Browse/Classes/Censor)'s subclass). This means a [censor](../../Browse/Classes/Censor) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
 
 <!-- -->
 > **Quick Build Gold Icons**
@@ -510,9 +510,9 @@ For example a 6th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Clas
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow). Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) those whose actions—or even existence—are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your [shadow](../../Browse/Classes/Shadow). Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then [censor](../../Browse/Classes/Censor) those whose actions—or even existence—are anathema to your church.
 
-As a [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
+As a [censor](../../Browse/Classes/Censor), you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
 <!-- -->
 > "We FIGHT!
@@ -549,7 +549,7 @@ As a [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you're
 
 | Level | Features                                                                                                                                                                                                               | Abilities                 | Order<br/> Abilities |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | [Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, [Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) Abilities | Signature, 3, 5           | -                    |
+| 1st   | [Censor](../../Browse/Classes/Censor) Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, [Censor](../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                    |
 | 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                    | Signature, 3, 5           | 5                    |
 | 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                                                                                                                                           | Signature, 3, 5, 7        | 5                    |
 | 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                                                                                                                               | Signature, 3, 5, 7        | 5                    |
@@ -562,17 +562,17 @@ As a [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you're
 
 ### 1st-Level Features
 
-As a 1st-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 1st-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Censor Order
 
-[Censors](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](../../Browse/Classes/Censor) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../Browse/Classes/Censor) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor](../../Browse/Classes/Censor) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 #### Deity and Domains
 
@@ -582,7 +582,7 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../Browse/Classes/Censor) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
@@ -596,7 +596,7 @@ You lose any remaining wrath at the end of the encounter.
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../Browse/Classes/Censor), but they might appear in future products.)
 
 #### Judgment
 
@@ -611,7 +611,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > | ----------------- | ---------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 >
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../Browse/Classes/Censor) judges the target.
 >
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 >
@@ -622,7 +622,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../Browse/Conditions/Taunted) by you until the end of their next turn.
 >
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -630,13 +630,13 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Exorcist:** You can [teleport](../../Browse/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
 - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](https://steelcompendium.io/v2/Browse/Rules/Kits/Warrior%20Priest).)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../../Browse/Kits/Warrior%20Priest).)
 
 #### My Life for Yours
 
@@ -655,11 +655,11 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 >
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 >
-> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../Browse/Conditions/Prone) target can stand up.
 
 #### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level [Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../Browse/Classes/Censor) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
@@ -715,7 +715,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../Browse/Movement/Fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -822,9 +822,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!
@@ -913,9 +913,9 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 11 + P holy damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 11 + P holy damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 ###### 5-Wrath Ability
 
@@ -932,11 +932,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 9 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 13 + M holy damage; [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 6 + M holy damage; [grabbed](../../Browse/Conditions/Grabbed)
+> - **12-16:** 9 + M holy damage; [grabbed](../../Browse/Conditions/Grabbed)
+> - **17+:** 13 + M holy damage; [grabbed](../../Browse/Conditions/Grabbed)
 >
-> **Effect:** If the target makes a strike against a creature while [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+> **Effect:** If the target makes a strike against a creature while [grabbed](../../Browse/Conditions/Grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 <!-- -->
 > ###### Behold the Face of Justice! (5 Wrath)
@@ -949,11 +949,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends)
-> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends)
-> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends)
+> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../Browse/Conditions/Frightened) of you (save ends)
+> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../Browse/Conditions/Frightened) of you (save ends)
+> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../Browse/Conditions/Frightened) of you (save ends)
 >
-> **Effect:** Each enemy [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+> **Effect:** Each enemy [frightened](../../Browse/Conditions/Frightened) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 <!-- -->
 > ###### Censored (5 Wrath)
@@ -991,7 +991,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### 2nd-Level Features
 
-As a 2nd-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 2nd-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Perk
 
@@ -999,7 +999,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](../../Browse/Classes/Censor) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -1035,7 +1035,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants your choice of one of two heroic abilities.
+Your [censor](../../Browse/Classes/Censor) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -1052,11 +1052,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** If the target is already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](../../Browse/Conditions/Frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -1123,19 +1123,19 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While the target is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../Browse/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.
 
 ### 3rd-Level Features
 
-As a 3rd-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 3rd-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends). If the target is already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends). If the target is already [frightened](../../Browse/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 
@@ -1187,7 +1187,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 ### 4th-Level Features
 
-As a 4th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 4th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1207,7 +1207,7 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 #### 4th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 4th-Level [Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) Domain Features table.
+You gain a domain feature from your domain, as shown on the 4th-Level [Censor](../../Browse/Classes/Censor) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table
 
@@ -1281,19 +1281,19 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). If you can already [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you have a +2 bonus to speed while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) instead.
+While you have 5 or more Victories, you can [fly](../../Browse/Movement/Fly). If you can already [fly](../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../Browse/Movement/Fly) instead.
 
 ##### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### 5th-Level Features
 
-As a 5th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 5th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### 5th-Level Order Feature
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
@@ -1330,7 +1330,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > | ---------------- | ----------------------: |
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../Browse/Conditions/Prone) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
 
 <!-- -->
 > ###### Orison of Victory (9 Wrath)
@@ -1347,7 +1347,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > - **12-16:** Each target gains 2 surges.
 > - **17+:** Each target gains 3 surges.
 >
-> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target can stand up.
+> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../Browse/Conditions/Prone) target can stand up.
 
 <!-- -->
 > ###### Righteous Judgment (9 Wrath)
@@ -1383,16 +1383,16 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 ### 6th-Level Features
 
-As a 6th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 6th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Implement of Wrath
 
 Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
-- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends).
+- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../../Browse/Conditions/Frightened) and [weakened](../../Browse/Conditions/Weakened) (save ends).
 - Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
-- The weapon's wielder can't be made [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened).
+- The weapon's wielder can't be made [frightened](../../Browse/Conditions/Frightened).
 
 #### Perk
 
@@ -1400,7 +1400,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### 6th-Level Order Ability
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants your choice of one of two heroic abilities.
+Your [censor](../../Browse/Classes/Censor) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 
@@ -1449,9 +1449,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** Slide 5; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** Slide 7; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** Slide 3; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** Slide 7; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 <!-- -->
 > ###### Edict of Peace (9 Wrath)
@@ -1500,7 +1500,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 7th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1508,7 +1508,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level [Censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](../../Browse/Classes/Censor) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
@@ -1538,13 +1538,13 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to them.*
+> *You concentrate on a friend and [teleport](../../Browse/Movement/Teleport) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1617,7 +1617,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As an 8th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Perk
 
@@ -1625,7 +1625,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Order Feature
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -1637,7 +1637,7 @@ Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order g
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../Browse/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -1662,11 +1662,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 18 + M damage; I < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way can't be targeted by their allies' abilities.
+> **Effect:** At the end of each of your turns, a target [weakened](../../Browse/Conditions/Weakened) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../../Browse/Conditions/Weakened) this way can't be targeted by their allies' abilities.
 
 <!-- -->
 > ###### Hand of the Gods (11 Wrath)
@@ -1696,11 +1696,11 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 18 + M damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 9 + M damage; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
-> **Effect:** At the end of each of your turns, a target [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+> **Effect:** At the end of each of your turns, a target [dazed](../../Browse/Conditions/Dazed) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
 <!-- -->
 > ###### Your Allies Turn on You! (11 Wrath)
@@ -1713,15 +1713,15 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 12 + P damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 5 + P damage; I < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 12 + P damage; I < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+> **Effect:** While the target is [slowed](../../Browse/Conditions/Slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../../Browse/Conditions/Slowed) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
-As a 9th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 9th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Improved Implement of Wrath
 
@@ -1733,7 +1733,7 @@ The weapon you target with your Implement of Wrath feature gains the following a
 
 #### 9th-Level Order Ability
 
-Your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) order grants your choice of one of two heroic abilities.
+Your [censor](../../Browse/Classes/Censor) order grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 
@@ -1754,7 +1754,7 @@ Choose one of the following abilities.
 > - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 > - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 >
-> **Effect:** This ability gains an edge against demons, [devils](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Devil), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+> **Effect:** This ability gains an edge against demons, [devils](../../Browse/Ancestries/Devil), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 <!-- -->
 > ###### Terror Manifest (11 Wrath)
@@ -1767,11 +1767,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 13 + P psychic damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 13 + P psychic damage; P < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** While [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+> **Effect:** While [frightened](../../Browse/Conditions/Frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../../Browse/Conditions/Frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
 
 ##### 9th-Level Oracle Abilities
 
@@ -1837,7 +1837,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 10th-level [censor](../../Browse/Classes/Censor), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1853,7 +1853,7 @@ You gain one skill of your choice.
 
 #### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) level, use your [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](../../Browse/Classes/Conduit) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../../Browse/Classes/Conduit) level, use your [censor](../../Browse/Classes/Censor) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -1875,7 +1875,7 @@ When you gain wrath at the start of each of your turns during combat, you gain 4
 
 The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](../../Browse/Classes/Conduit), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
 <!-- -->
 > "The gods judge our actions, and our inaction."
@@ -1909,7 +1909,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 | Level | Features                                                                                                                                                                                                                                       | Abilities                     | Domain Abilities |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Ward, [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Abilities | Two signature, 3, 5           | -                |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](../../Browse/Classes/Conduit) Ward, [Conduit](../../Browse/Classes/Conduit) Abilities | Two signature, 3, 5           | -                |
 | 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                                                                                                                                      | Two signature, 3, 5           | 5                |
 | 3rd   | Minor Miracle, 7-Piety Ability                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                |
@@ -1922,7 +1922,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ### 1st-Level Features
 
-As a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Deity and Domains
 
@@ -1981,7 +1981,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../../Browse/Conditions/Prone). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
@@ -2011,7 +2011,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../Browse/Classes/Conduit) level.
 
 ###### War Domain Piety and Effect
 
@@ -2020,7 +2020,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -2074,7 +2074,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../Browse/Movement/Fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -2149,7 +2149,7 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target can stand up.
+> - A [prone](../../Browse/Conditions/Prone) target can stand up.
 > - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
@@ -2209,7 +2209,7 @@ Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
 
 ##### Prayer of Destruction
 
@@ -2325,7 +2325,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](../../Browse/Movement/Teleport) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -2438,9 +2438,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** 9 + I holy damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -2489,9 +2489,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -2519,11 +2519,11 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../Browse/Conditions/Prone).
 
 ### 2nd-Level Features
 
-As a 2nd-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 2nd-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### The Lists of Heaven
 
@@ -2539,7 +2539,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../Browse/Classes/Conduit) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -2637,9 +2637,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 7 damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)
@@ -2713,7 +2713,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ### 3rd-Level Features
 
-As a 3rd-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 3rd-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Minor Miracle
 
@@ -2736,11 +2736,11 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 psychic damage; I < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 13 psychic damage; I < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 13 psychic damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** Each target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you or a creature you choose within distance.
+> **Effect:** Each target is [frightened](../../Browse/Conditions/Frightened) of you or a creature you choose within distance.
 
 <!-- -->
 > ###### Saint's Raiment (7 Piety)
@@ -2789,7 +2789,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 ### 4th-Level Features
 
-As a 4th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 4th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Blessed Domain
 
@@ -2809,7 +2809,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
@@ -2883,15 +2883,15 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). If you can already [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you have a +2 bonus to speed while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) instead.
+While you have 5 or more Victories, you can [fly](../../Browse/Movement/Fly). If you can already [fly](../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../Browse/Movement/Fly) instead.
 
 ###### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### 5th-Level Features
 
-As a 5th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 5th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### 5th-Level Domain Feature
 
@@ -2929,9 +2929,9 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 corruption damage; I < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 11 corruption damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 4 corruption damage; I < WEAK, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 11 corruption damage; I < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Sanctuary (9 Piety)
@@ -2957,7 +2957,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 ### 6th-Level Features
 
-As a 6th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 6th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Burgeoning Saint
 
@@ -2974,7 +2974,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 #### 6th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](../../Browse/Classes/Conduit) Domain Abilities table.
 
 ###### 6th-Level Conduit Domain Abilities Table
 
@@ -3015,9 +3015,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 16 + I damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](../../Browse/Conditions/Prone) and [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone) and [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](../../Browse/Conditions/Prone) and [restrained](../../Browse/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)
@@ -3125,7 +3125,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | ------------------------------------: |
 > | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../Browse/Conditions/Prone).
 
 <!-- -->
 > ###### Spirit Stampede (9 Piety)
@@ -3138,9 +3138,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 5 damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-> - **12-16:** 8 damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 11 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 5 damage; M < WEAK, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **12-16:** 8 damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 11 damage; M < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Your Story Ends Here (9 Piety)
@@ -3153,15 +3153,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.
 
 ### 7th-Level Features
 
-As a 7th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 7th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Characteristic Increase
 
@@ -3177,7 +3177,7 @@ You gain one skill of your choice.
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
@@ -3207,13 +3207,13 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 <!-- -->
 > ###### Guided to Your Side
 >
-> *You concentrate on a friend and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to them.*
+> *You concentrate on a friend and [teleport](../../Browse/Movement/Teleport) to them.*
 >
 > | **Magic, Ranged** |           **Main action** |
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -3278,7 +3278,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### 8th-Level Features
 
-As an 8th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As an 8th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Perk
 
@@ -3301,7 +3301,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../Browse/Conditions/Prone). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
 <!-- -->
 > ###### Blessing of Steel (11 Piety)
@@ -3344,7 +3344,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 ### 9th-Level Features
 
-As a 9th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 9th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Faith's Sword
 
@@ -3356,7 +3356,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 
 #### 9th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../Browse/Classes/Conduit) Domain Abilities table.
 
 ###### 9th-Level Conduit Domain Abilities Table
 
@@ -3417,7 +3417,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../Browse/Movement/Fly), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -3472,7 +3472,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | -----------------: |
 > | **📏 Ranged 10**  | **🎯 Four allies** |
 >
-> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../Browse/Conditions/Prone).
 
 <!-- -->
 > ###### Righteous Phalanx (11 Piety)
@@ -3511,11 +3511,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 21 + I damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](../../Browse/Conditions/Restrained) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)
@@ -3541,15 +3541,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
-> **Effect:** While [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way, the target has damage weakness 10.
+> **Effect:** While [weakened](../../Browse/Conditions/Weakened) this way, the target has damage weakness 10.
 
 ### 10th-Level Features
 
-As a 10th-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit), you gain the following features.
+As a 10th-level [conduit](../../Browse/Classes/Conduit), you gain the following features.
 
 #### Avatar
 
@@ -3565,7 +3565,7 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 You have an epic resource called divine power. Each time you finish a respite, you gain divine power equal to the XP you gain. You can spend divine power on your abilities as if it were piety.
 
-Additionally, you can spend divine power as if it were piety to use any [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
+Additionally, you can spend divine power as if it were piety to use any [conduit](../../Browse/Classes/Conduit) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../Browse/Classes/Conduit) ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
 
 Divine power remains until you spend it.
 
@@ -3585,7 +3585,7 @@ You gain one skill of your choice.
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
+**As an [elementalist](../../Browse/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -3619,7 +3619,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                    | Abilities                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Ward, [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Abilities | Two signature, 3, 5                 |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](../../Browse/Classes/Elementalist) Ward, [Elementalist](../../Browse/Classes/Elementalist) Abilities | Two signature, 3, 5                 |
 | 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
 | 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
 | 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
@@ -3632,7 +3632,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ### 1st-Level Features
 
-As a 1st-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 1st-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Elemental Specialization
 
@@ -3643,7 +3643,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../../Browse/Movement/Teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -3732,7 +3732,7 @@ You have the following ability.
 >
 > - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each essence spent.
+> - You [teleport](../../Browse/Movement/Teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../../Browse/Movement/Teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -3871,13 +3871,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 >
 > **Trigger:** The target starts their turn, moves, or is force moved.
 >
-> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) them at any point during the move.
+> **Effect:** You [teleport](../../Browse/Movement/Teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../Browse/Movement/Teleport) them at any point during the move.
 >
-> **Spend 1 Essence:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to a number of squares equal to twice your Reason score instead.
+> **Spend 1 Essence:** You [teleport](../../Browse/Movement/Teleport) the target up to a number of squares equal to twice your Reason score instead.
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -3964,7 +3964,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
+> *You absorb the life energy of another creature and use it to [teleport](../../Browse/Movement/Teleport).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |
@@ -3976,7 +3976,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](../../Browse/Movement/Teleport) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -4021,9 +4021,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -4129,7 +4129,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** 8 damage; M < STRONG, [prone](../../Browse/Conditions/Prone)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
@@ -4205,7 +4205,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### 2nd-Level Features
 
-As a 2nd-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 2nd-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -4236,36 +4236,36 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../../Browse/Complications/Animal%20Form), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
-You choose a specific animal and appearance while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](../../Browse/Complications/Animal%20Form). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](../../Browse/Complications/Animal%20Form), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](../../Browse/Complications/Animal%20Form) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
 | Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | --------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Canine                | 2nd   | 5                 | 7                                                                               | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Fish                  | 2nd   | 0                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Rodent                | 2nd   | 0                 | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Bird                  | 3rd   | 0                 | 5 ([fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly))                     | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Great cat             | 3rd   | 5                 | 6 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +1/+1/+1           | As a maneuver, you can [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), and you can<br/> make a melee free strike against them (no action required).                                                                                                                                                |
-| Giant frog            | 4th   | 5                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) or long [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to half your speed. This<br/> [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) can allow you to move more squares than your speed.                                                                                                     |
+| Fish                  | 2nd   | 0                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Rodent                | 2nd   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Bird                  | 3rd   | 0                 | 5 ([fly](../../Browse/Movement/Fly))                     | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Great cat             | 3rd   | 5                 | 6 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0              | +1/+1/+1           | As a maneuver, you can [jump](../../Browse/Movement/Jump) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](../../Browse/Conditions/Prone), and you can<br/> make a melee free strike against them (no action required).                                                                                                                                                |
+| Giant frog            | 4th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br/> move action, you can high [jump](../../Browse/Movement/Jump) or long [jump](../../Browse/Movement/Jump) up to half your speed. This<br/> [jump](../../Browse/Movement/Jump) can allow you to move more squares than your speed.                                                                                                     |
 | Horse                 | 4th   | 5                 | 8                                                                               | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br/> main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                            |
-| Mohler                | 4th   | 0                 | 7 ([burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow))               | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Bear                  | 5th   | 10                | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Giant bird            | 5th   | 0                 | 7 ([fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly))                     | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                          |
+| Mohler                | 4th   | 0                 | 7 ([burrow](../../Browse/Movement/Burrow))               | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Bear                  | 5th   | 10                | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Giant bird            | 5th   | 0                 | 7 ([fly](../../Browse/Movement/Fly))                     | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                          |
 | Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Giant spider          | 6th   | 0                 | 5 ([climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                  |
-| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save<br/> ends). When you take the Advance move action, you can high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) or long<br/> [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to half your speed. This [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) can allow you to move more squares<br/> than your speed. |
+| Giant spider          | 6th   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br/> can automatically grab the target. While [grabbed](../../Browse/Conditions/Grabbed) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                  |
+| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](../../Browse/Conditions/Dazed) (save<br/> ends). When you take the Advance move action, you can high [jump](../../Browse/Movement/Jump) or long<br/> [jump](../../Browse/Movement/Jump) up to half your speed. This [jump](../../Browse/Movement/Jump) can allow you to move more squares<br/> than your speed. |
 | Spiny armadillo       | 7th   | 10                | 5                                                                               | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                    |
 | Ostrich               | 8th   | 0                 | 10                                                                              | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Shark                 | 8th   | 0                 | 8 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                           |
-| Giant octopus         | 9th   | 5                 | 5 ([swim](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim))      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).                                                                                                                                           |
+| Shark                 | 8th   | 0                 | 8 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](../../Browse/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                           |
+| Giant octopus         | 9th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee free strike, you can automatically grab the target. You can have up to<br/> eight creatures [grabbed](../../Browse/Conditions/Grabbed).                                                                                                                                           |
 | Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                       |
 | King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
@@ -4282,7 +4282,7 @@ You have the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleported](../../Browse/Movement/Teleport) to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 >
 > At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
 
@@ -4333,7 +4333,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > | ----------------------------- | ----------------------: |
 > | **📏 Ranged 10**              | **🎯 Self or one ally** |
 >
-> **Effect:** The target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+> **Effect:** The target is [teleported](../../Browse/Movement/Teleport) to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 >
 > **Power Roll + Reason:**
 >
@@ -4352,13 +4352,13 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 
 ### 3rd-Level Features
 
-As a 3rd-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 3rd-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### 3rd-Level Specialization Feature
 
@@ -4485,7 +4485,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 ### 4th-Level Features
 
-As a 4th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 4th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -4534,7 +4534,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 5th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### 5th-Level Specialization Feature
 
@@ -4551,7 +4551,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ##### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form).
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../../Browse/Complications/Animal%20Form) in combat, which is added to any temporary Stamina provided by the [animal form](../../Browse/Complications/Animal%20Form).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -4565,11 +4565,11 @@ Additionally, whenever an ally within distance of your Hurl Element ability is f
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../Browse/Movement/Teleport) a number of squares equal to your Reason score.
 
 ##### Smoldering Step
 
-You can use 1 square of movement to [walk](https://steelcompendium.io/v2/Browse/Rules/Movement/Walk) into an area of fire your size or larger and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](../../Browse/Movement/Walk) into an area of fire your size or larger and [teleport](../../Browse/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
@@ -4639,17 +4639,17 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 5 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends).
+> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../Browse/Conditions/Restrained) (save ends).
 >
 > **Persistent 1:** The area remains until the start of your next turn.
 
 ### 6th-Level Features
 
-As a 6th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 6th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -4679,7 +4679,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 > | ------------------------------------ | ----------------------: |
 > | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 >
-> **Effect:** The target has a +3 bonus to speed, they can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+> **Effect:** The target has a +3 bonus to speed, they can [fly](../../Browse/Movement/Fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 >
 > **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -4694,7 +4694,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Effect:** Until the start of your next turn, the target has the following benefits:
 >
-> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the effect ends.
+> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/Conditions/Restrained) until the effect ends.
 > - They have fire immunity 10.
 > - Their strikes deal extra fire damage equal to twice your Reason score.
 > - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
@@ -4705,7 +4705,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 <!-- -->
 > ###### Meteor (9 Essence)
 >
-> *You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target into the air and let the ground and the elemental force of fire do the rest.*
+> *You [teleport](../../Browse/Movement/Teleport) the target into the air and let the ground and the elemental force of fire do the rest.*
 >
 > | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 > | ------------------------------------ | ----------------------------: |
@@ -4713,11 +4713,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 4 squares.
-> - **12-16:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 6 squares.
-> - **17+:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 8 squares.
+> - **≤11:** You [teleport](../../Browse/Movement/Teleport) the target up to 4 squares.
+> - **12-16:** You [teleport](../../Browse/Movement/Teleport) the target up to 6 squares.
+> - **17+:** You [teleport](../../Browse/Movement/Teleport) the target up to 8 squares.
 >
-> **Effect:** If the target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
+> **Effect:** If the target is [teleported](../../Browse/Movement/Teleport) to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
 
 <!-- -->
 > ###### The Wode Remembers and Returns (9 Essence)
@@ -4734,7 +4734,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 ### 7th-Level Features
 
-As a 7th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 7th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -4756,7 +4756,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As an 8th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Perk
 
@@ -4783,9 +4783,9 @@ Additionally, your Mantle of Essence improves. While in the area of the aura, en
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/Complications/Animal%20Form) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
-Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](../../Browse/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -4821,7 +4821,7 @@ You have the following ability.
 > |       Elemental       |                                        -                                        |       Level 8       |          BRUTE          |          EV -          |
 > | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :---------------------: | :--------------------: |
 > |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
-> | **-**<br/> Immunities | **[Burrow](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+> | **-**<br/> Immunities | **[Burrow](../../Browse/Movement/Burrow)**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 > |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 >
 > > **Earthwalk**
@@ -4830,7 +4830,7 @@ You have the following ability.
 >
 > > **Tunneler**
 > >
-> > When the source [burrows](https://steelcompendium.io/v2/Browse/Rules/Movement/Burrow), they create a size 2 tunnel.
+> > When the source [burrows](../../Browse/Movement/Burrow), they create a size 2 tunnel.
 >
 > > **Earth Harness**
 > >
@@ -4861,9 +4861,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../../Browse/Conditions/Prone). Each ally within distance also gains this benefit.
 >
-> Each enemy who ends their turn within 3 squares of the tree is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the end of their next turn. A creature [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way can use a main action to end the effect early.
+> Each enemy who ends their turn within 3 squares of the tree is [restrained](../../Browse/Conditions/Restrained) until the end of their next turn. A creature [restrained](../../Browse/Conditions/Restrained) this way can use a main action to end the effect early.
 
 <!-- -->
 > ###### Muse of Fire (11 Essence)
@@ -4891,7 +4891,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ----------------------------- | --------------: |
 > | **📏 Ranged 10**              |  **🎯 Special** |
 >
-> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked [prone](../../Browse/Conditions/Prone). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 <!-- -->
 > ###### World Torn Asunder (11 Essence)
@@ -4904,15 +4904,15 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **≤11:** M < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** M < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** M < STRONG, [prone](../../Browse/Conditions/Prone)
 >
-> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is [prone](../../Browse/Conditions/Prone) and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
 
 ### 9th-Level Features
 
-As a 9th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 9th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Grand Wyrding
 
@@ -4976,15 +4976,15 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** This damage ignores immunity.
 
 ### 10th-Level Features
 
-As a 10th-level [elementalist](https://steelcompendium.io/v2/Browse/Rules/Classes/Elementalist), you gain the following features.
+As a 10th-level [elementalist](../../Browse/Classes/Elementalist), you gain the following features.
 
 #### Breath
 
@@ -5031,11 +5031,11 @@ The number of Recoveries you have increases by 2, and each time you finish a res
 
 Additionally, as a respite activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a respite activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic consumables on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](../../Browse/Conditions/Prone). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ##### Master of Void
 
-Whenever you willingly move, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).
+Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 
@@ -5051,7 +5051,7 @@ You gain one skill of your choice.
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
+**As a [fury](../../Browse/Classes/Fury), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -5078,13 +5078,13 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, [Jump](../../Browse/Movement/Jump), Nature.)
 
 ###### Fury Advancement Table
 
 | Level | Features                                                                                                                                                                  | Abilities                 | Aspect Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) Abilities | Signature, 3, 5           | -                |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                      | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                        | Signature, 3, 5, 7        | 5                |
 | 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill                                           | Signature, 3, 5, 7        | 5                |
@@ -5097,7 +5097,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ### 1st-Level Features
 
-As a 1st-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 1st-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Primordial Aspect
 
@@ -5116,7 +5116,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](https://steelcompendium.io/v2/Browse/Rules/Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../Browse/Classes/Fury) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -5178,7 +5178,7 @@ You can use and gain the benefits of a stormwight kit (see Stormwight Kits). You
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](https://steelcompendium.io/v2/Browse/Rules/Kits/Panther).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../Browse/Kits/Panther).)
 
 ##### Primordial Cunning
 
@@ -5219,7 +5219,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](../../Browse/Complications/Animal%20Form) or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -5255,7 +5255,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](../../Browse/Movement/Jump) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -5293,7 +5293,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -5308,9 +5308,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../Browse/Conditions/Grabbed)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../Browse/Conditions/Grabbed)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### To the Death!
@@ -5399,11 +5399,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
 >
-> **Effect:** While [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](../../Browse/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -5420,9 +5420,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../Browse/Conditions/Bleeding) and [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../Browse/Conditions/Bleeding) and [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../Browse/Conditions/Bleeding) and [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -5473,7 +5473,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 ### 2nd-Level Features
 
-As a 2nd-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 2nd-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 
@@ -5501,7 +5501,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) as part of your charge.
+Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can [jump](../../Browse/Movement/Jump) as part of your charge.
 
 #### 2nd-Level Aspect Ability
 
@@ -5556,9 +5556,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 8 + M damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../Browse/Conditions/Dazed) and [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../Browse/Conditions/Dazed) and [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../../Browse/Conditions/Dazed) and [frightened](../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -5573,9 +5573,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 6 damage; A < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -5592,9 +5592,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 10 damage; I < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -5609,15 +5609,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).
 
 ### 3rd-Level Features
 
-As a 3rd-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 3rd-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### 3rd-Level Aspect Feature
 
@@ -5633,7 +5633,7 @@ Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Fe
 
 ##### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../Browse/Conditions/Grabbed).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
@@ -5641,7 +5641,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) (see Stormwight Kits).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../../Browse/Complications/Animal%20Form) (see Stormwight Kits).
 
 ##### See Through Their Tricks
 
@@ -5660,7 +5660,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) until the end of their turn.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../Browse/Conditions/Frightened) until the end of their turn.
 
 <!-- -->
 > ###### Face the Storm! (7 Ferocity)
@@ -5671,7 +5671,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../../Browse/Conditions/Taunted) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../Browse/Conditions/Taunted) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
 <!-- -->
 > ###### Steelbreaker (7 Ferocity)
@@ -5697,7 +5697,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 ### 4th-Level Features
 
-As a 4th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 4th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 
@@ -5729,7 +5729,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 5th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### 5th-Level Aspect Feature
 
@@ -5745,15 +5745,15 @@ Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Fe
 
 ##### Bounder
 
-Your [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance for the purpose of determining damage and whether you land [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) (see Falling in Chapter 10). You are not [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) after falling and landing on another creature.
+Your [jump](../../Browse/Movement/Jump) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](../../Browse/Movement/Jump) distance for the purpose of determining damage and whether you land [prone](../../Browse/Conditions/Prone) (see Falling in Chapter 10). You are not [prone](../../Browse/Conditions/Prone) after falling and landing on another creature.
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](https://steelcompendium.io/v2/Browse/Rules/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
-At the start of your turn, you can end any [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../../Browse/Conditions/Restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
 #### 9-Ferocity Ability
 
@@ -5770,11 +5770,11 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 10 + M damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 20 + M damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + M damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 20 + M damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target takes 1 damage for every square they move, including from forced movement.
+> **Effect:** While [slowed](../../Browse/Conditions/Slowed) this way, the target takes 1 damage for every square they move, including from forced movement.
 
 <!-- -->
 > ###### My Turn! (9 Ferocity)
@@ -5823,25 +5823,25 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 18 + M damage; M < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 9 + M damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 18 + M damage; M < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, any other effect that would make the target [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) instead makes them [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+> **Effect:** While the target is [slowed](../../Browse/Conditions/Slowed) this way, any other effect that would make the target [slowed](../../Browse/Conditions/Slowed) instead makes them [restrained](../../Browse/Conditions/Restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../Browse/Conditions/Restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ### 6th-Level Features
 
-As a 6th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 6th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Marauder of the Primordial Chaos
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../../Browse/Movement/Teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -5866,7 +5866,7 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your maximum [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
+> **Effect:** You [jump](../../Browse/Movement/Jump) up to your maximum [jump](../../Browse/Movement/Jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 >
 > **Power Roll + Might:**
 >
@@ -5921,11 +5921,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 10 + M damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 ##### 6th-Level Stormwight Abilities
 
@@ -5942,11 +5942,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 13 damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 17 damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 8 damage; M < WEAK, [grabbed](../../Browse/Conditions/Grabbed)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../Browse/Conditions/Grabbed)
+> - **17+:** 17 damage; M < STRONG, [grabbed](../../Browse/Conditions/Grabbed)
 >
-> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+> **Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](../../Browse/Conditions/Grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 <!-- -->
 > ###### Riders on the Storm (9 Ferocity)
@@ -5957,13 +5957,13 @@ Choose one of the following abilities.
 > | --------------- | -------------------------------: |
 > | **📏 3 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the start of their next turn or until the effect ends.
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../Browse/Movement/Fly) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../Browse/Movement/Fly) until the start of their next turn or until the effect ends.
 >
 > **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
 ### 7th-Level Features
 
-As a 7th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 7th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Characteristic Increase
 
@@ -5989,7 +5989,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As an 8th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Perk
 
@@ -6081,7 +6081,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 ### 9th-Level Features
 
-As a 9th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 9th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Harbinger of the Primordial Chaos
 
@@ -6205,13 +6205,13 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [fury](https://steelcompendium.io/v2/Browse/Rules/Classes/Fury), you gain the following features.
+As a 10th-level [fury](../../Browse/Classes/Fury), you gain the following features.
 
 #### Chaos Incarnate
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your Primordial Storm feature (see Stormwight Kits) increases to three times your Might score.
 
-When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends).
+When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 Additionally, when you use Primordial Strike, you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
@@ -6270,9 +6270,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](../../Browse/Complications/Animal%20Form) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](../../Browse/Complications/Animal%20Form), you treat your Renown as 2 higher than usual.
 >
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../../Browse/Complications/Animal%20Form), into your hybrid form, or back into your true form.
 
 ##### Primordial Storm
 
@@ -6284,7 +6284,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ##### Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](https://steelcompendium.io/v2/Browse/Rules/Complications/Animal%20Form), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your [animal form](../../Browse/Complications/Animal%20Form), and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
 
 ##### Signature Ability
 
@@ -6300,7 +6300,7 @@ With this stormwight kit, you channel your primordial ferocity into the form of 
 
 ##### Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by you.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../../Browse/Conditions/Grabbed) by you.
 
 ##### Animal Form: Bear
 
@@ -6332,9 +6332,9 @@ Your primordial damage type is cold.
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-- **17+:** 11 + M damage; M < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](../../Browse/Conditions/Grabbed)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../Browse/Conditions/Grabbed)
+- **17+:** 11 + M damage; M < STRONG, [grabbed](../../Browse/Conditions/Grabbed)
 
 ##### Growing Ferocity
 
@@ -6344,16 +6344,16 @@ As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity
 
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | You can have up to two creatures [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), you gain 1 surge.             |
+| 2               | You can have up to two creatures [grabbed](../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../Browse/Conditions/Grabbed), you gain 1 surge.             |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                               |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                                                                                         |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
 
-With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your primordial ferocity into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -6361,11 +6361,11 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](../../Browse/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly).
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../../Browse/Movement/Fly).
 
 ##### Primordial Storm: Anabatic Wind
 
@@ -6421,11 +6421,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -6510,9 +6510,9 @@ Your primordial damage type is lightning.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **12-16:** 7 + M damage; A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-- **17+:** 9 + M damage; A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+- **≤11:** 4 + M damage; A < WEAK, [prone](../../Browse/Conditions/Prone)
+- **12-16:** 7 + M damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone)
+- **17+:** 9 + M damage; A < STRONG, [prone](../../Browse/Conditions/Prone)
 
 ##### Growing Ferocity
 
@@ -6523,9 +6523,9 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a creature [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you gain 1 surge.                                                                           |
+| 4               | The first time on a turn that you push a creature or knock a creature [prone](../../Browse/Conditions/Prone), you gain 1 surge.                                                                           |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you gain 2 surges.                                                                          |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature [prone](../../Browse/Conditions/Prone), you gain 2 surges.                                                                          |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
 
@@ -6533,7 +6533,7 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
-**As a [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
+**As a [null](../../Browse/Classes/Null), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
 <!-- -->
 > "Any weapon can be turned against the hand that wields it."
@@ -6566,10 +6566,10 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                            | Abilities                     | Tradition Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Tradition, Discipline, [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field, Inertial Shield, Discipline Mastery, [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Speed, Psionic Augmentation, Psionic Martial Arts, [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Null](../../Browse/Classes/Null) Tradition, Discipline, [Null](../../Browse/Classes/Null) Field, Inertial Shield, Discipline Mastery, [Null](../../Browse/Classes/Null) Speed, Psionic Augmentation, Psionic Martial Arts, [Null](../../Browse/Classes/Null) Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5           | 5                   |
 | 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field, Perk, Regenerative Field, Skill                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced [Null](../../Browse/Classes/Null) Field, Perk, Regenerative Field, Skill                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
 | 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
@@ -6579,17 +6579,17 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ### 1st-Level Features
 
-As a 1st-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 1st-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](../../Browse/Classes/Null) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null](../../Browse/Classes/Null) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -6599,7 +6599,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null](../../Browse/Classes/Null) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -6607,7 +6607,7 @@ You lose any remaining discipline at the end of the encounter.
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../Browse/Classes/Null), but they might appear in future products.)
 
 #### Null Field
 
@@ -6624,7 +6624,7 @@ You project a psionic field of order around your body, dampening the effects of 
 >
 > **Effect:** Each target reduces their potencies by 1.
 >
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../Browse/Classes/Null) Field one of the following additional effects until the start of your next turn:
 >
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -6653,7 +6653,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null](../../Browse/Classes/Null) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
 Some Discipline Mastery benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -6685,9 +6685,9 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                              |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.    |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you gain 1 surge.  |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 1 surge.  |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you gain 2 surges. |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 2 surges. |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                          |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.          |
 
@@ -6802,9 +6802,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../Browse/Conditions/Grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../Browse/Conditions/Grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -6817,9 +6817,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **12-16:** 5 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](../../Browse/Conditions/Taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](../../Browse/Conditions/Taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](../../Browse/Conditions/Taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -6851,7 +6851,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](../../Browse/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../Browse/Movement/Teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -6864,9 +6864,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 
 ##### Heroic Abilities
 
@@ -6902,7 +6902,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > | ----------------- | ----------------------------: |
 > | **📏 2 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability takes psychic damage equal to your Intuition score.
+> **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](../../Browse/Classes/Null) Field ability takes psychic damage equal to your Intuition score.
 
 <!-- -->
 > ###### Relentless Nemesis (3 Discipline)
@@ -6932,9 +6932,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 7 + A damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../Browse/Conditions/Dazed) and [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) and [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed) and [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -6951,11 +6951,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
-> **Effect:** While [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](../../Browse/Conditions/Weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -6989,7 +6989,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](../../Browse/Conditions/Slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -7010,7 +7010,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 ### 2nd-Level Features
 
-As a 2nd-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 2nd-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -7018,7 +7018,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null](../../Browse/Classes/Null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -7030,11 +7030,11 @@ Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition g
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed).
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../Browse/Conditions/Grabbed).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 
@@ -7044,7 +7044,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants your choice of one of two abilities.
+Your [null](../../Browse/Classes/Null) tradition grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -7091,9 +7091,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 13 cold damage; A < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -7104,7 +7104,7 @@ Choose one of the following heroic abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of your next turn, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+> **Effect:** Until the start of your next turn, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ##### 2nd-Level Metakinetic Ability
 
@@ -7140,19 +7140,19 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../Browse/Conditions/Bleeding) even while dying.
 
 ### 3rd-Level Features
 
-As a 3rd-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 3rd-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Psionic Leap
 
-You can long [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) and high [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.
+You can long [jump](../../Browse/Movement/Jump) and high [jump](../../Browse/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.
 
 #### Reorder
 
-At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability.
+At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](../../Browse/Classes/Null) Field ability.
 
 #### 7-Discipline Ability
 
@@ -7161,13 +7161,13 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 <!-- -->
 > ###### Absorption Field (7 Discipline)
 >
-> *Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field absorbs kinetic energy.*
+> *Your [null](../../Browse/Classes/Null) field absorbs kinetic energy.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+> **Effect:** Until the end of the encounter, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 <!-- -->
 > ###### Molecular Rearrangement Field (7 Discipline)
@@ -7178,7 +7178,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../Browse/Conditions/Bleeding) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 <!-- -->
 > ###### Stabilizing Field (7 Discipline)
@@ -7189,22 +7189,22 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+> **Effect:** Until the end of the encounter, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 <!-- -->
 > ###### Synapse Field (7 Discipline)
 >
-> *Attacks made by allies in your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
+> *Attacks made by allies in your [null](../../Browse/Classes/Null) field disrupt your enemies' thoughts, causing psychic pain.*
 >
 > | **Psionic** | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your [Null](../../Browse/Classes/Null) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ### 4th-Level Features
 
-As a 4th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 4th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -7216,7 +7216,7 @@ Your Discipline Mastery feature provides additional benefits when you have 8 or 
 
 #### Enhanced Null Field
 
-While using your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null](../../Browse/Classes/Null) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
 #### Perk
 
@@ -7224,7 +7224,7 @@ You gain one perk of your choice.
 
 #### Regenerative Field
 
-The first time each combat round that an enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](../../Browse/Classes/Null) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 #### Skill
 
@@ -7232,11 +7232,11 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 5th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### 5th-Level Tradition Feature
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null](../../Browse/Classes/Null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -7252,7 +7252,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 #### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](../../Browse/Classes/Null) Field ability equal to your Intuition score.
 
 #### Instant Action
 
@@ -7275,9 +7275,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 13 + A damage; I < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -7292,11 +7292,11 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 18 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 10 + A damage; A < WEAK, [grabbed](../../Browse/Conditions/Grabbed)
+> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../Browse/Conditions/Grabbed)
+> - **17+:** 18 + A damage; A < STRONG, [grabbed](../../Browse/Conditions/Grabbed)
 >
-> **Effect:** While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../Browse/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -7307,7 +7307,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](../../Browse/Movement/Jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](../../Browse/Classes/Null) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)
@@ -7322,7 +7322,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 ### 6th-Level Features
 
-As a 6th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 6th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Elemental Absorption
 
@@ -7338,7 +7338,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
+Your [null](../../Browse/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 
@@ -7368,9 +7368,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 damage; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **12-16:** 8 damage; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **17+:** 12 damage; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+> - **≤11:** 6 damage; M < WEAK, [dazed](../../Browse/Conditions/Dazed)
+> - **12-16:** 8 damage; M < AVERAGE, [dazed](../../Browse/Conditions/Dazed)
+> - **17+:** 12 damage; M < STRONG, [dazed](../../Browse/Conditions/Dazed)
 
 ##### 6th-Level Cryokinetic Abilities
 
@@ -7402,7 +7402,7 @@ Choose one of the following abilities.
 > | ------------------------- | --------------: |
 > | **📏 10 wall within 10**  |  **🎯 Special** |
 >
-> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends).
+> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../Browse/Conditions/Slowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](../../Browse/Conditions/Restrained) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 
@@ -7438,7 +7438,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 7th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -7490,7 +7490,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As an 8th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Perk
 
@@ -7498,7 +7498,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null](../../Browse/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -7510,15 +7510,15 @@ Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition g
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](../../Browse/Classes/Null) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](../../Browse/Classes/Null) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](../../Browse/Classes/Null) Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -7527,7 +7527,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 <!-- -->
 > ###### Arcane Purge (11 Discipline)
 >
-> *You focus your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
+> *You focus your [null](../../Browse/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
 >
 > | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 > | ---------------------------------- | ------------------: |
@@ -7552,11 +7552,11 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
-> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
+> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../Browse/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
 
 <!-- -->
 > ###### Scalar Assault (11 Discipline)
@@ -7582,21 +7582,21 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../../Browse/Classes/Null) Field ability.
 >
-> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends). While the triggering creature is [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../Browse/Conditions/Dazed) (save ends). While the triggering creature is [dazed](../../Browse/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ### 9th-Level Features
 
-As a 9th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 9th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](../../Browse/Conditions/Bleeding) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 #### 9th-Level Tradition Ability
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants your choice of one of two heroic abilities.
+Your [null](../../Browse/Classes/Null) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 
@@ -7666,11 +7666,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** While [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](../../Browse/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../Browse/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -7700,15 +7700,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
-> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed)
+> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../Browse/Conditions/Dazed)
+> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed)
+> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed)
 >
-> **Effect:** While [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+> **Effect:** While [dazed](../../Browse/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ### 10th-Level Features
 
-As a 10th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 10th-level [null](../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -7724,15 +7724,15 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 #### Manifold Resonance
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](../../Browse/Classes/Null) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your Psi Boost feature to that ability. Additionally, you and allies in the area of your [Null](../../Browse/Classes/Null) Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 
 You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](../../Browse/Classes/Null) Field by 1 until the end of the encounter.
 
 Order remains until you spend it.
 
@@ -7746,9 +7746,9 @@ You gain one skill of your choice.
 
 ## Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](../../Browse/Classes/Shadow)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
-**As a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
+**As a [shadow](../../Browse/Classes/Shadow), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
 "Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
 
@@ -7779,7 +7779,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 | Level | Features                                                                                                                                                                                                                       | Abilities                 | College Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------- |
-| 1st   | [Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, [Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) Abilities | Signature, 3, 5           | -                 |
+| 1st   | [Shadow](../../Browse/Classes/Shadow) College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, [Shadow](../../Browse/Classes/Shadow) Abilities | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                         | Signature, 3, 5           | 5                 |
 | 3rd   | Careful Observation, 7-Insight Ability                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                 |
 | 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                                                                                                                              | Signature, 3, 5, 7        | 5                 |
@@ -7792,19 +7792,19 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### 1st-Level Features
 
-As a 1st-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 1st-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Shadow College
 
-[Shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../Browse/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../Browse/Classes/Shadow) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](../../Browse/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow). Its graduates are unmatched in mobility, using sorcery to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../Browse/Classes/Shadow). Its graduates are unmatched in mobility, using sorcery to [teleport](../../Browse/Movement/Teleport) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](../../Browse/Classes/Shadow) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
@@ -7824,11 +7824,11 @@ You lose any remaining insight at the end of the encounter.
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
 #### 1st-Level College Features
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -7851,9 +7851,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../Browse/Movement/Teleport) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -7897,7 +7897,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 #### College Triggered Action
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -7946,9 +7946,9 @@ Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](../../Browse/Movement/Teleport) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../Browse/Movement/Teleport) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -7969,7 +7969,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](https://steelcompendium.io/v2/Browse/Rules/Kits/Cloak%20and%20Dagger).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../Browse/Kits/Cloak%20and%20Dagger).)
 
 #### Shadow Abilities
 
@@ -7992,7 +7992,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../Browse/Conditions/Prone)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -8075,7 +8075,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 <!-- -->
 > ###### Eviscerate (3 Insight)
 >
-> *You leave your foe [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) out after a devastating attack.*
+> *You leave your foe [bleeding](../../Browse/Conditions/Bleeding) out after a devastating attack.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |
@@ -8083,9 +8083,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)
@@ -8183,7 +8183,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 ### 2nd-Level Features
 
-As a 2nd-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 2nd-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Perk
 
@@ -8191,7 +8191,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level College Feature
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
@@ -8203,7 +8203,7 @@ Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](../../Browse/Classes/Shadow) ability to [teleport](../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ##### Friend!
 
@@ -8217,7 +8217,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 #### 2nd-Level College Ability
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -8234,9 +8234,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target 1 square
-> - **12-16:** 10 + A damage; you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 3 squares
-> - **17+:** 14 + A damage; you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](../../Browse/Movement/Teleport) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](../../Browse/Movement/Teleport) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](../../Browse/Movement/Teleport) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -8249,7 +8249,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../Browse/Movement/Teleport), you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../Browse/Movement/Teleport), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -8287,7 +8287,7 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../Browse/Conditions/Weakened) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -8321,11 +8321,11 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../Browse/Movement/Teleport) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
-As a 3rd-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 3rd-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Careful Observation
 
@@ -8372,7 +8372,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > - **12-16:** 13 + A damage
 > - **17+:** 18 + A damage
 >
-> **Effect:** The target is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by a willing ally within 5 squares of you until the end of the target's next turn.
+> **Effect:** The target is [taunted](../../Browse/Conditions/Taunted) by a willing ally within 5 squares of you until the end of the target's next turn.
 
 <!-- -->
 > ###### Pinning Shot (7 Insight)
@@ -8385,9 +8385,9 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 16 + A damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + A damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 16 + A damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Staggering Blow (7 Insight)
@@ -8400,13 +8400,13 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 11 + A damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 16 + A damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 7 + A damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 11 + A damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **17+:** 16 + A damage; M < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 
 ### 4th-Level Features
 
-As a 4th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 4th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Characteristic Increase
 
@@ -8449,11 +8449,11 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level Features
 
-As a 5th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 5th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -8471,15 +8471,15 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../Browse/Movement/Teleport) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). If no such space exists, they can't [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../Browse/Classes/Shadow) ability to [teleport](../../Browse/Movement/Teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../Browse/Movement/Teleport). If no such space exists, they can't [teleport](../../Browse/Movement/Teleport) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you fall.
+Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../Browse/Movement/Fly), you fall.
 
 #### 9-Insight Ability
 
@@ -8488,7 +8488,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 <!-- -->
 > ###### Blackout (9 Insight)
 >
-> *You cause a plume of [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
+> *You cause a plume of [shadow](../../Browse/Classes/Shadow) to erupt from your eyes and create a cloud of darkness.*
 >
 > | **Area, Magic** |   **Maneuver** |
 > | --------------- | -------------: |
@@ -8541,15 +8541,15 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 21 + A damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 10 + A damage; P < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 21 + A damage; P < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** The target can't communicate with anyone until the end of the encounter.
 
 ### 6th-Level Features
 
-As a 6th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 6th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Perk
 
@@ -8557,9 +8557,9 @@ You gain one perk of your choice.
 
 #### Umbral Form
 
-As a maneuver, you lose control of yourself, becoming a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a [shadow](../../Browse/Classes/Shadow) creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) at full speed while moving.
+- You can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -8569,7 +8569,7 @@ As a maneuver, you lose control of yourself, becoming a [shadow](https://steelco
 
 #### 6th-Level College Ability
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -8595,13 +8595,13 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cinderstorm (9 Insight)
 >
-> *You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) your friends in a burst of ash and fire.*
+> *You [teleport](../../Browse/Movement/Teleport) your friends in a burst of ash and fire.*
 >
 > | **Magic**      |                          **Maneuver** |
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -8636,7 +8636,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the end of the encounter.
+> - **12-16:** The creature can [fly](../../Browse/Movement/Fly) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
@@ -8673,7 +8673,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 7th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Characteristic Increase
 
@@ -8697,7 +8697,7 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ### 8th-Level Features
 
-As an 8th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As an 8th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Perk
 
@@ -8705,7 +8705,7 @@ You gain one perk of your choice.
 
 #### 8th-Level College Feature
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -8717,7 +8717,7 @@ Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). When you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, it counts as using a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport). When you [teleport](../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
@@ -8749,7 +8749,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Assassinate (11 Insight)
 >
-> *A practiced attack will instantly kill an already [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) foe.*
+> *A practiced attack will instantly kill an already [weakened](../../Browse/Conditions/Weakened) foe.*
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -8766,7 +8766,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 <!-- -->
 > ###### Shadowgrasp (11 Insight)
 >
-> *The shadows around you give way, allowing the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature within you to grasp at your foes.*
+> *The shadows around you give way, allowing the [shadow](../../Browse/Classes/Shadow) creature within you to grasp at your foes.*
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |
@@ -8774,9 +8774,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 11 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 21 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 11 corruption damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 
 <!-- -->
 > ###### Speed of Shadows (11 Insight)
@@ -8800,13 +8800,13 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 18 damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 24 damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 12 damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 24 damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 ### 9th-Level Features
 
-As a 9th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 9th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Gloom Squad
 
@@ -8816,7 +8816,7 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 
 #### 9th-Level College Ability
 
-Your [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 
@@ -8825,7 +8825,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cacophony of Cinders (11 Insight)
 >
-> *You tumble through the battle, stabbing foes and [teleporting](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) allies.*
+> *You tumble through the battle, stabbing foes and [teleporting](../../Browse/Movement/Teleport) allies.*
 >
 > | **Magic, Melee, Weapon** | **Main action** |
 > | ------------------------ | --------------: |
@@ -8835,9 +8835,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../Browse/Movement/Teleport) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../Browse/Movement/Teleport) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../Browse/Movement/Teleport) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -8854,7 +8854,7 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](../../Browse/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
@@ -8928,7 +8928,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow), you gain the following features.
+As a 10th-level [shadow](../../Browse/Classes/Shadow), you gain the following features.
 
 #### Characteristic Increase
 
@@ -8952,9 +8952,9 @@ You can target three creatures simultaneously with your Careful Observation abil
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../../Browse/Classes/Shadow) creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
+While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
@@ -8968,7 +8968,7 @@ Subterfuge remains until you spend it.
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-**As a [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
+**As a [tactician](../../Browse/Classes/Tactician), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
 <!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
@@ -9001,7 +9001,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 | Level | Features                                                                                                                                                                             | Abilities      | Doctrine Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) Abilities | 3, 5           | -                  |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](../../Browse/Classes/Tactician) Abilities | 3, 5           | -                  |
 | 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                             | 3, 5           | 5                  |
 | 3rd   | Out of Position, 7-Focus Ability                                                                                                                                                     | 3, 5, 7        | 5                  |
 | 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                                                                                | 3, 5, 7        | 5                  |
@@ -9014,7 +9014,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ### 1st-Level Features
 
-As a 1st-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 1st-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Tactical Doctrine
 
@@ -9042,12 +9042,12 @@ You lose any remaining focus at the end of the encounter.
 
 Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../Browse/Classes/Tactician), but they might appear in future products.)
 
 <!-- -->
-> **[Tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) Abilities Explained**
+> **[Tactician](../../Browse/Classes/Tactician) Abilities Explained**
 >
-> Many of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician)'s abilities are the actual commands they give their friends!
+> Many of the [tactician](../../Browse/Classes/Tactician)'s abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](../../Browse/Classes/Tactician) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](../../Browse/Classes/Tactician) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician](../../Browse/Classes/Tactician)'s abilities are the actual commands they give their friends!
 
 #### 1st-Level Doctrine Feature
 
@@ -9129,7 +9129,7 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 >
-> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT).
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../Browse/Conditions/Slowed) (EoT).
 
 <!-- -->
 > ###### Parry
@@ -9148,11 +9148,11 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor), [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../../Browse/Kits/Shining%20Armor), [Sniper](../../Browse/Kits/Sniper).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) and [Sniper](https://steelcompendium.io/v2/Browse/Rules/Kits/Sniper) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../Browse/Kits/Shining%20Armor) and [Sniper](../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -9163,7 +9163,7 @@ For example, if you take the [Shining Armor](https://steelcompendium.io/v2/Brows
 - Disengage Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](https://steelcompendium.io/v2/Browse/Rules/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](https://steelcompendium.io/v2/Browse/Rules/Kits/Mountain) kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -9178,16 +9178,16 @@ You know how to focus the attention of your allies as you push them toward victo
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../Browse/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
 > - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-> - If you damage a creature marked by you with a melee ability, the creature is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you until the end of their next turn.
+> - If you damage a creature marked by you with a melee ability, the creature is [taunted](../../Browse/Conditions/Taunted) by you until the end of their next turn.
 >
 > You can't gain more than one benefit from the same trigger.
 
@@ -9250,9 +9250,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 <!-- -->
 > ###### Inspiring Strike (3 Focus)
@@ -9314,9 +9314,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; R < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; R < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; R < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 + M damage; R < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 
@@ -9344,7 +9344,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 ### 2nd-Level Features
 
-As a 2nd-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 2nd-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Perk
 
@@ -9410,9 +9410,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 
 ##### 2nd-Level Mastermind Ability
 
@@ -9429,9 +9429,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **12-16:** 9 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **17+:** 12 + R damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
+> - **≤11:** 5 + R damage; [taunted](../../Browse/Conditions/Taunted) (EoT)
+> - **12-16:** 9 + R damage; [taunted](../../Browse/Conditions/Taunted) (EoT)
+> - **17+:** 12 + R damage; [taunted](../../Browse/Conditions/Taunted) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -9467,9 +9467,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](../../Browse/Conditions/Frightened) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](../../Browse/Conditions/Frightened) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](../../Browse/Conditions/Frightened) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)
@@ -9484,7 +9484,7 @@ Choose one of the following abilities.
 
 ### 3rd-Level Features
 
-As a 3rd-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 3rd-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Out of Position
 
@@ -9525,7 +9525,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of the creature who dealt the damage (save ends).
+> **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../Browse/Conditions/Frightened) of the creature who dealt the damage (save ends).
 
 <!-- -->
 > ###### Stay Strong and Focus! (7 Focus)
@@ -9540,7 +9540,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 ### 4th-Level Features
 
-As a 4th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 4th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Characteristic Increase
 
@@ -9564,7 +9564,7 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 5th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### 5th-Level Doctrine Features
 
@@ -9643,7 +9643,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are [prone](../../Browse/Conditions/Prone).
 
 <!-- -->
 > ###### You've Still Got Something Left (9 Focus)
@@ -9658,7 +9658,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 
 ### 6th-Level Features
 
-As a 6th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 6th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Master of Arms
 
@@ -9753,9 +9753,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** A < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** A < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** A < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** A < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** A < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** A < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 <!-- -->
 > ###### To Me Squad! (9 Focus)
@@ -9772,11 +9772,11 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
 > - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
 >
-> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
+> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../Browse/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
 ### 7th-Level Features
 
-As a 7th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 7th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Characteristic Increase
 
@@ -9820,7 +9820,7 @@ You have expanded your leadership skills, strengthening your followers' morale a
 
 ### 8th-Level Features
 
-As an 8th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As an 8th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Perk
 
@@ -9914,7 +9914,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 ### 9th-Level Features
 
-As a 9th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 9th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Grandmaster of Arms
 
@@ -9931,7 +9931,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Squad! Hit and Run! (11 Focus)
 >
-> *I had to pry this secret from the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) colleges.*
+> *I had to pry this secret from the [shadow](../../Browse/Classes/Shadow) colleges.*
 >
 > | **Ranged**       |            **Main action** |
 > | ---------------- | -------------------------: |
@@ -9952,9 +9952,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** R < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** R < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** R < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** R < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 
 ##### 9th-Level Mastermind Abilities
 
@@ -10026,7 +10026,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As a 10th-level [tactician](../../Browse/Classes/Tactician), you gain the following features.
 
 #### Characteristic Increase
 
@@ -10060,9 +10060,9 @@ Additionally, whenever an ally uses a heroic ability that targets one or more cr
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent)'s abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent](../../Browse/Classes/Talent)'s abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
-**As a [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) who use too much power too quickly pay a deadly price.**
+**As a [talent](../../Browse/Classes/Talent), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](../../Browse/Classes/Talent) who use too much power too quickly pay a deadly price.**
 
 <!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
@@ -10095,7 +10095,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                                                                                                                                                                                       | Abilities                     | Tradition Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) Ward, Telepathic Speech, Tradition Features, [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Talent](../../Browse/Classes/Talent) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](../../Browse/Classes/Talent) Ward, Telepathic Speech, Tradition Features, [Talent](../../Browse/Classes/Talent) Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                     | Two signature, 3, 5           | 5                   |
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                                                                                                                                                                                           | Two signature, 3, 5, 7        | 5                   |
@@ -10108,11 +10108,11 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### 1st-Level Features
 
-As a 1st-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 1st-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](../../Browse/Classes/Talent) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -10123,7 +10123,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../Browse/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../Browse/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](../../Browse/Classes/Talent) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -10172,7 +10172,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
 
 ##### Battle Augmentation
 
@@ -10222,7 +10222,7 @@ You know the Mindspeech language (see Languages in Orden in Chapter 4: Backgroun
 
 #### 1st-Level Tradition Features
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
@@ -10239,7 +10239,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) down.*
+> *To your ally, it seems as though the world has [slowed](../../Browse/Conditions/Slowed) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |
@@ -10338,7 +10338,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](../../Browse/Classes/Talent) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -10355,9 +10355,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -10374,11 +10374,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed) (EoT)
 >
-> **Strained:** You are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) by this ability is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) instead.
+> **Strained:** You are [slowed](../../Browse/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](../../Browse/Conditions/Slowed) by this ability is [restrained](../../Browse/Conditions/Restrained) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -10412,7 +10412,7 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **17+:** Slide 6 + R; [prone](../../Browse/Conditions/Prone)
 >
 > **Strained:** You must vertical push the target instead of sliding them.
 
@@ -10431,7 +10431,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../Browse/Conditions/Bleeding) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -10463,9 +10463,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** 4 + R damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** 6 + R damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **≤11:** 2 + R damage; M < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** 6 + R damage; M < STRONG, [prone](../../Browse/Conditions/Prone)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >
@@ -10511,9 +10511,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### Choke (3 Clarity)
@@ -10526,11 +10526,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 8 + R damage; M < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
-> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) by this ability, this forced movement ignores their stability.
+> **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their stability.
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -10575,7 +10575,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](../../Browse/Conditions/Slowed) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -10588,7 +10588,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 >
-> **Strained:** You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends). While you are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+> **Strained:** You are [weakened](../../Browse/Conditions/Weakened) (save ends). While you are [weakened](../../Browse/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
 <!-- -->
 > ###### Iron (5 Clarity)
@@ -10618,7 +10618,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### 2nd-Level Features
 
-As a 2nd-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 2nd-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Perk
 
@@ -10626,7 +10626,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Tradition Feature
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -10650,7 +10650,7 @@ Whenever you land after a fall, or if any falling creature lands within 2 square
 
 #### 2nd-Level Tradition Ability
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Chronopathy Ability
 
@@ -10671,7 +10671,7 @@ Choose one of the following abilities.
 > - **12-16:** You target three creatures, one of which can be you.
 > - **17+:** You target four creatures, one of which can be you.
 >
-> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), that condition ends for them.
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../Browse/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](../../Browse/Conditions/Dazed), that condition ends for them.
 >
 > **Strained:** Your speed is halved until the end of the encounter.
 
@@ -10686,9 +10686,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
-> - **12-16:** The target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../Browse/Conditions/Slowed) (save ends).
+> - **12-16:** The target is [slowed](../../Browse/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../Browse/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >
@@ -10713,7 +10713,7 @@ Choose one of the following abilities.
 > - **12-16:** 6 damage; vertical push 4
 > - **17+:** 9 damage; vertical push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](../../Browse/Conditions/Weakened) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -10726,9 +10726,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** 10 + R damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** 14 + R damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** 14 + R damage; M < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.
 
@@ -10747,9 +10747,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
 
@@ -10770,11 +10770,11 @@ Choose one of the following abilities.
 >
 > **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 >
-> **Strained:** You take 1d6 damage and are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the end of your turn.
+> **Strained:** You take 1d6 damage and are [weakened](../../Browse/Conditions/Weakened) until the end of your turn.
 
 ### 3rd-Level Features
 
-As a 3rd-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 3rd-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Scan
 
@@ -10795,13 +10795,13 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../Browse/Ancestries/Human)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ###### Force Orbs (7 Clarity)
@@ -10822,7 +10822,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 > - **12-16:** 3 damage
 > - **17+:** 5 damage
 >
-> **Strained:** You create five orbs, and you are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) while you have any orbs active.
+> **Strained:** You create five orbs, and you are [weakened](../../Browse/Conditions/Weakened) while you have any orbs active.
 
 <!-- -->
 > ###### Reflector Field (7 Clarity)
@@ -10840,7 +10840,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 <!-- -->
 > ###### Soul Burn (7 Clarity)
 >
-> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) husk.*
+> *You blast their soul out of their body, leaving it to helplessly float back to a [weakened](../../Browse/Conditions/Weakened) husk.*
 >
 > | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
 > | ------------------------------------------- | ------------------: |
@@ -10848,9 +10848,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 6 + P damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** 14 + P damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** 6 + P damage; P < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** 14 + P damage; P < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 >
@@ -10858,7 +10858,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 ### 4th-Level Features
 
-As a 4th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 4th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Characteristic Increase
 
@@ -10866,7 +10866,7 @@ Your Reason and Presence scores each increase to 3.
 
 #### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../Browse/Conditions/Prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -10886,17 +10886,17 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). While [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), your stability is reduced to 0 and can't be increased. If you can already [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you have a +2 bonus to speed while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) instead.
+You can [fly](../../Browse/Movement/Fly). While [flying](../../Browse/Movement/Fly), your stability is reduced to 0 and can't be increased. If you can already [fly](../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../Browse/Movement/Fly) instead.
 
-If you are strained while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](../../Browse/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
-As a 5th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 5th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### 5th-Level Tradition Features
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -10945,7 +10945,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 >
-> **Strained:** The target gains 2 surges. You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
+> **Strained:** The target gains 2 surges. You are [weakened](../../Browse/Conditions/Weakened) and [slowed](../../Browse/Conditions/Slowed) (save ends).
 
 <!-- -->
 > ###### Hypersonic (9 Clarity)
@@ -10956,7 +10956,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > | -------------------------------------- | ----------------------------: |
 > | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 >
-> **Effect:** You [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
+> **Effect:** You [teleport](../../Browse/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
 >
 > **Power Roll + Reason:**
 >
@@ -10964,7 +10964,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > - **12-16:** 18 sonic damage
 > - **17+:** 24 sonic damage
 >
-> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of your turn and each target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the end of their turn.
+> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../Browse/Conditions/Slowed) until the end of your turn and each target is [slowed](../../Browse/Conditions/Slowed) until the end of their turn.
 
 <!-- -->
 > ###### Mind Snare (9 Clarity)
@@ -10977,13 +10977,13 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
-> **Effect:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
+> **Effect:** While [slowed](../../Browse/Conditions/Slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
 >
-> **Strained:** While [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) this way.
+> **Strained:** While [slowed](../../Browse/Conditions/Slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../Browse/Conditions/Slowed) this way.
 
 <!-- -->
 > ###### Soulbound (9 Clarity)
@@ -11006,7 +11006,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 ### 6th-Level Features
 
-As a 6th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 6th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Perk
 
@@ -11046,7 +11046,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### 6th-Level Tradition Ability
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 
@@ -11061,9 +11061,9 @@ Choose one of the following abilities.
 > | ------------------------------- | ---------------: |
 > | **📏 Melee 2**                  | **🎯 One enemy** |
 >
-> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../Browse/Conditions/Prone).
 >
-> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends).
+> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../Browse/Conditions/Weakened) (save ends).
 >
 > **Power Roll + Presence:**
 >
@@ -11080,17 +11080,17 @@ Choose one of the following abilities.
 > | -------------------------------------- | ------------------------------------------: |
 > | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 >
-> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../Browse/Conditions/Restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
 >
 > Make a power roll that targets each enemy in the area.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** P < WEAK, the target is [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) until the effect ends
+> - **≤11:** P < WEAK, the target is [slowed](../../Browse/Conditions/Slowed) until the effect ends
 > - **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
-> - **17+:** P < STRONG, the target is [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the effect ends
+> - **17+:** P < STRONG, the target is [restrained](../../Browse/Conditions/Restrained) until the effect ends
 >
-> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) in the area can be force moved. You are [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) until the effect ends.
+> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../Browse/Conditions/Restrained) in the area can be force moved. You are [restrained](../../Browse/Conditions/Restrained) until the effect ends.
 
 ##### 6th-Level Telekinesis Abilities
 
@@ -11128,9 +11128,9 @@ Choose one of the following abilities.
 >
 > - **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
 > - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-> - **17+:** Slide 12 + R; [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone); M < STRONG, the forced movement is vertical
+> - **17+:** Slide 12 + R; [prone](../../Browse/Conditions/Prone); M < STRONG, the forced movement is vertical
 >
-> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends).
+> **Strained:** The forced movement ignores stability. You take 2d6 damage and are [weakened](../../Browse/Conditions/Weakened) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 
@@ -11174,7 +11174,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 7th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Ancestral Memory
 
@@ -11198,7 +11198,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As an 8th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Perk
 
@@ -11206,7 +11206,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Features
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -11233,13 +11233,13 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../../Browse/Movement/Fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../Browse/Movement/Fly), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
 ##### Low Gravity
 
-Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](../../Browse/Conditions/Prone).
 
 ##### Mindlink
 
@@ -11260,7 +11260,7 @@ You have the following ability.
 >
 > **Trigger:** The target takes damage.
 >
-> **Effect:** The target is [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+> **Effect:** The target is [teleported](../../Browse/Movement/Teleport) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 >
 > **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -11283,9 +11283,9 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 10 + P damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 20 + P damage; P < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + P damage; P < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 20 + P damage; P < STRONG, [weakened](../../Browse/Conditions/Weakened) and [slowed](../../Browse/Conditions/Slowed) (save ends)
 >
 > **Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 >
@@ -11325,7 +11325,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](https://steelcompendium.io/v2/Browse/Rules/Ancestries/Human) years, to the minimum of an 18-year-old). Additionally, you are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../Browse/Ancestries/Human) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../Browse/Conditions/Weakened) and [slowed](../../Browse/Conditions/Slowed) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)
@@ -11336,13 +11336,13 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target has damage immunity 5 and can't be made [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) or [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+> **Effect:** The target has damage immunity 5 and can't be made [slowed](../../Browse/Conditions/Slowed) or [weakened](../../Browse/Conditions/Weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
 >
 > **Strained:** You can't use maneuvers (save ends).
 
 ### 9th-Level Features
 
-As a 9th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 9th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Fortress of Perfect Thought
 
@@ -11352,11 +11352,11 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) or [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened).
+- You can't be made [taunted](../../Browse/Conditions/Taunted) or [frightened](../../Browse/Conditions/Frightened).
 
 #### 9th-Level Tradition Ability
 
-Your [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -11377,9 +11377,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 6 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 10 corruption damage; [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+> - **≤11:** 4 corruption damage; [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 10 corruption damage; [slowed](../../Browse/Conditions/Slowed) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -11432,7 +11432,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](../../Browse/Conditions/Weakened) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -11470,15 +11470,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** R < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** R < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** R < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** R < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.
 
 ### 10th-Level Features
 
-As a 10th-level [talent](https://steelcompendium.io/v2/Browse/Rules/Classes/Talent), you gain the following features.
+As a 10th-level [talent](../../Browse/Classes/Talent), you gain the following features.
 
 #### Characteristic Increase
 
@@ -11516,9 +11516,9 @@ Vision remains until you spend it.
 
 ## Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../../Browse/Classes/Troubadour). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](../../Browse/Classes/Troubadour), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -11550,7 +11550,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 | Level | Features                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
+| 1st   | [Troubadour](../../Browse/Classes/Troubadour) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
 | 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                                                                                                                                            | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                   |
@@ -11563,17 +11563,17 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ### 1st-Level Features
 
-As a 1st-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 1st-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Troubadour Class Act
 
-Panache, melody, and depiction. Some [troubadours](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) have it all, but everyone starts somewhere. Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](../../Browse/Classes/Troubadour) have it all, but everyone starts somewhere. Your [troubadour](../../Browse/Classes/Troubadour) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../../Browse/Classes/Troubadour) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
 - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour](../../Browse/Classes/Troubadour) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
@@ -11601,7 +11601,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
-> **The Auteur [Troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour)**
+> **The Auteur [Troubadour](../../Browse/Classes/Troubadour)**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
@@ -11613,7 +11613,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](https://steelcompendium.io/v2/Browse/Rules/Kits/Swashbuckler).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](../../Browse/Kits/Swashbuckler).)
 
 #### Scene Partner
 
@@ -11623,7 +11623,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 #### Routines
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../Browse/Conditions/Dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the Choreography and Revitalizing Limerick performance abilities. Your choice of class act grants you additional performances.
 
@@ -11651,7 +11651,7 @@ You start off with the Choreography and Revitalizing Limerick performance abilit
 
 #### 1st-Level Class Act Features
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
@@ -11674,7 +11674,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump), tumble, or [climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../Browse/Movement/Jump), tumble, or [climb](../../Browse/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
 
 ##### Blocking
 
@@ -11689,7 +11689,7 @@ You have the following performance ability, which is usable with your Routines f
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../Browse/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](../../Browse/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ##### Dramatic Monologue
 
@@ -11782,7 +11782,7 @@ You have the following performance abilities, which are usable with your Routine
 
 #### Class Act Triggered Action
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
@@ -11873,9 +11873,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Instigator
@@ -11892,7 +11892,7 @@ Choose one signature ability from the following options. Signature abilities can
 > - **12-16:** 6 + P damage
 > - **17+:** 9 + P damage
 >
-> **Effect:** The target is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+> **Effect:** The target is [taunted](../../Browse/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 <!-- -->
 > ###### Witty Banter
@@ -11949,9 +11949,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 1; I < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **12-16:** Slide 1; I < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
-> - **17+:** Slide 2; I < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) (save ends)
+> - **≤11:** Slide 1; I < WEAK, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **12-16:** Slide 1; I < AVERAGE, [dazed](../../Browse/Conditions/Dazed) (save ends)
+> - **17+:** Slide 2; I < STRONG, [dazed](../../Browse/Conditions/Dazed) (save ends)
 >
 > **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -11966,9 +11966,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](../../Browse/Conditions/Restrained) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -11985,9 +11985,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Agility or Presence:**
 >
-> - **≤11:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** [Taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT); A < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (EoT)
+> - **≤11:** [Taunted](../../Browse/Conditions/Taunted) (EoT); A < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** [Taunted](../../Browse/Conditions/Taunted) (EoT); A < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** [Taunted](../../Browse/Conditions/Taunted) (EoT); A < STRONG, [prone](../../Browse/Conditions/Prone) and can't stand (EoT)
 
 ###### 5-Drama Ability
 
@@ -12028,7 +12028,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to 5 squares. Any [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) target who was [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) is no longer [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed).
+> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport) up to 5 squares. Any [teleported](../../Browse/Movement/Teleport) target who was [slowed](../../Browse/Conditions/Slowed) is no longer [slowed](../../Browse/Conditions/Slowed).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -12041,15 +12041,15 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 14 + A damage; P < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 6 + A damage; P < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 14 + A damage; P < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
-> **Effect:** You can become [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+> **Effect:** You can become [bleeding](../../Browse/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
 
 ### 2nd-Level Features
 
-As a 2nd-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 2nd-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Appeal to the Muses
 
@@ -12087,7 +12087,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Class Act Ability
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 
@@ -12181,11 +12181,11 @@ Choose one of the following abilities.
 
 ### 3rd-Level Features
 
-As a 3rd-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 3rd-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### 3rd-Level Class Act Feature
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
@@ -12227,7 +12227,7 @@ You have the following performance abilities, which are usable with your Routine
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../Browse/Conditions/Bleeding) until the end of their turn.
 
 #### 7-Drama Ability
 
@@ -12261,9 +12261,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 fire damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 10 fire damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 5 fire damage; A < WEAK, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 10 fire damage; A < STRONG, [weakened](../../Browse/Conditions/Weakened) (save ends)
 >
 > **Effect:** Each ally in the area can shift up to 2 squares.
 
@@ -12299,7 +12299,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ### 4th-Level Features
 
-As a 4th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 4th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 
@@ -12347,11 +12347,11 @@ You can ask the Director for three rumors regarding the area you're in or an are
 
 ### 5th-Level Features
 
-As a 5th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 5th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### 5th-Level Class Act Feature
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two features.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants your choice of one of two features.
 
 ##### Auteur Features
 
@@ -12359,7 +12359,7 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding), [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed), or [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: [bleeding](../../Browse/Conditions/Bleeding), [frightened](../../Browse/Conditions/Frightened), [prone](../../Browse/Conditions/Prone), [slowed](../../Browse/Conditions/Slowed), or [taunted](../../Browse/Conditions/Taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../Browse/Conditions/Prone) can stand up.
 
 ###### Take Two!
 
@@ -12441,7 +12441,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 > | ----------------- | -------------------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy or object** |
 >
-> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../../Browse/Conditions/Weakened), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
 <!-- -->
 > ###### Love Song (9 Drama)
@@ -12471,7 +12471,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 
 ### 6th-Level Features
 
-As a 6th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 6th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -12494,7 +12494,7 @@ You have the following performance ability, which is usable with your Routines f
 
 #### 6th-Level Class Act Ability
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -12511,9 +12511,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](../../Browse/Conditions/Frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -12541,9 +12541,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
-> - **17+:** 24 + A damage; [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 24 + A damage; [bleeding](../../Browse/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -12569,13 +12569,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) target ignores this ability.
+> **Effect:** A [prone](../../Browse/Conditions/Prone) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](../../Browse/Conditions/Prone)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](../../Browse/Conditions/Prone)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](../../Browse/Conditions/Prone)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)
@@ -12590,7 +12590,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 7th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Characteristic Increase
 
@@ -12612,7 +12612,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As an 8th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Perk
 
@@ -12620,7 +12620,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Class Act Feature
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 
@@ -12679,7 +12679,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) ally can then make a melee free strike.
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../Browse/Movement/Teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../Browse/Movement/Teleport) ally can then make a melee free strike.
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -12727,17 +12727,17 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 ### 9th-Level Features
 
-As a 9th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 9th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened), and if you are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone), you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](../../Browse/Conditions/Frightened), and if you are [prone](../../Browse/Conditions/Prone), you can stand up as a free maneuver.
 
 Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
-Your [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Auteur Abilities
 
@@ -12769,7 +12769,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) or [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../Browse/Conditions/Slowed) or [weakened](../../Browse/Conditions/Weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -12788,7 +12788,7 @@ Choose one of the following abilities.
 >
 > - **≤11:** 15 + A damage
 > - **12-16:** 21 + A damage
-> - **17+:** 28 + A damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) (save ends)
+> - **17+:** 28 + A damage; M < STRONG, [bleeding](../../Browse/Conditions/Bleeding) (save ends)
 >
 > **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 
@@ -12849,7 +12849,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [troubadour](https://steelcompendium.io/v2/Browse/Rules/Classes/Troubadour), you gain the following features.
+As a 10th-level [troubadour](../../Browse/Classes/Troubadour), you gain the following features.
 
 #### Applause
 

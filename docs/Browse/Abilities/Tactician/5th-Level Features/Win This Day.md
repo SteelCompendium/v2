@@ -32,4 +32,4 @@ type: feature/ability/tactician/5th-level-feature
 | -------------- | ------------------------------------: |
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone).
+**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are [prone](../../../../../Browse/Conditions/Prone).

@@ -19,4 +19,4 @@ type: feature/trait/censor/4th-level-feature
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly). If you can already [fly](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you have a +2 bonus to speed while [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly) instead.
+While you have 5 or more Victories, you can [fly](../../../../../Browse/Movement/Fly). If you can already [fly](../../../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly) instead.

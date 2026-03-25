@@ -14,11 +14,11 @@ type: class/null/level
 
 ### 5th-Level Features
 
-As a 5th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 5th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### 5th-Level Tradition Feature
 
-Your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -34,7 +34,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 #### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](../../../../Browse/Classes/Null) Field ability equal to your Intuition score.
 
 #### Instant Action
 
@@ -57,9 +57,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-> - **17+:** 13 + A damage; I < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -74,11 +74,11 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 18 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 10 + A damage; A < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed)
 >
-> **Effect:** While [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../../../Browse/Conditions/Grabbed) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -89,7 +89,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](https://steelcompendium.io/v2/Browse/Rules/Movement/Jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](../../../../Browse/Movement/Jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](../../../../Browse/Classes/Null) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)

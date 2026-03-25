@@ -18,4 +18,4 @@ type: feature/trait/null/4th-level-feature
 
 #### Regenerative Field
 
-The first time each combat round that an enemy in the area of your [Null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](../../../../../Browse/Classes/Null) Field ability uses a main action, you gain 2 discipline instead of 1.

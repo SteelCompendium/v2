@@ -14,11 +14,11 @@ type: class/censor/level
 
 ### 3rd-Level Features
 
-As a 3rd-level [censor](https://steelcompendium.io/v2/Browse/Rules/Classes/Censor), you gain the following features.
+As a 3rd-level [censor](../../../../Browse/Classes/Censor), you gain the following features.
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you (save ends). If the target is already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../../../../Browse/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](../../../../Browse/Conditions/Frightened) of you (save ends). If the target is already [frightened](../../../../Browse/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 

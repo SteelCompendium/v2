@@ -19,4 +19,4 @@ type: feature/trait/shadow/8th-level-feature
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport). When you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, it counts as using a [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport). When you [teleport](../../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.

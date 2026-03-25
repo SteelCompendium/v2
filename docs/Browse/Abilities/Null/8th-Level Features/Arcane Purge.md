@@ -29,7 +29,7 @@ type: feature/ability/null/8th-level-feature
 
 ###### Arcane Purge (11 Discipline)
 
-*You focus your [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null](../../../../../Browse/Classes/Null) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 | ---------------------------------- | ------------------: |

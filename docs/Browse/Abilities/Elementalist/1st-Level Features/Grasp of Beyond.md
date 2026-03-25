@@ -27,7 +27,7 @@ type: feature/ability/elementalist/1st-level-feature
 
 ###### Grasp of Beyond
 
-*You absorb the life energy of another creature and use it to [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport).*
+*You absorb the life energy of another creature and use it to [teleport](../../../../../Browse/Movement/Teleport).*
 
 | **Magic, Melee, Strike, Void** |     **Main action** |
 | ------------------------------ | ------------------: |
@@ -39,4 +39,4 @@ type: feature/ability/elementalist/1st-level-feature
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](../../../../../Browse/Movement/Teleport) up to a number of squares equal to your Reason score.

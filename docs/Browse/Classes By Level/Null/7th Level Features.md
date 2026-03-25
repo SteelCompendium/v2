@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 7th-Level Features
 
-As a 7th-level [null](https://steelcompendium.io/v2/Browse/Rules/Classes/Null), you gain the following features.
+As a 7th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 

@@ -37,9 +37,9 @@ type: feature/ability/talent/8th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 10 + P damage; P < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **12-16:** 14 + P damage; P < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **17+:** 20 + P damage; P < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) and [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
+- **≤11:** 10 + P damage; P < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **12-16:** 14 + P damage; P < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **17+:** 20 + P damage; P < STRONG, [weakened](../../../../../Browse/Conditions/Weakened) and [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
 
 **Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 

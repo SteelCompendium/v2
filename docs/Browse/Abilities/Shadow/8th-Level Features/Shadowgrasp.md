@@ -27,7 +27,7 @@ type: feature/ability/shadow/8th-level-feature
 
 ###### Shadowgrasp (11 Insight)
 
-*The shadows around you give way, allowing the [shadow](https://steelcompendium.io/v2/Browse/Rules/Classes/Shadow) creature within you to grasp at your foes.*
+*The shadows around you give way, allowing the [shadow](../../../../../Browse/Classes/Shadow) creature within you to grasp at your foes.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
@@ -35,6 +35,6 @@ type: feature/ability/shadow/8th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 11 corruption damage; A < WEAK, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
-- **17+:** 21 corruption damage; A < STRONG, [restrained](https://steelcompendium.io/v2/Browse/Rules/Conditions/Restrained) (save ends)
+- **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+- **17+:** 21 corruption damage; A < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)

@@ -17,4 +17,4 @@ type: culture\_benefit/upbringing
 
 A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
-**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; [Climb](https://steelcompendium.io/v2/Browse/Rules/Movement/Climb%20or%20Swim), Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)
+**Skill Options:** One of the following: Blacksmithing or Fletching from the crafting skill group; [Climb](../../../../Browse/Movement/Climb%20or%20Swim), Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group (*Quick Build:* Intimidate.)

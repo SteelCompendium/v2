@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 8th-Level Features
 
-As an 8th-level [tactician](https://steelcompendium.io/v2/Browse/Rules/Classes/Tactician), you gain the following features.
+As an 8th-level [tactician](../../../../Browse/Classes/Tactician), you gain the following features.
 
 #### Perk
 

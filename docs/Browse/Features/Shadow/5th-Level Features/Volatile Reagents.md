@@ -21,4 +21,4 @@ type: feature/trait/shadow/5th-level-feature
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](https://steelcompendium.io/v2/Browse/Rules/Movement/Fly), you fall.
+Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../../../Browse/Movement/Fly), you fall.

@@ -36,8 +36,8 @@ type: feature/ability/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; M < WEAK, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **12-16:** 6 + M damage; M < AVERAGE, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-- **17+:** 10 + M damage; M < STRONG, [bleeding](https://steelcompendium.io/v2/Browse/Rules/Conditions/Bleeding) and [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+- **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) and [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) and [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+- **17+:** 10 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) and [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.

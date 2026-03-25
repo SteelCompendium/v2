@@ -37,6 +37,6 @@ type: feature/ability/shadow/3rd-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; M < WEAK, [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) (save ends)
-- **12-16:** 11 + A damage; M < AVERAGE, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
-- **17+:** 16 + A damage; M < STRONG, [prone](https://steelcompendium.io/v2/Browse/Rules/Conditions/Prone) and can't stand (save ends)
+- **≤11:** 7 + A damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+- **12-16:** 11 + A damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone) and can't stand (save ends)
+- **17+:** 16 + A damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone) and can't stand (save ends)

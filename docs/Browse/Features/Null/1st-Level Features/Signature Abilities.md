@@ -82,9 +82,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Grabbed)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../../Browse/Conditions/Grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../../Browse/Conditions/Grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../../Browse/Conditions/Grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -97,9 +97,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT)
-> - **12-16:** 5 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](../../../../../Browse/Conditions/Taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -131,7 +131,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](https://steelcompendium.io/v2/Browse/Rules/Movement/Teleport) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](../../../../../Browse/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../../Browse/Movement/Teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -144,6 +144,6 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)

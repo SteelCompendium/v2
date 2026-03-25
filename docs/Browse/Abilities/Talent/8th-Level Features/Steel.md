@@ -34,6 +34,6 @@ type: feature/ability/talent/8th-level-feature
 | ---------------------------------- | ----------------------: |
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has damage immunity 5 and can't be made [slowed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Slowed) or [weakened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+**Effect:** The target has damage immunity 5 and can't be made [slowed](../../../../../Browse/Conditions/Slowed) or [weakened](../../../../../Browse/Conditions/Weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
 
 **Strained:** You can't use maneuvers (save ends).

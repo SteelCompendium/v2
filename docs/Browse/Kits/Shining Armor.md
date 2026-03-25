@@ -14,7 +14,7 @@ type: kit
 
 #### Shining Armor
 
-The [Shining Armor](https://steelcompendium.io/v2/Browse/Rules/Kits/Shining%20Armor) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The [Shining Armor](../../../Browse/Kits/Shining%20Armor) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment
 
@@ -44,4 +44,4 @@ You wear heavy armor and wield a shield and a medium weapon.
 - **12-16:** 8 + M or A damage
 - **17+:** 11 + M or A damage
 
-**Effect:** The target is [taunted](https://steelcompendium.io/v2/Browse/Rules/Conditions/Taunted) until the end of their next turn.
+**Effect:** The target is [taunted](../../../Browse/Conditions/Taunted) until the end of their next turn.

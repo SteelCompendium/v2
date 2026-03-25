@@ -31,11 +31,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
 >
-> **Effect:** If the target is already [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](../../../../../Browse/Conditions/Frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)

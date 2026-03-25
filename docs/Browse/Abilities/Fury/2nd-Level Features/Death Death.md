@@ -36,6 +36,6 @@ type: feature/ability/fury/2nd-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; P < WEAK, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-- **12-16:** 5 + M damage; P < AVERAGE, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
-- **17+:** 8 + M damage; P < STRONG, [dazed](https://steelcompendium.io/v2/Browse/Rules/Conditions/Dazed) and [frightened](https://steelcompendium.io/v2/Browse/Rules/Conditions/Frightened) (save ends)
+- **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) and [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+- **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) and [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+- **17+:** 8 + M damage; P < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) and [frightened](../../../../../Browse/Conditions/Frightened) (save ends)

@@ -18,4 +18,4 @@ type: feature/trait/censor/1st-level-feature
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](https://steelcompendium.io/v2/Browse/Rules/Kits/Warrior%20Priest).)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../../../../../Browse/Kits/Warrior%20Priest).)
