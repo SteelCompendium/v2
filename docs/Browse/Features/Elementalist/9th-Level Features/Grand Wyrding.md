@@ -18,6 +18,6 @@ type: feature/trait/elementalist/9th-level-feature
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your Wyrding feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../../../../Browse/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.

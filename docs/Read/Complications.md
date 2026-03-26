@@ -77,7 +77,7 @@ Complications are presented in alphabetical order.
 | 29   | [Feytouched](../../Browse/Complications/Feytouched)                                       | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
 | 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal)                                   | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
 | 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos)                           | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) | 82   | Sibling's Shield                                                                                                 |
+| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) | 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
 | 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance)                       | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
 | 34   | [Frostheart](../../Browse/Complications/Frostheart)                                       | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
 | 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This)   | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
@@ -171,7 +171,7 @@ Complications are presented in alphabetical order.
 | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
 | 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
 | 70   | [Rival](../../Browse/Complications/Rival)                                                 |
-| 71   | Rogue [Talent](../../Browse/Classes/Talent)                                               |
+| 71   | [Rogue Talent](../../Browse/Complications/Rogue%20Talent)                                 |
 | 72   | [Runaway](../../Browse/Complications/Runaway)                                             |
 | 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure)             |
 | 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity)                           |
@@ -182,7 +182,7 @@ Complications are presented in alphabetical order.
 | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
 | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
 | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 82   | Sibling's Shield                                                                                                 |
+| 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
 | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
 | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
 | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
@@ -956,7 +956,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your sibling's shield on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](../../Browse/Complications/Siblings%20Shield) on your back, you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 

@@ -14,5 +14,6 @@ type: index
 - [Melodrama](../Melodrama)
 - [Perk](../Perk)
 - [Skill](../Skill)
+- [Zeitgeist](../Zeitgeist)
 
 </div>

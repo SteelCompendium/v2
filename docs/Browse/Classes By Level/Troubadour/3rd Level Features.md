@@ -25,12 +25,12 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 | Class Act | Features                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------- |
 | Auteur    | [Missed Cue](../../../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue)     |
-| Duelist   | Foil                                                                                               |
+| Duelist   | [Foil](../../../../Browse/Troubadour/3rd-Level%20Features/Foil)                   |
 | Virtuoso  | [Second Album](../../../../Browse/Troubadour/3rd-Level%20Features/Second%20Album) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](../../../../Browse/Troubadour/3rd-Level%20Features/Foil) at the start of the next combat round.
 
 ##### Missed Cue
 

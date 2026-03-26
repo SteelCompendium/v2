@@ -4556,7 +4556,7 @@ As a [censor](../../Browse/Classes/Censor), you're at your best against the stro
 | 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../Browse/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9               |
 | 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9               |
 | 9th   | [Improved Implement of Wrath](../../Browse/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, [Wrath of the Gods](../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../Browse/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -5212,7 +5212,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](../../Browse/Censor/4th-Level%20Features/Seance)                                                    |
 | Fate       | [Oracular Warning](../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
 | Knowledge  | [Saint's Epiphany](../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
@@ -5298,7 +5298,7 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 | Order    | Feature                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------ |
 | Exorcist | [Evil Revealed](../../Browse/Censor/5th-Level%20Features/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                         |
+| Oracle   | [Prophecy](../../Browse/Censor/5th-Level%20Features/Prophecy)             |
 | Paragon  | [Stand Fast](../../Browse/Censor/5th-Level%20Features/Stand%20Fast)!      |
 
 ##### Evil Revealed
@@ -5629,9 +5629,9 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 
 | Order    | Feature                                                                                                        |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Demonologist                                                                                                   |
+| Exorcist | [Demonologist](../../Browse/Censor/8th-Level%20Features/Demonologist)                   |
 | Oracle   | [Their Past Revealed](../../Browse/Censor/8th-Level%20Features/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                            |
+| Paragon  | [Vow](../../Browse/Censor/8th-Level%20Features/Vow)                                     |
 
 ##### Demonologist
 
@@ -5916,7 +5916,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../Browse/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
 | 9th   | Domain Ability, [Faith's Sword](../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Avatar, Characteristic Increase, Divine Power, [Most Pious](../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Avatar](../../Browse/Conduit/10th-Level%20Features/Avatar), Characteristic Increase, Divine Power, [Most Pious](../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -6816,7 +6816,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](../../Browse/Censor/4th-Level%20Features/Seance)                                                    |
 | Fate       | [Oracular Warning](../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
 | Knowledge  | [Saint's Epiphany](../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
@@ -7553,7 +7553,7 @@ As a 10th-level [conduit](../../Browse/Classes/Conduit), you gain the following 
 
 #### Avatar
 
-You are now an avatar of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see Domain Piety and Effects) without needing to pray.
+You are now an [avatar](../../Browse/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see Domain Piety and Effects) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -7617,18 +7617,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Abilities                           |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](../../Browse/Classes/Elementalist) Ward, [Elementalist](../../Browse/Classes/Elementalist) Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, [Font of Essence](../../Browse/Elementalist/4th-Level%20Features/Font%20of%20Essence), Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, [Mantle of Quintessence](../../Browse/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../Browse/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | [Grand Wyrding](../../Browse/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, [Essential Being](../../Browse/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Abilities                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, [Font of Essence](../../Browse/Elementalist/4th-Level%20Features/Font%20of%20Essence), Mantle of Essence, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, [Wyrding](../../Browse/Elementalist/6th-Level%20Features/Wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, [Mantle of Quintessence](../../Browse/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../Browse/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](../../Browse/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, [Essential Being](../../Browse/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -8916,7 +8916,7 @@ As a 9th-level [elementalist](../../Browse/Classes/Elementalist), you gain the f
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your Wyrding feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../Browse/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
@@ -13929,7 +13929,7 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 Choose one of the following abilities.
 
 <!-- -->
-> ######## Squad! [Hit and Run](../../Browse/Abilities/Fury/1st-Level%20Features/Hit%20and%20Run)! (11 Focus)
+> ######## Squad! Hit and Run! (11 Focus)
 >
 > *I had to pry this secret from the shadow colleges.*
 >
@@ -14903,8 +14903,8 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as
 | Tradition   | Features                                                                                                                                                                                                               |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Chronopathy | [Distortion Temporal](../../Browse/Talent/5th-Level%20Features/Distortion%20Temporal), [Speed of Thought](../../Browse/Talent/5th-Level%20Features/Speed%20of%20Thought) |
-| Telekinesis | [Kinetic Amplifier](../../Browse/Talent/5th-Level%20Features/Kinetic%20Amplifier), Triangulate                                                                                                  |
-| Telepathy   | Compulsion, [Remote Amplification](../../Browse/Talent/5th-Level%20Features/Remote%20Amplification)                                                                                             |
+| Telekinesis | [Kinetic Amplifier](../../Browse/Talent/5th-Level%20Features/Kinetic%20Amplifier), [Triangulate](../../Browse/Talent/5th-Level%20Features/Triangulate)                   |
+| Telepathy   | [Compulsion](../../Browse/Talent/5th-Level%20Features/Compulsion), [Remote Amplification](../../Browse/Talent/5th-Level%20Features/Remote%20Amplification)               |
 
 ##### Compulsion
 
@@ -15559,7 +15559,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 7th   | Characteristic Increase, [A Muse's Muse](../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, [Greatest of All Time](../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../Browse/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -15657,7 +15657,7 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you two feat
 
 | Class Act | Features                                                                                                                                                                                                                         |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                               |
+| Auteur    | [Blocking](../../Browse/Troubadour/1st-Level%20Features/Blocking), [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)               |
 | Duelist   | Acrobatics, [Star Power](../../Browse/Troubadour/1st-Level%20Features/Star%20Power)                                                                                                                       |
 | Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../Browse/Troubadour/1st-Level%20Features/Virtuoso%20Performances) |
 
@@ -15784,7 +15784,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-###### Class Act Triggered Action Table
+###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16192,12 +16192,12 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 | Class Act | Features                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------- |
 | Auteur    | [Missed Cue](../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue)     |
-| Duelist   | Foil                                                                                               |
+| Duelist   | [Foil](../../Browse/Troubadour/3rd-Level%20Features/Foil)                   |
 | Virtuoso  | [Second Album](../../Browse/Troubadour/3rd-Level%20Features/Second%20Album) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](../../Browse/Troubadour/3rd-Level%20Features/Foil) at the start of the next combat round.
 
 ##### Missed Cue
 
@@ -16382,7 +16382,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your [Foil](../../Browse/Troubadour/3rd-Level%20Features/Foil) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -16627,7 +16627,7 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 | Class Act | Feature                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Auteur    | [Deleted Scene](../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
-| Duelist   | Masterwork                                                                                               |
+| Duelist   | [Masterwork](../../Browse/Troubadour/8th-Level%20Features/Masterwork)             |
 | Virtuoso  | [Crowd Favorites](../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
 
 ##### Crowd Favorites
@@ -18188,7 +18188,7 @@ Complications are presented in alphabetical order.
 | 29   | [Feytouched](../../Browse/Complications/Feytouched)                                       | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
 | 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal)                                   | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
 | 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos)                           | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) | 82   | Sibling's Shield                                                                                                 |
+| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) | 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
 | 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance)                       | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
 | 34   | [Frostheart](../../Browse/Complications/Frostheart)                                       | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
 | 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This)   | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
@@ -18282,7 +18282,7 @@ Complications are presented in alphabetical order.
 | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
 | 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
 | 70   | [Rival](../../Browse/Complications/Rival)                                                 |
-| 71   | Rogue [Talent](../../Browse/Classes/Talent)                                               |
+| 71   | [Rogue Talent](../../Browse/Complications/Rogue%20Talent)                                 |
 | 72   | [Runaway](../../Browse/Complications/Runaway)                                             |
 | 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure)             |
 | 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity)                           |
@@ -18293,7 +18293,7 @@ Complications are presented in alphabetical order.
 | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
 | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
 | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 82   | Sibling's Shield                                                                                                 |
+| 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
 | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
 | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
 | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
@@ -19067,7 +19067,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your sibling's shield on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](../../Browse/Complications/Siblings%20Shield) on your back, you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 

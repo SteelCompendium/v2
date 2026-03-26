@@ -25,7 +25,7 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you a feature, as 
 | Order    | Feature                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------ |
 | Exorcist | [Evil Revealed](../../../../Browse/Censor/5th-Level%20Features/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                         |
+| Oracle   | [Prophecy](../../../../Browse/Censor/5th-Level%20Features/Prophecy)             |
 | Paragon  | [Stand Fast](../../../../Browse/Censor/5th-Level%20Features/Stand%20Fast)!      |
 
 ##### Evil Revealed

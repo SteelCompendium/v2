@@ -57,7 +57,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 7th   | Characteristic Increase, [A Muse's Muse](../../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](../../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, [Greatest of All Time](../../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../../Browse/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -155,7 +155,7 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you two f
 
 | Class Act | Features                                                                                                                                                                                                                         |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                               |
+| Auteur    | [Blocking](../../../Browse/Troubadour/1st-Level%20Features/Blocking), [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)               |
 | Duelist   | Acrobatics, [Star Power](../../../Browse/Troubadour/1st-Level%20Features/Star%20Power)                                                                                                                       |
 | Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../Browse/Troubadour/1st-Level%20Features/Virtuoso%20Performances) |
 
@@ -282,7 +282,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-###### Class Act Triggered Action Table
+###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -690,12 +690,12 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 | Class Act | Features                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------- |
 | Auteur    | [Missed Cue](../../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue)     |
-| Duelist   | Foil                                                                                               |
+| Duelist   | [Foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil)                   |
 | Virtuoso  | [Second Album](../../../Browse/Troubadour/3rd-Level%20Features/Second%20Album) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil) at the start of the next combat round.
 
 ##### Missed Cue
 
@@ -880,7 +880,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your [Foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -1125,7 +1125,7 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 | Class Act | Feature                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Auteur    | [Deleted Scene](../../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
-| Duelist   | Masterwork                                                                                               |
+| Duelist   | [Masterwork](../../../Browse/Troubadour/8th-Level%20Features/Masterwork)             |
 | Virtuoso  | [Crowd Favorites](../../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
 
 ##### Crowd Favorites

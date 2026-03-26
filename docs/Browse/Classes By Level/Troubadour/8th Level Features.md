@@ -29,7 +29,7 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 | Class Act | Feature                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Auteur    | [Deleted Scene](../../../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
-| Duelist   | Masterwork                                                                                               |
+| Duelist   | [Masterwork](../../../../Browse/Troubadour/8th-Level%20Features/Masterwork)             |
 | Virtuoso  | [Crowd Favorites](../../../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
 
 ##### Crowd Favorites

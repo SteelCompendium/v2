@@ -38,6 +38,7 @@ type: index
 - [Melodrama](../4th-Level%20Features/Melodrama)
 - [Perk](../4th-Level%20Features/Perk)
 - [Skill](../4th-Level%20Features/Skill)
+- [Zeitgeist](../4th-Level%20Features/Zeitgeist)
 - [6th Level Auteur Abilities](../6th-Level%20Features/6th%20Level%20Auteur%20Abilities)
 - [6th Level Duelist Abilities](../6th-Level%20Features/6th%20Level%20Duelist%20Abilities)
 - [6th Level Virtuoso Abilities](../6th-Level%20Features/6th%20Level%20Virtuoso%20Abilities)

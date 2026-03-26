@@ -108,7 +108,7 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you tw
 
 | Class Act | Features                                                                                                                                                                                                                         |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                               |
+| Auteur    | [Blocking](../../../../Browse/Troubadour/1st-Level%20Features/Blocking), [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)               |
 | Duelist   | Acrobatics, [Star Power](../../../../Browse/Troubadour/1st-Level%20Features/Star%20Power)                                                                                                                       |
 | Virtuoso  | [Power Chord](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../Browse/Troubadour/1st-Level%20Features/Virtuoso%20Performances) |
 
@@ -235,7 +235,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-###### Class Act Triggered Action Table
+###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |

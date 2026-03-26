@@ -59,7 +59,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../../Browse/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
 | 9th   | Domain Ability, [Faith's Sword](../../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Avatar, Characteristic Increase, Divine Power, [Most Pious](../../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Avatar](../../../Browse/Conduit/10th-Level%20Features/Avatar), Characteristic Increase, Divine Power, [Most Pious](../../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -959,7 +959,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](../../../Browse/Censor/4th-Level%20Features/Seance)                                                    |
 | Fate       | [Oracular Warning](../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
 | Knowledge  | [Saint's Epiphany](../../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
@@ -1696,7 +1696,7 @@ As a 10th-level [conduit](../../../Browse/Classes/Conduit), you gain the followi
 
 #### Avatar
 
-You are now an avatar of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see Domain Piety and Effects) without needing to pray.
+You are now an [avatar](../../../Browse/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see Domain Piety and Effects) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 

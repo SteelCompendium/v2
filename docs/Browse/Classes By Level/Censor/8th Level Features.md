@@ -28,9 +28,9 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you a feature, as 
 
 | Order    | Feature                                                                                                        |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Demonologist                                                                                                   |
+| Exorcist | [Demonologist](../../../../Browse/Censor/8th-Level%20Features/Demonologist)                   |
 | Oracle   | [Their Past Revealed](../../../../Browse/Censor/8th-Level%20Features/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                            |
+| Paragon  | [Vow](../../../../Browse/Censor/8th-Level%20Features/Vow)                                     |
 
 ##### Demonologist
 

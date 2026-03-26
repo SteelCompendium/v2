@@ -62,7 +62,7 @@ As a [censor](../../../Browse/Classes/Censor), you're at your best against the s
 | 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../../Browse/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9                 |
 | 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
 | 9th   | [Improved Implement of Wrath](../../../Browse/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, [Wrath of the Gods](../../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../../Browse/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
@@ -718,7 +718,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Domain     | Feature                                                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Creation   | [Improved Hands of the Maker](../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
-| Death      | Seance                                                                                                                              |
+| Death      | [Seance](../../../Browse/Censor/4th-Level%20Features/Seance)                                                    |
 | Fate       | [Oracular Warning](../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
 | Knowledge  | [Saint's Epiphany](../../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
@@ -804,7 +804,7 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 | Order    | Feature                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------ |
 | Exorcist | [Evil Revealed](../../../Browse/Censor/5th-Level%20Features/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                         |
+| Oracle   | [Prophecy](../../../Browse/Censor/5th-Level%20Features/Prophecy)             |
 | Paragon  | [Stand Fast](../../../Browse/Censor/5th-Level%20Features/Stand%20Fast)!      |
 
 ##### Evil Revealed
@@ -1135,9 +1135,9 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 
 | Order    | Feature                                                                                                        |
 | -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Demonologist                                                                                                   |
+| Exorcist | [Demonologist](../../../Browse/Censor/8th-Level%20Features/Demonologist)                   |
 | Oracle   | [Their Past Revealed](../../../Browse/Censor/8th-Level%20Features/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                            |
+| Paragon  | [Vow](../../../Browse/Censor/8th-Level%20Features/Vow)                                     |
 
 ##### Demonologist
 
