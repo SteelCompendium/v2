@@ -5,27 +5,14 @@ type: index
 
 # Shadow: 1st-Level Features Index
 
-## Other
-
 <div class="browse-index" markdown>
 
-- [Black Ash Teleport](../Black%20Ash%20Teleport)
-- [Coat the Blade](../Coat%20the%20Blade)
+- [1st Level College Features](../1st%20Level%20College%20Features)
 - [College Triggered Action](../College%20Triggered%20Action)
 - [Hesitation Is Weakness](../Hesitation%20Is%20Weakness)
-- [Im No Threat](../Im%20No%20Threat)
-- [Insight in Combat](../Insight%20in%20Combat)
-- [Insight Outside of Combat](../Insight%20Outside%20of%20Combat)
+- [Insight](../Insight)
 - [Kit](../Kit)
+- [Shadow Abilities](../Shadow%20Abilities)
 - [Shadow College](../Shadow%20College)
-- [Signature Ability](../Signature%20Ability)
-
-</div>
-
-## Caustic Alchemy
-
-<div class="browse-index" markdown>
-
-- [Smoke Bomb](../Smoke%20Bomb)
 
 </div>

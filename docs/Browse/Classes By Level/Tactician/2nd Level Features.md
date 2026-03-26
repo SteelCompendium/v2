@@ -26,11 +26,11 @@ Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tacti
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                           |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](../../../../Browse/Tactician/2nd-Level%20Features/Infiltration%20Tactics) |
-| Mastermind | Goaded                                                                                                            |
-| Vanguard   | [Melee Superiority](../../../../Browse/Tactician/2nd-Level%20Features/Melee%20Superiority)       |
+| Doctrine   | Feature                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Infiltration Tactics](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics) |
+| Mastermind | Goaded                                                                                                    |
+| Vanguard   | [Melee Superiority](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority)       |
 
 ##### Goaded
 

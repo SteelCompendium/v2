@@ -5,6 +5,14 @@ type: index
 
 # Null: 5th-Level Features Index
 
+## Other
+
+<div class="browse-index" markdown>
+
+- [5th Level Tradition Feature](../5th%20Level%20Tradition%20Feature)
+
+</div>
+
 ## Cryokinetic
 
 <div class="browse-index" markdown>

@@ -34,20 +34,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | [Gods' Library](../../../../Browse/Conduit/7th-Level%20Features/Gods%20Library)                                    |
-| Life       | [Font of Grace](../../../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../../Browse/Conduit/7th-Level%20Features/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | [Thunderstruck](../../../../Browse/Conduit/7th-Level%20Features/Thunderstruck)                                     |
-| Sun        | [Light of the Burning Sun](../../../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:divine-quartermaster)                 |
+| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-death-deferred)             |
+| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-fate-denied)                   |
+| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:gods-library)                                |
+| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:font-of-grace)                               |
+| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:covenant-of-the-heart)               |
+| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:natures-bounty)                            |
+| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:blessing-of-iron)                         |
+| Storm      | [Thunderstruck](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:thunderstruck)                               |
+| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:light-of-the-burning-sun)         |
+| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:trinity-of-trickery)                   |
+| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:your-triumphs-are-remembered) |
 
 ##### Blessing of Iron
 
@@ -55,7 +55,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -66,7 +66,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 

@@ -26,11 +26,11 @@ Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tacti
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Bait and Ambush](../../../../Browse/Tactician/8th-Level%20Features/Bait%20and%20Ambush)                                             |
-| Mastermind | [Pincer Movement](../../../../Browse/Tactician/8th-Level%20Features/Pincer%20Movement)                                               |
-| Vanguard   | [See Your Enemies Driven Before You](../../../../Browse/Tactician/8th-Level%20Features/See%20Your%20Enemies%20Driven%20Before%20You) |
+| Doctrine   | Feature                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Bait and Ambush](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush)                                       |
+| Mastermind | [Pincer Movement](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement)                                       |
+| Vanguard   | [See Your Enemies Driven Before You](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:see-your-enemies-driven-before-you) |
 
 ##### Bait and Ambush
 

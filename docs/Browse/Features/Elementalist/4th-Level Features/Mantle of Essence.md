@@ -3,15 +3,15 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Mantle of Essence
-file_dpath: Features/Elementalist/4th-Level Features
+file_dpath: Elementalist/4th-Level Features
 item_id: mantle-of-essence
-item_index: 08
+item_index: '05'
 item_name: Mantle of Essence
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:mantle-of-essence
 scdc:
-  - 1.1.1:11.1.9.10:08
+  - 1.1.1:11.1.9.10:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---
@@ -22,12 +22,12 @@ While you have 3 or more essence and are not dying, you exude an aura of magic w
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                                    |
-| -------------- | ---------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../../../../Browse/Elementalist/4th-Level%20Features/Quaking%20Earth)     |
-| Fire           | [Burning Grounds](../../../../../Browse/Elementalist/4th-Level%20Features/Burning%20Grounds) |
-| Green          | [Flowering Bed](../../../../../Browse/Elementalist/4th-Level%20Features/Flowering%20Bed)     |
-| Void           | [Veiling Bed](../../../../../Browse/Elementalist/4th-Level%20Features/Veiling%20Bed)         |
+| Specialization | Feature                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth)     |
+| Fire           | [Burning Grounds](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:burning-grounds) |
+| Green          | [Flowering Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed)     |
+| Void           | [Veiling Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed)         |
 
 ##### Burning Grounds
 

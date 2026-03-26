@@ -59,7 +59,7 @@ You gain a new signature ability from your kit.
 
 ##### Growing Ferocity
 
-Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 #### Boren
 
@@ -105,7 +105,7 @@ Your primordial damage type is cold.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
@@ -165,7 +165,7 @@ Your primordial damage type is fire.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
@@ -225,7 +225,7 @@ Your primordial damage type is corruption.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
@@ -283,7 +283,7 @@ Your primordial damage type is lightning.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 

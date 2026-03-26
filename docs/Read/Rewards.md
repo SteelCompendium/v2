@@ -77,7 +77,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../../Browse/Kits/Warrior%20Priest) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s [Prayer of Soldier's Skill](../../Browse/Conduit/1st-Level%20Features/Prayer%20of%20Soldiers%20Skill).
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s [Prayer of Soldier's Skill](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-soldiers-skill).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -2615,7 +2615,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Shadow/1st-Level%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties

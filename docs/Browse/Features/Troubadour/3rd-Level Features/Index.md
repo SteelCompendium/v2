@@ -5,26 +5,8 @@ type: index
 
 # Troubadour: 3rd-Level Features Index
 
-## Duelist
-
 <div class="browse-index" markdown>
 
-- [Foil](../Foil)
-
-</div>
-
-## Auteur
-
-<div class="browse-index" markdown>
-
-- [Missed Cue](../Missed%20Cue)
-
-</div>
-
-## Virtuoso
-
-<div class="browse-index" markdown>
-
-- [Second Album](../Second%20Album)
+- [3rd Level Class Act Feature](../3rd%20Level%20Class%20Act%20Feature)
 
 </div>

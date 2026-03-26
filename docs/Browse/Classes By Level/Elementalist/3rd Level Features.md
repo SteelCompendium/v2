@@ -25,9 +25,9 @@ Your elemental specialization grants you a feature, as shown on the 3rd-Level El
 | Specialization | Feature                                                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Earth Accepts Me](../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                       |
-| Fire           | [A Conversation With Fire](../../../../Browse/Elementalist/3rd-Level%20Features/A%20Conversation%20With%20Fire)                               |
+| Fire           | [A Conversation With Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:a-conversation-with-fire)                                           |
 | Green          | [Remember Growth and Sun and Rain](../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain) |
-| Void           | [Distance Is Only Memory](../../../../Browse/Elementalist/3rd-Level%20Features/Distance%20Is%20Only%20Memory)                                 |
+| Void           | [Distance Is Only Memory](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory)                                             |
 
 ##### A Conversation With Fire
 

@@ -22,12 +22,12 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                    |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [The Mountain Does Not Move](../../../../Browse/Elementalist/5th-Level%20Features/The%20Mountain%20Does%20Not%20Move)     |
-| Fire           | [Smoldering Step](../../../../Browse/Elementalist/5th-Level%20Features/Smoldering%20Step)                                 |
-| Green          | [Hide of Tenfold Shields](../../../../Browse/Elementalist/5th-Level%20Features/Hide%20of%20Tenfold%20Shields)             |
-| Void           | [Pierce the Veil of Substance](../../../../Browse/Elementalist/5th-Level%20Features/Pierce%20the%20Veil%20of%20Substance) |
+| Specialization | Feature                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [The Mountain Does Not Move](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move)     |
+| Fire           | [Smoldering Step](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step)                           |
+| Green          | [Hide of Tenfold Shields](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields)           |
+| Void           | [Pierce the Veil of Substance](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance) |
 
 ##### Hide of Tenfold Shields
 

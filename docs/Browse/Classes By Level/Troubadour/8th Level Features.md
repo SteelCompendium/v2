@@ -26,11 +26,11 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                                  |
-| --------- | -------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Deleted Scene](../../../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
-| Duelist   | [Masterwork](../../../../Browse/Troubadour/8th-Level%20Features/Masterwork)             |
-| Virtuoso  | [Crowd Favorites](../../../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
+| Class Act | Feature                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene)     |
+| Duelist   | [Masterwork](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:masterwork)           |
+| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:crowd-favorites) |
 
 ##### Crowd Favorites
 
@@ -66,7 +66,7 @@ Whenever a creature within distance of your [Dramatic Monologue](../../../../Bro
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your Zeitgeist feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../../../Browse/Troubadour/4th-Level%20Features/Zeitgeist) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 

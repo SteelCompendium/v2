@@ -26,15 +26,15 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Strongest There Is](../../../../Browse/Fury/8th-Level%20Features/Strongest%20There%20Is) |
-| Reaver     | [A Step Ahead](../../../../Browse/Fury/8th-Level%20Features/A%20Step%20Ahead)             |
-| Stormwight | Menagerie                                                                                                  |
+| Aspect     | Feature                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------ |
+| Berserker  | [Strongest There Is](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:strongest-there-is) |
+| Reaver     | [A Step Ahead](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead)             |
+| Stormwight | Menagerie                                                                                        |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../Browse/Fury/3rd-Level%20Features/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

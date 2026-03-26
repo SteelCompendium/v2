@@ -51,7 +51,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 1st   | [Troubadour](../../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../../Browse/Troubadour/1st-Level%20Features/Routines), Class Act Features, Class Act Triggered Action, [Troubadour](../../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
 | 2nd   | [Appeal to the Muses](../../../Browse/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                  | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Melodrama](../../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, Zeitgeist                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, [Melodrama](../../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../../Browse/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                               | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9     | 5                   |
 | 6th   | Perk, [Spotlight](../../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
 | 7th   | Characteristic Increase, [A Muse's Muse](../../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
@@ -94,14 +94,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../../Browse/Troubadour/1st-Level%20Features/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:drama-outside-of-combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../../Browse/Classes/Troubadour)**
 >
-> Abilities like Guest Star, [Missed Cue](../../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -153,11 +153,11 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you two f
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                         |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Blocking](../../../Browse/Troubadour/1st-Level%20Features/Blocking), [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)               |
-| Duelist   | Acrobatics, [Star Power](../../../Browse/Troubadour/1st-Level%20Features/Star%20Power)                                                                                                                       |
-| Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../Browse/Troubadour/1st-Level%20Features/Virtuoso%20Performances) |
+| Class Act | Features                                                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Blocking](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:blocking), [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)             |
+| Duelist   | Acrobatics, [Star Power](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:star-power)                                                                                                                       |
+| Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:virtuoso-performances) |
 
 ##### Acrobatics
 
@@ -687,15 +687,15 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features                                                                                           |
-| --------- | -------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../../Browse/Troubadour/3rd-Level%20Features/Missed%20Cue)     |
-| Duelist   | [Foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil)                   |
-| Virtuoso  | [Second Album](../../../Browse/Troubadour/3rd-Level%20Features/Second%20Album) |
+| Class Act | Features                                                                                   |
+| --------- | ------------------------------------------------------------------------------------------ |
+| Auteur    | [Missed Cue](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue)     |
+| Duelist   | [Foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil)                 |
+| Virtuoso  | [Second Album](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:second-album) |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil) at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil) at the start of the next combat round.
 
 ##### Missed Cue
 
@@ -880,7 +880,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your [Foil](../../../Browse/Troubadour/3rd-Level%20Features/Foil) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your [Foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -1122,11 +1122,11 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                                  |
-| --------- | -------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Deleted Scene](../../../Browse/Troubadour/8th-Level%20Features/Deleted%20Scene)     |
-| Duelist   | [Masterwork](../../../Browse/Troubadour/8th-Level%20Features/Masterwork)             |
-| Virtuoso  | [Crowd Favorites](../../../Browse/Troubadour/8th-Level%20Features/Crowd%20Favorites) |
+| Class Act | Feature                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene)     |
+| Duelist   | [Masterwork](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:masterwork)           |
+| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:crowd-favorites) |
 
 ##### Crowd Favorites
 
@@ -1162,7 +1162,7 @@ Whenever a creature within distance of your [Dramatic Monologue](../../../Browse
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your Zeitgeist feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../../Browse/Troubadour/4th-Level%20Features/Zeitgeist) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 

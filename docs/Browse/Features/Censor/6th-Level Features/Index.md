@@ -7,9 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [6th Level Exorcist Abilities](../6th%20Level%20Exorcist%20Abilities)
-- [6th Level Oracle Abilities](../6th%20Level%20Oracle%20Abilities)
-- [6th Level Paragon Abilities](../6th%20Level%20Paragon%20Abilities)
+- [6th Level Order Ability](../6th%20Level%20Order%20Ability)
 - [Implement of Wrath](../Implement%20of%20Wrath)
 - [Perk](../Perk)
 

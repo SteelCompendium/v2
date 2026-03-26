@@ -8,9 +8,6 @@ type: index
 <div class="browse-index" markdown>
 
 - [Characteristic Increase](../Characteristic%20Increase)
-- [Foreshadowing](../Foreshadowing)
-- [Hear Ye Hear Ye](../Hear%20Ye%20Hear%20Ye)
-- [Latest Goss](../Latest%20Goss)
 - [Melodrama](../Melodrama)
 - [Perk](../Perk)
 - [Skill](../Skill)

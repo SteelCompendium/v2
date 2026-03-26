@@ -55,7 +55,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 | 4th   | Characteristic Increase, [Discipline Mastery Improvement](../../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), Enhanced [Null](../../../Browse/Classes/Null) Field, Perk, [Regenerative Field](../../../Browse/Null/4th-Level%20Features/Regenerative%20Field), Skill                                                                                                                                                                                                | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9     | 5                   |
 | 6th   | [Elemental Absorption](../../../Browse/Null/6th-Level%20Features/Elemental%20Absorption), [Elemental Buffer](../../../Browse/Null/6th-Level%20Features/Elemental%20Buffer), Perk, Tradition Ability                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, [Discipline Mastery Improvement](../../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Psi Boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost), [Improved Body](../../../Browse/Null/7th-Level%20Features/Improved%20Body), Skill                                                                                                                                                                                      | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, [Discipline Mastery Improvement](../../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Psi Boost](../../../Browse/Talent/6th-Level%20Features/Psi%20Boost), [Improved Body](../../../Browse/Null/7th-Level%20Features/Improved%20Body), Skill                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
 | 9th   | [I Am the Weapon](../../../Browse/Null/9th-Level%20Features/I%20Am%20the%20Weapon), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | Characteristic Increase, [Discipline Mastery Improvement](../../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Manifold Body](../../../Browse/Null/10th-Level%20Features/Manifold%20Body), [Manifold Resonance](../../../Browse/Null/10th-Level%20Features/Manifold%20Resonance), Order, Perk, Skill                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
@@ -88,7 +88,7 @@ You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../../../Browse/Null/1st-Level%20Features/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](scc:mcdm.heroes.v1:feature.trait.null.1st-level-feature:discipline-outside-of-combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../Browse/Classes/Null), but they might appear in future products.)
 
@@ -197,7 +197,7 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../Browse/Talent/1st-Level%20Features/Speed%20Augmentation).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:speed-augmentation).)
 
 ##### Density Augmentation
 
@@ -505,11 +505,11 @@ Your [null](../../../Browse/Classes/Null) tradition grants you a feature, as sho
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../Browse/Null/2nd-Level%20Features/Rapid%20Processing)           |
-| Cryokinetic   | [Entropic Adaptability](../../../Browse/Null/2nd-Level%20Features/Entropic%20Adaptability) |
-| Metakinetic   | [Inertial Sink](../../../Browse/Null/2nd-Level%20Features/Inertial%20Sink)                 |
+| Tradition     | Feature                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing)           |
+| Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) |
+| Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink)                 |
 
 ##### Entropic Adaptability
 
@@ -933,7 +933,7 @@ Your Discipline Mastery feature provides additional benefits when you have 10 or
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power (1 Discipline)
 
@@ -985,11 +985,11 @@ Your [null](../../../Browse/Classes/Null) tradition grants you a feature, as sho
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| Chronokinetic | [Shared Momentum](../../../Browse/Null/8th-Level%20Features/Shared%20Momentum)     |
-| Cryokinetic   | [Synaptic Triage](../../../Browse/Null/8th-Level%20Features/Synaptic%20Triage)     |
-| Metakinetic   | [Inertial Dampener](../../../Browse/Null/8th-Level%20Features/Inertial%20Dampener) |
+| Tradition     | Feature                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:shared-momentum)     |
+| Cryokinetic   | [Synaptic Triage](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:synaptic-triage)     |
+| Metakinetic   | [Inertial Dampener](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:inertial-dampener) |
 
 ##### Inertial Dampener
 
@@ -1136,7 +1136,7 @@ Choose one of the following abilities.
 > - **12-16:** You gain 30 temporary Stamina.
 > - **17+:** You gain 40 temporary Stamina.
 >
-> **Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../../../Browse/Null/2nd-Level%20Features/Entropic%20Adaptability) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+> **Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
 <!-- -->
 > ###### Heat Drain (11 Discipline)
@@ -1209,7 +1209,7 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](../../../Browse/Classes/Null) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) feature to that ability. Additionally, you and allies in the area of your [Null](../../../Browse/Classes/Null) Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) feature to that ability. Additionally, you and allies in the area of your [Null](../../../Browse/Classes/Null) Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 

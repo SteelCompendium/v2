@@ -29,9 +29,9 @@ Your elemental specialization grants you a feature, as shown on the 8th-Level El
 | Specialization | Feature                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Summon Source of Earth](../../../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth) |
-| Fire           | [The Flame Primordial](../../../../Browse/Elementalist/8th-Level%20Features/The%20Flame%20Primordial)                 |
-| Green          | [Chimeric Manifestation](../../../../Browse/Elementalist/8th-Level%20Features/Chimeric%20Manifestation)               |
-| Void           | [Black Hole Star](../../../../Browse/Elementalist/8th-Level%20Features/Black%20Hole%20Star)                           |
+| Fire           | [The Flame Primordial](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:the-flame-primordial)                           |
+| Green          | [Chimeric Manifestation](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:chimeric-manifestation)                       |
+| Void           | [Black Hole Star](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:black-hole-star)                                     |
 
 ##### Black Hole Star
 

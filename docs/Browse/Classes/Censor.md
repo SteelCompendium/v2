@@ -51,18 +51,18 @@ As a [censor](../../../Browse/Classes/Censor), you're at your best against the s
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                              | Abilities                 | Order<br/> Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | [Censor](../../../Browse/Classes/Censor) Order, [Deity and Domains](../../../Browse/Conduit/1st-Level%20Features/Deity%20and%20Domains), Wrath, Judgment, Kit, [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, [Censor](../../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5           | 5                    |
-| 3rd   | [Look On My Work and Despair](../../../Browse/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../../Browse/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                    | Signature, 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5                    |
-| 6th   | [Implement of Wrath](../../../Browse/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../../Browse/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
-| 9th   | [Improved Implement of Wrath](../../../Browse/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../../Browse/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                          | Abilities                 | Order<br/> Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | [Censor Order](../../../Browse/Censor/1st-Level%20Features/Censor%20Order), [Deity and Domains](../../../Browse/Conduit/1st-Level%20Features/Deity%20and%20Domains), Wrath, Judgment, Kit, [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, [Censor](../../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5           | 5                    |
+| 3rd   | [Look On My Work and Despair](../../../Browse/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../../Browse/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | [Implement of Wrath](../../../Browse/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../../Browse/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | [Improved Implement of Wrath](../../../Browse/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../../Browse/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
@@ -98,7 +98,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../../../Browse/Censor/1st-Level%20Features/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](scc:mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-outside-of-combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor), but they might appear in future products.)
 
@@ -167,20 +167,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                               | Skill Group   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)             | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                             | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Conduit/1st-Level%20Features/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Conduit/1st-Level%20Features/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                       | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Conduit/1st-Level%20Features/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Conduit/1st-Level%20Features/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Conduit/1st-Level%20Features/Sanctified%20Weapon)                             | Exploration   |
+| Domain     | Feature                                                                                                                   | Skill Group   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
+| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
+| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
+| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
+| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
+| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
+| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
+| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
+| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
+| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -265,7 +265,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -507,11 +507,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you two features, as 
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                              |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../../../Browse/Censor/2nd-Level%20Features/Saints%20Vigilance), [A Sense for Truth](../../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth) |
-| Oracle   | [It Was Foretold](../../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character)  |
-| Paragon  | [Lead by Example](../../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)              |
+| Order    | Features                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
+| Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
+| Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
 
 ##### It Was Foretold
 
@@ -715,20 +715,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
-| Death      | [Seance](../../../Browse/Censor/4th-Level%20Features/Seance)                                                    |
-| Fate       | [Oracular Warning](../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
-| Knowledge  | [Saint's Epiphany](../../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
-| Life       | [Blessing of Life](../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
-| Love       | [Invocation of the Heart](../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
-| Nature     | [Wode Road](../../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
-| Protection | [Impervious Touch](../../../Browse/Conduit/4th-Level%20Features/Impervious%20Touch)                             |
-| Storm      | [Windwalk](../../../Browse/Conduit/4th-Level%20Features/Windwalk)                                               |
-| Sun        | [Light of Revelation](../../../Browse/Conduit/4th-Level%20Features/Light%20of%20Revelation)                     |
-| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)           |
-| War        | [Improved Sanctified Weapon](../../../Browse/Conduit/4th-Level%20Features/Improved%20Sanctified%20Weapon)       |
+| Domain     | Feature                                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
+| Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
+| Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
+| Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
+| Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
+| Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
+| Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
+| Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
+| Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
+| Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
+| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
 
 ##### Blessing of Life
 
@@ -761,7 +761,7 @@ When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Lev
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../../Browse/Conduit/1st-Level%20Features/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -801,11 +801,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------ |
-| Exorcist | [Evil Revealed](../../../Browse/Censor/5th-Level%20Features/Evil%20Revealed) |
-| Oracle   | [Prophecy](../../../Browse/Censor/5th-Level%20Features/Prophecy)             |
-| Paragon  | [Stand Fast](../../../Browse/Censor/5th-Level%20Features/Stand%20Fast)!      |
+| Order    | Feature                                                                                  |
+| -------- | ---------------------------------------------------------------------------------------- |
+| Exorcist | [Evil Revealed](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed) |
+| Oracle   | [Prophecy](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:prophecy)           |
+| Paragon  | [Stand Fast](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:stand-fast)!      |
 
 ##### Evil Revealed
 
@@ -1016,20 +1016,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../Browse/Censor/7th-Level%20Features/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../Browse/Censor/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../Browse/Censor/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | [Gods' Library](../../../Browse/Censor/7th-Level%20Features/Gods%20Library)                                    |
-| Life       | [Font of Grace](../../../Browse/Censor/7th-Level%20Features/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../Browse/Censor/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../Browse/Censor/7th-Level%20Features/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../Browse/Censor/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                       |
-| Sun        | [Light of the Burning Sun](../../../Browse/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../Browse/Censor/7th-Level%20Features/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../Browse/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:divine-quartermaster)                 |
+| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred)             |
+| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied)                   |
+| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library)                                |
+| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:font-of-grace)                               |
+| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:covenant-of-the-heart)               |
+| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty)                            |
+| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:blessing-of-iron)                         |
+| Storm      | [Ride the Lightning](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:ride-the-lightning)                     |
+| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:light-of-the-burning-sun)         |
+| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:trinity-of-trickery)                   |
+| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:your-triumphs-are-remembered) |
 
 ##### Blessing of Iron
 
@@ -1037,7 +1037,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1048,7 +1048,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1080,7 +1080,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../../Browse/Conduit/4th-Level%20Features/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../../Browse/Conduit/4th-Level%20Features/Windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -1133,11 +1133,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                        |
-| -------- | -------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../../../Browse/Censor/8th-Level%20Features/Demonologist)                   |
-| Oracle   | [Their Past Revealed](../../../Browse/Censor/8th-Level%20Features/Their%20Past%20Revealed) |
-| Paragon  | [Vow](../../../Browse/Censor/8th-Level%20Features/Vow)                                     |
+| Order    | Feature                                                                                              |
+| -------- | ---------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:demonologist)               |
+| Oracle   | [Their Past Revealed](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed) |
+| Paragon  | [Vow](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow)                                 |
 
 ##### Demonologist
 

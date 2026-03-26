@@ -7,26 +7,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Accelerate](../Accelerate)
-- [Again](../Again)
-- [Battle Augmentation](../Battle%20Augmentation)
-- [Clarity in Combat](../Clarity%20in%20Combat)
-- [Clarity Outside of Combat](../Clarity%20Outside%20of%20Combat)
-- [Density Augmentation](../Density%20Augmentation)
-- [Distance Augmentation](../Distance%20Augmentation)
-- [Entropy Ward](../Entropy%20Ward)
-- [Feedback Loop](../Feedback%20Loop)
-- [Force Augmentation](../Force%20Augmentation)
+- [1st Level Tradition Features](../1st%20Level%20Tradition%20Features)
+- [Clarity and Strain](../Clarity%20and%20Strain)
 - [Mind Spike](../Mind%20Spike)
-- [Minor Telekinesis](../Minor%20Telekinesis)
-- [Remote Assistance](../Remote%20Assistance)
+- [Psionic Augmentation](../Psionic%20Augmentation)
 - [Repel](../Repel)
-- [Repulsive Ward](../Repulsive%20Ward)
-- [Signature Abilities](../Signature%20Abilities)
-- [Speed Augmentation](../Speed%20Augmentation)
-- [Steel Ward](../Steel%20Ward)
+- [Talent Abilities](../Talent%20Abilities)
 - [Talent Tradition](../Talent%20Tradition)
+- [Talent Ward](../Talent%20Ward)
 - [Telepathic Speech](../Telepathic%20Speech)
-- [Vanishing Ward](../Vanishing%20Ward)
 
 </div>

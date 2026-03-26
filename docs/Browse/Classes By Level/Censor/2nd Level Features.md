@@ -26,11 +26,11 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you two features, 
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                              |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../../../../Browse/Censor/2nd-Level%20Features/Saints%20Vigilance), [A Sense for Truth](../../../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth) |
-| Oracle   | [It Was Foretold](../../../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character)  |
-| Paragon  | [Lead by Example](../../../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)              |
+| Order    | Features                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
+| Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
+| Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
 
 ##### It Was Foretold
 

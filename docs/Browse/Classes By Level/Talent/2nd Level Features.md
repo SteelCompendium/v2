@@ -26,11 +26,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you a feature,
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Ease the Hours](../../../../Browse/Talent/2nd-Level%20Features/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../../../Browse/Talent/2nd-Level%20Features/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../../../Browse/Talent/2nd-Level%20Features/Ease%20the%20Mind)     |
+| Tradition   | Features                                                                                     |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours)   |
+| Telekinesis | [Ease Their Fall](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-their-fall) |
+| Telepathy   | [Ease the Mind](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-mind)     |
 
 ##### Ease the Hours
 

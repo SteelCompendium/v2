@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Psi Boost
-file_dpath: Features/Null/7th-Level Features
+file_dpath: Null/7th-Level Features
 item_id: psi-boost
 item_index: '04'
 item_name: Psi Boost
@@ -18,7 +18,7 @@ type: feature/trait/null/7th-level-feature
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power (1 Discipline)
 

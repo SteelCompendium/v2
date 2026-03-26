@@ -5,29 +5,13 @@ type: index
 
 # Talent: 8th-Level Features Index
 
-## Chronopathy
-
-<div class="browse-index" markdown>
-
-- [Doubling the Hours](../Doubling%20the%20Hours)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
 
-- [Levitation Field](../Levitation%20Field)
+- [8th Level Tradition Features](../8th%20Level%20Tradition%20Features)
 - [Perk](../Perk)
 - [Stasis Shield](../Stasis%20Shield)
-
-</div>
-
-## Telekinesis
-
-<div class="browse-index" markdown>
-
-- [Low Gravity](../Low%20Gravity)
 
 </div>
 
@@ -35,7 +19,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Mindlink](../Mindlink)
 - [Universal Connection](../Universal%20Connection)
 
 </div>

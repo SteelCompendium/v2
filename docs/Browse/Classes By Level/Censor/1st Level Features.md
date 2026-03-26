@@ -46,7 +46,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../../../../Browse/Censor/1st-Level%20Features/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](scc:mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-outside-of-combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../../Browse/Classes/Censor), but they might appear in future products.)
 
@@ -115,20 +115,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                               | Skill Group   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)             | Crafting      |
-| Death      | [Grave Speech](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                             | Lore          |
-| Fate       | [Oracular Visions](../../../../Browse/Conduit/1st-Level%20Features/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../../Browse/Conduit/1st-Level%20Features/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                       | Exploration   |
-| Protection | [Protective Circle](../../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../../Browse/Conduit/1st-Level%20Features/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../../../Browse/Conduit/1st-Level%20Features/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../../Browse/Conduit/1st-Level%20Features/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../../Browse/Conduit/1st-Level%20Features/Sanctified%20Weapon)                             | Exploration   |
+| Domain     | Feature                                                                                                                   | Skill Group   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
+| Death      | [Grave Speech](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
+| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
+| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
+| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
+| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Nature     | [Faithful Friend](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
+| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
+| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
+| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
+| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -213,7 +213,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../../Browse/Conduit/1st-Level%20Features/Protective%20Circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 

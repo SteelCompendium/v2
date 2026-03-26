@@ -90,7 +90,7 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../../../Browse/Shadow/1st-Level%20Features/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-outside-of-combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
@@ -100,11 +100,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you one or two feat
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                                    |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                     |
-| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../../Browse/Shadow/1st-Level%20Features/Smoke%20Bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                              |
+| College         | Feature                                                                                                                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
 
@@ -463,11 +463,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Burning Ash](../../../Browse/Shadow/2nd-Level%20Features/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../../Browse/Shadow/2nd-Level%20Features/Trained%20Assassin) |
-| Harlequin Mask  | Friend!                                                                                                |
+| College         | Feature                                                                                        |
+| --------------- | ---------------------------------------------------------------------------------------------- |
+| Black Ash       | [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash)           |
+| Caustic Alchemy | [Trained Assassin](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin) |
+| Harlequin Mask  | Friend!                                                                                        |
 
 ##### Burning Ash
 
@@ -725,11 +725,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 ###### 5th-Level College Features Table
 
-| College         | Feature                                                                                                  |
-| --------------- | -------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../../../Browse/Shadow/5th-Level%20Features/Trail%20of%20Cinders) |
-| Caustic Alchemy | [Volatile Reagents](../../../Browse/Shadow/5th-Level%20Features/Volatile%20Reagents) |
-| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Shadow/5th-Level%20Features/Harlequin%20Gambit)   |
+| College         | Feature                                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------------ |
+| Black Ash       | [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders)   |
+| Caustic Alchemy | [Volatile Reagents](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:volatile-reagents) |
+| Harlequin Mask  | [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit)   |
 
 ##### Harlequin Gambit
 
@@ -979,17 +979,17 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 | College         | Feature                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](../../../Browse/Shadow/8th-Level%20Features/Cinder%20Step)       |
+| Black Ash       | [Cinder Step](scc:mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:cinder-step)               |
 | Caustic Alchemy | [Time Bomb](../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb) |
 | Harlequin Mask  | Parkour                                                                                            |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport). When you [teleport](../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../../Browse/Shadow/2nd-Level%20Features/Burning%20Ash) and [Trail of Cinders](../../../Browse/Shadow/5th-Level%20Features/Trail%20of%20Cinders) features.
+Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport). When you [teleport](../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash) and [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../Browse/Shadow/5th-Level%20Features/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 

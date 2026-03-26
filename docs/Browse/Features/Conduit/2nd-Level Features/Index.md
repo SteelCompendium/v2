@@ -7,6 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [2nd Level Domain Ability](../2nd%20Level%20Domain%20Ability)
 - [2nd Level Domain Feature](../2nd%20Level%20Domain%20Feature)
 - [Perk](../Perk)
 - [The Lists of Heaven](../The%20Lists%20of%20Heaven)

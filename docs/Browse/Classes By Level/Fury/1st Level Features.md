@@ -45,7 +45,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../../../Browse/Fury/1st-Level%20Features/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -53,7 +53,7 @@ When you use an ability outside of combat that lets you spend unlimited ferocity
 
 You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
-Some [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
+Some [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
@@ -83,15 +83,15 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                                            |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Strength)                                                                                    |
-| Reaver     | Kit, [Primordial Cunning](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Cunning)                                                                                      |
-| Stormwight | [Beast Shape](../../../../Browse/Fury/1st-Level%20Features/Beast%20Shape), [Relentless Hunter](../../../../Browse/Fury/1st-Level%20Features/Relentless%20Hunter) |
+| Aspect     | Feature                                                                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
+| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
+| Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 ##### Kit
 
@@ -101,13 +101,13 @@ You can use and gain the benefits of a kit. See Chapter 6: Kits for more informa
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
