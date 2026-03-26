@@ -81,7 +81,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](../../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../Browse/Classes/Fury) has them using the Grab or [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../Browse/Classes/Fury) has them using the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab) or [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -466,7 +466,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../../Browse/Movement/Jump) as part of your charge.
+Whenever you use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../../Browse/Movement/Jump) as part of your [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 #### 2nd-Level Aspect Ability
 
@@ -594,7 +594,7 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Berserker  | [Immovable Object](../../../Browse/Fury/3rd-Level%20Features/Immovable%20Object)                     |
 | Reaver     | [See Through Their Tricks](../../../Browse/Fury/3rd-Level%20Features/See%20Through%20Their%20Tricks) |
-| Stormwight | Nature's Knight                                                                                                          |
+| Stormwight | [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/Natures%20Knight)                        |
 
 ##### Immovable Object
 
@@ -802,7 +802,7 @@ As a 6th-level [fury](../../../Browse/Classes/Fury), you gain the following feat
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/Natures%20Knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -974,7 +974,7 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -1310,10 +1310,10 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | You can have up to two creatures [grabbed](../../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../../Browse/Conditions/Grabbed), you gain 1 surge.             |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                   |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
+| 4               | The first time you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 1 surge.                                                                                                                                              |
+| 6               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                            |
+| 8 (4th level)   | The first time you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
+| 10 (7th level)  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                      |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
@@ -1326,7 +1326,7 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](../../../Browse/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](../../../Browse/Movement/Fly). You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, and you can use your allies as cover when you [hide](../../../Browse/Abilities/Common/Maneuvers/Hide). You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
@@ -1386,7 +1386,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, you can use your allies as cover when you [hide](../../../Browse/Abilities/Common/Maneuvers/Hide), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 

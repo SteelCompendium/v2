@@ -34,6 +34,6 @@ type: title/2nd-echelon
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide) from, or sneak by the target and doesn't like the outcome.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.

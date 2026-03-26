@@ -28,7 +28,7 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../../../../Browse/Conditions/Grabbed) in this way takes a bane when using the [Escape Grab](../../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab) the target. A target [grabbed](../../../../../Browse/Conditions/Grabbed) in this way takes a bane when using the [Escape Grab](../../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
 
 **5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../../../../Browse/Conditions/Grabbed) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
 

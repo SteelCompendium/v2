@@ -160,7 +160,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
-**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use an ability with the Charge keyword against a target when they end their move.
+**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword against a target when they end their move.
 
 **Ceiling:** Any solid surface above a creature.
 
@@ -316,7 +316,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Heroic Resource:** A measure of a hero's combat power that increases during battle, and which can be spent to use abilities or improve their effectiveness.
 
-**Hide Maneuver:** A maneuver that allows a creature to hide from other creatures who aren't observing them.
+**Hide Maneuver:** A maneuver that allows a creature to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from other creatures who aren't observing them.
 
 **High Elves:** A fey ancestry in tune with innate magic that affects how others interact with them.
 
@@ -1157,9 +1157,9 @@ See [Free Strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) i
 
 **<span class="steel-compendium-feature">Melee Weapon Free Strike</span>**
 
-| **Charge, Melee, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1**                    | **🎯 One creature or object** |
+| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                  | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 
@@ -3124,7 +3124,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 ##### Four-Armed Martial Arts (2 Points)
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/Conditions/Grabbed) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) or [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/Conditions/Grabbed) at a time.
 
 ##### Psionic Gift (2 Points)
 
@@ -4046,7 +4046,7 @@ Each class also has a number of subclasses presented in this book. Your subclass
 
 ### Abilities
 
-Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) and maneuvers such as Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
+Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) and maneuvers such as [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
@@ -4059,7 +4059,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](../../Browse/Classes/Fury)'s Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](../../Browse/Classes/Fury)'s Impaled ability allows you to [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
@@ -4097,7 +4097,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities de
 
 ##### Charge
 
-Abilities with the Charge keyword can be used with the Charge main action instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). (The Charge main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
+Abilities with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword can be used with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). (The [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
 
 ##### Magic
 
@@ -4199,7 +4199,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight [vertical](../../Browse/Movement/Vertical) or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
 >
-> Likewise, abilities and effects that require a creature to move in a straight line, such as the Charge main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
+> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
 #### Target
 
@@ -4381,7 +4381,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](../../Browse/Classes/Shadow)'s Black Ash [Teleport](../../Browse/Movement/Teleport) ability is a maneuver that allows you to [teleport](../../Browse/Movement/Teleport) and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow](../../Browse/Classes/Shadow)'s Black Ash [Teleport](../../Browse/Movement/Teleport) ability is a maneuver that allows you to [teleport](../../Browse/Movement/Teleport) and then use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as its overall effect. Using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -4467,9 +4467,9 @@ A creature who has another creature [grabbed](../../Browse/Conditions/Grabbed) c
 
 A creature can release a creature they have [grabbed](../../Browse/Conditions/Grabbed) at any time to end that condition (no action required). A [grabbed](../../Browse/Conditions/Grabbed) creature can attempt to escape being [grabbed](../../Browse/Conditions/Grabbed) using the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](../../Browse/Conditions/Grabbed) creature [teleports](../../Browse/Movement/Teleport), or if either the [grabbed](../../Browse/Conditions/Grabbed) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../../Browse/Conditions/Grabbed).
 
-A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
+A creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) any creature larger than them with a size equal to or less than their Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) only one creature at a time.
 
 ##### Prone
 
@@ -5001,11 +5001,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you two features, as sho
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                             |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Saint's Vigilance, [A Sense for Truth](../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth)                                                                                      |
-| Oracle   | [It Was Foretold](../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character) |
-| Paragon  | [Lead by Example](../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)             |
+| Order    | Features                                                                                                                                                                                                              |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](../../Browse/Censor/2nd-Level%20Features/Saints%20Vigilance), [A Sense for Truth](../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth) |
+| Oracle   | [It Was Foretold](../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character)  |
+| Paragon  | [Lead by Example](../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)              |
 
 ##### It Was Foretold
 
@@ -5021,7 +5021,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -5214,7 +5214,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Creation   | [Improved Hands of the Maker](../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
 | Love       | [Invocation of the Heart](../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
 | Nature     | [Wode Road](../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
@@ -5263,7 +5263,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 
@@ -5510,20 +5510,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
-| Life       | [Font of Grace](../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | Nature's Bounty                                                                                                                     |
-| Protection | [Blessing of Iron](../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                        |
-| Sun        | [Light of the Burning Sun](../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](../../Browse/Censor/7th-Level%20Features/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../Browse/Censor/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../Browse/Censor/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | [Gods' Library](../../Browse/Censor/7th-Level%20Features/Gods%20Library)                                    |
+| Life       | [Font of Grace](../../Browse/Censor/7th-Level%20Features/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../Browse/Censor/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../Browse/Censor/7th-Level%20Features/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../Browse/Censor/7th-Level%20Features/Blessing%20of%20Iron)                           |
+| Storm      | [Ride the Lightning](../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                       |
+| Sun        | [Light of the Burning Sun](../../Browse/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../Browse/Censor/7th-Level%20Features/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../Browse/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -5913,9 +5913,9 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5                |
 | 6th   | [Burgeoning Saint](../../Browse/Conduit/6th-Level%20Features/Burgeoning%20Saint), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../Browse/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | Avatar, Characteristic Increase, Divine Power, [Most Pious](../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
@@ -5946,7 +5946,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../Browse/Conduit/1st-Level%20Features/Piety%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -6008,7 +6008,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) or [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../Browse/Classes/Conduit) level.
 
 ###### War Domain Piety and Effect
@@ -6053,7 +6053,9 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
+
+**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
@@ -6816,7 +6818,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Improved Hands of the Maker](../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
 | Love       | [Invocation of the Heart](../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
 | Nature     | [Wode Road](../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
@@ -6865,7 +6867,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ###### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ###### Oracular Warning
 
@@ -7184,12 +7186,12 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | [Divine Quartermaster](../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
 | Death      | [Word of Death Deferred](../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
 | Fate       | [Word of Fate Denied](../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
+| Knowledge  | [Gods' Library](../../Browse/Conduit/7th-Level%20Features/Gods%20Library)                                    |
 | Life       | [Font of Grace](../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
 | Love       | [Covenant of the Heart](../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | Nature's Bounty                                                                                                                     |
+| Nature     | [Nature's Bounty](../../Browse/Conduit/7th-Level%20Features/Natures%20Bounty)                                |
 | Protection | [Blessing of Iron](../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | Thunderstruck                                                                                                                       |
+| Storm      | [Thunderstruck](../../Browse/Conduit/7th-Level%20Features/Thunderstruck)                                     |
 | Sun        | [Light of the Burning Sun](../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
 | Trickery   | [Trinity of Trickery](../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
 | War        | [Your Triumphs Are Remembered](../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
@@ -8244,28 +8246,28 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 
 ###### Green Animal Forms Table
 
-| Animal Type         | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](../../Browse/Movement/Stability) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Canine              | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Fish                | 2nd   | 0                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Rodent              | 2nd   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Bird                | 3rd   | 0                 | 5 ([fly](../../Browse/Movement/Fly))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Great cat           | 3rd   | 5                 | 6 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../../Browse/Movement/Jump) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](../../Browse/Conditions/Prone), and you can<br>make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them (no action required).                                                                                                                                              |
-| Giant frog          | 4th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) has a distance of melee 3. When you take the Advance<br>move action, you can high [jump](../../Browse/Movement/Jump) or long [jump](../../Browse/Movement/Jump) up to half your speed. This<br>[jump](../../Browse/Movement/Jump) can allow you to move more squares than your speed.                                                                                                   |
-| Horse               | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Mohler              | 4th   | 0                 | 7 ([burrow](../../Browse/Movement/Burrow))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Bear                | 5th   | 10                | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Giant bird          | 5th   | 0                 | 7 ([fly](../../Browse/Movement/Fly))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                      |
-| Giant<br>salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                |
-| Giant spider        | 6th   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                              |
-| Giant snake         | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you<br>can automatically grab the target. While [grabbed](../../Browse/Conditions/Grabbed) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                                                                                |
-| Kangaroo            | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), the target is [dazed](../../Browse/Conditions/Dazed) (save<br>ends). When you take the Advance move action, you can high [jump](../../Browse/Movement/Jump) or long<br>[jump](../../Browse/Movement/Jump) up to half your speed. This [jump](../../Browse/Movement/Jump) can allow you to move more squares<br>than your speed. |
-| Spiny armadillo     | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Ostrich             | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Shark               | 8th   | 0                 | 8 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../../Browse/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                                                                                                            |
-| Giant octopus       | 9th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../../Browse/Conditions/Grabbed).                                                      |
-| Rhinoceros          | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                   |
-| King terror lizard  | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Animal Type         | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](../../Browse/Movement/Stability) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Canine              | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Fish                | 2nd   | 0                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Rodent              | 2nd   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Bird                | 3rd   | 0                 | 5 ([fly](../../Browse/Movement/Fly))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Great cat           | 3rd   | 5                 | 6 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../../Browse/Movement/Jump) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](../../Browse/Conditions/Prone), and you can<br>make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them (no action required).                                                                                                                                                                |
+| Giant frog          | 4th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) has a distance of melee 3. When you take the Advance<br>move action, you can high [jump](../../Browse/Movement/Jump) or long [jump](../../Browse/Movement/Jump) up to half your speed. This<br>[jump](../../Browse/Movement/Jump) can allow you to move more squares than your speed.                                                                                                                     |
+| Horse               | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a maneuver. You can't use two [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge)<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                   |
+| Mohler              | 4th   | 0                 | 7 ([burrow](../../Browse/Movement/Burrow))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Bear                | 5th   | 10                | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../../Browse/Movement/Fly))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Giant<br>salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Giant spider        | 6th   | 0                 | 5 ([climb](../../Browse/Movement/Climb%20or%20Swim))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Giant snake         | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you<br>can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target. While [grabbed](../../Browse/Conditions/Grabbed) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                           |
+| Kangaroo            | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), the target is [dazed](../../Browse/Conditions/Dazed) (save<br>ends). When you take the Advance move action, you can high [jump](../../Browse/Movement/Jump) or long<br>[jump](../../Browse/Movement/Jump) up to half your speed. This [jump](../../Browse/Movement/Jump) can allow you to move more squares<br>than your speed.                   |
+| Spiny armadillo     | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Ostrich             | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Shark               | 8th   | 0                 | 8 ([swim](../../Browse/Movement/Climb%20or%20Swim) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../../Browse/Conditions/Bleeding) or winded.                                                                                                                                                                                                                                                                                                                                                                              |
+| Giant octopus       | 9th   | 5                 | 5 ([swim](../../Browse/Movement/Climb%20or%20Swim))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target. You can have up to<br>eight creatures [grabbed](../../Browse/Conditions/Grabbed). |
+| Rhinoceros          | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                       |
+| King terror lizard  | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ##### There Is No Space Between
 
@@ -9114,7 +9116,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../Browse/Classes/Fury) has them using the Grab or [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../Browse/Classes/Fury) has them using the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) or [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -9499,7 +9501,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../Browse/Movement/Jump) as part of your charge.
+Whenever you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../Browse/Movement/Jump) as part of your [charge](../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 #### 2nd-Level Aspect Ability
 
@@ -9627,7 +9629,7 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Berserker  | [Immovable Object](../../Browse/Fury/3rd-Level%20Features/Immovable%20Object)                     |
 | Reaver     | [See Through Their Tricks](../../Browse/Fury/3rd-Level%20Features/See%20Through%20Their%20Tricks) |
-| Stormwight | Nature's Knight                                                                                                          |
+| Stormwight | [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/Natures%20Knight)                        |
 
 ##### Immovable Object
 
@@ -9835,7 +9837,7 @@ As a 6th-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/Natures%20Knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -10007,7 +10009,7 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -10343,10 +10345,10 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | You can have up to two creatures [grabbed](../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../Browse/Conditions/Grabbed), you gain 1 surge.             |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                   |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
+| 4               | The first time you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 1 surge.                                                                                                                                              |
+| 6               | You gain an edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                            |
+| 8 (4th level)   | The first time you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
+| 10 (7th level)  | You have a double edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                      |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
@@ -10359,7 +10361,7 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](../../Browse/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](../../Browse/Movement/Fly). You can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, and you can use your allies as cover when you [hide](../../Browse/Abilities/Common/Maneuvers/Hide). You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
@@ -10419,7 +10421,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, you can use your allies as cover when you [hide](../../Browse/Abilities/Common/Maneuvers/Hide), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
@@ -10667,14 +10669,14 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action either before or after the maneuver. |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
-| 6               | You gain an edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                                           |
+| 6               | You gain an edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                                     |
+| 10 (7th level)  | You have a double edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                              |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the Cryokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -10683,10 +10685,10 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 1 surge.                                                                           |
-| 6               | You gain an edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 2 surges.                                                                          |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                       |
+| 4               | The first time on a turn that you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 1 surge.    |
+| 6               | You gain an edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                      |
+| 8 (4th level)   | The first time on a turn that you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature or an enemy moves 1 or more squares in the area of your [Null](../../Browse/Classes/Null) Field ability, you gain 2 surges.   |
+| 10 (7th level)  | You have a double edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
@@ -10697,14 +10699,14 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 ###### Metakinetic Mastery Table
 
-| Discipline      | Benefit                                                                                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2               | Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, the forced movement distance gains a bonus equal to your Intuition score. |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                              |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                    |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                        |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.    |
+| Discipline      | Benefit                                                                                                                                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2               | Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
+| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
+| 6               | You gain an edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.       |
+| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
+| 10 (7th level)  | You have a double edge on the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. |
+| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
 
 #### Null Speed
 
@@ -10728,7 +10730,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Psionic Martial Arts
 
-Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) or [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities
 
@@ -11832,7 +11834,7 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you one or two feature
 
 | College         | Feature                                                                                                                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | Black Ash Teleport                                                                                                                                                                                         |
+| Black Ash       | [Black Ash Teleport](../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                     |
 | Caustic Alchemy | [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../Browse/Shadow/1st-Level%20Features/Smoke%20Bomb) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                              |
 
@@ -11849,7 +11851,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed. If you successfully [hide](../../Browse/Abilities/Common/Maneuvers/Hide) using this maneuver, you gain 1 surge.
 >
 > **Spend 1+ Insight:** You [teleport](../../Browse/Movement/Teleport) 1 additional square for each insight spent.
 
@@ -11891,7 +11893,7 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
@@ -11929,7 +11931,7 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a triggered action
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -12599,7 +12601,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -13501,7 +13503,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ######## Hit 'Em Hard! (7 Focus)
@@ -13582,7 +13584,7 @@ You have learned to be more preemptive on the battlefield, thinking more steps a
 
 ##### Distracted
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
 
 ##### I Predicted That
 
@@ -13598,7 +13600,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### 9-Focus Ability
 
@@ -13760,15 +13762,15 @@ Choose one of the following abilities.
 >
 > *You lead your allies in a charge.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
-> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge)
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge)
+> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge)
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../Browse/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -13840,7 +13842,7 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
 
 ##### Pincer Movement
 
@@ -13927,7 +13929,7 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 Choose one of the following abilities.
 
 <!-- -->
-> ######## Squad! Hit and Run! (11 Focus)
+> ######## Squad! [Hit and Run](../../Browse/Abilities/Fury/1st-Level%20Features/Hit%20and%20Run)! (11 Focus)
 >
 > *I had to pry this secret from the shadow colleges.*
 >
@@ -13989,9 +13991,9 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Effect:** You mark the target.
 >
@@ -14001,7 +14003,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+> **Effect:** If you use this ability as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 <!-- -->
 > ######## That One Is Mine! (11 Focus)
@@ -14950,9 +14952,9 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > *You move fast enough to turn around and watch your foes feel the aftermath.*
 >
-> | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
-> | -------------------------------------- | ----------------------------: |
-> | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
+> | **Area, [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Psionic, Telekinesis** |               **Main action** |
+> | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+> | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 >
 > **Effect:** You [teleport](../../Browse/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
 >
@@ -15554,7 +15556,7 @@ There is no visible text in the image provided. The image appears to show a deco
 | 4th   | Characteristic Increase, [Melodrama](../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, Zeitgeist                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9     | 5                   |
 | 6th   | Perk, [Spotlight](../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, [Equal Billing](../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
+| 7th   | Characteristic Increase, [A Muse's Muse](../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | Applause, Characteristic Increase, Dramaturgy, [Greatest of All Time](../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
@@ -16778,9 +16780,9 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> | --------------------------------- | ----------------------------: |
-> | **📏 Melee 3**                    | **🎯 One creature or object** |
+> | **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+> | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
 > **Power Roll + Agility:**
 >
@@ -17887,7 +17889,7 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult
 
-As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then [vertical](../../Browse/Movement/Vertical) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+As a maneuver, you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a willing adjacent ally or object of your size or smaller, then [vertical](../../Browse/Movement/Vertical) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
 
 #### I've Got You!
 
@@ -17979,7 +17981,7 @@ Whenever you fail a test using any skill from the intrigue skill group, you can 
 
 #### Master of Disguise
 
-You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
+You can don or remove a disguise as part of any test you make using the Hide skill, or while using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver.
 
 #### Slipped Lead
 
@@ -18096,7 +18098,7 @@ You have the following ability.
 > | ------------------- | ------------------------: |
 > | **📏 Ranged 10**    | **🎯 One size 1T object** |
 >
-> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+> **Effect:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
 
 #### Psychic Whisper
 
@@ -18333,7 +18335,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -18375,7 +18377,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Grab, and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Grab](../../Browse/Abilities/Common/Maneuvers/Grab), and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -19254,7 +19256,7 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
-**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
+**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) or sneak.
 
 # Tests
 
@@ -19435,7 +19437,7 @@ In lieu of other rewards, the Director can also decide that a hero who succeeds 
 
 #### How Long Does It Take?
 
-The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
+The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
 ##### Tests During Combat
 
@@ -19459,7 +19461,7 @@ To quickly assess the difficulty of a task opposed by one or more creatures and 
 - **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
 - **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
-The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
+The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
 
 #### NPCs Roll for Deceptive Tasks
 
@@ -19505,7 +19507,7 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### Applying Skills
 
-If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
+If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) behind a barrel, or a Presence test to disappear into a crowd.
 
 The +2 bonus gained for a skill isn't an edge. A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an edge.
 
@@ -19722,7 +19724,7 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Director:** *Wishful thinking.*
 
-**Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
+**Alyssa:** *What if Korvo [grabs](../../Browse/Abilities/Common/Maneuvers/Grab) onto the rope and I lift him up while he just hangs on for the ride?*
 
 **Director:** *Sure. That'll be a Might test if Korvo's down for it.*
 
@@ -19768,15 +19770,13 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 #### Hiding
 
-To hide from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+To [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). A creature is observing you if they're aware of your specific location before you attempt to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from a foe, your attempt to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can [hide](../../Browse/Abilities/Common/Maneuvers/Hide) only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your [hide](../../Browse/Abilities/Common/Maneuvers/Hide) attempt.
 
-When you use the Hide maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
+When you use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you [hide](../../Browse/Abilities/Common/Maneuvers/Hide) outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
 Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
-
-Draw Steel
 
 You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
 
@@ -19791,7 +19791,7 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 <!-- -->
 > **What Does It Mean to Be Observed?**
 >
-> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
+> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
 
 #### Sneaking
 
@@ -20379,7 +20379,7 @@ A creature who is [grabbed](../../Browse/Conditions/Grabbed) by another creature
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
+> - **12-16:** You can escape the [grab](../../Browse/Abilities/Common/Maneuvers/Grab), but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
 > - **17+:** You are no longer [grabbed](../../Browse/Conditions/Grabbed).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/Conditions/Grabbed).
@@ -20388,7 +20388,7 @@ See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information
 
 #### Grab
 
-A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+A creature seeking to keep a foe close and locked down can attempt to [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature using the following ability.
 
 <!-- -->
 > ######## Grab
@@ -20400,18 +20400,18 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before they are [grabbed](../../Browse/Conditions/Grabbed).
+> - **12-16:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before they are [grabbed](../../Browse/Conditions/Grabbed).
 > - **17+:** The target is [grabbed](../../Browse/Conditions/Grabbed) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) only one creature at a time.
 
 See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
 
 #### Hide
 
-Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+Using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver, a creature attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
 
 #### Knockback
 
@@ -20454,15 +20454,15 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You can also use your main action to help another creature regain Stamina, [charge](../../Browse/Abilities/Common/Main%20Actions/Charge) into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When a creature takes the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they [charge](../../Browse/Abilities/Common/Main%20Actions/Charge). They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
@@ -20478,7 +20478,7 @@ A creature who uses the [Heal](../../Browse/Abilities/Common/Main%20Actions/Heal
 
 ### Free Strikes
 
-Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see Charge above).
+Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) above).
 
 Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s [Overwatch](../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch) ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
@@ -20500,9 +20500,9 @@ A melee weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%2
 
 **<span class="steel-compendium-feature">Melee Weapon Free Strike</span>**
 
-| **Charge, Melee, Stike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Stike, Weapon** |               **Main action** |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                 | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 
@@ -22374,7 +22374,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../../Browse/Kits/Warrior%20Priest) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s Prayer of Soldier's Skill.
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s [Prayer of Soldier's Skill](../../Browse/Conduit/1st-Level%20Features/Prayer%20of%20Soldiers%20Skill).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -22697,7 +22697,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](../../Browse/Conditions/Grabbed). While [grabbed](../../Browse/Conditions/Grabbed) this way, the creature is [bleeding](../../Browse/Conditions/Bleeding). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, the target of your strike is gored upon your horns and [grabbed](../../Browse/Conditions/Grabbed). While [grabbed](../../Browse/Conditions/Grabbed) this way, the creature is [bleeding](../../Browse/Conditions/Bleeding). You can also [grab](../../Browse/Abilities/Common/Maneuvers/Grab) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -22729,7 +22729,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the Hide maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even while you are observed.
 
 ##### Float Powder
 
@@ -23139,7 +23139,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is [grabbed](../../Browse/Conditions/Grabbed), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver at a distance. If the target is [grabbed](../../Browse/Conditions/Grabbed), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your [grab](../../Browse/Abilities/Common/Maneuvers/Grab), or you call upon the vine to release the target (no action required).
 
 ##### Flameshade Gloves
 
@@ -23189,7 +23189,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free maneuver, regardless of the target creature's size.
 
 ##### Mask of the Many
 
@@ -23758,7 +23758,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/Conditions/Grabbed) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/Conditions/Grabbed) in this way.
 
 **5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver while [grabbed](../../Browse/Conditions/Grabbed) this way takes a bane on the test.
 
@@ -24046,7 +24046,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the Charge main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to shift, you can [fly](../../Browse/Movement/Fly) as part of the charge movement or the shift. If you don't end your [flying](../../Browse/Movement/Fly) movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action and use an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword, or whenever you use an ability that allows you to shift, you can [fly](../../Browse/Movement/Fly) as part of the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge) movement or the shift. If you don't end your [flying](../../Browse/Movement/Fly) movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be [vertical](../../Browse/Movement/Vertical).
 
@@ -24064,7 +24064,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../Browse/Conditions/Grabbed) in this way takes a bane when using the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target. A target [grabbed](../../Browse/Conditions/Grabbed) in this way takes a bane when using the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
 
 **5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../Browse/Conditions/Grabbed) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver.
 
@@ -24206,11 +24206,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the Grab maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (no action required). On your turn, you can use the wraps' melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) option or Grab maneuver option, but only one.
+**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (no action required). On your turn, you can use the wraps' melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) option or [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) option, or Grab maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) option, or [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver option, but only one.
 
 ##### Lightning Treads
 
@@ -24639,9 +24639,9 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Flying Circus:* When you are adjacent to a willing ally on their turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
-- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
+- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or [hide](../../Browse/Abilities/Common/Maneuvers/Hide), they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
 - *Supporting Player:* You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
-- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, hide, pick pockets, or sneak.
+- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, [hide](../../Browse/Abilities/Common/Maneuvers/Hide), pick pockets, or sneak.
 
 #### Wanted Dead or Alive
 
@@ -24741,7 +24741,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the Charge main action.
+> **Effect:** Each target can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.
@@ -24769,7 +24769,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Artillerist:* You gain a +5 damage bonus when using a ship's weapons
 - *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is flying from your ship, crewmembers of other ships who have line of effect to the flag take a bane on strikes made against your ship or its crew.
 - *Fearsome Reputation:* You earn 1 Renown.
-- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
+- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) or Sneak to let your ship avoid notice.
 
 #### Faction Officer
 
@@ -24855,7 +24855,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from, or sneak by the target and doesn't like the outcome.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
 
@@ -24958,7 +24958,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../Browse/Classes/Fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 ### 3rd-Echelon Titles
 

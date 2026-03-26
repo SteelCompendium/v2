@@ -39,6 +39,7 @@ type: index
 - [Practical Magic](../Practical%20Magic)
 - [Return to Formlessness](../Return%20to%20Formlessness)
 - [Signature Abilities](../Signature%20Abilities)
+- [Specialization Triggered Action](../Specialization%20Triggered%20Action)
 - [Ward of Delightful Consequences](../Ward%20of%20Delightful%20Consequences)
 - [Ward of Excellent Protection](../Ward%20of%20Excellent%20Protection)
 - [Ward of Natures Affection](../Ward%20of%20Natures%20Affection)

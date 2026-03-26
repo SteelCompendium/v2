@@ -20,6 +20,6 @@ A creature who has another creature [grabbed](../../../Browse/Conditions/Grabbed
 
 A creature can release a creature they have [grabbed](../../../Browse/Conditions/Grabbed) at any time to end that condition (no action required). A [grabbed](../../../Browse/Conditions/Grabbed) creature can attempt to escape being [grabbed](../../../Browse/Conditions/Grabbed) using the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](../../../Browse/Conditions/Grabbed) creature [teleports](../../../Browse/Movement/Teleport), or if either the [grabbed](../../../Browse/Conditions/Grabbed) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../../../Browse/Conditions/Grabbed).
 
-A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
+A creature can [grab](../../../Browse/Abilities/Common/Maneuvers/Grab) only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can [grab](../../../Browse/Abilities/Common/Maneuvers/Grab) any creature larger than them with a size equal to or less than their Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](../../../Browse/Abilities/Common/Maneuvers/Grab) only one creature at a time.

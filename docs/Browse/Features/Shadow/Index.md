@@ -18,6 +18,7 @@ type: index
 - [Subterfuge](../10th-Level%20Features/Subterfuge)
 - [Black Ash Teleport](../1st-Level%20Features/Black%20Ash%20Teleport)
 - [Coat the Blade](../1st-Level%20Features/Coat%20the%20Blade)
+- [College Triggered Action](../1st-Level%20Features/College%20Triggered%20Action)
 - [Hesitation Is Weakness](../1st-Level%20Features/Hesitation%20Is%20Weakness)
 - [Im No Threat](../1st-Level%20Features/Im%20No%20Threat)
 - [Insight in Combat](../1st-Level%20Features/Insight%20in%20Combat)

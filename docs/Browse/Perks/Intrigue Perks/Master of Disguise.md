@@ -14,4 +14,4 @@ type: perk/intrigue
 
 #### Master of Disguise
 
-You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
+You can don or remove a disguise as part of any test you make using the Hide skill, or while using the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver.

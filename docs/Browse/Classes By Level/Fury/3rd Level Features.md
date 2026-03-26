@@ -26,7 +26,7 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Berserker  | [Immovable Object](../../../../Browse/Fury/3rd-Level%20Features/Immovable%20Object)                     |
 | Reaver     | [See Through Their Tricks](../../../../Browse/Fury/3rd-Level%20Features/See%20Through%20Their%20Tricks) |
-| Stormwight | Nature's Knight                                                                                                          |
+| Stormwight | [Nature's Knight](../../../../Browse/Fury/3rd-Level%20Features/Natures%20Knight)                        |
 
 ##### Immovable Object
 

@@ -224,7 +224,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -266,7 +266,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), Grab, and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Grab](../../Browse/Abilities/Common/Maneuvers/Grab), and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -1145,4 +1145,4 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
-**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
+**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) or sneak.

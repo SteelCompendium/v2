@@ -116,9 +116,9 @@ See [Free Strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) i
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1**                    | **🎯 One creature or object** |
+| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                  | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 

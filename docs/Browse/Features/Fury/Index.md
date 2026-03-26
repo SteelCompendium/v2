@@ -16,6 +16,7 @@ type: index
 - [Primordial Ferocity](../10th-Level%20Features/Primordial%20Ferocity)
 - [Primordial Power](../10th-Level%20Features/Primordial%20Power)
 - [Skill](../10th-Level%20Features/Skill)
+- [Aspect Triggered Action](../1st-Level%20Features/Aspect%20Triggered%20Action)
 - [Ferocity in Combat](../1st-Level%20Features/Ferocity%20in%20Combat)
 - [Ferocity Outside of Combat](../1st-Level%20Features/Ferocity%20Outside%20of%20Combat)
 - [Growing Ferocity](../1st-Level%20Features/Growing%20Ferocity)

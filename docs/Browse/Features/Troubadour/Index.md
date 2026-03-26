@@ -15,6 +15,7 @@ type: index
 - [Greatest of All Time](../10th-Level%20Features/Greatest%20of%20All%20Time)
 - [Perk](../10th-Level%20Features/Perk)
 - [Skill](../10th-Level%20Features/Skill)
+- [Class Act Triggered Action](../1st-Level%20Features/Class%20Act%20Triggered%20Action)
 - [Drama in Combat](../1st-Level%20Features/Drama%20in%20Combat)
 - [Drama Outside of Combat](../1st-Level%20Features/Drama%20Outside%20of%20Combat)
 - [Kit](../1st-Level%20Features/Kit)

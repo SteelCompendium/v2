@@ -23,4 +23,4 @@ type: title/2nd-echelon
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../../../Browse/Classes/Fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge).

@@ -28,4 +28,4 @@ type: treasure/trinkets/1st-echelon
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free maneuver, regardless of the target creature's size.

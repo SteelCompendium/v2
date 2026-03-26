@@ -25,6 +25,7 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [Doctrine Triggered Action](../Doctrine%20Triggered%20Action)
 - [Field Arsenal](../Field%20Arsenal)
 - [Focus in Combat](../Focus%20in%20Combat)
 - [Focus Outside of Combat](../Focus%20Outside%20of%20Combat)

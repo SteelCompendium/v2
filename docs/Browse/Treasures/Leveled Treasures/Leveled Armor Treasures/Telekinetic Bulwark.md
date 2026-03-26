@@ -28,7 +28,7 @@ type: treasure/leveled/armor
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the Grab maneuver against that enemy. You can have any number of enemies [grabbed](../../../../../Browse/Conditions/Grabbed) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab) maneuver against that enemy. You can have any number of enemies [grabbed](../../../../../Browse/Conditions/Grabbed) in this way.
 
 **5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab) maneuver while [grabbed](../../../../../Browse/Conditions/Grabbed) this way takes a bane on the test.
 

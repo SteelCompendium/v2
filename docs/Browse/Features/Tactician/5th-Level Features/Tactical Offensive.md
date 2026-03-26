@@ -19,4 +19,4 @@ type: feature/trait/tactician/5th-level-feature
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When you use the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).

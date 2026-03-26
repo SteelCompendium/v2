@@ -197,7 +197,7 @@ In lieu of other rewards, the Director can also decide that a hero who succeeds 
 
 #### How Long Does It Take?
 
-The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
+The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
 ##### Tests During Combat
 
@@ -221,7 +221,7 @@ To quickly assess the difficulty of a task opposed by one or more creatures and 
 - **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
 - **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
-The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
+The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
 
 #### NPCs Roll for Deceptive Tasks
 
@@ -267,7 +267,7 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### Applying Skills
 
-If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
+If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) behind a barrel, or a Presence test to disappear into a crowd.
 
 The +2 bonus gained for a skill isn't an edge. A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an edge.
 
@@ -484,7 +484,7 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Director:** *Wishful thinking.*
 
-**Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
+**Alyssa:** *What if Korvo [grabs](../../Browse/Abilities/Common/Maneuvers/Grab) onto the rope and I lift him up while he just hangs on for the ride?*
 
 **Director:** *Sure. That'll be a Might test if Korvo's down for it.*
 
@@ -530,15 +530,13 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 #### Hiding
 
-To hide from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+To [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). A creature is observing you if they're aware of your specific location before you attempt to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from a foe, your attempt to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can [hide](../../Browse/Abilities/Common/Maneuvers/Hide) only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your [hide](../../Browse/Abilities/Common/Maneuvers/Hide) attempt.
 
-When you use the Hide maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
+When you use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you [hide](../../Browse/Abilities/Common/Maneuvers/Hide) outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
 Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
-
-Draw Steel
 
 You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
 
@@ -553,7 +551,7 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 <!-- -->
 > **What Does It Mean to Be Observed?**
 >
-> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
+> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to [hide](../../Browse/Abilities/Common/Maneuvers/Hide). For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
 
 #### Sneaking
 

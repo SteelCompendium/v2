@@ -26,20 +26,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
-| Life       | [Font of Grace](../../../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | Nature's Bounty                                                                                                                     |
-| Protection | [Blessing of Iron](../../../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                        |
-| Sun        | [Light of the Burning Sun](../../../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](../../../../Browse/Censor/7th-Level%20Features/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../../Browse/Censor/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../../Browse/Censor/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | [Gods' Library](../../../../Browse/Censor/7th-Level%20Features/Gods%20Library)                                    |
+| Life       | [Font of Grace](../../../../Browse/Censor/7th-Level%20Features/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../../Browse/Censor/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../../../Browse/Censor/7th-Level%20Features/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../../../Browse/Censor/7th-Level%20Features/Blessing%20of%20Iron)                           |
+| Storm      | [Ride the Lightning](../../../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                       |
+| Sun        | [Light of the Burning Sun](../../../../Browse/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../../Browse/Censor/7th-Level%20Features/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../../Browse/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 

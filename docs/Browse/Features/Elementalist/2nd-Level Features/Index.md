@@ -25,6 +25,7 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [Disciple of the Green](../Disciple%20of%20the%20Green)
 - [New 5 Essence Ability](../New%205%20Essence%20Ability)
 - [Perk](../Perk)
 - [There Is No Space Between](../There%20Is%20No%20Space%20Between)

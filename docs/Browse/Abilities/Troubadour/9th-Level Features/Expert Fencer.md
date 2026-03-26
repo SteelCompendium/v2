@@ -13,7 +13,7 @@ item_id: expert-fencer-11-drama
 item_index: '02'
 item_name: Expert Fencer (11 Drama)
 keywords:
-  - Charge
+  - '[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)'
   - Melee
   - Strike
   - Weapon
@@ -32,9 +32,9 @@ type: feature/ability/troubadour/9th-level-feature
 
 *If you can land the strike, the crowd goes wild.*
 
-| **Charge, Melee, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 3**                    | **🎯 One creature or object** |
+| **[Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 
 **Power Roll + Agility:**
 

@@ -95,7 +95,7 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult
 
-As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then [vertical](../../Browse/Movement/Vertical) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+As a maneuver, you [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a willing adjacent ally or object of your size or smaller, then [vertical](../../Browse/Movement/Vertical) push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
 
 #### I've Got You!
 
@@ -187,7 +187,7 @@ Whenever you fail a test using any skill from the intrigue skill group, you can 
 
 #### Master of Disguise
 
-You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
+You can don or remove a disguise as part of any test you make using the Hide skill, or while using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver.
 
 #### Slipped Lead
 
@@ -304,7 +304,7 @@ You have the following ability.
 > | ------------------- | ------------------------: |
 > | **📏 Ranged 10**    | **🎯 One size 1T object** |
 >
-> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+> **Effect:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
 
 #### Psychic Whisper
 

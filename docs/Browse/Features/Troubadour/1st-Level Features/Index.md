@@ -27,6 +27,7 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [Class Act Triggered Action](../Class%20Act%20Triggered%20Action)
 - [Drama in Combat](../Drama%20in%20Combat)
 - [Drama Outside of Combat](../Drama%20Outside%20of%20Combat)
 - [Kit](../Kit)

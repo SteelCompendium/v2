@@ -447,7 +447,7 @@ A creature who is [grabbed](../../Browse/Conditions/Grabbed) by another creature
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
+> - **12-16:** You can escape the [grab](../../Browse/Abilities/Common/Maneuvers/Grab), but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
 > - **17+:** You are no longer [grabbed](../../Browse/Conditions/Grabbed).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/Conditions/Grabbed).
@@ -456,7 +456,7 @@ See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information
 
 #### Grab
 
-A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+A creature seeking to keep a foe close and locked down can attempt to [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature using the following ability.
 
 <!-- -->
 > ###### Grab
@@ -468,18 +468,18 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before they are [grabbed](../../Browse/Conditions/Grabbed).
+> - **12-16:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before they are [grabbed](../../Browse/Conditions/Grabbed).
 > - **17+:** The target is [grabbed](../../Browse/Conditions/Grabbed) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-Unless otherwise indicated, a creature can grab only one creature at a time.
+Unless otherwise indicated, a creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) only one creature at a time.
 
 See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
 
 #### Hide
 
-Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+Using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver, a creature attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
 
 #### Knockback
 
@@ -522,15 +522,15 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You can also use your main action to help another creature regain Stamina, [charge](../../Browse/Abilities/Common/Main%20Actions/Charge) into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When a creature takes the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
-A creature can't move through difficult terrain or shift when they charge. They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the Charge main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they [charge](../../Browse/Abilities/Common/Main%20Actions/Charge). They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
@@ -546,7 +546,7 @@ A creature who uses the [Heal](../../Browse/Abilities/Common/Main%20Actions/Heal
 
 ### Free Strikes
 
-Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see Charge above).
+Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) above).
 
 Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s [Overwatch](../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch) ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
@@ -568,9 +568,9 @@ A melee weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%2
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Stike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Stike, Weapon** |               **Main action** |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 Melee 1**                                                                                                 | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 

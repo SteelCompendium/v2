@@ -15,6 +15,7 @@ type: index
 - [Skill](../10th-Level%20Features/Skill)
 - [True Focus](../10th-Level%20Features/True%20Focus)
 - [Warmaster](../10th-Level%20Features/Warmaster)
+- [Doctrine Triggered Action](../1st-Level%20Features/Doctrine%20Triggered%20Action)
 - [Field Arsenal](../1st-Level%20Features/Field%20Arsenal)
 - [Focus in Combat](../1st-Level%20Features/Focus%20in%20Combat)
 - [Focus Outside of Combat](../1st-Level%20Features/Focus%20Outside%20of%20Combat)

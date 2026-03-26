@@ -172,7 +172,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
-**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use an ability with the Charge keyword against a target when they end their move.
+**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or use an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword against a target when they end their move.
 
 **Ceiling:** Any solid surface above a creature.
 
@@ -328,7 +328,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Heroic Resource:** A measure of a hero's combat power that increases during battle, and which can be spent to use abilities or improve their effectiveness.
 
-**Hide Maneuver:** A maneuver that allows a creature to hide from other creatures who aren't observing them.
+**Hide Maneuver:** A maneuver that allows a creature to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from other creatures who aren't observing them.
 
 **High Elves:** A fey ancestry in tune with innate magic that affects how others interact with them.
 

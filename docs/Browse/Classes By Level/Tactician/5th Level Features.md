@@ -34,7 +34,7 @@ You have learned to be more preemptive on the battlefield, thinking more steps a
 
 ##### Distracted
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
 
 ##### I Predicted That
 
@@ -50,7 +50,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### 9-Focus Ability
 

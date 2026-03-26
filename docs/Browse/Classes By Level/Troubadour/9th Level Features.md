@@ -67,9 +67,9 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> | --------------------------------- | ----------------------------: |
-> | **📏 Melee 3**                    | **🎯 One creature or object** |
+> | **[Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+> | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
 > **Power Roll + Agility:**
 >

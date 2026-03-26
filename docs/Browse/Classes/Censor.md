@@ -507,11 +507,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you two features, as 
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                             |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | Saint's Vigilance, [A Sense for Truth](../../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth)                                                                                      |
-| Oracle   | [It Was Foretold](../../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character) |
-| Paragon  | [Lead by Example](../../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)             |
+| Order    | Features                                                                                                                                                                                                              |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](../../../Browse/Censor/2nd-Level%20Features/Saints%20Vigilance), [A Sense for Truth](../../../Browse/Censor/2nd-Level%20Features/A%20Sense%20for%20Truth) |
+| Oracle   | [It Was Foretold](../../../Browse/Censor/2nd-Level%20Features/It%20Was%20Foretold), [Judge of Character](../../../Browse/Censor/2nd-Level%20Features/Judge%20of%20Character)  |
+| Paragon  | [Lead by Example](../../../Browse/Censor/2nd-Level%20Features/Lead%20by%20Example), [Stalwart Icon](../../../Browse/Censor/2nd-Level%20Features/Stalwart%20Icon)              |
 
 ##### It Was Foretold
 
@@ -527,7 +527,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -720,7 +720,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Creation   | [Improved Hands of the Maker](../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](../../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
 | Love       | [Invocation of the Heart](../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
 | Nature     | [Wode Road](../../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
@@ -769,7 +769,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 
@@ -1016,20 +1016,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../Browse/Conduit/7th-Level%20Features/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../Browse/Conduit/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                       |
-| Life       | [Font of Grace](../../../Browse/Conduit/7th-Level%20Features/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../Browse/Conduit/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
-| Nature     | Nature's Bounty                                                                                                                     |
-| Protection | [Blessing of Iron](../../../Browse/Conduit/7th-Level%20Features/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                        |
-| Sun        | [Light of the Burning Sun](../../../Browse/Conduit/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../Browse/Conduit/7th-Level%20Features/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../Browse/Conduit/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](../../../Browse/Censor/7th-Level%20Features/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../Browse/Censor/7th-Level%20Features/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../Browse/Censor/7th-Level%20Features/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | [Gods' Library](../../../Browse/Censor/7th-Level%20Features/Gods%20Library)                                    |
+| Life       | [Font of Grace](../../../Browse/Censor/7th-Level%20Features/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../Browse/Censor/7th-Level%20Features/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../../Browse/Censor/7th-Level%20Features/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../../Browse/Censor/7th-Level%20Features/Blessing%20of%20Iron)                           |
+| Storm      | [Ride the Lightning](../../../Browse/Censor/7th-Level%20Features/Ride%20the%20Lightning)                       |
+| Sun        | [Light of the Burning Sun](../../../Browse/Censor/7th-Level%20Features/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../Browse/Censor/7th-Level%20Features/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../Browse/Censor/7th-Level%20Features/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 

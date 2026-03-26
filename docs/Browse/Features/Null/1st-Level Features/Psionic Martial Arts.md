@@ -18,4 +18,4 @@ type: feature/trait/null/1st-level-feature
 
 #### Psionic Martial Arts
 
-Whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) or [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, you can choose to slide the target instead of pushing them.

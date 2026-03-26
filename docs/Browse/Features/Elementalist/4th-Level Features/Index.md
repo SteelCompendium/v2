@@ -19,6 +19,7 @@ type: index
 
 - [Characteristic Increase](../Characteristic%20Increase)
 - [Font of Essence](../Font%20of%20Essence)
+- [Mantle of Essence](../Mantle%20of%20Essence)
 - [Perk](../Perk)
 - [Skill](../Skill)
 

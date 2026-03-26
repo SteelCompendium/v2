@@ -14,7 +14,7 @@ item_index: '04'
 item_name: Hypersonic (9 Clarity)
 keywords:
   - Area
-  - Charge
+  - '[Charge](scc:mcdm.heroes.v1:common-ability.main-action:charge)'
   - Psionic
   - Telekinesis
 level: 5
@@ -31,9 +31,9 @@ type: feature/ability/talent/5th-level-feature
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 
-| **Area, Charge, Psionic, Telekinesis** |               **Main action** |
-| -------------------------------------- | ----------------------------: |
-| **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
+| **Area, [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge), Psionic, Telekinesis** |               **Main action** |
+| -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
+| **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 
 **Effect:** You [teleport](../../../../../Browse/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
 

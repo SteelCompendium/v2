@@ -112,10 +112,10 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 | Ferocity        | Benefit                                                                                                                                                                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2               | You can have up to two creatures [grabbed](../../../../Browse/Conditions/Grabbed) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../../../../Browse/Conditions/Grabbed), you gain 1 surge.             |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                                                                                     |
-| 6               | You gain an edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                                   |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                                       |
-| 10 (7th level)  | You have a double edge on the Grab and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                                                                                             |
+| 4               | The first time you [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 1 surge.                                                                                                                                              |
+| 6               | You gain an edge on the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                            |
+| 8 (4th level)   | The first time you [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                |
+| 10 (7th level)  | You have a double edge on the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) and [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers.                                                                      |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../../../../Browse/Conditions/Grabbed), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 #### Corven
@@ -128,7 +128,7 @@ You gain an edge on tests made to hide and sneak. Additionally, whenever you fal
 
 ##### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can [fly](../../../../Browse/Movement/Fly). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your crow form, your size is 1T and you can [fly](../../../../Browse/Movement/Fly). You can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, and you can use your allies as cover when you [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide). You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Crow
 
@@ -188,7 +188,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](../../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. You can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver, you can use your allies as cover when you [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../../../../Browse/Movement/Climb%20or%20Swim) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 

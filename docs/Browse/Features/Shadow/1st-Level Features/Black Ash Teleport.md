@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Black Ash Teleport
 file_dpath: Shadow/1st-Level Features
 item_id: black-ash-teleport
-item_index: '10'
+item_index: '11'
 item_name: Black Ash Teleport
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:black-ash-teleport
 scdc:
-  - 1.1.1:11.1.2.1:10
+  - 1.1.1:11.1.2.1:11
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---
@@ -29,6 +29,6 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed. If you successfully [hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) using this maneuver, you gain 1 surge.
 >
 > **Spend 1+ Insight:** You [teleport](../../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.

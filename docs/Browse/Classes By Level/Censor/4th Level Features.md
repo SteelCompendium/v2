@@ -43,7 +43,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Creation   | [Improved Hands of the Maker](../../../../Browse/Conduit/4th-Level%20Features/Improved%20Hands%20of%20the%20Maker) |
 | Death      | Seance                                                                                                                              |
 | Fate       | [Oracular Warning](../../../../Browse/Conduit/4th-Level%20Features/Oracular%20Warning)                             |
-| Knowledge  | Saint's Epiphany                                                                                                                    |
+| Knowledge  | [Saint's Epiphany](../../../../Browse/Conduit/4th-Level%20Features/Saints%20Epiphany)                              |
 | Life       | [Blessing of Life](../../../../Browse/Conduit/4th-Level%20Features/Blessing%20of%20Life)                           |
 | Love       | [Invocation of the Heart](../../../../Browse/Conduit/4th-Level%20Features/Invocation%20of%20the%20Heart)           |
 | Nature     | [Wode Road](../../../../Browse/Conduit/4th-Level%20Features/Wode%20Road)                                           |
@@ -92,7 +92,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 

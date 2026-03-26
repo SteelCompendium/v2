@@ -33,4 +33,4 @@ type: feature/ability/shadow/6th-level-feature
 | -------------- | ------------------------------------: |
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+**Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if they are observed.

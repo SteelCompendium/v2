@@ -551,7 +551,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 <!-- -->
 > ###### Hit 'Em Hard! (7 Focus)
@@ -632,7 +632,7 @@ You have learned to be more preemptive on the battlefield, thinking more steps a
 
 ##### Distracted
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](../../../Browse/Abilities/Common/Maneuvers/Hide), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
 
 ##### I Predicted That
 
@@ -648,7 +648,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When you use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
 
 #### 9-Focus Ability
 
@@ -810,15 +810,15 @@ Choose one of the following abilities.
 >
 > *You lead your allies in a charge.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
-> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the charge
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge)
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge)
+> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) for the [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge)
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../Browse/Conditions/Dazed) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -890,7 +890,7 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
 
 ##### Pincer Movement
 
@@ -977,7 +977,7 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 Choose one of the following abilities.
 
 <!-- -->
-> ###### Squad! Hit and Run! (11 Focus)
+> ###### Squad! [Hit and Run](../../../Browse/Abilities/Fury/1st-Level%20Features/Hit%20and%20Run)! (11 Focus)
 >
 > *I had to pry this secret from the shadow colleges.*
 >
@@ -1039,9 +1039,9 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Effect:** You mark the target.
 >
@@ -1051,7 +1051,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+> **Effect:** If you use this ability as part of the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 <!-- -->
 > ###### That One Is Mine! (11 Focus)

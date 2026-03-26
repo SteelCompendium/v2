@@ -32,6 +32,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Trigger:** Another creature damages you.
 
-**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed.
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
