@@ -22,11 +22,11 @@ Your [censor](../../../../../Browse/Classes/Censor) order grants you a feature, 
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                  |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed) |
-| Oracle   | [Prophecy](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:prophecy)           |
-| Paragon  | [Stand Fast](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:stand-fast)!      |
+| Order    | Feature       |
+| -------- | ------------- |
+| Exorcist | Evil Revealed |
+| Oracle   | Prophecy      |
+| Paragon  | Stand Fast!   |
 
 ##### Evil Revealed
 

@@ -45,7 +45,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -83,11 +83,11 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
-| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
-| Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
+| Aspect     | Feature                        |
+| ---------- | ------------------------------ |
+| Berserker  | Kit, Primordial Strength       |
+| Reaver     | Kit, Primordial Cunning        |
+| Stormwight | Beast Shape, Relentless Hunter |
 
 ##### Beast Shape
 

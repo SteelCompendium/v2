@@ -22,15 +22,15 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features                                                                                   |
-| --------- | ------------------------------------------------------------------------------------------ |
-| Auteur    | [Missed Cue](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue)     |
-| Duelist   | [Foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil)                 |
-| Virtuoso  | [Second Album](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:second-album) |
+| Class Act | Features     |
+| --------- | ------------ |
+| Auteur    | Missed Cue   |
+| Duelist   | Foil         |
+| Virtuoso  | Second Album |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil) at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
 
 ##### Missed Cue
 

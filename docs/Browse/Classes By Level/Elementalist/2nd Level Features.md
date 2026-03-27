@@ -28,8 +28,8 @@ Your elemental specialization grants you a feature, as shown on the 2nd-Level El
 
 | Specialization | Feature                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth)                                         |
-| Fire           | [Disciple of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-fire)                                           |
+| Earth          | Disciple of Earth                                                                                                                              |
+| Fire           | Disciple of Fire                                                                                                                               |
 | Green          | Disciple of the Green                                                                                                                          |
 | Void           | [There Is No Space Between](../../../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between) |
 

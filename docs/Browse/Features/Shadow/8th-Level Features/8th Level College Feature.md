@@ -24,17 +24,17 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a feature
 
 | College         | Feature                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](scc:mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:cinder-step)               |
+| Black Ash       | Cinder Step                                                                                        |
 | Caustic Alchemy | [Time Bomb](../../../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb) |
 | Harlequin Mask  | Parkour                                                                                            |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport). When you [teleport](../../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash) and [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders) features.
+Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport). When you [teleport](../../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 

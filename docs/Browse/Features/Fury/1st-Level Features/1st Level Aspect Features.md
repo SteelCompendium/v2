@@ -22,11 +22,11 @@ Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primord
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
-| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
-| Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
+| Aspect     | Feature                        |
+| ---------- | ------------------------------ |
+| Berserker  | Kit, Primordial Strength       |
+| Reaver     | Kit, Primordial Cunning        |
+| Stormwight | Beast Shape, Relentless Hunter |
 
 ##### Beast Shape
 

@@ -38,11 +38,11 @@ Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tacti
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:asymmetric-warfare) |
-| Mastermind | [Grand Strategy](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:grand-strategy)         |
-| Vanguard   | [Shock and Awe](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe)           |
+| Doctrine   | Feature            |
+| ---------- | ------------------ |
+| Insurgent  | Asymmetric Warfare |
+| Mastermind | Grand Strategy     |
+| Vanguard   | Shock and Awe      |
 
 ##### Asymmetric Warfare
 

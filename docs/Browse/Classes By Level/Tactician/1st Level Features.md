@@ -40,7 +40,7 @@ You lose any remaining focus at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain [focus outside of combat](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-outside-of-combat), you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../../Browse/Classes/Tactician), but they might appear in future products.)
 
@@ -55,11 +55,11 @@ Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tacti
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations)     |
-| Mastermind | [Studied Commander](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander)     |
-| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence) |
+| Doctrine   | Feature             |
+| ---------- | ------------------- |
+| Insurgent  | Covert Operations   |
+| Mastermind | Studied Commander   |
+| Vanguard   | Commanding Presence |
 
 ##### Commanding Presence
 

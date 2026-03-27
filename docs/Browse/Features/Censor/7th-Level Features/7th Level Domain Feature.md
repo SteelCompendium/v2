@@ -22,20 +22,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:divine-quartermaster)                 |
-| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred)             |
-| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied)                   |
-| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library)                                |
-| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:font-of-grace)                               |
-| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:covenant-of-the-heart)               |
-| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty)                            |
-| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:blessing-of-iron)                         |
-| Storm      | [Ride the Lightning](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:ride-the-lightning)                     |
-| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:light-of-the-burning-sun)         |
-| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:trinity-of-trickery)                   |
-| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:your-triumphs-are-remembered) |
+| Domain     | Feature                      |
+| ---------- | ---------------------------- |
+| Creation   | Divine Quartermaster         |
+| Death      | Word of Death Deferred       |
+| Fate       | Word of Fate Denied          |
+| Knowledge  | Gods' Library                |
+| Life       | Font of Grace                |
+| Love       | Covenant of the Heart        |
+| Nature     | Nature's Bounty              |
+| Protection | Blessing of Iron             |
+| Storm      | Ride the Lightning           |
+| Sun        | Light of the Burning Sun     |
+| Trickery   | Trinity of Trickery          |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 
@@ -43,7 +43,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -54,7 +54,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -86,7 +86,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your Windwalk feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If Windwalk already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 

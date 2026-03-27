@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -26,16 +26,16 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Creation   | [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
 | Death      | [Grave Speech](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
-| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
-| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
-| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
-| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Fate       | Oracular Visions                                                                                                          | Lore          |
+| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
+| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
+| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
 | Nature     | [Faithful Friend](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
-| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
-| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
-| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
+| Protection | Protective Circle                                                                                                         | Exploration   |
+| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
+| Sun        | Inner Light                                                                                                               | Lore          |
+| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
+| War        | Sanctified Weapon                                                                                                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -120,7 +120,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 

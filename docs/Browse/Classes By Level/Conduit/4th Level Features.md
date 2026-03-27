@@ -40,18 +40,18 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 | Domain     | Feature                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
-| Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
-| Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
-| Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
-| Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
-| Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
-| Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
-| Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
-| Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
-| Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+| Creation   | Improved Hands of the Maker                                                                                               |
+| Death      | Seance                                                                                                                    |
+| Fate       | Oracular Warning                                                                                                          |
+| Knowledge  | Saint's Epiphany                                                                                                          |
+| Life       | Blessing of Life                                                                                                          |
+| Love       | Invocation of the Heart                                                                                                   |
+| Nature     | Wode Road                                                                                                                 |
+| Protection | Impervious Touch                                                                                                          |
+| Storm      | Windwalk                                                                                                                  |
+| Sun        | Light of Revelation                                                                                                       |
 | Trickery   | [Blessing of Secrets](../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
+| War        | Improved Sanctified Weapon                                                                                                |
 
 ###### Blessing of Life
 
@@ -84,7 +84,7 @@ When you use your [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 

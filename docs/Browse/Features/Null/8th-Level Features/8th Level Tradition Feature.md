@@ -22,11 +22,11 @@ Your [null](../../../../../Browse/Classes/Null) tradition grants you a feature, 
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:shared-momentum)     |
-| Cryokinetic   | [Synaptic Triage](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:synaptic-triage)     |
-| Metakinetic   | [Inertial Dampener](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:inertial-dampener) |
+| Tradition     | Feature           |
+| ------------- | ----------------- |
+| Chronokinetic | Shared Momentum   |
+| Cryokinetic   | Synaptic Triage   |
+| Metakinetic   | Inertial Dampener |
 
 ##### Inertial Dampener
 

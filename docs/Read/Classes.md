@@ -594,7 +594,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](scc:mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-outside-of-combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../Browse/Classes/Censor), but they might appear in future products.)
 
@@ -667,16 +667,16 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
 | Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
-| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
-| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
-| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
-| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Fate       | Oracular Visions                                                                                                          | Lore          |
+| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
+| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
+| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
 | Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
-| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
-| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
-| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
+| Protection | Protective Circle                                                                                                         | Exploration   |
+| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
+| Sun        | Inner Light                                                                                                               | Lore          |
+| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
+| War        | Sanctified Weapon                                                                                                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -761,7 +761,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -1003,11 +1003,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you two features, as sho
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
-| Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
-| Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
+| Order    | Features                             |
+| -------- | ------------------------------------ |
+| Exorcist | Saint's Vigilance, A Sense for Truth |
+| Oracle   | It Was Foretold, Judge of Character  |
+| Paragon  | Lead by Example, Stalwart Icon       |
 
 ##### It Was Foretold
 
@@ -1213,18 +1213,18 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 | Domain     | Feature                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
-| Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
-| Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
-| Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
-| Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
-| Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
-| Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
-| Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
-| Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
-| Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+| Creation   | Improved Hands of the Maker                                                                                               |
+| Death      | Seance                                                                                                                    |
+| Fate       | Oracular Warning                                                                                                          |
+| Knowledge  | Saint's Epiphany                                                                                                          |
+| Life       | Blessing of Life                                                                                                          |
+| Love       | Invocation of the Heart                                                                                                   |
+| Nature     | Wode Road                                                                                                                 |
+| Protection | Impervious Touch                                                                                                          |
+| Storm      | Windwalk                                                                                                                  |
+| Sun        | Light of Revelation                                                                                                       |
 | Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
+| War        | Improved Sanctified Weapon                                                                                                |
 
 ##### Blessing of Life
 
@@ -1257,7 +1257,7 @@ When you use your [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -1297,11 +1297,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                  |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed) |
-| Oracle   | [Prophecy](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:prophecy)           |
-| Paragon  | [Stand Fast](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:stand-fast)!      |
+| Order    | Feature       |
+| -------- | ------------- |
+| Exorcist | Evil Revealed |
+| Oracle   | Prophecy      |
+| Paragon  | Stand Fast!   |
 
 ##### Evil Revealed
 
@@ -1512,20 +1512,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:divine-quartermaster)                 |
-| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred)             |
-| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied)                   |
-| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library)                                |
-| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:font-of-grace)                               |
-| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:covenant-of-the-heart)               |
-| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty)                            |
-| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:blessing-of-iron)                         |
-| Storm      | [Ride the Lightning](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:ride-the-lightning)                     |
-| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:light-of-the-burning-sun)         |
-| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:trinity-of-trickery)                   |
-| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:your-triumphs-are-remembered) |
+| Domain     | Feature                      |
+| ---------- | ---------------------------- |
+| Creation   | Divine Quartermaster         |
+| Death      | Word of Death Deferred       |
+| Fate       | Word of Fate Denied          |
+| Knowledge  | Gods' Library                |
+| Life       | Font of Grace                |
+| Love       | Covenant of the Heart        |
+| Nature     | Nature's Bounty              |
+| Protection | Blessing of Iron             |
+| Storm      | Ride the Lightning           |
+| Sun        | Light of the Burning Sun     |
+| Trickery   | Trinity of Trickery          |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 
@@ -1533,7 +1533,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1544,7 +1544,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1576,7 +1576,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your Windwalk feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If Windwalk already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -1629,11 +1629,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:demonologist)               |
-| Oracle   | [Their Past Revealed](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed) |
-| Paragon  | [Vow](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow)                                 |
+| Order    | Feature             |
+| -------- | ------------------- |
+| Exorcist | Demonologist        |
+| Oracle   | Their Past Revealed |
+| Paragon  | Vow                 |
 
 ##### Demonologist
 
@@ -1948,7 +1948,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:piety-outside-of-combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -2020,7 +2020,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -2028,16 +2028,16 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
 | Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
-| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
-| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
-| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
-| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Fate       | Oracular Visions                                                                                                          | Lore          |
+| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
+| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
+| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
 | Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
-| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
-| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
-| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
+| Protection | Protective Circle                                                                                                         | Exploration   |
+| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
+| Sun        | Inner Light                                                                                                               | Lore          |
+| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
+| War        | Sanctified Weapon                                                                                                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -2122,7 +2122,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -2211,7 +2211,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-distance).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
 
 ##### Prayer of Destruction
 
@@ -2237,7 +2237,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:bastion-ward).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* Bastion Ward.)
 
 ##### Bastion Ward
 
@@ -2817,18 +2817,18 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 | Domain     | Feature                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
-| Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
-| Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
-| Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
-| Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
-| Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
-| Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
-| Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
-| Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
-| Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+| Creation   | Improved Hands of the Maker                                                                                               |
+| Death      | Seance                                                                                                                    |
+| Fate       | Oracular Warning                                                                                                          |
+| Knowledge  | Saint's Epiphany                                                                                                          |
+| Life       | Blessing of Life                                                                                                          |
+| Love       | Invocation of the Heart                                                                                                   |
+| Nature     | Wode Road                                                                                                                 |
+| Protection | Impervious Touch                                                                                                          |
+| Storm      | Windwalk                                                                                                                  |
+| Sun        | Light of Revelation                                                                                                       |
 | Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
+| War        | Improved Sanctified Weapon                                                                                                |
 
 ###### Blessing of Life
 
@@ -2861,7 +2861,7 @@ When you use your [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -3183,20 +3183,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:divine-quartermaster)                 |
-| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-death-deferred)             |
-| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-fate-denied)                   |
-| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:gods-library)                                |
-| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:font-of-grace)                               |
-| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:covenant-of-the-heart)               |
-| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:natures-bounty)                            |
-| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:blessing-of-iron)                         |
-| Storm      | [Thunderstruck](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:thunderstruck)                               |
-| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:light-of-the-burning-sun)         |
-| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:trinity-of-trickery)                   |
-| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:your-triumphs-are-remembered) |
+| Domain     | Feature                      |
+| ---------- | ---------------------------- |
+| Creation   | Divine Quartermaster         |
+| Death      | Word of Death Deferred       |
+| Fate       | Word of Fate Denied          |
+| Knowledge  | Gods' Library                |
+| Life       | Font of Grace                |
+| Love       | Covenant of the Heart        |
+| Nature     | Nature's Bounty              |
+| Protection | Blessing of Iron             |
+| Storm      | Thunderstruck                |
+| Sun        | Light of the Burning Sun     |
+| Trickery   | Trinity of Trickery          |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 
@@ -3204,7 +3204,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -3215,7 +3215,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -3680,7 +3680,7 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
@@ -3746,8 +3746,8 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Earth          | [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                   |
 | Fire           | [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) |
-| Green          | [It Is the Soul Which Hears](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears)             |
-| Void           | [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)                       |
+| Green          | It Is the Soul Which Hears                                                                                                           |
+| Void           | A Beyonding of Vision                                                                                                                |
 
 ##### A Beyonding of Vision
 
@@ -3764,7 +3764,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -3879,7 +3879,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -3905,7 +3905,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ward-of-surprising-reactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* Ward of Surprising Reactivity.)
 
 ##### Ward of Delightful Consequences
 
@@ -4221,8 +4221,8 @@ Your elemental specialization grants you a feature, as shown on the 2nd-Level El
 
 | Specialization | Feature                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth)                                         |
-| Fire           | [Disciple of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-fire)                                           |
+| Earth          | Disciple of Earth                                                                                                                              |
+| Fire           | Disciple of Fire                                                                                                                               |
 | Green          | Disciple of the Green                                                                                                                          |
 | Void           | [There Is No Space Between](../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between) |
 
@@ -4371,9 +4371,9 @@ Your elemental specialization grants you a feature, as shown on the 3rd-Level El
 | Specialization | Feature                                                                                                                                                        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                       |
-| Fire           | [A Conversation With Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:a-conversation-with-fire)                                           |
+| Fire           | A Conversation With Fire                                                                                                                                       |
 | Green          | [Remember Growth and Sun and Rain](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain) |
-| Void           | [Distance Is Only Memory](scc:mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory)                                             |
+| Void           | Distance Is Only Memory                                                                                                                                        |
 
 ##### A Conversation With Fire
 
@@ -4503,12 +4503,12 @@ While you have 3 or more essence and are not dying, you exude an aura of magic w
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                            |
-| -------------- | -------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth)     |
-| Fire           | [Burning Grounds](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:burning-grounds) |
-| Green          | [Flowering Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed)     |
-| Void           | [Veiling Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed)         |
+| Specialization | Feature         |
+| -------------- | --------------- |
+| Earth          | Quaking Earth   |
+| Fire           | Burning Grounds |
+| Green          | Flowering Bed   |
+| Void           | Veiling Bed     |
 
 ##### Burning Grounds
 
@@ -4544,12 +4544,12 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                      |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move)     |
-| Fire           | [Smoldering Step](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step)                           |
-| Green          | [Hide of Tenfold Shields](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields)           |
-| Void           | [Pierce the Veil of Substance](scc:mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance) |
+| Specialization | Feature                      |
+| -------------- | ---------------------------- |
+| Earth          | The Mountain Does Not Move   |
+| Fire           | Smoldering Step              |
+| Green          | Hide of Tenfold Shields      |
+| Void           | Pierce the Veil of Substance |
 
 ##### Hide of Tenfold Shields
 
@@ -4773,9 +4773,9 @@ Your elemental specialization grants you a feature, as shown on the 8th-Level El
 | Specialization | Feature                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Earth          | [Summon Source of Earth](../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth) |
-| Fire           | [The Flame Primordial](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:the-flame-primordial)                           |
-| Green          | [Chimeric Manifestation](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:chimeric-manifestation)                       |
-| Void           | [Black Hole Star](scc:mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:black-hole-star)                                     |
+| Fire           | The Flame Primordial                                                                                                                   |
+| Green          | Chimeric Manifestation                                                                                                                 |
+| Void           | Black Hole Star                                                                                                                        |
 
 ##### Black Hole Star
 
@@ -5008,12 +5008,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature                                                                                             |
-| -------------- | --------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-earth) |
-| Fire           | [Master of Fire](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-fire)   |
-| Green          | [Master of Green](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-green) |
-| Void           | [Master of Void](scc:mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-void)   |
+| Specialization | Feature         |
+| -------------- | --------------- |
+| Earth          | Master of Earth |
+| Fire           | Master of Fire  |
+| Green          | Master of Green |
+| Void           | Master of Void  |
 
 ##### Master of Earth
 
@@ -5130,7 +5130,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -5168,11 +5168,11 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
-| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
-| Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
+| Aspect     | Feature                        |
+| ---------- | ------------------------------ |
+| Berserker  | Kit, Primordial Strength       |
+| Reaver     | Kit, Primordial Cunning        |
+| Stormwight | Beast Shape, Relentless Hunter |
 
 ##### Beast Shape
 
@@ -5487,11 +5487,11 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:unstoppable-force) |
-| Reaver     | [Inescapable Wrath](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:inescapable-wrath) |
-| Stormwight | [Tooth and Claw](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:tooth-and-claw)       |
+| Aspect     | Feature           |
+| ---------- | ----------------- |
+| Berserker  | Unstoppable Force |
+| Reaver     | Inescapable Wrath |
+| Stormwight | Tooth and Claw    |
 
 ##### Inescapable Wrath
 
@@ -5627,11 +5627,11 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Immovable Object](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:immovable-object)                 |
-| Reaver     | [See Through Their Tricks](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:see-through-their-tricks) |
-| Stormwight | [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight)                    |
+| Aspect     | Feature                  |
+| ---------- | ------------------------ |
+| Berserker  | Immovable Object         |
+| Reaver     | See Through Their Tricks |
+| Stormwight | Nature's Knight          |
 
 ##### Immovable Object
 
@@ -5751,7 +5751,7 @@ Your [jump](../../Browse/Movement/Jump) distance and height double (see Movement
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) feature as if you were a 1st-level [conduit](../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../Browse/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
@@ -5839,7 +5839,7 @@ As a 6th-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -6003,15 +6003,15 @@ Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Asp
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Berserker  | [Strongest There Is](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:strongest-there-is) |
-| Reaver     | [A Step Ahead](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead)             |
-| Stormwight | Menagerie                                                                                        |
+| Aspect     | Feature            |
+| ---------- | ------------------ |
+| Berserker  | Strongest There Is |
+| Reaver     | A Step Ahead       |
+| Stormwight | Menagerie          |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -6607,7 +6607,7 @@ You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](scc:mcdm.heroes.v1:feature.trait.null.1st-level-feature:discipline-outside-of-combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../Browse/Classes/Null), but they might appear in future products.)
 
@@ -6716,7 +6716,7 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:speed-augmentation).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* Speed Augmentation.)
 
 ##### Density Augmentation
 
@@ -7024,11 +7024,11 @@ Your [null](../../Browse/Classes/Null) tradition grants you a feature, as shown 
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing)           |
-| Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) |
-| Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink)                 |
+| Tradition     | Feature               |
+| ------------- | --------------------- |
+| Chronokinetic | Rapid Processing      |
+| Cryokinetic   | Entropic Adaptability |
+| Metakinetic   | Inertial Sink         |
 
 ##### Entropic Adaptability
 
@@ -7504,11 +7504,11 @@ Your [null](../../Browse/Classes/Null) tradition grants you a feature, as shown 
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:shared-momentum)     |
-| Cryokinetic   | [Synaptic Triage](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:synaptic-triage)     |
-| Metakinetic   | [Inertial Dampener](scc:mcdm.heroes.v1:feature.trait.null.8th-level-feature:inertial-dampener) |
+| Tradition     | Feature           |
+| ------------- | ----------------- |
+| Chronokinetic | Shared Momentum   |
+| Cryokinetic   | Synaptic Triage   |
+| Metakinetic   | Inertial Dampener |
 
 ##### Inertial Dampener
 
@@ -7655,7 +7655,7 @@ Choose one of the following abilities.
 > - **12-16:** You gain 30 temporary Stamina.
 > - **17+:** You gain 40 temporary Stamina.
 >
-> **Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+> **Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your Entropic Adaptability trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
 <!-- -->
 > ###### Heat Drain (11 Discipline)
@@ -7824,7 +7824,7 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-outside-of-combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
@@ -7834,11 +7834,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you one or two feature
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                      |
+| College         | Feature                                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)     |
+| Caustic Alchemy | [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), Smoke Bomb |
+| Harlequin Mask  | I'm No Threat                                                                                                              |
 
 ##### Black Ash Teleport
 
@@ -8197,11 +8197,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash)           |
-| Caustic Alchemy | [Trained Assassin](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin) |
-| Harlequin Mask  | Friend!                                                                                        |
+| College         | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 ##### Burning Ash
 
@@ -8459,11 +8459,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 ###### 5th-Level College Features Table
 
-| College         | Feature                                                                                          |
-| --------------- | ------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders)   |
-| Caustic Alchemy | [Volatile Reagents](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:volatile-reagents) |
-| Harlequin Mask  | [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit)   |
+| College         | Feature           |
+| --------------- | ----------------- |
+| Black Ash       | Trail of Cinders  |
+| Caustic Alchemy | Volatile Reagents |
+| Harlequin Mask  | Harlequin Gambit  |
 
 ##### Harlequin Gambit
 
@@ -8713,17 +8713,17 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 | College         | Feature                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](scc:mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:cinder-step)               |
+| Black Ash       | Cinder Step                                                                                        |
 | Caustic Alchemy | [Time Bomb](../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb) |
 | Harlequin Mask  | Parkour                                                                                            |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport). When you [teleport](../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash) and [Trail of Cinders](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders) features.
+Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport). When you [teleport](../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](scc:mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 
@@ -9042,7 +9042,7 @@ You lose any remaining focus at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain [focus outside of combat](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-outside-of-combat), you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../Browse/Classes/Tactician), but they might appear in future products.)
 
@@ -9057,11 +9057,11 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations)     |
-| Mastermind | [Studied Commander](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander)     |
-| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence) |
+| Doctrine   | Feature             |
+| ---------- | ------------------- |
+| Insurgent  | Covert Operations   |
+| Mastermind | Studied Commander   |
+| Vanguard   | Commanding Presence |
 
 ##### Commanding Presence
 
@@ -9358,11 +9358,11 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                   |
-| ---------- | --------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics) |
-| Mastermind | Goaded                                                                                                    |
-| Vanguard   | [Melee Superiority](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority)       |
+| Doctrine   | Feature              |
+| ---------- | -------------------- |
+| Insurgent  | Infiltration Tactics |
+| Mastermind | Goaded               |
+| Vanguard   | Melee Superiority    |
 
 ##### Goaded
 
@@ -9574,11 +9574,11 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 ###### 5th-Level Doctrine Features Table
 
-| Doctrine   | Features                                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | Distracted, [Leave No Trace](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:leave-no-trace)                                                                                        |
-| Mastermind | Anticipation, [I Predicted That](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:i-predicted-that)                                                                                  |
-| Vanguard   | [Shake It Off](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:shake-it-off), [Tactical Offensive](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:tactical-offensive) |
+| Doctrine   | Features                         |
+| ---------- | -------------------------------- |
+| Insurgent  | Distracted, Leave No Trace       |
+| Mastermind | Anticipation, I Predicted That   |
+| Vanguard   | Shake It Off, Tactical Offensive |
 
 ##### Anticipation
 
@@ -9802,11 +9802,11 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:asymmetric-warfare) |
-| Mastermind | [Grand Strategy](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:grand-strategy)         |
-| Vanguard   | [Shock and Awe](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe)           |
+| Doctrine   | Feature            |
+| ---------- | ------------------ |
+| Insurgent  | Asymmetric Warfare |
+| Mastermind | Grand Strategy     |
+| Vanguard   | Shock and Awe      |
 
 ##### Asymmetric Warfare
 
@@ -9834,11 +9834,11 @@ Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                               |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Bait and Ambush](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush)                                       |
-| Mastermind | [Pincer Movement](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement)                                       |
-| Vanguard   | [See Your Enemies Driven Before You](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:see-your-enemies-driven-before-you) |
+| Doctrine   | Feature                            |
+| ---------- | ---------------------------------- |
+| Insurgent  | Bait and Ambush                    |
+| Mastermind | Pincer Movement                    |
+| Vanguard   | See Your Enemies Driven Before You |
 
 ##### Bait and Ambush
 
@@ -10145,7 +10145,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:clarity-outside-of-combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
@@ -10174,7 +10174,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:force-augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
 
 ##### Battle Augmentation
 
@@ -10200,7 +10200,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](scc:mcdm.heroes.v1:feature.trait.talent.1st-level-feature:repulsive-ward).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward.)
 
 ##### Entropy Ward
 
@@ -10632,11 +10632,11 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you a feature, as sh
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                     |
-| ----------- | -------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours)   |
-| Telekinesis | [Ease Their Fall](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-their-fall) |
-| Telepathy   | [Ease the Mind](scc:mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-mind)     |
+| Tradition   | Features        |
+| ----------- | --------------- |
+| Chronopathy | Ease the Hours  |
+| Telekinesis | Ease Their Fall |
+| Telepathy   | Ease the Mind   |
 
 ##### Ease the Hours
 
@@ -10902,11 +10902,11 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                             |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:distortion-temporal), [Speed of Thought](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:speed-of-thought) |
-| Telekinesis | [Kinetic Amplifier](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:kinetic-amplifier), [Triangulate](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:triangulate)               |
-| Telepathy   | [Compulsion](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:compulsion), [Remote Amplification](scc:mcdm.heroes.v1:feature.trait.talent.5th-level-feature:remote-amplification)           |
+| Tradition   | Features                              |
+| ----------- | ------------------------------------- |
+| Chronopathy | Distortion Temporal, Speed of Thought |
+| Telekinesis | Kinetic Amplifier, Triangulate        |
+| Telepathy   | Compulsion, Remote Amplification      |
 
 ##### Compulsion
 
@@ -11212,11 +11212,11 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Doubling the Hours](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours), [Stasis Shield](../../Browse/Talent/8th-Level%20Features/Stasis%20Shield)   |
-| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:low-gravity) |
-| Telepathy   | [Mindlink](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:mindlink), [Universal Connection](../../Browse/Talent/8th-Level%20Features/Universal%20Connection)         |
+| Tradition   | Features                                                                                                                      |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | Doubling the Hours, [Stasis Shield](../../Browse/Talent/8th-Level%20Features/Stasis%20Shield)          |
+| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), Low Gravity |
+| Telepathy   | Mindlink, [Universal Connection](../../Browse/Talent/8th-Level%20Features/Universal%20Connection)      |
 
 ##### Doubling the Hours
 
@@ -11598,14 +11598,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:drama-outside-of-combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../Browse/Classes/Troubadour)**
 >
-> Abilities like Guest Star, [Missed Cue](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -11657,11 +11657,11 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you two feat
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Blocking](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:blocking), [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)             |
-| Duelist   | Acrobatics, [Star Power](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:star-power)                                                                                                                       |
-| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:virtuoso-performances) |
+| Class Act | Features                                                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue) |
+| Duelist   | Acrobatics, Star Power                                                                                                             |
+| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), Virtuoso Performances  |
 
 ##### Acrobatics
 
@@ -12191,15 +12191,15 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features                                                                                   |
-| --------- | ------------------------------------------------------------------------------------------ |
-| Auteur    | [Missed Cue](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue)     |
-| Duelist   | [Foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil)                 |
-| Virtuoso  | [Second Album](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:second-album) |
+| Class Act | Features     |
+| --------- | ------------ |
+| Auteur    | Missed Cue   |
+| Duelist   | Foil         |
+| Virtuoso  | Second Album |
 
 ##### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil) at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
 
 ##### Missed Cue
 
@@ -12384,7 +12384,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your [Foil](scc:mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -12626,11 +12626,11 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                          |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene)     |
-| Duelist   | [Masterwork](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:masterwork)           |
-| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:crowd-favorites) |
+| Class Act | Feature         |
+| --------- | --------------- |
+| Auteur    | Deleted Scene   |
+| Duelist   | Masterwork      |
+| Virtuoso  | Crowd Favorites |
 
 ##### Crowd Favorites
 

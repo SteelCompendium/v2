@@ -26,11 +26,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Doubling the Hours](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours), [Stasis Shield](../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield)   |
-| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:low-gravity) |
-| Telepathy   | [Mindlink](scc:mcdm.heroes.v1:feature.trait.talent.8th-level-feature:mindlink), [Universal Connection](../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)         |
+| Tradition   | Features                                                                                                                      |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | Doubling the Hours, [Stasis Shield](../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield)          |
+| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), Low Gravity |
+| Telepathy   | Mindlink, [Universal Connection](../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)      |
 
 ##### Doubling the Hours
 

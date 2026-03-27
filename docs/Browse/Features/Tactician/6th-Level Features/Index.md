@@ -7,6 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [6th Level Insurgent Abilities](../6th-Level%20Doctrine%20Ability/6th%20Level%20Insurgent%20Abilities)
+- [6th Level Mastermind Abilities](../6th-Level%20Doctrine%20Ability/6th%20Level%20Mastermind%20Abilities)
+- [6th Level Vanguard Abilities](../6th-Level%20Doctrine%20Ability/6th%20Level%20Vanguard%20Abilities)
 - [6th Level Doctrine Ability](../6th%20Level%20Doctrine%20Ability)
 - [Master of Arms](../Master%20of%20Arms)
 - [Perk](../Perk)

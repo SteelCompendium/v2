@@ -93,7 +93,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -131,11 +131,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength)                                                                            |
-| Reaver     | Kit, [Primordial Cunning](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning)                                                                              |
-| Stormwight | [Beast Shape](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:beast-shape), [Relentless Hunter](scc:mcdm.heroes.v1:feature.trait.fury.1st-level-feature:relentless-hunter) |
+| Aspect     | Feature                        |
+| ---------- | ------------------------------ |
+| Berserker  | Kit, Primordial Strength       |
+| Reaver     | Kit, Primordial Cunning        |
+| Stormwight | Beast Shape, Relentless Hunter |
 
 ##### Beast Shape
 
@@ -450,11 +450,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:unstoppable-force) |
-| Reaver     | [Inescapable Wrath](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:inescapable-wrath) |
-| Stormwight | [Tooth and Claw](scc:mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:tooth-and-claw)       |
+| Aspect     | Feature           |
+| ---------- | ----------------- |
+| Berserker  | Unstoppable Force |
+| Reaver     | Inescapable Wrath |
+| Stormwight | Tooth and Claw    |
 
 ##### Inescapable Wrath
 
@@ -590,11 +590,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Immovable Object](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:immovable-object)                 |
-| Reaver     | [See Through Their Tricks](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:see-through-their-tricks) |
-| Stormwight | [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight)                    |
+| Aspect     | Feature                  |
+| ---------- | ------------------------ |
+| Berserker  | Immovable Object         |
+| Reaver     | See Through Their Tricks |
+| Stormwight | Nature's Knight          |
 
 ##### Immovable Object
 
@@ -714,7 +714,7 @@ Your [jump](../../../Browse/Movement/Jump) distance and height double (see Movem
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
@@ -802,7 +802,7 @@ As a 6th-level [fury](../../../Browse/Classes/Fury), you gain the following feat
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -966,15 +966,15 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Berserker  | [Strongest There Is](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:strongest-there-is) |
-| Reaver     | [A Step Ahead](scc:mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead)             |
-| Stormwight | Menagerie                                                                                        |
+| Aspect     | Feature            |
+| ---------- | ------------------ |
+| Berserker  | Strongest There Is |
+| Reaver     | A Step Ahead       |
+| Stormwight | Menagerie          |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](scc:mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

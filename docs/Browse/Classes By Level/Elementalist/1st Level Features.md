@@ -60,7 +60,7 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](../../../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
@@ -126,8 +126,8 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Earth          | [Motivate Earth](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                   |
 | Fire           | [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) |
-| Green          | [It Is the Soul Which Hears](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears)             |
-| Void           | [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)                       |
+| Green          | It Is the Soul Which Hears                                                                                                           |
+| Void           | A Beyonding of Vision                                                                                                                |
 
 ##### A Beyonding of Vision
 
@@ -144,7 +144,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -259,7 +259,7 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)
 
 ##### Enchantment of Battle
 
@@ -285,7 +285,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ward-of-surprising-reactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* Ward of Surprising Reactivity.)
 
 ##### Ward of Delightful Consequences
 

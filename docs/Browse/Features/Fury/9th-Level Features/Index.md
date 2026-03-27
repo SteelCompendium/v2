@@ -7,6 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [9th Level Berserker Abilities](../9th-Level%20Aspect%20Ability/9th%20Level%20Berserker%20Abilities)
+- [9th Level Reaver Abilities](../9th-Level%20Aspect%20Ability/9th%20Level%20Reaver%20Abilities)
+- [9th Level Stormwight Abilities](../9th-Level%20Aspect%20Ability/9th%20Level%20Stormwight%20Abilities)
 - [9th Level Aspect Ability](../9th%20Level%20Aspect%20Ability)
 - [Harbinger of the Primordial Chaos](../Harbinger%20of%20the%20Primordial%20Chaos)
 

@@ -22,11 +22,11 @@ Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Blocking](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:blocking), [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)             |
-| Duelist   | Acrobatics, [Star Power](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:star-power)                                                                                                                       |
-| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](scc:mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:virtuoso-performances) |
+| Class Act | Features                                                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue) |
+| Duelist   | Acrobatics, Star Power                                                                                                             |
+| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), Virtuoso Performances  |
 
 ##### Acrobatics
 

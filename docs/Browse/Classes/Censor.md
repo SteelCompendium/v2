@@ -98,7 +98,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](scc:mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-outside-of-combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor), but they might appear in future products.)
 
@@ -171,16 +171,16 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
 | Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
-| Fate       | [Oracular Visions](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions)                           | Lore          |
-| Knowledge  | [Blessing of Comprehension](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension)         | Lore          |
-| Life       | [Revitalizing Ritual](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual)                     | Exploration   |
-| Love       | [Blessing of Compassion](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion)               | Interpersonal |
+| Fate       | Oracular Visions                                                                                                          | Lore          |
+| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
+| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
+| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
 | Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
-| Protection | [Protective Circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle)                         | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light)                                     | Lore          |
-| Trickery   | [Inspired Deception](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception)                       | Intrigue      |
-| War        | [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon)                         | Exploration   |
+| Protection | Protective Circle                                                                                                         | Exploration   |
+| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
+| Sun        | Inner Light                                                                                                               | Lore          |
+| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
+| War        | Sanctified Weapon                                                                                                         | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -265,7 +265,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -507,11 +507,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you two features, as 
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
-| Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
-| Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
+| Order    | Features                             |
+| -------- | ------------------------------------ |
+| Exorcist | Saint's Vigilance, A Sense for Truth |
+| Oracle   | It Was Foretold, Judge of Character  |
+| Paragon  | Lead by Example, Stalwart Icon       |
 
 ##### It Was Foretold
 
@@ -717,18 +717,18 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 | Domain     | Feature                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker)     |
-| Death      | [Seance](scc:mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance)                                                |
-| Fate       | [Oracular Warning](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:oracular-warning)                           |
-| Knowledge  | [Saint's Epiphany](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany)                            |
-| Life       | [Blessing of Life](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life)                           |
-| Love       | [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart)             |
-| Nature     | [Wode Road](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road)                                         |
-| Protection | [Impervious Touch](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch)                           |
-| Storm      | [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk)                                           |
-| Sun        | [Light of Revelation](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:light-of-revelation)                     |
+| Creation   | Improved Hands of the Maker                                                                                               |
+| Death      | Seance                                                                                                                    |
+| Fate       | Oracular Warning                                                                                                          |
+| Knowledge  | Saint's Epiphany                                                                                                          |
+| Life       | Blessing of Life                                                                                                          |
+| Love       | Invocation of the Heart                                                                                                   |
+| Nature     | Wode Road                                                                                                                 |
+| Protection | Impervious Touch                                                                                                          |
+| Storm      | Windwalk                                                                                                                  |
+| Sun        | Light of Revelation                                                                                                       |
 | Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | [Improved Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-sanctified-weapon)       |
+| War        | Improved Sanctified Weapon                                                                                                |
 
 ##### Blessing of Life
 
@@ -761,7 +761,7 @@ When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Lev
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](scc:mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -801,11 +801,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                  |
-| -------- | ---------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed) |
-| Oracle   | [Prophecy](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:prophecy)           |
-| Paragon  | [Stand Fast](scc:mcdm.heroes.v1:feature.trait.censor.5th-level-feature:stand-fast)!      |
+| Order    | Feature       |
+| -------- | ------------- |
+| Exorcist | Evil Revealed |
+| Oracle   | Prophecy      |
+| Paragon  | Stand Fast!   |
 
 ##### Evil Revealed
 
@@ -1016,20 +1016,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:divine-quartermaster)                 |
-| Death      | [Word of Death Deferred](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred)             |
-| Fate       | [Word of Fate Denied](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied)                   |
-| Knowledge  | [Gods' Library](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library)                                |
-| Life       | [Font of Grace](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:font-of-grace)                               |
-| Love       | [Covenant of the Heart](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:covenant-of-the-heart)               |
-| Nature     | [Nature's Bounty](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty)                            |
-| Protection | [Blessing of Iron](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:blessing-of-iron)                         |
-| Storm      | [Ride the Lightning](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:ride-the-lightning)                     |
-| Sun        | [Light of the Burning Sun](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:light-of-the-burning-sun)         |
-| Trickery   | [Trinity of Trickery](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:trinity-of-trickery)                   |
-| War        | [Your Triumphs Are Remembered](scc:mcdm.heroes.v1:feature.trait.censor.7th-level-feature:your-triumphs-are-remembered) |
+| Domain     | Feature                      |
+| ---------- | ---------------------------- |
+| Creation   | Divine Quartermaster         |
+| Death      | Word of Death Deferred       |
+| Fate       | Word of Fate Denied          |
+| Knowledge  | Gods' Library                |
+| Life       | Font of Grace                |
+| Love       | Covenant of the Heart        |
+| Nature     | Nature's Bounty              |
+| Protection | Blessing of Iron             |
+| Storm      | Ride the Lightning           |
+| Sun        | Light of the Burning Sun     |
+| Trickery   | Trinity of Trickery          |
+| War        | Your Triumphs Are Remembered |
 
 ##### Blessing of Iron
 
@@ -1037,7 +1037,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1048,7 +1048,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1080,7 +1080,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](scc:mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your Windwalk feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If Windwalk already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -1133,11 +1133,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:demonologist)               |
-| Oracle   | [Their Past Revealed](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed) |
-| Paragon  | [Vow](scc:mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow)                                 |
+| Order    | Feature             |
+| -------- | ------------------- |
+| Exorcist | Demonologist        |
+| Oracle   | Their Past Revealed |
+| Paragon  | Vow                 |
 
 ##### Demonologist
 

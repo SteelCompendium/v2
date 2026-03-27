@@ -22,11 +22,11 @@ Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                          |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| Auteur    | [Deleted Scene](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene)     |
-| Duelist   | [Masterwork](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:masterwork)           |
-| Virtuoso  | [Crowd Favorites](scc:mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:crowd-favorites) |
+| Class Act | Feature         |
+| --------- | --------------- |
+| Auteur    | Deleted Scene   |
+| Duelist   | Masterwork      |
+| Virtuoso  | Crowd Favorites |
 
 ##### Crowd Favorites
 

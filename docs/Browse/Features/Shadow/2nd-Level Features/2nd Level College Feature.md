@@ -22,11 +22,11 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a feature
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash)           |
-| Caustic Alchemy | [Trained Assassin](scc:mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin) |
-| Harlequin Mask  | Friend!                                                                                        |
+| College         | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 ##### Burning Ash
 

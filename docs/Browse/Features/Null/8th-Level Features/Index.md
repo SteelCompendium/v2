@@ -7,7 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [Inertial Dampener](../8th-Level%20Tradition%20Feature/Inertial%20Dampener)
 - [8th Level Tradition Feature](../8th%20Level%20Tradition%20Feature)
+- [Shared Momentum](../8th-Level%20Tradition%20Feature/Shared%20Momentum)
+- [Synaptic Triage](../8th-Level%20Tradition%20Feature/Synaptic%20Triage)
 - [Perk](../Perk)
 
 </div>

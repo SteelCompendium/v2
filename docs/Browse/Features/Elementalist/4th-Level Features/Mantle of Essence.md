@@ -22,12 +22,12 @@ While you have 3 or more essence and are not dying, you exude an aura of magic w
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                            |
-| -------------- | -------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth)     |
-| Fire           | [Burning Grounds](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:burning-grounds) |
-| Green          | [Flowering Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed)     |
-| Void           | [Veiling Bed](scc:mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed)         |
+| Specialization | Feature         |
+| -------------- | --------------- |
+| Earth          | Quaking Earth   |
+| Fire           | Burning Grounds |
+| Green          | Flowering Bed   |
+| Void           | Veiling Bed     |
 
 ##### Burning Grounds
 

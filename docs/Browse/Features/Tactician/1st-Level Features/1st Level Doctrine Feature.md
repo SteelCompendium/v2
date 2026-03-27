@@ -22,11 +22,11 @@ Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Ta
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations)     |
-| Mastermind | [Studied Commander](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander)     |
-| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence) |
+| Doctrine   | Feature             |
+| ---------- | ------------------- |
+| Insurgent  | Covert Operations   |
+| Mastermind | Studied Commander   |
+| Vanguard   | Commanding Presence |
 
 ##### Commanding Presence
 

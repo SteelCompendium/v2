@@ -88,7 +88,7 @@ You lose any remaining focus at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain [focus outside of combat](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-outside-of-combat), you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../Browse/Classes/Tactician), but they might appear in future products.)
 
@@ -103,11 +103,11 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations)     |
-| Mastermind | [Studied Commander](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander)     |
-| Vanguard   | [Commanding Presence](scc:mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence) |
+| Doctrine   | Feature             |
+| ---------- | ------------------- |
+| Insurgent  | Covert Operations   |
+| Mastermind | Studied Commander   |
+| Vanguard   | Commanding Presence |
 
 ##### Commanding Presence
 
@@ -404,11 +404,11 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                   |
-| ---------- | --------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics) |
-| Mastermind | Goaded                                                                                                    |
-| Vanguard   | [Melee Superiority](scc:mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority)       |
+| Doctrine   | Feature              |
+| ---------- | -------------------- |
+| Insurgent  | Infiltration Tactics |
+| Mastermind | Goaded               |
+| Vanguard   | Melee Superiority    |
 
 ##### Goaded
 
@@ -620,11 +620,11 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 ###### 5th-Level Doctrine Features Table
 
-| Doctrine   | Features                                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | Distracted, [Leave No Trace](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:leave-no-trace)                                                                                        |
-| Mastermind | Anticipation, [I Predicted That](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:i-predicted-that)                                                                                  |
-| Vanguard   | [Shake It Off](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:shake-it-off), [Tactical Offensive](scc:mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:tactical-offensive) |
+| Doctrine   | Features                         |
+| ---------- | -------------------------------- |
+| Insurgent  | Distracted, Leave No Trace       |
+| Mastermind | Anticipation, I Predicted That   |
+| Vanguard   | Shake It Off, Tactical Offensive |
 
 ##### Anticipation
 
@@ -848,11 +848,11 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:asymmetric-warfare) |
-| Mastermind | [Grand Strategy](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:grand-strategy)         |
-| Vanguard   | [Shock and Awe](scc:mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe)           |
+| Doctrine   | Feature            |
+| ---------- | ------------------ |
+| Insurgent  | Asymmetric Warfare |
+| Mastermind | Grand Strategy     |
+| Vanguard   | Shock and Awe      |
 
 ##### Asymmetric Warfare
 
@@ -880,11 +880,11 @@ Your [tactical doctrine](../../../Browse/Tactician/1st-Level%20Features/Tactical
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                               |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Bait and Ambush](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush)                                       |
-| Mastermind | [Pincer Movement](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement)                                       |
-| Vanguard   | [See Your Enemies Driven Before You](scc:mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:see-your-enemies-driven-before-you) |
+| Doctrine   | Feature                            |
+| ---------- | ---------------------------------- |
+| Insurgent  | Bait and Ambush                    |
+| Mastermind | Pincer Movement                    |
+| Vanguard   | See Your Enemies Driven Before You |
 
 ##### Bait and Ambush
 

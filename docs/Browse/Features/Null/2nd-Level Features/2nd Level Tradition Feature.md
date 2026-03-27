@@ -22,11 +22,11 @@ Your [null](../../../../../Browse/Classes/Null) tradition grants you a feature, 
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| Chronokinetic | [Rapid Processing](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing)           |
-| Cryokinetic   | [Entropic Adaptability](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability) |
-| Metakinetic   | [Inertial Sink](scc:mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink)                 |
+| Tradition     | Feature               |
+| ------------- | --------------------- |
+| Chronokinetic | Rapid Processing      |
+| Cryokinetic   | Entropic Adaptability |
+| Metakinetic   | Inertial Sink         |
 
 ##### Entropic Adaptability
 

@@ -22,11 +22,11 @@ Your [censor](../../../../../Browse/Classes/Censor) order grants you two feature
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance), [A Sense for Truth](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth) |
-| Oracle   | [It Was Foretold](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold), [Judge of Character](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character)  |
-| Paragon  | [Lead by Example](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example), [Stalwart Icon](scc:mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon)            |
+| Order    | Features                             |
+| -------- | ------------------------------------ |
+| Exorcist | Saint's Vigilance, A Sense for Truth |
+| Oracle   | It Was Foretold, Judge of Character  |
+| Paragon  | Lead by Example, Stalwart Icon       |
 
 ##### It Was Foretold
 

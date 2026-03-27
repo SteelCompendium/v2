@@ -26,8 +26,8 @@ Your elemental specialization grants you a feature, as shown on the 1st-Level El
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Earth          | [Motivate Earth](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                   |
 | Fire           | [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) |
-| Green          | [It Is the Soul Which Hears](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears)             |
-| Void           | [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision)                       |
+| Green          | It Is the Soul Which Hears                                                                                                           |
+| Void           | A Beyonding of Vision                                                                                                                |
 
 ##### A Beyonding of Vision
 
@@ -44,7 +44,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:a-beyonding-of-vision) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense) ability.
 
 ##### It Is the Soul Which Hears
 
