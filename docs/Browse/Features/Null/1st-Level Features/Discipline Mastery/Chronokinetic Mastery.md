@@ -20,7 +20,7 @@ type: feature/subtrait/null/1st-level-feature
 
 Whenever you use the [Inertial Shield](../../../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can use the [Disengage](../../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 

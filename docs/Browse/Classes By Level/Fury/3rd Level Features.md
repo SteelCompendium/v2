@@ -22,11 +22,11 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                  |
-| ---------- | ------------------------ |
-| Berserker  | Immovable Object         |
-| Reaver     | See Through Their Tricks |
-| Stormwight | Nature's Knight          |
+| Aspect     | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Immovable Object](../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object)                     |
+| Reaver     | [See Through Their Tricks](../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks) |
+| Stormwight | [Nature's Knight](../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight)                        |
 
 ##### Immovable Object
 

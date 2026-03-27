@@ -9,10 +9,10 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [6th Level Aspect Ability](../6th%20Level%20Aspect%20Ability)
 - [6th Level Berserker Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Berserker%20Abilities)
 - [6th Level Reaver Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Reaver%20Abilities)
 - [6th Level Stormwight Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Stormwight%20Abilities)
-- [6th Level Aspect Ability](../6th%20Level%20Aspect%20Ability)
 - [Perk](../Perk)
 - [Primordial Portal](../Primordial%20Portal)
 

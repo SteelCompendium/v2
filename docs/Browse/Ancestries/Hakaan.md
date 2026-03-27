@@ -102,7 +102,7 @@ The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I
 
 "Many do!" Ardashir said. "I do not. I left the hills of my people long ago to pursue a different path. A path of order and discipline. It is my birthright perhaps."
 
-"He's a [null](../../../Browse/Classes/Null)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
+"He's a null," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
 
 "Strength alone might serve," Dazar nodded, "when the strength is such as yours."
 

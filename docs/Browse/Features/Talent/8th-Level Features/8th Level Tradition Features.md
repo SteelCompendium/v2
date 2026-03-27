@@ -22,11 +22,11 @@ Your [talent](../../../../../Browse/Classes/Talent) tradition grants you two fea
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                      |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | Doubling the Hours, [Stasis Shield](../../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield)          |
-| Telekinesis | [Levitation Field](../../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), Low Gravity |
-| Telepathy   | Mindlink, [Universal Connection](../../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)      |
+| Tradition   | Features                                                                                                                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield) |
+| Telekinesis | [Levitation Field](../../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity) |
+| Telepathy   | [Mindlink](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)           |
 
 ##### Doubling the Hours
 

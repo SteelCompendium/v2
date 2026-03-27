@@ -18,15 +18,15 @@ type: feature/trait/null/2nd-level-feature
 
 #### 2nd-Level Tradition Feature
 
-Your [null](../../../../../Browse/Classes/Null) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature               |
-| ------------- | --------------------- |
-| Chronokinetic | Rapid Processing      |
-| Cryokinetic   | Entropic Adaptability |
-| Metakinetic   | Inertial Sink         |
+| Tradition     | Feature                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
+| Cryokinetic   | [Entropic Adaptability](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
+| Metakinetic   | [Inertial Sink](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
 
 ##### Entropic Adaptability
 

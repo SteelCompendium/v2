@@ -47,18 +47,18 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ###### Fury Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Abilities                 | Aspect Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | [Primordial Aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect), Ferocity, [Growing Ferocity](../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity), Aspect Features, Aspect Triggered Action, [Mighty Leaps](../../../Browse/Fury/1st-Level%20Features/Mighty%20Leaps), [Fury](../../../Browse/Classes/Fury) Abilities                                                                   | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, [Damaging Ferocity](../../../Browse/Fury/4th-Level%20Features/Damaging%20Ferocity), [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Attunement](../../../Browse/Fury/4th-Level%20Features/Primordial%20Attunement), [Primordial Strike](../../../Browse/Fury/4th-Level%20Features/Primordial%20Strike), Skill | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Marauder of the Primordial Chaos](../../../Browse/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20Chaos), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, [Elemental Form](../../../Browse/Fury/7th-Level%20Features/Elemental%20Form), [Greater Ferocity](../../../Browse/Fury/7th-Level%20Features/Greater%20Ferocity), [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Skill                                                                                                                               | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | [Harbinger of the Primordial Chaos](../../../Browse/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos), Aspect Ability                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Chaos Incarnate](../../../Browse/Fury/10th-Level%20Features/Chaos%20Incarnate), Characteristic Increase, [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Ferocity](../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity), [Primordial Power](../../../Browse/Fury/10th-Level%20Features/Primordial%20Power), Skill        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | [Primordial Aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect), Ferocity, [Growing Ferocity](../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity), Aspect Features, [Aspect Triggered Action](../../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action), [Mighty Leaps](../../../Browse/Fury/1st-Level%20Features/Mighty%20Leaps), [Fury](../../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, [Damaging Ferocity](../../../Browse/Fury/4th-Level%20Features/Damaging%20Ferocity), [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Attunement](../../../Browse/Fury/4th-Level%20Features/Primordial%20Attunement), [Primordial Strike](../../../Browse/Fury/4th-Level%20Features/Primordial%20Strike), Skill                            | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | [Marauder of the Primordial Chaos](../../../Browse/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20Chaos), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, [Elemental Form](../../../Browse/Fury/7th-Level%20Features/Elemental%20Form), [Greater Ferocity](../../../Browse/Fury/7th-Level%20Features/Greater%20Ferocity), [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Skill                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | [Harbinger of the Primordial Chaos](../../../Browse/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Chaos Incarnate](../../../Browse/Fury/10th-Level%20Features/Chaos%20Incarnate), Characteristic Increase, [Growing Ferocity Improvement](../../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Ferocity](../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity), [Primordial Power](../../../Browse/Fury/10th-Level%20Features/Primordial%20Power), Skill                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -93,7 +93,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../Browse/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -131,11 +131,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                        |
-| ---------- | ------------------------------ |
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Aspect     | Feature                                                                                                                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength)                                                                                                                  |
+| Reaver     | Kit, [Primordial Cunning](../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning)                                                                                                                    |
+| Stormwight | [Beast Shape](../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape), [Relentless Hunter](../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter) |
 
 ##### Beast Shape
 
@@ -163,7 +163,7 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
 
 ###### Aspect Triggered Actions Table
 
@@ -450,11 +450,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature           |
-| ---------- | ----------------- |
-| Berserker  | Unstoppable Force |
-| Reaver     | Inescapable Wrath |
-| Stormwight | Tooth and Claw    |
+| Aspect     | Feature                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
+| Reaver     | [Inescapable Wrath](../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
+| Stormwight | Tooth and Claw                                                                                                                      |
 
 ##### Inescapable Wrath
 
@@ -590,11 +590,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                  |
-| ---------- | ------------------------ |
-| Berserker  | Immovable Object         |
-| Reaver     | See Through Their Tricks |
-| Stormwight | Nature's Knight          |
+| Aspect     | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Immovable Object](../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object)                     |
+| Reaver     | [See Through Their Tricks](../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks) |
+| Stormwight | [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight)                        |
 
 ##### Immovable Object
 
@@ -702,11 +702,11 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature    |
-| ---------- | ---------- |
-| Berserker  | Bounder    |
-| Reaver     | Unfettered |
-| Stormwight | Stormborn  |
+| Aspect     | Feature                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](../../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
+| Reaver     | Unfettered                                                                                                        |
+| Stormwight | [Stormborn](../../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
 
 ##### Bounder
 
@@ -714,7 +714,7 @@ Your [jump](../../../Browse/Movement/Jump) distance and height double (see Movem
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
@@ -802,7 +802,7 @@ As a 6th-level [fury](../../../Browse/Classes/Fury), you gain the following feat
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -966,15 +966,15 @@ Your [primordial aspect](../../../Browse/Fury/1st-Level%20Features/Primordial%20
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature            |
-| ---------- | ------------------ |
-| Berserker  | Strongest There Is |
-| Reaver     | A Step Ahead       |
-| Stormwight | Menagerie          |
+| Aspect     | Feature                                                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Strongest There Is](../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
+| Reaver     | [A Step Ahead](../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
+| Stormwight | [Menagerie](../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

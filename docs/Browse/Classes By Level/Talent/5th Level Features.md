@@ -22,11 +22,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition   | Features                              |
-| ----------- | ------------------------------------- |
-| Chronopathy | Distortion Temporal, Speed of Thought |
-| Telekinesis | Kinetic Amplifier, Triangulate        |
-| Telepathy   | Compulsion, Remote Amplification      |
+| Tradition   | Features                                                                                                                                                                                                                                                                                 |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Distortion Temporal](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
+| Telekinesis | [Kinetic Amplifier](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
+| Telepathy   | [Compulsion](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
 
 ##### Compulsion
 

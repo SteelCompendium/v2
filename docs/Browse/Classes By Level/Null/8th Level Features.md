@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As an 8th-level null, you gain the following features.
 
 #### Perk
 
@@ -22,27 +22,27 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your [null](../../../../Browse/Classes/Null) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature           |
-| ------------- | ----------------- |
-| Chronokinetic | Shared Momentum   |
-| Cryokinetic   | Synaptic Triage   |
-| Metakinetic   | Inertial Dampener |
+| Tradition     | Feature                                                                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
+| Cryokinetic   | [Synaptic Triage](../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
+| Metakinetic   | [Inertial Dampener](../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your [Null](../../../../Browse/Classes/Null) Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](../../../../Browse/Classes/Null) Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
 
 #### 11-Discipline Ability
 
@@ -106,6 +106,6 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 > | ---------------------- | --------------------------: |
 > | **📏 Self; see below** | **🎯 Self or one creature** |
 >
-> **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../../../../Browse/Classes/Null) Field ability.
+> **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 >
 > **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../Browse/Conditions/Dazed) (save ends). While the triggering creature is [dazed](../../../../Browse/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

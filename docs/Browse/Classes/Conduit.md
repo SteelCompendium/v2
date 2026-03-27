@@ -53,12 +53,12 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 | 1st   | [Deity and Domains](../../../Browse/Conduit/1st-Level%20Features/Deity%20and%20Domains), Piety, Domain Feature, [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), [Ray of Wrath](../../../Browse/Abilities/Conduit/1st-Level%20Features/Ray%20of%20Wrath), Triggered Action, Prayer, [Conduit](../../../Browse/Classes/Conduit) Ward, [Conduit](../../../Browse/Classes/Conduit) Abilities | Two signature, 3, 5           | -                |
 | 2nd   | [The Lists of Heaven](../../../Browse/Conduit/2nd-Level%20Features/The%20Lists%20of%20Heaven), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                |
 | 3rd   | [Minor Miracle](../../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7        | 5                |
-| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                |
+| 4th   | [Blessed Domains](../../../Browse/Conduit/4th-Level%20Features/Blessed%20Domain), Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5                |
 | 6th   | [Burgeoning Saint](../../../Browse/Conduit/6th-Level%20Features/Burgeoning%20Saint), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../../Browse/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, [Faith's Sword](../../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), Ordained                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](../../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), [Ordained](../../../Browse/Conduit/9th-Level%20Features/Ordained)                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | [Avatar](../../../Browse/Conduit/10th-Level%20Features/Avatar), Characteristic Increase, Divine Power, [Most Pious](../../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
@@ -89,7 +89,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../../Browse/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -161,24 +161,24 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                   | Skill Group   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                 | Lore          |
-| Fate       | Oracular Visions                                                                                                          | Lore          |
-| Knowledge  | Blessing of Comprehension                                                                                                 | Lore          |
-| Life       | Revitalizing Ritual                                                                                                       | Exploration   |
-| Love       | Blessing of Compassion                                                                                                    | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)           | Exploration   |
-| Protection | Protective Circle                                                                                                         | Exploration   |
-| Storm      | Blessing of Fortunate Weather                                                                                             | Exploration   |
-| Sun        | Inner Light                                                                                                               | Lore          |
-| Trickery   | Inspired Deception                                                                                                        | Intrigue      |
-| War        | Sanctified Weapon                                                                                                         | Exploration   |
+| Domain     | Feature                                                                                                                                                           | Skill Group   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                         | Crafting      |
+| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                         | Lore          |
+| Fate       | [Oracular Visions](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                   | Exploration   |
+| Protection | Protective Circle                                                                                                                                                 | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
+| Sun        | [Inner Light](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -352,7 +352,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Distance).)
 
 ##### Prayer of Destruction
 
@@ -378,7 +378,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* Bastion Ward.)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20Ward).)
 
 ##### Bastion Ward
 
@@ -956,20 +956,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 4th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | Improved Hands of the Maker                                                                                               |
-| Death      | Seance                                                                                                                    |
-| Fate       | Oracular Warning                                                                                                          |
-| Knowledge  | Saint's Epiphany                                                                                                          |
-| Life       | Blessing of Life                                                                                                          |
-| Love       | Invocation of the Heart                                                                                                   |
-| Nature     | Wode Road                                                                                                                 |
-| Protection | Impervious Touch                                                                                                          |
-| Storm      | Windwalk                                                                                                                  |
-| Sun        | Light of Revelation                                                                                                       |
-| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | Improved Sanctified Weapon                                                                                                |
+| Domain     | Feature                                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Improved Hands of the Maker](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
+| Death      | [Seance](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
+| Fate       | [Oracular Warning](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
+| Knowledge  | [Saint's Epiphany](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
+| Life       | [Blessing of Life](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
+| Love       | [Invocation of the Heart](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
+| Nature     | [Wode Road](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
+| Protection | [Impervious Touch](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
+| Storm      | [Windwalk](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
+| Sun        | [Light of Revelation](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
+| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                       |
+| War        | [Improved Sanctified Weapon](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
 
 ###### Blessing of Life
 
@@ -1002,7 +1002,7 @@ When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Lev
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -1324,20 +1324,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                      |
-| ---------- | ---------------------------- |
-| Creation   | Divine Quartermaster         |
-| Death      | Word of Death Deferred       |
-| Fate       | Word of Fate Denied          |
-| Knowledge  | Gods' Library                |
-| Life       | Font of Grace                |
-| Love       | Covenant of the Heart        |
-| Nature     | Nature's Bounty              |
-| Protection | Blessing of Iron             |
-| Storm      | Thunderstruck                |
-| Sun        | Light of the Burning Sun     |
-| Trickery   | Trinity of Trickery          |
-| War        | Your Triumphs Are Remembered |
+| Domain     | Feature                                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Divine Quartermaster](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                                                   |
+| Life       | [Font of Grace](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
+| Storm      | [Thunderstruck](../../../Browse/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
+| Sun        | [Light of the Burning Sun](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -1345,7 +1345,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1696,7 +1696,7 @@ As a 10th-level [conduit](../../../Browse/Classes/Conduit), you gain the followi
 
 #### Avatar
 
-You are now an [avatar](../../../Browse/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see Domain Piety and Effects) without needing to pray.
+You are now an [avatar](../../../Browse/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../../../Browse/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20Effects)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 

@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 9th-Level Features
 
-As a 9th-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As a 9th-level null, you gain the following features.
 
 #### I Am the Weapon
 
@@ -22,7 +22,7 @@ Your Stamina increases by 21 and you can't be made [bleeding](../../../../Browse
 
 #### 9th-Level Tradition Ability
 
-Your [null](../../../../Browse/Classes/Null) tradition grants your choice of one of two heroic abilities.
+Your null tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 

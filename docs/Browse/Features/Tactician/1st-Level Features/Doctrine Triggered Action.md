@@ -18,7 +18,7 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../../Browse/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action) table.
 
 ###### Doctrine Triggered Actions Table
 

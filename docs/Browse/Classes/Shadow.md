@@ -45,18 +45,18 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ###### Shadow Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                 | Abilities                 | College Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | [Shadow](../../../Browse/Classes/Shadow) College, Insight, College Features, College Triggered Action, [Hesitation Is Weakness](../../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness), Kit, [Shadow](../../../Browse/Classes/Shadow) Abilities                                                                             | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5           | 5                 |
-| 3rd   | [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation), 7-Insight Ability                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, [Keep It Down](../../../Browse/Shadow/4th-Level%20Features/Keep%20It%20Down), [Night Watch](../../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch), Perk, Skill, [Surge of Insight](../../../Browse/Shadow/4th-Level%20Features/Surge%20of%20Insight)                                                 | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, [Umbral Form](../../../Browse/Shadow/6th-Level%20Features/Umbral%20Form), College Ability                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, [Keen Insight](../../../Browse/Shadow/7th-Level%20Features/Keen%20Insight), Skill, [Careful Observation Improvement](../../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), Ventriloquist                                                                                                                    | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | [Gloom Squad](../../../Browse/Shadow/9th-Level%20Features/Gloom%20Squad), College Ability                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, [Death Pool](../../../Browse/Shadow/10th-Level%20Features/Death%20Pool), Perk, Skill, [Careful Observation Improvement](../../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Improved Umbral Form](../../../Browse/Shadow/10th-Level%20Features/Improved%20Umbral%20Form), Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                     | Abilities                 | College Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
+| 1st   | [Shadow](../../../Browse/Classes/Shadow) College, Insight, College Features, [College Triggered Action](../../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action), [Hesitation Is Weakness](../../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness), Kit, [Shadow](../../../Browse/Classes/Shadow) Abilities | Signature, 3, 5           | -                 |
+| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                 |
+| 3rd   | [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation), 7-Insight Ability                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
+| 4th   | Characteristic Increase, [Keep It Down](../../../Browse/Shadow/4th-Level%20Features/Keep%20It%20Down), [Night Watch](../../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch), Perk, Skill, [Surge of Insight](../../../Browse/Shadow/4th-Level%20Features/Surge%20of%20Insight)                                                                     | Signature, 3, 5, 7        | 5                 |
+| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5                 |
+| 6th   | Perk, [Umbral Form](../../../Browse/Shadow/6th-Level%20Features/Umbral%20Form), College Ability                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | Characteristic Increase, [Keen Insight](../../../Browse/Shadow/7th-Level%20Features/Keen%20Insight), Skill, [Careful Observation Improvement](../../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Ventriloquist](../../../Browse/Shadow/7th-Level%20Features/Ventriloquist)                                                       | Signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | [Gloom Squad](../../../Browse/Shadow/9th-Level%20Features/Gloom%20Squad), College Ability                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, [Death Pool](../../../Browse/Shadow/10th-Level%20Features/Death%20Pool), Perk, Skill, [Careful Observation Improvement](../../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Improved Umbral Form](../../../Browse/Shadow/10th-Level%20Features/Improved%20Umbral%20Form), Subterfuge                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
@@ -90,7 +90,7 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../../Browse/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
@@ -100,11 +100,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you one or two feat
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                    |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)     |
-| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), Smoke Bomb |
-| Harlequin Mask  | I'm No Threat                                                                                                              |
+| College         | Feature                                                                                                                                                                                                                                   |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                                                    |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                             |
 
 ##### Black Ash Teleport
 
@@ -161,11 +161,11 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
 
 ###### College Triggered Actions Table
 
@@ -463,11 +463,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature          |
-| --------------- | ---------------- |
-| Black Ash       | Burning Ash      |
-| Caustic Alchemy | Trained Assassin |
-| Harlequin Mask  | Friend!          |
+| College         | Feature                                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Black Ash       | [Burning Ash](../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
+| Caustic Alchemy | [Trained Assassin](../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Harlequin Mask  | Friend!                                                                                                                              |
 
 ##### Burning Ash
 
@@ -725,11 +725,11 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 ###### 5th-Level College Features Table
 
-| College         | Feature           |
-| --------------- | ----------------- |
-| Black Ash       | Trail of Cinders  |
-| Caustic Alchemy | Volatile Reagents |
-| Harlequin Mask  | Harlequin Gambit  |
+| College         | Feature                                                                                                                                |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Trail of Cinders](../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
 
 ##### Harlequin Gambit
 
@@ -977,19 +977,19 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as s
 
 ###### 8th-Level College Features Table
 
-| College         | Feature                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------- |
-| Black Ash       | Cinder Step                                                                                        |
-| Caustic Alchemy | [Time Bomb](../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb) |
-| Harlequin Mask  | Parkour                                                                                            |
+| College         | Feature                                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Cinder Step](../../../Browse/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step) |
+| Caustic Alchemy | [Time Bomb](../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb)                         |
+| Harlequin Mask  | [Parkour](../../../Browse/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour)           |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport). When you [teleport](../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow) ability for the purpose of using your Burning Ash and Trail of Cinders features.
+Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport). When you [teleport](../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash) and [Trail of Cinders](../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 

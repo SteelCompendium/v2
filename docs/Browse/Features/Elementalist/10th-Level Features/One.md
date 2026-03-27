@@ -22,12 +22,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature         |
-| -------------- | --------------- |
-| Earth          | Master of Earth |
-| Fire           | Master of Fire  |
-| Green          | Master of Green |
-| Void           | Master of Void  |
+| Specialization | Feature                                                                                                           |
+| -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](../../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
+| Fire           | [Master of Fire](../../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
+| Green          | [Master of Green](../../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
+| Void           | [Master of Void](../../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
 
 ##### Master of Earth
 

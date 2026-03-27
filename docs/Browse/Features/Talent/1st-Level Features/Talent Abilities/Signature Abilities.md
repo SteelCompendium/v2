@@ -18,7 +18,7 @@ type: feature/subtrait/talent/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, [Kinetic Grip](../../../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate), [Kinetic Grip](../../../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
 
 <!-- -->
 > ###### Entropic Bolt

@@ -5,18 +5,6 @@ type: index
 
 # Fury: 1st-Level Features Index
 
-## 1st-Level Aspect Features
-
-<div class="browse-index" markdown>
-
-- [Beast Shape](../1st-Level%20Aspect%20Features/Beast%20Shape)
-- [Kit](../1st-Level%20Aspect%20Features/Kit)
-- [Primordial Cunning](../1st-Level%20Aspect%20Features/Primordial%20Cunning)
-- [Primordial Strength](../1st-Level%20Aspect%20Features/Primordial%20Strength)
-- [Relentless Hunter](../1st-Level%20Aspect%20Features/Relentless%20Hunter)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -28,6 +16,18 @@ type: index
 - [Growing Ferocity](../Growing%20Ferocity)
 - [Mighty Leaps](../Mighty%20Leaps)
 - [Primordial Aspect](../Primordial%20Aspect)
+
+</div>
+
+## 1st-Level Aspect Features
+
+<div class="browse-index" markdown>
+
+- [Beast Shape](../1st-Level%20Aspect%20Features/Beast%20Shape)
+- [Kit](../1st-Level%20Aspect%20Features/Kit)
+- [Primordial Cunning](../1st-Level%20Aspect%20Features/Primordial%20Cunning)
+- [Primordial Strength](../1st-Level%20Aspect%20Features/Primordial%20Strength)
+- [Relentless Hunter](../1st-Level%20Aspect%20Features/Relentless%20Hunter)
 
 </div>
 

@@ -22,11 +22,11 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you a feature, as 
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature       |
-| -------- | ------------- |
-| Exorcist | Evil Revealed |
-| Oracle   | Prophecy      |
-| Paragon  | Stand Fast!   |
+| Order    | Feature                                                                                                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Evil Revealed](../../../../Browse/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
+| Oracle   | Prophecy                                                                                                                     |
+| Paragon  | Stand Fast!                                                                                                                  |
 
 ##### Evil Revealed
 

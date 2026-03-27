@@ -5,6 +5,22 @@ type: index
 
 # Null: 1st-Level Features Index
 
+## Other
+
+<div class="browse-index" markdown>
+
+- [Discipline](../Discipline)
+- [Discipline Mastery](../Discipline%20Mastery)
+- [Inertial Shield](../Inertial%20Shield)
+- [Null Abilities](../Null%20Abilities)
+- [Null Field](../Null%20Field)
+- [Null Speed](../Null%20Speed)
+- [Null Tradition](../Null%20Tradition)
+- [Psionic Augmentation](../Psionic%20Augmentation)
+- [Psionic Martial Arts](../Psionic%20Martial%20Arts)
+
+</div>
+
 ## Discipline
 
 <div class="browse-index" markdown>
@@ -21,22 +37,6 @@ type: index
 - [Chronokinetic Mastery](../Discipline%20Mastery/Chronokinetic%20Mastery)
 - [Cryokinetic Mastery](../Discipline%20Mastery/Cryokinetic%20Mastery)
 - [Metakinetic Mastery](../Discipline%20Mastery/Metakinetic%20Mastery)
-
-</div>
-
-## Other
-
-<div class="browse-index" markdown>
-
-- [Discipline Mastery](../Discipline%20Mastery)
-- [Discipline](../Discipline)
-- [Inertial Shield](../Inertial%20Shield)
-- [Null Abilities](../Null%20Abilities)
-- [Null Field](../Null%20Field)
-- [Null Speed](../Null%20Speed)
-- [Null Tradition](../Null%20Tradition)
-- [Psionic Augmentation](../Psionic%20Augmentation)
-- [Psionic Martial Arts](../Psionic%20Martial%20Arts)
 
 </div>
 

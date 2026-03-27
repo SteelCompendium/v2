@@ -5,17 +5,6 @@ type: index
 
 # Shadow: 1st-Level Features Index
 
-## 1st-Level College Features
-
-<div class="browse-index" markdown>
-
-- [Black Ash Teleport](../1st-Level%20College%20Features/Black%20Ash%20Teleport)
-- [Coat the Blade](../1st-Level%20College%20Features/Coat%20the%20Blade)
-- [Im No Threat](../1st-Level%20College%20Features/Im%20No%20Threat)
-- [Smoke Bomb](../1st-Level%20College%20Features/Smoke%20Bomb)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -27,6 +16,17 @@ type: index
 - [Kit](../Kit)
 - [Shadow Abilities](../Shadow%20Abilities)
 - [Shadow College](../Shadow%20College)
+
+</div>
+
+## 1st-Level College Features
+
+<div class="browse-index" markdown>
+
+- [Black Ash Teleport](../1st-Level%20College%20Features/Black%20Ash%20Teleport)
+- [Coat the Blade](../1st-Level%20College%20Features/Coat%20the%20Blade)
+- [Im No Threat](../1st-Level%20College%20Features/Im%20No%20Threat)
+- [Smoke Bomb](../1st-Level%20College%20Features/Smoke%20Bomb)
 
 </div>
 

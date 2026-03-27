@@ -18,4 +18,4 @@ type: feature/subtrait/null/8th-level-feature
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](../../../../../../Browse/Classes/Null) Field ability gain a bonus to [stability](../../../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.

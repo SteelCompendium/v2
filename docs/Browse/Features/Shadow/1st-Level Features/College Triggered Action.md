@@ -18,7 +18,7 @@ type: feature/trait/shadow/1st-level-feature
 
 #### College Triggered Action
 
-Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
 
 ###### College Triggered Actions Table
 

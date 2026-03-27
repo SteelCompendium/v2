@@ -5,6 +5,22 @@ type: index
 
 # Conduit: 1st-Level Features Index
 
+## Other
+
+<div class="browse-index" markdown>
+
+- [1st Level Domain Feature](../1st%20Level%20Domain%20Feature)
+- [Conduit Abilities](../Conduit%20Abilities)
+- [Conduit Ward](../Conduit%20Ward)
+- [Deity and Domains](../Deity%20and%20Domains)
+- [Healing Grace](../Healing%20Grace)
+- [Piety](../Piety)
+- [Prayer](../Prayer)
+- [Ray of Wrath](../Ray%20of%20Wrath)
+- [Triggered Action](../Triggered%20Action)
+
+</div>
+
 ## 1st-Level Domain Feature
 
 <div class="browse-index" markdown>
@@ -21,22 +37,6 @@ type: index
 - [Protective Circle](../1st-Level%20Domain%20Feature/Protective%20Circle)
 - [Revitalizing Ritual](../1st-Level%20Domain%20Feature/Revitalizing%20Ritual)
 - [Sanctified Weapon](../1st-Level%20Domain%20Feature/Sanctified%20Weapon)
-
-</div>
-
-## Other
-
-<div class="browse-index" markdown>
-
-- [1st Level Domain Feature](../1st%20Level%20Domain%20Feature)
-- [Conduit Abilities](../Conduit%20Abilities)
-- [Conduit Ward](../Conduit%20Ward)
-- [Deity and Domains](../Deity%20and%20Domains)
-- [Healing Grace](../Healing%20Grace)
-- [Piety](../Piety)
-- [Prayer](../Prayer)
-- [Ray of Wrath](../Ray%20of%20Wrath)
-- [Triggered Action](../Triggered%20Action)
 
 </div>
 
@@ -64,13 +64,13 @@ type: index
 
 <div class="browse-index" markdown>
 
+- [Domain Piety and Effects](../Piety/Domain%20Piety%20and%20Effects)
 - [Creation Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Creation%20Domain%20Piety%20and%20Effect)
 - [Death Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Death%20Domain%20Piety%20and%20Effect)
 - [Fate Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Fate%20Domain%20Piety%20and%20Effect)
 - [Knowledge Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Knowledge%20Domain%20Piety%20and%20Effect)
 - [Life Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Life%20Domain%20Piety%20and%20Effect)
 - [Love Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Love%20Domain%20Piety%20and%20Effect)
-- [Domain Piety and Effects](../Piety/Domain%20Piety%20and%20Effects)
 - [Nature Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Nature%20Domain%20Piety%20and%20Effect)
 - [Protection Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Protection%20Domain%20Piety%20and%20Effect)
 - [Storm Domain Piety and Effect](../Piety/Domain%20Piety%20And%20Effects/Storm%20Domain%20Piety%20and%20Effect)

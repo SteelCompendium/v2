@@ -22,11 +22,11 @@ Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                           |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue) |
-| Duelist   | Acrobatics, Star Power                                                                                                             |
-| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), Virtuoso Performances  |
+| Class Act | Features                                                                                                                                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                  |
+| Duelist   | [Acrobatics](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power)  |
+| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances) |
 
 ##### Acrobatics
 

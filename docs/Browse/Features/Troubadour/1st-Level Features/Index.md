@@ -5,19 +5,6 @@ type: index
 
 # Troubadour: 1st-Level Features Index
 
-## 1st-Level Class Act Features
-
-<div class="browse-index" markdown>
-
-- [Acrobatics](../1st-Level%20Class%20Act%20Features/Acrobatics)
-- [Blocking](../1st-Level%20Class%20Act%20Features/Blocking)
-- [Dramatic Monologue](../1st-Level%20Class%20Act%20Features/Dramatic%20Monologue)
-- [Power Chord](../1st-Level%20Class%20Act%20Features/Power%20Chord)
-- [Star Power](../1st-Level%20Class%20Act%20Features/Star%20Power)
-- [Virtuoso Performances](../1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -31,6 +18,19 @@ type: index
 - [Signature Ability](../Signature%20Ability)
 - [Troubadour Abilities](../Troubadour%20Abilities)
 - [Troubadour Class Act](../Troubadour%20Class%20Act)
+
+</div>
+
+## 1st-Level Class Act Features
+
+<div class="browse-index" markdown>
+
+- [Acrobatics](../1st-Level%20Class%20Act%20Features/Acrobatics)
+- [Blocking](../1st-Level%20Class%20Act%20Features/Blocking)
+- [Dramatic Monologue](../1st-Level%20Class%20Act%20Features/Dramatic%20Monologue)
+- [Power Chord](../1st-Level%20Class%20Act%20Features/Power%20Chord)
+- [Star Power](../1st-Level%20Class%20Act%20Features/Star%20Power)
+- [Virtuoso Performances](../1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)
 
 </div>
 

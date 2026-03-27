@@ -5,6 +5,21 @@ type: index
 
 # Censor: 1st-Level Features Index
 
+## Other
+
+<div class="browse-index" markdown>
+
+- [1st Level Domain Feature](../1st%20Level%20Domain%20Feature)
+- [Censor Abilities](../Censor%20Abilities)
+- [Censor Order](../Censor%20Order)
+- [Deity and Domains](../Deity%20and%20Domains)
+- [Judgment](../Judgment)
+- [Kit](../Kit)
+- [My Life for Yours](../My%20Life%20for%20Yours)
+- [Wrath](../Wrath)
+
+</div>
+
 ## 1st-Level Domain Feature
 
 <div class="browse-index" markdown>
@@ -21,21 +36,6 @@ type: index
 - [Protective Circle](../1st-Level%20Domain%20Feature/Protective%20Circle)
 - [Revitalizing Ritual](../1st-Level%20Domain%20Feature/Revitalizing%20Ritual)
 - [Sanctified Weapon](../1st-Level%20Domain%20Feature/Sanctified%20Weapon)
-
-</div>
-
-## Other
-
-<div class="browse-index" markdown>
-
-- [1st Level Domain Feature](../1st%20Level%20Domain%20Feature)
-- [Censor Abilities](../Censor%20Abilities)
-- [Censor Order](../Censor%20Order)
-- [Deity and Domains](../Deity%20and%20Domains)
-- [Judgment](../Judgment)
-- [Kit](../Kit)
-- [My Life for Yours](../My%20Life%20for%20Yours)
-- [Wrath](../Wrath)
 
 </div>
 

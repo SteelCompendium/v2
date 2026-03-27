@@ -18,7 +18,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) table.
 
 ###### Class Act Triggered Actions Table
 

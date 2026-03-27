@@ -22,11 +22,11 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features     |
-| --------- | ------------ |
-| Auteur    | Missed Cue   |
-| Duelist   | Foil         |
-| Virtuoso  | Second Album |
+| Class Act | Features                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Missed Cue](../../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
+| Duelist   | Foil                                                                                                                                 |
+| Virtuoso  | [Second Album](../../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
 
 ##### Foil
 

@@ -22,15 +22,15 @@ Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primord
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature            |
-| ---------- | ------------------ |
-| Berserker  | Strongest There Is |
-| Reaver     | A Step Ahead       |
-| Stormwight | Menagerie          |
+| Aspect     | Feature                                                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Strongest There Is](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
+| Reaver     | [A Step Ahead](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
+| Stormwight | [Menagerie](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

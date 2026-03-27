@@ -5,18 +5,6 @@ type: index
 
 # Talent: 1st-Level Features Index
 
-## 1st-Level Tradition Features
-
-<div class="browse-index" markdown>
-
-- [Accelerate](../1st-Level%20Tradition%20Features/Accelerate)
-- [Again](../1st-Level%20Tradition%20Features/Again)
-- [Feedback Loop](../1st-Level%20Tradition%20Features/Feedback%20Loop)
-- [Minor Telekinesis](../1st-Level%20Tradition%20Features/Minor%20Telekinesis)
-- [Remote Assistance](../1st-Level%20Tradition%20Features/Remote%20Assistance)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -30,6 +18,18 @@ type: index
 - [Talent Tradition](../Talent%20Tradition)
 - [Talent Ward](../Talent%20Ward)
 - [Telepathic Speech](../Telepathic%20Speech)
+
+</div>
+
+## 1st-Level Tradition Features
+
+<div class="browse-index" markdown>
+
+- [Accelerate](../1st-Level%20Tradition%20Features/Accelerate)
+- [Again](../1st-Level%20Tradition%20Features/Again)
+- [Feedback Loop](../1st-Level%20Tradition%20Features/Feedback%20Loop)
+- [Minor Telekinesis](../1st-Level%20Tradition%20Features/Minor%20Telekinesis)
+- [Remote Assistance](../1st-Level%20Tradition%20Features/Remote%20Assistance)
 
 </div>
 

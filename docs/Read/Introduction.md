@@ -242,7 +242,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Director:** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
-**Discipline:** The [null](../../Browse/Classes/Null)'s Heroic Resource.
+**Discipline:** The null's Heroic Resource.
 
 **Disengage Move Action:** A move action that allows a creature to shift 1 square.
 
@@ -402,7 +402,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **NPC:** A nonplayer character, usually created and run by the Director.
 
-**[Null](../../Browse/Classes/Null):** A class for a hero who is an unarmed psionic warrior with the ability to dampen supernatural effects.
+**Null:** A class for a hero who is an unarmed psionic warrior with the ability to dampen supernatural effects.
 
 **Object:** Inanimate matter, including walls, rocks, vehicles, and corpses (the kind that can't move around and bite you), as well as living non-creatures such as plants.
 

@@ -5,16 +5,6 @@ type: index
 
 # Fury: 2nd-Level Features Index
 
-## 2nd-Level Aspect Ability
-
-<div class="browse-index" markdown>
-
-- [2nd Level Berserker Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Berserker%20Ability)
-- [2nd Level Reaver Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Reaver%20Ability)
-- [2nd Level Stormwight Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Stormwight%20Ability)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -22,6 +12,16 @@ type: index
 - [2nd Level Aspect Ability](../2nd%20Level%20Aspect%20Ability)
 - [2nd Level Aspect Feature](../2nd%20Level%20Aspect%20Feature)
 - [Perk](../Perk)
+
+</div>
+
+## 2nd-Level Aspect Ability
+
+<div class="browse-index" markdown>
+
+- [2nd Level Berserker Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Berserker%20Ability)
+- [2nd Level Reaver Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Reaver%20Ability)
+- [2nd Level Stormwight Ability](../2nd-Level%20Aspect%20Ability/2nd%20Level%20Stormwight%20Ability)
 
 </div>
 

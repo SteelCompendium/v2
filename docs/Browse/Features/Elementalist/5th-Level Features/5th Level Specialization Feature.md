@@ -18,16 +18,16 @@ type: feature/trait/elementalist/5th-level-feature
 
 #### 5th-Level Specialization Feature
 
-Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.
+Your [elemental specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                      |
-| -------------- | ---------------------------- |
-| Earth          | The Mountain Does Not Move   |
-| Fire           | Smoldering Step              |
-| Green          | Hide of Tenfold Shields      |
-| Void           | Pierce the Veil of Substance |
+| Specialization | Feature                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [The Mountain Does Not Move](../../../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
+| Fire           | [Smoldering Step](../../../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
+| Green          | [Hide of Tenfold Shields](../../../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
+| Void           | [Pierce the Veil of Substance](../../../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
 
 ##### Hide of Tenfold Shields
 

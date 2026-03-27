@@ -46,18 +46,18 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ###### Troubadour Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                   | Abilities                 | Class Act Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](../../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../../Browse/Troubadour/1st-Level%20Features/Routines), Class Act Features, Class Act Triggered Action, [Troubadour](../../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../../../Browse/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                  | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Melodrama](../../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../../Browse/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                               | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Spotlight](../../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, [A Muse's Muse](../../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | [Roar of the Crowd](../../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../../Browse/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Abilities                 | Class Act Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | [Troubadour](../../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../../Browse/Troubadour/1st-Level%20Features/Routines), Class Act Features, [Class Act Triggered Action](../../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action), [Troubadour](../../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../../../Browse/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, [Melodrama](../../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../../Browse/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, [Spotlight](../../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, [A Muse's Muse](../../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../../Browse/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -94,14 +94,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../../Browse/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../../Browse/Classes/Troubadour)**
 >
-> Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -123,7 +123,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../../Browse/Conditions/Dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
-You start off with the Choreography and [Revitalizing Limerick](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Revitalizing%20Limerick) performance abilities. Your choice of class act grants you additional performances.
+You start off with the [Choreography](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Choreography) and [Revitalizing Limerick](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Revitalizing%20Limerick) performance abilities. Your choice of class act grants you additional performances.
 
 <!-- -->
 > ###### Choreography
@@ -153,11 +153,11 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you two f
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                           |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue) |
-| Duelist   | Acrobatics, Star Power                                                                                                             |
-| Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), Virtuoso Performances  |
+| Class Act | Features                                                                                                                                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | Blocking, [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                  |
+| Duelist   | [Acrobatics](../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power)  |
+| Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances) |
 
 ##### Acrobatics
 
@@ -280,7 +280,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) table.
 
 ###### Class Act Triggered Actions Table
 
@@ -687,11 +687,11 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features     |
-| --------- | ------------ |
-| Auteur    | Missed Cue   |
-| Duelist   | Foil         |
-| Virtuoso  | Second Album |
+| Class Act | Features                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Missed Cue](../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
+| Duelist   | Foil                                                                                                                                 |
+| Virtuoso  | [Second Album](../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
 
 ##### Foil
 
@@ -1122,11 +1122,11 @@ Your [troubadour](../../../Browse/Classes/Troubadour) class act grants you a fea
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature         |
-| --------- | --------------- |
-| Auteur    | Deleted Scene   |
-| Duelist   | Masterwork      |
-| Virtuoso  | Crowd Favorites |
+| Class Act | Feature                                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | [Deleted Scene](../../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20Scene)     |
+| Duelist   | [Masterwork](../../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Masterwork)             |
+| Virtuoso  | [Crowd Favorites](../../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20Favorites) |
 
 ##### Crowd Favorites
 

@@ -26,16 +26,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the Mantle of Essence Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature         |
-| -------------- | --------------- |
-| Earth          | Quaking Earth   |
-| Fire           | Burning Grounds |
-| Green          | Flowering Bed   |
-| Void           | Veiling Bed     |
+| Specialization | Feature                                                                                                                          |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](../../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
+| Fire           | [Burning Grounds](../../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
+| Green          | [Flowering Bed](../../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
+| Void           | [Veiling Bed](../../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
 
 ##### Burning Grounds
 

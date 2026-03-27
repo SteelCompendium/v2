@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 7th-Level Features
 
-As a 7th-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As a 7th-level null, you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,11 +22,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your Discipline Mastery feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 10 or more discipline.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../../Browse/Talent/6th-Level%20Features/Psi%20Boost).
 
 ##### Dynamic Power (1 Discipline)
 

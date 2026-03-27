@@ -18,7 +18,7 @@ type: feature/trait/fury/1st-level-feature
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
 
 ###### Aspect Triggered Actions Table
 

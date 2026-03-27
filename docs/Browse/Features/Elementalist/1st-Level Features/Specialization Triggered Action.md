@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Specialization Triggered Action
 
-Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.
+Your [elemental specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../../Browse/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action) table.
 
 ###### Elemental Specialization Triggered Actions Table
 

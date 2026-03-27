@@ -38,20 +38,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | Improved Hands of the Maker                                                                                               |
-| Death      | Seance                                                                                                                    |
-| Fate       | Oracular Warning                                                                                                          |
-| Knowledge  | Saint's Epiphany                                                                                                          |
-| Life       | Blessing of Life                                                                                                          |
-| Love       | Invocation of the Heart                                                                                                   |
-| Nature     | Wode Road                                                                                                                 |
-| Protection | Impervious Touch                                                                                                          |
-| Storm      | Windwalk                                                                                                                  |
-| Sun        | Light of Revelation                                                                                                       |
-| Trickery   | [Blessing of Secrets](../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets) |
-| War        | Improved Sanctified Weapon                                                                                                |
+| Domain     | Feature                                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation   | [Improved Hands of the Maker](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
+| Death      | [Seance](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
+| Fate       | [Oracular Warning](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
+| Knowledge  | [Saint's Epiphany](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
+| Life       | [Blessing of Life](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
+| Love       | [Invocation of the Heart](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
+| Nature     | [Wode Road](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
+| Protection | [Impervious Touch](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
+| Storm      | [Windwalk](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
+| Sun        | [Light of Revelation](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
+| Trickery   | [Blessing of Secrets](../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                       |
+| War        | [Improved Sanctified Weapon](../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
 
 ##### Blessing of Life
 
@@ -84,7 +84,7 @@ When you use your [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 

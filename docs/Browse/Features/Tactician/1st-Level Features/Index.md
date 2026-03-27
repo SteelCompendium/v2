@@ -5,16 +5,6 @@ type: index
 
 # Tactician: 1st-Level Features Index
 
-## 1st-Level Doctrine Feature
-
-<div class="browse-index" markdown>
-
-- [Commanding Presence](../1st-Level%20Doctrine%20Feature/Commanding%20Presence)
-- [Covert Operations](../1st-Level%20Doctrine%20Feature/Covert%20Operations)
-- [Studied Commander](../1st-Level%20Doctrine%20Feature/Studied%20Commander)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -27,6 +17,16 @@ type: index
 - [Strike Now](../Strike%20Now)
 - [Tactical Doctrine](../Tactical%20Doctrine)
 - [Tactician Abilities](../Tactician%20Abilities)
+
+</div>
+
+## 1st-Level Doctrine Feature
+
+<div class="browse-index" markdown>
+
+- [Commanding Presence](../1st-Level%20Doctrine%20Feature/Commanding%20Presence)
+- [Covert Operations](../1st-Level%20Doctrine%20Feature/Covert%20Operations)
+- [Studied Commander](../1st-Level%20Doctrine%20Feature/Studied%20Commander)
 
 </div>
 

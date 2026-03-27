@@ -5,16 +5,6 @@ type: index
 
 # Censor: 2nd-Level Features Index
 
-## 2nd-Level Order Ability
-
-<div class="browse-index" markdown>
-
-- [2nd Level Exorcist Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Exorcist%20Ability)
-- [2nd Level Oracle Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Oracle%20Ability)
-- [2nd Level Paragon Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Paragon%20Ability)
-
-</div>
-
 ## Other
 
 <div class="browse-index" markdown>
@@ -22,6 +12,16 @@ type: index
 - [2nd Level Order Ability](../2nd%20Level%20Order%20Ability)
 - [2nd Level Order Features](../2nd%20Level%20Order%20Features)
 - [Perk](../Perk)
+
+</div>
+
+## 2nd-Level Order Ability
+
+<div class="browse-index" markdown>
+
+- [2nd Level Exorcist Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Exorcist%20Ability)
+- [2nd Level Oracle Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Oracle%20Ability)
+- [2nd Level Paragon Ability](../2nd-Level%20Order%20Ability/2nd%20Level%20Paragon%20Ability)
 
 </div>
 

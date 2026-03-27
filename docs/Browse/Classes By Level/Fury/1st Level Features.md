@@ -45,7 +45,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../../Browse/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -83,11 +83,11 @@ Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                        |
-| ---------- | ------------------------------ |
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Aspect     | Feature                                                                                                                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](../../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength)                                                                                                                  |
+| Reaver     | Kit, [Primordial Cunning](../../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning)                                                                                                                    |
+| Stormwight | [Beast Shape](../../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape), [Relentless Hunter](../../../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter) |
 
 ##### Beast Shape
 
@@ -115,7 +115,7 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
 
 ###### Aspect Triggered Actions Table
 

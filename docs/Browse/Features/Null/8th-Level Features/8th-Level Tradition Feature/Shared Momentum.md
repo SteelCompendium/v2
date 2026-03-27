@@ -18,4 +18,4 @@ type: feature/subtrait/null/8th-level-feature
 
 ##### Shared Momentum
 
-When you take the [Disengage](../../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your [Null](../../../../../../Browse/Classes/Null) Field ability can also take the [Disengage](../../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.

@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
 
 ##### Battle Augmentation
 

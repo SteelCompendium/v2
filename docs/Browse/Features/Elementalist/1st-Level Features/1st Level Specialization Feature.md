@@ -18,16 +18,16 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### 1st-Level Specialization Feature
 
-Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
+Your [elemental specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                              |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [Motivate Earth](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                   |
-| Fire           | [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness) |
-| Green          | It Is the Soul Which Hears                                                                                                           |
-| Void           | A Beyonding of Vision                                                                                                                |
+| Specialization | Feature                                                                                                                                                                       |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                                                            |
+| Fire           | [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)                                          |
+| Green          | [It Is the Soul Which Hears](../../../../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears) |
+| Void           | [A Beyonding of Vision](../../../../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision)               |
 
 ##### A Beyonding of Vision
 

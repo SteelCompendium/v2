@@ -22,11 +22,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, a
 
 ###### 5th-Level College Features Table
 
-| College         | Feature           |
-| --------------- | ----------------- |
-| Black Ash       | Trail of Cinders  |
-| Caustic Alchemy | Volatile Reagents |
-| Harlequin Mask  | Harlequin Gambit  |
+| College         | Feature                                                                                                                                |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Trail of Cinders](../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
 
 ##### Harlequin Gambit
 
