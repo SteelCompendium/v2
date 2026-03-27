@@ -23,7 +23,7 @@ def parse_table_rows(lines):
         if cells[0] in ("File Name", "File Name   "):
             continue
 
-        link_match = re.match(r"\[(.+?)\]\((.+?)\)", cells[0])
+        link_match = re.match(r"(?:⎿\s*)?\[(.+?)\]\((.+?)\)", cells[0])
         if not link_match:
             continue
 
