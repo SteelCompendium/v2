@@ -24,13 +24,13 @@ Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Featu
 
 | Doctrine   | Features                                                                                                                                                                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | Distracted, [Leave No Trace](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)                                                                                                                                         |
-| Mastermind | Anticipation, [I Predicted That](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)                                                                                                                                   |
+| Insurgent  | [Distracted](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Distracted), [Leave No Trace](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)               |
+| Mastermind | [Anticipation](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Anticipation), [I Predicted That](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)       |
 | Vanguard   | [Shake It Off](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off), [Tactical Offensive](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive) |
 
 ##### Anticipation
 
-You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
+You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../../../../Browse/Features/Tactician/1st-Level%20Features/Mark) ability.
 
 ##### Distracted
 

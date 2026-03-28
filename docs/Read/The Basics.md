@@ -351,7 +351,7 @@ The 4th echelon of play explores the stories of characters of 10th level (and mi
 
 A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, even space fantasy!
 
-Our tour begins on the world of Orden, the prime manifold, where [humans](../../Browse/Ancestries/Human), elves, [dwarves](../../Browse/Ancestries/Dwarf), and [orcs](../../Browse/Ancestries/Orc) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But [human](../../Browse/Ancestries/Human) civilization and politics dominate here.
+Our tour begins on the world of Orden, the prime manifold, where [humans](../../Browse/Ancestries/Human), elves, [dwarves](../../Browse/Ancestries/Dwarf), and [orcs](../../Browse/Ancestries/Orc) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But human civilization and politics dominate here.
 
 Orden contains eight major regions, the largest of which is Vasloria.
 
@@ -391,7 +391,7 @@ Now there is only suspicion.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
-**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon [knight](../../Browse/Titles/2nd%20Echelon/Knight) foolish enough to travel without a disguise away to the Chrysopolis.
+**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon knight foolish enough to travel without a disguise away to the Chrysopolis.
 
 Isolated and outnumbered, the [human](../../Browse/Ancestries/Human) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 

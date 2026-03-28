@@ -22,11 +22,11 @@ Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/P
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
-| Reaver     | Unfettered                                                                                                                 |
-| Stormwight | [Stormborn](../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
+| Aspect     | Feature                                                                                                                      |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)       |
+| Reaver     | [Unfettered](../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Unfettered) |
+| Stormwight | [Stormborn](../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn)   |
 
 ##### Bounder
 

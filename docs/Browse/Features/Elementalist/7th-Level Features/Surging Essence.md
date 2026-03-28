@@ -18,4 +18,4 @@ type: feature/trait/elementalist/7th-level-feature
 
 #### Surging Essence
 
-When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain [essence](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence) at the start of each of your turns during combat, you gain 3 essence instead of 2.

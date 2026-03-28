@@ -18,6 +18,6 @@ type: feature/trait/elementalist/7th-level-feature
 
 #### Mantle of Quintessence
 
-Your [Mantle of Essence](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires essence.
+Your [Mantle of Essence](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires [essence](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence).
 
 Additionally, your [Mantle of Essence](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.

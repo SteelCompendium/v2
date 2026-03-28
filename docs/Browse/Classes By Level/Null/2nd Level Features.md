@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level null, you gain the following features.
+As a 2nd-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Perk
 

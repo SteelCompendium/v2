@@ -18,11 +18,11 @@ As a 10th-level [troubadour](../../../../Browse/Classes/Troubadour), you gain th
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were drama.
+You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-Applause remains until you spend it.
+[Applause](../../../../Browse/Features/Troubadour/10th-Level%20Features/Applause) remains until you spend it.
 
 #### Characteristic Increase
 

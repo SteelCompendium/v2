@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Fate Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Piety](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **[Prayer](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.

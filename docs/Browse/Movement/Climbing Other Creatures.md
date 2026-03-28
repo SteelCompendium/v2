@@ -22,7 +22,7 @@ You can attempt to [climb](../../../Browse/Movement/Climb%20or%20Swim) a creatur
 - **12-16:** You fail to [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 - **17+:** You [climb](../../../Browse/Movement/Climb%20or%20Swim) the creature.
 
-While you [climb](../../../Browse/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](../../../Browse/Movement/Climb%20or%20Swim) or [ride](../../../Browse/Abilities/Common/Move%20Actions/Ride) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 

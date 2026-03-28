@@ -25,12 +25,12 @@ Your [censor](../../../../../Browse/Classes/Censor) order grants you a feature, 
 | Order    | Feature                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Exorcist | [Evil Revealed](../../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                                                              |
-| Paragon  | Stand Fast!                                                                                                                           |
+| Oracle   | [Prophecy](../../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy)             |
+| Paragon  | [Stand Fast](../../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast)!      |
 
 ##### Evil Revealed
 
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your Judgment ability against them as a free triggered action.
+Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../../../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability against them as a free triggered action.
 
 ##### Prophecy
 

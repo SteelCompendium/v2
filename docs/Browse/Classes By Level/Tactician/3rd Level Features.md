@@ -18,7 +18,7 @@ As a 3rd-level [tactician](../../../../Browse/Classes/Tactician), you gain the f
 
 #### Out of Position
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring [stability](../../../../Browse/Movement/Stability). The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your [Mark](../../../../Browse/Features/Tactician/1st-Level%20Features/Mark) ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring [stability](../../../../Browse/Movement/Stability). The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 #### 7-Focus Ability
 

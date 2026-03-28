@@ -18,4 +18,4 @@ type: feature/trait/censor/7th-level-feature
 
 #### Focused Wrath
 
-When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath) at the start of each of your turns during combat, you gain 3 wrath instead of 2.

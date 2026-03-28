@@ -18,4 +18,4 @@ type: feature/trait/tactician/7th-level-feature
 
 #### Heightened Focus
 
-When you gain focus at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain [focus](../../../../../Browse/Features/Tactician/1st-Level%20Features/Focus) at the start of each of your turns during combat, you gain 3 focus instead of 2.

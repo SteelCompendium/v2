@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 3rd-Level Features
 
-As a 3rd-level null, you gain the following features.
+As a 3rd-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Psionic Leap
 

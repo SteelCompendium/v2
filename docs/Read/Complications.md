@@ -224,11 +224,11 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your [animal form](../../Browse/Complications/Animal%20Form) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](../../Browse/Complications/Animal%20Form). Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your animal form. Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero
 
@@ -319,7 +319,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 #### Coward
 
-Some call you a [coward](../../Browse/Complications/Coward), just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
+Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
 **Benefit:** While you are [frightened](../../Browse/Conditions/Frightened), you can move toward the source of your fear.
 

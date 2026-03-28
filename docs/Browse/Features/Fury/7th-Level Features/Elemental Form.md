@@ -18,6 +18,6 @@ type: feature/trait/fury/7th-level-feature
 
 #### Elemental Form
 
-You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your ferocity, elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
+You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity), elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
 
 Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, you have immunity to the damage type of your Primordial Storm feature equal to twice your Might score.

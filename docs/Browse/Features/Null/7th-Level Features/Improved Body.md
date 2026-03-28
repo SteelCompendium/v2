@@ -18,4 +18,4 @@ type: feature/trait/null/7th-level-feature
 
 #### Improved Body
 
-When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.
+When you gain [discipline](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline) at the start of each of your turns during combat, you gain 3 discipline instead of 2.

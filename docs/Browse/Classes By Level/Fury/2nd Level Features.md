@@ -30,7 +30,7 @@ Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/P
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
 | Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
-| Stormwight | Tooth and Claw                                                                                                                               |
+| Stormwight | [Tooth and Claw](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw)     |
 
 ##### Inescapable Wrath
 

@@ -18,8 +18,8 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
 
-Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become winded or are dying in an encounter, you gain 1d3 ferocity.
+Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
 
 You lose any remaining ferocity at the end of the encounter.

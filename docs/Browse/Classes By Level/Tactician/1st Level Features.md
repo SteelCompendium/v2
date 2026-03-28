@@ -28,21 +28,21 @@ Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Featu
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
+The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus).
 
 ##### Focus in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Victories. At the start of each of your turns during combat, you gain 2 focus.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus).
 
-Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 focus.
+Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../../../../Browse/Features/Tactician/1st-Level%20Features/Mark) below), you gain 1 [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus).
 
 You lose any remaining focus at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus) outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../../Browse/Classes/Tactician), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of [focus](../../../../Browse/Features/Tactician/1st-Level%20Features/Focus) equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../../Browse/Classes/Tactician), but they might appear in future products.)
 
 <!-- -->
 > **[Tactician](../../../../Browse/Classes/Tactician) Abilities Explained**
@@ -180,7 +180,7 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../Browse/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](../../../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../../../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s [Anticipation](../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Anticipation) feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >

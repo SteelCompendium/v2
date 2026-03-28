@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level null, you gain the following features.
+As an 8th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Perk
 

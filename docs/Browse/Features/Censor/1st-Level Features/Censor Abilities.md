@@ -90,7 +90,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your wrath.
+You call upon a number of heroic abilities, all of them bound to your [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
 ###### 3-Wrath Ability
 

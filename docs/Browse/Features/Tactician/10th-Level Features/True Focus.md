@@ -18,4 +18,4 @@ type: feature/trait/tactician/10th-level-feature
 
 #### True Focus
 
-When you gain focus at the start of each of your turns during combat, you gain 4 focus instead of 3.
+When you gain [focus](../../../../../Browse/Features/Tactician/1st-Level%20Features/Focus) at the start of each of your turns during combat, you gain 4 focus instead of 3.

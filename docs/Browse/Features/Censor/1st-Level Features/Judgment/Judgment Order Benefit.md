@@ -18,7 +18,7 @@ type: feature/subtrait/censor/1st-level-feature
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../../../../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../../../../../../Browse/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.

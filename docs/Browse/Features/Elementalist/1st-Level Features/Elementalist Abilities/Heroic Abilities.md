@@ -18,7 +18,7 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your essence.
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence).
 
 ###### 3-Essence Ability
 

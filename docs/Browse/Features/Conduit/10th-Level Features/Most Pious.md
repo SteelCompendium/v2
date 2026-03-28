@@ -18,4 +18,4 @@ type: feature/trait/conduit/10th-level-feature
 
 #### Most Pious
 
-When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
+When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety).

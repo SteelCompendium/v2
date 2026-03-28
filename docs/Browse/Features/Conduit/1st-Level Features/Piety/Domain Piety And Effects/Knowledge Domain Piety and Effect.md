@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Knowledge Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **[Piety](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **[Prayer](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.

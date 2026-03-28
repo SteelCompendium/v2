@@ -18,9 +18,9 @@ As a 10th-level [elementalist](../../../../Browse/Classes/Elementalist), you gai
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.
+You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence) (no action required). When you do, 1 breath becomes 3 [essence](../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence).
 
-Breath remains until you convert it to essence.
+[Breath](../../../../Browse/Features/Elementalist/10th-Level%20Features/Breath) remains until you convert it to [essence](../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence).
 
 #### Characteristic Increase
 
@@ -28,7 +28,7 @@ Your Reason score increases to 5. Additionally, you can increase one of your cha
 
 #### Essential Being
 
-When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain [essence](../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence) at the start of each of your turns during combat, you gain 4 essence instead of 3.
 
 #### One
 

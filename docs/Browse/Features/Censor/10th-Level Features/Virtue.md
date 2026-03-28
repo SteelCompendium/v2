@@ -18,8 +18,8 @@ type: feature/trait/censor/10th-level-feature
 
 #### Virtue
 
-You have an epic resource called virtue. Each time you finish a respite, you gain virtue equal to the XP you gain. You can spend virtue on your abilities as if it were wrath.
+You have an epic resource called [virtue](../../../../../Browse/Features/Censor/10th-Level%20Features/Virtue). Each time you finish a respite, you gain [virtue](../../../../../Browse/Features/Censor/10th-Level%20Features/Virtue) equal to the XP you gain. You can spend [virtue](../../../../../Browse/Features/Censor/10th-Level%20Features/Virtue) on your abilities as if it were [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
-Additionally, you can spend 3 virtue to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](../../../../../Browse/Features/Censor/10th-Level%20Features/Virtue) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-Virtue remains until you spend it.
+[Virtue](../../../../../Browse/Features/Censor/10th-Level%20Features/Virtue) remains until you spend it.

@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **[Piety](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **[Prayer](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.

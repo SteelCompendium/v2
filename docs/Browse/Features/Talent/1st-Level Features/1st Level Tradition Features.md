@@ -24,8 +24,8 @@ Your [talent](../../../../../Browse/Classes/Talent) tradition grants you two fea
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | Accelerate, Again                                                                                                                                                                                                              |
-| Telekinesis | [Minor Telekinesis](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), Repel                                                                                                      |
+| Chronopathy | [Accelerate](../../../../../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), [Repel](../../../../../Browse/Features/Talent/1st-Level%20Features/Repel)                    |
 | Telepathy   | [Feedback Loop](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop), [Remote Assistance](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance) |
 
 ##### Accelerate

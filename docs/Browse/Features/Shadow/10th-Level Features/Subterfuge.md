@@ -18,8 +18,8 @@ type: feature/trait/shadow/10th-level-feature
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were insight.
+You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 
-Subterfuge remains until you spend it.
+[Subterfuge](../../../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge) remains until you spend it.

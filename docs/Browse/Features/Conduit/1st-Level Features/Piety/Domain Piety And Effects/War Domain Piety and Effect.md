@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### War Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **[Piety](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **[Prayer](../../../../../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.

@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 9th-Level Features
 
-As a 9th-level null, you gain the following features.
+As a 9th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### I Am the Weapon
 

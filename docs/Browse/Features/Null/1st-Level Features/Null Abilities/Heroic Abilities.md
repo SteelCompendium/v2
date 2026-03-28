@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your discipline.
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../../../Browse/Features/Null/1st-Level%20Features/Discipline).
 
 ###### 3-Discipline Ability
 

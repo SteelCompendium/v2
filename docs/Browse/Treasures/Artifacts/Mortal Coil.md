@@ -20,7 +20,7 @@ type: treasure/artifact
 
 **Keywords:** Psionic
 
-Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a [shadow](../../../../Browse/Classes/Shadow) capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
+Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
 Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain Stamina. A host with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year.
 

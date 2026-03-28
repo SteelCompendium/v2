@@ -14,4 +14,4 @@ type: movement
 
 ##### "When a Creature Moves..."
 
-Certain abilities and effects trigger [when a creature moves](../../../Browse/Movement/When%20a%20Creature%20Moves) into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
+Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.

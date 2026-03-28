@@ -346,20 +346,20 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 
 ###### NPCs and Impresion Table
 
-| Impression | Example NPC                                                                                     |
-| ---------- | ----------------------------------------------------------------------------------------------- |
-| 1          | Brigand leader, commoner, shop owner                                                            |
-| 2          | Knight, local guildmaster, professor                                                            |
-| 3          | Cult leader, locally known mage, noble lord                                                     |
-| 4          | Assassin, baron, locally famous entertainer                                                     |
-| 5          | Captain of the watch in a large city, high priest, viscount                                     |
-| 6          | Count, warlord                                                                                  |
-| 7          | Marquis, world-renowned entertainer                                                             |
-| 8          | Duke, spymaster                                                                                 |
-| 9          | Archmage, prince                                                                                |
-| 10         | Demon lord, monarch                                                                             |
-| 11         | Archdevil, archfey, [demigod](../../Browse/Titles/4th%20Echelon/Demigod) |
-| 12         | Deity, titan                                                                                    |
+| Impression | Example NPC                                                 |
+| ---------- | ----------------------------------------------------------- |
+| 1          | Brigand leader, commoner, shop owner                        |
+| 2          | Knight, local guildmaster, professor                        |
+| 3          | Cult leader, locally known mage, noble lord                 |
+| 4          | Assassin, baron, locally famous entertainer                 |
+| 5          | Captain of the watch in a large city, high priest, viscount |
+| 6          | Count, warlord                                              |
+| 7          | Marquis, world-renowned entertainer                         |
+| 8          | Duke, spymaster                                             |
+| 9          | Archmage, prince                                            |
+| 10         | Demon lord, monarch                                         |
+| 11         | Archdevil, archfey, demigod                                 |
+| 12         | Deity, titan                                                |
 
 ##### Influencing Tests
 

@@ -14,9 +14,9 @@ type: class
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your [shadow](../../../Browse/Classes/Shadow). Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then [censor](../../../Browse/Classes/Censor) those whose actions—or even existence—are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) and sent out into the world first to seek, then [censor](../../../Browse/Classes/Censor) those whose actions—or even existence—are anathema to your church.
 
-As a [censor](../../../Browse/Classes/Censor), you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
+As a [censor](../../../Browse/Classes/Censor), you're at your best against the strongest foes. Your [judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
 <!-- -->
 > "We FIGHT!
@@ -51,18 +51,18 @@ As a [censor](../../../Browse/Classes/Censor), you're at your best against the s
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Order<br/> Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | [Censor Order](../../../Browse/Features/Censor/1st-Level%20Features/Censor%20Order), [Deity and Domains](../../../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains), Wrath, Judgment, Kit, [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, [Censor](../../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5           | 5                    |
-| 3rd   | [Look On My Work and Despair](../../../Browse/Features/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../../Browse/Features/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5                    |
-| 6th   | [Implement of Wrath](../../../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../../Browse/Features/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
-| 9th   | [Improved Implement of Wrath](../../../Browse/Features/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../../Browse/Features/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../../Browse/Features/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Abilities                 | Order<br/> Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | [Censor Order](../../../Browse/Features/Censor/1st-Level%20Features/Censor%20Order), [Deity and Domains](../../../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains), [Wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath), [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment), [Kit](../../../Browse/Features/Censor/1st-Level%20Features/Kit), [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, Censor Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5           | 5                    |
+| 3rd   | [Look On My Work and Despair](../../../Browse/Features/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../../Browse/Features/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | [Implement of Wrath](../../../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../../Browse/Features/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | [Improved Implement of Wrath](../../../Browse/Features/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | [Characteristic Increase](../../../Browse/Features/Censor/10th-Level%20Features/Characteristic%20Increase), Perk, Skill, [Templar](../../../Browse/Features/Censor/10th-Level%20Features/Templar), [Virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue), [Wrath of the Gods](../../../Browse/Features/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 ### 1st-Level Features
 
@@ -86,25 +86,25 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../../Browse/Classes/Censor) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath), fueling your abilities as you [censor](../../../Browse/Classes/Censor) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
 You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../../../Browse/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](../../../Browse/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor), but they might appear in future products.)
 
 #### Judgment
 
-You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
 <!-- -->
 > ###### Judgment
@@ -132,7 +132,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../../../Browse/Movement/Teleport) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
@@ -176,7 +176,7 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 | Life       | [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
 | Love       | [Blessing of Compassion](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
 | Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                            | Exploration   |
-| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Protection | [Protective Circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle)                             | Exploration   |
 | Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
 | Sun        | [Inner Light](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
 | Trickery   | [Inspired Deception](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
@@ -265,7 +265,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -349,7 +349,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your wrath.
+You call upon a number of heroic abilities, all of them bound to your [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
 ###### 3-Wrath Ability
 
@@ -527,7 +527,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -639,7 +639,7 @@ As a 3rd-level [censor](../../../Browse/Classes/Censor), you gain the following 
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P < STRONG, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends). If the target is already [frightened](../../../Browse/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability, you can spend 1 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath), and if the target has P < AVERAGE, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) as a free triggered action, if the new target has P < STRONG, they are [frightened](../../../Browse/Conditions/Frightened) of you (save ends). If the target is already [frightened](../../../Browse/Conditions/Frightened) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 
@@ -804,12 +804,12 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 | Order    | Feature                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Exorcist | [Evil Revealed](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                                                              |
-| Paragon  | Stand Fast!                                                                                                                           |
+| Oracle   | [Prophecy](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy)             |
+| Paragon  | [Stand Fast](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast)!      |
 
 ##### Evil Revealed
 
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your Judgment ability against them as a free triggered action.
+Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability against them as a free triggered action.
 
 ##### Prophecy
 
@@ -1056,7 +1056,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath), it is lost. Additionally, the target of [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) gains 10 temporary Stamina.
 
 ##### Gods' Library
 
@@ -1113,7 +1113,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 #### Focused Wrath
 
-When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) at the start of each of your turns during combat, you gain 3 wrath instead of 2.
 
 #### Skill
 
@@ -1137,11 +1137,11 @@ Your [censor](../../../Browse/Classes/Censor) order grants you a feature, as sho
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Exorcist | [Demonologist](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
 | Oracle   | [Their Past Revealed](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                                                                 |
+| Paragon  | [Vow](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Vow)                                     |
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../Browse/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../Browse/Ancestries/Devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -1357,7 +1357,7 @@ You gain one skill of your choice.
 
 #### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](../../../Browse/Classes/Conduit) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../../../Browse/Classes/Conduit) level, use your [censor](../../../Browse/Classes/Censor) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment) ability, you can use a free triggered action to use a [conduit](../../../Browse/Classes/Conduit) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with [virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../../../Browse/Classes/Conduit) level, use your [censor](../../../Browse/Classes/Censor) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -1365,12 +1365,12 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called virtue. Each time you finish a respite, you gain virtue equal to the XP you gain. You can spend virtue on your abilities as if it were wrath.
+You have an epic resource called [virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue). Each time you finish a respite, you gain [virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue) equal to the XP you gain. You can spend [virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue) on your abilities as if it were [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
 
-Additionally, you can spend 3 virtue to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-Virtue remains until you spend it.
+[Virtue](../../../Browse/Features/Censor/10th-Level%20Features/Virtue) remains until you spend it.
 
 #### Wrath of the Gods
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath) at the start of each of your turns during combat, you gain 4 wrath instead of 3.

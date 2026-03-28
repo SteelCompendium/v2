@@ -18,7 +18,7 @@ type: feature/trait/fury/1st-level-feature
 
 #### Ferocity
 
-Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
+Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
 
 <!-- -->
 > **Where's My Maneuver?**
@@ -27,14 +27,14 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
 
-Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become winded or are dying in an encounter, you gain 1d3 ferocity.
+Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
 
 You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) equal to your Victories.

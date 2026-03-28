@@ -18,4 +18,4 @@ type: feature/trait/fury/7th-level-feature
 
 #### Greater Ferocity
 
-When you gain ferocity at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
+When you gain [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.

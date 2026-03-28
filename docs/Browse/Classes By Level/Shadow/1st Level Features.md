@@ -18,7 +18,7 @@ As a 1st-level [shadow](../../../../Browse/Classes/Shadow), you gain the followi
 
 #### Shadow College
 
-[Shadow](../../../../Browse/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../../Browse/Classes/Shadow) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../../Browse/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a [shadow](../../../../Browse/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -30,13 +30,13 @@ Your [shadow](../../../../Browse/Classes/Shadow) college is your subclass, and y
 
 #### Insight
 
-By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
+By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 insight.
+Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
@@ -44,9 +44,9 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight) equal to your Victories.
 
 #### 1st-Level College Features
 
@@ -271,7 +271,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your insight.
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 ###### 3-Insight Ability
 

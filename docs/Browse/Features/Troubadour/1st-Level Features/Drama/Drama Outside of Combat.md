@@ -18,9 +18,9 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../../../../../Browse/Classes/Troubadour)**

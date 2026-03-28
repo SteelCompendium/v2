@@ -18,4 +18,4 @@ type: feature/trait/fury/4th-level-feature
 
 #### Primordial Strike
 
-You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
+You can manifest your [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).

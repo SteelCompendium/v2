@@ -293,14 +293,14 @@ For example, intimidating someone with a purely verbal threat is a Presence test
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
-Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/Classes/Elementalist) who has a gymnastic [background](../Chapters/Background) in [jumping](../../Browse/Movement/Jump) and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/Classes/Elementalist) who has a gymnastic [background](../Chapters/Background) in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 <!-- -->
 > **Edges on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../../Browse/Classes/Conduit)'s [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../../Browse/Classes/Conduit)'s [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
 <!-- -->
 > **Are All Skills Equal?**
@@ -484,7 +484,7 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Director:** *Wishful thinking.*
 
-**Alyssa:** *What if Korvo [grabs](../../Browse/Abilities/Common/Maneuvers/Grab) onto the rope and I lift him up while he just hangs on for the ride?*
+**Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
 
 **Director:** *Sure. That'll be a Might test if Korvo's down for it.*
 

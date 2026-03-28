@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 4th-Level Features
 
-As a 4th-level null, you gain the following features.
+As a 4th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,7 +22,7 @@ Your Agility and Intuition scores each increase to 3.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more discipline.
+Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more [discipline](../../../../Browse/Features/Null/1st-Level%20Features/Discipline).
 
 #### Enhanced Null Field
 

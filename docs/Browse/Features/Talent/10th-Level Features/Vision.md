@@ -18,8 +18,8 @@ type: feature/trait/talent/10th-level-feature
 
 #### Vision
 
-You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.
+You have an epic resource called [vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision). Each time you finish a respite, you gain [vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision) equal to the XP you gain. You can spend [vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision) on your abilities as if it were clarity.
 
-Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend [vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
-Vision remains until you spend it.
+[Vision](../../../../../Browse/Features/Talent/10th-Level%20Features/Vision) remains until you spend it.

@@ -1161,7 +1161,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a null to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](../../Browse/Classes/Null) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -2029,7 +2029,7 @@ The [Encepter](../../Browse/Treasures/Artifacts/Encepter) is said to have first 
 
 **Keywords:** Psionic
 
-Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a [shadow](../../Browse/Classes/Shadow) capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
+Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
 Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain Stamina. A host with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year.
 
@@ -2164,7 +2164,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You aren't a [hakaan](../../Browse/Ancestries/Hakaan) but have witnessed the death of a [hakaan](../../Browse/Ancestries/Hakaan).
 
-**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become [doomed](../../Browse/Titles/1st%20Echelon/Doomed). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
+**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become doomed. If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
 #### Dwarven Legionnaire
 
@@ -2246,7 +2246,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
 - *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../../Browse/Movement/Jump) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) feature from the [censor](../../Browse/Classes/Censor) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) feature from the [censor](../../Browse/Classes/Censor) class. When you use that ability, you can't spend [wrath](../../Browse/Features/Censor/1st-Level%20Features/Wrath) unless you have the [Wrath](../../Browse/Features/Censor/1st-Level%20Features/Wrath) class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -2615,7 +2615,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../../Browse/Features/Shadow/1st-Level%20Features/Insight) unless you have the [Insight](../../Browse/Features/Shadow/1st-Level%20Features/Insight) class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -2660,7 +2660,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
-- *Furious Attack:* Choose one signature ability from the [fury](../../Browse/Classes/Fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
+- *Furious Attack:* Choose one signature ability from the [fury](../../Browse/Classes/Fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](../../Browse/Features/Fury/1st-Level%20Features/Ferocity), you can't do so unless you have the [Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Ferocity) class feature.
 - *Furious Charge:* When you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../../Browse/Abilities/Common/Main%20Actions/Charge).
 
 ### 3rd-Echelon Titles
@@ -2749,7 +2749,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) from the [troubadour](../../Browse/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) from the [troubadour](../../Browse/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../../Browse/Features/Troubadour/1st-Level%20Features/Drama), you can gain or spend the Heroic Resource of your class in place of [drama](../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 - *[Devil](../../Browse/Ancestries/Devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->

@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 6th-Level Features
 
-As a 6th-level null, you gain the following features.
+As a 6th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Elemental Absorption
 

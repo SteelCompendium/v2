@@ -48,7 +48,7 @@ The Director has a number of key jobs in this game, which we'll go over in this 
 - Before a campaign starts, the Director pitches the idea of their campaign to the players.
 - Before each game, the Director prepares the adventure by building scenes that include encounters, negotiations, and downtime activities.
 - During the game, the Director presents the scenes they've prepared to the players.
-- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the [fly](../../Browse/Movement/Fly).
+- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the fly.
 - During the game, the Director acts as a referee, adjudicating the rules. If something isn't covered by the rules, the Director decides how to determine what happens next in the game.
 - After the game, the Director makes or reviews notes covering what happened during the game, then starts planning for the next game session.
 
@@ -1325,7 +1325,7 @@ The heroes increase their wealth whenever they score a big payday or recover a h
 You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the following activities might:
 
 - A hero stands alone against a group of enemies to allow their comrades to escape.
-- A hero willingly [jumps](../../Browse/Movement/Jump) into quicksand, into lava, off a cliff, or into similar peril to save another character.
+- A hero willingly jumps into quicksand, into lava, off a cliff, or into similar peril to save another character.
 - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
 - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 

@@ -18,4 +18,4 @@ type: feature/subtrait/tactician/5th-level-feature
 
 ##### Anticipation
 
-You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
+You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../../../../../../Browse/Features/Tactician/1st-Level%20Features/Mark) ability.

@@ -18,4 +18,4 @@ type: feature/trait/conduit/7th-level-feature
 
 #### Faithful's Reward
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety).

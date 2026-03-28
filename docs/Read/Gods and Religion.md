@@ -24,7 +24,7 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../../Browse/Titles/4th%20Echelon/Demigod)-like status, once mortals, who now serve their patron god in eternity. Many humans call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../../Browse/Titles/4th%20Echelon/Demigod)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../../Browse/Ancestries/Human) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
@@ -899,7 +899,7 @@ Her instincts were precise and correct. The resulting chemonuclear reaction gene
 
 There was only one place to lead them. The surface of Cassiar Prime was a boiling sea of plasma condensate powerful enough to rip planets apart. "It should make short work of these drones," Captain Kalisdrossa thought.
 
-Sword-1 plunged into the fermionic sea, the hull boiling away moments before impact. A million drone-sprites followed into oblivion. Commander Oruth-phor howled his [fury](../../Browse/Classes/Fury) into empty space and ordered his ship to envelop the UNISOL capital ship, literally swallow it whole. Grotenhulk the Evolver understood the command and knew it was suicide, but the ship was compelled to obey.
+Sword-1 plunged into the fermionic sea, the hull boiling away moments before impact. A million drone-sprites followed into oblivion. Commander Oruth-phor howled his fury into empty space and ordered his ship to envelop the UNISOL capital ship, literally swallow it whole. Grotenhulk the Evolver understood the command and knew it was suicide, but the ship was compelled to obey.
 
 Watching the great maw of the living changeship open to swallow an entire flagship struck terror into every [memonek](../../Browse/Ancestries/Memonek) in the fleet.
 

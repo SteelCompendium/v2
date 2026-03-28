@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 10th-Level Features
 
-As a 10th-level null, you gain the following features.
+As a 10th-level [null](../../../../Browse/Classes/Null), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,11 +22,11 @@ Your Agility and Intuition scores each increase to 5.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 12 or more discipline.
+Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 12 or more [discipline](../../../../Browse/Features/Null/1st-Level%20Features/Discipline).
 
 #### Manifold Body
 
-When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+When you gain [discipline](../../../../Browse/Features/Null/1st-Level%20Features/Discipline) at the start of each of your turns during combat, you gain 4 discipline instead of 3.
 
 #### Manifold Resonance
 
@@ -36,11 +36,11 @@ Whenever you use an ability, you gain 1 discipline that can be used only to appl
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
+You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../../../../Browse/Features/Null/1st-Level%20Features/Discipline).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 
-Order remains until you spend it.
+[Order](../../../../Browse/Features/Null/10th-Level%20Features/Order) remains until you spend it.
 
 #### Perk
 

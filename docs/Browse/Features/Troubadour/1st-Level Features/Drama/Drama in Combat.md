@@ -18,15 +18,15 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
-Additionally, you gain drama when certain events occur during a combat encounter:
+Additionally, you gain [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
-- The first time any hero is made winded during the encounter, you gain 2 drama.
-- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.
-- When you or another hero dies, you gain 10 drama.
+- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time any hero is made winded during the encounter, you gain 2 [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- When you or another hero dies, you gain 10 [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
-When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
+When you are dead, you continue to gain [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during future encounters.
 
 You lose any remaining drama at the end of the encounter.

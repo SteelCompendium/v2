@@ -18,4 +18,4 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle), a creature can't be targeted by strikes.

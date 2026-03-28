@@ -18,7 +18,7 @@ As a 1st-level [talent](../../../../Browse/Classes/Talent), you gain the followi
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](../../../../Browse/Classes/Talent) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -29,7 +29,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../../Browse/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../Browse/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](../../../../Browse/Classes/Talent) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../../../Browse/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../Browse/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -78,7 +78,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
 
 ##### Battle Augmentation
 
@@ -134,8 +134,8 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | Accelerate, Again                                                                                                                                                                                                              |
-| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), Repel                                                                                                      |
+| Chronopathy | [Accelerate](../../../../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), [Repel](../../../../Browse/Features/Talent/1st-Level%20Features/Repel)                    |
 | Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance) |
 
 ##### Accelerate
@@ -244,7 +244,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](../../../../Browse/Classes/Talent) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 

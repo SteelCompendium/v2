@@ -148,9 +148,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) or [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -178,7 +178,7 @@ Creatures in the game can use eight types of movement: [walk](../../Browse/Movem
 
 ##### Walk
 
-[Walking](../../Browse/Movement/Walk) is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
 ##### Burrow
 
@@ -224,7 +224,7 @@ While a creature who is completely beneath the ground while [burrowing](../../Br
 
 ##### Climb or Swim
 
-A creature who has "[climb](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../Browse/Movement/Climb%20or%20Swim), can [climb](../../Browse/Movement/Climb%20or%20Swim) across [vertical](../../Browse/Movement/Vertical) and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../Browse/Movement/Climb%20or%20Swim), can [swim](../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
+A creature who has "[climb](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../Browse/Movement/Climb%20or%20Swim), can [climb](../../Browse/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../Browse/Movement/Climb%20or%20Swim), can [swim](../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
 
 Creatures without those types of movement can still [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of [climbing](../../Browse/Movement/Climb%20or%20Swim) or [swimming](../../Browse/Movement/Climb%20or%20Swim) costs 2 squares of movement. If a surface is difficult to [climb](../../Browse/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../../Browse/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
@@ -238,7 +238,7 @@ You can attempt to [climb](../../Browse/Movement/Climb%20or%20Swim) a creature w
 - **12-16:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
 - **17+:** You [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
 
-While you [climb](../../Browse/Movement/Climb%20or%20Swim) or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](../../Browse/Movement/Climb%20or%20Swim) or [ride](../../Browse/Abilities/Common/Move%20Actions/Ride) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
@@ -250,9 +250,9 @@ If you are knocked [prone](../../Browse/Conditions/Prone) while [climbing](../..
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the Advance move action), you can automatically long [jump](../../Browse/Movement/Jump) a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your [jump](../../Browse/Movement/Jump) is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
-If you want to [jump](../../Browse/Movement/Jump) even longer or higher than your baseline [jump](../../Browse/Movement/Jump) allows, make a Might or Agility test:
+If you want to [jump](../../Browse/Movement/Jump) even longer or higher than your baseline jump allows, make a Might or Agility test:
 
 **Power Roll + Might or Agility:**
 
@@ -283,7 +283,7 @@ When a creature [teleports](../../Browse/Movement/Teleport), they move from one 
 - A creature [teleporting](../../Browse/Movement/Teleport) themself must have line of effect to their destination space. A creature [teleporting](../../Browse/Movement/Teleport) another creature must have line of effect from the space the [teleported](../../Browse/Movement/Teleport) creature leaves and to their destination space.
 - A [teleporting](../../Browse/Movement/Teleport) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](../../Browse/Movement/Teleport) indicates how far they can [teleport](../../Browse/Movement/Teleport). That distance can be greater than the creature's speed.
-- If a creature can [teleport](../../Browse/Movement/Teleport) as part of their usual movement, they can use the Advance move action to [teleport](../../Browse/Movement/Teleport) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature can [teleport](../../Browse/Movement/Teleport) as part of their usual movement, they can use the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action to [teleport](../../Browse/Movement/Teleport) a number of squares up to their usual speed, unmodified by conditions or effects.
 - If a creature [teleports](../../Browse/Movement/Teleport) while [prone](../../Browse/Conditions/Prone), they can be standing when they reach their destination space provided they are able to stand. If a [prone](../../Browse/Conditions/Prone) creature is [teleported](../../Browse/Movement/Teleport) by another creature, it is up to that creature whether the [teleported](../../Browse/Movement/Teleport) creature remains [prone](../../Browse/Conditions/Prone) or stands if they are able.
 - If you [teleport](../../Browse/Movement/Teleport) while affected by the [grabbed](../../Browse/Conditions/Grabbed) or [restrained](../../Browse/Conditions/Restrained) conditions, those conditions end for you.
 - When a creature [teleports](../../Browse/Movement/Teleport), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/Movement/Teleport) to and from the same space.
@@ -337,7 +337,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](../../Browse/Movement/Fly) is left in midair at the end of a [vertical](../../Browse/Movement/Vertical) forced move, they fall. Forced movement made against a creature who is [flying](../../Browse/Movement/Fly) is always a [vertical](../../Browse/Movement/Vertical) forced move, whether or not the effect specifies it.
+If a creature who can't [fly](../../Browse/Movement/Fly) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](../../Browse/Movement/Fly) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -395,7 +395,7 @@ A creature's [stability](../../Browse/Movement/Stability) can't be less than 0, 
 
 ##### "When a Creature Moves..."
 
-Certain abilities and effects trigger [when a creature moves](../../Browse/Movement/When%20a%20Creature%20Moves) into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
+Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
 ##### Death Effects and Forced Movement
 
@@ -407,7 +407,7 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 
 #### Advance
 
-When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
 #### Disengage
 
@@ -415,7 +415,7 @@ When a creature takes the [Disengage](../../Browse/Abilities/Common/Move%20Actio
 
 #### Ride
 
-A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action to have their mount use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action. A creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -534,7 +534,7 @@ A creature can't move through difficult terrain or shift when they [charge](../.
 
 #### Defend
 
-When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/Conditions/Taunted) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+When a creature takes the [Defend](../../Browse/Abilities/Common/Main%20Actions/Defend) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/Conditions/Taunted) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
 
 #### Free Strike
 
@@ -715,7 +715,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../../Browse/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../../Browse/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](../../Browse/Movement/Teleport) separately.
 
@@ -789,7 +789,7 @@ If the heroes are able to end a fight with a dramatic finish, the Director assig
 
 #### Event Ending
 
-If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the [fly](../../Browse/Movement/Fly) if that makes more sense.
+If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
 
 Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
 

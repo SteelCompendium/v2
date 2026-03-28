@@ -18,4 +18,4 @@ type: feature/trait/censor/10th-level-feature
 
 #### Wrath of the Gods
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath) at the start of each of your turns during combat, you gain 4 wrath instead of 3.

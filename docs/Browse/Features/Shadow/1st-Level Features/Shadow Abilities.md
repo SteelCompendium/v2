@@ -94,7 +94,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your insight.
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 ###### 3-Insight Ability
 

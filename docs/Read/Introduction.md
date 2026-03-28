@@ -62,7 +62,7 @@ In a tactical game, you have many choices each combat round. You are never reduc
 
 As you play with the same group of characters, you learn what they can all do. You discover synergies, "combos." Some of them intended by the designers, some not! You start to learn these unique characters, and to rely on them to do their cool things. It's a great feeling when another player comes up with a cool plan that relies on your unique abilities.
 
-You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our [fury](../../Browse/Classes/Fury). She's happier with 3 Stamina." Our game is not *about* tactics. It's not a wargame. But it is tactical.
+You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our fury. She's happier with 3 Stamina." Our game is not *about* tactics. It's not a wargame. But it is tactical.
 
 ### Heroic
 
@@ -86,7 +86,7 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow](../../Browse/Classes/Shadow)'s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the [dragon knight](../../Browse/Ancestries/Dragon%20Knight) [fury](../../Browse/Classes/Fury) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](../../Browse/Ancestries/Dragon%20Knight) fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
 You should imagine your [tactician](../../Browse/Classes/Tactician) character leading the battle, granting your allies [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
@@ -112,7 +112,7 @@ We know that many folks are coming to this game having only experienced d20 fant
 - **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
 - **Abilities automatically deal damage.** When you use an ability—one of the unique combat features that defines your character—you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
 - **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and Recoveries—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
-- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the Tests chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
+- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the Tests chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to [hide](../../Browse/Abilities/Common/Maneuvers/Hide)! Why not?
 - **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *[MCDM Discord](https://mcdm.gg/Discord)* and ask. We've got tons of awesome community members ready to help!
 - **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
 
@@ -242,7 +242,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Director:** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
-**Discipline:** The null's Heroic Resource.
+**Discipline:** The [null](../../Browse/Classes/Null)'s Heroic Resource.
 
 **Disengage Move Action:** A move action that allows a creature to shift 1 square.
 
@@ -302,7 +302,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Frightened](../../Browse/Conditions/Frightened):** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
 
-**[Fury](../../Browse/Classes/Fury):** A class for a hero warrior who courses with the ferocity of the Primordial Chaos.
+**[Fury](../../Browse/Classes/Fury):** A class for a hero warrior who courses with the [ferocity](../../Browse/Features/Fury/1st-Level%20Features/Ferocity) of the Primordial Chaos.
 
 **God:** A deity who grants power to their most devout worshipers through saint intermediaries.
 
@@ -384,7 +384,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Motivation:** A negotiation trait an NPC has that determines what type of arguments could more easily sway them.
 
-**Mounted Combat:** Special rules that apply when one creature rides another into battle.
+**Mounted Combat:** Special rules that apply when one creature [rides](../../Browse/Abilities/Common/Move%20Actions/Ride) another into battle.
 
 **Move Action:** An activity that allows a creature to move around the battlefield.
 
@@ -510,7 +510,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Space:** The number of squares taken up by a creature or object in length, width, and height, and the area of the same size that a creature or object occupies on an encounter map.
 
-**Speed:** A measure of how many squares a creature can move when taking the Advance move action during combat.
+**Speed:** A measure of how many squares a creature can move when taking the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action during combat.
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 

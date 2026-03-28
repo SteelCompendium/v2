@@ -14,9 +14,9 @@ type: class
 
 ## Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../../../Browse/Classes/Troubadour). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../../../Browse/Classes/Troubadour). You find energy in the [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](../../../Browse/Classes/Troubadour), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](../../../Browse/Classes/Troubadour), you chase [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama). The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -46,18 +46,18 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ###### Troubadour Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Abilities                 | Class Act Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](../../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../../Browse/Features/Troubadour/1st-Level%20Features/Routines), Class Act Features, [Class Act Triggered Action](../../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action), [Troubadour](../../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../../../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Melodrama](../../../Browse/Features/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Spotlight](../../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, [A Muse's Muse](../../../Browse/Features/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Features/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                                                 | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | [Roar of the Crowd](../../../Browse/Features/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../../Browse/Features/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../../Browse/Features/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | [Troubadour](../../../Browse/Classes/Troubadour) Class Act, [Drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama), Kit, [Scene Partner](../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../../Browse/Features/Troubadour/1st-Level%20Features/Routines), Class Act Features, [Class Act Triggered Action](../../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action), [Troubadour](../../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../../../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), [Invocation](../../../Browse/Features/Troubadour/2nd-Level%20Features/Invocation), Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../../../Browse/Features/Troubadour/4th-Level%20Features/Characteristic%20Increase), [Melodrama](../../../Browse/Features/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, [Spotlight](../../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../../../Browse/Features/Troubadour/7th-Level%20Features/Characteristic%20Increase), [A Muse's Muse](../../../Browse/Features/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../../Browse/Features/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                             | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../../../Browse/Features/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Applause](../../../Browse/Features/Troubadour/10th-Level%20Features/Applause), [Characteristic Increase](../../../Browse/Features/Troubadour/10th-Level%20Features/Characteristic%20Increase), [Dramaturgy](../../../Browse/Features/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../../Browse/Features/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -68,35 +68,35 @@ As a 1st-level [troubadour](../../../Browse/Classes/Troubadour), you gain the fo
 Panache, melody, and depiction. Some [troubadours](../../../Browse/Classes/Troubadour) have it all, but everyone starts somewhere. Your [troubadour](../../../Browse/Classes/Troubadour) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../../../Browse/Classes/Troubadour) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
-- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
+- **Duelist:** [Drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
 Your [troubadour](../../../Browse/Classes/Troubadour) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
-Additionally, you gain drama when certain events occur during a combat encounter:
+Additionally, you gain [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
-- The first time any hero is made winded during the encounter, you gain 2 drama.
-- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.
-- When you or another hero dies, you gain 10 drama.
+- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time any hero is made winded during the encounter, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- When you or another hero dies, you gain 10 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
-When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
+When you are dead, you continue to gain [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../../Browse/Classes/Troubadour)**
@@ -551,11 +551,11 @@ As a 2nd-level [troubadour](../../../Browse/Classes/Troubadour), you gain the fo
 
 #### Appeal to the Muses
 
-You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's drama. However, irony is eager to hand your fortune to the villain to achieve the same end.
+You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama). However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- If the roll is a 1, you gain 1 additional [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama). The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
 - If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
 
@@ -807,13 +807,13 @@ Your Agility and Presence scores each increase to 3.
 
 You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:
 
-- Whenever a creature rolls a natural 2 on a power roll, you gain 2 drama.
-- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 drama.
-- The first time a hero unwillingly falls 5 or more squares, you gain 2 drama.
-- The first time a hero deals damage with 3 surges, you gain 2 drama.
-- Whenever a hero spends their last Recovery, you gain 2 drama.
+- Whenever a creature rolls a natural 2 on a power roll, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time a hero unwillingly falls 5 or more squares, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time a hero deals damage with 3 surges, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- Whenever a hero spends their last Recovery, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
-Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you drama, you gain 1 additional drama.
+Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama), you gain 1 additional [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
 #### Perk
 
@@ -1351,11 +1351,11 @@ As a 10th-level [troubadour](../../../Browse/Classes/Troubadour), you gain the f
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were drama.
+You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-Applause remains until you spend it.
+[Applause](../../../Browse/Features/Troubadour/10th-Level%20Features/Applause) remains until you spend it.
 
 #### Characteristic Increase
 

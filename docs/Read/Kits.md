@@ -20,7 +20,7 @@ search:
 
 # Kits
 
-The knight in [shining armor](../../Browse/Kits/Shining%20Armor). The [warrior priest](../../Browse/Kits/Warrior%20Priest). The [sniper](../../Browse/Kits/Sniper). [Censors](../../Browse/Classes/Censor), furies, shadows, [tacticians](../../Browse/Classes/Tactician), and [troubadours](../../Browse/Classes/Troubadour) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](../../Browse/Kits/Shining%20Armor). The [warrior priest](../../Browse/Kits/Warrior%20Priest). The [sniper](../../Browse/Kits/Sniper). [Censors](../../Browse/Classes/Censor), [furies](../../Browse/Classes/Fury), [shadows](../../Browse/Classes/Shadow), [tacticians](../../Browse/Classes/Tactician), and [troubadours](../../Browse/Classes/Troubadour) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 

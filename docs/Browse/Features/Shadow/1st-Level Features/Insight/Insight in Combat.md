@@ -18,9 +18,9 @@ type: feature/subtrait/shadow/1st-level-feature
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 insight.
+Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
