@@ -33,6 +33,7 @@ theme:
       - navigation.top
       - search.suggest
       - search.highlight
+      - content.tooltips
 
 # Extensions
 markdown_extensions:
