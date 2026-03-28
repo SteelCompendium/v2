@@ -33,6 +33,7 @@ theme:
       - navigation.top
       - search.suggest
       - search.highlight
+      - navigation.instant.preview
 
 # Extensions
 markdown_extensions:
@@ -60,10 +61,10 @@ markdown_extensions:
    - toc:
         permalink: true
         toc_depth: 1-8
-   - material.extensions.preview:
-       targets:
-         include:
-           - Browse/*
+#   - material.extensions.preview:
+#       targets:
+#         include:
+#           - Browse/*
 
 extra:
    homepage: https://steelcompendium.io/v2
