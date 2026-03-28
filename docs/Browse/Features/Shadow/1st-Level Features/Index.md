@@ -23,10 +23,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Black Ash Teleport](../1st-Level%20College%20Features/Black%20Ash%20Teleport)
-- [Coat the Blade](../1st-Level%20College%20Features/Coat%20the%20Blade)
-- [Im No Threat](../1st-Level%20College%20Features/Im%20No%20Threat)
-- [Smoke Bomb](../1st-Level%20College%20Features/Smoke%20Bomb)
+    - [Black Ash Teleport](../1st-Level%20College%20Features/Black%20Ash%20Teleport)
+    - [Coat the Blade](../1st-Level%20College%20Features/Coat%20the%20Blade)
+    - [Im No Threat](../1st-Level%20College%20Features/Im%20No%20Threat)
+    - [Smoke Bomb](../1st-Level%20College%20Features/Smoke%20Bomb)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Insight in Combat](../Insight/Insight%20in%20Combat)
-- [Insight Outside of Combat](../Insight/Insight%20Outside%20of%20Combat)
+    - [Insight in Combat](../Insight/Insight%20in%20Combat)
+    - [Insight Outside of Combat](../Insight/Insight%20Outside%20of%20Combat)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Heroic Abilities](../Shadow%20Abilities/Heroic%20Abilities)
-- [Signature Ability](../Shadow%20Abilities/Signature%20Ability)
+    - [Heroic Abilities](../Shadow%20Abilities/Heroic%20Abilities)
+    - [Signature Ability](../Shadow%20Abilities/Signature%20Ability)
 
 </div>

@@ -24,9 +24,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Commanding Presence](../1st-Level%20Doctrine%20Feature/Commanding%20Presence)
-- [Covert Operations](../1st-Level%20Doctrine%20Feature/Covert%20Operations)
-- [Studied Commander](../1st-Level%20Doctrine%20Feature/Studied%20Commander)
+    - [Commanding Presence](../1st-Level%20Doctrine%20Feature/Commanding%20Presence)
+    - [Covert Operations](../1st-Level%20Doctrine%20Feature/Covert%20Operations)
+    - [Studied Commander](../1st-Level%20Doctrine%20Feature/Studied%20Commander)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Focus in Combat](../Focus/Focus%20in%20Combat)
-- [Focus Outside of Combat](../Focus/Focus%20Outside%20of%20Combat)
+    - [Focus in Combat](../Focus/Focus%20in%20Combat)
+    - [Focus Outside of Combat](../Focus/Focus%20Outside%20of%20Combat)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Heroic Abilities](../Tactician%20Abilities/Heroic%20Abilities)
-- [Kit Signature Ability](../Tactician%20Abilities/Kit%20Signature%20Ability)
+    - [Heroic Abilities](../Tactician%20Abilities/Heroic%20Abilities)
+    - [Kit Signature Ability](../Tactician%20Abilities/Kit%20Signature%20Ability)
 
 </div>

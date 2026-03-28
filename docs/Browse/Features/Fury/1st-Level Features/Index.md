@@ -23,11 +23,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Beast Shape](../1st-Level%20Aspect%20Features/Beast%20Shape)
-- [Kit](../1st-Level%20Aspect%20Features/Kit)
-- [Primordial Cunning](../1st-Level%20Aspect%20Features/Primordial%20Cunning)
-- [Primordial Strength](../1st-Level%20Aspect%20Features/Primordial%20Strength)
-- [Relentless Hunter](../1st-Level%20Aspect%20Features/Relentless%20Hunter)
+    - [Beast Shape](../1st-Level%20Aspect%20Features/Beast%20Shape)
+    - [Kit](../1st-Level%20Aspect%20Features/Kit)
+    - [Primordial Cunning](../1st-Level%20Aspect%20Features/Primordial%20Cunning)
+    - [Primordial Strength](../1st-Level%20Aspect%20Features/Primordial%20Strength)
+    - [Relentless Hunter](../1st-Level%20Aspect%20Features/Relentless%20Hunter)
 
 </div>
 
@@ -35,8 +35,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Ferocity in Combat](../Ferocity/Ferocity%20in%20Combat)
-- [Ferocity Outside of Combat](../Ferocity/Ferocity%20Outside%20of%20Combat)
+    - [Ferocity in Combat](../Ferocity/Ferocity%20in%20Combat)
+    - [Ferocity Outside of Combat](../Ferocity/Ferocity%20Outside%20of%20Combat)
 
 </div>
 
@@ -44,7 +44,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Heroic Abilities](../Fury%20Abilities/Heroic%20Abilities)
-- [Signature Ability](../Fury%20Abilities/Signature%20Ability)
+    - [Heroic Abilities](../Fury%20Abilities/Heroic%20Abilities)
+    - [Signature Ability](../Fury%20Abilities/Signature%20Ability)
 
 </div>

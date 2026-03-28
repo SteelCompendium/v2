@@ -9,7 +9,7 @@ from urllib.parse import unquote
 
 
 def parse_table_rows(lines):
-    """Parse markdown table rows into (link_text, url, category) tuples."""
+    """Parse markdown table rows into (link_text, url, category, is_subtrait) tuples."""
     rows = []
     for line in lines:
         line = line.strip()
@@ -23,15 +23,16 @@ def parse_table_rows(lines):
         if cells[0] in ("File Name", "File Name   "):
             continue
 
-        link_match = re.match(r"(?:⎿\s*)?\[(.+?)\]\((.+?)\)", cells[0])
+        link_match = re.match(r"(?P<nested>└──\s*)?\[(.+?)\]\((.+?)\)", cells[0])
         if not link_match:
             continue
 
-        name = link_match.group(1)
-        url = link_match.group(2)
+        is_subtrait = link_match.group("nested") is not None
+        name = link_match.group(2)
+        url = link_match.group(3)
         category = cells[1].strip() if len(cells) > 1 else None
 
-        rows.append((name, url, category))
+        rows.append((name, url, category, is_subtrait))
     return rows
 
 
@@ -57,8 +58,11 @@ def render_simple_list(title, rows):
     out.append("")
     out.append('<div class="browse-index" markdown>')
     out.append("")
-    for name, url, _ in rows:
-        out.append(f"- [{name}]({url})")
+    for name, url, _, is_subtrait in rows:
+        if is_subtrait:
+            out.append(f"    - [{name}]({url})")
+        else:
+            out.append(f"- [{name}]({url})")
     out.append("")
     out.append("</div>")
     out.append("")
@@ -81,12 +85,12 @@ def expand_group_label(label):
 def render_grouped_list(title, rows, group_key="category"):
     """Render rows grouped by category with section headers."""
     groups = OrderedDict()
-    for name, url, category in rows:
+    for name, url, category, is_subtrait in rows:
         if group_key == "url":
             cat = infer_category_from_url(url) or "Other"
         else:
             cat = category or "Other"
-        groups.setdefault(cat, []).append((name, url))
+        groups.setdefault(cat, []).append((name, url, is_subtrait))
 
     out = []
     out.append(f"# {title}")
@@ -96,8 +100,11 @@ def render_grouped_list(title, rows, group_key="category"):
         out.append("")
         out.append('<div class="browse-index" markdown>')
         out.append("")
-        for name, url in items:
-            out.append(f"- [{name}]({url})")
+        for name, url, is_subtrait in items:
+            if is_subtrait:
+                out.append(f"    - [{name}]({url})")
+            else:
+                out.append(f"- [{name}]({url})")
         out.append("")
         out.append("</div>")
         out.append("")
@@ -137,7 +144,7 @@ def transform_index(filepath):
         return  # No table found, skip
 
     # Check if any rows have explicit categories (second column)
-    has_categories = any(r[2] for r in rows)
+    has_categories = any(r[2] for r in rows)  # r[2] is category
 
     if has_categories:
         new_body = render_grouped_list(title, rows, group_key="category")

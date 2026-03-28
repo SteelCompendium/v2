@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Insurgent Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Insurgent%20Ability)
-- [2nd Level Mastermind Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Mastermind%20Ability)
-- [2nd Level Vanguard Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Vanguard%20Ability)
+    - [2nd Level Insurgent Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Insurgent%20Ability)
+    - [2nd Level Mastermind Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Mastermind%20Ability)
+    - [2nd Level Vanguard Ability](../2nd-Level%20Doctrine%20Ability/2nd%20Level%20Vanguard%20Ability)
 
 </div>
 
@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Goaded](../2nd-Level%20Doctrine%20Feature/Goaded)
-- [Infiltration Tactics](../2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics)
-- [Melee Superiority](../2nd-Level%20Doctrine%20Feature/Melee%20Superiority)
+    - [Goaded](../2nd-Level%20Doctrine%20Feature/Goaded)
+    - [Infiltration Tactics](../2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics)
+    - [Melee Superiority](../2nd-Level%20Doctrine%20Feature/Melee%20Superiority)
 
 </div>

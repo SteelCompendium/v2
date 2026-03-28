@@ -20,9 +20,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Auteur Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Auteur%20Ability)
-- [2nd Level Duelist Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Duelist%20Ability)
-- [2nd Level Virtuoso Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Virtuoso%20Ability)
+    - [2nd Level Auteur Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Auteur%20Ability)
+    - [2nd Level Duelist Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Duelist%20Ability)
+    - [2nd Level Virtuoso Ability](../2nd-Level%20Class%20Act%20Ability/2nd%20Level%20Virtuoso%20Ability)
 
 </div>
 
@@ -30,8 +30,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Allow Me to Introduce Tonights Players](../Invocation/Allow%20Me%20to%20Introduce%20Tonights%20Players)
-- [Formal Introductions](../Invocation/Formal%20Introductions)
-- [My Reputation Precedes Me](../Invocation/My%20Reputation%20Precedes%20Me)
+    - [Allow Me to Introduce Tonights Players](../Invocation/Allow%20Me%20to%20Introduce%20Tonights%20Players)
+    - [Formal Introductions](../Invocation/Formal%20Introductions)
+    - [My Reputation Precedes Me](../Invocation/My%20Reputation%20Precedes%20Me)
 
 </div>
