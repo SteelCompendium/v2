@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Faiths Sword
-file_dpath: Conduit/9th-Level Features
+file_dpath: Features/Conduit/9th-Level Features
 item_id: faiths-sword
 item_index: '02'
 item_name: Faith's Sword
@@ -18,4 +18,4 @@ type: feature/trait/conduit/9th-level-feature
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../../../Browse/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.

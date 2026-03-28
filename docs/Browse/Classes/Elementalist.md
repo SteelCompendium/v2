@@ -16,7 +16,7 @@ type: class
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](../../../Browse/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) determines which of these talents you excel at.**
+**As an [elementalist](../../../Browse/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -48,18 +48,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Abilities                           |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization), Essence, [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, [Specialization Triggered Action](../../../Browse/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action), Enchantment, [Elementalist Ward](../../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Ward), [Elementalist Abilities](../../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Abilities) | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, [Font of Essence](../../../Browse/Elementalist/4th-Level%20Features/Font%20of%20Essence), [Mantle of Essence](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, [Wyrding](../../../Browse/Elementalist/6th-Level%20Features/Wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, [Mantle of Quintessence](../../../Browse/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../../Browse/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | [Grand Wyrding](../../../Browse/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, [Essential Being](../../../Browse/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization), Essence, [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, [Specialization Triggered Action](../../../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action), Enchantment, [Elementalist Ward](../../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward), [Elementalist Abilities](../../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Abilities) | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, [Font of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Font%20of%20Essence), [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, [Wyrding](../../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, [Mantle of Quintessence](../../../Browse/Features/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../../Browse/Features/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](../../../Browse/Features/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, [Essential Being](../../../Browse/Features/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -77,7 +77,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../../../Browse/Movement/Teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
@@ -109,9 +109,9 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../../../Browse/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../../Browse/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
@@ -167,16 +167,16 @@ You have the following ability.
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                                                            |
-| Fire           | [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)                                          |
-| Green          | [It Is the Soul Which Hears](../../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears) |
-| Void           | [A Beyonding of Vision](../../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision)               |
+| Specialization | Feature                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                                                                     |
+| Fire           | [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)                                                   |
+| Green          | [It Is the Soul Which Hears](../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears) |
+| Void           | [A Beyonding of Vision](../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision)               |
 
 ##### A Beyonding of Vision
 
@@ -235,7 +235,7 @@ You have the following ability.
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../Browse/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action) table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
@@ -308,7 +308,7 @@ Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Feature
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
 
 ##### Enchantment of Battle
 
@@ -334,7 +334,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity).)
 
 ##### Ward of Delightful Consequences
 
@@ -354,7 +354,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
@@ -644,16 +644,16 @@ You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7:
 
 #### 2nd-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 2nd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                         |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
-| Fire           | [Disciple of Fire](../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
-| Green          | [Disciple of the Green](../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
-| Void           | [There Is No Space Between](../../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                  |
+| Specialization | Feature                                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Disciple of Earth](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
+| Fire           | [Disciple of Fire](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
+| Green          | [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
+| Void           | [There Is No Space Between](../../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                           |
 
 ##### Disciple of Earth
 
@@ -793,16 +793,16 @@ As a 3rd-level [elementalist](../../../Browse/Classes/Elementalist), you gain th
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Earth Accepts Me](../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                              |
-| Fire           | [A Conversation With Fire](../../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
-| Green          | [Remember Growth and Sun and Rain](../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)        |
-| Void           | [Distance Is Only Memory](../../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
+| Specialization | Feature                                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Earth Accepts Me](../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                                       |
+| Fire           | [A Conversation With Fire](../../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
+| Green          | [Remember Growth and Sun and Rain](../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)                 |
+| Void           | [Distance Is Only Memory](../../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
 
 ##### A Conversation With Fire
 
@@ -928,16 +928,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                                                          |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
-| Fire           | [Burning Grounds](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
-| Green          | [Flowering Bed](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
-| Void           | [Veiling Bed](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
+| Specialization | Feature                                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
+| Fire           | [Burning Grounds](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
+| Green          | [Flowering Bed](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
+| Void           | [Veiling Bed](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
 
 ##### Burning Grounds
 
@@ -969,16 +969,16 @@ As a 5th-level [elementalist](../../../Browse/Classes/Elementalist), you gain th
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
-| Fire           | [Smoldering Step](../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
-| Green          | [Hide of Tenfold Shields](../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
-| Void           | [Pierce the Veil of Substance](../../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
+| Specialization | Feature                                                                                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [The Mountain Does Not Move](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
+| Fire           | [Smoldering Step](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
+| Green          | [Hide of Tenfold Shields](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
+| Void           | [Pierce the Veil of Substance](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
 
 ##### Hide of Tenfold Shields
 
@@ -1173,9 +1173,9 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Mantle of Quintessence
 
-Your [Mantle of Essence](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires essence.
+Your [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 #### Surging Essence
 
@@ -1195,28 +1195,28 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](../../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth)                        |
-| Fire           | [The Flame Primordial](../../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial)   |
-| Green          | [Chimeric Manifestation](../../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation) |
-| Void           | [Black Hole Star](../../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star)             |
+| Specialization | Feature                                                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Summon Source of Earth](../../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth)                                 |
+| Fire           | [The Flame Primordial](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial)   |
+| Green          | [Chimeric Manifestation](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation) |
+| Void           | [Black Hole Star](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star)             |
 
 ##### Black Hole Star
 
 You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability and [vertical](../../../Browse/Movement/Vertical) pull that target up to 5 squares. If their [stability](../../../Browse/Movement/Stability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../../Browse/Movement/Stability) for your allies.
 
-Additionally, your [Mantle of Essence](../../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) improves. While in the area of the aura, enemies and objects have their [stability](../../../Browse/Movement/Stability) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) improves. While in the area of the aura, enemies and objects have their [stability](../../../Browse/Movement/Stability) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../Browse/Complications/Animal%20Form) as a free maneuver the first time you use your [Disciple of the Green](../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../Browse/Complications/Animal%20Form) as a free maneuver the first time you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature, you can select an additional [animal form](../../../Browse/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature, you can select an additional [animal form](../../../Browse/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -1347,7 +1347,7 @@ As a 9th-level [elementalist](../../../Browse/Classes/Elementalist), you gain th
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../../Browse/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
@@ -1437,12 +1437,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature                                                                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
-| Fire           | [Master of Fire](../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
-| Green          | [Master of Green](../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
-| Void           | [Master of Void](../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
+| Specialization | Feature                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
+| Fire           | [Master of Fire](../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
+| Green          | [Master of Green](../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
+| Void           | [Master of Void](../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
 
 ##### Master of Earth
 

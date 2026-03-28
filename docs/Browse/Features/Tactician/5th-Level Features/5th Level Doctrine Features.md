@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 5th Level Doctrine Features
-file_dpath: Tactician/5th-Level Features
+file_dpath: Features/Tactician/5th-Level Features
 item_id: 5th-level-doctrine-features
 item_index: '01'
 item_name: 5th-Level Doctrine Features
@@ -18,15 +18,15 @@ type: feature/trait/tactician/5th-level-feature
 
 #### 5th-Level Doctrine Features
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you two features, as shown on the 5th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table
 
-| Doctrine   | Features                                                                                                                                                                                                                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | Distracted, [Leave No Trace](../../../../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)                                                                                                                                |
-| Mastermind | Anticipation, [I Predicted That](../../../../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)                                                                                                                          |
-| Vanguard   | [Shake It Off](../../../../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off), [Tactical Offensive](../../../../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive) |
+| Doctrine   | Features                                                                                                                                                                                                                                                                                             |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | Distracted, [Leave No Trace](../../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)                                                                                                                                         |
+| Mastermind | Anticipation, [I Predicted That](../../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)                                                                                                                                   |
+| Vanguard   | [Shake It Off](../../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off), [Tactical Offensive](../../../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive) |
 
 ##### Anticipation
 

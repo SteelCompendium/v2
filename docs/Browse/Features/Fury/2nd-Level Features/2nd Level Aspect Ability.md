@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 2nd Level Aspect Ability
-file_dpath: Fury/2nd-Level Features
+file_dpath: Features/Fury/2nd-Level Features
 item_id: 2nd-level-aspect-ability
 item_index: '03'
 item_name: 2nd-Level Aspect Ability
@@ -18,7 +18,7 @@ type: feature/trait/fury/2nd-level-feature
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 

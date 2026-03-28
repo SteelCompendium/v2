@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 7th Level Domain Feature
-file_dpath: Censor/7th-Level Features
+file_dpath: Features/Censor/7th-Level Features
 item_id: 7th-level-domain-feature
 item_index: '03'
 item_name: 7th-Level Domain Feature
@@ -22,20 +22,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning)                       |
-| Sun        | [Light of the Burning Sun](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
+| Storm      | [Ride the Lightning](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning)                       |
+| Sun        | [Light of the Burning Sun](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -43,7 +43,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -86,7 +86,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 

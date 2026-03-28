@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 8th Level Doctrine Feature
-file_dpath: Tactician/8th-Level Features
+file_dpath: Features/Tactician/8th-Level Features
 item_id: 8th-level-doctrine-feature
 item_index: '02'
 item_name: 8th-Level Doctrine Feature
@@ -18,15 +18,15 @@ type: feature/trait/tactician/8th-level-feature
 
 #### 8th-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | [Bait and Ambush](../../../../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush)                                             |
-| Mastermind | [Pincer Movement](../../../../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20Movement)                                               |
-| Vanguard   | [See Your Enemies Driven Before You](../../../../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You) |
+| Doctrine   | Feature                                                                                                                                                                                       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Bait and Ambush](../../../../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush)                                             |
+| Mastermind | [Pincer Movement](../../../../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20Movement)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](../../../../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You) |
 
 ##### Bait and Ambush
 

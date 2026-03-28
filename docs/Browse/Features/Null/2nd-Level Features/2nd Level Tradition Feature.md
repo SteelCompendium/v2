@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 2nd Level Tradition Feature
-file_dpath: Null/2nd-Level Features
+file_dpath: Features/Null/2nd-Level Features
 item_id: 2nd-level-tradition-feature
 item_index: '02'
 item_name: 2nd-Level Tradition Feature
@@ -22,11 +22,11 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
-| Cryokinetic   | [Entropic Adaptability](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
-| Metakinetic   | [Inertial Sink](../../../../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
+| Tradition     | Feature                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
+| Cryokinetic   | [Entropic Adaptability](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
+| Metakinetic   | [Inertial Sink](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
 
 ##### Entropic Adaptability
 

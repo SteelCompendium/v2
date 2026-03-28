@@ -18,13 +18,13 @@ As a 1st-level [tactician](../../../../Browse/Classes/Tactician), you gain the f
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
 - **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.
 
-Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
 #### Focus
 
@@ -51,15 +51,15 @@ When you use an ability outside of combat that lets you spend unlimited focus on
 
 #### 1st-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
-| Mastermind | [Studied Commander](../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
-| Vanguard   | [Commanding Presence](../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
+| Doctrine   | Feature                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Covert Operations](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
+| Mastermind | [Studied Commander](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
+| Vanguard   | [Commanding Presence](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
 
 ##### Commanding Presence
 
@@ -91,7 +91,7 @@ You can make this test only once for any encounter or negotiation.
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action) table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action) table.
 
 ###### Doctrine Triggered Actions Table
 
@@ -163,7 +163,7 @@ For example, if you take the [Shining Armor](../../../../Browse/Kits/Shining%20A
 - [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-[Kit signature abilities](../../../../Browse/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
+[Kit signature abilities](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -180,7 +180,7 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../Browse/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](../../../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../../../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
@@ -214,7 +214,7 @@ You are a formidable combatant in your own right, but your greatest strength is 
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../../../../Browse/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../../../../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
 
 ##### Heroic Abilities
 

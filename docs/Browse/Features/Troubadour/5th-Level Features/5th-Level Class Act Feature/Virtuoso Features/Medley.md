@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Medley
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
 item_id: medley
 item_index: '07'
 item_name: Medley
@@ -18,4 +18,4 @@ type: feature/subtrait/troubadour/5th-level-feature
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You can maintain two performances at a time using your [Routines](../../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.

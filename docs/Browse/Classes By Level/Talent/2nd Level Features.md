@@ -26,11 +26,11 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you a feature,
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                               |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
+| Tradition   | Features                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
+| Telekinesis | [Ease Their Fall](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
+| Telepathy   | [Ease the Mind](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
 
 ##### Ease the Hours
 

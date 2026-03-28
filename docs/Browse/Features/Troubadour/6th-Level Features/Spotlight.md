@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Spotlight
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Features/Troubadour/6th-Level Features
 item_id: spotlight
 item_index: '01'
 item_name: Spotlight
@@ -18,7 +18,7 @@ type: feature/trait/troubadour/6th-level-feature
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Spotlight

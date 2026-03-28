@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 1st Level Domain Feature
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: 1st-level-domain-feature
 item_index: '01'
 item_name: 1st-Level Domain Feature
@@ -18,24 +18,24 @@ type: feature/trait/conduit/1st-level-feature
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                           | Skill Group   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                         | Crafting      |
-| Death      | [Grave Speech](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                         | Lore          |
-| Fate       | [Oracular Visions](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                   | Exploration   |
-| Protection | Protective Circle                                                                                                                                                 | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
+| Domain     | Feature                                                                                                                                                                    | Skill Group   |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                                  | Crafting      |
+| Death      | [Grave Speech](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                            | Exploration   |
+| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
+| Sun        | [Inner Light](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 

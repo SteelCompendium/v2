@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Enchantment
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Features/Elementalist/1st-Level Features
 item_id: enchantment
 item_index: '05'
 item_name: Enchantment
@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../../../Browse/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../../../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
 
 ##### Enchantment of Battle
 

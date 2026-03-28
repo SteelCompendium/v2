@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### Stormwight Kits
 
-The stormwight [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
+The stormwight [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
 
 #### Kit Features
 
@@ -22,7 +22,7 @@ All stormwight kits have the following features in common.
 
 ##### Aspect Benefits and Animal Form
 
-Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
 ##### Aspect of the Wild
 
@@ -59,11 +59,11 @@ You gain a new signature ability from your kit.
 
 ##### Growing Ferocity
 
-Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 #### Boren
 
-With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 ##### Aspect Benefits
 
@@ -105,7 +105,7 @@ Your primordial damage type is cold.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
@@ -120,7 +120,7 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 
 #### Corven
 
-With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -165,7 +165,7 @@ Your primordial damage type is fire.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
@@ -180,7 +180,7 @@ As your ferocity grows, you gain benefits as noted on the Corven [Growing Feroci
 
 #### Raden
 
-With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 
@@ -225,7 +225,7 @@ Your primordial damage type is corruption.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
@@ -240,7 +240,7 @@ As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocit
 
 #### Vuken
 
-With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this stormwight kit, you channel your [primordial ferocity](../../../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 ##### Aspect Benefits
 
@@ -283,7 +283,7 @@ Your primordial damage type is lightning.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 

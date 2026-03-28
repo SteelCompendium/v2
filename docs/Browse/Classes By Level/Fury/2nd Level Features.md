@@ -22,15 +22,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
-| Reaver     | [Inescapable Wrath](../../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
-| Stormwight | Tooth and Claw                                                                                                                      |
+| Aspect     | Feature                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
+| Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
+| Stormwight | Tooth and Claw                                                                                                                               |
 
 ##### Inescapable Wrath
 
@@ -46,7 +46,7 @@ Whenever you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 

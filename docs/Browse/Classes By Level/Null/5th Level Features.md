@@ -22,11 +22,11 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../../../Browse/Null/5th-Level%20Features/Instant%20Action)         |
-| Cryokinetic   | [Chilling Readiness](../../../../Browse/Null/5th-Level%20Features/Chilling%20Readiness) |
-| Metakinetic   | [Inertial Fulcrum](../../../../Browse/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
+| Tradition     | Feature                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Instant Action](../../../../Browse/Features/Null/5th-Level%20Features/Instant%20Action)         |
+| Cryokinetic   | [Chilling Readiness](../../../../Browse/Features/Null/5th-Level%20Features/Chilling%20Readiness) |
+| Metakinetic   | [Inertial Fulcrum](../../../../Browse/Features/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
 
 #### Chilling Readiness
 

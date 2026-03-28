@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Ride the Lightning
-file_dpath: Censor/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Censor/7th-Level Features/7th-Level Domain Feature
 item_id: ride-the-lightning
 item_index: 09
 item_name: Ride the Lightning
@@ -18,4 +18,4 @@ type: feature/subtrait/censor/7th-level-feature
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.

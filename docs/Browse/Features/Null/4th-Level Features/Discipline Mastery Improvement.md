@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Discipline Mastery Improvement
-file_dpath: Null/4th-Level Features
+file_dpath: Features/Null/4th-Level Features
 item_id: discipline-mastery-improvement
 item_index: '04'
 item_name: Discipline Mastery Improvement
@@ -18,4 +18,4 @@ type: feature/trait/null/4th-level-feature
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more discipline.
+Your [Discipline Mastery](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more discipline.

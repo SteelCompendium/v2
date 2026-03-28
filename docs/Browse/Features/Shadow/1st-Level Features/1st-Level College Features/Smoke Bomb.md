@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Smoke Bomb
-file_dpath: Shadow/1st-Level Features/1st-Level College Features
+file_dpath: Features/Shadow/1st-Level Features/1st-Level College Features
 item_id: smoke-bomb
 item_index: '05'
 item_name: Smoke Bomb
@@ -18,4 +18,4 @@ type: feature/subtrait/shadow/1st-level-feature
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../../../../../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../../../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.

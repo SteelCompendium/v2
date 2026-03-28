@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Improved Implement of Wrath
-file_dpath: Censor/9th-Level Features
+file_dpath: Features/Censor/9th-Level Features
 item_id: improved-implement-of-wrath
 item_index: '02'
 item_name: Improved Implement of Wrath
@@ -18,7 +18,7 @@ type: feature/trait/censor/9th-level-feature
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](../../../../../Browse/Censor/6th-Level%20Features/Implement%20of%20Wrath) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](../../../../../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.

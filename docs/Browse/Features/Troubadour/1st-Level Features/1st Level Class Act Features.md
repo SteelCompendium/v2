@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 1st Level Class Act Features
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: 1st-level-class-act-features
 item_index: '04'
 item_name: 1st-Level Class Act Features
@@ -22,15 +22,15 @@ Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                                                            |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                  |
-| Duelist   | [Acrobatics](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power)  |
-| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances) |
+| Class Act | Features                                                                                                                                                                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power) |
+| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -45,7 +45,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Blocking
@@ -117,7 +117,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### "Thunder Mother"

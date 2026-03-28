@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 5th Level Aspect Feature
-file_dpath: Fury/5th-Level Features
+file_dpath: Features/Fury/5th-Level Features
 item_id: 5th-level-aspect-feature
 item_index: '01'
 item_name: 5th-Level Aspect Feature
@@ -18,15 +18,15 @@ type: feature/trait/fury/5th-level-feature
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                           |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](../../../../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
-| Reaver     | Unfettered                                                                                                        |
-| Stormwight | [Stormborn](../../../../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
+| Aspect     | Feature                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](../../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
+| Reaver     | Unfettered                                                                                                                 |
+| Stormwight | [Stormborn](../../../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
 
 ##### Bounder
 
@@ -34,7 +34,7 @@ Your [jump](../../../../../Browse/Movement/Jump) distance and height double (see
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) feature as if you were a 1st-level [conduit](../../../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../../Browse/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) feature as if you were a 1st-level [conduit](../../../../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 

@@ -35,4 +35,4 @@ type: title/2nd-echelon
 > **Effect:** Each target can use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.

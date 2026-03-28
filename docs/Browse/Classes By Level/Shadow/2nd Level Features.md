@@ -26,11 +26,11 @@ Your [shadow](../../../../Browse/Classes/Shadow) college grants you a feature, a
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Burning Ash](../../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
-| Harlequin Mask  | Friend!                                                                                                                              |
+| College         | Feature                                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
+| Caustic Alchemy | [Trained Assassin](../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
 

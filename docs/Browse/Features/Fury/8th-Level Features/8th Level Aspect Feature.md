@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 8th Level Aspect Feature
-file_dpath: Fury/8th-Level Features
+file_dpath: Features/Fury/8th-Level Features
 item_id: 8th-level-aspect-feature
 item_index: '02'
 item_name: 8th-Level Aspect Feature
@@ -18,19 +18,19 @@ type: feature/trait/fury/8th-level-feature
 
 #### 8th-Level Aspect Feature
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 8th-Level Aspect Features table.
+Your [primordial aspect](../../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                 |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Strongest There Is](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
-| Reaver     | [A Step Ahead](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
-| Stormwight | [Menagerie](../../../../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
+| Aspect     | Feature                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Berserker  | [Strongest There Is](../../../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
+| Reaver     | [A Step Ahead](../../../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
+| Stormwight | [Menagerie](../../../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 

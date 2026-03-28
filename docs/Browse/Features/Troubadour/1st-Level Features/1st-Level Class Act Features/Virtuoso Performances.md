@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Virtuoso Performances
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: virtuoso-performances
 item_index: '03'
 item_name: Virtuoso Performances
@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### "Thunder Mother"

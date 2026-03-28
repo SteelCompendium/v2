@@ -22,7 +22,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Spotlight

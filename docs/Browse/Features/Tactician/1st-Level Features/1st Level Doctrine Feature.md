@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 1st Level Doctrine Feature
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: 1st-level-doctrine-feature
 item_index: '01'
 item_name: 1st-Level Doctrine Feature
@@ -18,15 +18,15 @@ type: feature/trait/tactician/1st-level-feature
 
 #### 1st-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](../../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
-| Mastermind | [Studied Commander](../../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
-| Vanguard   | [Commanding Presence](../../../../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
+| Doctrine   | Feature                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Covert Operations](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
+| Mastermind | [Studied Commander](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
+| Vanguard   | [Commanding Presence](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
 
 ##### Commanding Presence
 

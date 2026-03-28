@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Font of Grace
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: font-of-grace
 item_index: '11'
 item_name: Font of Grace
@@ -18,4 +18,4 @@ type: feature/subtrait/conduit/7th-level-feature
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../../../../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../../../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.

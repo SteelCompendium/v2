@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 7th Level Domain Feature
-file_dpath: Conduit/7th-Level Features
+file_dpath: Features/Conduit/7th-Level Features
 item_id: 7th-level-domain-feature
 item_index: '04'
 item_name: 7th-Level Domain Feature
@@ -22,20 +22,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Thunderstruck](../../../../../Browse/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
-| Sun        | [Light of the Burning Sun](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
+| Storm      | [Thunderstruck](../../../../../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
+| Sun        | [Light of the Burning Sun](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -43,7 +43,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -62,7 +62,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../../../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 

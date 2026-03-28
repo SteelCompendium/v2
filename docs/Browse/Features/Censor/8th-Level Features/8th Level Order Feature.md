@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 8th Level Order Feature
-file_dpath: Censor/8th-Level Features
+file_dpath: Features/Censor/8th-Level Features
 item_id: 8th-level-order-feature
 item_index: '01'
 item_name: 8th-Level Order Feature
@@ -22,11 +22,11 @@ Your [censor](../../../../../Browse/Classes/Censor) order grants you a feature, 
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Exorcist | [Demonologist](../../../../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
-| Oracle   | [Their Past Revealed](../../../../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                                                        |
+| Order    | Feature                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](../../../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
+| Oracle   | [Their Past Revealed](../../../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
+| Paragon  | Vow                                                                                                                                                 |
 
 ##### Demonologist
 

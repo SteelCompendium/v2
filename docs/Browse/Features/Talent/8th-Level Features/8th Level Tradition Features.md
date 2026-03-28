@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 8th Level Tradition Features
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: 8th-level-tradition-features
 item_index: '02'
 item_name: 8th-Level Tradition Features
@@ -22,11 +22,11 @@ Your [talent](../../../../../Browse/Classes/Talent) tradition grants you two fea
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                        |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../../../../Browse/Talent/8th-Level%20Features/Stasis%20Shield) |
-| Telekinesis | [Levitation Field](../../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity) |
-| Telepathy   | [Mindlink](../../../../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../../../../Browse/Talent/8th-Level%20Features/Universal%20Connection)           |
+| Tradition   | Features                                                                                                                                                                                                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../../../../Browse/Features/Talent/8th-Level%20Features/Stasis%20Shield) |
+| Telekinesis | [Levitation Field](../../../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity)          |
+| Telepathy   | [Mindlink](../../../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../../../../Browse/Features/Talent/8th-Level%20Features/Universal%20Connection)           |
 
 ##### Doubling the Hours
 
@@ -55,4 +55,4 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.

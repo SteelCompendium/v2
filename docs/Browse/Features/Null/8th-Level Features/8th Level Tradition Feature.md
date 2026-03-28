@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 8th Level Tradition Feature
-file_dpath: Null/8th-Level Features
+file_dpath: Features/Null/8th-Level Features
 item_id: 8th-level-tradition-feature
 item_index: '02'
 item_name: 8th-Level Tradition Feature
@@ -22,11 +22,11 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
-| Cryokinetic   | [Synaptic Triage](../../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
-| Metakinetic   | [Inertial Dampener](../../../../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
+| Tradition     | Feature                                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](../../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
+| Cryokinetic   | [Synaptic Triage](../../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
+| Metakinetic   | [Inertial Dampener](../../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
 
 ##### Inertial Dampener
 

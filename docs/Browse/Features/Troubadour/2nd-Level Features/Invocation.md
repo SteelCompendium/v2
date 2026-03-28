@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Invocation
-file_dpath: Troubadour/2nd-Level Features
+file_dpath: Features/Troubadour/2nd-Level Features
 item_id: invocation
 item_index: '01'
 item_name: Invocation
@@ -32,6 +32,6 @@ The Director determines when the target receives your notice. When the target re
 
 ##### My Reputation Precedes Me
 
-You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
+You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../../../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature to find allies within the group.

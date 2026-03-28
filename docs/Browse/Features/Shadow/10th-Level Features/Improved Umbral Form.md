@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Improved Umbral Form
-file_dpath: Shadow/10th-Level Features
+file_dpath: Features/Shadow/10th-Level Features
 item_id: improved-umbral-form
 item_index: '01'
 item_name: Improved Umbral Form
@@ -18,6 +18,6 @@ type: feature/trait/shadow/10th-level-feature
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](../../../../../Browse/Classes/Shadow) creature you become with your [Umbral Form](../../../../../Browse/Shadow/6th-Level%20Features/Umbral%20Form) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../../../../../Browse/Classes/Shadow) creature you become with your [Umbral Form](../../../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../../../../../Browse/Shadow/6th-Level%20Features/Umbral%20Form), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../../../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.

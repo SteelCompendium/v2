@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 3rd Level Class Act Feature
-file_dpath: Troubadour/3rd-Level Features
+file_dpath: Features/Troubadour/3rd-Level Features
 item_id: 3rd-level-class-act-feature
 item_index: '01'
 item_name: 3rd-Level Class Act Feature
@@ -22,11 +22,11 @@ Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Missed Cue](../../../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
-| Duelist   | Foil                                                                                                                                 |
-| Virtuoso  | [Second Album](../../../../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
+| Class Act | Features                                                                                                                                      |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | [Missed Cue](../../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
+| Duelist   | Foil                                                                                                                                          |
+| Virtuoso  | [Second Album](../../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"

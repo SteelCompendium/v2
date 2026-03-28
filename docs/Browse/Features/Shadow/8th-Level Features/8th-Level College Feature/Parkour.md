@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Parkour
-file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
 item_id: parkour
 item_index: '03'
 item_name: Parkour
@@ -18,4 +18,4 @@ type: feature/subtrait/shadow/8th-level-feature
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.

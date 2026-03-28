@@ -22,15 +22,15 @@ Your [talent](../../../../Browse/Classes/Talent) tradition grants you two featur
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                                                                 |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
-| Telekinesis | [Kinetic Amplifier](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
-| Telepathy   | [Compulsion](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
+| Tradition   | Features                                                                                                                                                                                                                                                                                                   |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Distortion Temporal](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
+| Telekinesis | [Kinetic Amplifier](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
+| Telepathy   | [Compulsion](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -42,7 +42,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
 
 ##### Speed of Thought
 

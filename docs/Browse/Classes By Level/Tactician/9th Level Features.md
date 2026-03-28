@@ -22,7 +22,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 

@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 3rd Level Specialization Feature
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Features/Elementalist/3rd-Level Features
 item_id: 3rd-level-specialization-feature
 item_index: '01'
 item_name: 3rd-Level Specialization Feature
@@ -18,16 +18,16 @@ type: feature/trait/elementalist/3rd-level-feature
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                              |
-| Fire           | [A Conversation With Fire](../../../../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
-| Green          | [Remember Growth and Sun and Rain](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)        |
-| Void           | [Distance Is Only Memory](../../../../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
+| Specialization | Feature                                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                                       |
+| Fire           | [A Conversation With Fire](../../../../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
+| Green          | [Remember Growth and Sun and Rain](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)                 |
+| Void           | [Distance Is Only Memory](../../../../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
 
 ##### A Conversation With Fire
 

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Remote Amplification
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: remote-amplification
 item_index: '01'
 item_name: Remote Amplification
@@ -18,4 +18,4 @@ type: feature/subtrait/talent/5th-level-feature
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.

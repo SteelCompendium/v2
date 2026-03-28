@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Menagerie
-file_dpath: Fury/8th-Level Features/8th-Level Aspect Feature
+file_dpath: Features/Fury/8th-Level Features/8th-Level Aspect Feature
 item_id: menagerie
 item_index: '01'
 item_name: Menagerie
@@ -18,4 +18,4 @@ type: feature/subtrait/fury/8th-level-feature
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.

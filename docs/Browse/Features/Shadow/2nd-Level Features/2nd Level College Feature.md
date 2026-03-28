@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 2nd Level College Feature
-file_dpath: Shadow/2nd-Level Features
+file_dpath: Features/Shadow/2nd-Level Features
 item_id: 2nd-level-college-feature
 item_index: '03'
 item_name: 2nd-Level College Feature
@@ -22,11 +22,11 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a feature
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Burning Ash](../../../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../../../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
-| Harlequin Mask  | Friend!                                                                                                                              |
+| College         | Feature                                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Burning Ash](../../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
+| Caustic Alchemy | [Trained Assassin](../../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
 

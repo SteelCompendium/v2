@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 6th Level Doctrine Ability
-file_dpath: Tactician/6th-Level Features
+file_dpath: Features/Tactician/6th-Level Features
 item_id: 6th-level-doctrine-ability
 item_index: '03'
 item_name: 6th-Level Doctrine Ability
@@ -18,7 +18,7 @@ type: feature/trait/tactician/6th-level-feature
 
 #### 6th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Insurgent Abilities
 

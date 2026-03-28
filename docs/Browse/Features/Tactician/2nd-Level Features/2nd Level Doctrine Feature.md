@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 2nd Level Doctrine Feature
-file_dpath: Tactician/2nd-Level Features
+file_dpath: Features/Tactician/2nd-Level Features
 item_id: 2nd-level-doctrine-feature
 item_index: '03'
 item_name: 2nd-Level Doctrine Feature
@@ -18,15 +18,15 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | [Infiltration Tactics](../../../../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics) |
-| Mastermind | [Goaded](../../../../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded)                               |
-| Vanguard   | [Melee Superiority](../../../../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority)       |
+| Doctrine   | Feature                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Infiltration Tactics](../../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics) |
+| Mastermind | [Goaded](../../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded)                               |
+| Vanguard   | [Melee Superiority](../../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority)       |
 
 ##### Goaded
 

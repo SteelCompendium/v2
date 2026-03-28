@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Crowd Favorites
-file_dpath: Troubadour/8th-Level Features/8th-Level Class Act Feature
+file_dpath: Features/Troubadour/8th-Level Features/8th-Level Class Act Feature
 item_id: crowd-favorites
 item_index: '02'
 item_name: Crowd Favorites
@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/8th-level-feature
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ###### Moonlight Sonata

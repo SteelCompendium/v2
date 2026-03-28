@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 5th Level Order Feature
-file_dpath: Censor/5th-Level Features
+file_dpath: Features/Censor/5th-Level Features
 item_id: 5th-level-order-feature
 item_index: '01'
 item_name: 5th-Level Order Feature
@@ -22,11 +22,11 @@ Your [censor](../../../../../Browse/Classes/Censor) order grants you a feature, 
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                                                      |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](../../../../../Browse/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                                                     |
-| Paragon  | Stand Fast!                                                                                                                  |
+| Order    | Feature                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Evil Revealed](../../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
+| Oracle   | Prophecy                                                                                                                              |
+| Paragon  | Stand Fast!                                                                                                                           |
 
 ##### Evil Revealed
 

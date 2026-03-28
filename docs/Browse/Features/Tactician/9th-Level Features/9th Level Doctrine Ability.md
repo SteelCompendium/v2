@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 9th Level Doctrine Ability
-file_dpath: Tactician/9th-Level Features
+file_dpath: Features/Tactician/9th-Level Features
 item_id: 9th-level-doctrine-ability
 item_index: '01'
 item_name: 9th-Level Doctrine Ability
@@ -18,7 +18,7 @@ type: feature/trait/tactician/9th-level-feature
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 

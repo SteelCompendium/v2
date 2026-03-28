@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Improved Sanctified Weapon
-file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Censor/4th-Level Features/4th-Level Domain Feature
 item_id: improved-sanctified-weapon
 item_index: '05'
 item_name: Improved Sanctified Weapon
@@ -18,4 +18,4 @@ type: feature/subtrait/censor/4th-level-feature
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../../../../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.

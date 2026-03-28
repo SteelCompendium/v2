@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Essence
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Features/Elementalist/1st-Level Features
 item_id: essence
 item_index: '10'
 item_name: Essence
@@ -30,8 +30,8 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../../../../../Browse/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../../../../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.

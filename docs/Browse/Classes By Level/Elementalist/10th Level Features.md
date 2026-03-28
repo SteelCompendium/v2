@@ -36,12 +36,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature                                                                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
-| Fire           | [Master of Fire](../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
-| Green          | [Master of Green](../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
-| Void           | [Master of Void](../../../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
+| Specialization | Feature                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
+| Fire           | [Master of Fire](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
+| Green          | [Master of Green](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
+| Void           | [Master of Void](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
 
 ##### Master of Earth
 

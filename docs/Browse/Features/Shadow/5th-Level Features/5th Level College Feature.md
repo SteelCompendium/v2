@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 5th Level College Feature
-file_dpath: Shadow/5th-Level Features
+file_dpath: Features/Shadow/5th-Level Features
 item_id: 5th-level-college-feature
 item_index: '01'
 item_name: 5th-Level College Feature
@@ -22,11 +22,11 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a feature
 
 ###### 5th-Level College Features Table
 
-| College         | Feature                                                                                                                                |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
-| Caustic Alchemy | [Volatile Reagents](../../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
-| Harlequin Mask  | [Harlequin Gambit](../../../../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
+| College         | Feature                                                                                                                                         |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Trail of Cinders](../../../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
 
 ##### Harlequin Gambit
 

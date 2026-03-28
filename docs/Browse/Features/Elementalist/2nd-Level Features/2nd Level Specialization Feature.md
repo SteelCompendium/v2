@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 2nd Level Specialization Feature
-file_dpath: Elementalist/2nd-Level Features
+file_dpath: Features/Elementalist/2nd-Level Features
 item_id: 2nd-level-specialization-feature
 item_index: '02'
 item_name: 2nd-Level Specialization Feature
@@ -18,16 +18,16 @@ type: feature/trait/elementalist/2nd-level-feature
 
 #### 2nd-Level Specialization Feature
 
-Your [elemental specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../../../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 2nd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                         |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](../../../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
-| Fire           | [Disciple of Fire](../../../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
-| Green          | [Disciple of the Green](../../../../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
-| Void           | [There Is No Space Between](../../../../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                  |
+| Specialization | Feature                                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Disciple of Earth](../../../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
+| Fire           | [Disciple of Fire](../../../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
+| Green          | [Disciple of the Green](../../../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
+| Void           | [There Is No Space Between](../../../../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                           |
 
 ##### Disciple of Earth
 

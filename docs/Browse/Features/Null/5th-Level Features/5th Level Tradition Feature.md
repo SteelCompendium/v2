@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 5th Level Tradition Feature
-file_dpath: Null/5th-Level Features
+file_dpath: Features/Null/5th-Level Features
 item_id: 5th-level-tradition-feature
 item_index: '03'
 item_name: 5th-Level Tradition Feature
@@ -22,8 +22,8 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../../../../Browse/Null/5th-Level%20Features/Instant%20Action)         |
-| Cryokinetic   | [Chilling Readiness](../../../../../Browse/Null/5th-Level%20Features/Chilling%20Readiness) |
-| Metakinetic   | [Inertial Fulcrum](../../../../../Browse/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
+| Tradition     | Feature                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Instant Action](../../../../../Browse/Features/Null/5th-Level%20Features/Instant%20Action)         |
+| Cryokinetic   | [Chilling Readiness](../../../../../Browse/Features/Null/5th-Level%20Features/Chilling%20Readiness) |
+| Metakinetic   | [Inertial Fulcrum](../../../../../Browse/Features/Null/5th-Level%20Features/Inertial%20Fulcrum)     |

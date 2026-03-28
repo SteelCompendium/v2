@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 2nd Level Tradition Feature
-file_dpath: Talent/2nd-Level Features
+file_dpath: Features/Talent/2nd-Level Features
 item_id: 2nd-level-tradition-feature
 item_index: '02'
 item_name: 2nd-Level Tradition Feature
@@ -22,11 +22,11 @@ Your [talent](../../../../../Browse/Classes/Talent) tradition grants you a featu
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                               |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../../../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
+| Tradition   | Features                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](../../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
+| Telekinesis | [Ease Their Fall](../../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
+| Telepathy   | [Ease the Mind](../../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
 
 ##### Ease the Hours
 

@@ -4545,18 +4545,18 @@ As a [censor](../../Browse/Classes/Censor), you're at your best against the stro
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                          | Abilities                 | Order<br>Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
-| 1st   | [Censor Order](../../Browse/Censor/1st-Level%20Features/Censor%20Order), [Deity and Domains](../../Browse/Conduit/1st-Level%20Features/Deity%20and%20Domains), Wrath, Judgment, Kit, [My Life for Yours](../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, [Censor](../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                  |
-| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5           | 5                  |
-| 3rd   | [Look On My Work and Despair](../../Browse/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../Browse/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                  |
-| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9     | 5                  |
-| 6th   | [Implement of Wrath](../../Browse/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../Browse/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | [Improved Implement of Wrath](../../Browse/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../Browse/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../Browse/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Order<br>Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
+| 1st   | [Censor Order](../../Browse/Features/Censor/1st-Level%20Features/Censor%20Order), [Deity and Domains](../../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains), Wrath, Judgment, Kit, [My Life for Yours](../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours), Domain Feature, [Censor](../../Browse/Classes/Censor) Abilities | Signature, 3, 5           | -                  |
+| 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5           | 5                  |
+| 3rd   | [Look On My Work and Despair](../../Browse/Features/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair), 7-Wrath Ability                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../../Browse/Features/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath), Domain Feature                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7        | 5                  |
+| 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5                  |
+| 6th   | [Implement of Wrath](../../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath), Perk, Order Ability                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../../Browse/Features/Censor/7th-Level%20Features/Focused%20Wrath), Skill                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | [Improved Implement of Wrath](../../Browse/Features/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath), Order Ability                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Perk, Skill, [Templar](../../Browse/Features/Censor/10th-Level%20Features/Templar), Virtue, [Wrath of the Gods](../../Browse/Features/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods)                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -4592,7 +4592,7 @@ You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../../Browse/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](../../Browse/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../Browse/Classes/Censor), but they might appear in future products.)
 
@@ -4661,20 +4661,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                           | Skill Group   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                         | Crafting      |
-| Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                         | Lore          |
-| Fate       | [Oracular Visions](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                   | Exploration   |
-| Protection | Protective Circle                                                                                                                                                 | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
+| Domain     | Feature                                                                                                                                                                    | Skill Group   |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                                  | Crafting      |
+| Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                            | Exploration   |
+| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
+| Sun        | [Inner Light](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -5001,11 +5001,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you two features, as sho
 
 ###### 2nd-Level Order Features Table
 
-| Order    | Features                                                                                                                                                                                                                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20Vigilance), [A Sense for Truth](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20Truth) |
-| Oracle   | [It Was Foretold](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20Foretold), [Judge of Character](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20Character)  |
-| Paragon  | [Lead by Example](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20Example), [Stalwart Icon](../../Browse/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20Icon)              |
+| Order    | Features                                                                                                                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Saint's Vigilance](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20Vigilance), [A Sense for Truth](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20Truth) |
+| Oracle   | [It Was Foretold](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20Foretold), [Judge of Character](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20Character)  |
+| Paragon  | [Lead by Example](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20Example), [Stalwart Icon](../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20Icon)              |
 
 ##### It Was Foretold
 
@@ -5209,20 +5209,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
-| Death      | [Seance](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
-| Fate       | [Oracular Warning](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
-| Knowledge  | [Saint's Epiphany](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
-| Life       | [Blessing of Life](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
-| Love       | [Invocation of the Heart](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
-| Nature     | [Wode Road](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
-| Protection | [Impervious Touch](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
-| Storm      | [Windwalk](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
-| Sun        | [Light of Revelation](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
-| Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                       |
-| War        | [Improved Sanctified Weapon](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Improved Hands of the Maker](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
+| Death      | [Seance](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
+| Fate       | [Oracular Warning](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
+| Knowledge  | [Saint's Epiphany](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
+| Life       | [Blessing of Life](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
+| Love       | [Invocation of the Heart](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
+| Nature     | [Wode Road](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
+| Protection | [Impervious Touch](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
+| Storm      | [Windwalk](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
+| Sun        | [Light of Revelation](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
+| Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                                |
+| War        | [Improved Sanctified Weapon](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
 
 ##### Blessing of Life
 
@@ -5255,7 +5255,7 @@ When you use your [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -5295,11 +5295,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 
 ###### 5th-Level Order Features Table
 
-| Order    | Feature                                                                                                                      |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](../../Browse/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
-| Oracle   | Prophecy                                                                                                                     |
-| Paragon  | Stand Fast!                                                                                                                  |
+| Order    | Feature                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Evil Revealed](../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed) |
+| Oracle   | Prophecy                                                                                                                              |
+| Paragon  | Stand Fast!                                                                                                                           |
 
 ##### Evil Revealed
 
@@ -5510,20 +5510,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Ride the Lightning](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning)                       |
-| Sun        | [Light of the Burning Sun](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
+| Storm      | [Ride the Lightning](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning)                       |
+| Sun        | [Light of the Burning Sun](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -5531,7 +5531,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Guided to Your Side
@@ -5574,7 +5574,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk) already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -5627,11 +5627,11 @@ Your [censor](../../Browse/Classes/Censor) order grants you a feature, as shown 
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Exorcist | [Demonologist](../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
-| Oracle   | [Their Past Revealed](../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                                                        |
+| Order    | Feature                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
+| Oracle   | [Their Past Revealed](../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
+| Paragon  | Vow                                                                                                                                                 |
 
 ##### Demonologist
 
@@ -5723,7 +5723,7 @@ As a 9th-level [censor](../../Browse/Classes/Censor), you gain the following fea
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](../../Browse/Censor/6th-Level%20Features/Implement%20of%20Wrath) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](../../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.
@@ -5905,18 +5905,18 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ###### Conduit Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Abilities                     | Domain Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | [Deity and Domains](../../Browse/Conduit/1st-Level%20Features/Deity%20and%20Domains), Piety, Domain Feature, [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), [Ray of Wrath](../../Browse/Abilities/Conduit/1st-Level%20Features/Ray%20of%20Wrath), Triggered Action, Prayer, [Conduit](../../Browse/Classes/Conduit) Ward, [Conduit](../../Browse/Classes/Conduit) Abilities | Two signature, 3, 5           | -                |
-| 2nd   | [The Lists of Heaven](../../Browse/Conduit/2nd-Level%20Features/The%20Lists%20of%20Heaven), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                |
-| 3rd   | [Minor Miracle](../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7        | 5                |
-| 4th   | [Blessed Domains](../../Browse/Conduit/4th-Level%20Features/Blessed%20Domain), Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                |
-| 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Burgeoning Saint](../../Browse/Conduit/6th-Level%20Features/Burgeoning%20Saint), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../Browse/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, [Faith's Sword](../../Browse/Conduit/9th-Level%20Features/Faiths%20Sword), [Ordained](../../Browse/Conduit/9th-Level%20Features/Ordained)                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Avatar](../../Browse/Conduit/10th-Level%20Features/Avatar), Characteristic Increase, Divine Power, [Most Pious](../../Browse/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Abilities                     | Domain Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
+| 1st   | [Deity and Domains](../../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains), Piety, Domain Feature, [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), [Ray of Wrath](../../Browse/Abilities/Conduit/1st-Level%20Features/Ray%20of%20Wrath), Triggered Action, Prayer, [Conduit](../../Browse/Classes/Conduit) Ward, [Conduit](../../Browse/Classes/Conduit) Abilities | Two signature, 3, 5           | -                |
+| 2nd   | [The Lists of Heaven](../../Browse/Features/Conduit/2nd-Level%20Features/The%20Lists%20of%20Heaven), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                |
+| 3rd   | [Minor Miracle](../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7        | 5                |
+| 4th   | [Blessed Domains](../../Browse/Features/Conduit/4th-Level%20Features/Blessed%20Domain), Characteristic Increase, Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5                |
+| 6th   | [Burgeoning Saint](../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, [Faithful's Reward](../../Browse/Features/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Domain Ability, [Faith's Sword](../../Browse/Features/Conduit/9th-Level%20Features/Faiths%20Sword), [Ordained](../../Browse/Features/Conduit/9th-Level%20Features/Ordained)                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Avatar](../../Browse/Features/Conduit/10th-Level%20Features/Avatar), Characteristic Increase, Divine Power, [Most Pious](../../Browse/Features/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -5946,7 +5946,7 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](../../Browse/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../Browse/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), you can use it as if you had spent an amount of piety equal to your Victories.
 
@@ -6018,24 +6018,24 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                           | Skill Group   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                         | Crafting      |
-| Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                         | Lore          |
-| Fate       | [Oracular Visions](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                   | Exploration   |
-| Protection | Protective Circle                                                                                                                                                 | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
+| Domain     | Feature                                                                                                                                                                    | Skill Group   |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                                  | Crafting      |
+| Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                            | Exploration   |
+| Protection | Protective Circle                                                                                                                                                          | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
+| Sun        | [Inner Light](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -6209,7 +6209,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../Browse/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Distance).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../Browse/Classes/Conduit) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../Browse/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Distance).)
 
 ##### Prayer of Destruction
 
@@ -6235,7 +6235,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../Browse/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20Ward).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../Browse/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20Ward).)
 
 ##### Bastion Ward
 
@@ -6813,20 +6813,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 4th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Improved Hands of the Maker](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
-| Death      | [Seance](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
-| Fate       | [Oracular Warning](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
-| Knowledge  | [Saint's Epiphany](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
-| Life       | [Blessing of Life](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
-| Love       | [Invocation of the Heart](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
-| Nature     | [Wode Road](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
-| Protection | [Impervious Touch](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
-| Storm      | [Windwalk](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
-| Sun        | [Light of Revelation](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
-| Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                       |
-| War        | [Improved Sanctified Weapon](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Improved Hands of the Maker](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
+| Death      | [Seance](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
+| Fate       | [Oracular Warning](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
+| Knowledge  | [Saint's Epiphany](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
+| Life       | [Blessing of Life](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
+| Love       | [Invocation of the Heart](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
+| Nature     | [Wode Road](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
+| Protection | [Impervious Touch](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
+| Storm      | [Windwalk](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
+| Sun        | [Light of Revelation](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
+| Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                                |
+| War        | [Improved Sanctified Weapon](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
 
 ###### Blessing of Life
 
@@ -6859,7 +6859,7 @@ When you use your [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level%
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -7181,20 +7181,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 7th-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                         |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Creation   | [Divine Quartermaster](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
-| Knowledge  | Gods' Library                                                                                                                                                   |
-| Life       | [Font of Grace](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Thunderstruck](../../Browse/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
-| Sun        | [Light of the Burning Sun](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../Browse/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Domain     | Feature                                                                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation   | [Divine Quartermaster](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
+| Death      | [Word of Death Deferred](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
+| Fate       | [Word of Fate Denied](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Knowledge  | Gods' Library                                                                                                                                                            |
+| Life       | [Font of Grace](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
+| Love       | [Covenant of the Heart](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
+| Nature     | [Nature's Bounty](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
+| Protection | [Blessing of Iron](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
+| Storm      | [Thunderstruck](../../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
+| Sun        | [Light of the Burning Sun](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
+| Trickery   | [Trinity of Trickery](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
 
 ##### Blessing of Iron
 
@@ -7202,7 +7202,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../Browse/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Guided to Your Side
@@ -7221,7 +7221,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../Browse/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -7348,7 +7348,7 @@ As a 9th-level [conduit](../../Browse/Classes/Conduit), you gain the following f
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../Browse/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 
@@ -7553,7 +7553,7 @@ As a 10th-level [conduit](../../Browse/Classes/Conduit), you gain the following 
 
 #### Avatar
 
-You are now an [avatar](../../Browse/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../../Browse/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20Effects)) without needing to pray.
+You are now an [avatar](../../Browse/Features/Conduit/10th-Level%20Features/Avatar) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../../Browse/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20Effects)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -7585,7 +7585,7 @@ You gain one skill of your choice.
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](../../Browse/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) determines which of these talents you excel at.**
+**As an [elementalist](../../Browse/Classes/Elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -7617,18 +7617,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ###### Elementalist Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Abilities                           |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization), Essence, [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, [Specialization Triggered Action](../../Browse/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action), Enchantment, [Elementalist Ward](../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Ward), [Elementalist Abilities](../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Abilities) | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, [Font of Essence](../../Browse/Elementalist/4th-Level%20Features/Font%20of%20Essence), [Mantle of Essence](../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, [Wyrding](../../Browse/Elementalist/6th-Level%20Features/Wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, [Mantle of Quintessence](../../Browse/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../Browse/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | [Grand Wyrding](../../Browse/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, [Essential Being](../../Browse/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization), Essence, [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element), [Persistent Magic](../../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic), Specialization Feature, [Specialization Triggered Action](../../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action), Enchantment, [Elementalist Ward](../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward), [Elementalist Abilities](../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Abilities) | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, [Font of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Font%20of%20Essence), [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, [Wyrding](../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, [Mantle of Quintessence](../../Browse/Features/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence), [Surging Essence](../../Browse/Features/Elementalist/7th-Level%20Features/Surging%20Essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](../../Browse/Features/Elementalist/9th-Level%20Features/Grand%20Wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, [Essential Being](../../Browse/Features/Elementalist/10th-Level%20Features/Essential%20Being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -7646,7 +7646,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../../Browse/Movement/Teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
@@ -7678,9 +7678,9 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../../Browse/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../Browse/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../../Browse/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
@@ -7736,16 +7736,16 @@ You have the following ability.
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                                                            |
-| Fire           | [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)                                          |
-| Green          | [It Is the Soul Which Hears](../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears) |
-| Void           | [A Beyonding of Vision](../../Browse/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision)               |
+| Specialization | Feature                                                                                                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth)                                                                     |
+| Fire           | [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness)                                                   |
+| Green          | [It Is the Soul Which Hears](../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears) |
+| Void           | [A Beyonding of Vision](../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision)               |
 
 ##### A Beyonding of Vision
 
@@ -7804,7 +7804,7 @@ You have the following ability.
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../Browse/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action) table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
@@ -7877,7 +7877,7 @@ Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/E
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../Browse/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](../../Browse/Classes/Elementalist) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../Browse/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction).)
 
 ##### Enchantment of Battle
 
@@ -7903,7 +7903,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../Browse/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity).)
 
 ##### Ward of Delightful Consequences
 
@@ -7923,7 +7923,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
@@ -8213,16 +8213,16 @@ You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7:
 
 #### 2nd-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 2nd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                         |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Disciple of Earth](../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
-| Fire           | [Disciple of Fire](../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
-| Green          | [Disciple of the Green](../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
-| Void           | [There Is No Space Between](../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                  |
+| Specialization | Feature                                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Disciple of Earth](../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth)           |
+| Fire           | [Disciple of Fire](../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire)             |
+| Green          | [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) |
+| Void           | [There Is No Space Between](../../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between)                           |
 
 ##### Disciple of Earth
 
@@ -8362,16 +8362,16 @@ As a 3rd-level [elementalist](../../Browse/Classes/Elementalist), you gain the f
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                              |
-| Fire           | [A Conversation With Fire](../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
-| Green          | [Remember Growth and Sun and Rain](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)        |
-| Void           | [Distance Is Only Memory](../../Browse/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
+| Specialization | Feature                                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Earth          | [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me)                                                       |
+| Fire           | [A Conversation With Fire](../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire) |
+| Green          | [Remember Growth and Sun and Rain](../../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain)                 |
+| Void           | [Distance Is Only Memory](../../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory)   |
 
 ##### A Conversation With Fire
 
@@ -8497,16 +8497,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
-| Specialization | Feature                                                                                                                          |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
-| Fire           | [Burning Grounds](../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
-| Green          | [Flowering Bed](../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
-| Void           | [Veiling Bed](../../Browse/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
+| Specialization | Feature                                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Quaking Earth](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
+| Fire           | [Burning Grounds](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
+| Green          | [Flowering Bed](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
+| Void           | [Veiling Bed](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
 
 ##### Burning Grounds
 
@@ -8538,16 +8538,16 @@ As a 5th-level [elementalist](../../Browse/Classes/Elementalist), you gain the f
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
-| Fire           | [Smoldering Step](../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
-| Green          | [Hide of Tenfold Shields](../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
-| Void           | [Pierce the Veil of Substance](../../Browse/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
+| Specialization | Feature                                                                                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [The Mountain Does Not Move](../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
+| Fire           | [Smoldering Step](../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
+| Green          | [Hide of Tenfold Shields](../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
+| Void           | [Pierce the Veil of Substance](../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
 
 ##### Hide of Tenfold Shields
 
@@ -8742,9 +8742,9 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Mantle of Quintessence
 
-Your [Mantle of Essence](../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires essence.
+Your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 #### Surging Essence
 
@@ -8764,28 +8764,28 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../Browse/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
-| Specialization | Feature                                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth)                        |
-| Fire           | [The Flame Primordial](../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial)   |
-| Green          | [Chimeric Manifestation](../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation) |
-| Void           | [Black Hole Star](../../Browse/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star)             |
+| Specialization | Feature                                                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Summon Source of Earth](../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth)                                 |
+| Fire           | [The Flame Primordial](../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial)   |
+| Green          | [Chimeric Manifestation](../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation) |
+| Void           | [Black Hole Star](../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star)             |
 
 ##### Black Hole Star
 
 You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability and [vertical](../../Browse/Movement/Vertical) pull that target up to 5 squares. If their [stability](../../Browse/Movement/Stability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../Browse/Movement/Stability) for your allies.
 
-Additionally, your [Mantle of Essence](../../Browse/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) improves. While in the area of the aura, enemies and objects have their [stability](../../Browse/Movement/Stability) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) improves. While in the area of the aura, enemies and objects have their [stability](../../Browse/Movement/Stability) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/Complications/Animal%20Form) as a free maneuver the first time you use your [Disciple of the Green](../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/Complications/Animal%20Form) as a free maneuver the first time you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../../Browse/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature, you can select an additional [animal form](../../Browse/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green) feature, you can select an additional [animal form](../../Browse/Complications/Animal%20Form) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
@@ -8916,7 +8916,7 @@ As a 9th-level [elementalist](../../Browse/Classes/Elementalist), you gain the f
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../Browse/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
@@ -9006,12 +9006,12 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ###### One Specialization Features Table
 
-| Specialization | Feature                                                                                                           |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
-| Fire           | [Master of Fire](../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
-| Green          | [Master of Green](../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
-| Void           | [Master of Void](../../Browse/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
+| Specialization | Feature                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Earth          | [Master of Earth](../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Earth) |
+| Fire           | [Master of Fire](../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Fire)   |
+| Green          | [Master of Green](../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Green) |
+| Void           | [Master of Void](../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Void)   |
 
 ##### Master of Earth
 
@@ -9082,18 +9082,18 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 ###### Fury Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Abilities                 | Aspect Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | [Primordial Aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect), Ferocity, [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity), Aspect Features, [Aspect Triggered Action](../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action), [Mighty Leaps](../../Browse/Fury/1st-Level%20Features/Mighty%20Leaps), [Fury](../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, [Damaging Ferocity](../../Browse/Fury/4th-Level%20Features/Damaging%20Ferocity), [Growing Ferocity Improvement](../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Attunement](../../Browse/Fury/4th-Level%20Features/Primordial%20Attunement), [Primordial Strike](../../Browse/Fury/4th-Level%20Features/Primordial%20Strike), Skill                            | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Marauder of the Primordial Chaos](../../Browse/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20Chaos), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, [Elemental Form](../../Browse/Fury/7th-Level%20Features/Elemental%20Form), [Greater Ferocity](../../Browse/Fury/7th-Level%20Features/Greater%20Ferocity), [Growing Ferocity Improvement](../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Skill                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | [Harbinger of the Primordial Chaos](../../Browse/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Chaos Incarnate](../../Browse/Fury/10th-Level%20Features/Chaos%20Incarnate), Characteristic Increase, [Growing Ferocity Improvement](../../Browse/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Ferocity](../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity), [Primordial Power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power), Skill                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | [Primordial Aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect), Ferocity, [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity), Aspect Features, [Aspect Triggered Action](../../Browse/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20Action), [Mighty Leaps](../../Browse/Features/Fury/1st-Level%20Features/Mighty%20Leaps), [Fury](../../Browse/Classes/Fury) Abilities | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, [Damaging Ferocity](../../Browse/Features/Fury/4th-Level%20Features/Damaging%20Ferocity), [Growing Ferocity Improvement](../../Browse/Features/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Attunement](../../Browse/Features/Fury/4th-Level%20Features/Primordial%20Attunement), [Primordial Strike](../../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike), Skill                            | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | [Marauder of the Primordial Chaos](../../Browse/Features/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20Chaos), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, [Elemental Form](../../Browse/Features/Fury/7th-Level%20Features/Elemental%20Form), [Greater Ferocity](../../Browse/Features/Fury/7th-Level%20Features/Greater%20Ferocity), [Growing Ferocity Improvement](../../Browse/Features/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Skill                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | [Harbinger of the Primordial Chaos](../../Browse/Features/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Chaos Incarnate](../../Browse/Features/Fury/10th-Level%20Features/Chaos%20Incarnate), Characteristic Increase, [Growing Ferocity Improvement](../../Browse/Features/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement), Perk, [Primordial Ferocity](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity), [Primordial Power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power), Skill                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -9101,13 +9101,13 @@ As a 1st-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
 - **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
 - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
 - **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 #### Ferocity
 
@@ -9128,7 +9128,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../Browse/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.
 
@@ -9136,7 +9136,7 @@ When you use an ability outside of combat that lets you spend unlimited ferocity
 
 You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
-Some [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
+Some [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
@@ -9162,19 +9162,19 @@ Some [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocit
 
 #### 1st-Level Aspect Features
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                                                                                                                                        |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength)                                                                                                                  |
-| Reaver     | Kit, [Primordial Cunning](../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning)                                                                                                                    |
-| Stormwight | [Beast Shape](../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape), [Relentless Hunter](../../Browse/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter) |
+| Aspect     | Feature                                                                                                                                                                                                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength)                                                                                                                           |
+| Reaver     | Kit, [Primordial Cunning](../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning)                                                                                                                             |
+| Stormwight | [Beast Shape](../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape), [Relentless Hunter](../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter) |
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 ##### Kit
 
@@ -9184,13 +9184,13 @@ You can use and gain the benefits of a kit. See Chapter 6: Kits for more informa
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
@@ -9198,7 +9198,7 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../Browse/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../Browse/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
 
 ###### Aspect Triggered Actions Table
 
@@ -9481,15 +9481,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
-| Reaver     | [Inescapable Wrath](../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
-| Stormwight | Tooth and Claw                                                                                                                      |
+| Aspect     | Feature                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
+| Reaver     | [Inescapable Wrath](../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
+| Stormwight | Tooth and Claw                                                                                                                               |
 
 ##### Inescapable Wrath
 
@@ -9505,7 +9505,7 @@ Whenever you use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charg
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 
@@ -9621,15 +9621,15 @@ As a 3rd-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 #### 3rd-Level Aspect Feature
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Immovable Object](../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object)                     |
-| Reaver     | [See Through Their Tricks](../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks) |
-| Stormwight | [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight)                        |
+| Aspect     | Feature                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Immovable Object](../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object)                     |
+| Reaver     | [See Through Their Tricks](../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks) |
+| Stormwight | [Nature's Knight](../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight)                        |
 
 ##### Immovable Object
 
@@ -9709,7 +9709,7 @@ The first time you take damage each combat round, you gain 2 ferocity instead of
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 8 or more ferocity.
+Your [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 8 or more ferocity.
 
 #### Perk
 
@@ -9733,15 +9733,15 @@ As a 5th-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                           |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
-| Reaver     | Unfettered                                                                                                        |
-| Stormwight | [Stormborn](../../Browse/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
+| Aspect     | Feature                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Bounder](../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder)     |
+| Reaver     | Unfettered                                                                                                                 |
+| Stormwight | [Stormborn](../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn) |
 
 ##### Bounder
 
@@ -9749,7 +9749,7 @@ Your [jump](../../Browse/Movement/Jump) distance and height double (see Movement
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) feature as if you were a 1st-level [conduit](../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../Browse/Classes/Conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) feature as if you were a 1st-level [conduit](../../Browse/Classes/Conduit) (see 1st-Level Domain Feature in the [Conduit](../../Browse/Classes/Conduit) section).
 
 ##### Unfettered
 
@@ -9837,7 +9837,7 @@ As a 6th-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
 #### Primordial Portal
 
@@ -9851,7 +9851,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 #### 6th-Level Aspect Ability
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Berserker Abilities
 
@@ -9981,7 +9981,7 @@ When you gain ferocity at the start of each of your turns during combat, you gai
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 10 or more ferocity.
+Your [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 10 or more ferocity.
 
 #### Skill
 
@@ -9997,19 +9997,19 @@ You gain one perk of your choice.
 
 #### 8th-Level Aspect Feature
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 8th-Level Aspect Features table.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                                 |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Strongest There Is](../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
-| Reaver     | [A Step Ahead](../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
-| Stormwight | [Menagerie](../../Browse/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
+| Aspect     | Feature                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Berserker  | [Strongest There Is](../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |
+| Reaver     | [A Step Ahead](../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |
+| Stormwight | [Menagerie](../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../Browse/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -10085,11 +10085,11 @@ As a 9th-level [fury](../../Browse/Classes/Fury), you gain the following feature
 
 #### Harbinger of the Primordial Chaos
 
-You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../Browse/Fury/6th-Level%20Features/Primordial%20Portal) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
+You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../Browse/Features/Fury/6th-Level%20Features/Primordial%20Portal) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
 #### 9th-Level Aspect Ability
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Berserker Abilities
 
@@ -10213,7 +10213,7 @@ Your mastery of elemental forces protects and emboldens you. If you are a berser
 
 When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../Browse/Conditions/Frightened) of you (save ends).
 
-Additionally, when you use [Primordial Strike](../../Browse/Fury/4th-Level%20Features/Primordial%20Strike), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
+Additionally, when you use [Primordial Strike](../../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
 #### Characteristic Increase
 
@@ -10221,7 +10221,7 @@ Your Might and Agility scores each increase to 5.
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 12 or more ferocity.
+Your [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature provides additional benefits when you have 12 or more ferocity.
 
 #### Perk
 
@@ -10233,13 +10233,13 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power). Each time you finish a respite, you gain [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) equal to the XP you gain. You can spend [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) on your abilities as if it were ferocity.
+You have an epic resource called [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power). Each time you finish a respite, you gain [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) equal to the XP you gain. You can spend [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) on your abilities as if it were ferocity.
 
-Additionally, you can spend any amount of [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) as a free maneuver, ending one effect on you for each [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) spent.
+Additionally, you can spend any amount of [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) as a free maneuver, ending one effect on you for each [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) spent.
 
-You can also spend 3 [primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) to create a portal to Quintessence without needing a source of elemental power.
+You can also spend 3 [primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) to create a portal to Quintessence without needing a source of elemental power.
 
-[Primordial power](../../Browse/Fury/10th-Level%20Features/Primordial%20Power) remains until you spend it.
+[Primordial power](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power) remains until you spend it.
 
 #### Skill
 
@@ -10247,7 +10247,7 @@ You gain one skill of your choice.
 
 ### Stormwight Kits
 
-The stormwight [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
+The stormwight [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
 
 #### Kit Features
 
@@ -10255,7 +10255,7 @@ All stormwight kits have the following features in common.
 
 ##### Aspect Benefits and Animal Form
 
-Your [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
+Your [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
 ##### Aspect of the Wild
 
@@ -10292,11 +10292,11 @@ You gain a new signature ability from your kit.
 
 ##### Growing Ferocity
 
-Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+Each stormwight kit grants a set of benefits for your [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
 
 #### Boren
 
-With this stormwight kit, you channel your [primordial ferocity](../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your [primordial ferocity](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 ##### Aspect Benefits
 
@@ -10338,7 +10338,7 @@ Your primordial damage type is cold.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
@@ -10353,7 +10353,7 @@ As your ferocity grows, you gain benefits as noted on the Boren [Growing Ferocit
 
 #### Corven
 
-With this stormwight kit, you channel your [primordial ferocity](../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your [primordial ferocity](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a crow, becoming stealthy and quick. Corven are tied to the [mountain](../../Browse/Kits/Mountain) passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -10398,7 +10398,7 @@ Your primordial damage type is fire.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Corven [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
@@ -10413,7 +10413,7 @@ As your ferocity grows, you gain benefits as noted on the Corven [Growing Feroci
 
 #### Raden
 
-With this stormwight kit, you channel your [primordial ferocity](../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your [primordial ferocity](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 
@@ -10458,7 +10458,7 @@ Your primordial damage type is corruption.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
@@ -10473,7 +10473,7 @@ As your ferocity grows, you gain benefits as noted on the Raden [Growing Ferocit
 
 #### Vuken
 
-With this stormwight kit, you channel your [primordial ferocity](../../Browse/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this stormwight kit, you channel your [primordial ferocity](../../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 ##### Aspect Benefits
 
@@ -10516,7 +10516,7 @@ Your primordial damage type is lightning.
 
 ##### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Vuken [Growing Ferocity](../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 
@@ -10564,18 +10564,18 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ###### Null Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield), [Discipline Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery), Null Speed, [Psionic Augmentation](../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation), [Psionic Martial Arts](../../Browse/Null/1st-Level%20Features/Psionic%20Martial%20Arts), Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5           | 5                   |
-| 3rd   | [Psionic Leap](../../Browse/Null/3rd-Level%20Features/Psionic%20Leap), [Reorder](../../Browse/Null/3rd-Level%20Features/Reorder), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), Enhanced Null Field, Perk, [Regenerative Field](../../Browse/Null/4th-Level%20Features/Regenerative%20Field), Skill                                                                                                                                                                                                                    | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Elemental Absorption](../../Browse/Null/6th-Level%20Features/Elemental%20Absorption), [Elemental Buffer](../../Browse/Null/6th-Level%20Features/Elemental%20Buffer), Perk, Tradition Ability                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Psi Boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost), [Improved Body](../../Browse/Null/7th-Level%20Features/Improved%20Body), Skill                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [I Am the Weapon](../../Browse/Null/9th-Level%20Features/I%20Am%20the%20Weapon), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Manifold Body](../../Browse/Null/10th-Level%20Features/Manifold%20Body), [Manifold Resonance](../../Browse/Null/10th-Level%20Features/Manifold%20Resonance), Order, Perk, Skill                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Abilities                     | Tradition Abilities |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | Null Tradition, Discipline, Null Field, [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield), [Discipline Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery), Null Speed, [Psionic Augmentation](../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation), [Psionic Martial Arts](../../Browse/Features/Null/1st-Level%20Features/Psionic%20Martial%20Arts), Null Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5           | 5                   |
+| 3rd   | [Psionic Leap](../../Browse/Features/Null/3rd-Level%20Features/Psionic%20Leap), [Reorder](../../Browse/Features/Null/3rd-Level%20Features/Reorder), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), Enhanced Null Field, Perk, [Regenerative Field](../../Browse/Features/Null/4th-Level%20Features/Regenerative%20Field), Skill                                                                                                                                                                                                                             | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | [Elemental Absorption](../../Browse/Features/Null/6th-Level%20Features/Elemental%20Absorption), [Elemental Buffer](../../Browse/Features/Null/6th-Level%20Features/Elemental%20Buffer), Perk, Tradition Ability                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Psi Boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost), [Improved Body](../../Browse/Features/Null/7th-Level%20Features/Improved%20Body), Skill                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [I Am the Weapon](../../Browse/Features/Null/9th-Level%20Features/I%20Am%20the%20Weapon), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement), [Manifold Body](../../Browse/Features/Null/10th-Level%20Features/Manifold%20Body), [Manifold Resonance](../../Browse/Features/Null/10th-Level%20Features/Manifold%20Resonance), Order, Perk, Skill                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -10605,7 +10605,7 @@ You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../../Browse/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../../Browse/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
 
@@ -10655,13 +10655,13 @@ Your instincts for danger let you predict attacks before they happen.
 
 As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
-Some [Discipline Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
 Whenever you use the [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
@@ -10678,7 +10678,7 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 
 Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
@@ -10695,7 +10695,7 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
@@ -10714,7 +10714,7 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation).)
 
 ##### Density Augmentation
 
@@ -11022,11 +11022,11 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
-| Cryokinetic   | [Entropic Adaptability](../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
-| Metakinetic   | [Inertial Sink](../../Browse/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
+| Tradition     | Feature                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Rapid Processing](../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
+| Cryokinetic   | [Entropic Adaptability](../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
+| Metakinetic   | [Inertial Sink](../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
 
 ##### Entropic Adaptability
 
@@ -11212,7 +11212,7 @@ Your Agility and Intuition scores each increase to 3.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more discipline.
+Your [Discipline Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 8 or more discipline.
 
 #### Enhanced Null Field
 
@@ -11240,11 +11240,11 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../Browse/Null/5th-Level%20Features/Instant%20Action)         |
-| Cryokinetic   | [Chilling Readiness](../../Browse/Null/5th-Level%20Features/Chilling%20Readiness) |
-| Metakinetic   | [Inertial Fulcrum](../../Browse/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
+| Tradition     | Feature                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Instant Action](../../Browse/Features/Null/5th-Level%20Features/Instant%20Action)         |
+| Cryokinetic   | [Chilling Readiness](../../Browse/Features/Null/5th-Level%20Features/Chilling%20Readiness) |
+| Metakinetic   | [Inertial Fulcrum](../../Browse/Features/Null/5th-Level%20Features/Inertial%20Fulcrum)     |
 
 #### Chilling Readiness
 
@@ -11446,11 +11446,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 10 or more discipline.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../Browse/Talent/6th-Level%20Features/Psi%20Boost).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost).
 
 ##### Dynamic Power (1 Discipline)
 
@@ -11502,11 +11502,11 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition     | Feature                                                                                                                                |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
-| Cryokinetic   | [Synaptic Triage](../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
-| Metakinetic   | [Inertial Dampener](../../Browse/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
+| Tradition     | Feature                                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronokinetic | [Shared Momentum](../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
+| Cryokinetic   | [Synaptic Triage](../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
+| Metakinetic   | [Inertial Dampener](../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
 
 ##### Inertial Dampener
 
@@ -11716,7 +11716,7 @@ Your Agility and Intuition scores each increase to 5.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 12 or more discipline.
+Your [Discipline Mastery](../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) feature provides additional benefits when you have 12 or more discipline.
 
 #### Manifold Body
 
@@ -11726,7 +11726,7 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your Null Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost) feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 
@@ -11777,18 +11777,18 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ###### Shadow Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                     | Abilities                 | College Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | [Shadow](../../Browse/Classes/Shadow) College, Insight, College Features, [College Triggered Action](../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action), [Hesitation Is Weakness](../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness), Kit, [Shadow](../../Browse/Classes/Shadow) Abilities | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                 |
-| 3rd   | [Careful Observation](../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation), 7-Insight Ability                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, [Keep It Down](../../Browse/Shadow/4th-Level%20Features/Keep%20It%20Down), [Night Watch](../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch), Perk, Skill, [Surge of Insight](../../Browse/Shadow/4th-Level%20Features/Surge%20of%20Insight)                                                                     | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, [Umbral Form](../../Browse/Shadow/6th-Level%20Features/Umbral%20Form), College Ability                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, [Keen Insight](../../Browse/Shadow/7th-Level%20Features/Keen%20Insight), Skill, [Careful Observation Improvement](../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Ventriloquist](../../Browse/Shadow/7th-Level%20Features/Ventriloquist)                                                       | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | [Gloom Squad](../../Browse/Shadow/9th-Level%20Features/Gloom%20Squad), College Ability                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, [Death Pool](../../Browse/Shadow/10th-Level%20Features/Death%20Pool), Perk, Skill, [Careful Observation Improvement](../../Browse/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Improved Umbral Form](../../Browse/Shadow/10th-Level%20Features/Improved%20Umbral%20Form), Subterfuge                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                       | Abilities                 | College Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
+| 1st   | [Shadow](../../Browse/Classes/Shadow) College, Insight, College Features, [College Triggered Action](../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action), [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness), Kit, [Shadow](../../Browse/Classes/Shadow) Abilities | Signature, 3, 5           | -                 |
+| 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5           | 5                 |
+| 3rd   | [Careful Observation](../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation), 7-Insight Ability                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7        | 5                 |
+| 4th   | Characteristic Increase, [Keep It Down](../../Browse/Features/Shadow/4th-Level%20Features/Keep%20It%20Down), [Night Watch](../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch), Perk, Skill, [Surge of Insight](../../Browse/Features/Shadow/4th-Level%20Features/Surge%20of%20Insight)                                                                     | Signature, 3, 5, 7        | 5                 |
+| 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5                 |
+| 6th   | Perk, [Umbral Form](../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form), College Ability                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | Characteristic Increase, [Keen Insight](../../Browse/Features/Shadow/7th-Level%20Features/Keen%20Insight), Skill, [Careful Observation Improvement](../../Browse/Features/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Ventriloquist](../../Browse/Features/Shadow/7th-Level%20Features/Ventriloquist)                                              | Signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | [Gloom Squad](../../Browse/Features/Shadow/9th-Level%20Features/Gloom%20Squad), College Ability                                                                                                                                                                                                                                                                                                                         | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, [Death Pool](../../Browse/Features/Shadow/10th-Level%20Features/Death%20Pool), Perk, Skill, [Careful Observation Improvement](../../Browse/Features/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Improved Umbral Form](../../Browse/Features/Shadow/10th-Level%20Features/Improved%20Umbral%20Form), Subterfuge            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
@@ -11822,7 +11822,7 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../../Browse/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../Browse/Movement/Teleport), you can use it as if you had spent an amount of insight equal to your Victories.
 
@@ -11832,11 +11832,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you one or two feature
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                                                                   |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                                                    |
-| Caustic Alchemy | [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                             |
+| College         | Feature                                                                                                                                                                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
 
@@ -11893,11 +11893,11 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
-Your [shadow](../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
+Your [shadow](../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
 
 ###### College Triggered Actions Table
 
@@ -12195,11 +12195,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 ###### 2nd-Level College Features Table
 
-| College         | Feature                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [Burning Ash](../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
-| Harlequin Mask  | Friend!                                                                                                                              |
+| College         | Feature                                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Burning Ash](../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
+| Caustic Alchemy | [Trained Assassin](../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
 
@@ -12457,11 +12457,11 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 ###### 5th-Level College Features Table
 
-| College         | Feature                                                                                                                                |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
-| Caustic Alchemy | [Volatile Reagents](../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
-| Harlequin Mask  | [Harlequin Gambit](../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
+| College         | Feature                                                                                                                                         |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Trail of Cinders](../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
 
 ##### Harlequin Gambit
 
@@ -12709,19 +12709,19 @@ Your [shadow](../../Browse/Classes/Shadow) college grants you a feature, as show
 
 ###### 8th-Level College Features Table
 
-| College         | Feature                                                                                                                    |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](../../Browse/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step) |
-| Caustic Alchemy | [Time Bomb](../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb)                         |
-| Harlequin Mask  | [Parkour](../../Browse/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour)           |
+| College         | Feature                                                                                                                             |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Cinder Step](../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step) |
+| Caustic Alchemy | [Time Bomb](../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb)                                  |
+| Harlequin Mask  | [Parkour](../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour)           |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport). When you [teleport](../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../Browse/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash) and [Trail of Cinders](../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) features.
+Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport). When you [teleport](../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash) and [Trail of Cinders](../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../Browse/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 
@@ -12810,7 +12810,7 @@ As a 9th-level [shadow](../../Browse/Classes/Shadow), you gain the following fea
 
 #### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, the [Umbral Form](../../Browse/Shadow/6th-Level%20Features/Umbral%20Form) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). While making a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, the [Umbral Form](../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). While making a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -12952,9 +12952,9 @@ You can target three creatures simultaneously with your [Careful Observation](..
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](../../Browse/Classes/Shadow) creature you become with your [Umbral Form](../../Browse/Shadow/6th-Level%20Features/Umbral%20Form) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../../Browse/Classes/Shadow) creature you become with your [Umbral Form](../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../../Browse/Shadow/6th-Level%20Features/Umbral%20Form), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
@@ -12999,18 +12999,18 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ###### Tactician Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Abilities      | Doctrine Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | [Tactical Doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine), Focus, Doctrine Feature, [Doctrine Triggered Action](../../Browse/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action), [Field Arsenal](../../Browse/Tactician/1st-Level%20Features/Field%20Arsenal), Mark, [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now), [Tactician](../../Browse/Classes/Tactician) Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5           | 5                  |
-| 3rd   | [Out of Position](../../Browse/Tactician/3rd-Level%20Features/Out%20of%20Position), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, [Improved Field Arsenal](../../Browse/Tactician/4th-Level%20Features/Improved%20Field%20Arsenal), Perk, Skill                                                                                                                                                                                                                                                                                                                                                                                | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 3, 5, 7, 9     | 5                  |
-| 6th   | [Master of Arms](../../Browse/Tactician/6th-Level%20Features/Master%20of%20Arms), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                       | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, [Heightened Focus](../../Browse/Tactician/7th-Level%20Features/Heightened%20Focus), [Seize the Initiative](../../Browse/Tactician/7th-Level%20Features/Seize%20the%20Initiative), Skill, Doctrine Feature                                                                                                                                                                                                                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | [Grandmaster of Arms](../../Browse/Tactician/9th-Level%20Features/Grandmaster%20of%20Arms), Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                   | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, [True Focus](../../Browse/Tactician/10th-Level%20Features/True%20Focus), Warmaster                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Abilities      | Doctrine Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ------------------ |
+| 1st   | [Tactical Doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine), Focus, Doctrine Feature, [Doctrine Triggered Action](../../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action), [Field Arsenal](../../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal), Mark, [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now), [Tactician](../../Browse/Classes/Tactician) Abilities | 3, 5           | -                  |
+| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 3, 5           | 5                  |
+| 3rd   | [Out of Position](../../Browse/Features/Tactician/3rd-Level%20Features/Out%20of%20Position), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Focus on Their Weakness, [Improved Field Arsenal](../../Browse/Features/Tactician/4th-Level%20Features/Improved%20Field%20Arsenal), Perk, Skill                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 3, 5, 7, 9     | 5                  |
+| 6th   | [Master of Arms](../../Browse/Features/Tactician/6th-Level%20Features/Master%20of%20Arms), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, [Heightened Focus](../../Browse/Features/Tactician/7th-Level%20Features/Heightened%20Focus), [Seize the Initiative](../../Browse/Features/Tactician/7th-Level%20Features/Seize%20the%20Initiative), Skill, Doctrine Feature                                                                                                                                                                                                                                                                                               | 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | [Grandmaster of Arms](../../Browse/Features/Tactician/9th-Level%20Features/Grandmaster%20of%20Arms), Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Command, Perk, Skill, [True Focus](../../Browse/Features/Tactician/10th-Level%20Features/True%20Focus), Warmaster                                                                                                                                                                                                                                                                                                                                                                                                                                | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -13018,13 +13018,13 @@ As a 1st-level [tactician](../../Browse/Classes/Tactician), you gain the followi
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
 - **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
 #### Focus
 
@@ -13051,15 +13051,15 @@ When you use an ability outside of combat that lets you spend unlimited focus on
 
 #### 1st-Level Doctrine Feature
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
-| Mastermind | [Studied Commander](../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
-| Vanguard   | [Commanding Presence](../../Browse/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
+| Doctrine   | Feature                                                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Covert Operations](../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations)     |
+| Mastermind | [Studied Commander](../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander)     |
+| Vanguard   | [Commanding Presence](../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence) |
 
 ##### Commanding Presence
 
@@ -13091,7 +13091,7 @@ You can make this test only once for any encounter or negotiation.
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../Browse/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action) table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action) table.
 
 ###### Doctrine Triggered Actions Table
 
@@ -13163,7 +13163,7 @@ For example, if you take the [Shining Armor](../../Browse/Kits/Shining%20Armor) 
 - [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-[Kit signature abilities](../../Browse/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
+[Kit signature abilities](../../Browse/Features/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -13180,7 +13180,7 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../Browse/Classes/Tactician) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../../Browse/Classes/Tactician) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine)'s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
@@ -13214,7 +13214,7 @@ You are a formidable combatant in your own right, but your greatest strength is 
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../../Browse/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
 
 ##### Heroic Abilities
 
@@ -13352,15 +13352,15 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | [Infiltration Tactics](../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics) |
-| Mastermind | [Goaded](../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded)                               |
-| Vanguard   | [Melee Superiority](../../Browse/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority)       |
+| Doctrine   | Feature                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Infiltration Tactics](../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics) |
+| Mastermind | [Goaded](../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded)                               |
+| Vanguard   | [Melee Superiority](../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority)       |
 
 ##### Goaded
 
@@ -13378,7 +13378,7 @@ After constant drills, you can more accurately anticipate an enemy's plan and th
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 
@@ -13568,15 +13568,15 @@ As a 5th-level [tactician](../../Browse/Classes/Tactician), you gain the followi
 
 #### 5th-Level Doctrine Features
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you two features, as shown on the 5th-Level Doctrine Features table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table
 
-| Doctrine   | Features                                                                                                                                                                                                                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | Distracted, [Leave No Trace](../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)                                                                                                                                |
-| Mastermind | Anticipation, [I Predicted That](../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)                                                                                                                          |
-| Vanguard   | [Shake It Off](../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off), [Tactical Offensive](../../Browse/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive) |
+| Doctrine   | Features                                                                                                                                                                                                                                                                                             |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | Distracted, [Leave No Trace](../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace)                                                                                                                                         |
+| Mastermind | Anticipation, [I Predicted That](../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That)                                                                                                                                   |
+| Vanguard   | [Shake It Off](../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off), [Tactical Offensive](../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive) |
 
 ##### Anticipation
 
@@ -13670,7 +13670,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Doctrine Ability
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Insurgent Abilities
 
@@ -13796,15 +13796,15 @@ You gain one skill of your choice.
 
 #### 7th-Level Doctrine Feature
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                      |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](../../Browse/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20Warfare) |
-| Mastermind | [Grand Strategy](../../Browse/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20Strategy)         |
-| Vanguard   | [Shock and Awe](../../Browse/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20Awe)         |
+| Doctrine   | Feature                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Asymmetric Warfare](../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20Warfare) |
+| Mastermind | [Grand Strategy](../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20Strategy)         |
+| Vanguard   | [Shock and Awe](../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20Awe)         |
 
 ##### Asymmetric Warfare
 
@@ -13828,15 +13828,15 @@ You gain one perk of your choice.
 
 #### 8th-Level Doctrine Feature
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | [Bait and Ambush](../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush)                                             |
-| Mastermind | [Pincer Movement](../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20Movement)                                               |
-| Vanguard   | [See Your Enemies Driven Before You](../../Browse/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You) |
+| Doctrine   | Feature                                                                                                                                                                                       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Bait and Ambush](../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush)                                             |
+| Mastermind | [Pincer Movement](../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20Movement)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](../../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You) |
 
 ##### Bait and Ambush
 
@@ -13922,7 +13922,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 
@@ -14093,18 +14093,18 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ###### Talent Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                     | Tradition Abilities |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Talent](../../Browse/Classes/Talent) Tradition, [Clarity and Strain](../../Browse/Talent/1st-Level%20Features/Clarity%20and%20Strain), [Mind Spike](../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike), [Psionic Augmentation](../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation), [Talent](../../Browse/Classes/Talent) Ward, [Telepathic Speech](../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech), Tradition Features, [Talent](../../Browse/Classes/Talent) Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../../Browse/Talent/3rd-Level%20Features/Scan), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Mind Projection](../../Browse/Talent/4th-Level%20Features/Mind%20Projection), [Mind Recovery](../../Browse/Talent/4th-Level%20Features/Mind%20Recovery), Perk, Skill [Suspensor Field](../../Browse/Talent/4th-Level%20Features/Suspensor%20Field)                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Psi Boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../../Browse/Talent/7th-Level%20Features/Ancestral%20Memory), [Cascading Strain](../../Browse/Talent/7th-Level%20Features/Cascading%20Strain), Characteristic Increase, [Lucid Mind](../../Browse/Talent/7th-Level%20Features/Lucid%20Mind), Skill                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [Fortress of Perfect Thought](../../Browse/Talent/9th-Level%20Features/Fortress%20of%20Perfect%20Thought), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, [Clear Mind](../../Browse/Talent/10th-Level%20Features/Clear%20Mind), [Omnisensory](../../Browse/Talent/10th-Level%20Features/Omnisensory), Perk, Psion, Skill, Vision                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Abilities                     | Tradition Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Talent](../../Browse/Classes/Talent) Tradition, [Clarity and Strain](../../Browse/Features/Talent/1st-Level%20Features/Clarity%20and%20Strain), [Mind Spike](../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike), [Psionic Augmentation](../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation), [Talent](../../Browse/Classes/Talent) Ward, [Telepathic Speech](../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech), Tradition Features, [Talent](../../Browse/Classes/Talent) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5           | 5                   |
+| 3rd   | [Scan](../../Browse/Features/Talent/3rd-Level%20Features/Scan), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, [Mind Projection](../../Browse/Features/Talent/4th-Level%20Features/Mind%20Projection), [Mind Recovery](../../Browse/Features/Talent/4th-Level%20Features/Mind%20Recovery), Perk, Skill [Suspensor Field](../../Browse/Features/Talent/4th-Level%20Features/Suspensor%20Field)                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, [Psi Boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../../Browse/Features/Talent/7th-Level%20Features/Ancestral%20Memory), [Cascading Strain](../../Browse/Features/Talent/7th-Level%20Features/Cascading%20Strain), Characteristic Increase, [Lucid Mind](../../Browse/Features/Talent/7th-Level%20Features/Lucid%20Mind), Skill                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [Fortress of Perfect Thought](../../Browse/Features/Talent/9th-Level%20Features/Fortress%20of%20Perfect%20Thought), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, [Clear Mind](../../Browse/Features/Talent/10th-Level%20Features/Clear%20Mind), [Omnisensory](../../Browse/Features/Talent/10th-Level%20Features/Omnisensory), Perk, Psion, Skill, Vision                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -14143,7 +14143,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](../../Browse/Talent/1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../../Browse/Features/Talent/1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
@@ -14172,7 +14172,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../Browse/Classes/Talent) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
 
 ##### Battle Augmentation
 
@@ -14198,7 +14198,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../Browse/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20Ward).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../Browse/Features/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20Ward).)
 
 ##### Entropy Ward
 
@@ -14630,11 +14630,11 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you a feature, as sh
 
 ###### 2nd-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                               |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../Browse/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
+| Tradition   | Features                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Ease the Hours](../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
+| Telekinesis | [Ease Their Fall](../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
+| Telepathy   | [Ease the Mind](../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
 
 ##### Ease the Hours
 
@@ -14900,15 +14900,15 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as
 
 ###### 5th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                                                                 |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
-| Telekinesis | [Kinetic Amplifier](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
-| Telepathy   | [Compulsion](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../Browse/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
+| Tradition   | Features                                                                                                                                                                                                                                                                                                   |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Distortion Temporal](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
+| Telekinesis | [Kinetic Amplifier](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
+| Telepathy   | [Compulsion](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -14920,7 +14920,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
 
 ##### Speed of Thought
 
@@ -15014,7 +15014,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../Browse/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../Browse/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../Browse/Talent/6th-Level%20Features/Psi%20Boost).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost).
 
 ##### Dynamic Power (1 Clarity)
 
@@ -15210,11 +15210,11 @@ Your [talent](../../Browse/Classes/Talent) tradition grants you two features, as
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                        |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../Browse/Talent/8th-Level%20Features/Stasis%20Shield) |
-| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity) |
-| Telepathy   | [Mindlink](../../Browse/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../Browse/Talent/8th-Level%20Features/Universal%20Connection)           |
+| Tradition   | Features                                                                                                                                                                                                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../Browse/Features/Talent/8th-Level%20Features/Stasis%20Shield) |
+| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity)          |
+| Telepathy   | [Mindlink](../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../Browse/Features/Talent/8th-Level%20Features/Universal%20Connection)           |
 
 ##### Doubling the Hours
 
@@ -15243,7 +15243,7 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
 #### Stasis Shield
 
@@ -15266,7 +15266,7 @@ You have the following ability.
 
 #### Universal Connection
 
-The range of your [Telepathic Speech](../../Browse/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to anywhere on the same world.
 
 #### 11-Clarity Ability
 
@@ -15548,18 +15548,18 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ###### Troubadour Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Abilities                 | Class Act Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines), Class Act Features, [Class Act Triggered Action](../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action), [Troubadour](../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../../Browse/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, [Melodrama](../../Browse/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../Browse/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Spotlight](../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, [A Muse's Muse](../../Browse/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../Browse/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                                        | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | [Roar of the Crowd](../../Browse/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../Browse/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../Browse/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Abilities                 | Class Act Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | [Troubadour](../../Browse/Classes/Troubadour) Class Act, Drama, Kit, [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner), [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines), Class Act Features, [Class Act Triggered Action](../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action), [Troubadour](../../Browse/Classes/Troubadour) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses), Invocation, Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, [Melodrama](../../Browse/Features/Troubadour/4th-Level%20Features/Melodrama), Perk, Skill, [Zeitgeist](../../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist)                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, [Spotlight](../../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, [A Muse's Muse](../../Browse/Features/Troubadour/7th-Level%20Features/A%20Muses%20Muse), [Equal Billing](../../Browse/Features/Troubadour/7th-Level%20Features/Equal%20Billing), Skill                                                                                                                                                                                                                                                                                                 | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../../Browse/Features/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, [Dramaturgy](../../Browse/Features/Troubadour/10th-Level%20Features/Dramaturgy), [Greatest of All Time](../../Browse/Features/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time), Perk, Skill                                                                                                                                                                                                                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -15596,14 +15596,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../Browse/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of drama equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../Browse/Classes/Troubadour)**
 >
-> Abilities like Guest Star, [Missed Cue](../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -15655,15 +15655,15 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you two feat
 
 ###### 1st-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                                                                                                                                                            |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                  |
-| Duelist   | [Acrobatics](../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power)  |
-| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../Browse/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances) |
+| Class Act | Features                                                                                                                                                                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power) |
+| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## Acrobatics
@@ -15678,7 +15678,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## Blocking
@@ -15750,7 +15750,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## "Thunder Mother"
@@ -15782,7 +15782,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) table.
+Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) table.
 
 ###### Class Act Triggered Actions Table
 
@@ -16077,9 +16077,9 @@ The Director determines when the target receives your notice. When the target re
 
 ##### My Reputation Precedes Me
 
-You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
+You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature to find allies within the group.
 
 #### Perk
 
@@ -16189,11 +16189,11 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 
 ###### 3rd-Level Class Act Features Table
 
-| Class Act | Features                                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Missed Cue](../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
-| Duelist   | Foil                                                                                                                                 |
-| Virtuoso  | [Second Album](../../Browse/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
+| Class Act | Features                                                                                                                                      |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | [Missed Cue](../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
+| Duelist   | Foil                                                                                                                                          |
+| Virtuoso  | [Second Album](../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
 
 ##### Foil
 
@@ -16205,7 +16205,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## "Fire Up the Night"
@@ -16363,7 +16363,7 @@ Once on each of your turns, you can use a free maneuver to change one condition 
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## Take Two!
@@ -16386,7 +16386,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## We Can't Be Upstaged!
@@ -16409,7 +16409,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You can maintain two performances at a time using your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 #### 9-Drama Ability
 
@@ -16479,7 +16479,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## Spotlight
@@ -16598,7 +16598,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Equal Billing
 
-You can use your [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
+You can use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
 
 Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains temporary Stamina equal to your level.
 
@@ -16624,15 +16624,15 @@ Your [troubadour](../../Browse/Classes/Troubadour) class act grants you a featur
 
 ###### 8th-Level Class Act Features Table
 
-| Class Act | Feature                                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Deleted Scene](../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20Scene)     |
-| Duelist   | [Masterwork](../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Masterwork)             |
-| Virtuoso  | [Crowd Favorites](../../Browse/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20Favorites) |
+| Class Act | Feature                                                                                                                                             |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auteur    | [Deleted Scene](../../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20Scene)     |
+| Duelist   | [Masterwork](../../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Masterwork)             |
+| Virtuoso  | [Crowd Favorites](../../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20Favorites) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
 
 <!-- -->
 > ######## Moonlight Sonata
@@ -16664,7 +16664,7 @@ Whenever a creature within distance of your [Dramatic Monologue](../../Browse/Ab
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../Browse/Troubadour/4th-Level%20Features/Zeitgeist) feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 
@@ -16733,7 +16733,7 @@ As a 9th-level [troubadour](../../Browse/Classes/Troubadour), you gain the follo
 
 You are empowered by your audience, near and far. You can't be made [frightened](../../Browse/Conditions/Frightened), and if you are [prone](../../Browse/Conditions/Prone), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
@@ -16865,7 +16865,7 @@ Your Agility and Presence scores each increase to 5.
 
 #### Dramaturgy
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 #### Greatest of All Time
 
@@ -19087,7 +19087,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a [fury](../../Browse/Classes/Fury) with the stormwight [primordial aspect](../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect).
+**Special:** You can't take this complication if you are a [fury](../../Browse/Classes/Fury) with the stormwight [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect).
 
 #### Stolen Face
 
@@ -19540,7 +19540,7 @@ The rules for skills allow for them to be flexibly applied to any test that is a
 <!-- -->
 > **Edges on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../../Browse/Classes/Conduit)'s [Blessing of Fortunate Weather](../../Browse/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../../Browse/Classes/Conduit)'s [Blessing of Fortunate Weather](../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
 <!-- -->
 > **Are All Skills Equal?**
@@ -20036,7 +20036,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s [Hesitation Is Weakness](../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
@@ -20056,7 +20056,7 @@ The [Movement](#page-281-3) section below breaks down how your move action works
 
 Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury) hero can use the [Lines of Force](../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their [Hesitation Is Weakness](../../Browse/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -22374,7 +22374,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../../Browse/Kits/Warrior%20Priest) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s [Prayer of Soldier's Skill](../../Browse/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Soldiers%20Skill).
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../../Browse/Classes/Conduit)'s [Prayer of Soldier's Skill](../../Browse/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Soldiers%20Skill).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -24744,7 +24744,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > **Effect:** Each target can use the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/Classes/Tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) feature.
 
 #### Blood Magic
 
@@ -24912,7 +24912,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../../Browse/Classes/Shadow) college features [Coat the Blade](../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade) or [Smoke Bomb](../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -25046,7 +25046,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../Browse/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) from the [troubadour](../../Browse/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) from the [troubadour](../../Browse/Classes/Troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
 - *[Devil](../../Browse/Ancestries/Devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
@@ -26955,7 +26955,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../../Browse/Classes/Troubadour)'s [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../../Browse/Classes/Troubadour)'s [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 

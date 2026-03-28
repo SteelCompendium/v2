@@ -40,7 +40,7 @@ You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../../../../Browse/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../../../../Browse/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the null, but they might appear in future products.)
 
@@ -90,13 +90,13 @@ Your instincts for danger let you predict attacks before they happen.
 
 As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
-Some [Discipline Mastery](../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
 Whenever you use the [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can use the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
@@ -113,7 +113,7 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 
 Whenever you use your [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
@@ -130,7 +130,7 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 Whenever you use your [Inertial Shield](../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield) ability, you can then use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../../Browse/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
@@ -149,7 +149,7 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../../Browse/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation).)
 
 ##### Density Augmentation
 

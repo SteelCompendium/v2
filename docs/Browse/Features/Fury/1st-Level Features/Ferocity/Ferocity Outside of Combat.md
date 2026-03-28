@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Ferocity Outside of Combat
-file_dpath: Fury/1st-Level Features/Ferocity
+file_dpath: Features/Fury/1st-Level Features/Ferocity
 item_id: ferocity-outside-of-combat
 item_index: '01'
 item_name: Ferocity Outside of Combat
@@ -18,6 +18,6 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../../../../../Browse/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of ferocity equal to your Victories.

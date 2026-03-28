@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Primordial Cunning
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: primordial-cunning
 item_index: '03'
 item_name: Primordial Cunning
@@ -20,4 +20,4 @@ type: feature/subtrait/fury/1st-level-feature
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../../../Browse/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.

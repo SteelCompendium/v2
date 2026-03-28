@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 6th Level Aspect Ability
-file_dpath: Fury/6th-Level Features
+file_dpath: Features/Fury/6th-Level Features
 item_id: 6th-level-aspect-ability
 item_index: '04'
 item_name: 6th-Level Aspect Ability
@@ -18,7 +18,7 @@ type: feature/trait/fury/6th-level-feature
 
 #### 6th-Level Aspect Ability
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Berserker Abilities
 

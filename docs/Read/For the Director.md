@@ -647,7 +647,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../../Browse/Classes/Troubadour)'s [Scene Partner](../../Browse/Troubadour/1st-Level%20Features/Scene%20Partner) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../../Browse/Classes/Troubadour)'s [Scene Partner](../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 

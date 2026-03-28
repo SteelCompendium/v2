@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 2nd Level Aspect Feature
-file_dpath: Fury/2nd-Level Features
+file_dpath: Features/Fury/2nd-Level Features
 item_id: 2nd-level-aspect-feature
 item_index: '02'
 item_name: 2nd-Level Aspect Feature
@@ -18,15 +18,15 @@ type: feature/trait/fury/2nd-level-feature
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../../../../Browse/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
-| Aspect     | Feature                                                                                                                             |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
-| Reaver     | [Inescapable Wrath](../../../../../Browse/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
-| Stormwight | Tooth and Claw                                                                                                                      |
+| Aspect     | Feature                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | [Unstoppable Force](../../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
+| Reaver     | [Inescapable Wrath](../../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
+| Stormwight | Tooth and Claw                                                                                                                               |
 
 ##### Inescapable Wrath
 

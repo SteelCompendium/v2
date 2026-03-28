@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: College Triggered Action
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: college-triggered-action
 item_index: '03'
 item_name: College Triggered Action
@@ -18,7 +18,7 @@ type: feature/trait/shadow/1st-level-feature
 
 #### College Triggered Action
 
-Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../../Browse/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
+Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
 
 ###### College Triggered Actions Table
 

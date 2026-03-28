@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Tactician Abilities
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: tactician-abilities
 item_index: '02'
 item_name: Tactician Abilities
@@ -22,7 +22,7 @@ You are a formidable combatant in your own right, but your greatest strength is 
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../../../../../Browse/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../../../../../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal) feature grants you a signature ability. Signature abilities can be used at will.
 
 ##### Heroic Abilities
 

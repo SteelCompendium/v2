@@ -26,11 +26,11 @@ Your [censor](../../../../Browse/Classes/Censor) order grants you a feature, as 
 
 ###### 8th-Level Order Features Table
 
-| Order    | Feature                                                                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Exorcist | [Demonologist](../../../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
-| Oracle   | [Their Past Revealed](../../../../Browse/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
-| Paragon  | Vow                                                                                                                                        |
+| Order    | Feature                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exorcist | [Demonologist](../../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist)                   |
+| Oracle   | [Their Past Revealed](../../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed) |
+| Paragon  | Vow                                                                                                                                                 |
 
 ##### Demonologist
 
