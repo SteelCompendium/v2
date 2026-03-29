@@ -33,6 +33,7 @@ theme:
       - navigation.top
       - search.suggest
       - search.highlight
+      - navigation.instant
       - navigation.instant.preview
 
 # Extensions
