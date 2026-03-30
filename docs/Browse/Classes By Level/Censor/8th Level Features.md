@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 8th-Level Features
 
-As an 8th-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
+As an 8th-level [censor](../../../Browse/Classes/Censor.md#censor), you gain the following features.
 
 #### Perk
 
@@ -22,14 +22,14 @@ You gain one perk of your choice.
 
 #### 8th-Level Order Feature
 
-Your [censor](../../../Browse/Classes/Censor.md#cen-or) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../../Browse/Classes/Censor.md#censor) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
 | Order    | Feature                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md#demonologi-t)                   |
-| Oracle   | [Their Past Revealed](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md#theirpa-trevealed) |
+| Exorcist | [Demonologist](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md#demonologist)                   |
+| Oracle   | [Their Past Revealed](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md#their-past-revealed) |
 | Paragon  | [Vow](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md#vow)                                     |
 
 ##### Demonologist
@@ -110,8 +110,8 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 12 + P damage; I < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 5 + P damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 12 + P damage; I < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
-> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against a different creature must make the [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the target instead.
+> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a different creature must make the [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the target instead.

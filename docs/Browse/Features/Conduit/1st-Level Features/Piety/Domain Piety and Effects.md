@@ -49,7 +49,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) maneuver or an ability that targets an ally.
+- **[Piety](../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aid-attack) maneuver or an ability that targets an ally.
 - **[Prayer](../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
@@ -74,7 +74,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) or [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver.
+- **[Piety](../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aid-attack) or [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver.
 - **[Prayer](../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../../Browse/Classes/Conduit.md#conduit) level.
 
 ###### War Domain Piety and Effect

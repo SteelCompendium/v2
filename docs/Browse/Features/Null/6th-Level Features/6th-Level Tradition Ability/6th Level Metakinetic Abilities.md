@@ -35,7 +35,7 @@ Choose one of the following abilities.
 > - **12-16:** [Vertical](../../../../../Browse/Movement/Vertical.md#vertical) slide 7
 > - **17+:** [Vertical](../../../../../Browse/Movement/Vertical.md#vertical) slide 9
 >
-> **Effect:** This movement ignores [stability](../../../../../Browse/Movement/Stability.md#tability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+> **Effect:** This movement ignores [stability](../../../../../Browse/Movement/Stability.md#stability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
 
 <!-- -->
 > ###### Iron Body (9 Discipline)
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../../../Browse/Movement/Stability.md#tability) gains a bonus equal to your Intuition score.
+> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../../../Browse/Movement/Stability.md#stability) gains a bonus equal to your Intuition score.

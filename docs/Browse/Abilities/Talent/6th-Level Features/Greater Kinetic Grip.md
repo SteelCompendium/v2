@@ -42,4 +42,4 @@ type: feature/ability/talent/6th-level-feature
 - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../Browse/Movement/Vertical.md#vertical)
 - **17+:** Slide 12 + R; [prone](../../../../Browse/Conditions/Prone.md#prone); M < STRONG, the forced movement is [vertical](../../../../Browse/Movement/Vertical.md#vertical)
 
-**Strained:** The forced movement ignores [stability](../../../../Browse/Movement/Stability.md#tability). You take 2d6 damage and are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends).
+**Strained:** The forced movement ignores [stability](../../../../Browse/Movement/Stability.md#stability). You take 2d6 damage and are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends).

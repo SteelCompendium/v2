@@ -24,13 +24,13 @@ Your [talent](../../../Browse/Classes/Talent.md#talent) tradition grants you two
 
 | Tradition   | Features                                                                                                                                                                                                                                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md#di-tortiontemporal), [Speed of Thought](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md#peedofthought) |
-| Telekinesis | [Kinetic Amplifier](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md#kineticamplifier), [Triangulate](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md#triangulate)                   |
-| Telepathy   | [Compulsion](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md#compul-ion), [Remote Amplification](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md#remoteamplification)               |
+| Chronopathy | [Distortion Temporal](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md#distortion-temporal), [Speed of Thought](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md#speed-of-thought) |
+| Telekinesis | [Kinetic Amplifier](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md#kinetic-amplifier), [Triangulate](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md#triangulate)                   |
+| Telepathy   | [Compulsion](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md#compulsion), [Remote Amplification](../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md#remote-amplification)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -42,7 +42,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech) feature increases to 1 mile.
 
 ##### Speed of Thought
 
@@ -67,7 +67,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 >
-> **Strained:** The target gains 2 surges. You are [weakened](../../../Browse/Conditions/Weakened.md#weakened) and [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends).
+> **Strained:** The target gains 2 surges. You are [weakened](../../../Browse/Conditions/Weakened.md#weakened) and [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends).
 
 <!-- -->
 > ###### Hypersonic (9 Clarity)
@@ -86,7 +86,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > - **12-16:** 18 sonic damage
 > - **17+:** 24 sonic damage
 >
-> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../Browse/Conditions/Slowed.md#lowed) until the end of your turn and each target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) until the end of their turn.
+> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../Browse/Conditions/Slowed.md#slowed) until the end of your turn and each target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) until the end of their turn.
 
 <!-- -->
 > ###### Mind Snare (9 Clarity)
@@ -99,13 +99,13 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
-> **Effect:** While [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, the target takes 3 psychic damage for each square they willingly leave.
+> **Effect:** While [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
 >
-> **Strained:** While [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way.
+> **Strained:** While [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way.
 
 <!-- -->
 > ###### Soulbound (9 Clarity)

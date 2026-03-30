@@ -14,6 +14,6 @@ type: movement
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#digmaneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#dig-maneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#digmaneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow.md#burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed.md#grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#dig-maneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow.md#burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed.md#grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.

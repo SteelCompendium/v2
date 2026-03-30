@@ -22,7 +22,7 @@ type: title/2nd-echelon
 **Effect:** Choose one of the following benefits:
 
 - *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../../../Browse/Conditions/Prone.md#prone) creatures. Additionally, being [prone](../../../Browse/Conditions/Prone.md#prone) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed), you can use them as a weapon when you make a melee weapon [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). Both the target and the [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed) enemy take the strike's damage.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed), you can use them as a weapon when you make a melee weapon [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). Both the target and the [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -35,7 +35,7 @@ type: title/2nd-echelon
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 > - **12-16:** 10 damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 > - **17+:** 14 damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md#dazed) (save ends)
 >

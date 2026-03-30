@@ -39,4 +39,4 @@ type: feature/ability/null/6th-level-feature
 - **12-16:** [Vertical](../../../../Browse/Movement/Vertical.md#vertical) slide 7
 - **17+:** [Vertical](../../../../Browse/Movement/Vertical.md#vertical) slide 9
 
-**Effect:** This movement ignores [stability](../../../../Browse/Movement/Stability.md#tability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](../../../../Browse/Movement/Stability.md#stability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.

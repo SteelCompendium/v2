@@ -456,7 +456,7 @@ Here's how the negotiation with Zola might play out.
 
 **Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](../Browse/Ancestries/Human.md#human) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
-**James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#hadow)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](../Browse/Ancestries/Polder.md#polder) could ask for: Linn, Jorn, and Val."*
+**James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#shadow)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](../Browse/Ancestries/Polder.md#polder) could ask for: Linn, Jorn, and Val."*
 
 **Director:** *Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"*
 

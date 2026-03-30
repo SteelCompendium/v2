@@ -18,11 +18,11 @@ As a 9th-level [tactician](../../../Browse/Classes/Tactician.md#tactician), you 
 
 #### Grandmaster of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tactical-doctrine) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 
@@ -69,7 +69,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can make a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). A target ignores banes and double banes when making this strike.
+> **Effect:** Each target can make a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). A target ignores banes and double banes when making this strike.
 
 <!-- -->
 > ###### Counterstrategy (11 Focus)
@@ -122,4 +122,4 @@ Choose one of the following abilities.
 > - **12-16:** 13 + M damage
 > - **17+:** 17 + M damage
 >
-> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against any target marked by you.
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against any target marked by you.

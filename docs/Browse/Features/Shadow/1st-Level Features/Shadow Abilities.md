@@ -22,7 +22,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../Browse/Abilities/Shadow/1st-Level Features/Teamwork Has Its Place.md#teamworkha-it-place).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../Browse/Abilities/Shadow/1st-Level Features/Teamwork Has Its Place.md#teamwork-has-its-place).)
 
 <!-- -->
 > ###### Gasping in Pain
@@ -94,7 +94,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
 
 ###### 3-Insight Ability
 

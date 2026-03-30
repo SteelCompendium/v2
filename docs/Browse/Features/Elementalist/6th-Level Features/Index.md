@@ -7,7 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [New 9 Essence Ability](New 9 Essence Ability.md#new9e-enceability)
+- [New 9 Essence Ability](New 9 Essence Ability.md#new-9-essence-ability)
 - [Perk](Perk.md#perk)
 - [Wyrding](Wyrding.md#wyrding)
 

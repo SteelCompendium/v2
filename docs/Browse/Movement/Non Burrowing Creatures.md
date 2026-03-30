@@ -26,6 +26,6 @@ If a creature who can't [burrow](../../Browse/Movement/Burrow.md#burrow) wants t
 
 **Power Roll + Might:**
 
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#lowed) and [weakened](../../Browse/Conditions/Weakened.md#weakened) (EoT).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#lowed) (EoT).
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#slowed) and [weakened](../../Browse/Conditions/Weakened.md#weakened) (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#slowed) (EoT).
 - **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.

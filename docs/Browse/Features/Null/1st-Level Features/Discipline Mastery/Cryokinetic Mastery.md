@@ -18,13 +18,13 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-hield) ability, you can then use the [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokineticma-tery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) | Benefit                                                                                                                                                                                                                                                                       |
+| [Discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) | Benefit                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4                                                                                               | The first time on a turn that you [grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |

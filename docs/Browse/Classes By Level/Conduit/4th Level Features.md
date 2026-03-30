@@ -40,22 +40,22 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md#improvedhand-ofthemaker) |
-| Death      | [Seance](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md#eance)                                                   |
-| Fate       | [Oracular Warning](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md#oracularwarning)                             |
-| Knowledge  | [Saint's Epiphany](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md#aint-epiphany)                              |
-| Life       | [Blessing of Life](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md#ble-ingoflife)                           |
-| Love       | [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocationoftheheart)           |
-| Nature     | [Wode Road](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md#woderoad)                                           |
-| Protection | [Impervious Touch](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md#imperviou-touch)                             |
+| Creation   | [Improved Hands of the Maker](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md#improved-hands-of-the-maker) |
+| Death      | [Seance](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md#seance)                                                   |
+| Fate       | [Oracular Warning](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md#oracular-warning)                             |
+| Knowledge  | [Saint's Epiphany](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md#saints-epiphany)                              |
+| Life       | [Blessing of Life](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md#blessing-of-life)                           |
+| Love       | [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocation-of-the-heart)           |
+| Nature     | [Wode Road](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md#wode-road)                                           |
+| Protection | [Impervious Touch](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md#impervious-touch)                             |
 | Storm      | [Windwalk](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md#windwalk)                                               |
-| Sun        | [Light of Revelation](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md#lightofrevelation)                     |
-| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md#ble-ingof-ecret)                                                |
-| War        | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md#improved-anctifiedweapon)       |
+| Sun        | [Light of Revelation](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md#light-of-revelation)                     |
+| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md#blessing-of-secrets)                                                |
+| War        | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md#improved-sanctified-weapon)       |
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healinggrace) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
 
 ###### Blessing of Secrets
 
@@ -80,11 +80,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ###### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hand-ofthemaker) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#anctifiedweapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 

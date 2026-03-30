@@ -38,8 +38,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) until the end of the target's next turn.

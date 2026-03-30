@@ -36,8 +36,8 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-- **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-- **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+- **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+- **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 
 **Effect:** The area is difficult terrain for enemies.

@@ -18,15 +18,15 @@ type: feature/trait/tactician/8th-level-feature
 
 #### 8th-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tactical-doctrine) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Bait and Ambush](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Bait and Ambush.md#baitandambu-h)                                             |
-| Mastermind | [Pincer Movement](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Pincer Movement.md#pincermovement)                                               |
-| Vanguard   | [See Your Enemies Driven Before You](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/See Your Enemies Driven Before You.md#eeyourenemie-drivenbeforeyou) |
+| Insurgent  | [Bait and Ambush](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Bait and Ambush.md#bait-and-ambush)                                             |
+| Mastermind | [Pincer Movement](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Pincer Movement.md#pincer-movement)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](../../../../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/See Your Enemies Driven Before You.md#see-your-enemies-driven-before-you) |
 
 ##### Bait and Ambush
 

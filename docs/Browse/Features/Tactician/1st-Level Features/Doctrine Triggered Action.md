@@ -18,13 +18,13 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Features/Tactician/1st-Level Features/Doctrine Triggered Action.md#doctrinetriggeredaction) table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tactical-doctrine) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Features/Tactician/1st-Level Features/Doctrine Triggered Action.md#doctrine-triggered-action) table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Advanced Tactics](../../../../Browse/Abilities/Tactician/1st-Level Features/Advanced Tactics.md#advancedtactic) |
+| Insurgent  | [Advanced Tactics](../../../../Browse/Abilities/Tactician/1st-Level Features/Advanced Tactics.md#advanced-tactics) |
 | Mastermind | [Overwatch](../../../../Browse/Abilities/Tactician/1st-Level Features/Overwatch.md#overwatch)                 |
 | Vanguard   | [Parry](../../../../Browse/Abilities/Tactician/1st-Level Features/Parry.md#parry)                         |
 
@@ -54,9 +54,9 @@ Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Feature
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them.
 >
-> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT).
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT).
 
 <!-- -->
 > ###### Parry

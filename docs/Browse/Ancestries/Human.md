@@ -24,7 +24,7 @@ So, we arrive here at the end of your first semester of [Human](../../Browse/Anc
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../../Browse/Ancestries/Human.md#human)?
 
-I am a [high elf](../../Browse/Ancestries/High Elf.md#highelf), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../../Browse/Ancestries/Human.md#human), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](../../Browse/Ancestries/High Elf.md#high-elf), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../../Browse/Ancestries/Human.md#human), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](../../Browse/Ancestries/Human.md#human)? Well, I will tell you.
 
@@ -50,7 +50,7 @@ Those great [humans](../../Browse/Ancestries/Human.md#human), your ancestors, di
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../../Browse/Classes/Conduit.md#conduit) of saints, warmasters of great armies. [Censors](../../Browse/Classes/Censor.md#cen-or) and [shadows](../../Browse/Classes/Shadow.md#hadow). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../../Browse/Classes/Conduit.md#conduit) of saints, warmasters of great armies. [Censors](../../Browse/Classes/Censor.md#censor) and [shadows](../../Browse/Classes/Shadow.md#shadow). That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
@@ -72,11 +72,11 @@ Your connection to the natural world allows you to resist certain supernatural e
 
 ##### Determination (2 Points)
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../Browse/Conditions/Frightened.md#frightened), [slowed](../../Browse/Conditions/Slowed.md#lowed), or [weakened](../../Browse/Conditions/Weakened.md#weakened), you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../Browse/Conditions/Frightened.md#frightened), [slowed](../../Browse/Conditions/Slowed.md#slowed), or [weakened](../../Browse/Conditions/Weakened.md#weakened), you can use a maneuver to immediately end one of those conditions.
 
 ##### Perseverance (1 Point)
 
-Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are [slowed](../../Browse/Conditions/Slowed.md#lowed), your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are [slowed](../../Browse/Conditions/Slowed.md#slowed), your speed is reduced to 3 instead of 2.
 
 ##### Resist the Unnatural (1 Point)
 

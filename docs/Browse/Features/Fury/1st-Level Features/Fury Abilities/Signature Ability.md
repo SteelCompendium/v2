@@ -18,7 +18,7 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../Browse/Abilities/Fury/1st-Level Features/To the Death.md#tothedeath)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../Browse/Abilities/Fury/1st-Level Features/To the Death.md#to-the-death)!)
 
 <!-- -->
 > ###### Brutal Slam
@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
 > **Effect:** You can shift 1 square.
 

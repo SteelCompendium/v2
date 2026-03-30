@@ -18,9 +18,9 @@ A creature who has "burrow" in their speed entry, or who gains the temporary abi
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#digmaneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#dig-maneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#digmaneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow.md#burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed.md#grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](../../Browse/Movement/Dig Maneuver.md#dig-maneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow.md#burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed.md#grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
@@ -46,8 +46,8 @@ If a creature who can't [burrow](../../Browse/Movement/Burrow.md#burrow) wants t
 
 **Power Roll + Might:**
 
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#lowed) and [weakened](../../Browse/Conditions/Weakened.md#weakened) (EoT).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#lowed) (EoT).
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#slowed) and [weakened](../../Browse/Conditions/Weakened.md#weakened) (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md#slowed) (EoT).
 - **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
 
 ###### Burrowing Forced Movement

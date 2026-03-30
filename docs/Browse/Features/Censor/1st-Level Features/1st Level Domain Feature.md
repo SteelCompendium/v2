@@ -18,24 +18,24 @@ type: feature/trait/censor/1st-level-feature
 
 #### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../../../Browse/Classes/Censor.md#cen-or) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../../../Browse/Classes/Censor.md#censor) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                    | Skill Group   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hand-ofthemaker)                                                  | Crafting      |
-| Death      | [Grave Speech](../../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-peech)                                                                  | Lore          |
-| Fate       | [Oracular Visions](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracularvi-ion)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#ble-ingofcomprehen-ion)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizingritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#ble-ingofcompa-ion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithfulfriend)                                                            | Exploration   |
-| Protection | [Protective Circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) | Exploration   |
-| Sun        | [Inner Light](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md#innerlight)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#in-pireddeception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#anctifiedweapon)                             | Exploration   |
+| Creation   | [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker)                                                  | Crafting      |
+| Death      | [Grave Speech](../../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-speech)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithful-friend)                                                            | Exploration   |
+| Protection | [Protective Circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
+| Sun        | [Inner Light](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -120,7 +120,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 

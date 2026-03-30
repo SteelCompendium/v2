@@ -235,7 +235,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial Artist.md#martialarti-t) or [Sniper](../Browse/Kits/Sniper.md#niper) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md#elementali-t) and [nulls](../Browse/Classes/Null.md#null), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial Artist.md#martial-artist) or [Sniper](../Browse/Kits/Sniper.md#sniper) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md#elementalist) and [nulls](../Browse/Classes/Null.md#null), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -382,7 +382,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 On your turn, you can [teleport](../Browse/Movement/Teleport.md#teleport) to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to [teleport](../Browse/Movement/Teleport.md#teleport) to your imprint, and the power roll for the ability is an automatic tier 1 result.
 
-**Unbending:** You can't be subjected to forced movement unless you choose to be. Effects that ignore [Stability](../Browse/Movement/Stability.md#tability) also ignore this enhancement.
+**Unbending:** You can't be subjected to forced movement unless you choose to be. Effects that ignore [Stability](../Browse/Movement/Stability.md#stability) also ignore this enhancement.
 
 ###### 9th-Level Armor Enhancements Table
 
@@ -403,7 +403,7 @@ On your turn, you can [teleport](../Browse/Movement/Teleport.md#teleport) to the
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
-An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](../Browse/Classes/Censor.md#cen-or), [conduits](../Browse/Classes/Conduit.md#conduit), [elementalists](../Browse/Classes/Elementalist.md#elementali-t), [nulls](../Browse/Classes/Null.md#null), [talents](../Browse/Classes/Talent.md#talent), and [troubadours](../Browse/Classes/Troubadour.md#troubadour) benefit from using implements more than the other [classes](../Chapters/Classes.md#cla-e) in this book.
+An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1st-level enhancement, it grants your magic or psionic abilities that deal rolled damage a +1 damage bonus. A 5th-level enhancement increases the bonus to +2, and a 9th-level enhancement increases it to +3. [Censors](../Browse/Classes/Censor.md#censor), [conduits](../Browse/Classes/Conduit.md#conduit), [elementalists](../Browse/Classes/Elementalist.md#elementalist), [nulls](../Browse/Classes/Null.md#null), [talents](../Browse/Classes/Talent.md#talent), and [troubadours](../Browse/Classes/Troubadour.md#troubadour) benefit from using implements more than the other [classes](../Chapters/Classes.md#classes) in this book.
 
 ###### 1st-Level Implement Enhancement
 
@@ -423,7 +423,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -457,7 +457,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
+**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../Browse/Movement/Hover.md#hover) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
@@ -499,7 +499,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md#weakened) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md#weakened) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them.
+**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md#weakened) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md#weakened) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them.
 
 **Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../Browse/Movement/Teleport.md#teleport) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
@@ -537,7 +537,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial Artist.md#martialarti-t) and [Pugilist](../Browse/Kits/Pugilist.md#pugili-t) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md#elementali-t) and [nulls](../Browse/Classes/Null.md#null), can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial Artist.md#martial-artist) and [Pugilist](../Browse/Kits/Pugilist.md#pugilist) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md#elementalist) and [nulls](../Browse/Classes/Null.md#null), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -555,7 +555,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 Stamina or less, they drop to 0 Stamina.
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../Browse/Conditions/Grabbed.md#grabbed) or [restrained](../Browse/Conditions/Restrained.md#re-trained) conditions.
+**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../Browse/Conditions/Grabbed.md#grabbed) or [restrained](../Browse/Conditions/Restrained.md#restrained) conditions.
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 Stamina using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 Stamina.
 
@@ -606,7 +606,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Effect:** The target takes 5 damage.
 >
-> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends). This replaces the benefit of Chilling I.
+> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](../Browse/Conditions/Slowed.md#slowed) (save ends). This replaces the benefit of Chilling I.
 >
 > **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
 >
@@ -650,13 +650,13 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Goal:** 150
 
-**Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends). This replaces the benefit of Chilling II.
+**Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is [slowed](../Browse/Conditions/Slowed.md#slowed) (save ends). This replaces the benefit of Chilling II.
 
 **Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 Stamina or less, they immediately drop to 0 Stamina. If you instead leave the undead with 100 Stamina or less, they are [frightened](../Browse/Conditions/Frightened.md#frightened) (save ends). This replaces the benefit of Disrupting II.
 
 **Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md#weakened) (save ends). Each time you weaken a creature with this weapon, you gain 1 surge.
 
-**Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../Browse/Conditions/Restrained.md#re-trained) (save ends). While [restrained](../Browse/Conditions/Restrained.md#re-trained) in this way, the creature can't use magic or psionic abilities.
+**Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../Browse/Conditions/Restrained.md#restrained) (save ends). While [restrained](../Browse/Conditions/Restrained.md#restrained) in this way, the creature can't use magic or psionic abilities.
 
 **Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
 
@@ -681,7 +681,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../Browse/Conditions/Grabbed.md#grabbed) or [restrained](../Browse/Conditions/Restrained.md#re-trained), each target in the area is instead [slowed](../Browse/Conditions/Slowed.md#lowed) until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../Browse/Conditions/Grabbed.md#grabbed) or [restrained](../Browse/Conditions/Restrained.md#restrained), each target in the area is instead [slowed](../Browse/Conditions/Slowed.md#slowed) until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 
@@ -881,7 +881,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 
 ##### Acquire Ability
 
-You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md#tactician), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md#trikenow) ability instead. You can't gain this benefit again for the same class.
+You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md#tactician), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md#strike-now) ability instead. You can't gain this benefit again for the same class.
 
 ##### Hone Ability
 

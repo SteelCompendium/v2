@@ -18,16 +18,16 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#pecializationtriggeredaction) table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#specialization-triggered-action) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization | Triggered Action                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md#kinlikeca-tlewall)       |
-| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md#explo-ivea-i-tance)               |
-| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md#breathofdawnremembered) |
-| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md#ubtlerelocation)                     |
+| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md#skin-like-castle-walls)       |
+| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md#explosive-assistance)               |
+| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md#breath-of-dawn-remembered) |
+| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md#subtle-relocation)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered

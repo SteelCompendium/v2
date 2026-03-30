@@ -22,7 +22,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#ble-edlight), [Staggering Curse](../../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#taggeringcur-e).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#blessed-light), [Staggering Curse](../../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#staggering-curse).)
 
 <!-- -->
 > ###### Blessed Light
@@ -177,7 +177,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../Browse/Movement/Stability.md#tability).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../Browse/Movement/Stability.md#stability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)

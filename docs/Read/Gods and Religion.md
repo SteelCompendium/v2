@@ -48,18 +48,18 @@ The most popular saints and heroes can have several churches meaning distinct or
 
 Usually, these churches recognize each other as expressing different, equally valid teachings of the same saint, but occasionally churches compete to see which among them is the "true" church. The saints don't discourage this, so they must, in some sense, approve.
 
-There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds—tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, [censors](../Browse/Classes/Censor.md#cen-or) and [conduits](../Browse/Classes/Conduit.md#conduit). It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has [conduits](../Browse/Classes/Conduit.md#conduit) who heal the sick and tend to the souls of their people.
+There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds—tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, [censors](../Browse/Classes/Censor.md#censor) and [conduits](../Browse/Classes/Conduit.md#conduit). It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has [conduits](../Browse/Classes/Conduit.md#conduit) who heal the sick and tend to the souls of their people.
 
 <!-- -->
 > **How To Use This Chapter**
 >
 > *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor—and for some people, not a very important one.
 >
-> Obviously, [conduit](../Browse/Classes/Conduit.md#conduit) and [censor](../Browse/Classes/Censor.md#cen-or) players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
+> Obviously, [conduit](../Browse/Classes/Conduit.md#conduit) and [censor](../Browse/Classes/Censor.md#censor) players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
 >
 > But any player might wonder, "Does my character follow the teachings of any saint or god?" Think about the people you know in the real world who wear religious or quasi-religious talismans every day. A symbol on a necklace, a sticker on their car, a tattoo. Normal people often carry religious talismans, your character in *Draw Steel* might not be particularly religious, but they might still carry a religious talisman just because it's a family tradition or to remind themselves of the religious instruction they received in church as a child.
 >
-> We wrote a lot of words in this chapter because we wanted to give characters from all [ancestries](../Chapters/Ancestries.md#ance-trie) a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
+> We wrote a lot of words in this chapter because we wanted to give characters from all [ancestries](../Chapters/Ancestries.md#ancestries) a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
 
 ### Interspecies Worship
 
@@ -107,17 +107,17 @@ Some people in Orden, like the [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) a
 
 ### Conduits and Censors
 
-"[Conduit](../Browse/Classes/Conduit.md#conduit)" and "[censor](../Browse/Classes/Censor.md#cen-or)" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a [conduit](../Browse/Classes/Conduit.md#conduit) or a [censor](../Browse/Classes/Censor.md#cen-or). [Conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#cen-or) are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#cen-or) are given access to powerful prayers.
+"[Conduit](../Browse/Classes/Conduit.md#conduit)" and "[censor](../Browse/Classes/Censor.md#censor)" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a [conduit](../Browse/Classes/Conduit.md#conduit) or a [censor](../Browse/Classes/Censor.md#censor). [Conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#censor) are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#censor) are given access to powerful prayers.
 
-Any sufficiently large organization has [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#cen-or) just like they have [shadows](../Browse/Classes/Shadow.md#hadow) and wizards. The thieves' guild needs healers, just as the church needs spies! A [conduit](../Browse/Classes/Conduit.md#conduit) who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
+Any sufficiently large organization has [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#censor) just like they have [shadows](../Browse/Classes/Shadow.md#shadow) and wizards. The thieves' guild needs healers, just as the church needs spies! A [conduit](../Browse/Classes/Conduit.md#conduit) who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
-Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are [conduits](../Browse/Classes/Conduit.md#conduit), many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#cen-or).
+Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are [conduits](../Browse/Classes/Conduit.md#conduit), many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor).
 
 The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or saint. Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
 
-Should the acolyte continue in their studies and deeds and earn the rank of [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#cen-or), they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the [conduit](../Browse/Classes/Conduit.md#conduit) learns the... mood, for lack of a better term, of their saint or hero.
+Should the acolyte continue in their studies and deeds and earn the rank of [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor), they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the [conduit](../Browse/Classes/Conduit.md#conduit) learns the... mood, for lack of a better term, of their saint or hero.
 
-As they gain experience, a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#cen-or) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../Browse/Classes/Conduit.md#conduit) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#cen-or) to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
+As they gain experience, a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../Browse/Classes/Conduit.md#conduit) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
 
 The Deities and Domains table and the Saints and Domains table summarize each of the gods and saints mentioned in this chapter and their available domains.
 
@@ -181,7 +181,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
-The [high elf](../Browse/Ancestries/High Elf.md#highelf) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode Elf.md#wodeelf) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
+The [high elf](../Browse/Ancestries/High Elf.md#high-elf) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode Elf.md#wode-elf) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
 ##### A Sea of Suns
 
@@ -219,7 +219,7 @@ In the end, her efforts failed, and the elder dragons live no more in this world
 
 Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnessed the Composer's first song, and took it upon themselves to communicate with and care for the speaking creatures A Sea of Suns created. The dryads, elgenwights, the giant birds and intelligent fish who populated the ancient wode that once covered all Orden, all came under the Beast Heart's care. Dyrvis learned their speech and taught them who they were.
 
-To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf) for protection.
+To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf) for protection.
 
 ##### Thyll Hylacae
 
@@ -233,7 +233,7 @@ Though she was mighty in warlore, she could not be everywhere. In the end, she s
 
 **Domains:** Nature, Protection
 
-Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When [humans](../Browse/Ancestries/Human.md#human) first arrived in Orden—it is said—they were welcomed by the other speaking peoples. But they were unlike the other creations in the world. While the [dwarves](../Browse/Ancestries/Dwarf.md#dwarf) cut rock for the ore within, [humans](../Browse/Ancestries/Human.md#human) cut down trees simply because they were in the way. Other [ancestries](../Chapters/Ancestries.md#ance-trie) had their own territories and homelands, but [humans](../Browse/Ancestries/Human.md#human) sought constant expansion into even the most inhospitable territories.
+Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When [humans](../Browse/Ancestries/Human.md#human) first arrived in Orden—it is said—they were welcomed by the other speaking peoples. But they were unlike the other creations in the world. While the [dwarves](../Browse/Ancestries/Dwarf.md#dwarf) cut rock for the ore within, [humans](../Browse/Ancestries/Human.md#human) cut down trees simply because they were in the way. Other [ancestries](../Chapters/Ancestries.md#ancestries) had their own territories and homelands, but [humans](../Browse/Ancestries/Human.md#human) sought constant expansion into even the most inhospitable territories.
 
 Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the [humans](../Browse/Ancestries/Human.md#human) who would kill the wode.
 
@@ -361,7 +361,7 @@ His army watched as Kul's light descended on their wounded leader, and they knew
 
 Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an [orc](../Browse/Ancestries/Orc.md#orc) be pierced by many arrows, they should still be able to perform one last act of revenge."
 
-Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. [Censors](../Browse/Classes/Censor.md#cen-or) of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
+Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. [Censors](../Browse/Classes/Censor.md#censor) of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
 
 ##### Khravila Who Ran Forty Leagues
 
@@ -385,11 +385,11 @@ Khravila teaches the virtue of persistence, endurance, and—above all—wits. N
 
 Most [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) in Orden are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the [Hakaan](../Browse/Ancestries/Hakaan.md#hakaan) do not create churches or formal belief systems around this attitude.
 
-Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) revere. They have no organized religion in the way the other [ancestries](../Chapters/Ancestries.md#ance-trie) in this chapter do, though a [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
+Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) revere. They have no organized religion in the way the other [ancestries](../Chapters/Ancestries.md#ancestries) in this chapter do, though a [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
 
 The [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
 
-[Hakaan](../Browse/Ancestries/Hakaan.md#hakaan) [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#cen-or) venerate [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) heroes, and their own ancestors who watch from above.
+[Hakaan](../Browse/Ancestries/Hakaan.md#hakaan) [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#censor) venerate [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) heroes, and their own ancestors who watch from above.
 
 ##### Mahsiti the Weaver
 
@@ -463,7 +463,7 @@ Like the other gods of the timescape, the Lords of Hell are too busy to attend t
 
 #### Saints of Hell
 
-Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#cen-or) to follow.
+Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) to follow.
 
 #### Thellasko the Great Designer
 
@@ -557,7 +557,7 @@ Adûn and Cavall are brothers and the line between them is not a sharply defined
 
 **Domains:** Love, Protection
 
-Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret [censor](../Browse/Classes/Censor.md#cen-or) of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
+Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret [censor](../Browse/Classes/Censor.md#censor) of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
 
 Kaveran sought to consolidate his rule by extinguishing the church of Saint Anthony, Shield of the North specifically, and worship of Adûn generally. In this, he almost succeeded. Gaed's monastery was small, his province obscure. But as he refused to renounce his faith, his monastery attracted more and more refugees, making it harder and harder for Kaveran to deal with him without causing a revolt.
 
@@ -603,7 +603,7 @@ Cavall believes that mortals cannot live where injustice thrives. To followers o
 
 A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a small town may be welcome on the town council, but would consider passing judgment on a fellow citizen a breach of duty. The maxim of the church of Saint Gwiddon the Vigilant translates as: "To watch, report, but not to judge." The law, Cavall says, belongs to mortals.
 
-[Censors](../Browse/Classes/Censor.md#cen-or) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
+[Censors](../Browse/Classes/Censor.md#censor) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
 
 Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
@@ -707,13 +707,13 @@ A wheel that harnesses the power of the river is a beautiful thing. [Humans](../
 
 Some of Salorna's priests are [conduits](../Browse/Classes/Conduit.md#conduit); some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of Vasloria is covered in elven forest, Salorna's druids are also often diplomats to the elves.
 
-Salorna has few [censors](../Browse/Classes/Censor.md#cen-or), but not none! Favoring light armor and ranged weapons, her [censors](../Browse/Classes/Censor.md#cen-or) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
+Salorna has few [censors](../Browse/Classes/Censor.md#censor), but not none! Favoring light armor and ranged weapons, her [censors](../Browse/Classes/Censor.md#censor) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 
 ##### Draighen the Warden
 
 **Domains:** Nature, Sun
 
-Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf) had not seen in many ages of the world.
+Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf) had not seen in many ages of the world.
 
 The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [dwarves](../Browse/Ancestries/Dwarf.md#dwarf)?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [human](../Browse/Ancestries/Human.md#human) who took their problems as her own.
 
@@ -789,7 +789,7 @@ Though he and Cyrvis are brothers, Nikros hates Cyrvis because Cyrvis is feeble 
 
 Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate followers of Nikros, while sometimes secretly admiring them. Bullies always have their sycophants.
 
-Nikros's [censors](../Browse/Classes/Censor.md#cen-or) take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
+Nikros's [censors](../Browse/Classes/Censor.md#censor) take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
 
 ##### Pentalion the Paladin
 
@@ -851,13 +851,13 @@ Only a handful of those who dwell on Orden have ever heard of these figures, or 
 
 #### Lords of Law and Chaos
 
-The Space Gods do not concern themselves overmuch with what [humans](../Browse/Ancestries/Human.md#human) call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs [stability](../Browse/Movement/Stability.md#tability), predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
+The Space Gods do not concern themselves overmuch with what [humans](../Browse/Ancestries/Human.md#human) call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs [stability](../Browse/Movement/Stability.md#stability), predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
 
 #### Heralds of the Space Gods
 
 Whether it is a tradition or some real limitation, each Space God has, instead of saints, a single herald—a mortal chosen to be the voice of the Space God and communicate with their worshippers where the god themself cannot due to their alien mind.
 
-These heralds function much the same way as saints. They grant [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#cen-or) power in battle, but without the moral expectations of Orden's gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their followers and take an active interest in the mortal affairs of the timescape.
+These heralds function much the same way as saints. They grant [conduits](../Browse/Classes/Conduit.md#conduit) and [censors](../Browse/Classes/Censor.md#censor) power in battle, but without the moral expectations of Orden's gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their followers and take an active interest in the mortal affairs of the timescape.
 
 #### Religion in the Timescape
 
@@ -923,9 +923,9 @@ OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masc
 
 Lost ships sometimes find their navigation systems lighting up, a clear path home suddenly visible where no such path was possible before. OV aids those who are lost regardless of their affiliation with law or chaos, and is one of the Lords of Balance. His herald works to stop conflicts by guiding ships around and past routes that might cause them to intercept hostile entities.
 
-OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time Raider.md#timeraider), though none would call him or any other being their "god."
+OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time Raider.md#time-raider), though none would call him or any other being their "god."
 
-When a [time raider](../Browse/Ancestries/Time Raider.md#timeraider) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](../Browse/Ancestries/Time Raider.md#time-raider) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider
 
@@ -937,15 +937,15 @@ Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the
 
 Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
 
-Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time Raider.md#timeraider) were to be rescued by proteans!
+Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time Raider.md#time-raider) were to be rescued by proteans!
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
 The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../Browse/Conditions/Grabbed.md#grabbed) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
 
-With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time Raider.md#timeraider) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
+With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time Raider.md#time-raider) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 
-On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time Raider.md#timeraider) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
+On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time Raider.md#time-raider) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
 
 "Take the helm and damn them all!" she called out. "There must be a way home!" And in that instant, the navigation screens sprung to life. "Look!" her brother said. A route had already been plotted. One that made no literal sense. Was the ship's logic system malfunctioning?
 

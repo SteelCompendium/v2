@@ -24,9 +24,9 @@ Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you 
 
 | Tradition   | Features                                                                                                                                                                                                                                                          |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doublingthehour), [Stasis Shield](../../../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#ta-i-hield) |
-| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md#levitationfield), [Low Gravity](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#lowgravity)          |
-| Telepathy   | [Mindlink](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#univer-alconnection)           |
+| Chronopathy | [Doubling the Hours](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doubling-the-hours), [Stasis Shield](../../../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#stasis-shield) |
+| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md#levitation-field), [Low Gravity](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#low-gravity)          |
+| Telepathy   | [Mindlink](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#universal-connection)           |
 
 ##### Doubling the Hours
 
@@ -45,7 +45,7 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](../../../../Browse/Movement/Fly.md#fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../../../Browse/Movement/Fly.md#fly), a target's [stability](../../../../Browse/Movement/Stability.md#tability) is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../../../../Browse/Movement/Fly.md#fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../../../Browse/Movement/Fly.md#fly), a target's [stability](../../../../Browse/Movement/Stability.md#stability) is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -55,4 +55,4 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.

@@ -14,37 +14,37 @@ type: class/shadow/level
 
 ### 5th-Level Features
 
-As a 5th-level [shadow](../../../Browse/Classes/Shadow.md#hadow), you gain the following features.
+As a 5th-level [shadow](../../../Browse/Classes/Shadow.md#shadow), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your [shadow](../../../Browse/Classes/Shadow.md#hadow) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md#shadow) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
 | College         | Feature                                                                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md#trailofcinder) |
-| Caustic Alchemy | [Volatile Reagents](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Volatile Reagents.md#volatilereagent) |
-| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequingambit)   |
+| Black Ash       | [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md#trail-of-cinders) |
+| Caustic Alchemy | [Volatile Reagents](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Volatile Reagents.md#volatile-reagents) |
+| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequin-gambit)   |
 
 ##### Harlequin Gambit
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../Browse/Movement/Teleport.md#teleport) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../Browse/Classes/Shadow.md#hadow) ability to [teleport](../../../Browse/Movement/Teleport.md#teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../Browse/Movement/Teleport.md#teleport). If no such space exists, they can't [teleport](../../../Browse/Movement/Teleport.md#teleport) with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../Browse/Classes/Shadow.md#shadow) ability to [teleport](../../../Browse/Movement/Teleport.md#teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../Browse/Movement/Teleport.md#teleport). If no such space exists, they can't [teleport](../../../Browse/Movement/Teleport.md#teleport) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defen-iveroll) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../Browse/Movement/Fly.md#fly), you fall.
+Additionally, your [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../Browse/Movement/Fly.md#fly), you fall.
 
 #### 9-Insight Ability
 
@@ -59,7 +59,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 > | --------------- | -------------: |
 > | **📏 3 burst**  | **🎯 Special** |
 >
-> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them.
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them.
 
 <!-- -->
 > ###### Into the Shadows (9 Insight)

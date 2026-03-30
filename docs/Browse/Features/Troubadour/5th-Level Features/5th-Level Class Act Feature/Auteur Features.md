@@ -22,11 +22,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue) ability. Choose one of the following conditions on the target: [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding), [frightened](../../../../../Browse/Conditions/Frightened.md#frightened), [prone](../../../../../Browse/Conditions/Prone.md#prone), [slowed](../../../../../Browse/Conditions/Slowed.md#lowed), or [taunted](../../../../../Browse/Conditions/Taunted.md#taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../../../Browse/Conditions/Prone.md#prone) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramatic-monologue) ability. Choose one of the following conditions on the target: [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding), [frightened](../../../../../Browse/Conditions/Frightened.md#frightened), [prone](../../../../../Browse/Conditions/Prone.md#prone), [slowed](../../../../../Browse/Conditions/Slowed.md#slowed), or [taunted](../../../../../Browse/Conditions/Taunted.md#taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../../../Browse/Conditions/Prone.md#prone) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Take Two!

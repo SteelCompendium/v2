@@ -18,8 +18,8 @@ type: feature/subtrait/tactician/1st-level-feature
 
 ##### Focus in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focu) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focu).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
 
-Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../../../../../Browse/Features/Tactician/1st-Level Features/Mark.md#mark) below), you gain 1 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focu). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focu).
+Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../../../../../Browse/Features/Tactician/1st-Level Features/Mark.md#mark) below), you gain 1 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](../../../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
 
 You lose any remaining focus at the end of the encounter.

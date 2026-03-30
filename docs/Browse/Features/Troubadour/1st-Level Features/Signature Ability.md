@@ -18,7 +18,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md#wittybanter).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md#witty-banter).)
 
 <!-- -->
 > ###### Artful Flourish
@@ -143,9 +143,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -181,9 +181,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)
@@ -205,7 +205,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../../../Browse/Conditions/Slowed.md#lowed) is no longer [slowed](../../../../Browse/Conditions/Slowed.md#lowed).
+> **Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../../../Browse/Conditions/Slowed.md#slowed) is no longer [slowed](../../../../Browse/Conditions/Slowed.md#slowed).
 
 <!-- -->
 > ###### Method Acting (5 Drama)

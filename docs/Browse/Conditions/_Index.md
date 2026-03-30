@@ -12,8 +12,8 @@ type: index
 - [Frightened](Frightened.md#frightened)
 - [Grabbed](Grabbed.md#grabbed)
 - [Prone](Prone.md#prone)
-- [Restrained](Restrained.md#re-trained)
-- [Slowed](Slowed.md#lowed)
+- [Restrained](Restrained.md#restrained)
+- [Slowed](Slowed.md#slowed)
 - [Taunted](Taunted.md#taunted)
 - [Weakened](Weakened.md#weakened)
 

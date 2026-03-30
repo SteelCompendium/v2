@@ -14,9 +14,9 @@ type: ancestry
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../../Browse/Ancestries/High Elf.md#highelf) history describes a better age, before the coming of [humans](../../Browse/Ancestries/Human.md#human) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../../Browse/Ancestries/High Elf.md#high-elf) history describes a better age, before the coming of [humans](../../Browse/Ancestries/Human.md#human) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the [high elves](../../Browse/Ancestries/High Elf.md#highelf) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](../../Browse/Ancestries/High Elf.md#high-elf) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -24,7 +24,7 @@ In the millennia since their creators retired to Arcadia, the [high elves](../..
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../../Browse/Ancestries/Wode Elf.md#wodeelf) escort Llyander at their side. Lord Tear, King of the [High Elves](../../Browse/Ancestries/High Elf.md#highelf), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) escort Llyander at their side. Lord Tear, King of the [High Elves](../../Browse/Ancestries/High Elf.md#high-elf), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -64,7 +64,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../../Browse/Ancestries/Wode Elf.md#wodeelf) spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -86,7 +86,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-[High elf](../../Browse/Ancestries/High Elf.md#highelf) heroes have access to the following traits.
+[High elf](../../Browse/Ancestries/High Elf.md#high-elf) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -102,7 +102,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat (1 Point)
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action.
 
 ##### High Senses (1 Point)
 

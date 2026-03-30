@@ -33,4 +33,4 @@ type: feature/ability/troubadour/1st-level-feature
 | --------------- | ------------------------------------: |
 | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../../../Browse/Conditions/Slowed.md#lowed) is no longer [slowed](../../../../Browse/Conditions/Slowed.md#lowed).
+**Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../../../Browse/Conditions/Slowed.md#slowed) is no longer [slowed](../../../../Browse/Conditions/Slowed.md#slowed).

@@ -18,7 +18,7 @@ type: feature/subtrait/shadow/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../../Browse/Abilities/Shadow/1st-Level Features/Teamwork Has Its Place.md#teamworkha-it-place).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../../Browse/Abilities/Shadow/1st-Level Features/Teamwork Has Its Place.md#teamwork-has-its-place).)
 
 <!-- -->
 > ###### Gasping in Pain

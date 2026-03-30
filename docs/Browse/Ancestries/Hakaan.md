@@ -30,7 +30,7 @@ But the only [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) the average [hum
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the [high elf](../../Browse/Ancestries/High Elf.md#highelf) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 

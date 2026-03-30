@@ -18,7 +18,7 @@ type: feature/trait/censor/9th-level-feature
 
 #### 9th-Level Order Ability
 
-Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md#censor) order grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 

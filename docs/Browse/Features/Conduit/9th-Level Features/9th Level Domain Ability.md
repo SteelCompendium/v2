@@ -79,7 +79,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../Browse/Movement/Fly.md#fly), [stability](../../../../Browse/Movement/Stability.md#tability) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../Browse/Movement/Fly.md#fly), [stability](../../../../Browse/Movement/Stability.md#stability) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -89,7 +89,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 >
 > **Power Roll + Intuition:**
 >
@@ -173,11 +173,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 21 + I damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
-> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained.md#restrained) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)

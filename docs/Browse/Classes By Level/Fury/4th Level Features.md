@@ -26,7 +26,7 @@ The first time you take damage each combat round, you gain 2 ferocity instead of
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growingferocity) feature provides additional benefits when you have 8 or more [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
+Your [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growing-ferocity) feature provides additional benefits when you have 8 or more [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
 
 #### Perk
 

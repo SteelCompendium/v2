@@ -18,7 +18,7 @@ type: feature/trait/fury/2nd-level-feature
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 > | ----------------- | ----------------------: |
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 >
-> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../Browse/Movement/Stability.md#tability), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that deals extra damage equal to your Might score.
+> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../Browse/Movement/Stability.md#stability), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that deals extra damage equal to your Might score.
 
 <!-- -->
 > ###### Wrecking Ball (5 Ferocity)
@@ -105,9 +105,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 10 damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 

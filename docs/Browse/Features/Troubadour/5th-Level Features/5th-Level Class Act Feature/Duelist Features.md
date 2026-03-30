@@ -22,11 +22,11 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!

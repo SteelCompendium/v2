@@ -86,16 +86,7 @@ update push="true":
             # Decode %20 in markdown links so MkDocs matches against source file paths
             sed -i -E 's|%20| |g' "$f"
             # Append #anchor fragments to internal .md links for instant preview support
-            perl -i -pe 's{\]\(([^)#]*/)?([^/)#]+)\.md\)}{
-                my $pre = $1 // "";
-                my $name = $2;
-                my $anchor = lc $name;
-                $anchor =~ s/[^a-z0-9\\s-]//g;
-                $anchor =~ s/[\\s]+/-/g;
-                $anchor =~ s/-+/-/g;
-                $anchor =~ s/^-|-$//g;
-                "](" . $pre . $name . ".md#" . $anchor . ")"
-            }ge' "$f"
+            perl -i -pe 's{\]\(([^)#]*/)?([^/)#]+)\.md\)}{my $pre=$1//"";my $name=$2;my $a=lc $name;$a=~s![^a-z0-9 -]!!g;$a=~s! +!-!g;$a=~s!-+!-!g;$a=~s!^-|-$!!g;"](".$pre.$name.".md#".$a.")"}ge' "$f"
         done
 
     #        # Replace link placeholders with relative paths (works for both mkdocs serve and build).

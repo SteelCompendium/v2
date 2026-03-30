@@ -9,14 +9,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Doctrine Feature](1st Level Doctrine Feature.md#1-tleveldoctrinefeature)
-- [Doctrine Triggered Action](Doctrine Triggered Action.md#doctrinetriggeredaction)
-- [Field Arsenal](Field Arsenal.md#fieldar-enal)
-- [Focus](Focus.md#focu)
+- [1st Level Doctrine Feature](1st Level Doctrine Feature.md#1st-level-doctrine-feature)
+- [Doctrine Triggered Action](Doctrine Triggered Action.md#doctrine-triggered-action)
+- [Field Arsenal](Field Arsenal.md#field-arsenal)
+- [Focus](Focus.md#focus)
 - [Mark](Mark.md#mark)
-- [Strike Now](Strike Now.md#trikenow)
-- [Tactical Doctrine](Tactical Doctrine.md#tacticaldoctrine)
-- [Tactician Abilities](Tactician Abilities.md#tacticianabilitie)
+- [Strike Now](Strike Now.md#strike-now)
+- [Tactical Doctrine](Tactical Doctrine.md#tactical-doctrine)
+- [Tactician Abilities](Tactician Abilities.md#tactician-abilities)
 
 </div>
 
@@ -24,9 +24,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Commanding Presence](1st-Level Doctrine Feature/Commanding Presence.md#commandingpre-ence)
-    - [Covert Operations](1st-Level Doctrine Feature/Covert Operations.md#covertoperation)
-    - [Studied Commander](1st-Level Doctrine Feature/Studied Commander.md#tudiedcommander)
+    - [Commanding Presence](1st-Level Doctrine Feature/Commanding Presence.md#commanding-presence)
+    - [Covert Operations](1st-Level Doctrine Feature/Covert Operations.md#covert-operations)
+    - [Studied Commander](1st-Level Doctrine Feature/Studied Commander.md#studied-commander)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Focus in Combat](Focus/Focus in Combat.md#focu-incombat)
-    - [Focus Outside of Combat](Focus/Focus Outside of Combat.md#focu-out-ideofcombat)
+    - [Focus in Combat](Focus/Focus in Combat.md#focus-in-combat)
+    - [Focus Outside of Combat](Focus/Focus Outside of Combat.md#focus-outside-of-combat)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Tactician Abilities/Heroic Abilities.md#heroicabilitie)
-    - [Kit Signature Ability](Tactician Abilities/Kit Signature Ability.md#kit-ignatureability)
+    - [Heroic Abilities](Tactician Abilities/Heroic Abilities.md#heroic-abilities)
+    - [Kit Signature Ability](Tactician Abilities/Kit Signature Ability.md#kit-signature-ability)
 
 </div>

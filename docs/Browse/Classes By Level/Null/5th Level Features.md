@@ -24,9 +24,9 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                           |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level Features/Instant Action.md#in-tantaction)         |
-| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level Features/Chilling Readiness.md#chillingreadine) |
-| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md#inertialfulcrum)     |
+| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level Features/Instant Action.md#instant-action)         |
+| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level Features/Chilling Readiness.md#chilling-readiness) |
+| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md#inertial-fulcrum)     |
 
 #### Chilling Readiness
 
@@ -57,9 +57,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 13 + A damage; I < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -78,7 +78,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
 > - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
 >
-> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)

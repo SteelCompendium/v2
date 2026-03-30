@@ -32,7 +32,7 @@ When you gain [ferocity](../../../Browse/Features/Fury/1st-Level Features/Feroci
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growingferocity) feature provides additional benefits when you have 10 or more [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
+Your [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growing-ferocity) feature provides additional benefits when you have 10 or more [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
 
 #### Skill
 

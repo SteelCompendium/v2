@@ -22,4 +22,4 @@ You have an epic resource called applause. Each time you finish a respite, you g
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-[Applause](../../../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applau-e) remains until you spend it.
+[Applause](../../../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applause) remains until you spend it.

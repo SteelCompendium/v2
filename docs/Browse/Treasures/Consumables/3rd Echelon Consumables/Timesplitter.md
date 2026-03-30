@@ -28,8 +28,8 @@ type: treasure/consumable/3rd-echelon
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using the [Timesplitter](../../../../Browse/Treasures/Consumables/3rd Echelon Consumables/Timesplitter.md#time-plitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) using the [Timesplitter](../../../../Browse/Treasures/Consumables/3rd Echelon Consumables/Timesplitter.md#timesplitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** The target and each creature within 3 squares of them a [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends).
-- **12-16:** The target and each creature within 5 squares of them is [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends).
-- **17+:** The target and each creature within 8 squares of them is [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends).
+- **≤11:** The target and each creature within 3 squares of them a [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends).
+- **12-16:** The target and each creature within 5 squares of them is [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends).
+- **17+:** The target and each creature within 8 squares of them is [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends).

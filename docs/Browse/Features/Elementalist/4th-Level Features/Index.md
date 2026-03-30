@@ -7,14 +7,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Font of Essence](Font of Essence.md#fontofe-ence)
-- [Mantle of Essence](Mantle of Essence.md#mantleofe-ence)
-    - [Burning Grounds](Mantle Of Essence/Burning Grounds.md#burningground)
-    - [Flowering Bed](Mantle Of Essence/Flowering Bed.md#floweringbed)
-    - [Quaking Earth](Mantle Of Essence/Quaking Earth.md#quakingearth)
-    - [Veiling Bed](Mantle Of Essence/Veiling Bed.md#veilingbed)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Font of Essence](Font of Essence.md#font-of-essence)
+- [Mantle of Essence](Mantle of Essence.md#mantle-of-essence)
+    - [Burning Grounds](Mantle Of Essence/Burning Grounds.md#burning-grounds)
+    - [Flowering Bed](Mantle Of Essence/Flowering Bed.md#flowering-bed)
+    - [Quaking Earth](Mantle Of Essence/Quaking Earth.md#quaking-earth)
+    - [Veiling Bed](Mantle Of Essence/Veiling Bed.md#veiling-bed)
 - [Perk](Perk.md#perk)
-- [Skill](Skill.md#kill)
+- [Skill](Skill.md#skill)
 
 </div>

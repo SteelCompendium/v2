@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 9th-Level Features
 
-As a 9th-level [elementalist](../../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 9th-level [elementalist](../../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Grand Wyrding
 

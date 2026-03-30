@@ -18,16 +18,16 @@ type: feature/trait/elementalist/5th-level-feature
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md#themountaindoe-notmove)     |
-| Fire           | [Smoldering Step](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md#moldering-tep)                                 |
-| Green          | [Hide of Tenfold Shields](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md#hideoftenfold-hield)             |
-| Void           | [Pierce the Veil of Substance](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md#piercetheveilof-ub-tance) |
+| Earth          | [The Mountain Does Not Move](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md#the-mountain-does-not-move)     |
+| Fire           | [Smoldering Step](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md#smoldering-step)                                 |
+| Green          | [Hide of Tenfold Shields](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md#hide-of-tenfold-shields)             |
+| Void           | [Pierce the Veil of Substance](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md#pierce-the-veil-of-substance) |
 
 ##### Hide of Tenfold Shields
 
@@ -37,9 +37,9 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 ##### The Mountain Does Not Move
 
-You stand firm and magnetize your allies to stay grounded. Your [stability](../../../../Browse/Movement/Stability.md#tability) increases by your level.
+You stand firm and magnetize your allies to stay grounded. Your [stability](../../../../Browse/Movement/Stability.md#stability) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../Browse/Movement/Stability.md#tability) down to a minimum of 0, then increase the ally's [stability](../../../../Browse/Movement/Stability.md#tability) by an amount equal to the [stability](../../../../Browse/Movement/Stability.md#tability) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../Browse/Movement/Stability.md#stability) down to a minimum of 0, then increase the ally's [stability](../../../../Browse/Movement/Stability.md#stability) by an amount equal to the [stability](../../../../Browse/Movement/Stability.md#stability) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 

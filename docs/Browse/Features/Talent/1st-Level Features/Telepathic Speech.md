@@ -18,4 +18,4 @@ type: feature/trait/talent/1st-level-feature
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-pike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.

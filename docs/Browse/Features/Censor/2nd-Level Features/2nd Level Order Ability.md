@@ -18,7 +18,7 @@ type: feature/trait/censor/2nd-level-feature
 
 #### 2nd-Level Order Ability
 
-Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md#censor) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -106,8 +106,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
-> **Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md#restrained) this way, your abilities that impose forced movement can still move them.

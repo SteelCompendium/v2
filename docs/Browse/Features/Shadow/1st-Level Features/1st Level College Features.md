@@ -18,14 +18,14 @@ type: feature/trait/shadow/1st-level-feature
 
 #### 1st-Level College Features
 
-Your [shadow](../../../../Browse/Classes/Shadow.md#hadow) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](../../../../Browse/Classes/Shadow.md#shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
 | College         | Feature                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../../Browse/Abilities/Shadow/1st-Level Features/Black Ash Teleport.md#blacka-hteleport)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../../../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coattheblade), [Smoke Bomb](../../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#mokebomb) |
+| Black Ash       | [Black Ash Teleport](../../../../Browse/Abilities/Shadow/1st-Level Features/Black Ash Teleport.md#black-ash-teleport)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coat-the-blade), [Smoke Bomb](../../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
@@ -75,7 +75,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action, you gain a +1 bonus to the distance you can shift.
 >
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 >
@@ -83,4 +83,4 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#mokebomb) to use for distractions and easy getaways. You can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) to use for distractions and easy getaways. You can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.

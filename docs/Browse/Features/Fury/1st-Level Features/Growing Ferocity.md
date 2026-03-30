@@ -20,7 +20,7 @@ type: feature/trait/fury/1st-level-feature
 
 You gain certain benefits in combat based on the amount of [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) you spend during your turn.
 
-Some [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growingferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growingferocity) tables in this section.
+Some [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growing-ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md#growing-ferocity) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 

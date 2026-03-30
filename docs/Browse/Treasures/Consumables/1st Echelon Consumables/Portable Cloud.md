@@ -34,6 +34,6 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../../../../Browse/Conditions/Weakened.md#weakened) while in the fog.
 
-**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../../../Browse/Conditions/Slowed.md#lowed) while in the cloud.
+**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../../../Browse/Conditions/Slowed.md#slowed) while in the cloud.
 
 **Item Prerequisite:** A spool of copper wire.

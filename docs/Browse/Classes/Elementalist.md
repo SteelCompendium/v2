@@ -16,7 +16,7 @@ type: class
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) determines which of these talents you excel at.**
+**As an [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -50,20 +50,20 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Abilities                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization), [Essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence), [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement), [Persistent Magic](../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#per-i-tentmagic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level Features/Practical Magic.md#practicalmagic), Specialization Feature, [Specialization Triggered Action](../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#pecializationtriggeredaction), [Enchantment](../../Browse/Features/Elementalist/1st-Level Features/Enchantment.md#enchantment), [Elementalist Ward](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md#elementali-tward), [Elementalist Abilities](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Abilities.md#elementali-tabilitie) | Two signature, 3, 5                 |
+| 1st   | [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization), [Essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence), [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element), [Persistent Magic](../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#persistent-magic), [Practical Magic](../../Browse/Abilities/Elementalist/1st-Level Features/Practical Magic.md#practical-magic), Specialization Feature, [Specialization Triggered Action](../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#specialization-triggered-action), [Enchantment](../../Browse/Features/Elementalist/1st-Level Features/Enchantment.md#enchantment), [Elementalist Ward](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md#elementalist-ward), [Elementalist Abilities](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Abilities.md#elementalist-abilities) | Two signature, 3, 5                 |
 | 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
 | 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 4th   | [Characteristic Increase](../../Browse/Features/Elementalist/4th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [Font of Essence](../../Browse/Features/Elementalist/4th-Level Features/Font of Essence.md#fontofe-ence), [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
+| 4th   | [Characteristic Increase](../../Browse/Features/Elementalist/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Font of Essence](../../Browse/Features/Elementalist/4th-Level Features/Font of Essence.md#font-of-essence), [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
 | 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
 | 6th   | Perk, [Wyrding](../../Browse/Features/Elementalist/6th-Level Features/Wyrding.md#wyrding), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | [Characteristic Increase](../../Browse/Features/Elementalist/7th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [Mantle of Quintessence](../../Browse/Features/Elementalist/7th-Level Features/Mantle of Quintessence.md#mantleofquinte-ence), [Surging Essence](../../Browse/Features/Elementalist/7th-Level Features/Surging Essence.md#urginge-ence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | [Characteristic Increase](../../Browse/Features/Elementalist/7th-Level Features/Characteristic Increase.md#characteristic-increase), [Mantle of Quintessence](../../Browse/Features/Elementalist/7th-Level Features/Mantle of Quintessence.md#mantle-of-quintessence), [Surging Essence](../../Browse/Features/Elementalist/7th-Level Features/Surging Essence.md#surging-essence), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9     |
 | 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | [Grand Wyrding](../../Browse/Features/Elementalist/9th-Level Features/Grand Wyrding.md#grandwyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | [Characteristic Increase](../../Browse/Features/Elementalist/10th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [Breath](../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath), [Essential Being](../../Browse/Features/Elementalist/10th-Level Features/Essential Being.md#e-entialbeing), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](../../Browse/Features/Elementalist/9th-Level Features/Grand Wyrding.md#grand-wyrding), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | [Characteristic Increase](../../Browse/Features/Elementalist/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Breath](../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath), [Essential Being](../../Browse/Features/Elementalist/10th-Level Features/Essential Being.md#essential-being), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
-As a 1st-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 1st-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Elemental Specialization
 
@@ -77,15 +77,15 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../../Browse/Movement/Teleport.md#teleport), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) from the following options: earth, fire, green, or void. Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../Browse/Movement/Stability.md#tability) increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../Browse/Movement/Stability.md#stability) increases by 1 until the start of your next turn. This benefit is cumulative.
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -97,27 +97,27 @@ You use your immersion in the mystery of void magic to expand the reach of that 
 
 #### Essence
 
-You channel the substance of creation in the form of a Heroic Resource called [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence), gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a Heroic Resource called [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence), gathering and burning it to cast and maintain spells.
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
 You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../../Browse/Features/Elementalist/1st-Level Features/Essence/Essence Outside of Combat.md#e-enceout-ideofcombat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../Browse/Features/Elementalist/1st-Level Features/Essence/Essence Outside of Combat.md#essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#per-i-tentmagic) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#persistent-magic) below), you can maintain it for a number of rounds equal to your Victories.
 
-When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) equal to your Victories.
 
 #### Hurl Element
 
-You have the following ability, which can be used as a ranged [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+You have the following ability, which can be used as a ranged [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 
 <!-- -->
 > ###### Hurl Element
@@ -138,9 +138,9 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
@@ -161,22 +161,22 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You [teleport](../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) to [teleport](../../Browse/Movement/Teleport.md#teleport) 1 additional square for each essence spent.
+> - You use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You [teleport](../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) to [teleport](../../Browse/Movement/Teleport.md#teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md#motivateearth)                                                                     |
-| Fire           | [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#returntoformle-ne)                                                   |
-| Green          | [It Is the Soul Which Hears](../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md#iti-the-oulwhichhear) |
-| Void           | [A Beyonding of Vision](../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md#abeyondingofvi-ion)               |
+| Earth          | [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md#motivate-earth)                                                                     |
+| Fire           | [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness)                                                   |
+| Green          | [It Is the Soul Which Hears](../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md#it-is-the-soul-which-hears) |
+| Void           | [A Beyonding of Vision](../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md#a-beyonding-of-vision)               |
 
 ##### A Beyonding of Vision
 
@@ -193,7 +193,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md#haredvoid-en-e) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md#shared-void-sense) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -235,16 +235,16 @@ You have the following ability.
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#pecializationtriggeredaction) table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#specialization-triggered-action) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization | Triggered Action                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Skin Like Castle Walls](../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md#kinlikeca-tlewall)       |
-| Fire           | [Explosive Assistance](../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md#explo-ivea-i-tance)               |
-| Green          | [Breath of Dawn Remembered](../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md#breathofdawnremembered) |
-| Void           | [Subtle Relocation](../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md#ubtlerelocation)                     |
+| Earth          | [Skin Like Castle Walls](../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md#skin-like-castle-walls)       |
+| Fire           | [Explosive Assistance](../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md#explosive-assistance)               |
+| Green          | [Breath of Dawn Remembered](../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md#breath-of-dawn-remembered) |
+| Void           | [Subtle Relocation](../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md#subtle-relocation)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered
@@ -308,17 +308,17 @@ Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Fea
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantmentofde-truction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
 
 ##### Enchantment of Battle
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this enchantment.
 
 ##### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action.
 
 ##### Enchantment of Destruction
 
@@ -330,11 +330,11 @@ You have a +2 bonus to the distance of your ranged magic abilities.
 
 ##### Enchantment of Permanence
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/Movement/Stability.md#tability).
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/Movement/Stability.md#stability).
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward/Ward of Surprising Reactivity.md#wardof-urpri-ingreactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward/Ward of Surprising Reactivity.md#ward-of-surprising-reactivity).)
 
 ##### Ward of Delightful Consequences
 
@@ -354,11 +354,11 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md#bifurcatedincineration), [Viscous Fire](../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md#vi-cou-fire).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md#bifurcated-incineration), [Viscous Fire](../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md#viscous-fire).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -452,9 +452,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../Browse/Conditions/Slowed.md#slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -490,7 +490,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
 ###### 3-Essence Ability
 
@@ -636,7 +636,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ### 2nd-Level Features
 
-As a 2nd-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 2nd-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Perk
 
@@ -644,16 +644,16 @@ You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7:
 
 #### 2nd-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 2nd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [Disciple of Earth](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Earth.md#di-cipleofearth)           |
-| Fire           | [Disciple of Fire](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Fire.md#di-cipleoffire)             |
-| Green          | [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#di-cipleofthegreen) |
-| Void           | [There Is No Space Between](../../Browse/Abilities/Elementalist/2nd-Level Features/There Is No Space Between.md#therei-no-pacebetween)                           |
+| Earth          | [Disciple of Earth](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Earth.md#disciple-of-earth)           |
+| Fire           | [Disciple of Fire](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Fire.md#disciple-of-fire)             |
+| Green          | [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#disciple-of-the-green) |
+| Void           | [There Is No Space Between](../../Browse/Abilities/Elementalist/2nd-Level Features/There Is No Space Between.md#there-is-no-space-between)                           |
 
 ##### Disciple of Earth
 
@@ -667,7 +667,7 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
@@ -677,28 +677,28 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 ###### Green Animal Forms Table
 
-| Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](../../Browse/Movement/Stability.md#tability) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Animal Type           | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](../../Browse/Movement/Stability.md#stability) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Canine                | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Fish                  | 2nd   | 0                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climbor-wim) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Rodent                | 2nd   | 0                 | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climbor-wim))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Fish                  | 2nd   | 0                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climb-or-swim) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Rodent                | 2nd   | 0                 | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climb-or-swim))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Bird                  | 3rd   | 0                 | 5 ([fly](../../Browse/Movement/Fly.md#fly))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Great cat             | 3rd   | 5                 | 6 ([climb](../../Browse/Movement/Climb or Swim.md#climbor-wim))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../../Browse/Movement/Jump.md#jump) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](../../Browse/Conditions/Prone.md#prone), and you can<br/> make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them (no action required).                                                                                                                                                                                                                               |
-| Giant frog            | 4th   | 5                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climbor-wim))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) has a distance of melee 3. When you take the [Advance](../../Browse/Abilities/Common/Move Actions/Advance.md#advance)<br/> move action, you can high [jump](../../Browse/Movement/Jump.md#jump) or long [jump](../../Browse/Movement/Jump.md#jump) up to half your speed. This<br/> [jump](../../Browse/Movement/Jump.md#jump) can allow you to move more squares than your speed.                                                                                                     |
+| Great cat             | 3rd   | 5                 | 6 ([climb](../../Browse/Movement/Climb or Swim.md#climb-or-swim))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../../Browse/Movement/Jump.md#jump) up to 3 squares in any direction. If you land on<br/> an enemy of your size or smaller, that enemy is knocked [prone](../../Browse/Conditions/Prone.md#prone), and you can<br/> make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them (no action required).                                                                                                                                                                                                                               |
+| Giant frog            | 4th   | 5                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climb-or-swim))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) has a distance of melee 3. When you take the [Advance](../../Browse/Abilities/Common/Move Actions/Advance.md#advance)<br/> move action, you can high [jump](../../Browse/Movement/Jump.md#jump) or long [jump](../../Browse/Movement/Jump.md#jump) up to half your speed. This<br/> [jump](../../Browse/Movement/Jump.md#jump) can allow you to move more squares than your speed.                                                                                                     |
 | Horse                 | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the [Charge](../../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action as a maneuver. You can't use two [Charge](../../Browse/Abilities/Common/Main Actions/Charge.md#charge)<br/> main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                                    |
 | Mohler                | 4th   | 0                 | 7 ([burrow](../../Browse/Movement/Burrow.md#burrow))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Bear                  | 5th   | 10                | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climbor-wim))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Giant bird            | 5th   | 0                 | 7 ([fly](../../Browse/Movement/Fly.md#fly))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Giant spider          | 6th   | 0                 | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climbor-wim))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), you<br/> can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target. While [grabbed](../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                          |
-| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), the target is [dazed](../../Browse/Conditions/Dazed.md#dazed) (save<br/> ends). When you take the [Advance](../../Browse/Abilities/Common/Move Actions/Advance.md#advance) move action, you can high [jump](../../Browse/Movement/Jump.md#jump) or long<br/> [jump](../../Browse/Movement/Jump.md#jump) up to half your speed. This [jump](../../Browse/Movement/Jump.md#jump) can allow you to move more squares<br/> than your speed. |
+| Bear                  | 5th   | 10                | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climb-or-swim))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Giant bird            | 5th   | 0                 | 7 ([fly](../../Browse/Movement/Fly.md#fly))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), you can shift up to 3 squares as a free<br/> triggered action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Giant<br/> salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) deals fire damage. Additionally, you have fire immunity<br/> 3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Giant spider          | 6th   | 0                 | 5 ([climb](../../Browse/Movement/Climb or Swim.md#climb-or-swim))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against creatures you are hidden<br/> from.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Giant snake           | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), you<br/> can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target. While [grabbed](../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes 2<br/> damage at the start of each of their turns.                                                                                                                                                                                                                          |
+| Kangaroo              | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), the target is [dazed](../../Browse/Conditions/Dazed.md#dazed) (save<br/> ends). When you take the [Advance](../../Browse/Abilities/Common/Move Actions/Advance.md#advance) move action, you can high [jump](../../Browse/Movement/Jump.md#jump) or long<br/> [jump](../../Browse/Movement/Jump.md#jump) up to half your speed. This [jump](../../Browse/Movement/Jump.md#jump) can allow you to move more squares<br/> than your speed. |
 | Spiny armadillo       | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br/> creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Ostrich               | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Shark                 | 8th   | 0                 | 8 ([swim](../../Browse/Movement/Climb or Swim.md#climbor-wim) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](../../Browse/Conditions/Bleeding.md#bleeding) or winded.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Giant octopus         | 9th   | 5                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climbor-wim))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), you can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target. You can have up to<br/> eight creatures [grabbed](../../Browse/Conditions/Grabbed.md#grabbed).                                                              |
-| Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) as part of the [Charge](../../Browse/Abilities/Common/Main Actions/Charge.md#charge) action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                        |
-| King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Shark                 | 8th   | 0                 | 8 ([swim](../../Browse/Movement/Climb or Swim.md#climb-or-swim) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br/> an edge on strikes against targets who are [bleeding](../../Browse/Conditions/Bleeding.md#bleeding) or winded.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Giant octopus         | 9th   | 5                 | 5 ([swim](../../Browse/Movement/Climb or Swim.md#climb-or-swim))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br/> with your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). Whenever you obtain a tier 2 or tier 3 outcome on<br/> a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), you can automatically [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target. You can have up to<br/> eight creatures [grabbed](../../Browse/Conditions/Grabbed.md#grabbed).                                                              |
+| Rhinoceros            | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) as part of the [Charge](../../Browse/Abilities/Common/Main Actions/Charge.md#charge) action, that<br/> strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                        |
+| King terror lizard    | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ##### There Is No Space Between
 
@@ -783,26 +783,26 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
 
 ### 3rd-Level Features
 
-As a 3rd-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 3rd-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earthaccept-me)                                                       |
-| Fire           | [A Conversation With Fire](../../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/A Conversation With Fire.md#aconver-ationwithfire) |
-| Green          | [Remember Growth and Sun and Rain](../../Browse/Abilities/Elementalist/3rd-Level Features/Remember Growth and Sun and Rain.md#remembergrowthand-unandrain)                 |
-| Void           | [Distance Is Only Memory](../../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/Distance Is Only Memory.md#di-tancei-onlymemory)   |
+| Earth          | [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earth-accepts-me)                                                       |
+| Fire           | [A Conversation With Fire](../../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/A Conversation With Fire.md#a-conversation-with-fire) |
+| Green          | [Remember Growth and Sun and Rain](../../Browse/Abilities/Elementalist/3rd-Level Features/Remember Growth and Sun and Rain.md#remember-growth-and-sun-and-rain)                 |
+| Void           | [Distance Is Only Memory](../../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/Distance Is Only Memory.md#distance-is-only-memory)   |
 
 ##### A Conversation With Fire
 
@@ -916,7 +916,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 ### 4th-Level Features
 
-As a 4th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 4th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -928,16 +928,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
 | Specialization | Feature                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md#quakingearth)     |
-| Fire           | [Burning Grounds](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md#burningground) |
-| Green          | [Flowering Bed](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md#floweringbed)     |
-| Void           | [Veiling Bed](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md#veilingbed)         |
+| Earth          | [Quaking Earth](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md#quaking-earth)     |
+| Fire           | [Burning Grounds](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md#burning-grounds) |
+| Green          | [Flowering Bed](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md#flowering-bed)     |
+| Void           | [Veiling Bed](../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md#veiling-bed)         |
 
 ##### Burning Grounds
 
@@ -965,20 +965,20 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 ### 5th-Level Features
 
-As a 5th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 5th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md#themountaindoe-notmove)     |
-| Fire           | [Smoldering Step](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md#moldering-tep)                                 |
-| Green          | [Hide of Tenfold Shields](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md#hideoftenfold-hield)             |
-| Void           | [Pierce the Veil of Substance](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md#piercetheveilof-ub-tance) |
+| Earth          | [The Mountain Does Not Move](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md#the-mountain-does-not-move)     |
+| Fire           | [Smoldering Step](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md#smoldering-step)                                 |
+| Green          | [Hide of Tenfold Shields](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md#hide-of-tenfold-shields)             |
+| Void           | [Pierce the Veil of Substance](../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md#pierce-the-veil-of-substance) |
 
 ##### Hide of Tenfold Shields
 
@@ -988,9 +988,9 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 ##### The Mountain Does Not Move
 
-You stand firm and magnetize your allies to stay grounded. Your [stability](../../Browse/Movement/Stability.md#tability) increases by your level.
+You stand firm and magnetize your allies to stay grounded. Your [stability](../../Browse/Movement/Stability.md#stability) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability is force moved, you can use a free triggered action to decrease your [stability](../../Browse/Movement/Stability.md#tability) down to a minimum of 0, then increase the ally's [stability](../../Browse/Movement/Stability.md#tability) by an amount equal to the [stability](../../Browse/Movement/Stability.md#tability) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability is force moved, you can use a free triggered action to decrease your [stability](../../Browse/Movement/Stability.md#stability) down to a minimum of 0, then increase the ally's [stability](../../Browse/Movement/Stability.md#stability) by an amount equal to the [stability](../../Browse/Movement/Stability.md#stability) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 
@@ -1070,17 +1070,17 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 5 corruption damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends).
+> **Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends).
 >
 > **Persistent 1:** The area remains until the start of your next turn.
 
 ### 6th-Level Features
 
-As a 6th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 6th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Perk
 
@@ -1125,7 +1125,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 >
 > **Effect:** Until the start of your next turn, the target has the following benefits:
 >
-> - Their size and [stability](../../Browse/Movement/Stability.md#tability) increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../Browse/Movement/Stability.md#tability). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/Conditions/Restrained.md#re-trained) until the effect ends.
+> - Their size and [stability](../../Browse/Movement/Stability.md#stability) increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../Browse/Movement/Stability.md#stability). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/Conditions/Restrained.md#restrained) until the effect ends.
 > - They have fire immunity 10.
 > - Their strikes deal extra fire damage equal to twice your Reason score.
 > - When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
@@ -1165,7 +1165,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 ### 7th-Level Features
 
-As a 7th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 7th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1173,13 +1173,13 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Mantle of Quintessence
 
-Your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence) feature no longer requires [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+Your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence) feature no longer requires [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
-Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 #### Surging Essence
 
-When you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) at the start of each of your turns during combat, you gain 3 essence instead of 2.
 
 #### Skill
 
@@ -1187,7 +1187,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As an 8th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Perk
 
@@ -1195,34 +1195,34 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) Features table.
+Your [elemental specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](../../Browse/Abilities/Elementalist/8th-Level Features/Summon Source of Earth.md#ummon-ourceofearth)                                 |
-| Fire           | [The Flame Primordial](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/The Flame Primordial.md#theflameprimordial)   |
-| Green          | [Chimeric Manifestation](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Chimeric Manifestation.md#chimericmanife-tation) |
-| Void           | [Black Hole Star](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Black Hole Star.md#blackhole-tar)             |
+| Earth          | [Summon Source of Earth](../../Browse/Abilities/Elementalist/8th-Level Features/Summon Source of Earth.md#summon-source-of-earth)                                 |
+| Fire           | [The Flame Primordial](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/The Flame Primordial.md#the-flame-primordial)   |
+| Green          | [Chimeric Manifestation](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Chimeric Manifestation.md#chimeric-manifestation) |
+| Void           | [Black Hole Star](../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Black Hole Star.md#black-hole-star)             |
 
 ##### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) ability and [vertical](../../Browse/Movement/Vertical.md#vertical) pull that target up to 5 squares. If their [stability](../../Browse/Movement/Stability.md#tability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../Browse/Movement/Stability.md#tability) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and [vertical](../../Browse/Movement/Vertical.md#vertical) pull that target up to 5 squares. If their [stability](../../Browse/Movement/Stability.md#stability) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../Browse/Movement/Stability.md#stability) for your allies.
 
-Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence) improves. While in the area of the aura, enemies and objects have their [stability](../../Browse/Movement/Stability.md#tability) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence) improves. While in the area of the aura, enemies and objects have their [stability](../../Browse/Movement/Stability.md#stability) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#di-cipleofthegreen) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#disciple-of-the-green) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#di-cipleofthegreen) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md#disciple-of-the-green) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#returntoformle-ne) ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -1251,7 +1251,7 @@ You have the following ability.
 >
 > |       Elemental       |                                        -                                        |       Level 8       |                                     BRUTE                                      |                                                    EV -                                                     |
 > | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../Browse/Movement/Stability.md#tability) | **5**<br/> [Free Strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) |
+> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../Browse/Movement/Stability.md#stability) | **5**<br/> [Free Strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) |
 > | **-**<br/> Immunities | **[Burrow](../../Browse/Movement/Burrow.md#burrow)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
 > |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |                             **-5**<br/> Intuition                              |                                            **-3**<br/> Presence                                             |
 >
@@ -1265,7 +1265,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earthaccept-me) ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earth-accepts-me) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >
@@ -1292,9 +1292,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catchbreath) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../../Browse/Conditions/Prone.md#prone). Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catch-breath) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../../Browse/Conditions/Prone.md#prone). Each ally within distance also gains this benefit.
 >
-> Each enemy who ends their turn within 3 squares of the tree is [restrained](../../Browse/Conditions/Restrained.md#re-trained) until the end of their next turn. A creature [restrained](../../Browse/Conditions/Restrained.md#re-trained) this way can use a main action to end the effect early.
+> Each enemy who ends their turn within 3 squares of the tree is [restrained](../../Browse/Conditions/Restrained.md#restrained) until the end of their next turn. A creature [restrained](../../Browse/Conditions/Restrained.md#restrained) this way can use a main action to end the effect early.
 
 <!-- -->
 > ###### Muse of Fire (11 Essence)
@@ -1343,7 +1343,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 ### 9th-Level Features
 
-As a 9th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 9th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Grand Wyrding
 
@@ -1415,13 +1415,13 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 ### 10th-Level Features
 
-As a 10th-level [elementalist](../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 10th-level [elementalist](../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) (no action required). When you do, 1 breath becomes 3 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) (no action required). When you do, 1 breath becomes 3 [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
-[Breath](../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath) remains until you convert it to [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+[Breath](../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath) remains until you convert it to [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
 #### Characteristic Increase
 
@@ -1429,7 +1429,7 @@ Your Reason score increases to 5. Additionally, you can increase one of your cha
 
 #### Essential Being
 
-When you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain [essence](../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) at the start of each of your turns during combat, you gain 4 essence instead of 3.
 
 #### One
 
@@ -1439,10 +1439,10 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 | Specialization | Feature                                                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Earth.md#ma-terofearth) |
-| Fire           | [Master of Fire](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Fire.md#ma-teroffire)   |
-| Green          | [Master of Green](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Green.md#ma-terofgreen) |
-| Void           | [Master of Void](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Void.md#ma-terofvoid)   |
+| Earth          | [Master of Earth](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Earth.md#master-of-earth) |
+| Fire           | [Master of Fire](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Fire.md#master-of-fire)   |
+| Green          | [Master of Green](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Green.md#master-of-green) |
+| Void           | [Master of Void](../../Browse/Features/Elementalist/10th-Level Features/One/Master of Void.md#master-of-void)   |
 
 ##### Master of Earth
 
@@ -1454,7 +1454,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#returntoformle-ne) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
 
 ##### Master of Green
 

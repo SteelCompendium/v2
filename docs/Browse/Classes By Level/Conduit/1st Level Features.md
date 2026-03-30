@@ -40,9 +40,9 @@ You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md#pietyout-ideofcombat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md#piety-outside-of-combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healinggrace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
 
 ##### Domain Piety and Effects
 
@@ -77,7 +77,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) maneuver or an ability that targets an ally.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aid-attack) maneuver or an ability that targets an ally.
 - **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
@@ -102,7 +102,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) or [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aid-attack) or [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver.
 - **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../Browse/Classes/Conduit.md#conduit) level.
 
 ###### War Domain Piety and Effect
@@ -112,24 +112,24 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit.md#conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizingritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit.md#conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                     | Skill Group   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hand-ofthemaker)                                                   | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-peech)                                                                   | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracularvi-ion)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#ble-ingofcomprehen-ion)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizingritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#ble-ingofcompa-ion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithfulfriend)                                                             | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md#innerlight)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#in-pireddeception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#anctifiedweapon)                             | Exploration   |
+| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker)                                                   | Crafting      |
+| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-speech)                                                                   | Lore          |
+| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithful-friend)                                                             | Exploration   |
+| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
+| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -214,7 +214,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -248,7 +248,7 @@ You have the following ability, which you can use once on your turn.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 
 <!-- -->
 > ###### Ray of Wrath
@@ -269,7 +269,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md#wordofguidance).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md#word-of-guidance).)
 
 <!-- -->
 > ###### Word of Guidance
@@ -303,7 +303,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md#prayerofdi-tance).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md#prayer-of-distance).)
 
 ##### Prayer of Destruction
 
@@ -315,21 +315,21 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ##### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action.
 
 ##### Prayer of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md#tability).
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md#stability).
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md#ba-tionward).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md#bastion-ward).)
 
 ##### Bastion Ward
 
@@ -353,7 +353,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#ble-edlight), [Staggering Curse](../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#taggeringcur-e).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#blessed-light), [Staggering Curse](../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#staggering-curse).)
 
 <!-- -->
 > ###### Blessed Light
@@ -508,7 +508,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability.md#tability).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability.md#stability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)

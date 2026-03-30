@@ -18,7 +18,7 @@ type: feature/subtrait/shadow/1st-level-feature
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
 
 ###### 3-Insight Ability
 

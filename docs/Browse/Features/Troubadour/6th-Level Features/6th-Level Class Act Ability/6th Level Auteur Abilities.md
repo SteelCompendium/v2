@@ -44,4 +44,4 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) bonus, and [stability](../../../../../Browse/Movement/Stability.md#tability) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) bonus, and [stability](../../../../../Browse/Movement/Stability.md#stability) bonus of your currently equipped kit in addition to their own kit's bonuses.

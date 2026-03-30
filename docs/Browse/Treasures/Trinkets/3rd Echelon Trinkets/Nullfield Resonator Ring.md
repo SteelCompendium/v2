@@ -44,7 +44,7 @@ Additionally, you have the following ability.
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
-> **Effect:** While [slowed](../../../../Browse/Conditions/Slowed.md#lowed) in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](../../../../Browse/Conditions/Slowed.md#slowed) in this way, the target takes a bane on magic or psionic abilities.

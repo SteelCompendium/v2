@@ -17,12 +17,12 @@ type: title/3rd-echelon
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the [Corsair](../../../Browse/Titles/2nd Echelon/Corsair.md#cor-air) title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](../../../Browse/Titles/2nd Echelon/Corsair.md#corsair) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
 - *First Mate:* You have a pirate retainer, such as a **[human](../../../Browse/Ancestries/Human.md#human) warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *[Swashbuckler](../../../Browse/Kits/Swashbuckler.md#wa-hbuckler):* You can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving
+- *[Swashbuckler](../../../Browse/Kits/Swashbuckler.md#swashbuckler):* You can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working

@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../../Browse/Perks/Exploration Perks/Friend Catapult.md#friendcatapult).)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../../Browse/Perks/Exploration Perks/Friend Catapult.md#friend-catapult).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -22,7 +22,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md#incinerate), [Kinetic Grip](../../../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md#kineticgrip).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md#incinerate), [Kinetic Grip](../../../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md#kinetic-grip).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -35,9 +35,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -54,11 +54,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
 >
-> **Strained:** You are [slowed](../../../../Browse/Conditions/Slowed.md#lowed) until the end of your next turn. Additionally, a target [slowed](../../../../Browse/Conditions/Slowed.md#lowed) by this ability is [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) instead.
+> **Strained:** You are [slowed](../../../../Browse/Conditions/Slowed.md#slowed) until the end of your next turn. Additionally, a target [slowed](../../../../Browse/Conditions/Slowed.md#slowed) by this ability is [restrained](../../../../Browse/Conditions/Restrained.md#restrained) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -206,11 +206,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
-> **Effect:** You can [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) by this ability, this forced movement ignores their [stability](../../../../Browse/Movement/Stability.md#tability).
+> **Effect:** You can [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained.md#restrained) by this ability, this forced movement ignores their [stability](../../../../Browse/Movement/Stability.md#stability).
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -221,7 +221,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)
@@ -255,7 +255,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -266,7 +266,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | -------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 >
-> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../../Browse/Movement/Stability.md#tability). A creature can only be force moved this way once a turn.
+> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../../Browse/Movement/Stability.md#stability). A creature can only be force moved this way once a turn.
 >
 > **Strained:** You are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends). While you are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
@@ -279,7 +279,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target's [stability](../../../../Browse/Movement/Stability.md#tability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../Browse/Movement/Stability.md#tability) increase lasts until the target no longer has temporary Stamina from this ability.
+> **Effect:** The target's [stability](../../../../Browse/Movement/Stability.md#stability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../Browse/Movement/Stability.md#stability) increase lasts until the target no longer has temporary Stamina from this ability.
 >
 > **Strained:** You can't use maneuvers (save ends).
 

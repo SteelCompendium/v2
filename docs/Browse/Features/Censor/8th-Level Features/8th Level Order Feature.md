@@ -18,14 +18,14 @@ type: feature/trait/censor/8th-level-feature
 
 #### 8th-Level Order Feature
 
-Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../../../Browse/Classes/Censor.md#censor) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
 | Order    | Feature                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md#demonologi-t)                   |
-| Oracle   | [Their Past Revealed](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md#theirpa-trevealed) |
+| Exorcist | [Demonologist](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md#demonologist)                   |
+| Oracle   | [Their Past Revealed](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md#their-past-revealed) |
 | Paragon  | [Vow](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md#vow)                                     |
 
 ##### Demonologist

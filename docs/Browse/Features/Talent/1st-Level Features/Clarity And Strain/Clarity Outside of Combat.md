@@ -18,8 +18,8 @@ type: feature/subtrait/talent/1st-level-feature
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](../../../../../Browse/Features/Talent/1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md#clarityout-ideofcombat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../../../../../Browse/Features/Talent/1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md#clarity-outside-of-combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minortelekine-i), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.

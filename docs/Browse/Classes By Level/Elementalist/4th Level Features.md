@@ -14,7 +14,7 @@ type: class/elementalist/level
 
 ### 4th-Level Features
 
-As a 4th-level [elementalist](../../../Browse/Classes/Elementalist.md#elementali-t), you gain the following features.
+As a 4th-level [elementalist](../../../Browse/Classes/Elementalist.md#elementalist), you gain the following features.
 
 #### Characteristic Increase
 
@@ -26,16 +26,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantleofe-ence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md#mantle-of-essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
 | Specialization | Feature                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md#quakingearth)     |
-| Fire           | [Burning Grounds](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md#burningground) |
-| Green          | [Flowering Bed](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md#floweringbed)     |
-| Void           | [Veiling Bed](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md#veilingbed)         |
+| Earth          | [Quaking Earth](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md#quaking-earth)     |
+| Fire           | [Burning Grounds](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md#burning-grounds) |
+| Green          | [Flowering Bed](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md#flowering-bed)     |
+| Void           | [Veiling Bed](../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md#veiling-bed)         |
 
 ##### Burning Grounds
 

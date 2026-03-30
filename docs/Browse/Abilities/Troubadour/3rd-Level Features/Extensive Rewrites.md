@@ -35,8 +35,8 @@ type: feature/ability/troubadour/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#tability)
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#tability)
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#tability)
+- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#stability)
+- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#stability)
+- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md#stability)
 
 **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.

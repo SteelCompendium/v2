@@ -41,4 +41,4 @@ type: feature/ability/null/5th-level-feature
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
 
-**Effect:** While [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes a bane on the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes a bane on the [Escape Grab](../../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.

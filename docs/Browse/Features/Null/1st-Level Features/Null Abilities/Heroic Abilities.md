@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
 
 ###### 3-Discipline Ability
 
@@ -39,7 +39,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -80,9 +80,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -137,7 +137,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](../../../../../Browse/Conditions/Slowed.md#lowed), has their [stability](../../../../../Browse/Movement/Stability.md#tability) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](../../../../../Browse/Conditions/Slowed.md#slowed), has their [stability](../../../../../Browse/Movement/Stability.md#stability) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -154,4 +154,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free maneuver before or after you use this ability.

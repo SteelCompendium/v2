@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../../Browse/Perks/Crafting Perks/Area of Expertise.md#areaofexperti-e).)
+**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../../Browse/Perks/Crafting Perks/Area of Expertise.md#area-of-expertise).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -82,6 +82,6 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)

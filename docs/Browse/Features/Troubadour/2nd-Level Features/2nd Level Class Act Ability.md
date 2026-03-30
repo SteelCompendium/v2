@@ -33,7 +33,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 <!-- -->
 > ###### Twist at the End (5 Drama)
@@ -59,7 +59,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ###### En Garde! (5 Drama)
@@ -76,7 +76,7 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against you. If they do, you can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the target.
+> **Effect:** The target can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against you. If they do, you can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 

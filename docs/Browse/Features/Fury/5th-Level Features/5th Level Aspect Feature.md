@@ -18,7 +18,7 @@ type: feature/trait/fury/5th-level-feature
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
@@ -26,7 +26,7 @@ Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Pri
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Berserker  | [Bounder](../../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Bounder.md#bounder)       |
 | Reaver     | [Unfettered](../../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Unfettered.md#unfettered) |
-| Stormwight | [Stormborn](../../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md#tormborn)   |
+| Stormwight | [Stormborn](../../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md#stormborn)   |
 
 ##### Bounder
 
@@ -34,8 +34,8 @@ Your [jump](../../../../Browse/Movement/Jump.md#jump) distance and height double
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) feature as if you were a 1st-level [conduit](../../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../Browse/Classes/Conduit.md#conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) feature as if you were a 1st-level [conduit](../../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../Browse/Classes/Conduit.md#conduit) section).
 
 ##### Unfettered
 
-At the start of your turn, you can end any [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../../../../Browse/Conditions/Restrained.md#restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.

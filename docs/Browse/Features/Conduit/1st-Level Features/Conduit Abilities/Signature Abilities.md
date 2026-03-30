@@ -18,7 +18,7 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#ble-edlight), [Staggering Curse](../../../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#taggeringcur-e).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#blessed-light), [Staggering Curse](../../../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#staggering-curse).)
 
 <!-- -->
 > ###### Blessed Light

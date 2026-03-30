@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Keep It Down](Keep It Down.md#keepitdown)
-- [Night Watch](Night Watch.md#nightwatch)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Keep It Down](Keep It Down.md#keep-it-down)
+- [Night Watch](Night Watch.md#night-watch)
 - [Perk](Perk.md#perk)
-- [Skill](Skill.md#kill)
-- [Surge of Insight](Surge of Insight.md#urgeofin-ight)
+- [Skill](Skill.md#skill)
+- [Surge of Insight](Surge of Insight.md#surge-of-insight)
 
 </div>

@@ -22,7 +22,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Heightened Focus
 
-When you gain [focus](../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focu) at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain [focus](../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus) at the start of each of your turns during combat, you gain 3 focus instead of 2.
 
 #### Seize the Initiative
 
@@ -34,15 +34,15 @@ You gain one skill of your choice.
 
 #### 7th-Level Doctrine Feature
 
-Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tactical-doctrine) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Asymmetric Warfare.md#a-ymmetricwarfare) |
-| Mastermind | [Grand Strategy](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Grand Strategy.md#grand-trategy)         |
-| Vanguard   | [Shock and Awe](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Shock and Awe.md#hockandawe)         |
+| Insurgent  | [Asymmetric Warfare](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Asymmetric Warfare.md#asymmetric-warfare) |
+| Mastermind | [Grand Strategy](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Grand Strategy.md#grand-strategy)         |
+| Vanguard   | [Shock and Awe](../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Shock and Awe.md#shock-and-awe)         |
 
 ##### Asymmetric Warfare
 

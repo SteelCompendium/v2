@@ -18,4 +18,4 @@ type: feature/subtrait/null/2nd-level-feature
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving.

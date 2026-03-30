@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 3rd-Level Features
 
-As a 3rd-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
+As a 3rd-level [censor](../../../Browse/Classes/Censor.md#censor), you gain the following features.
 
 #### Look On My Work and Despair
 

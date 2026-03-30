@@ -32,4 +32,4 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Trigger:** The target takes damage from a melee strike.
 
-**Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the creature who made the triggering strike.
+**Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the creature who made the triggering strike.

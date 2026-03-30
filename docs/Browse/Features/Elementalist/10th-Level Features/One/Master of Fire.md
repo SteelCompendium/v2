@@ -20,4 +20,4 @@ type: feature/subtrait/elementalist/10th-level-feature
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#returntoformle-ne) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.

@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Domain Feature](5th Level Domain Feature.md#5thleveldomainfeature)
+- [5th Level Domain Feature](5th Level Domain Feature.md#5th-level-domain-feature)
 
 </div>

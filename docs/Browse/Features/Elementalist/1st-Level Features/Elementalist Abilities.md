@@ -18,11 +18,11 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-specialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md#bifurcatedincineration), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md#vi-cou-fire).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md#bifurcated-incineration), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md#viscous-fire).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -116,9 +116,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -154,7 +154,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
 ###### 3-Essence Ability
 

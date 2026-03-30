@@ -43,4 +43,4 @@ type: feature/ability/talent/5th-level-feature
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../Browse/Conditions/Slowed.md#lowed) until the end of your turn and each target is [slowed](../../../../Browse/Conditions/Slowed.md#lowed) until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../Browse/Conditions/Slowed.md#slowed) until the end of your turn and each target is [slowed](../../../../Browse/Conditions/Slowed.md#slowed) until the end of their turn.

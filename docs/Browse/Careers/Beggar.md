@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../../Browse/Perks/Interpersonal Perks/Spot the Tell.md#potthetell).)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../../Browse/Perks/Interpersonal Perks/Spot the Tell.md#spot-the-tell).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

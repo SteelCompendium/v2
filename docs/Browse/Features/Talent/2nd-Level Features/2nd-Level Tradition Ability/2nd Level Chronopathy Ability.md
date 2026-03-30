@@ -50,9 +50,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends).
-> - **12-16:** The target is [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](../../../../../Browse/Conditions/Slowed.md#lowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends).
+> - **12-16:** The target is [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../../../../Browse/Conditions/Slowed.md#slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >

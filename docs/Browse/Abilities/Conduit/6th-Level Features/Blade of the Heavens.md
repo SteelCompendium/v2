@@ -37,6 +37,6 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I damage; A < WEAK, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-- **17+:** 16 + I damage; A < STRONG, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **≤11:** 8 + I damage; A < WEAK, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+- **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+- **17+:** 16 + I damage; A < STRONG, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)

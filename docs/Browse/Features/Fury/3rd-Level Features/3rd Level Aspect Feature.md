@@ -18,21 +18,21 @@ type: feature/trait/fury/3rd-level-feature
 
 #### 3rd-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                                        |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Immovable Object](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Immovable Object.md#immovableobject)                     |
-| Reaver     | [See Through Their Tricks](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/See Through Their Tricks.md#eethroughtheirtrick) |
-| Stormwight | [Nature's Knight](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md#nature-knight)                        |
+| Berserker  | [Immovable Object](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Immovable Object.md#immovable-object)                     |
+| Reaver     | [See Through Their Tricks](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/See Through Their Tricks.md#see-through-their-tricks) |
+| Stormwight | [Nature's Knight](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md#natures-knight)                        |
 
 ##### Immovable Object
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed).
 
-Additionally, you have a bonus to [stability](../../../../Browse/Movement/Stability.md#tability) equal to your Might score.
+Additionally, you have a bonus to [stability](../../../../Browse/Movement/Stability.md#stability) equal to your Might score.
 
 ##### Nature's Knight
 

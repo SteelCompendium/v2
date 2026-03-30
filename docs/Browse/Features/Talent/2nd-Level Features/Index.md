@@ -9,8 +9,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Tradition Ability](2nd Level Tradition Ability.md#2ndleveltraditionability)
-- [2nd Level Tradition Feature](2nd Level Tradition Feature.md#2ndleveltraditionfeature)
+- [2nd Level Tradition Ability](2nd Level Tradition Ability.md#2nd-level-tradition-ability)
+- [2nd Level Tradition Feature](2nd Level Tradition Feature.md#2nd-level-tradition-feature)
 - [Perk](Perk.md#perk)
 
 </div>
@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [2nd Level Chronopathy Ability](2nd-Level Tradition Ability/2nd Level Chronopathy Ability.md#2ndlevelchronopathyability)
-    - [2nd Level Telekinesis Ability](2nd-Level Tradition Ability/2nd Level Telekinesis Ability.md#2ndleveltelekine-i-ability)
-    - [2nd Level Telepathy Ability](2nd-Level Tradition Ability/2nd Level Telepathy Ability.md#2ndleveltelepathyability)
+    - [2nd Level Chronopathy Ability](2nd-Level Tradition Ability/2nd Level Chronopathy Ability.md#2nd-level-chronopathy-ability)
+    - [2nd Level Telekinesis Ability](2nd-Level Tradition Ability/2nd Level Telekinesis Ability.md#2nd-level-telekinesis-ability)
+    - [2nd Level Telepathy Ability](2nd-Level Tradition Ability/2nd Level Telepathy Ability.md#2nd-level-telepathy-ability)
 
 </div>
 
@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Ease the Hours](2nd-Level Tradition Feature/Ease the Hours.md#ea-ethehour)
-    - [Ease Their Fall](2nd-Level Tradition Feature/Ease Their Fall.md#ea-etheirfall)
-    - [Ease the Mind](2nd-Level Tradition Feature/Ease the Mind.md#ea-ethemind)
+    - [Ease the Hours](2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)
+    - [Ease Their Fall](2nd-Level Tradition Feature/Ease Their Fall.md#ease-their-fall)
+    - [Ease the Mind](2nd-Level Tradition Feature/Ease the Mind.md#ease-the-mind)
 
 </div>

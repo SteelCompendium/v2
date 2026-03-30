@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Careful Observation Improvement](Careful Observation Improvement.md#carefulob-ervationimprovement)
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Keen Insight](Keen Insight.md#keenin-ight)
-- [Skill](Skill.md#kill)
-- [Ventriloquist](Ventriloquist.md#ventriloqui-t)
+- [Careful Observation Improvement](Careful Observation Improvement.md#careful-observation-improvement)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Keen Insight](Keen Insight.md#keen-insight)
+- [Skill](Skill.md#skill)
+- [Ventriloquist](Ventriloquist.md#ventriloquist)
 
 </div>

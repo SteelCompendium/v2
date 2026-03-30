@@ -35,8 +35,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
 
-**Strained:** You are [slowed](../../../../Browse/Conditions/Slowed.md#lowed) until the end of your next turn. Additionally, a target [slowed](../../../../Browse/Conditions/Slowed.md#lowed) by this ability is [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) instead.
+**Strained:** You are [slowed](../../../../Browse/Conditions/Slowed.md#slowed) until the end of your next turn. Additionally, a target [slowed](../../../../Browse/Conditions/Slowed.md#slowed) by this ability is [restrained](../../../../Browse/Conditions/Restrained.md#restrained) instead.

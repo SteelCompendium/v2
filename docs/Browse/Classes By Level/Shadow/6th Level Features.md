@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 6th-Level Features
 
-As a 6th-level [shadow](../../../Browse/Classes/Shadow.md#hadow), you gain the following features.
+As a 6th-level [shadow](../../../Browse/Classes/Shadow.md#shadow), you gain the following features.
 
 #### Perk
 
@@ -24,7 +24,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving.
+- You can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -34,7 +34,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your [shadow](../../../Browse/Classes/Shadow.md#hadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../Browse/Classes/Shadow.md#shadow) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -130,8 +130,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.

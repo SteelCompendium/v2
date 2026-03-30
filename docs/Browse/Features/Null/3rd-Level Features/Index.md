@@ -7,7 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Psionic Leap](Psionic Leap.md#p-ionicleap)
+- [Psionic Leap](Psionic Leap.md#psionic-leap)
 - [Reorder](Reorder.md#reorder)
 
 </div>

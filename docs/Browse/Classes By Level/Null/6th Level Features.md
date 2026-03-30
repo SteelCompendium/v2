@@ -18,7 +18,7 @@ As a 6th-level [null](../../../Browse/Classes/Null.md#null), you gain the follow
 
 #### Elemental Absorption
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-hield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
 #### Elemental Buffer
 
@@ -94,7 +94,7 @@ Choose one of the following abilities.
 > | ------------------------- | --------------: |
 > | **📏 10 wall within 10**  |  **🎯 Special** |
 >
-> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends).
+> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 
@@ -115,7 +115,7 @@ Choose one of the following abilities.
 > - **12-16:** [Vertical](../../../Browse/Movement/Vertical.md#vertical) slide 7
 > - **17+:** [Vertical](../../../Browse/Movement/Vertical.md#vertical) slide 9
 >
-> **Effect:** This movement ignores [stability](../../../Browse/Movement/Stability.md#tability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+> **Effect:** This movement ignores [stability](../../../Browse/Movement/Stability.md#stability). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
 
 <!-- -->
 > ###### Iron Body (9 Discipline)
@@ -126,4 +126,4 @@ Choose one of the following abilities.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../Browse/Movement/Stability.md#tability) gains a bonus equal to your Intuition score.
+> **Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your [stability](../../../Browse/Movement/Stability.md#stability) gains a bonus equal to your Intuition score.

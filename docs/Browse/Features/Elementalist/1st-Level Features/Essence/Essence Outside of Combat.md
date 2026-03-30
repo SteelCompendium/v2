@@ -18,8 +18,8 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence/Essence Outside of Combat.md#e-enceout-ideofcombat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence/Essence Outside of Combat.md#essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../../../../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#per-i-tentmagic) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../../../../../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md#persistent-magic) below), you can maintain it for a number of rounds equal to your Victories.
 
-When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) equal to your Victories.

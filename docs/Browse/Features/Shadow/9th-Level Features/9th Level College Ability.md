@@ -18,7 +18,7 @@ type: feature/trait/shadow/9th-level-feature
 
 #### 9th-Level College Ability
 
-Your [shadow](../../../../Browse/Classes/Shadow.md#hadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../../Browse/Classes/Shadow.md#shadow) college grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 

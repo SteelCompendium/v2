@@ -28,4 +28,4 @@ type: treasure/trinkets/2nd-echelon
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../../../../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.

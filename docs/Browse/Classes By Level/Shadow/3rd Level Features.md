@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 3rd-Level Features
 
-As a 3rd-level [shadow](../../../Browse/Classes/Shadow.md#hadow), you gain the following features.
+As a 3rd-level [shadow](../../../Browse/Classes/Shadow.md#shadow), you gain the following features.
 
 #### Careful Observation
 
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free triggered action.
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free triggered action.
 
 <!-- -->
 > ###### Misdirecting Strike (7 Insight)
@@ -74,9 +74,9 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 16 + A damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 16 + A damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 
 <!-- -->
 > ###### Staggering Blow (7 Insight)
@@ -89,6 +89,6 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 > - **12-16:** 11 + A damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
 > - **17+:** 16 + A damage; M < STRONG, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)

@@ -18,7 +18,7 @@ type: feature/subtrait/conduit/7th-level-feature
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocationoftheheart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocation-of-the-heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side

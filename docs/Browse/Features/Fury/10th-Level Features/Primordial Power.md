@@ -18,10 +18,10 @@ type: feature/trait/fury/10th-level-feature
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower). Each time you finish a respite, you gain [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) equal to the XP you gain. You can spend [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) on your abilities as if it were [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
+You have an epic resource called [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power). Each time you finish a respite, you gain [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) equal to the XP you gain. You can spend [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) on your abilities as if it were [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
 
-Additionally, you can spend any amount of [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) as a free maneuver, ending one effect on you for each [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) spent.
+Additionally, you can spend any amount of [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) as a free maneuver, ending one effect on you for each [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) spent.
 
-You can also spend 3 [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) to create a portal to Quintessence without needing a source of elemental power.
+You can also spend 3 [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) to create a portal to Quintessence without needing a source of elemental power.
 
-[Primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordialpower) remains until you spend it.
+[Primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) remains until you spend it.

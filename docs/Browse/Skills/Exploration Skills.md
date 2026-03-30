@@ -16,9 +16,9 @@ type: skill
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
-Rewards for tests made with [exploration skills](../../Browse/Skills/Exploration Skills.md#exploration-kill) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+Rewards for tests made with [exploration skills](../../Browse/Skills/Exploration Skills.md#exploration-skills) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
 
-Consequences for tests made with [exploration skills](../../Browse/Skills/Exploration Skills.md#exploration-kill) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+Consequences for tests made with [exploration skills](../../Browse/Skills/Exploration Skills.md#exploration-skills) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
 ###### Exploration Skills Table
 

@@ -32,4 +32,4 @@ type: feature/ability/troubadour/1st-level-feature
 | ---------------------------- | ------------------------------------: |
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../Browse/Movement/Jump.md#jump), tumble, or [climb](../../../../Browse/Movement/Climb or Swim.md#climbor-wim) as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../Browse/Movement/Jump.md#jump), tumble, or [climb](../../../../Browse/Movement/Climb or Swim.md#climb-or-swim) as part of their movement before the end of their turn.

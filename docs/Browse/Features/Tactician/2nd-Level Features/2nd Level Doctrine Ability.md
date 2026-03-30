@@ -18,7 +18,7 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tactical-doctrine) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 
@@ -33,9 +33,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ###### Try Me Instead (5 Focus)
@@ -120,4 +120,4 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 1 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../Browse/Movement/Stability.md#tability) equal to your Might score. Additionally, each target gains 2 surges.
+> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../Browse/Movement/Stability.md#stability) equal to your Might score. Additionally, each target gains 2 surges.

@@ -39,7 +39,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../Browse/Movement/Stability.md#tability).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../Browse/Movement/Stability.md#stability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)

@@ -28,7 +28,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Eh?" the [polder](../../Browse/Ancestries/Polder.md#polder) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](../../Browse/Ancestries/Polder.md#polder) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../../Browse/Ancestries/High Elf.md#highelf) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../../Browse/Ancestries/Polder.md#polder) before," he said.
+"Oh," the [polder](../../Browse/Ancestries/Polder.md#polder) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../../Browse/Ancestries/Polder.md#polder) before," he said.
 
 "Are you kidding me?" Jackson said.
 
@@ -38,7 +38,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](../../Browse/Ancestries/Polder.md#polder) before."
 
-Jackson looked at his friend, the [high elf](../../Browse/Ancestries/High Elf.md#highelf) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the [polder](../../Browse/Ancestries/Polder.md#polder) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
@@ -74,7 +74,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](../../Browse/Ancestries/Polder.md#polder) looked at the [high elf](../../Browse/Ancestries/High Elf.md#highelf) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](../../Browse/Ancestries/Polder.md#polder) looked at the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -86,7 +86,7 @@ The [polder](../../Browse/Ancestries/Polder.md#polder) looked at the [high elf](
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the [high elf](../../Browse/Ancestries/High Elf.md#highelf) void mage, then back at the [human](../../Browse/Ancestries/Human.md#human). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) void mage, then back at the [human](../../Browse/Ancestries/Human.md#human). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -124,7 +124,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragonknight) stared at them for a moment, then turned back to his friend.
+The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
@@ -144,7 +144,7 @@ You have the following ability.
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You flatten yourself into a [shadow](../../Browse/Classes/Shadow.md#hadow) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a [shadow](../../Browse/Classes/Shadow.md#shadow) against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -166,7 +166,7 @@ Courage is all you know. You can't be made [frightened](../../Browse/Conditions/
 
 ##### Graceful Retreat (1 Point)
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action.
 
 ##### Nimblestep (2 Points)
 

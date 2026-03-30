@@ -14,11 +14,11 @@ type: class/censor/level
 
 ### 9th-Level Features
 
-As a 9th-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
+As a 9th-level [censor](../../../Browse/Classes/Censor.md#censor), you gain the following features.
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](../../../Browse/Features/Censor/6th-Level Features/Implement of Wrath.md#implementofwrath) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](../../../Browse/Features/Censor/6th-Level Features/Implement of Wrath.md#implement-of-wrath) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.
@@ -26,7 +26,7 @@ The weapon you target with your [Implement of Wrath](../../../Browse/Features/Ce
 
 #### 9th-Level Order Ability
 
-Your [censor](../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
+Your [censor](../../../Browse/Classes/Censor.md#censor) order grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 

@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 7th-Level Features
 
-As a 7th-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
+As a 7th-level [censor](../../../Browse/Classes/Censor.md#censor), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,24 +22,24 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level [Censor](../../../Browse/Classes/Censor.md#cen-or) Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](../../../Browse/Classes/Censor.md#censor) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md#divinequarterma-ter)                     |
-| Death      | [Word of Death Deferred](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md#wordofdeathdeferred)             |
-| Fate       | [Word of Fate Denied](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md#wordoffatedenied)                   |
+| Creation   | [Divine Quartermaster](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md#divine-quartermaster)                     |
+| Death      | [Word of Death Deferred](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md#word-of-death-deferred)             |
+| Fate       | [Word of Fate Denied](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md#word-of-fate-denied)                   |
 | Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md#fontofgrace)                                 |
-| Love       | [Covenant of the Heart](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md#covenantoftheheart)               |
-| Nature     | [Nature's Bounty](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md#nature-bounty)                                |
-| Protection | [Blessing of Iron](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md#ble-ingofiron)                           |
-| Storm      | [Ride the Lightning](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md#ridethelightning)                       |
-| Sun        | [Light of the Burning Sun](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md#lightoftheburning-un)       |
-| Trickery   | [Trinity of Trickery](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md#trinityoftrickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md#yourtriumph-areremembered) |
+| Life       | [Font of Grace](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md#font-of-grace)                                 |
+| Love       | [Covenant of the Heart](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md#covenant-of-the-heart)               |
+| Nature     | [Nature's Bounty](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md#natures-bounty)                                |
+| Protection | [Blessing of Iron](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md#blessing-of-iron)                           |
+| Storm      | [Ride the Lightning](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md#ride-the-lightning)                       |
+| Sun        | [Light of the Burning Sun](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md#light-of-the-burning-sun)       |
+| Trickery   | [Trinity of Trickery](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md#trinity-of-trickery)                     |
+| War        | [Your Triumphs Are Remembered](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md#your-triumphs-are-remembered) |
 
 ##### Blessing of Iron
 
@@ -47,7 +47,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocationoftheheart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocation-of-the-heart) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -66,7 +66,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#mylifeforyour) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath), it is lost. Additionally, the target of [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#mylifeforyour) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath), it is lost. Additionally, the target of [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) gains 10 temporary Stamina.
 
 ##### Gods' Library
 
@@ -109,7 +109,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#mylifeforyour) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 

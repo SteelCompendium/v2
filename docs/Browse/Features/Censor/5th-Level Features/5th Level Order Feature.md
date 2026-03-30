@@ -18,15 +18,15 @@ type: feature/trait/censor/5th-level-feature
 
 #### 5th-Level Order Feature
 
-Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](../../../../Browse/Classes/Censor.md#censor) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
 | Order    | Feature                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](../../../../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Evil Revealed.md#evilrevealed) |
+| Exorcist | [Evil Revealed](../../../../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Evil Revealed.md#evil-revealed) |
 | Oracle   | [Prophecy](../../../../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Prophecy.md#prophecy)             |
-| Paragon  | [Stand Fast](../../../../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Stand Fast.md#tandfa-t)!      |
+| Paragon  | [Stand Fast](../../../../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Stand Fast.md#stand-fast)!      |
 
 ##### Evil Revealed
 

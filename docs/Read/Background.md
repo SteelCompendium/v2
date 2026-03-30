@@ -34,7 +34,7 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../Browse/Ancestries/Human.md#human). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) raised in the [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../Browse/Ancestries/Human.md#human). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) raised in the [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../Browse/Ancestries/Revenant.md#revenant) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
@@ -43,16 +43,16 @@ You can build your culture one aspect at a time, or you can use the following ta
 | Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
 | ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
 | [Devil](../Browse/Ancestries/Devil.md#devil)                   | Anjali      | Urban       | Bureaucratic | Academic   |
-| [Dragon knight](../Browse/Ancestries/Dragon Knight.md#dragonknight) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dragon knight](../Browse/Ancestries/Dragon Knight.md#dragon-knight) | Vastariax   | Secluded    | Bureaucratic | Martial    |
 | [Dwarf](../Browse/Ancestries/Dwarf.md#dwarf)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| [Wode elf](../Browse/Ancestries/Wode Elf.md#wodeelf)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| [High elf](../Browse/Ancestries/High Elf.md#highelf)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Wode elf](../Browse/Ancestries/Wode Elf.md#wode-elf)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| [High elf](../Browse/Ancestries/High Elf.md#high-elf)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
 | [Hakaan](../Browse/Ancestries/Hakaan.md#hakaan)                 | Vhoric      | Rural       | Communal     | Labor      |
 | [Human](../Browse/Ancestries/Human.md#human)                   | Vaslorian   | Urban       | Communal     | Labor      |
 | [Memonek](../Browse/Ancestries/Memonek.md#memonek)               | Axiomatic   | Nomadic     | Communal     | Academic   |
 | [Orc](../Browse/Ancestries/Orc.md#orc)                       | Kalliak     | Wilderness  | Communal     | Creative   |
 | [Polder](../Browse/Ancestries/Polder.md#polder)                 | Khoursirian | Urban       | Communal     | Creative   |
-| [Time raider](../Browse/Ancestries/Time Raider.md#timeraider)     | Voll        | Nomadic     | Communal     | Martial    |
+| [Time raider](../Browse/Ancestries/Time Raider.md#time-raider)     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -212,11 +212,11 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 ##### Caelian Empire
 
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent [human](../Browse/Ancestries/Human.md#human) empire, all [humans](../Browse/Ancestries/Human.md#human) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble [classes](../Chapters/Classes.md#cla-e) and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent [human](../Browse/Ancestries/Human.md#human) empire, all [humans](../Browse/Ancestries/Human.md#human) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble [classes](../Chapters/Classes.md#classes) and the well-to-do, Caelian effectively replaced their native language.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](../Browse/Ancestries/Human.md#human) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../Browse/Ancestries/Dwarf.md#dwarf), [dragon knights](../Browse/Ancestries/Dragon Knight.md#dragonknight), elves, [hakaan](../Browse/Ancestries/Hakaan.md#hakaan), [orcs](../Browse/Ancestries/Orc.md#orc), [polders](../Browse/Ancestries/Polder.md#polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../Browse/Ancestries/Dwarf.md#dwarf), [dragon knights](../Browse/Ancestries/Dragon Knight.md#dragon-knight), elves, [hakaan](../Browse/Ancestries/Hakaan.md#hakaan), [orcs](../Browse/Ancestries/Orc.md#orc), [polders](../Browse/Ancestries/Polder.md#polder), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
@@ -251,8 +251,8 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Caelian                 | Orden denizens                                                                                                                  | Common language of Orden                                                         |
 | Filliaric               | Angulotls                                                                                                                       |                                                                                  |
 | The First<br/> Language | Elder dragons                                                                                                                   | Language of magic                                                                |
-| Hyrallic                | [High elves](../Browse/Ancestries/High Elf.md#highelf)                                                         | Language of interspecies diplomacy                                               |
-| Illyvric                | [Shadow](../Browse/Classes/Shadow.md#hadow) elves                                                              |                                                                                  |
+| Hyrallic                | [High elves](../Browse/Ancestries/High Elf.md#high-elf)                                                         | Language of interspecies diplomacy                                               |
+| Illyvric                | [Shadow](../Browse/Classes/Shadow.md#shadow) elves                                                              |                                                                                  |
 | Kalliak                 | [Orcs](../Browse/Ancestries/Orc.md#orc)                                                                      | Offshoot of Zaliac                                                               |
 | Kethaic                 | Kobolds                                                                                                                         | Patois of Vastariax and Caelian                                                  |
 | Khelt                   | Bugbears, fey                                                                                                                   | Offshoot of Kheltivari                                                           |
@@ -267,16 +267,16 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Variac                  | Olothec, trolls,<br/> voiceless talkers                                                                                         | Common language of the World Below                                               |
 | Vastariax               | Dragons, dragon<br/> knights                                                                                                    |                                                                                  |
 | Vhoric                  | [Hakaan](../Browse/Ancestries/Hakaan.md#hakaan)                                                                 | Offshoot of the stone giant dialect of High<br/> Kuric                           |
-| Voll                    | [Time raiders](../Browse/Ancestries/Time Raider.md#timeraider)                                                    |                                                                                  |
-| Yllyric                 | [Wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf)                                                         | Language of druids                                                               |
+| Voll                    | [Time raiders](../Browse/Ancestries/Time Raider.md#time-raider)                                                    |                                                                                  |
+| Yllyric                 | [Wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf)                                                         | Language of druids                                                               |
 | Za'hariax               | Overminds                                                                                                                       |                                                                                  |
 | Zaliac                  | [Dwarves](../Browse/Ancestries/Dwarf.md#dwarf)                                                                 | Language of engineering                                                          |
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the [high elves](../Browse/Ancestries/High Elf.md#highelf) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../Browse/Ancestries/Dwarf.md#dwarf). As a result, while anyone who lives near or trades with a [human](../Browse/Ancestries/Human.md#human) culture probably speaks at least a little Caelian, most nobles across all [ancestries](../Chapters/Ancestries.md#ance-trie) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the [high elves](../Browse/Ancestries/High Elf.md#high-elf) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../Browse/Ancestries/Dwarf.md#dwarf). As a result, while anyone who lives near or trades with a [human](../Browse/Ancestries/Human.md#human) culture probably speaks at least a little Caelian, most nobles across all [ancestries](../Chapters/Ancestries.md#ancestries) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf), and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf), and also the common language among those who defend and protect the natural forests of Orden.
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) language when describing esoteric, complex ideas.
 
@@ -316,7 +316,7 @@ Being a hero isn't a job. It's a calling. But before you answered that call, you
 
 ### Career Questions
 
-The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../Browse/Careers/Artisan.md#arti-an), a [criminal](../Browse/Careers/Criminal.md#criminal), or a [gladiator](../Browse/Careers/Gladiator.md#gladiator) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../Browse/Careers/Artisan.md#arti-an) career, one of the questions is: "What did you create?"
+The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../Browse/Careers/Artisan.md#artisan), a [criminal](../Browse/Careers/Criminal.md#criminal), or a [gladiator](../Browse/Careers/Gladiator.md#gladiator) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../Browse/Careers/Artisan.md#artisan) career, one of the questions is: "What did you create?"
 
 You don't need to answer these questions, but doing so can help shape a more complete picture of your hero. And if you do answer them, consider telling your Director the answers so they can think about working those details into the game. Directors already have a lot to juggle, but they certainly can't create dramatic moments from your backstory if you never tell them what that backstory is.
 
@@ -381,7 +381,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](../Browse/Perks/Intrigue Perks/Forgettable Face.md#forgettableface).)
+**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](../Browse/Perks/Intrigue Perks/Forgettable Face.md#forgettable-face).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -439,7 +439,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../Browse/Perks/Crafting Perks/Area of Expertise.md#areaofexperti-e).)
+**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../Browse/Perks/Crafting Perks/Area of Expertise.md#area-of-expertise).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -465,7 +465,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../Browse/Perks/Interpersonal Perks/Spot the Tell.md#potthetell).)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../Browse/Perks/Interpersonal Perks/Spot the Tell.md#spot-the-tell).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -493,7 +493,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../Browse/Perks/Intrigue Perks/Criminal Contacts.md#criminalcontact).)
+**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../Browse/Perks/Intrigue Perks/Criminal Contacts.md#criminal-contacts).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -519,7 +519,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../Browse/Perks/Supernatural Perks/Ritualist.md#rituali-t).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../Browse/Perks/Supernatural Perks/Ritualist.md#ritualist).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -546,7 +546,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Wood Wise](../Browse/Perks/Exploration Perks/Wood Wise.md#woodwi-e).)
+**Perk:** One exploration perk (*Quick Build:* [Wood Wise](../Browse/Perks/Exploration Perks/Wood Wise.md#wood-wise).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -574,7 +574,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../Browse/Perks/Exploration Perks/Monster Whisperer.md#mon-terwhi-perer).)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../Browse/Perks/Exploration Perks/Monster Whisperer.md#monster-whisperer).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -602,7 +602,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../Browse/Perks/Exploration Perks/Friend Catapult.md#friendcatapult).)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../Browse/Perks/Exploration Perks/Friend Catapult.md#friend-catapult).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -658,7 +658,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../Browse/Perks/Supernatural Perks/Arcane Trick.md#arcanetrick).)
+**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../Browse/Perks/Supernatural Perks/Arcane Trick.md#arcane-trick).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -667,7 +667,7 @@ You gain the following career benefits:
 | 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                         |
 | 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                             |
 | 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                   |
-| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](../Browse/Classes/Elementalist.md#elementali-t) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day.    |
+| 6   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](../Browse/Classes/Elementalist.md#elementalist) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day.    |
 
 #### Performer
 
@@ -714,7 +714,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../Browse/Perks/Interpersonal Perks/Engrossing Monologue.md#engro-ingmonologue).)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../Browse/Perks/Interpersonal Perks/Engrossing Monologue.md#engrossing-monologue).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -742,7 +742,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One lore perk (*Quick Build:* Expert [Sage](../Browse/Careers/Sage.md#age).)
+**Perk:** One lore perk (*Quick Build:* Expert [Sage](../Browse/Careers/Sage.md#sage).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -764,11 +764,11 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** [Swim](../Browse/Movement/Climb or Swim.md#climbor-wim) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../Browse/Movement/Climb or Swim.md#climbor-wim), Gymnastics, [Swim](../Browse/Movement/Climb or Swim.md#climbor-wim).)
+**Skills:** [Swim](../Browse/Movement/Climb or Swim.md#climb-or-swim) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../Browse/Movement/Climb or Swim.md#climb-or-swim), Gymnastics, [Swim](../Browse/Movement/Climb or Swim.md#climb-or-swim).)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](../Browse/Perks/Exploration Perks/Put Your Back Into It.md#putyourbackintoit)!)
+**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](../Browse/Perks/Exploration Perks/Put Your Back Into It.md#put-your-back-into-it)!)
 
 | d6  | Inciting Incident |
 | --- | ----------------- |
@@ -820,7 +820,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../Browse/Perks/Exploration Perks/Camouflage Hunter.md#camouflagehunter).)
+**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../Browse/Perks/Exploration Perks/Camouflage Hunter.md#camouflage-hunter).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -847,7 +847,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Team Leader](../Browse/Perks/Exploration Perks/Team Leader.md#teamleader).)
+**Perk:** One exploration perk (*Quick Build:* [Team Leader](../Browse/Perks/Exploration Perks/Team Leader.md#team-leader).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

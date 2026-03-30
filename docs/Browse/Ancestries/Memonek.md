@@ -132,7 +132,7 @@ You can push your body to move at incredible speeds. Your speed is 7.
 
 ##### Nonstop (2 Points)
 
-Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](../../Browse/Conditions/Slowed.md#lowed).
+Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](../../Browse/Conditions/Slowed.md#slowed).
 
 ##### Systematic Mind (1 Point)
 

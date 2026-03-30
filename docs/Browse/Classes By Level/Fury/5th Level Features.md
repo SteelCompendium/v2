@@ -18,7 +18,7 @@ As a 5th-level [fury](../../../Browse/Classes/Fury.md#fury), you gain the follow
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
@@ -26,7 +26,7 @@ Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primor
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Berserker  | [Bounder](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Bounder.md#bounder)       |
 | Reaver     | [Unfettered](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Unfettered.md#unfettered) |
-| Stormwight | [Stormborn](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md#tormborn)   |
+| Stormwight | [Stormborn](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md#stormborn)   |
 
 ##### Bounder
 
@@ -34,11 +34,11 @@ Your [jump](../../../Browse/Movement/Jump.md#jump) distance and height double (s
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit.md#conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit.md#conduit) section).
 
 ##### Unfettered
 
-At the start of your turn, you can end any [restrained](../../../Browse/Conditions/Restrained.md#re-trained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../../../Browse/Conditions/Restrained.md#restrained) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
 #### 9-Ferocity Ability
 
@@ -55,11 +55,11 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 20 + M damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 10 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 20 + M damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 >
-> **Effect:** While [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, the target takes 1 damage for every square they move, including from forced movement.
+> **Effect:** While [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, the target takes 1 damage for every square they move, including from forced movement.
 
 <!-- -->
 > ###### My Turn! (9 Ferocity)
@@ -108,8 +108,8 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 18 + M damage; M < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 9 + M damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 18 + M damage; M < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
-> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) this way, any other effect that would make the target [slowed](../../../Browse/Conditions/Slowed.md#lowed) instead makes them [restrained](../../../Browse/Conditions/Restrained.md#re-trained) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../../Browse/Conditions/Restrained.md#re-trained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) this way, any other effect that would make the target [slowed](../../../Browse/Conditions/Slowed.md#slowed) instead makes them [restrained](../../../Browse/Conditions/Restrained.md#restrained) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../../Browse/Conditions/Restrained.md#restrained) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).

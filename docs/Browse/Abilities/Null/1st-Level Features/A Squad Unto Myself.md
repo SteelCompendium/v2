@@ -40,4 +40,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free maneuver before or after you use this ability.

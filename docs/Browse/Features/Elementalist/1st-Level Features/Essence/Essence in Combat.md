@@ -18,8 +18,8 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
 You lose any remaining essence at the end of the encounter.

@@ -18,14 +18,14 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../../../Browse/Classes/Troubadour.md#troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#cla-acttriggeredaction) table.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md#troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#class-act-triggered-action) table.
 
 ###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Turnabout Is Fair Play](../../../../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md#turnabouti-fairplay) |
-| Duelist   | [Riposte](../../../../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md#ripo-te)                                     |
+| Auteur    | [Turnabout Is Fair Play](../../../../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md#turnabout-is-fair-play) |
+| Duelist   | [Riposte](../../../../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md#riposte)                                     |
 | Virtuoso  | Harmonize                                                                                                                            |
 
 <!-- -->
@@ -54,7 +54,7 @@ Your [troubadour](../../../../Browse/Classes/Troubadour.md#troubadour) class act
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the creature who made the triggering strike.
 
 <!-- -->
 > ###### Turnabout Is Fair Play

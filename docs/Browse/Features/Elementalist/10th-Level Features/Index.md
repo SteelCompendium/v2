@@ -8,14 +8,14 @@ type: index
 <div class="browse-index" markdown>
 
 - [Breath](Breath.md#breath)
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Essential Being](Essential Being.md#e-entialbeing)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Essential Being](Essential Being.md#essential-being)
 - [One](One.md#one)
-    - [Master of Earth](One/Master of Earth.md#ma-terofearth)
-    - [Master of Fire](One/Master of Fire.md#ma-teroffire)
-    - [Master of Green](One/Master of Green.md#ma-terofgreen)
-    - [Master of Void](One/Master of Void.md#ma-terofvoid)
+    - [Master of Earth](One/Master of Earth.md#master-of-earth)
+    - [Master of Fire](One/Master of Fire.md#master-of-fire)
+    - [Master of Green](One/Master of Green.md#master-of-green)
+    - [Master of Void](One/Master of Void.md#master-of-void)
 - [Perk](Perk.md#perk)
-- [Skill](Skill.md#kill)
+- [Skill](Skill.md#skill)
 
 </div>

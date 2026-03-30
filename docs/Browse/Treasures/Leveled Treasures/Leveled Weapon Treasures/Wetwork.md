@@ -28,8 +28,8 @@ type: treasure/leveled/weapon
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) and can move up to 2 squares before or after the strike.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).

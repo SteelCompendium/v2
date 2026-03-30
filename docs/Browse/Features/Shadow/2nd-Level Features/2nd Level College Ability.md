@@ -18,7 +18,7 @@ type: feature/trait/shadow/2nd-level-feature
 
 #### 2nd-Level College Ability
 
-Your [shadow](../../../../Browse/Classes/Shadow.md#hadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../../Browse/Classes/Shadow.md#shadow) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -48,9 +48,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#inallthi-confu-ion) ability.
+> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#inallthi-confu-ion) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#inallthi-confu-ion). After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion). After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -109,7 +109,7 @@ Choose one of the following abilities.
 > - **12-16:** Slide 5
 > - **17+:** Slide 7
 >
-> **Effect:** This forced movement ignores [stability](../../../../Browse/Movement/Stability.md#tability). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+> **Effect:** This forced movement ignores [stability](../../../../Browse/Movement/Stability.md#stability). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
 <!-- -->
 > ###### So Gullible (5 Insight)
@@ -122,4 +122,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them. You can then spend a Recovery.

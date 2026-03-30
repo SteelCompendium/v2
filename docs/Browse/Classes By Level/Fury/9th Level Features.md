@@ -18,11 +18,11 @@ As a 9th-level [fury](../../../Browse/Classes/Fury.md#fury), you gain the follow
 
 #### Harbinger of the Primordial Chaos
 
-You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../../Browse/Features/Fury/6th-Level Features/Primordial Portal.md#primordialportal) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
+You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../../Browse/Features/Fury/6th-Level Features/Primordial Portal.md#primordial-portal) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
 #### 9th-Level Aspect Ability
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Berserker Abilities
 

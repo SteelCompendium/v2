@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Elemental Form](Elemental Form.md#elementalform)
-- [Greater Ferocity](Greater Ferocity.md#greaterferocity)
-- [Growing Ferocity Improvement](Growing Ferocity Improvement.md#growingferocityimprovement)
-- [Skill](Skill.md#kill)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Elemental Form](Elemental Form.md#elemental-form)
+- [Greater Ferocity](Greater Ferocity.md#greater-ferocity)
+- [Growing Ferocity Improvement](Growing Ferocity Improvement.md#growing-ferocity-improvement)
+- [Skill](Skill.md#skill)
 
 </div>

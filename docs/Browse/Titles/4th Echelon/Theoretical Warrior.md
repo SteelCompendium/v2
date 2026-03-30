@@ -17,7 +17,7 @@ type: title/4th-echelon
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
-**Prerequisite:** You have the [Master Librarian](../../../Browse/Titles/2nd Echelon/Master Librarian.md#ma-terlibrarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
+**Prerequisite:** You have the [Master Librarian](../../../Browse/Titles/2nd Echelon/Master Librarian.md#master-librarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 

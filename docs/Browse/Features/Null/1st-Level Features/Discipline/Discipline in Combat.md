@@ -18,8 +18,8 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
+Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
 
 You lose any remaining discipline at the end of the encounter.

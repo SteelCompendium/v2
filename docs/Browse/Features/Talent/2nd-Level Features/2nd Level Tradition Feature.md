@@ -24,9 +24,9 @@ Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you 
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ea-ethehour)   |
-| Telekinesis | [Ease Their Fall](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md#ea-etheirfall) |
-| Telepathy   | [Ease the Mind](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md#ea-ethemind)     |
+| Chronopathy | [Ease the Hours](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)   |
+| Telekinesis | [Ease Their Fall](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md#ease-their-fall) |
+| Telepathy   | [Ease the Mind](../../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md#ease-the-mind)     |
 
 ##### Ease the Hours
 

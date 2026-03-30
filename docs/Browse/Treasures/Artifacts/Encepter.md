@@ -28,7 +28,7 @@ The [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter) is said
 
 **Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter). Creatures remain lassoed until the lasso is released or until a new line is drawn.
 
-**Dominion:** Each creature lassoed by the [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter) is [restrained](../../../Browse/Conditions/Restrained.md#re-trained) and can't [teleport](../../../Browse/Movement/Teleport.md#teleport). A creature caught in midair while lassoed stays in place rather than falling.
+**Dominion:** Each creature lassoed by the [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter) is [restrained](../../../Browse/Conditions/Restrained.md#restrained) and can't [teleport](../../../Browse/Movement/Teleport.md#teleport). A creature caught in midair while lassoed stays in place rather than falling.
 
 **Obliteration:** As a main action, the wielder raises the [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter) to the sky. Each target lassoed by the [Encepter](../../../Browse/Treasures/Artifacts/Encepter.md#encepter) erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
 

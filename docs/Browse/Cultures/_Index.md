@@ -11,9 +11,9 @@ type: index
 
 - [Nomadic](Environments/Nomadic.md#nomadic)
 - [Rural](Environments/Rural.md#rural)
-- [Secluded](Environments/Secluded.md#ecluded)
+- [Secluded](Environments/Secluded.md#secluded)
 - [Urban](Environments/Urban.md#urban)
-- [Wilderness](Environments/Wilderness.md#wilderne)
+- [Wilderness](Environments/Wilderness.md#wilderness)
 
 </div>
 
@@ -33,7 +33,7 @@ type: index
 - [Academic](Upbringing/Academic.md#academic)
 - [Creative](Upbringing/Creative.md#creative)
 - [Labor](Upbringing/Labor.md#labor)
-- [Lawless](Upbringing/Lawless.md#lawle)
+- [Lawless](Upbringing/Lawless.md#lawless)
 - [Martial](Upbringing/Martial.md#martial)
 - [Noble](Upbringing/Noble.md#noble)
 

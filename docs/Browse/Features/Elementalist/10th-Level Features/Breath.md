@@ -18,6 +18,6 @@ type: feature/trait/elementalist/10th-level-feature
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence) (no action required). When you do, 1 breath becomes 3 [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) (no action required). When you do, 1 breath becomes 3 [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).
 
-[Breath](../../../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath) remains until you convert it to [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
+[Breath](../../../../Browse/Features/Elementalist/10th-Level Features/Breath.md#breath) remains until you convert it to [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence).

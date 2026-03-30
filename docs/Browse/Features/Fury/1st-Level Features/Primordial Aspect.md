@@ -18,10 +18,10 @@ type: feature/trait/fury/1st-level-feature
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
 - **Berserker:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
 - **Reaver:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
 - **Stormwight:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordial-aspect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.

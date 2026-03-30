@@ -18,4 +18,4 @@ type: feature/subtrait/fury/5th-level-feature
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) feature as if you were a 1st-level [conduit](../../../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../../Browse/Classes/Conduit.md#conduit) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) feature as if you were a 1st-level [conduit](../../../../../Browse/Classes/Conduit.md#conduit) (see 1st-Level Domain Feature in the [Conduit](../../../../../Browse/Classes/Conduit.md#conduit) section).

@@ -46,7 +46,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | -------------------------------: |
 > | **📏 4 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../../Browse/Movement/Stability.md#tability) for your allies.
+> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../../Browse/Movement/Stability.md#stability) for your allies.
 
 <!-- -->
 > ###### Blade of the Heavens (9 Piety)
@@ -59,9 +59,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
-> - **17+:** 16 + I damage; A < STRONG, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](../../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)

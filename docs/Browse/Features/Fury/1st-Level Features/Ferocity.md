@@ -23,7 +23,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](../../../../Chapters/Classes.md#cla-e) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../../Browse/Classes/Fury.md#fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../../Browse/Classes/Fury.md#fury) has them using the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) or [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../../../../Chapters/Classes.md#classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../../Browse/Classes/Fury.md#fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../../Browse/Classes/Fury.md#fury) has them using the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) or [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -35,6 +35,6 @@ You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../../../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md#ferocityout-ideofcombat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md#ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) equal to your Victories.

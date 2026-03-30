@@ -24,9 +24,9 @@ Your [troubadour](../../../../Browse/Classes/Troubadour.md#troubadour) class act
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#mi-edcue)     |
+| Auteur    | [Missed Cue](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#econdalbum) |
+| Virtuoso  | [Second Album](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#second-album) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"

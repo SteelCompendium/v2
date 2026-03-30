@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Careful Observation Improvement](Careful Observation Improvement.md#carefulob-ervationimprovement)
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Death Pool](Death Pool.md#deathpool)
-- [Improved Umbral Form](Improved Umbral Form.md#improvedumbralform)
+- [Careful Observation Improvement](Careful Observation Improvement.md#careful-observation-improvement)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Death Pool](Death Pool.md#death-pool)
+- [Improved Umbral Form](Improved Umbral Form.md#improved-umbral-form)
 - [Perk](Perk.md#perk)
-- [Skill](Skill.md#kill)
-- [Subterfuge](Subterfuge.md#ubterfuge)
+- [Skill](Skill.md#skill)
+- [Subterfuge](Subterfuge.md#subterfuge)
 
 </div>

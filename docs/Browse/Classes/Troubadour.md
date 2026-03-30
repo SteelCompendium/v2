@@ -48,16 +48,16 @@ There is no visible text in the image provided. The image appears to show a deco
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](../../Browse/Classes/Troubadour.md#troubadour) Class Act, [Drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), Kit, [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner), [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine), Class Act Features, [Class Act Triggered Action](../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#cla-acttriggeredaction), [Troubadour](../../Browse/Classes/Troubadour.md#troubadour) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md#appealtothemu-e), [Invocation](../../Browse/Features/Troubadour/2nd-Level Features/Invocation.md#invocation), Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                   |
+| 1st   | [Troubadour](../../Browse/Classes/Troubadour.md#troubadour) Class Act, [Drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), Kit, [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner), [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines), Class Act Features, [Class Act Triggered Action](../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#class-act-triggered-action), [Troubadour](../../Browse/Classes/Troubadour.md#troubadour) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md#appeal-to-the-muses), [Invocation](../../Browse/Features/Troubadour/2nd-Level Features/Invocation.md#invocation), Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../../Browse/Features/Troubadour/4th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [Melodrama](../../Browse/Features/Troubadour/4th-Level Features/Melodrama.md#melodrama), Perk, Skill, [Zeitgeist](../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md#zeitgei-t)                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../../Browse/Features/Troubadour/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Melodrama](../../Browse/Features/Troubadour/4th-Level Features/Melodrama.md#melodrama), Perk, Skill, [Zeitgeist](../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md#zeitgeist)                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Spotlight](../../Browse/Abilities/Troubadour/6th-Level Features/Spotlight.md#potlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../../Browse/Features/Troubadour/7th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [A Muse's Muse](../../Browse/Features/Troubadour/7th-Level Features/A Muses Muse.md#amu-e-mu-e), [Equal Billing](../../Browse/Features/Troubadour/7th-Level Features/Equal Billing.md#equalbilling), Skill                                                                                                                                                                                                                                                                             | Signature, 5, 7, 9        | 5, 9                |
+| 6th   | Perk, [Spotlight](../../Browse/Abilities/Troubadour/6th-Level Features/Spotlight.md#spotlight), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../../Browse/Features/Troubadour/7th-Level Features/Characteristic Increase.md#characteristic-increase), [A Muse's Muse](../../Browse/Features/Troubadour/7th-Level Features/A Muses Muse.md#a-muses-muse), [Equal Billing](../../Browse/Features/Troubadour/7th-Level Features/Equal Billing.md#equal-billing), Skill                                                                                                                                                                                                                                                                             | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | [Roar of the Crowd](../../Browse/Features/Troubadour/9th-Level Features/Roar of the Crowd.md#roarofthecrowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Applause](../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applau-e), [Characteristic Increase](../../Browse/Features/Troubadour/10th-Level Features/Characteristic Increase.md#characteri-ticincrea-e), [Dramaturgy](../../Browse/Features/Troubadour/10th-Level Features/Dramaturgy.md#dramaturgy), [Greatest of All Time](../../Browse/Features/Troubadour/10th-Level Features/Greatest of All Time.md#greate-tofalltime), Perk, Skill                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../../Browse/Features/Troubadour/9th-Level Features/Roar of the Crowd.md#roar-of-the-crowd), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Applause](../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applause), [Characteristic Increase](../../Browse/Features/Troubadour/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Dramaturgy](../../Browse/Features/Troubadour/10th-Level Features/Dramaturgy.md#dramaturgy), [Greatest of All Time](../../Browse/Features/Troubadour/10th-Level Features/Greatest of All Time.md#greatest-of-all-time), Perk, Skill                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -94,14 +94,14 @@ You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../Browse/Features/Troubadour/1st-Level Features/Drama/Drama Outside of Combat.md#dramaout-ideofcombat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../Browse/Features/Troubadour/1st-Level Features/Drama/Drama Outside of Combat.md#drama-outside-of-combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../Browse/Abilities/Troubadour/1st-Level Features/Artful Flourish.md#artfulflouri-h), you can use it as if you had spent an amount of [drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../Browse/Abilities/Troubadour/1st-Level Features/Artful Flourish.md#artful-flourish), you can use it as if you had spent an amount of [drama](../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama) equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../../Browse/Classes/Troubadour.md#troubadour)**
 >
-> Abilities like Guest Star, [Missed Cue](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#mi-edcue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -111,7 +111,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](../../Browse/Kits/Swashbuckler.md#wa-hbuckler).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](../../Browse/Kits/Swashbuckler.md#swashbuckler).)
 
 #### Scene Partner
 
@@ -123,7 +123,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../Browse/Conditions/Dazed.md#dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
-You start off with the [Choreography](../../Browse/Abilities/Troubadour/1st-Level Features/Choreography.md#choreography) and [Revitalizing Limerick](../../Browse/Abilities/Troubadour/1st-Level Features/Revitalizing Limerick.md#revitalizinglimerick) performance abilities. Your choice of class act grants you additional performances.
+You start off with the [Choreography](../../Browse/Abilities/Troubadour/1st-Level Features/Choreography.md#choreography) and [Revitalizing Limerick](../../Browse/Abilities/Troubadour/1st-Level Features/Revitalizing Limerick.md#revitalizing-limerick) performance abilities. Your choice of class act grants you additional performances.
 
 <!-- -->
 > ###### Choreography
@@ -155,13 +155,13 @@ Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grant
 
 | Class Act | Features                                                                                                                                                                                                                                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue)                                                                                                                                                   |
-| Duelist   | [Acrobatics](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Acrobatics.md#acrobatic), [Star Power](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Star Power.md#tarpower) |
-| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level Features/Power Chord.md#powerchord), [Virtuoso Performances](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md#virtuo-operformance)         |
+| Auteur    | Blocking, [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramatic-monologue)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Acrobatics.md#acrobatics), [Star Power](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Star Power.md#star-power) |
+| Virtuoso  | [Power Chord](../../Browse/Abilities/Troubadour/1st-Level Features/Power Chord.md#power-chord), [Virtuoso Performances](../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md#virtuoso-performances)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -172,11 +172,11 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../Browse/Movement/Jump.md#jump), tumble, or [climb](../../Browse/Movement/Climb or Swim.md#climbor-wim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../Browse/Movement/Jump.md#jump), tumble, or [climb](../../Browse/Movement/Climb or Swim.md#climb-or-swim) as part of their movement before the end of their turn.
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Blocking
@@ -248,7 +248,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### "Thunder Mother"
@@ -280,14 +280,14 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#cla-acttriggeredaction) table.
+Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#class-act-triggered-action) table.
 
 ###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Turnabout Is Fair Play](../../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md#turnabouti-fairplay) |
-| Duelist   | [Riposte](../../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md#ripo-te)                                     |
+| Auteur    | [Turnabout Is Fair Play](../../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md#turnabout-is-fair-play) |
+| Duelist   | [Riposte](../../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md#riposte)                                     |
 | Virtuoso  | Harmonize                                                                                                                            |
 
 <!-- -->
@@ -316,7 +316,7 @@ Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grant
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the creature who made the triggering strike.
 
 <!-- -->
 > ###### Turnabout Is Fair Play
@@ -339,7 +339,7 @@ Your performance centers around maneuvering through the scene of battle, maintai
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md#wittybanter).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md#witty-banter).)
 
 <!-- -->
 > ###### Artful Flourish
@@ -464,9 +464,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](../../Browse/Conditions/Restrained.md#restrained) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -502,9 +502,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)
@@ -526,7 +526,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../Browse/Conditions/Slowed.md#lowed) is no longer [slowed](../../Browse/Conditions/Slowed.md#lowed).
+> **Effect:** Each target can [teleport](../../Browse/Movement/Teleport.md#teleport) up to 5 squares. Any [teleported](../../Browse/Movement/Teleport.md#teleport) target who was [slowed](../../Browse/Conditions/Slowed.md#slowed) is no longer [slowed](../../Browse/Conditions/Slowed.md#slowed).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -575,9 +575,9 @@ The Director determines when the target receives your notice. When the target re
 
 ##### My Reputation Precedes Me
 
-You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
+You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature to find allies within the group.
 
 #### Perk
 
@@ -600,7 +600,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 <!-- -->
 > ###### Twist at the End (5 Drama)
@@ -626,7 +626,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ###### En Garde! (5 Drama)
@@ -643,7 +643,7 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against you. If they do, you can make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the target.
+> **Effect:** The target can make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against you. If they do, you can make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 
@@ -689,9 +689,9 @@ Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grant
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#mi-edcue)     |
+| Auteur    | [Missed Cue](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#econdalbum) |
+| Virtuoso  | [Second Album](../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#second-album) |
 
 ##### Foil
 
@@ -703,7 +703,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
@@ -742,9 +742,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#tability)
-> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#tability)
-> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#tability)
+> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#stability)
+> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#stability)
+> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../Browse/Movement/Stability.md#stability)
 >
 > **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
@@ -857,11 +857,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue) ability. Choose one of the following conditions on the target: [bleeding](../../Browse/Conditions/Bleeding.md#bleeding), [frightened](../../Browse/Conditions/Frightened.md#frightened), [prone](../../Browse/Conditions/Prone.md#prone), [slowed](../../Browse/Conditions/Slowed.md#lowed), or [taunted](../../Browse/Conditions/Taunted.md#taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../Browse/Conditions/Prone.md#prone) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramatic-monologue) ability. Choose one of the following conditions on the target: [bleeding](../../Browse/Conditions/Bleeding.md#bleeding), [frightened](../../Browse/Conditions/Frightened.md#frightened), [prone](../../Browse/Conditions/Prone.md#prone), [slowed](../../Browse/Conditions/Slowed.md#slowed), or [taunted](../../Browse/Conditions/Taunted.md#taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../Browse/Conditions/Prone.md#prone) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Take Two!
@@ -880,11 +880,11 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!
@@ -907,7 +907,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You can maintain two performances at a time using your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 #### 9-Drama Ability
 
@@ -977,7 +977,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance ability, which is usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Spotlight
@@ -1022,7 +1022,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) bonus, and [stability](../../Browse/Movement/Stability.md#tability) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) bonus, and [stability](../../Browse/Movement/Stability.md#stability) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -1052,7 +1052,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) targets and which enemies the target creature's [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) targets. You then slide the target 5 squares, ignoring [stability](../../Browse/Movement/Stability.md#tability).
+> **Effect:** You and the target each make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) targets and which enemies the target creature's [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) targets. You then slide the target 5 squares, ignoring [stability](../../Browse/Movement/Stability.md#stability).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -1096,7 +1096,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Equal Billing
 
-You can use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
+You can use your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
 
 Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains temporary Stamina equal to your level.
 
@@ -1124,13 +1124,13 @@ Your [troubadour](../../Browse/Classes/Troubadour.md#troubadour) class act grant
 
 | Class Act | Feature                                                                                                                                             |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Deleted Scene](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Deleted Scene.md#deleted-cene)     |
-| Duelist   | [Masterwork](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Masterwork.md#ma-terwork)             |
-| Virtuoso  | [Crowd Favorites](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Crowd Favorites.md#crowdfavorite) |
+| Auteur    | [Deleted Scene](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Deleted Scene.md#deleted-scene)     |
+| Duelist   | [Masterwork](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Masterwork.md#masterwork)             |
+| Virtuoso  | [Crowd Favorites](../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Crowd Favorites.md#crowd-favorites) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance abilities, which are usable with your [Routines](../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### Moonlight Sonata
@@ -1156,13 +1156,13 @@ You have the following performance abilities, which are usable with your [Routin
 
 ##### Deleted Scene
 
-Whenever a creature within distance of your [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue), targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramatic-monologue) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramatic-monologue), targeting only one creature.
 
 ##### Masterwork
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md#zeitgei-t) feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md#zeitgeist) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 
@@ -1177,7 +1177,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../Browse/Movement/Teleport.md#teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../Browse/Movement/Teleport.md#teleport) ally can then make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../Browse/Movement/Teleport.md#teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../Browse/Movement/Teleport.md#teleport) ally can then make a melee [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike).
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -1203,8 +1203,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 >
 > - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 > - The target has damage immunity equal to your Presence score.
-> - The target has a bonus to [stability](../../Browse/Movement/Stability.md#tability) and a penalty to speed equal to your Presence score.
-> - The target has a bonus to speed and a penalty to [stability](../../Browse/Movement/Stability.md#tability) equal to your Presence score.
+> - The target has a bonus to [stability](../../Browse/Movement/Stability.md#stability) and a penalty to speed equal to your Presence score.
+> - The target has a bonus to speed and a penalty to [stability](../../Browse/Movement/Stability.md#stability) equal to your Presence score.
 
 <!-- -->
 > ###### The Show Must Go On (11 Drama)
@@ -1231,7 +1231,7 @@ As a 9th-level [troubadour](../../Browse/Classes/Troubadour.md#troubadour), you 
 
 You are empowered by your audience, near and far. You can't be made [frightened](../../Browse/Conditions/Frightened.md#frightened), and if you are [prone](../../Browse/Conditions/Prone.md#prone), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
@@ -1256,7 +1256,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -1267,7 +1267,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../Browse/Conditions/Slowed.md#lowed) or [weakened](../../Browse/Conditions/Weakened.md#weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../Browse/Conditions/Slowed.md#slowed) or [weakened](../../Browse/Conditions/Weakened.md#weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -1343,7 +1343,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + P sonic damage; push 10
 > - **17+:** 22 + P sonic damage; push 15
 >
-> **Effect:** Forced movement from this ability ignores [stability](../../Browse/Movement/Stability.md#tability).
+> **Effect:** Forced movement from this ability ignores [stability](../../Browse/Movement/Stability.md#stability).
 
 ### 10th-Level Features
 
@@ -1355,7 +1355,7 @@ You have an epic resource called applause. Each time you finish a respite, you g
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-[Applause](../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applau-e) remains until you spend it.
+[Applause](../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applause) remains until you spend it.
 
 #### Characteristic Increase
 
@@ -1363,7 +1363,7 @@ Your Agility and Presence scores each increase to 5.
 
 #### Dramaturgy
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md#appealtothemu-e) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md#appeal-to-the-muses) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 #### Greatest of All Time
 

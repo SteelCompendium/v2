@@ -7,11 +7,11 @@ type: index
 
 | File Name                          |
 | ---------------------------------- |
-| [Abyssal](Keywords/Abyssal.md#aby-al)     |
-| [Accursed](Keywords/Accursed.md#accur-ed)   |
+| [Abyssal](Keywords/Abyssal.md#abyssal)     |
+| [Accursed](Keywords/Accursed.md#accursed)   |
 | [Animal](Keywords/Animal.md#animal)       |
-| [Beast](Keywords/Beast.md#bea-t)         |
-| [Construct](Keywords/Construct.md#con-truct) |
+| [Beast](Keywords/Beast.md#beast)         |
+| [Construct](Keywords/Construct.md#construct) |
 | [Dragon](Keywords/Dragon.md#dragon)       |
 | [Elemental](Keywords/Elemental.md#elemental) |
 | [Fey](Keywords/Fey.md#fey)             |
@@ -21,6 +21,6 @@ type: index
 | [Infernal](Keywords/Infernal.md#infernal)   |
 | [Ooze](Keywords/Ooze.md#ooze)           |
 | [Plant](Keywords/Plant.md#plant)         |
-| [Soulless](Keywords/Soulless.md#oulle)   |
-| [Swarm](Keywords/Swarm.md#warm)         |
+| [Soulless](Keywords/Soulless.md#soulless)   |
+| [Swarm](Keywords/Swarm.md#swarm)         |
 | [Undead](Keywords/Undead.md#undead)       |

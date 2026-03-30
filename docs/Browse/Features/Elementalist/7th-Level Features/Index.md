@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
-- [Mantle of Quintessence](Mantle of Quintessence.md#mantleofquinte-ence)
-- [Skill](Skill.md#kill)
-- [Surging Essence](Surging Essence.md#urginge-ence)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
+- [Mantle of Quintessence](Mantle of Quintessence.md#mantle-of-quintessence)
+- [Skill](Skill.md#skill)
+- [Surging Essence](Surging Essence.md#surging-essence)
 
 </div>

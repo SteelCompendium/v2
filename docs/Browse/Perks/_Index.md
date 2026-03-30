@@ -9,12 +9,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Area of Expertise](Crafting Perks/Area of Expertise.md#areaofexperti-e)
-- [Expert Artisan](Crafting Perks/Expert Artisan.md#expertarti-an)
+- [Area of Expertise](Crafting Perks/Area of Expertise.md#area-of-expertise)
+- [Expert Artisan](Crafting Perks/Expert Artisan.md#expert-artisan)
 - [Handy](Crafting Perks/Handy.md#handy)
-- [Improvisation Creation](Crafting Perks/Improvisation Creation.md#improvi-ationcreation)
-- [Inspired Artisan](Crafting Perks/Inspired Artisan.md#in-piredarti-an)
-- [Traveling Artisan](Crafting Perks/Traveling Artisan.md#travelingarti-an)
+- [Improvisation Creation](Crafting Perks/Improvisation Creation.md#improvisation-creation)
+- [Inspired Artisan](Crafting Perks/Inspired Artisan.md#inspired-artisan)
+- [Traveling Artisan](Crafting Perks/Traveling Artisan.md#traveling-artisan)
 
 </div>
 
@@ -23,15 +23,15 @@ type: index
 <div class="browse-index" markdown>
 
 - [Brawny](Exploration Perks/Brawny.md#brawny)
-- [Camouflage Hunter](Exploration Perks/Camouflage Hunter.md#camouflagehunter)
-- [Danger Sense](Exploration Perks/Danger Sense.md#danger-en-e)
-- [Friend Catapult](Exploration Perks/Friend Catapult.md#friendcatapult)
-- [Ive Got You](Exploration Perks/Ive Got You.md#ivegotyou)
-- [Monster Whisperer](Exploration Perks/Monster Whisperer.md#mon-terwhi-perer)
-- [Put Your Back Into It](Exploration Perks/Put Your Back Into It.md#putyourbackintoit)
-- [Team Leader](Exploration Perks/Team Leader.md#teamleader)
+- [Camouflage Hunter](Exploration Perks/Camouflage Hunter.md#camouflage-hunter)
+- [Danger Sense](Exploration Perks/Danger Sense.md#danger-sense)
+- [Friend Catapult](Exploration Perks/Friend Catapult.md#friend-catapult)
+- [Ive Got You](Exploration Perks/Ive Got You.md#ive-got-you)
+- [Monster Whisperer](Exploration Perks/Monster Whisperer.md#monster-whisperer)
+- [Put Your Back Into It](Exploration Perks/Put Your Back Into It.md#put-your-back-into-it)
+- [Team Leader](Exploration Perks/Team Leader.md#team-leader)
 - [Teamwork](Exploration Perks/Teamwork.md#teamwork)
-- [Wood Wise](Exploration Perks/Wood Wise.md#woodwi-e)
+- [Wood Wise](Exploration Perks/Wood Wise.md#wood-wise)
 
 </div>
 
@@ -39,16 +39,16 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Charming Liar](Interpersonal Perks/Charming Liar.md#charmingliar)
+- [Charming Liar](Interpersonal Perks/Charming Liar.md#charming-liar)
 - [Dazzler](Interpersonal Perks/Dazzler.md#dazzler)
-- [Engrossing Monologue](Interpersonal Perks/Engrossing Monologue.md#engro-ingmonologue)
+- [Engrossing Monologue](Interpersonal Perks/Engrossing Monologue.md#engrossing-monologue)
 - [Harmonizer](Interpersonal Perks/Harmonizer.md#harmonizer)
-- [Lie Detector](Interpersonal Perks/Lie Detector.md#liedetector)
-- [Open Book](Interpersonal Perks/Open Book.md#openbook)
-- [Pardon My Friend](Interpersonal Perks/Pardon My Friend.md#pardonmyfriend)
-- [Power Player](Interpersonal Perks/Power Player.md#powerplayer)
-- [So Tell Me](Interpersonal Perks/So Tell Me.md#otellme)
-- [Spot the Tell](Interpersonal Perks/Spot the Tell.md#potthetell)
+- [Lie Detector](Interpersonal Perks/Lie Detector.md#lie-detector)
+- [Open Book](Interpersonal Perks/Open Book.md#open-book)
+- [Pardon My Friend](Interpersonal Perks/Pardon My Friend.md#pardon-my-friend)
+- [Power Player](Interpersonal Perks/Power Player.md#power-player)
+- [So Tell Me](Interpersonal Perks/So Tell Me.md#so-tell-me)
+- [Spot the Tell](Interpersonal Perks/Spot the Tell.md#spot-the-tell)
 
 </div>
 
@@ -56,12 +56,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Criminal Contacts](Intrigue Perks/Criminal Contacts.md#criminalcontact)
-- [Forgettable Face](Intrigue Perks/Forgettable Face.md#forgettableface)
-- [Gum Up the Works](Intrigue Perks/Gum Up the Works.md#gumupthework)
-- [Lucky Dog](Intrigue Perks/Lucky Dog.md#luckydog)
-- [Master of Disguise](Intrigue Perks/Master of Disguise.md#ma-terofdi-gui-e)
-- [Slipped Lead](Intrigue Perks/Slipped Lead.md#lippedlead)
+- [Criminal Contacts](Intrigue Perks/Criminal Contacts.md#criminal-contacts)
+- [Forgettable Face](Intrigue Perks/Forgettable Face.md#forgettable-face)
+- [Gum Up the Works](Intrigue Perks/Gum Up the Works.md#gum-up-the-works)
+- [Lucky Dog](Intrigue Perks/Lucky Dog.md#lucky-dog)
+- [Master of Disguise](Intrigue Perks/Master of Disguise.md#master-of-disguise)
+- [Slipped Lead](Intrigue Perks/Slipped Lead.md#slipped-lead)
 
 </div>
 
@@ -69,14 +69,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [But I Know Who Does](Lore Perks/But I Know Who Does.md#butiknowwhodoe)
-- [Eidetic Memory](Lore Perks/Eidetic Memory.md#eideticmemory)
-- [Expert Sage](Lore Perks/Expert Sage.md#expert-age)
-- [Ive Read About This Place](Lore Perks/Ive Read About This Place.md#ivereadaboutthi-place)
-- [Linguist](Lore Perks/Linguist.md#lingui-t)
+- [But I Know Who Does](Lore Perks/But I Know Who Does.md#but-i-know-who-does)
+- [Eidetic Memory](Lore Perks/Eidetic Memory.md#eidetic-memory)
+- [Expert Sage](Lore Perks/Expert Sage.md#expert-sage)
+- [Ive Read About This Place](Lore Perks/Ive Read About This Place.md#ive-read-about-this-place)
+- [Linguist](Lore Perks/Linguist.md#linguist)
 - [Polymath](Lore Perks/Polymath.md#polymath)
-- [Specialist](Lore Perks/Specialist.md#peciali-t)
-- [Traveling Sage](Lore Perks/Traveling Sage.md#traveling-age)
+- [Specialist](Lore Perks/Specialist.md#specialist)
+- [Traveling Sage](Lore Perks/Traveling Sage.md#traveling-sage)
 
 </div>
 
@@ -84,12 +84,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Arcane Trick](Supernatural Perks/Arcane Trick.md#arcanetrick)
-- [Creature Sense](Supernatural Perks/Creature Sense.md#creature-en-e)
+- [Arcane Trick](Supernatural Perks/Arcane Trick.md#arcane-trick)
+- [Creature Sense](Supernatural Perks/Creature Sense.md#creature-sense)
 - [Familiar](Supernatural Perks/Familiar.md#familiar)
-- [Invisible Force](Supernatural Perks/Invisible Force.md#invi-ibleforce)
-- [Psychic Whisper](Supernatural Perks/Psychic Whisper.md#p-ychicwhi-per)
-- [Ritualist](Supernatural Perks/Ritualist.md#rituali-t)
-- [Thingspeaker](Supernatural Perks/Thingspeaker.md#thing-peaker)
+- [Invisible Force](Supernatural Perks/Invisible Force.md#invisible-force)
+- [Psychic Whisper](Supernatural Perks/Psychic Whisper.md#psychic-whisper)
+- [Ritualist](Supernatural Perks/Ritualist.md#ritualist)
+- [Thingspeaker](Supernatural Perks/Thingspeaker.md#thingspeaker)
 
 </div>

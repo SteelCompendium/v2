@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the [Ship Captain](../../../Browse/Titles/1st Echelon/Ship Captain.md#hipcaptain) title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](../../../Browse/Titles/1st Echelon/Ship Captain.md#ship-captain) title, and you sink or capture a ship of equal or greater size than your own.
 
 **Effect:** Choose one of the following benefits:
 

@@ -18,4 +18,4 @@ type: feature/subtrait/talent/8th-level-feature
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.

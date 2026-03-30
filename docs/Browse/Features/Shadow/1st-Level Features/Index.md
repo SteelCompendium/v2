@@ -9,13 +9,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level College Features](1st Level College Features.md#1-tlevelcollegefeature)
-- [College Triggered Action](College Triggered Action.md#collegetriggeredaction)
-- [Hesitation Is Weakness](Hesitation Is Weakness.md#he-itationi-weakne)
-- [Insight](Insight.md#in-ight)
+- [1st Level College Features](1st Level College Features.md#1st-level-college-features)
+- [College Triggered Action](College Triggered Action.md#college-triggered-action)
+- [Hesitation Is Weakness](Hesitation Is Weakness.md#hesitation-is-weakness)
+- [Insight](Insight.md#insight)
 - [Kit](Kit.md#kit)
-- [Shadow Abilities](Shadow Abilities.md#hadowabilitie)
-- [Shadow College](Shadow College.md#hadowcollege)
+- [Shadow Abilities](Shadow Abilities.md#shadow-abilities)
+- [Shadow College](Shadow College.md#shadow-college)
 
 </div>
 
@@ -23,10 +23,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Black Ash Teleport](1st-Level College Features/Black Ash Teleport.md#blacka-hteleport)
-    - [Coat the Blade](1st-Level College Features/Coat the Blade.md#coattheblade)
-    - [Im No Threat](1st-Level College Features/Im No Threat.md#imnothreat)
-    - [Smoke Bomb](1st-Level College Features/Smoke Bomb.md#mokebomb)
+    - [Black Ash Teleport](1st-Level College Features/Black Ash Teleport.md#black-ash-teleport)
+    - [Coat the Blade](1st-Level College Features/Coat the Blade.md#coat-the-blade)
+    - [Im No Threat](1st-Level College Features/Im No Threat.md#im-no-threat)
+    - [Smoke Bomb](1st-Level College Features/Smoke Bomb.md#smoke-bomb)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Insight in Combat](Insight/Insight in Combat.md#in-ightincombat)
-    - [Insight Outside of Combat](Insight/Insight Outside of Combat.md#in-ightout-ideofcombat)
+    - [Insight in Combat](Insight/Insight in Combat.md#insight-in-combat)
+    - [Insight Outside of Combat](Insight/Insight Outside of Combat.md#insight-outside-of-combat)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Shadow Abilities/Heroic Abilities.md#heroicabilitie)
-    - [Signature Ability](Shadow Abilities/Signature Ability.md#ignatureability)
+    - [Heroic Abilities](Shadow Abilities/Heroic Abilities.md#heroic-abilities)
+    - [Signature Ability](Shadow Abilities/Signature Ability.md#signature-ability)
 
 </div>

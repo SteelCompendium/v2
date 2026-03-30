@@ -28,9 +28,9 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md#tactician)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md#talent)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minortelekine-i) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md#talent)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
-**James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#hadow)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
+**James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#shadow)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
 **Director:** *With the glass cleared away and brighter light glowing in the room, you can see that the floor is covered in faded sigils.*
 
@@ -116,9 +116,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md#fury) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md#brutal-lam) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md#fury) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md#brutal-slam) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md#tactician) might not have an ability that lets them [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) up the face of a cliff, so [climbing](../Browse/Movement/Climb or Swim.md#climbor-wim) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md#elementali-t) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md#te-t) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md#tactician) might not have an ability that lets them [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) up the face of a cliff, so [climbing](../Browse/Movement/Climb or Swim.md#climb-or-swim) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md#elementalist) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md#tests) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -127,7 +127,7 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](../Chapters/Tests.md#te-t).
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](../Chapters/Tests.md#tests).
 
 ##### Power Roll Outcomes
 
@@ -137,19 +137,19 @@ The total of a power roll determines your outcome tier—three levels that deter
 - **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a strike ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](../Chapters/Tests.md#te-t)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](../Chapters/Tests.md#tests)).
 
 ##### Downgrade a Power Roll
 
-Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../Browse/Conditions/Restrained.md#re-trained) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../Browse/Conditions/Slowed.md#lowed) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../Browse/Conditions/Slowed.md#lowed) than [restrained](../Browse/Conditions/Restrained.md#re-trained).
+Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../Browse/Conditions/Restrained.md#restrained) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../Browse/Conditions/Slowed.md#slowed) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../Browse/Conditions/Slowed.md#slowed) than [restrained](../Browse/Conditions/Restrained.md#restrained).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](../Chapters/Classes.md#cla-e)).
+If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](../Chapters/Classes.md#classes)).
 
 ##### Natural Roll
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](../Chapters/Classes.md#cla-e)).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](../Chapters/Classes.md#classes)).
 
 #### Edges and Banes
 
@@ -157,13 +157,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md#prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md#prone) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md#prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md#prone), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -177,12 +177,12 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb or Swim.md#climbor-wim) that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb or Swim.md#climb-or-swim) that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
 >
-> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](../Browse/Conditions/Prone.md#prone) and [weakened](../Browse/Conditions/Weakened.md#weakened) by poison already finds it difficult to attack—so that becoming [restrained](../Browse/Conditions/Restrained.md#re-trained) by a net can't really make it harder.
+> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](../Browse/Conditions/Prone.md#prone) and [weakened](../Browse/Conditions/Weakened.md#weakened) by poison already finds it difficult to attack—so that becoming [restrained](../Browse/Conditions/Restrained.md#restrained) by a net can't really make it harder.
 
 We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
@@ -210,13 +210,13 @@ At the start of a new game session, the heroes have a number of hero tokens equa
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](../Chapters/Tests.md#te-t)).
+Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](../Chapters/Tests.md#tests)).
 
 #### Spending Hero Tokens
 
 Whenever hero tokens are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](../Chapters/Classes.md#cla-e).)
+- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](../Chapters/Classes.md#classes).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
 - You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
@@ -242,7 +242,7 @@ Sometimes the rules tell you to divide a number in half. Whenever you divide an 
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../Browse/Ancestries/Human.md#human), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md#elementali-t) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#returntoformle-ne) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md#elementali-t) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md#elementalist) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md#elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -305,7 +305,7 @@ When you spend a Recovery, you regain Stamina equal to your **recovery value**, 
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catchbreath) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catchbreath) maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catch-breath) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md#catch-breath) maneuver.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
@@ -385,7 +385,7 @@ Ajax abolished all faiths and temples. He executed the dukes who organized and u
 
 Now there is only suspicion.
 
-**The [high elves](../Browse/Ancestries/High Elf.md#highelf) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode Elf.md#wodeelf) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
+**The [high elves](../Browse/Ancestries/High Elf.md#high-elf) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode Elf.md#wode-elf) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](../Browse/Ancestries/Dwarf.md#dwarf) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](../Browse/Ancestries/Dwarf.md#dwarf) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
@@ -437,7 +437,7 @@ Higher worlds are more energetic, affording access to alien technologies. Great 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md#memonek) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time Raider.md#timeraider) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
+On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md#memonek) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time Raider.md#time-raider) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 
@@ -467,7 +467,7 @@ In Capital, for instance, people use flying tapestries to get around the city qu
 
 It's not clear to us, looking in, but it doesn't seem as though Orden operates according to the real-world laws of physics, chemistry, and biology. People in the middle ages here on Earth didn't know about quarks or DNA, but they still knew everything was made of "stuff" and everyone expected a child to more or less resemble their parents. Essentially, Orden works the way people living in any culture's medieval era believed the real world actually worked. Because of the presence of magic, prayer, and psionics in the world, it's unlikely anything like science or an industrial age will *ever* come to Orden.
 
-Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](../Browse/Classes/Censor.md#cen-or), [conduits](../Browse/Classes/Conduit.md#conduit), [furies](../Browse/Classes/Fury.md#fury), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
+Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](../Browse/Classes/Censor.md#censor), [conduits](../Browse/Classes/Conduit.md#conduit), [furies](../Browse/Classes/Fury.md#fury), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
 
 Finally, most information about Orden and the timescape is presented from the point of view of someone living in Orden. They can tell you what they think they know, but even learned historians do not agree, and new information constantly comes to light challenging the accepted academic wisdom. Just like... you get it.
 
@@ -487,4 +487,4 @@ If you're a player, ask your Director about the setting where the game takes pla
 <!-- -->
 > **What's Next? Find Out on Patreon**
 >
-> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more [classes](../Chapters/Classes.md#cla-e), [ancestries](../Chapters/Ancestries.md#ance-trie), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.
+> While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more [classes](../Chapters/Classes.md#classes), [ancestries](../Chapters/Ancestries.md#ancestries), monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.

@@ -27,7 +27,7 @@ A creature seeking to keep a foe close and locked down can attempt to [grab](../
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target, but if you do, the target can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against you before they are [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed).
+> - **12-16:** You can [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target, but if you do, the target can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against you before they are [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed).
 > - **17+:** The target is [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.

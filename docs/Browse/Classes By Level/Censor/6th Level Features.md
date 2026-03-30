@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 6th-Level Features
 
-As a 6th-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
+As a 6th-level [censor](../../../Browse/Classes/Censor.md#censor), you gain the following features.
 
 #### Implement of Wrath
 
@@ -31,7 +31,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### 6th-Level Order Ability
 
-Your [censor](../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
+Your [censor](../../../Browse/Classes/Censor.md#censor) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 

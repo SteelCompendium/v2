@@ -32,6 +32,6 @@ type: kit-ability/retiarius
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (EoT)
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#restrained) (EoT)

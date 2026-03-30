@@ -28,9 +28,9 @@ Your [talent](../../../Browse/Classes/Talent.md#talent) tradition grants you a f
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ea-ethehour)   |
-| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md#ea-etheirfall) |
-| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md#ea-ethemind)     |
+| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)   |
+| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md#ease-their-fall) |
+| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md#ease-the-mind)     |
 
 ##### Ease the Hours
 
@@ -82,9 +82,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends).
-> - **12-16:** The target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends).
+> - **12-16:** The target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >
@@ -143,11 +143,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 > - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 > - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md#dazed) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -160,7 +160,7 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >

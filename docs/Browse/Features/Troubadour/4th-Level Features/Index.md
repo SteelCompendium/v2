@@ -7,13 +7,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Characteristic Increase](Characteristic Increase.md#characteristic-increase)
 - [Melodrama](Melodrama.md#melodrama)
 - [Perk](Perk.md#perk)
-- [Skill](Skill.md#kill)
-- [Zeitgeist](Zeitgeist.md#zeitgei-t)
-    - [Foreshadowing](Zeitgeist/Foreshadowing.md#fore-hadowing)
-    - [Hear Ye Hear Ye](Zeitgeist/Hear Ye Hear Ye.md#hearyehearye)
-    - [Latest Goss](Zeitgeist/Latest Goss.md#late-tgo)
+- [Skill](Skill.md#skill)
+- [Zeitgeist](Zeitgeist.md#zeitgeist)
+    - [Foreshadowing](Zeitgeist/Foreshadowing.md#foreshadowing)
+    - [Hear Ye Hear Ye](Zeitgeist/Hear Ye Hear Ye.md#hear-ye-hear-ye)
+    - [Latest Goss](Zeitgeist/Latest Goss.md#latest-goss)
 
 </div>

@@ -24,9 +24,9 @@ Your [troubadour](../../../Browse/Classes/Troubadour.md#troubadour) class act gr
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#mi-edcue)     |
+| Auteur    | [Missed Cue](../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#econdalbum) |
+| Virtuoso  | [Second Album](../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md#second-album) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routines) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
@@ -77,9 +77,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#tability)
-> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#tability)
-> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#tability)
+> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#stability)
+> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#stability)
+> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md#stability)
 >
 > **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 

@@ -28,13 +28,13 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md#rapidproce-ing)           |
-| Cryokinetic   | [Entropic Adaptability](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md#entropicadaptability) |
-| Metakinetic   | [Inertial Sink](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md#inertial-ink)                 |
+| Chronokinetic | [Rapid Processing](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md#rapid-processing)           |
+| Cryokinetic   | [Entropic Adaptability](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md#entropic-adaptability) |
+| Metakinetic   | [Inertial Sink](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md#inertial-sink)                 |
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climb-or-swim) at full speed while moving.
 
 ##### Inertial Sink
 
@@ -95,9 +95,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed.md#slowed) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)

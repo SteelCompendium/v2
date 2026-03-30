@@ -18,7 +18,7 @@ type: feature/trait/censor/6th-level-feature
 
 #### 6th-Level Order Ability
 
-Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md#censor) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 

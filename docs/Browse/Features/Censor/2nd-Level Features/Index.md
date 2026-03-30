@@ -9,8 +9,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Order Ability](2nd Level Order Ability.md#2ndlevelorderability)
-- [2nd Level Order Features](2nd Level Order Features.md#2ndlevelorderfeature)
+- [2nd Level Order Ability](2nd Level Order Ability.md#2nd-level-order-ability)
+- [2nd Level Order Features](2nd Level Order Features.md#2nd-level-order-features)
 - [Perk](Perk.md#perk)
 
 </div>
@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [2nd Level Exorcist Ability](2nd-Level Order Ability/2nd Level Exorcist Ability.md#2ndlevelexorci-tability)
-    - [2nd Level Oracle Ability](2nd-Level Order Ability/2nd Level Oracle Ability.md#2ndleveloracleability)
-    - [2nd Level Paragon Ability](2nd-Level Order Ability/2nd Level Paragon Ability.md#2ndlevelparagonability)
+    - [2nd Level Exorcist Ability](2nd-Level Order Ability/2nd Level Exorcist Ability.md#2nd-level-exorcist-ability)
+    - [2nd Level Oracle Ability](2nd-Level Order Ability/2nd Level Oracle Ability.md#2nd-level-oracle-ability)
+    - [2nd Level Paragon Ability](2nd-Level Order Ability/2nd Level Paragon Ability.md#2nd-level-paragon-ability)
 
 </div>
 
@@ -29,11 +29,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [A Sense for Truth](2nd-Level Order Features/A Sense for Truth.md#a-en-efortruth)
-    - [It Was Foretold](2nd-Level Order Features/It Was Foretold.md#itwa-foretold)
-    - [Judge of Character](2nd-Level Order Features/Judge of Character.md#judgeofcharacter)
-    - [Lead by Example](2nd-Level Order Features/Lead by Example.md#leadbyexample)
-    - [Saints Vigilance](2nd-Level Order Features/Saints Vigilance.md#aint-vigilance)
-    - [Stalwart Icon](2nd-Level Order Features/Stalwart Icon.md#talwarticon)
+    - [A Sense for Truth](2nd-Level Order Features/A Sense for Truth.md#a-sense-for-truth)
+    - [It Was Foretold](2nd-Level Order Features/It Was Foretold.md#it-was-foretold)
+    - [Judge of Character](2nd-Level Order Features/Judge of Character.md#judge-of-character)
+    - [Lead by Example](2nd-Level Order Features/Lead by Example.md#lead-by-example)
+    - [Saints Vigilance](2nd-Level Order Features/Saints Vigilance.md#saints-vigilance)
+    - [Stalwart Icon](2nd-Level Order Features/Stalwart Icon.md#stalwart-icon)
 
 </div>

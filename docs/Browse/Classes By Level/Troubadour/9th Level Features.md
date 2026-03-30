@@ -20,7 +20,7 @@ As a 9th-level [troubadour](../../../Browse/Classes/Troubadour.md#troubadour), y
 
 You are empowered by your audience, near and far. You can't be made [frightened](../../../Browse/Conditions/Frightened.md#frightened), and if you are [prone](../../../Browse/Conditions/Prone.md#prone), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#scene-partner) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
@@ -45,7 +45,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -56,7 +56,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../Browse/Conditions/Slowed.md#lowed) or [weakened](../../../Browse/Conditions/Weakened.md#weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../Browse/Conditions/Slowed.md#slowed) or [weakened](../../../Browse/Conditions/Weakened.md#weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -132,4 +132,4 @@ Choose one of the following abilities.
 > - **12-16:** 16 + P sonic damage; push 10
 > - **17+:** 22 + P sonic damage; push 15
 >
-> **Effect:** Forced movement from this ability ignores [stability](../../../Browse/Movement/Stability.md#tability).
+> **Effect:** Forced movement from this ability ignores [stability](../../../Browse/Movement/Stability.md#stability).

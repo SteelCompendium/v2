@@ -36,6 +36,6 @@ type: feature/ability/shadow/8th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
-- **17+:** 24 damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **≤11:** 12 damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)
+- **17+:** 24 damage; M < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#slowed) (save ends)

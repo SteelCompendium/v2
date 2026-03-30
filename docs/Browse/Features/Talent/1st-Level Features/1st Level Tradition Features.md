@@ -25,8 +25,8 @@ Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Chronopathy | [Accelerate](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minortelekine-i), [Repel](../../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                    |
-| Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md#feedbackloop), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md#remotea-i-tance) |
+| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                    |
+| Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md#remote-assistance) |
 
 ##### Accelerate
 

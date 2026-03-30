@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 #### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md#wordofguidance).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md#word-of-guidance).)
 
 <!-- -->
 > ###### Word of Guidance

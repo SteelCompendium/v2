@@ -18,7 +18,7 @@ As a 3rd-level [talent](../../../Browse/Classes/Talent.md#talent), you gain the 
 
 #### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-pike) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability, you always have line of effect to that creature until they move beyond that distance.
 
 #### 7-Clarity Ability
 
