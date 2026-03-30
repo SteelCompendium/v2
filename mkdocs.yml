@@ -9,16 +9,16 @@ theme:
    # dark mode
    - media: "(prefers-color-scheme: dark)"
      scheme: slate
-     primary: black
-     accent: blue
+     primary: custom
+     accent: custom
      toggle:
         icon: material/toggle-switch
         name: Switch to light mode
    # Light mode
    - media: "(prefers-color-scheme: light)"
      scheme: default
-     primary: blue grey
-     accent: blue
+     primary: custom
+     accent: custom
      toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -81,6 +81,7 @@ plugins:
    - awesome-nav
 
 extra_css:
+   - stylesheets/palette.css
    - stylesheets/extra.css
    - stylesheets/custom_font.css
    - stylesheets/tables.css
