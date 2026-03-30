@@ -20,7 +20,7 @@ As a 9th-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the
 
 You are empowered by your audience, near and far. You can't be made [frightened](../../../Browse/Conditions/Frightened.md), and if you are [prone](../../../Browse/Conditions/Prone.md), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
@@ -45,7 +45,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **[Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
+> | **[Charge](../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >

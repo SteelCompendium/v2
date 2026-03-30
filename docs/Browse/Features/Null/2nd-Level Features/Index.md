@@ -9,8 +9,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Tradition Ability](2nd%20Level%20Tradition%20Ability.md)
-- [2nd Level Tradition Feature](2nd%20Level%20Tradition%20Feature.md)
+- [2nd Level Tradition Ability](2nd Level Tradition Ability.md)
+- [2nd Level Tradition Feature](2nd Level Tradition Feature.md)
 - [Perk](Perk.md)
 
 </div>
@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [2nd Level Chronokinetic Ability](2nd-Level%20Tradition%20Ability/2nd%20Level%20Chronokinetic%20Ability.md)
-    - [2nd Level Cryokinetic Ability](2nd-Level%20Tradition%20Ability/2nd%20Level%20Cryokinetic%20Ability.md)
-    - [2nd Level Metakinetic Ability](2nd-Level%20Tradition%20Ability/2nd%20Level%20Metakinetic%20Ability.md)
+    - [2nd Level Chronokinetic Ability](2nd-Level Tradition Ability/2nd Level Chronokinetic Ability.md)
+    - [2nd Level Cryokinetic Ability](2nd-Level Tradition Ability/2nd Level Cryokinetic Ability.md)
+    - [2nd Level Metakinetic Ability](2nd-Level Tradition Ability/2nd Level Metakinetic Ability.md)
 
 </div>
 
@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Entropic Adaptability](2nd-Level%20Tradition%20Feature/Entropic%20Adaptability.md)
-    - [Inertial Sink](2nd-Level%20Tradition%20Feature/Inertial%20Sink.md)
-    - [Rapid Processing](2nd-Level%20Tradition%20Feature/Rapid%20Processing.md)
+    - [Entropic Adaptability](2nd-Level Tradition Feature/Entropic Adaptability.md)
+    - [Inertial Sink](2nd-Level Tradition Feature/Inertial Sink.md)
+    - [Rapid Processing](2nd-Level Tradition Feature/Rapid Processing.md)
 
 </div>

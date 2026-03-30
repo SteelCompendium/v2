@@ -9,14 +9,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Doctrine Feature](1st%20Level%20Doctrine%20Feature.md)
-- [Doctrine Triggered Action](Doctrine%20Triggered%20Action.md)
-- [Field Arsenal](Field%20Arsenal.md)
+- [1st Level Doctrine Feature](1st Level Doctrine Feature.md)
+- [Doctrine Triggered Action](Doctrine Triggered Action.md)
+- [Field Arsenal](Field Arsenal.md)
 - [Focus](Focus.md)
 - [Mark](Mark.md)
-- [Strike Now](Strike%20Now.md)
-- [Tactical Doctrine](Tactical%20Doctrine.md)
-- [Tactician Abilities](Tactician%20Abilities.md)
+- [Strike Now](Strike Now.md)
+- [Tactical Doctrine](Tactical Doctrine.md)
+- [Tactician Abilities](Tactician Abilities.md)
 
 </div>
 
@@ -24,9 +24,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Commanding Presence](1st-Level%20Doctrine%20Feature/Commanding%20Presence.md)
-    - [Covert Operations](1st-Level%20Doctrine%20Feature/Covert%20Operations.md)
-    - [Studied Commander](1st-Level%20Doctrine%20Feature/Studied%20Commander.md)
+    - [Commanding Presence](1st-Level Doctrine Feature/Commanding Presence.md)
+    - [Covert Operations](1st-Level Doctrine Feature/Covert Operations.md)
+    - [Studied Commander](1st-Level Doctrine Feature/Studied Commander.md)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Focus in Combat](Focus/Focus%20in%20Combat.md)
-    - [Focus Outside of Combat](Focus/Focus%20Outside%20of%20Combat.md)
+    - [Focus in Combat](Focus/Focus in Combat.md)
+    - [Focus Outside of Combat](Focus/Focus Outside of Combat.md)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Tactician%20Abilities/Heroic%20Abilities.md)
-    - [Kit Signature Ability](Tactician%20Abilities/Kit%20Signature%20Ability.md)
+    - [Heroic Abilities](Tactician Abilities/Heroic Abilities.md)
+    - [Kit Signature Ability](Tactician Abilities/Kit Signature Ability.md)
 
 </div>

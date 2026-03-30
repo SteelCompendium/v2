@@ -22,7 +22,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You.md)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ###### Back Blasphemer!
@@ -90,7 +90,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your [wrath](../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+You call upon a number of heroic abilities, all of them bound to your [wrath](../../../../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 ###### 3-Wrath Ability
 

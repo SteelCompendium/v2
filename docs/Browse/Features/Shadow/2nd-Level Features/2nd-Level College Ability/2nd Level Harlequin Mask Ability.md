@@ -48,4 +48,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them. You can then spend a Recovery.

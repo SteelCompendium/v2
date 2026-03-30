@@ -24,9 +24,9 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                           |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level%20Features/Instant%20Action.md)         |
-| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level%20Features/Chilling%20Readiness.md) |
-| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level%20Features/Inertial%20Fulcrum.md)     |
+| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level Features/Instant Action.md)         |
+| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level Features/Chilling Readiness.md) |
+| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md)     |
 
 #### Chilling Readiness
 
@@ -78,7 +78,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md)
 > - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md)
 >
-> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)

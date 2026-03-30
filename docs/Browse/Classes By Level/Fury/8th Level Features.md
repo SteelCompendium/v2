@@ -22,23 +22,23 @@ You gain one perk of your choice.
 
 #### 8th-Level Aspect Feature
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Strongest There Is](../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is.md) |
-| Reaver     | [A Step Ahead](../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead.md)             |
-| Stormwight | [Menagerie](../../../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie.md)                       |
+| Berserker  | [Strongest There Is](../../../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/Strongest There Is.md) |
+| Reaver     | [A Step Ahead](../../../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/A Step Ahead.md)             |
+| Stormwight | [Menagerie](../../../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/Menagerie.md)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight.md) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.
 
 ##### Strongest There Is
 

@@ -22,7 +22,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate.md), [Kinetic Grip](../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md), [Kinetic Grip](../../../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -221,7 +221,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)

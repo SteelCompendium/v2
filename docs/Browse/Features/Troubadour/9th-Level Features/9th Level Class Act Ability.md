@@ -39,7 +39,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **[Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
+> | **[Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >

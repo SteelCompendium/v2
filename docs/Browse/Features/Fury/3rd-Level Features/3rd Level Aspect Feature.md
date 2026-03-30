@@ -18,15 +18,15 @@ type: feature/trait/fury/3rd-level-feature
 
 #### 3rd-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                                        |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Immovable Object](../../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object.md)                     |
-| Reaver     | [See Through Their Tricks](../../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks.md) |
-| Stormwight | [Nature's Knight](../../../../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight.md)                        |
+| Berserker  | [Immovable Object](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Immovable Object.md)                     |
+| Reaver     | [See Through Their Tricks](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/See Through Their Tricks.md) |
+| Stormwight | [Nature's Knight](../../../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md)                        |
 
 ##### Immovable Object
 

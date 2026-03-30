@@ -7,8 +7,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic%20Increase.md)
-- [Clear Mind](Clear%20Mind.md)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Clear Mind](Clear Mind.md)
 - [Omnisensory](Omnisensory.md)
 - [Perk](Perk.md)
 - [Psion](Psion.md)

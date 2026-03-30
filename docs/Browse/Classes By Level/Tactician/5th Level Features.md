@@ -18,19 +18,19 @@ As a 5th-level [tactician](../../../Browse/Classes/Tactician.md), you gain the f
 
 #### 5th-Level Doctrine Features
 
-Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
+Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table
 
 | Doctrine   | Features                                                                                                                                                                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Distracted](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Distracted.md), [Leave No Trace](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace.md)               |
-| Mastermind | [Anticipation](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Anticipation.md), [I Predicted That](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That.md)       |
-| Vanguard   | [Shake It Off](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off.md), [Tactical Offensive](../../../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive.md) |
+| Insurgent  | [Distracted](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Distracted.md), [Leave No Trace](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Leave No Trace.md)               |
+| Mastermind | [Anticipation](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Anticipation.md), [I Predicted That](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/I Predicted That.md)       |
+| Vanguard   | [Shake It Off](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Shake It Off.md), [Tactical Offensive](../../../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Tactical Offensive.md) |
 
 ##### Anticipation
 
-You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../../../Browse/Features/Tactician/1st-Level%20Features/Mark.md) ability.
+You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../../../Browse/Features/Tactician/1st-Level Features/Mark.md) ability.
 
 ##### Distracted
 
@@ -50,7 +50,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+When you use the [Charge](../../../Browse/Abilities/Common/Main Actions/Charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 #### 9-Focus Ability
 

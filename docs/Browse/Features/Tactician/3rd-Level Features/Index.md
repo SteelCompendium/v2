@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Out of Position](Out%20of%20Position.md)
+- [Out of Position](Out of Position.md)
 
 </div>

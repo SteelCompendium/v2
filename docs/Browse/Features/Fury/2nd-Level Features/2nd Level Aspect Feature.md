@@ -18,15 +18,15 @@ type: feature/trait/fury/2nd-level-feature
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force.md) |
-| Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath.md) |
-| Stormwight | [Tooth and Claw](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw.md)     |
+| Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Unstoppable Force.md) |
+| Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Inescapable Wrath.md) |
+| Stormwight | [Tooth and Claw](../../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Tooth and Claw.md)     |
 
 ##### Inescapable Wrath
 
@@ -38,4 +38,4 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Additionally, you can [jump](../../../../Browse/Movement/Jump.md) as part of your [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md).
+Whenever you use the [Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md). Additionally, you can [jump](../../../../Browse/Movement/Jump.md) as part of your [charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md).

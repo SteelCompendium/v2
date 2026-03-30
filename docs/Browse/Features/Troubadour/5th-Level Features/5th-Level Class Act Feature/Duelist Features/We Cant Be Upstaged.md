@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/5th-level-feature
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!

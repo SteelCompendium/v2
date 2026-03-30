@@ -28,9 +28,9 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum.md)     |
-| Cryokinetic   | [Synaptic Triage](../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage.md)     |
-| Metakinetic   | [Inertial Dampener](../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener.md) |
+| Chronokinetic | [Shared Momentum](../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Shared Momentum.md)     |
+| Cryokinetic   | [Synaptic Triage](../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Synaptic Triage.md)     |
+| Metakinetic   | [Inertial Dampener](../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Inertial Dampener.md) |
 
 ##### Inertial Dampener
 
@@ -38,7 +38,7 @@ You and each creature or object of your choice in the area of your Null Field ab
 
 ##### Shared Momentum
 
-When you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 

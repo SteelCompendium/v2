@@ -235,7 +235,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial%20Artist.md) or [Sniper](../Browse/Kits/Sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial Artist.md) or [Sniper](../Browse/Kits/Sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -423,7 +423,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -457,7 +457,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
+**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../Browse/Movement/Hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
@@ -499,7 +499,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 
 **Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../Browse/Movement/Teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
@@ -537,7 +537,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial%20Artist.md) and [Pugilist](../Browse/Kits/Pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial Artist.md) and [Pugilist](../Browse/Kits/Pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -881,7 +881,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 
 ##### Acquire Ability
 
-You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) ability instead. You can't gain this benefit again for the same class.
+You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) ability instead. You can't gain this benefit again for the same class.
 
 ##### Hone Ability
 

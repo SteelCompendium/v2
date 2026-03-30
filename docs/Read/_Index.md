@@ -16,14 +16,14 @@ search:
 | [Classes](Classes.md)                         | 5           |
 | [Combat](Combat.md)                           | 10          |
 | [Complications](Complications.md)             | 8           |
-| [Downtime Projects](Downtime%20Projects.md)   | 12          |
-| [For the Director](For%20the%20Director.md)   | 15          |
-| [Gods and Religion](Gods%20and%20Religion.md) | 14          |
+| [Downtime Projects](Downtime Projects.md)   | 12          |
+| [For the Director](For the Director.md)   | 15          |
+| [Gods and Religion](Gods and Religion.md) | 14          |
 | [Introduction](Introduction.md)               | 0           |
 | [Kits](Kits.md)                               | 6           |
-| [Making a Hero](Making%20a%20Hero.md)         | 2           |
+| [Making a Hero](Making a Hero.md)         | 2           |
 | [Negotiation](Negotiation.md)                 | 11          |
 | [Perks](Perks.md)                             | 7           |
 | [Rewards](Rewards.md)                         | 13          |
 | [Tests](Tests.md)                             | 9           |
-| [The Basics](The%20Basics.md)                 | 1           |
+| [The Basics](The Basics.md)                 | 1           |

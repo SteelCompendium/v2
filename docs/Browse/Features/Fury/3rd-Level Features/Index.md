@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [3rd Level Aspect Feature](3rd%20Level%20Aspect%20Feature.md)
-    - [Immovable Object](3rd-Level%20Aspect%20Feature/Immovable%20Object.md)
-    - [Natures Knight](3rd-Level%20Aspect%20Feature/Natures%20Knight.md)
-    - [See Through Their Tricks](3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks.md)
+- [3rd Level Aspect Feature](3rd Level Aspect Feature.md)
+    - [Immovable Object](3rd-Level Aspect Feature/Immovable Object.md)
+    - [Natures Knight](3rd-Level Aspect Feature/Natures Knight.md)
+    - [See Through Their Tricks](3rd-Level Aspect Feature/See Through Their Tricks.md)
 
 </div>

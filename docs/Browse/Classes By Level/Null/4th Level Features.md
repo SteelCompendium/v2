@@ -22,7 +22,7 @@ Your Agility and Intuition scores each increase to 3.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) feature provides additional benefits when you have 8 or more [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Your [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 8 or more [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 #### Enhanced Null Field
 

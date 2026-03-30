@@ -86,9 +86,9 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow](../Browse/Classes/Shadow.md)'s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](../Browse/Ancestries/Dragon Knight.md) fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
-You should imagine your [tactician](../Browse/Classes/Tactician.md) character leading the battle, granting your allies [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
+You should imagine your [tactician](../Browse/Classes/Tactician.md) character leading the battle, granting your allies [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
 ### Fantasy
 
@@ -172,7 +172,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
-**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or use an ability with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword against a target when they end their move.
+**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) or use an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword against a target when they end their move.
 
 **Ceiling:** Any solid surface above a creature.
 
@@ -182,7 +182,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Claw Dirt:** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to [burrow](../Browse/Movement/Burrow.md).
 
-**[Climb](../Browse/Movement/Climb%20or%20Swim.md):** A movement mode that allows a creature to [climb](../Browse/Movement/Climb%20or%20Swim.md) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](../Browse/Movement/Climb%20or%20Swim.md) must use 2 squares of movement to [climb](../Browse/Movement/Climb%20or%20Swim.md) 1 square.
+**[Climb](../Browse/Movement/Climb or Swim.md):** A movement mode that allows a creature to [climb](../Browse/Movement/Climb or Swim.md) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](../Browse/Movement/Climb or Swim.md) must use 2 squares of movement to [climb](../Browse/Movement/Climb or Swim.md) 1 square.
 
 **Combat Round:** A segment of a combat encounter in which each creature participating in the battle takes a turn.
 
@@ -254,13 +254,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
-**[Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md):** An ancestry with a draconic heritage.
+**[Dragon Knight](../Browse/Ancestries/Dragon Knight.md):** An ancestry with a draconic heritage.
 
 **Drama:** The [troubadour](../Browse/Classes/Troubadour.md)'s Heroic Resource.
 
 **[Dwarf](../Browse/Ancestries/Dwarf.md):** An ancestry with stone skin and short stature.
 
-**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../Browse/Conditions/Bleeding.md) and they can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
+**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../Browse/Conditions/Bleeding.md) and they can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
 
 **Echelon:** A grouping of heroic levels that informs players of the types of heroic deeds the heroes can achieve. There are four echelons of play: 1st echelon (1st to 3rd level), 2nd echelon (4th to 6th level), 3rd echelon (7th to 9th level), and 4th echelon (10th level).
 
@@ -296,13 +296,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Free Maneuver:** A maneuver that doesn't count against the one maneuver per turn a creature can take. A free maneuver can only be used by a creature on their turn.
 
-**Free Strike:** The simplest and most basic weapon attack any creature can make. A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as a main action, but it's not the best bang for buck.
+**Free Strike:** The simplest and most basic weapon attack any creature can make. A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as a main action, but it's not the best bang for buck.
 
 **Free Triggered Action:** An action a creature can use on any turn, including their own, but only when a specific trigger occurs. There is no limit to the number of free triggered actions a creature can take during combat.
 
 **[Frightened](../Browse/Conditions/Frightened.md):** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
 
-**[Fury](../Browse/Classes/Fury.md):** A class for a hero warrior who courses with the [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) of the Primordial Chaos.
+**[Fury](../Browse/Classes/Fury.md):** A class for a hero warrior who courses with the [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) of the Primordial Chaos.
 
 **God:** A deity who grants power to their most devout worshipers through saint intermediaries.
 
@@ -374,7 +374,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Melee:** Melee abilities require a creature to make contact with a target using the creature's body, a weapon, or an implement.
 
-**Melee Free Strike:** A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) made using a melee ability.
+**Melee Free Strike:** A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) made using a melee ability.
 
 **[Memonek](../Browse/Ancestries/Memonek.md):** An ancestry of machine people.
 
@@ -384,7 +384,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Motivation:** A negotiation trait an NPC has that determines what type of arguments could more easily sway them.
 
-**Mounted Combat:** Special rules that apply when one creature [rides](../Browse/Abilities/Common/Move%20Actions/Ride.md) another into battle.
+**Mounted Combat:** Special rules that apply when one creature [rides](../Browse/Abilities/Common/Move Actions/Ride.md) another into battle.
 
 **Move Action:** An activity that allows a creature to move around the battlefield.
 
@@ -408,7 +408,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../Browse/Movement/Teleport.md), the creature can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../Browse/Movement/Teleport.md), the creature can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -452,7 +452,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
-**Ranged Free Strike:** A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) made using a ranged ability.
+**Ranged Free Strike:** A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) made using a ranged ability.
 
 **Reactive Test:** When the Director asks for a test without context to see if a hero can react to an event or effect they are unaware of.
 
@@ -510,7 +510,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Space:** The number of squares taken up by a creature or object in length, width, and height, and the area of the same size that a creature or object occupies on an encounter map.
 
-**Speed:** A measure of how many squares a creature can move when taking the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action during combat.
+**Speed:** A measure of how many squares a creature can move when taking the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action during combat.
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
@@ -534,7 +534,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Surprised:** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an edge.
 
-**[Swim](../Browse/Movement/Climb%20or%20Swim.md):** A movement mode that allows a creature to [swim](../Browse/Movement/Climb%20or%20Swim.md) without using additional squares of movement. A creature without "[swim](../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry or the temporary ability to [swim](../Browse/Movement/Climb%20or%20Swim.md) must use 2 squares of movement to [swim](../Browse/Movement/Climb%20or%20Swim.md) 1 square.
+**[Swim](../Browse/Movement/Climb or Swim.md):** A movement mode that allows a creature to [swim](../Browse/Movement/Climb or Swim.md) without using additional squares of movement. A creature without "[swim](../Browse/Movement/Climb or Swim.md)" in their speed entry or the temporary ability to [swim](../Browse/Movement/Climb or Swim.md) must use 2 squares of movement to [swim](../Browse/Movement/Climb or Swim.md) 1 square.
 
 **[Tactician](../Browse/Classes/Tactician.md):** A class for a hero who is a brilliant strategist and weapons expert.
 
@@ -560,7 +560,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Title:** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
-**[Time Raider](../Browse/Ancestries/Time%20Raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
+**[Time Raider](../Browse/Ancestries/Time Raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 

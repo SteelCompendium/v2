@@ -18,16 +18,16 @@ As a 5th-level [elementalist](../../../Browse/Classes/Elementalist.md), you gain
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move.md)     |
-| Fire           | [Smoldering Step](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step.md)                                 |
-| Green          | [Hide of Tenfold Shields](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields.md)             |
-| Void           | [Pierce the Veil of Substance](../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance.md) |
+| Earth          | [The Mountain Does Not Move](../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md)     |
+| Fire           | [Smoldering Step](../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md)                                 |
+| Green          | [Hide of Tenfold Shields](../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md)             |
+| Void           | [Pierce the Veil of Substance](../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md) |
 
 ##### Hide of Tenfold Shields
 
@@ -39,7 +39,7 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your [stability](../../../Browse/Movement/Stability.md) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability is force moved, you can use a free triggered action to decrease your [stability](../../../Browse/Movement/Stability.md) down to a minimum of 0, then increase the ally's [stability](../../../Browse/Movement/Stability.md) by an amount equal to the [stability](../../../Browse/Movement/Stability.md) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability is force moved, you can use a free triggered action to decrease your [stability](../../../Browse/Movement/Stability.md) down to a minimum of 0, then increase the ally's [stability](../../../Browse/Movement/Stability.md) by an amount equal to the [stability](../../../Browse/Movement/Stability.md) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 

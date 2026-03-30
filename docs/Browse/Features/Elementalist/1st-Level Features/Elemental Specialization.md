@@ -28,7 +28,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../../../../Browse/Movement/Teleport.md), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
@@ -36,7 +36,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 

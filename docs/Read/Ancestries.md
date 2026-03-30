@@ -20,23 +20,23 @@ search:
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](../Browse/Ancestries/Devil.md), [dwarves](../Browse/Ancestries/Dwarf.md), elves, [time raiders](../Browse/Ancestries/Time%20Raider.md)—and of course [humans](../Browse/Ancestries/Human.md), whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](../Browse/Ancestries/Devil.md), [dwarves](../Browse/Ancestries/Dwarf.md), elves, [time raiders](../Browse/Ancestries/Time Raider.md)—and of course [humans](../Browse/Ancestries/Human.md), whose culture and history dominates many worlds.
 
-Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](../Browse/Skills/Lore%20Skills.md), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
+Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](../Browse/Skills/Lore Skills.md), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](../Chapters/Background.md)) describes how you grew up. If you want to be a [wode elf](../Browse/Ancestries/Wode%20Elf.md) who was raised in a forest among other [wode elves](../Browse/Ancestries/Wode%20Elf.md), you can do that! If you want to play a [wode elf](../Browse/Ancestries/Wode%20Elf.md) who was raised in an underground city of [dwarves](../Browse/Ancestries/Dwarf.md), [humans](../Browse/Ancestries/Human.md), and [orcs](../Browse/Ancestries/Orc.md), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](../Chapters/Background.md)) describes how you grew up. If you want to be a [wode elf](../Browse/Ancestries/Wode Elf.md) who was raised in a forest among other [wode elves](../Browse/Ancestries/Wode Elf.md), you can do that! If you want to play a [wode elf](../Browse/Ancestries/Wode Elf.md) who was raised in an underground city of [dwarves](../Browse/Ancestries/Dwarf.md), [humans](../Browse/Ancestries/Human.md), and [orcs](../Browse/Ancestries/Orc.md), you can do that too!
 
 This chapter details twelve [ancestries](../Chapters/Ancestries.md) for the game:
 
 **[Devil](../Browse/Ancestries/Devil.md):** [Devils](../Browse/Ancestries/Devil.md) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](../Browse/Ancestries/Human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**[Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md):** [Dragon knights](../Browse/Ancestries/Dragon%20Knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../Browse/Ancestries/Dragon%20Knight.md) have wings, but on only a few are those wings big enough to let them [fly](../Browse/Movement/Fly.md).
+**[Dragon Knight](../Browse/Ancestries/Dragon Knight.md):** [Dragon knights](../Browse/Ancestries/Dragon Knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../Browse/Ancestries/Dragon Knight.md) have wings, but on only a few are those wings big enough to let them [fly](../Browse/Movement/Fly.md).
 
 **[Dwarf](../Browse/Ancestries/Dwarf.md):** Humanoids with stony skin, [dwarves](../Browse/Ancestries/Dwarf.md) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
-**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../Browse/Ancestries/Wode%20Elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md).
+**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../Browse/Ancestries/Wode Elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md).
 
-**High Elf:** Stately and graceful, [high elves](../Browse/Ancestries/High%20Elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../Browse/Ancestries/High%20Elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](../Browse/Ancestries/High%20Elf.md)'s tone and smell.
+**High Elf:** Stately and graceful, [high elves](../Browse/Ancestries/High Elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../Browse/Ancestries/High Elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](../Browse/Ancestries/High Elf.md)'s tone and smell.
 
 **[Hakaan](../Browse/Ancestries/Hakaan.md):** Descended from stone giants, the mighty [hakaan](../Browse/Ancestries/Hakaan.md) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
@@ -50,7 +50,7 @@ This chapter details twelve [ancestries](../Chapters/Ancestries.md) for the game
 
 **[Revenant](../Browse/Ancestries/Revenant.md):** No hero starts their life as a [revenant](../Browse/Ancestries/Revenant.md). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](../Browse/Ancestries/Revenant.md).
 
-**[Time Raider](../Browse/Ancestries/Time%20Raider.md):** Travelers of the timescape, the [time raiders](../Browse/Ancestries/Time%20Raider.md) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](../Browse/Ancestries/Time Raider.md):** Travelers of the timescape, the [time raiders](../Browse/Ancestries/Time Raider.md) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -85,11 +85,11 @@ However, mortals are not gods and lack their ineffable wisdom. They are, in fact
 
 In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](../Browse/Ancestries/Dwarf.md) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](../Browse/Ancestries/Dwarf.md) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
-Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](../Browse/Ancestries/Dragon%20Knight.md) were betrayed by one of their own, seduced by the power offered by Ajax.
+Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](../Browse/Ancestries/Dragon Knight.md) were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](../Browse/Ancestries/Time%20Raider.md) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](../Browse/Ancestries/Time Raider.md) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called *quickening*, used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of *uplifting* found in science fiction. The mage or witch or shaman didn't create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angulotls walking around having conversations with each other,
 
@@ -127,7 +127,7 @@ Most cultures in Vasloria make a distinction between masculine and feminine name
 
 Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](../Browse/Classes/Talent.md), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](../Browse/Ancestries/High%20Elf.md) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](../Browse/Classes/Talent.md), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](../Browse/Ancestries/High Elf.md) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
@@ -165,7 +165,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](../Browse/Ancestries/Human.md) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](../Chapters/Ancestries.md) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](../Browse/Ancestries/Wode%20Elf.md), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](../Browse/Ancestries/Human.md) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](../Chapters/Ancestries.md) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](../Browse/Ancestries/Wode Elf.md), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -175,7 +175,7 @@ Elves in general have a casual attitude toward gender, it having no direct beari
 
 ##### High Elf Names
 
-[High elf](../Browse/Ancestries/High%20Elf.md) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
+[High elf](../Browse/Ancestries/High Elf.md) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
 
 **Examples:** The Anticipation of a Sigh Upon His Lips, A Crown of Starlight on Winter Snow, The Earth Cries the Skies Divide, Echoes of Autumn Heat, Edges of a Leaf Torn by the Wind, Every Flake of Snow a Memory, A Heart That Will Not Yield the Stars, The Last Star Fading With Morning, A Rain of Glass Over a Sea of Dreams, The Sun Reflected in a Lover's Tear
 
@@ -231,7 +231,7 @@ For reasons not well understood, [polders](../Browse/Ancestries/Polder.md) in Va
 
 ##### Time Raider Names
 
-Kuran'zoi names typically end with an epithet, given when the young [time raider](../Browse/Ancestries/Time%20Raider.md) comes of age, that reflects their uniquely rebellious nature.
+Kuran'zoi names typically end with an epithet, given when the young [time raider](../Browse/Ancestries/Time Raider.md) comes of age, that reflects their uniquely rebellious nature.
 
 **Feminine:** Ak'karatar, Ip'pritt, Ner'radmok, Orov'vika, Phe'kala, Quix'x, Thes'srika, Thos'sivik, Um'manri, Vir'rikin
 
@@ -254,16 +254,16 @@ How tall is a [polder](../Browse/Ancestries/Polder.md)? How long does a [dwarf](
 | Ancestry                                                                        | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
 | ------------------------------------------------------------------------------- | --------------------------- | --------------------- | ----------------------------- |
 | [Devil](../Browse/Ancestries/Devil.md)                   | 5'0''-6'0''                 | 120-250               | 70-120                        |
-| [Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md) | 6'0''-7'0''                 | 200-350               | 50-90                         |
+| [Dragon Knight](../Browse/Ancestries/Dragon Knight.md) | 6'0''-7'0''                 | 200-350               | 50-90                         |
 | [Dwarf](../Browse/Ancestries/Dwarf.md)                   | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
-| [Wode Elf](../Browse/Ancestries/Wode%20Elf.md)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
-| [High Elf](../Browse/Ancestries/High%20Elf.md)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| [Wode Elf](../Browse/Ancestries/Wode Elf.md)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| [High Elf](../Browse/Ancestries/High Elf.md)           | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
 | [Hakaan](../Browse/Ancestries/Hakaan.md)                 | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
 | [Human](../Browse/Ancestries/Human.md)                   | 5'0''-6'0''                 | 100-300               | 70-120                        |
 | [Memonek](../Browse/Ancestries/Memonek.md)               | 5'0''-6'0''                 | 50-100                | 70-120                        |
 | [Orc](../Browse/Ancestries/Orc.md)                       | 5'6''-6'6''                 | 150-300               | 50-90                         |
 | [Polder](../Browse/Ancestries/Polder.md)                 | 3'3''-3'6''                 | 20-50                 | 50-90                         |
-| [Time Raider](../Browse/Ancestries/Time%20Raider.md)     | 5'0''-6'0''                 | 120-250               | 50-90                         |
+| [Time Raider](../Browse/Ancestries/Time Raider.md)     | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed
 
@@ -427,11 +427,11 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../Browse/Ancestries/Dragon%20Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../Browse/Ancestries/Dragon Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of [dragon knights](../Browse/Ancestries/Dragon%20Knight.md). Within the Dragon Phalanx were [shadows](../Browse/Classes/Shadow.md), [censors](../Browse/Classes/Censor.md), [tacticians](../Browse/Classes/Tactician.md), and [elementalists](../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of [dragon knights](../Browse/Ancestries/Dragon Knight.md). Within the Dragon Phalanx were [shadows](../Browse/Classes/Shadow.md), [censors](../Browse/Classes/Censor.md), [tacticians](../Browse/Classes/Tactician.md), and [elementalists](../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -443,7 +443,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [human](../Browse/Ancestries/Human.md) bandits took a step back. One of the [dwarves](../Browse/Ancestries/Dwarf.md) just sneered—then, sensing his [human](../Browse/Ancestries/Human.md) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](../Browse/Ancestries/Dwarf.md) growled.
 
-Looking at the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md), another bandit added quickly, "We didn't know there was one of you here."
+Looking at the [dragon knight](../Browse/Ancestries/Dragon Knight.md), another bandit added quickly, "We didn't know there was one of you here."
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](../Browse/Ancestries/Dwarf.md). "Think of the *bounty*," the [dwarf](../Browse/Ancestries/Dwarf.md) hissed to the [humans](../Browse/Ancestries/Human.md), but he kept his eye on the draconian. "We'll all be *rich*."
 
@@ -451,15 +451,15 @@ The two [dwarves](../Browse/Ancestries/Dwarf.md) surveyed the tavern. The people
 
 "We'll be *back*," the lead [dwarf](../Browse/Ancestries/Dwarf.md) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../Browse/Ancestries/Dragon Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../Browse/Ancestries/Dragon Knight.md) walked past their table.
 
 The knight moved on, ignoring them. The man reached out and [grabbed](../Browse/Conditions/Grabbed.md) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
@@ -467,7 +467,7 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
 
 "John?"
 
@@ -475,7 +475,7 @@ The man turned to look up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
-The man held out his hand. The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
+The man held out his hand. The [dragon knight](../Browse/Ancestries/Dragon Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
 
 "These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn."
 
@@ -487,7 +487,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) spoke again, his voice low.
+The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../Browse/Ancestries/Dragon Knight.md) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -497,23 +497,23 @@ The inn had mostly gone back to its business but the three peasants watched inte
 
 "What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the [dragon knight](../Browse/Ancestries/Dragon Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
-"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
+"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../Browse/Ancestries/Dragon Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../Browse/Ancestries/Dragon Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
 ### Dragon Knight Traits
 
-[Dragon knight](../Browse/Ancestries/Dragon%20Knight.md) heroes have access to the following traits.
+[Dragon knight](../Browse/Ancestries/Dragon Knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -725,9 +725,9 @@ You have a magic connection to the earth. When you spend 1 uninterrupted hour si
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../Browse/Ancestries/Wode%20Elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../Browse/Ancestries/Human.md) for snatching children who wander too far into the woods. [Humans](../Browse/Ancestries/Human.md) *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../Browse/Ancestries/Wode Elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../Browse/Ancestries/Human.md) for snatching children who wander too far into the woods. [Humans](../Browse/Ancestries/Human.md) *should* fear the trees.
 
-The [wode elves](../Browse/Ancestries/Wode%20Elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../Browse/Ancestries/Wode%20Elf.md) who dwell in cities naturally adept at urban warfare.
+The [wode elves](../Browse/Ancestries/Wode Elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../Browse/Ancestries/Wode Elf.md) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -743,11 +743,11 @@ The [wode elves](../Browse/Ancestries/Wode%20Elf.md)' natural ability to mask th
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](../Browse/Ancestries/Wode%20Elf.md), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](../Browse/Ancestries/Wode Elf.md), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
 The elves were tall, taller than an adult [human](../Browse/Ancestries/Human.md), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](../Browse/Ancestries/Wode%20Elf.md) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](../Browse/Ancestries/Wode Elf.md) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -771,9 +771,9 @@ The elf smiled at the children. "But have no fear," they said. Their Vaslorian w
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
-Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](../Browse/Ancestries/Wode%20Elf.md)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
+Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](../Browse/Ancestries/Wode Elf.md)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
 
-Llyander turned to Rhythylthin and the rest of the [wode elf](../Browse/Ancestries/Wode%20Elf.md) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
+Llyander turned to Rhythylthin and the rest of the [wode elf](../Browse/Ancestries/Wode Elf.md) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
@@ -809,7 +809,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-[Wode elf](../Browse/Ancestries/Wode%20Elf.md) heroes have access to the following traits.
+[Wode elf](../Browse/Ancestries/Wode Elf.md) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 
@@ -859,9 +859,9 @@ You have the following signature ability. Signature abilities can be used at wil
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../Browse/Ancestries/High%20Elf.md) history describes a better age, before the coming of [humans](../Browse/Ancestries/Human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../Browse/Ancestries/High Elf.md) history describes a better age, before the coming of [humans](../Browse/Ancestries/Human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the [high elves](../Browse/Ancestries/High%20Elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](../Browse/Ancestries/High Elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -869,7 +869,7 @@ In the millennia since their creators retired to Arcadia, the [high elves](../Br
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../Browse/Ancestries/Wode%20Elf.md) escort Llyander at their side. Lord Tear, King of the [High Elves](../Browse/Ancestries/High%20Elf.md), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../Browse/Ancestries/Wode Elf.md) escort Llyander at their side. Lord Tear, King of the [High Elves](../Browse/Ancestries/High Elf.md), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -909,7 +909,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../Browse/Ancestries/Wode%20Elf.md) spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../Browse/Ancestries/Wode Elf.md) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -931,7 +931,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-[High elf](../Browse/Ancestries/High%20Elf.md) heroes have access to the following traits.
+[High elf](../Browse/Ancestries/High Elf.md) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -947,7 +947,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat (1 Point)
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### High Senses (1 Point)
 
@@ -983,7 +983,7 @@ But the only [hakaan](../Browse/Ancestries/Hakaan.md) the average [human](../Bro
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the [high elf](../Browse/Ancestries/High%20Elf.md) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](../Browse/Ancestries/High Elf.md) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
@@ -1111,7 +1111,7 @@ So, we arrive here at the end of your first semester of [Human](../Browse/Ancest
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../Browse/Ancestries/Human.md)?
 
-I am a [high elf](../Browse/Ancestries/High%20Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](../Browse/Ancestries/High Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](../Browse/Ancestries/Human.md)? Well, I will tell you.
 
@@ -1437,7 +1437,7 @@ Khorva shook her head. "[Orcs](../Browse/Ancestries/Orc.md) have no great love f
 
 #### Signature Trait: Relentless
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 #### Purchased Orc Traits
 
@@ -1449,7 +1449,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery (2 Points)
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver, you can spend as many Recoveries as you like.
 
 ##### Grounded (1 Point)
 
@@ -1479,7 +1479,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Eh?" the [polder](../Browse/Ancestries/Polder.md) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](../Browse/Ancestries/Polder.md) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../Browse/Ancestries/High%20Elf.md) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../Browse/Ancestries/Polder.md) before," he said.
+"Oh," the [polder](../Browse/Ancestries/Polder.md) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../Browse/Ancestries/High Elf.md) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../Browse/Ancestries/Polder.md) before," he said.
 
 "Are you kidding me?" Jackson said.
 
@@ -1489,7 +1489,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](../Browse/Ancestries/Polder.md) before."
 
-Jackson looked at his friend, the [high elf](../Browse/Ancestries/High%20Elf.md) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](../Browse/Ancestries/High Elf.md) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the [polder](../Browse/Ancestries/Polder.md) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
@@ -1525,7 +1525,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/Ancestries/High%20Elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/Ancestries/High Elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -1537,7 +1537,7 @@ The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the [high elf](../Browse/Ancestries/High%20Elf.md) void mage, then back at the [human](../Browse/Ancestries/Human.md). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](../Browse/Ancestries/High Elf.md) void mage, then back at the [human](../Browse/Ancestries/Human.md). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -1575,7 +1575,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) stared at them for a moment, then turned back to his friend.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
@@ -1617,7 +1617,7 @@ Courage is all you know. You can't be made [frightened](../Browse/Conditions/Fri
 
 ##### Graceful Retreat (1 Point)
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### Nimblestep (2 Points)
 
@@ -1757,9 +1757,9 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, [time raiders](../Browse/Ancestries/Time%20Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, [time raiders](../Browse/Ancestries/Time Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../Browse/Ancestries/Time%20Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../Browse/Ancestries/Time Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -1799,7 +1799,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../Browse/Ancestries/High%20Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). Of all the motley band, it was the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../Browse/Ancestries/High Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../Browse/Ancestries/Dragon Knight.md). Of all the motley band, it was the [dragon knight](../Browse/Ancestries/Dragon Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -1817,7 +1817,7 @@ Not the war dogs—they were fanatics.
 
 "Allies of all those who suffer, and seek justice," the [dwarf](../Browse/Ancestries/Dwarf.md) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-"A kuran'zoi," the [high elf](../Browse/Ancestries/High%20Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
+"A kuran'zoi," the [high elf](../Browse/Ancestries/High Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers explicitly.
 
@@ -1829,13 +1829,13 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](../Browse/Classes/Tactician.md). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../Browse/Ancestries/Polder.md), [dwarf](../Browse/Ancestries/Dwarf.md), and [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../Browse/Ancestries/Polder.md), [dwarf](../Browse/Ancestries/Dwarf.md), and [dragon knight](../Browse/Ancestries/Dragon Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The [time raider](../Browse/Ancestries/Time%20Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The [time raider](../Browse/Ancestries/Time Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The [time raider](../Browse/Ancestries/Time%20Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [time raider](../Browse/Ancestries/Time Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](../Browse/Ancestries/Polder.md) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
@@ -1869,7 +1869,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, or [Swim](../Browse/Movement/Climb%20or%20Swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, or [Swim](../Browse/Movement/Climb or Swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 

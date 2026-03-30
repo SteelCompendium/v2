@@ -28,21 +28,21 @@ Your null tradition is your subclass, and your choice of tradition determines ma
 
 #### Discipline
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../../../Browse/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../../../Browse/Features/Null/1st-Level Features/Discipline/Discipline Outside of Combat.md), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../Browse/Classes/Null.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../Browse/Classes/Null.md), but they might appear in future products.)
 
 #### Null Field
 
@@ -88,21 +88,21 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) you spend during your turn.
+As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) you spend during your turn.
 
-Some [Discipline Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                                                     |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can use the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action either before or after the maneuver. |
+| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action either before or after the maneuver. |
 | 4                                                                                               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
 | 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                                                    |
 | 8 (4th level)                                                                                   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
@@ -111,13 +111,13 @@ Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Fea
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                       |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4                                                                                               | The first time on a turn that you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
@@ -128,13 +128,13 @@ Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Fea
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
 | 4                                                                                               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
@@ -145,11 +145,11 @@ Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level%20Fea
 
 #### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action equal to your Agility score.
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation.md).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Speed Augmentation.md).)
 
 ##### Density Augmentation
 
@@ -161,7 +161,7 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 #### Psionic Martial Arts
 
@@ -173,7 +173,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../Browse/Abilities/Null/1st-Level%20Features/Faster%20Than%20the%20Eye.md), [Inertial Step](../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Step.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md), [Inertial Step](../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md).)
 
 <!-- -->
 > ###### Dance of Blows
@@ -305,7 +305,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 ###### 3-Discipline Ability
 
@@ -326,7 +326,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -441,4 +441,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free maneuver before or after you use this ability.

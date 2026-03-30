@@ -18,16 +18,16 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action.md) table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization | Triggered Action                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Skin%20Like%20Castle%20Walls.md)       |
-| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Explosive%20Assistance.md)               |
-| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Breath%20of%20Dawn%20Remembered.md) |
-| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Subtle%20Relocation.md)                     |
+| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md)       |
+| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md)               |
+| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md) |
+| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered

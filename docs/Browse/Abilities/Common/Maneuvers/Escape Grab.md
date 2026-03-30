@@ -27,7 +27,7 @@ A creature who is [grabbed](../../../../Browse/Conditions/Grabbed.md) by another
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md), but if you do, a creature who has you [grabbed](../../../../Browse/Conditions/Grabbed.md) can make a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you before you are no longer [grabbed](../../../../Browse/Conditions/Grabbed.md).
+> - **12-16:** You can escape the [grab](../../../../Browse/Abilities/Common/Maneuvers/Grab.md), but if you do, a creature who has you [grabbed](../../../../Browse/Conditions/Grabbed.md) can make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against you before you are no longer [grabbed](../../../../Browse/Conditions/Grabbed.md).
 > - **17+:** You are no longer [grabbed](../../../../Browse/Conditions/Grabbed.md).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../Browse/Conditions/Grabbed.md).

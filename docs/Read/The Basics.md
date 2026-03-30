@@ -28,7 +28,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
 **James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
@@ -116,9 +116,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md) might not have an ability that lets them [climb](../Browse/Movement/Climb%20or%20Swim.md) up the face of a cliff, so [climbing](../Browse/Movement/Climb%20or%20Swim.md) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md) might not have an ability that lets them [climb](../Browse/Movement/Climb or Swim.md) up the face of a cliff, so [climbing](../Browse/Movement/Climb or Swim.md) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -157,13 +157,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb%20or%20Swim.md) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb or Swim.md) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb%20or%20Swim.md) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb or Swim.md) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -177,7 +177,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb%20or%20Swim.md) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb%20or%20Swim.md) that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb or Swim.md) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb or Swim.md) that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -236,13 +236,13 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../Browse/Classes/Tactician.md) takes 7 damage and uses the [Parry](../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../Browse/Classes/Tactician.md) takes 7 damage and uses the [Parry](../Browse/Abilities/Tactician/1st-Level Features/Parry.md) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../Browse/Ancestries/Human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -305,7 +305,7 @@ When you spend a Recovery, you regain Stamina equal to your **recovery value**, 
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
@@ -327,7 +327,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
-Since this game encompasses power levels from hometown heroes to [demigods](../Browse/Titles/4th%20Echelon/Demigod.md), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
+Since this game encompasses power levels from hometown heroes to [demigods](../Browse/Titles/4th Echelon/Demigod.md), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 
@@ -385,7 +385,7 @@ Ajax abolished all faiths and temples. He executed the dukes who organized and u
 
 Now there is only suspicion.
 
-**The [high elves](../Browse/Ancestries/High%20Elf.md) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode%20Elf.md) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
+**The [high elves](../Browse/Ancestries/High Elf.md) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode Elf.md) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](../Browse/Ancestries/Dwarf.md) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](../Browse/Ancestries/Dwarf.md) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
@@ -437,7 +437,7 @@ Higher worlds are more energetic, affording access to alien technologies. Great 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time%20Raider.md) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
+On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time Raider.md) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 

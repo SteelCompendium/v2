@@ -22,7 +22,7 @@ You are a formidable combatant in your own right, but your greatest strength is 
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../../../../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../../../../Browse/Features/Tactician/1st-Level Features/Field Arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
 
 ##### Heroic Abilities
 

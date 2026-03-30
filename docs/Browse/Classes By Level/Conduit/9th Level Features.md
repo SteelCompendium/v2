@@ -18,7 +18,7 @@ As a 9th-level [conduit](../../../Browse/Classes/Conduit.md), you gain the follo
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../Browse/Features/Conduit/6th-Level Features/Burgeoning Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 
@@ -97,7 +97,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 >
 > **Power Roll + Intuition:**
 >

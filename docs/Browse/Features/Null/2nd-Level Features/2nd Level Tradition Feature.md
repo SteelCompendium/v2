@@ -24,13 +24,13 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing.md)           |
-| Cryokinetic   | [Entropic Adaptability](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability.md) |
-| Metakinetic   | [Inertial Sink](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink.md)                 |
+| Chronokinetic | [Rapid Processing](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md)           |
+| Cryokinetic   | [Entropic Adaptability](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md) |
+| Metakinetic   | [Inertial Sink](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md)                 |
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 ##### Inertial Sink
 

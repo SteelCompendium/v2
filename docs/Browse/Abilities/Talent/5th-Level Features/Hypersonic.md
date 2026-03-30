@@ -31,7 +31,7 @@ type: feature/ability/talent/5th-level-feature
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 
-| **Area, [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
+| **Area, [Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 

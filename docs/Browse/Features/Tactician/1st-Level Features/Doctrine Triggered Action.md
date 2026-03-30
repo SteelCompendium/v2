@@ -18,15 +18,15 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action.md) table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../../../../Browse/Features/Tactician/1st-Level Features/Doctrine Triggered Action.md) table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Advanced Tactics](../../../../Browse/Abilities/Tactician/1st-Level%20Features/Advanced%20Tactics.md) |
-| Mastermind | [Overwatch](../../../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch.md)                 |
-| Vanguard   | [Parry](../../../../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md)                         |
+| Insurgent  | [Advanced Tactics](../../../../Browse/Abilities/Tactician/1st-Level Features/Advanced Tactics.md) |
+| Mastermind | [Overwatch](../../../../Browse/Abilities/Tactician/1st-Level Features/Overwatch.md)                 |
+| Vanguard   | [Parry](../../../../Browse/Abilities/Tactician/1st-Level Features/Parry.md)                         |
 
 <!-- -->
 > ###### Advanced Tactics
@@ -54,7 +54,7 @@ Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Featu
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 >
 > **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../Browse/Conditions/Slowed.md) (EoT).
 

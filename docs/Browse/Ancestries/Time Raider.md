@@ -16,9 +16,9 @@ type: ancestry
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, [time raiders](../../Browse/Ancestries/Time%20Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, [time raiders](../../Browse/Ancestries/Time Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../../Browse/Ancestries/Time%20Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../../Browse/Ancestries/Time Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -58,7 +58,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../../Browse/Ancestries/High%20Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md). Of all the motley band, it was the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../../Browse/Ancestries/High Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../../Browse/Ancestries/Dragon Knight.md). Of all the motley band, it was the [dragon knight](../../Browse/Ancestries/Dragon Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -76,7 +76,7 @@ Not the war dogs—they were fanatics.
 
 "Allies of all those who suffer, and seek justice," the [dwarf](../../Browse/Ancestries/Dwarf.md) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-"A kuran'zoi," the [high elf](../../Browse/Ancestries/High%20Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
+"A kuran'zoi," the [high elf](../../Browse/Ancestries/High Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers explicitly.
 
@@ -88,13 +88,13 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](../../Browse/Classes/Tactician.md). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../../Browse/Ancestries/Polder.md), [dwarf](../../Browse/Ancestries/Dwarf.md), and [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../../Browse/Ancestries/Polder.md), [dwarf](../../Browse/Ancestries/Dwarf.md), and [dragon knight](../../Browse/Ancestries/Dragon Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The [time raider](../../Browse/Ancestries/Time%20Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The [time raider](../../Browse/Ancestries/Time Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The [time raider](../../Browse/Ancestries/Time%20Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [time raider](../../Browse/Ancestries/Time Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](../../Browse/Ancestries/Polder.md) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
@@ -128,7 +128,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, or [Swim](../../Browse/Movement/Climb%20or%20Swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../Browse/Movement/Climb or Swim.md), Gymnastics, or [Swim](../../Browse/Movement/Climb or Swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 

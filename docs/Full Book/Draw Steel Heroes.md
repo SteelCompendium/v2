@@ -74,9 +74,9 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow](../Browse/Classes/Shadow.md)'s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](../Browse/Ancestries/Dragon Knight.md) fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
-You should imagine your [tactician](../Browse/Classes/Tactician.md) character leading the battle, granting your allies [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
+You should imagine your [tactician](../Browse/Classes/Tactician.md) character leading the battle, granting your allies [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md), extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
 ### Fantasy
 
@@ -160,7 +160,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
-**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or use an ability with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword against a target when they end their move.
+**Charge Main Action:** A main action that allows a creature to move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) or use an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword against a target when they end their move.
 
 **Ceiling:** Any solid surface above a creature.
 
@@ -170,7 +170,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Claw Dirt:** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to [burrow](../Browse/Movement/Burrow.md).
 
-**[Climb](../Browse/Movement/Climb%20or%20Swim.md):** A movement mode that allows a creature to [climb](../Browse/Movement/Climb%20or%20Swim.md) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](../Browse/Movement/Climb%20or%20Swim.md) must use 2 squares of movement to [climb](../Browse/Movement/Climb%20or%20Swim.md) 1 square.
+**[Climb](../Browse/Movement/Climb or Swim.md):** A movement mode that allows a creature to [climb](../Browse/Movement/Climb or Swim.md) without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to [climb](../Browse/Movement/Climb or Swim.md) must use 2 squares of movement to [climb](../Browse/Movement/Climb or Swim.md) 1 square.
 
 **Combat Round:** A segment of a combat encounter in which each creature participating in the battle takes a turn.
 
@@ -242,13 +242,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
-**[Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md):** An ancestry with a draconic heritage.
+**[Dragon Knight](../Browse/Ancestries/Dragon Knight.md):** An ancestry with a draconic heritage.
 
 **Drama:** The [troubadour](../Browse/Classes/Troubadour.md)'s Heroic Resource.
 
 **[Dwarf](../Browse/Ancestries/Dwarf.md):** An ancestry with stone skin and short stature.
 
-**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../Browse/Conditions/Bleeding.md) and they can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
+**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../Browse/Conditions/Bleeding.md) and they can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
 
 **Echelon:** A grouping of heroic levels that informs players of the types of heroic deeds the heroes can achieve. There are four echelons of play: 1st echelon (1st to 3rd level), 2nd echelon (4th to 6th level), 3rd echelon (7th to 9th level), and 4th echelon (10th level).
 
@@ -284,13 +284,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Free Maneuver:** A maneuver that doesn't count against the one maneuver per turn a creature can take. A free maneuver can only be used by a creature on their turn.
 
-**Free Strike:** The simplest and most basic weapon attack any creature can make. A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as a main action, but it's not the best bang for buck.
+**Free Strike:** The simplest and most basic weapon attack any creature can make. A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is most often used on another creature's turn, when a rule gives a creature not taking their turn an opportunity to make a quick hit against a foe. A creature can also make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as a main action, but it's not the best bang for buck.
 
 **Free Triggered Action:** An action a creature can use on any turn, including their own, but only when a specific trigger occurs. There is no limit to the number of free triggered actions a creature can take during combat.
 
 **[Frightened](../Browse/Conditions/Frightened.md):** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
 
-**[Fury](../Browse/Classes/Fury.md):** A class for a hero warrior who courses with the [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) of the Primordial Chaos.
+**[Fury](../Browse/Classes/Fury.md):** A class for a hero warrior who courses with the [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) of the Primordial Chaos.
 
 **God:** A deity who grants power to their most devout worshipers through saint intermediaries.
 
@@ -362,7 +362,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Melee:** Melee abilities require a creature to make contact with a target using the creature's body, a weapon, or an implement.
 
-**Melee Free Strike:** A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) made using a melee ability.
+**Melee Free Strike:** A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) made using a melee ability.
 
 **[Memonek](../Browse/Ancestries/Memonek.md):** An ancestry of machine people.
 
@@ -372,7 +372,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Motivation:** A negotiation trait an NPC has that determines what type of arguments could more easily sway them.
 
-**Mounted Combat:** Special rules that apply when one creature [rides](../Browse/Abilities/Common/Move%20Actions/Ride.md) another into battle.
+**Mounted Combat:** Special rules that apply when one creature [rides](../Browse/Abilities/Common/Move Actions/Ride.md) another into battle.
 
 **Move Action:** An activity that allows a creature to move around the battlefield.
 
@@ -396,7 +396,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../Browse/Movement/Teleport.md), the creature can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or [teleporting](../Browse/Movement/Teleport.md), the creature can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -440,7 +440,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
-**Ranged Free Strike:** A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) made using a ranged ability.
+**Ranged Free Strike:** A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) made using a ranged ability.
 
 **Reactive Test:** When the Director asks for a test without context to see if a hero can react to an event or effect they are unaware of.
 
@@ -498,7 +498,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Space:** The number of squares taken up by a creature or object in length, width, and height, and the area of the same size that a creature or object occupies on an encounter map.
 
-**Speed:** A measure of how many squares a creature can move when taking the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action during combat.
+**Speed:** A measure of how many squares a creature can move when taking the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action during combat.
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
@@ -522,7 +522,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Surprised:** A creature who is surprised can't take triggered actions or free triggered actions, and ability rolls against them gain an edge.
 
-**[Swim](../Browse/Movement/Climb%20or%20Swim.md):** A movement mode that allows a creature to [swim](../Browse/Movement/Climb%20or%20Swim.md) without using additional squares of movement. A creature without "[swim](../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry or the temporary ability to [swim](../Browse/Movement/Climb%20or%20Swim.md) must use 2 squares of movement to [swim](../Browse/Movement/Climb%20or%20Swim.md) 1 square.
+**[Swim](../Browse/Movement/Climb or Swim.md):** A movement mode that allows a creature to [swim](../Browse/Movement/Climb or Swim.md) without using additional squares of movement. A creature without "[swim](../Browse/Movement/Climb or Swim.md)" in their speed entry or the temporary ability to [swim](../Browse/Movement/Climb or Swim.md) must use 2 squares of movement to [swim](../Browse/Movement/Climb or Swim.md) 1 square.
 
 **[Tactician](../Browse/Classes/Tactician.md):** A class for a hero who is a brilliant strategist and weapons expert.
 
@@ -548,7 +548,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Title:** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
-**[Time Raider](../Browse/Ancestries/Time%20Raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
+**[Time Raider](../Browse/Ancestries/Time Raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
@@ -598,7 +598,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
 **James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
@@ -686,9 +686,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
+The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../Browse/Classes/Fury.md) uses their [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md) might not have an ability that lets them [climb](../Browse/Movement/Climb%20or%20Swim.md) up the face of a cliff, so [climbing](../Browse/Movement/Climb%20or%20Swim.md) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../Browse/Classes/Tactician.md) might not have an ability that lets them [climb](../Browse/Movement/Climb or Swim.md) up the face of a cliff, so [climbing](../Browse/Movement/Climb or Swim.md) is an activity they can attempt with a test. An [elementalist](../Browse/Classes/Elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../Chapters/Tests.md) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -727,13 +727,13 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb%20or%20Swim.md) walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../Browse/Conditions/Prone.md) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to [climb](../Browse/Movement/Climb or Swim.md) walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb%20or%20Swim.md) an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../Browse/Conditions/Prone.md), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to [climb](../Browse/Movement/Climb or Swim.md) an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
@@ -747,7 +747,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb%20or%20Swim.md) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb%20or%20Swim.md) that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to [climb](../Browse/Movement/Climb or Swim.md) a stone wall. But it makes sense that rainy conditions should make [climbing](../Browse/Movement/Climb or Swim.md) that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
@@ -806,13 +806,13 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../Browse/Classes/Tactician.md) takes 7 damage and uses the [Parry](../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../Browse/Classes/Tactician.md) takes 7 damage and uses the [Parry](../Browse/Abilities/Tactician/1st-Level Features/Parry.md) ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../Browse/Ancestries/Human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -875,7 +875,7 @@ When you spend a Recovery, you regain Stamina equal to your **recovery value**, 
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see [Combat](#page-279-4)), you can use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver to regain Stamina. (See [Catch Breath](#page-287-2) in [Maneuvers](#page-287-0) for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
@@ -897,7 +897,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
-Since this game encompasses power levels from hometown heroes to [demigods](../Browse/Titles/4th%20Echelon/Demigod.md), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
+Since this game encompasses power levels from hometown heroes to [demigods](../Browse/Titles/4th Echelon/Demigod.md), the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 
@@ -955,7 +955,7 @@ Ajax abolished all faiths and temples. He executed the dukes who organized and u
 
 Now there is only suspicion.
 
-**The [high elves](../Browse/Ancestries/High%20Elf.md) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode%20Elf.md) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
+**The [high elves](../Browse/Ancestries/High Elf.md) of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The [wode elves](../Browse/Ancestries/Wode Elf.md) of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
 **The [dwarves](../Browse/Ancestries/Dwarf.md) of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone [dwarves](../Browse/Ancestries/Dwarf.md) do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
@@ -1007,7 +1007,7 @@ Higher worlds are more energetic, affording access to alien technologies. Great 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time%20Raider.md) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
+On Axiom, the Plane of Uttermost Law, the [memonek](../Browse/Ancestries/Memonek.md) live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the starfreighters from the [time raiders](../Browse/Ancestries/Time Raider.md) and the infamous pirate band the Starslayers on their legendary ship the K.R.A.D.1 *Fearless*.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synliroi who once ruled the Plane of Uttermost Chaos, exiling the voiceless talkers to the World Below. Now masters of their world, the proteans take to the stars in their living changeships, hurling their small fleet against the tyrannical unquestioned might of UNISOL.
 
@@ -1073,7 +1073,7 @@ The Director should make an agenda for a campaign's first session often called "
 
 - The Director and players talk about the safety tools they want to employ at the game table (whether physical or virtual), so that everyone has a good time and understands which topics should be avoided in the game's narrative and which should be embraced. For more information, check out the MCDM Tabletop Safety Toolkit at *[mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*, which includes advice for running a successful first session.
 - The Director discusses the campaign's world and the major story themes they want to introduce into the game. This often takes the form of a campaign pitch the Director presents to the players.
-- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](../Browse/Classes/Null.md) or [talents](../Browse/Classes/Talent.md). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](../Browse/Ancestries/Memonek.md) or [time raiders](../Browse/Ancestries/Time%20Raider.md), or those [ancestries](../Chapters/Ancestries.md) might be exceedingly rare. In the latter case, players should know that their [memonek](../Browse/Ancestries/Memonek.md) or [time raider](../Browse/Ancestries/Time%20Raider.md) heroes are likely to get a lot of questions from curious NPCs.
+- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](../Browse/Classes/Null.md) or [talents](../Browse/Classes/Talent.md). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](../Browse/Ancestries/Memonek.md) or [time raiders](../Browse/Ancestries/Time Raider.md), or those [ancestries](../Chapters/Ancestries.md) might be exceedingly rare. In the latter case, players should know that their [memonek](../Browse/Ancestries/Memonek.md) or [time raider](../Browse/Ancestries/Time Raider.md) heroes are likely to get a lot of questions from curious NPCs.
 - The players get a chance to tell the Director what they would like to experience in the campaign. This can include anything from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out of the game.
 - Make heroes! Once everyone understands what the campaign is about, it's the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about—and raises anticipation for the next session.
@@ -1116,7 +1116,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 
 #### 2. Ancestry
 
-Choose your hero's humanoid ancestry from among the range of [ancestries](../Chapters/Ancestries.md) available in the game—[devil](../Browse/Ancestries/Devil.md), [dragon knight](../Browse/Ancestries/Dragon%20Knight.md), [dwarf](../Browse/Ancestries/Dwarf.md), [wode elf](../Browse/Ancestries/Wode%20Elf.md), [high elf](../Browse/Ancestries/High%20Elf.md), [hakaan](../Browse/Ancestries/Hakaan.md), [human](../Browse/Ancestries/Human.md), [memonek](../Browse/Ancestries/Memonek.md), [orc](../Browse/Ancestries/Orc.md), [polder](../Browse/Ancestries/Polder.md), [revenant](../Browse/Ancestries/Revenant.md), or [time raider](../Browse/Ancestries/Time%20Raider.md). Future supplements will introduce additional [ancestries](../Chapters/Ancestries.md) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
+Choose your hero's humanoid ancestry from among the range of [ancestries](../Chapters/Ancestries.md) available in the game—[devil](../Browse/Ancestries/Devil.md), [dragon knight](../Browse/Ancestries/Dragon Knight.md), [dwarf](../Browse/Ancestries/Dwarf.md), [wode elf](../Browse/Ancestries/Wode Elf.md), [high elf](../Browse/Ancestries/High Elf.md), [hakaan](../Browse/Ancestries/Hakaan.md), [human](../Browse/Ancestries/Human.md), [memonek](../Browse/Ancestries/Memonek.md), [orc](../Browse/Ancestries/Orc.md), [polder](../Browse/Ancestries/Polder.md), [revenant](../Browse/Ancestries/Revenant.md), or [time raider](../Browse/Ancestries/Time Raider.md). Future supplements will introduce additional [ancestries](../Chapters/Ancestries.md) you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
 
 #### 3. Culture
 
@@ -1149,15 +1149,15 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 #### 7. Add Free Strikes
 
-A [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md)! Every hero has a melee weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) and a ranged weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md)! Every hero has a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) and a ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../Browse/Ancestries/Wode%20Elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), and a greataxe-wielding [orc](../Browse/Ancestries/Orc.md) fury can use a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) to hurl a handaxe at a [flying](../Browse/Movement/Fly.md) enemy staying annoyingly out of melee range.
+You can also make [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../Browse/Ancestries/Wode Elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), and a greataxe-wielding [orc](../Browse/Ancestries/Orc.md) fury can use a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) to hurl a handaxe at a [flying](../Browse/Movement/Fly.md) enemy staying annoyingly out of melee range.
 
-See [Free Strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) in Chapter 10: Combat for more information on using [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), and see Abilities in Chapter 5: [Classes](../Chapters/Classes.md) for information on the ability format and how to read it.
+See [Free Strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) in Chapter 10: Combat for more information on using [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md), and see Abilities in Chapter 5: [Classes](../Chapters/Classes.md) for information on the ability format and how to read it.
 
 **<span class="steel-compendium-feature">Melee Weapon Free Strike</span>**
 
-| **[Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
+| **[Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 | **📏 Melee 1**                                                                                                  | **🎯 One creature or object** |
 
@@ -1271,23 +1271,23 @@ Some games don't track XP or goals at all. The heroes simply gain a level whenev
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](../Browse/Ancestries/Devil.md), [dwarves](../Browse/Ancestries/Dwarf.md), elves, [time raiders](../Browse/Ancestries/Time%20Raider.md)—and of course [humans](../Browse/Ancestries/Human.md), whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](../Browse/Ancestries/Devil.md), [dwarves](../Browse/Ancestries/Dwarf.md), elves, [time raiders](../Browse/Ancestries/Time Raider.md)—and of course [humans](../Browse/Ancestries/Human.md), whose culture and history dominates many worlds.
 
-Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](../Browse/Skills/Lore%20Skills.md), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
+Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or [lore skills](../Browse/Skills/Lore Skills.md), though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](../Chapters/Background.md)) describes how you grew up. If you want to be a [wode elf](../Browse/Ancestries/Wode%20Elf.md) who was raised in a forest among other [wode elves](../Browse/Ancestries/Wode%20Elf.md), you can do that! If you want to play a [wode elf](../Browse/Ancestries/Wode%20Elf.md) who was raised in an underground city of [dwarves](../Browse/Ancestries/Dwarf.md), [humans](../Browse/Ancestries/Human.md), and [orcs](../Browse/Ancestries/Orc.md), you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](../Chapters/Background.md)) describes how you grew up. If you want to be a [wode elf](../Browse/Ancestries/Wode Elf.md) who was raised in a forest among other [wode elves](../Browse/Ancestries/Wode Elf.md), you can do that! If you want to play a [wode elf](../Browse/Ancestries/Wode Elf.md) who was raised in an underground city of [dwarves](../Browse/Ancestries/Dwarf.md), [humans](../Browse/Ancestries/Human.md), and [orcs](../Browse/Ancestries/Orc.md), you can do that too!
 
 This chapter details twelve [ancestries](../Chapters/Ancestries.md) for the game:
 
 **[Devil](../Browse/Ancestries/Devil.md):** [Devils](../Browse/Ancestries/Devil.md) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](../Browse/Ancestries/Human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**[Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md):** [Dragon knights](../Browse/Ancestries/Dragon%20Knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../Browse/Ancestries/Dragon%20Knight.md) have wings, but on only a few are those wings big enough to let them [fly](../Browse/Movement/Fly.md).
+**[Dragon Knight](../Browse/Ancestries/Dragon Knight.md):** [Dragon knights](../Browse/Ancestries/Dragon Knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../Browse/Ancestries/Dragon Knight.md) have wings, but on only a few are those wings big enough to let them [fly](../Browse/Movement/Fly.md).
 
 **[Dwarf](../Browse/Ancestries/Dwarf.md):** Humanoids with stony skin, [dwarves](../Browse/Ancestries/Dwarf.md) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
-**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../Browse/Ancestries/Wode%20Elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md).
+**Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, [wode elves](../Browse/Ancestries/Wode Elf.md) have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md).
 
-**High Elf:** Stately and graceful, [high elves](../Browse/Ancestries/High%20Elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../Browse/Ancestries/High%20Elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](../Browse/Ancestries/High%20Elf.md)'s tone and smell.
+**High Elf:** Stately and graceful, [high elves](../Browse/Ancestries/High Elf.md) have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any [high elf](../Browse/Ancestries/High Elf.md) is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a [high elf](../Browse/Ancestries/High Elf.md)'s tone and smell.
 
 **[Hakaan](../Browse/Ancestries/Hakaan.md):** Descended from stone giants, the mighty [hakaan](../Browse/Ancestries/Hakaan.md) stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
@@ -1301,7 +1301,7 @@ This chapter details twelve [ancestries](../Chapters/Ancestries.md) for the game
 
 **[Revenant](../Browse/Ancestries/Revenant.md):** No hero starts their life as a [revenant](../Browse/Ancestries/Revenant.md). Rather, these undead creatures return to the world of the living because they have dire business that must be finished. A character of any ancestry can become a [revenant](../Browse/Ancestries/Revenant.md).
 
-**[Time Raider](../Browse/Ancestries/Time%20Raider.md):** Travelers of the timescape, the [time raiders](../Browse/Ancestries/Time%20Raider.md) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
+**[Time Raider](../Browse/Ancestries/Time Raider.md):** Travelers of the timescape, the [time raiders](../Browse/Ancestries/Time Raider.md) (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
 <!-- -->
 > **Other Sections**
@@ -1336,11 +1336,11 @@ However, mortals are not gods and lack their ineffable wisdom. They are, in fact
 
 In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel [dwarves](../Browse/Ancestries/Dwarf.md) worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the [dwarves](../Browse/Ancestries/Dwarf.md) realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
-Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](../Browse/Ancestries/Dragon%20Knight.md) were betrayed by one of their own, seduced by the power offered by Ajax.
+Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the [dragon knights](../Browse/Ancestries/Dragon Knight.md) were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](../Browse/Ancestries/Time%20Raider.md) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the [time raiders](../Browse/Ancestries/Time Raider.md) who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called *quickening*, used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of *uplifting* found in science fiction. The mage or witch or shaman didn't create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angulotls walking around having conversations with each other,
 
@@ -1378,7 +1378,7 @@ Most cultures in Vasloria make a distinction between masculine and feminine name
 
 Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](../Browse/Classes/Talent.md), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](../Browse/Ancestries/High%20Elf.md) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among [talents](../Browse/Classes/Talent.md), for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. [High elves](../Browse/Ancestries/High Elf.md) sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
@@ -1416,7 +1416,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](../Browse/Ancestries/Human.md) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](../Chapters/Ancestries.md) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](../Browse/Ancestries/Wode%20Elf.md), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how [humans](../Browse/Ancestries/Human.md) mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other [ancestries](../Chapters/Ancestries.md) with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For [wode elves](../Browse/Ancestries/Wode Elf.md), this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -1426,7 +1426,7 @@ Elves in general have a casual attitude toward gender, it having no direct beari
 
 ##### High Elf Names
 
-[High elf](../Browse/Ancestries/High%20Elf.md) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
+[High elf](../Browse/Ancestries/High Elf.md) names are poetic. They are an attempt to capture a fleeting, often contradictory, impulse, or emotion. They sometimes contain references to the natural world. They are never meant to be taken literally and they are not an attempt to make a character feel heroic.
 
 **Examples:** The Anticipation of a Sigh Upon His Lips, A Crown of Starlight on Winter Snow, The Earth Cries the Skies Divide, Echoes of Autumn Heat, Edges of a Leaf Torn by the Wind, Every Flake of Snow a Memory, A Heart That Will Not Yield the Stars, The Last Star Fading With Morning, A Rain of Glass Over a Sea of Dreams, The Sun Reflected in a Lover's Tear
 
@@ -1482,7 +1482,7 @@ For reasons not well understood, [polders](../Browse/Ancestries/Polder.md) in Va
 
 ##### Time Raider Names
 
-Kuran'zoi names typically end with an epithet, given when the young [time raider](../Browse/Ancestries/Time%20Raider.md) comes of age, that reflects their uniquely rebellious nature.
+Kuran'zoi names typically end with an epithet, given when the young [time raider](../Browse/Ancestries/Time Raider.md) comes of age, that reflects their uniquely rebellious nature.
 
 **Feminine:** Ak'karatar, Ip'pritt, Ner'radmok, Orov'vika, Phe'kala, Quix'x, Thes'srika, Thos'sivik, Um'manri, Vir'rikin
 
@@ -1505,16 +1505,16 @@ How tall is a [polder](../Browse/Ancestries/Polder.md)? How long does a [dwarf](
 | Ancestry                                                                        | Height in Feet/<br>Inches | Weight in<br>Pounds | Life Expectancy in<br>Years |
 | ------------------------------------------------------------------------------- | ------------------------- | ------------------- | --------------------------- |
 | [Devil](../Browse/Ancestries/Devil.md)                   | 5'0''-6'0''               | 120-250             | 70-120                      |
-| [Dragon Knight](../Browse/Ancestries/Dragon%20Knight.md) | 6'0''-7'0''               | 200-350             | 50-90                       |
+| [Dragon Knight](../Browse/Ancestries/Dragon Knight.md) | 6'0''-7'0''               | 200-350             | 50-90                       |
 | [Dwarf](../Browse/Ancestries/Dwarf.md)                   | 4'0''-4'6''               | 500-1,000           | 700-1,500                   |
-| [Wode Elf](../Browse/Ancestries/Wode%20Elf.md)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
-| [High Elf](../Browse/Ancestries/High%20Elf.md)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
+| [Wode Elf](../Browse/Ancestries/Wode Elf.md)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
+| [High Elf](../Browse/Ancestries/High Elf.md)           | 5'6''-6'6''               | 100-150             | 1,200-3,000                 |
 | [Hakaan](../Browse/Ancestries/Hakaan.md)                 | 9'0''-10'0''              | 1,000-2,000         | 300-500                     |
 | [Human](../Browse/Ancestries/Human.md)                   | 5'0''-6'0''               | 100-300             | 70-120                      |
 | [Memonek](../Browse/Ancestries/Memonek.md)               | 5'0''-6'0''               | 50-100              | 70-120                      |
 | [Orc](../Browse/Ancestries/Orc.md)                       | 5'6''-6'6''               | 150-300             | 50-90                       |
 | [Polder](../Browse/Ancestries/Polder.md)                 | 3'3''-3'6''               | 20-50               | 50-90                       |
-| [Time Raider](../Browse/Ancestries/Time%20Raider.md)     | 5'0''-6'0''               | 120-250             | 50-90                       |
+| [Time Raider](../Browse/Ancestries/Time Raider.md)     | 5'0''-6'0''               | 120-250             | 50-90                       |
 
 ### Starting Size and Speed
 
@@ -1678,11 +1678,11 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../Browse/Ancestries/Dragon%20Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../Browse/Ancestries/Dragon Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of [dragon knights](../Browse/Ancestries/Dragon%20Knight.md). Within the Dragon Phalanx were [shadows](../Browse/Classes/Shadow.md), [censors](../Browse/Classes/Censor.md), [tacticians](../Browse/Classes/Tactician.md), and [elementalists](../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of [dragon knights](../Browse/Ancestries/Dragon Knight.md). Within the Dragon Phalanx were [shadows](../Browse/Classes/Shadow.md), [censors](../Browse/Classes/Censor.md), [tacticians](../Browse/Classes/Tactician.md), and [elementalists](../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -1694,7 +1694,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [human](../Browse/Ancestries/Human.md) bandits took a step back. One of the [dwarves](../Browse/Ancestries/Dwarf.md) just sneered—then, sensing his [human](../Browse/Ancestries/Human.md) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](../Browse/Ancestries/Dwarf.md) growled.
 
-Looking at the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md), another bandit added quickly, "We didn't know there was one of you here."
+Looking at the [dragon knight](../Browse/Ancestries/Dragon Knight.md), another bandit added quickly, "We didn't know there was one of you here."
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](../Browse/Ancestries/Dwarf.md). "Think of the *bounty*," the [dwarf](../Browse/Ancestries/Dwarf.md) hissed to the [humans](../Browse/Ancestries/Human.md), but he kept his eye on the draconian. "We'll all be *rich*."
 
@@ -1702,15 +1702,15 @@ The two [dwarves](../Browse/Ancestries/Dwarf.md) surveyed the tavern. The people
 
 "We'll be *back*," the lead [dwarf](../Browse/Ancestries/Dwarf.md) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../Browse/Ancestries/Dragon Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../Browse/Ancestries/Dragon Knight.md) walked past their table.
 
 The knight moved on, ignoring them. The man reached out and [grabbed](../Browse/Conditions/Grabbed.md) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
@@ -1718,7 +1718,7 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
 
 "John?"
 
@@ -1726,7 +1726,7 @@ The man turned to look up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
-The man held out his hand. The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
+The man held out his hand. The [dragon knight](../Browse/Ancestries/Dragon Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
 
 "These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn."
 
@@ -1738,7 +1738,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) spoke again, his voice low.
+The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../Browse/Ancestries/Dragon Knight.md) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -1748,23 +1748,23 @@ The inn had mostly gone back to its business but the three peasants watched inte
 
 "What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the [dragon knight](../Browse/Ancestries/Dragon Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
-"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
+"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../Browse/Ancestries/Dragon Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../Browse/Ancestries/Dragon Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
 ### Dragon Knight Traits
 
-[Dragon knight](../Browse/Ancestries/Dragon%20Knight.md) heroes have access to the following traits.
+[Dragon knight](../Browse/Ancestries/Dragon Knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -1976,9 +1976,9 @@ You have a magic connection to the earth. When you spend 1 uninterrupted hour si
 
 ## Wode Elf
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../Browse/Ancestries/Wode%20Elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../Browse/Ancestries/Human.md) for snatching children who wander too far into the woods. [Humans](../Browse/Ancestries/Human.md) *should* fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../Browse/Ancestries/Wode Elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../Browse/Ancestries/Human.md) for snatching children who wander too far into the woods. [Humans](../Browse/Ancestries/Human.md) *should* fear the trees.
 
-The [wode elves](../Browse/Ancestries/Wode%20Elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../Browse/Ancestries/Wode%20Elf.md) who dwell in cities naturally adept at urban warfare.
+The [wode elves](../Browse/Ancestries/Wode Elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../Browse/Ancestries/Wode Elf.md) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -1994,11 +1994,11 @@ The [wode elves](../Browse/Ancestries/Wode%20Elf.md)' natural ability to mask th
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](../Browse/Ancestries/Wode%20Elf.md), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](../Browse/Ancestries/Wode Elf.md), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
 The elves were tall, taller than an adult [human](../Browse/Ancestries/Human.md), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](../Browse/Ancestries/Wode%20Elf.md) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](../Browse/Ancestries/Wode Elf.md) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -2022,9 +2022,9 @@ The elf smiled at the children. "But have no fear," they said. Their Vaslorian w
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
-Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](../Browse/Ancestries/Wode%20Elf.md)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
+Rhythylthin rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They gestured at the other [wode elf](../Browse/Ancestries/Wode Elf.md)'s garb and masculine appearance. "Me? I'm old fashioned." They gestured to their own outfit and appearance. "*Grace* never goes out of style."
 
-Llyander turned to Rhythylthin and the rest of the [wode elf](../Browse/Ancestries/Wode%20Elf.md) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
+Llyander turned to Rhythylthin and the rest of the [wode elf](../Browse/Ancestries/Wode Elf.md) band. "Their gift goes to Lord Tear, methinks. I will escort them." Then, suddenly imperious, they added, "You may go."
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
@@ -2060,7 +2060,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-[Wode elf](../Browse/Ancestries/Wode%20Elf.md) heroes have access to the following traits.
+[Wode elf](../Browse/Ancestries/Wode Elf.md) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 
@@ -2110,9 +2110,9 @@ You have the following signature ability. Signature abilities can be used at wil
 
 ## High Elf
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../Browse/Ancestries/High%20Elf.md) history describes a better age, before the coming of [humans](../Browse/Ancestries/Human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../Browse/Ancestries/High Elf.md) history describes a better age, before the coming of [humans](../Browse/Ancestries/Human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the [high elves](../Browse/Ancestries/High%20Elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the [high elves](../Browse/Ancestries/High Elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -2120,7 +2120,7 @@ In the millennia since their creators retired to Arcadia, the [high elves](../Br
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../Browse/Ancestries/Wode%20Elf.md) escort Llyander at their side. Lord Tear, King of the [High Elves](../Browse/Ancestries/High%20Elf.md), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
+The five children stood alone in the center of a large circular courtyard open to the sky, their [wode elf](../Browse/Ancestries/Wode Elf.md) escort Llyander at their side. Lord Tear, King of the [High Elves](../Browse/Ancestries/High Elf.md), sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
 "They seem like..." Meliora said, searching for the words.
 
@@ -2160,7 +2160,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../Browse/Ancestries/Wode%20Elf.md) spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../Browse/Ancestries/Wode Elf.md) spoke, their back was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -2182,7 +2182,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-[High elf](../Browse/Ancestries/High%20Elf.md) heroes have access to the following traits.
+[High elf](../Browse/Ancestries/High Elf.md) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 
@@ -2198,7 +2198,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat (1 Point)
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### High Senses (1 Point)
 
@@ -2234,7 +2234,7 @@ But the only [hakaan](../Browse/Ancestries/Hakaan.md) the average [human](../Bro
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the [high elf](../Browse/Ancestries/High%20Elf.md) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](../Browse/Ancestries/High Elf.md) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
@@ -2362,7 +2362,7 @@ So, we arrive here at the end of your first semester of [Human](../Browse/Ancest
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../Browse/Ancestries/Human.md)?
 
-I am a [high elf](../Browse/Ancestries/High%20Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](../Browse/Ancestries/High Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](../Browse/Ancestries/Human.md)? Well, I will tell you.
 
@@ -2688,7 +2688,7 @@ Khorva shook her head. "[Orcs](../Browse/Ancestries/Orc.md) have no great love f
 
 #### Signature Trait: Relentless
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 #### Purchased Orc Traits
 
@@ -2700,7 +2700,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery (2 Points)
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver, you can spend as many Recoveries as you like.
 
 ##### Grounded (1 Point)
 
@@ -2730,7 +2730,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Eh?" the [polder](../Browse/Ancestries/Polder.md) asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the [polder](../Browse/Ancestries/Polder.md) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../Browse/Ancestries/High%20Elf.md) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../Browse/Ancestries/Polder.md) before," he said.
+"Oh," the [polder](../Browse/Ancestries/Polder.md) said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the [high elf](../Browse/Ancestries/High Elf.md) and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a [polder](../Browse/Ancestries/Polder.md) before," he said.
 
 "Are you kidding me?" Jackson said.
 
@@ -2740,7 +2740,7 @@ The three peasants—Jago, his wife Sarah, and his sister Beth—sat together wa
 
 "Really? That's weird. I'm from Tor, I've been all over—just never met a [polder](../Browse/Ancestries/Polder.md) before."
 
-Jackson looked at his friend, the [high elf](../Browse/Ancestries/High%20Elf.md) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
+Jackson looked at his friend, the [high elf](../Browse/Ancestries/High Elf.md) void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the [polder](../Browse/Ancestries/Polder.md) said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
@@ -2776,7 +2776,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/Ancestries/High%20Elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/Ancestries/High Elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -2788,7 +2788,7 @@ The [polder](../Browse/Ancestries/Polder.md) looked at the [high elf](../Browse/
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the [high elf](../Browse/Ancestries/High%20Elf.md) void mage, then back at the [human](../Browse/Ancestries/Human.md). "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the [high elf](../Browse/Ancestries/High Elf.md) void mage, then back at the [human](../Browse/Ancestries/Human.md). "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -2826,7 +2826,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) stared at them for a moment, then turned back to his friend.
+The [dragon knight](../Browse/Ancestries/Dragon Knight.md) stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," he said.
 
@@ -2868,7 +2868,7 @@ Courage is all you know. You can't be made [frightened](../Browse/Conditions/Fri
 
 ##### Graceful Retreat (1 Point)
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### Nimblestep (2 Points)
 
@@ -3008,9 +3008,9 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, [time raiders](../Browse/Ancestries/Time%20Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, [time raiders](../Browse/Ancestries/Time Raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../Browse/Ancestries/Time%20Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../Browse/Ancestries/Time Raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ### On Time Raiders
 
@@ -3050,7 +3050,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../Browse/Ancestries/High%20Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). Of all the motley band, it was the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and seven heroes stood among them. A [human](../Browse/Ancestries/Human.md) in working battle plate. A [dwarf](../Browse/Ancestries/Dwarf.md) with his battle-staff tipped with an hourglass. An [orc](../Browse/Ancestries/Orc.md) with a huge battleaxe casually resting on her shoulder. A [polder](../Browse/Ancestries/Polder.md) with twin rapiers in his hands. A tall willowy [high elf](../Browse/Ancestries/High Elf.md) with night-black skin and golden hair. An unarmed [hakaan](../Browse/Ancestries/Hakaan.md) towering over everyone. And a [dragon knight](../Browse/Ancestries/Dragon Knight.md). Of all the motley band, it was the [dragon knight](../Browse/Ancestries/Dragon Knight.md) who caused the people of the town to gasp. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them against the certain fear of their commander.
 
@@ -3068,7 +3068,7 @@ Not the war dogs—they were fanatics.
 
 "Allies of all those who suffer, and seek justice," the [dwarf](../Browse/Ancestries/Dwarf.md) announced. Sir John ignored the war dog, tilted his head toward the alien. "Embers?"
 
-"A kuran'zoi," the [high elf](../Browse/Ancestries/High%20Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
+"A kuran'zoi," the [high elf](../Browse/Ancestries/High Elf.md) said, and the alien held her head up with pride. "A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers explicitly.
 
@@ -3080,13 +3080,13 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](../Browse/Classes/Tactician.md). He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../Browse/Ancestries/Polder.md), [dwarf](../Browse/Ancestries/Dwarf.md), and [dragon knight](../Browse/Ancestries/Dragon%20Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, [polder](../Browse/Ancestries/Polder.md), [dwarf](../Browse/Ancestries/Dwarf.md), and [dragon knight](../Browse/Ancestries/Dragon Knight.md). "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The [time raider](../Browse/Ancestries/Time%20Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The [time raider](../Browse/Ancestries/Time Raider.md)'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The [time raider](../Browse/Ancestries/Time%20Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [time raider](../Browse/Ancestries/Time Raider.md)'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](../Browse/Ancestries/Polder.md) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
@@ -3120,7 +3120,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, or [Swim](../Browse/Movement/Climb%20or%20Swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, or [Swim](../Browse/Movement/Climb or Swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 
@@ -3188,7 +3188,7 @@ For our purposes, a hero's culture represents people, not a place. Yes, you migh
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../Browse/Ancestries/Human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../Browse/Ancestries/Wode%20Elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../Browse/Ancestries/Dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../Browse/Ancestries/Dwarf.md) raised in the [dwarf](../Browse/Ancestries/Dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../Browse/Ancestries/Human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../Browse/Ancestries/Wode Elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../Browse/Ancestries/Dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../Browse/Ancestries/Dwarf.md) raised in the [dwarf](../Browse/Ancestries/Dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../Browse/Ancestries/Revenant.md) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
@@ -3197,16 +3197,16 @@ You can build your culture one aspect at a time, or you can use the following ta
 | Ancestry                                                                        | Language    | Environment | Organization | Upbringing |
 | ------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ---------- |
 | [Devil](../Browse/Ancestries/Devil.md)                   | Anjali      | Urban       | Bureaucratic | Academic   |
-| [Dragon knight](../Browse/Ancestries/Dragon%20Knight.md) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dragon knight](../Browse/Ancestries/Dragon Knight.md) | Vastariax   | Secluded    | Bureaucratic | Martial    |
 | [Dwarf](../Browse/Ancestries/Dwarf.md)                   | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| [Wode elf](../Browse/Ancestries/Wode%20Elf.md)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| [High elf](../Browse/Ancestries/High%20Elf.md)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Wode elf](../Browse/Ancestries/Wode Elf.md)           | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| [High elf](../Browse/Ancestries/High Elf.md)           | Hyrallic    | Secluded    | Bureaucratic | Martial    |
 | [Hakaan](../Browse/Ancestries/Hakaan.md)                 | Vhoric      | Rural       | Communal     | Labor      |
 | [Human](../Browse/Ancestries/Human.md)                   | Vaslorian   | Urban       | Communal     | Labor      |
 | [Memonek](../Browse/Ancestries/Memonek.md)               | Axiomatic   | Nomadic     | Communal     | Academic   |
 | [Orc](../Browse/Ancestries/Orc.md)                       | Kalliak     | Wilderness  | Communal     | Creative   |
 | [Polder](../Browse/Ancestries/Polder.md)                 | Khoursirian | Urban       | Communal     | Creative   |
-| [Time raider](../Browse/Ancestries/Time%20Raider.md)     | Voll        | Nomadic     | Communal     | Martial    |
+| [Time raider](../Browse/Ancestries/Time Raider.md)     | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 
@@ -3370,7 +3370,7 @@ The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](../Browse/Ancestries/Human.md) in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../Browse/Ancestries/Dwarf.md), [dragon knights](../Browse/Ancestries/Dragon%20Knight.md), elves, [hakaan](../Browse/Ancestries/Hakaan.md), [orcs](../Browse/Ancestries/Orc.md), [polders](../Browse/Ancestries/Polder.md), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../Browse/Ancestries/Dwarf.md), [dragon knights](../Browse/Ancestries/Dragon Knight.md), elves, [hakaan](../Browse/Ancestries/Hakaan.md), [orcs](../Browse/Ancestries/Orc.md), [polders](../Browse/Ancestries/Polder.md), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
 
 ##### Extant Languages
 
@@ -3405,7 +3405,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Caelian               | Orden denizens                                                                                                                  | Common language of Orden                                                       |
 | Filliaric             | Angulotls                                                                                                                       |                                                                                |
 | The First<br>Language | Elder dragons                                                                                                                   | Language of magic                                                              |
-| Hyrallic              | [High elves](../Browse/Ancestries/High%20Elf.md)                                                         | Language of interspecies diplomacy                                             |
+| Hyrallic              | [High elves](../Browse/Ancestries/High Elf.md)                                                         | Language of interspecies diplomacy                                             |
 | Illyvric              | [Shadow](../Browse/Classes/Shadow.md) elves                                                              |                                                                                |
 | Kalliak               | [Orcs](../Browse/Ancestries/Orc.md)                                                                      | Offshoot of Zaliac                                                             |
 | Kethaic               | Kobolds                                                                                                                         | Patois of Vastariax and Caelian                                                |
@@ -3421,16 +3421,16 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Variac                | Olothec, trolls,<br>voiceless talkers                                                                                           | Common language of the World Below                                             |
 | Vastariax             | Dragons, dragon<br>knights                                                                                                      |                                                                                |
 | Vhoric                | [Hakaan](../Browse/Ancestries/Hakaan.md)                                                                 | Offshoot of the stone giant dialect of High<br>Kuric                           |
-| Voll                  | [Time raiders](../Browse/Ancestries/Time%20Raider.md)                                                    |                                                                                |
-| Yllyric               | [Wode elves](../Browse/Ancestries/Wode%20Elf.md)                                                         | Language of druids                                                             |
+| Voll                  | [Time raiders](../Browse/Ancestries/Time Raider.md)                                                    |                                                                                |
+| Yllyric               | [Wode elves](../Browse/Ancestries/Wode Elf.md)                                                         | Language of druids                                                             |
 | Za'hariax             | Overminds                                                                                                                       |                                                                                |
 | Zaliac                | [Dwarves](../Browse/Ancestries/Dwarf.md)                                                                 | Language of engineering                                                        |
 
 ##### Language Usage
 
-**Hyrallic** is the primary language of the [high elves](../Browse/Ancestries/High%20Elf.md) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../Browse/Ancestries/Dwarf.md). As a result, while anyone who lives near or trades with a [human](../Browse/Ancestries/Human.md) culture probably speaks at least a little Caelian, most nobles across all [ancestries](../Chapters/Ancestries.md) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the [high elves](../Browse/Ancestries/High Elf.md) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../Browse/Ancestries/Dwarf.md). As a result, while anyone who lives near or trades with a [human](../Browse/Ancestries/Human.md) culture probably speaks at least a little Caelian, most nobles across all [ancestries](../Chapters/Ancestries.md) make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of [wode elves](../Browse/Ancestries/Wode%20Elf.md), and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of [wode elves](../Browse/Ancestries/Wode Elf.md), and also the common language among those who defend and protect the natural forests of Orden.
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](../Browse/Ancestries/Dwarf.md) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](../Browse/Ancestries/Dwarf.md) language when describing esoteric, complex ideas.
 
@@ -3535,7 +3535,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](../Browse/Perks/Intrigue%20Perks/Forgettable%20Face.md).)
+**Perk:** One intrigue perk (*Quick Build:* [Forgettable Face](../Browse/Perks/Intrigue Perks/Forgettable Face.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3593,7 +3593,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../Browse/Perks/Crafting%20Perks/Area%20of%20Expertise.md).)
+**Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../Browse/Perks/Crafting Perks/Area of Expertise.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3619,7 +3619,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../Browse/Perks/Interpersonal%20Perks/Spot%20the%20Tell.md).)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](../Browse/Perks/Interpersonal Perks/Spot the Tell.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3647,7 +3647,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../Browse/Perks/Intrigue%20Perks/Criminal%20Contacts.md).)
+**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../Browse/Perks/Intrigue Perks/Criminal Contacts.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3673,7 +3673,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../Browse/Perks/Supernatural%20Perks/Ritualist.md).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../Browse/Perks/Supernatural Perks/Ritualist.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3700,7 +3700,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Wood Wise](../Browse/Perks/Exploration%20Perks/Wood%20Wise.md).)
+**Perk:** One exploration perk (*Quick Build:* [Wood Wise](../Browse/Perks/Exploration Perks/Wood Wise.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3728,7 +3728,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../Browse/Perks/Exploration%20Perks/Monster%20Whisperer.md).)
+**Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../Browse/Perks/Exploration Perks/Monster Whisperer.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3756,7 +3756,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../Browse/Perks/Exploration%20Perks/Friend%20Catapult.md).)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../Browse/Perks/Exploration Perks/Friend Catapult.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3784,7 +3784,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Brawny](../Browse/Perks/Exploration%20Perks/Brawny.md).)
+**Perk:** One exploration perk (*Quick Build:* [Brawny](../Browse/Perks/Exploration Perks/Brawny.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3812,12 +3812,12 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../Browse/Perks/Supernatural%20Perks/Arcane%20Trick.md).)
+**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../Browse/Perks/Supernatural Perks/Arcane Trick.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Forgotten Memories:** While practicing a spell, your inexperience caused the magic to backfire and your memories were wiped, leaving you with only fragments of who you once were. Determined to recall your past, you now dedicate yourself to helping others, hoping your actions will spark some remembrance or lead you to a way to reverse the magic.                                                                                                                     |
-| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) as a magic pet. Another jealous apprentice captured the [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss. |
+| 2   | **Magic of Friendship:** As a sign of your status as a star pupil, your mentor gifted you a [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) as a magic pet. Another jealous apprentice captured the [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) and slipped away in the night. Haunted by your pet's absence, you adventure to find your kidnapped friend and prevent others from feeling your loss. |
 | 3   | **Missing Mage:** One day you woke up and the mage you worked for was gone. They didn't take any of their belongings and there was no sign of any foul play-only the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                                                                                         |
 | 4   | **Nightmares Made Flesh:** Your attempts at magic have always been unpredictable. A powerful mage promised to help you gain control. During your training, a terrible nightmare caused your body to flare with magic and pull the monster of your nightmare into the waking world. The horror escaped. You left, seeking to vanquish their vileness.                                                                                                                             |
 | 5   | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is!                                                                                                                                                                                                                   |
@@ -3838,7 +3838,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](../Browse/Perks/Interpersonal%20Perks/Harmonizer.md).)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](../Browse/Perks/Interpersonal Perks/Harmonizer.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3868,7 +3868,7 @@ You gain the following career benefits:
 
 **Wealth:** +1
 
-**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../Browse/Perks/Interpersonal%20Perks/Engrossing%20Monologue.md).)
+**Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../Browse/Perks/Interpersonal Perks/Engrossing Monologue.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3918,11 +3918,11 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** [Swim](../Browse/Movement/Climb%20or%20Swim.md) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, [Swim](../Browse/Movement/Climb%20or%20Swim.md).)
+**Skills:** [Swim](../Browse/Movement/Climb or Swim.md) (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, [Swim](../Browse/Movement/Climb or Swim.md).)
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](../Browse/Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20It.md)!)
+**Perk:** One exploration perk (*Quick Build:* [Put Your Back Into It](../Browse/Perks/Exploration Perks/Put Your Back Into It.md)!)
 
 | d6                                                                                                                                                                                                                                                                                                                                                                                                               | Inciting Incident |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -3950,7 +3950,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* [Teamwork](../Browse/Perks/Exploration%20Perks/Teamwork.md).)
+**Perk:** One exploration perk (*Quick Build:* [Teamwork](../Browse/Perks/Exploration Perks/Teamwork.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3978,7 +3978,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../Browse/Perks/Exploration%20Perks/Camouflage%20Hunter.md).)
+**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../Browse/Perks/Exploration Perks/Camouflage Hunter.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4005,7 +4005,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Team Leader](../Browse/Perks/Exploration%20Perks/Team%20Leader.md).)
+**Perk:** One exploration perk (*Quick Build:* [Team Leader](../Browse/Perks/Exploration Perks/Team Leader.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -4028,7 +4028,7 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Elementalist](../Browse/Classes/Elementalist.md):** An [elementalist](../Browse/Classes/Elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
-**[Fury](../Browse/Classes/Fury.md):** Coursing with the [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) of the Primordial Chaos in their veins, a [fury](../Browse/Classes/Fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../Browse/Classes/Fury.md) lives.
+**[Fury](../Browse/Classes/Fury.md):** Coursing with the [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) of the Primordial Chaos in their veins, a [fury](../Browse/Classes/Fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../Browse/Classes/Fury.md) lives.
 
 **[Null](../Browse/Classes/Null.md):** Disciplined and calm, the [null](../Browse/Classes/Null.md) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
@@ -4046,7 +4046,7 @@ Each class also has a number of subclasses presented in this book. Your subclass
 
 ### Abilities
 
-Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) and maneuvers such as [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
+Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) and maneuvers such as [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) (see Maneuvers in [Chapter 10: Combat](#page-288-0)). But your class, ancestry (see [Chapter 3](#page-35-1)), kit ([Chapter 6](#page-231-1)), titles and treasures ([Chapter 13: Rewards](#page-327-1)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
@@ -4059,7 +4059,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](../Browse/Classes/Fury.md)'s [Impaled](../Browse/Abilities/Fury/1st-Level%20Features/Impaled.md) ability allows you to [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury](../Browse/Classes/Fury.md)'s [Impaled](../Browse/Abilities/Fury/1st-Level Features/Impaled.md) ability allows you to [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
@@ -4081,7 +4081,7 @@ The nine Heroic Resources in the game are:
 
 If an ability has a Heroic Resource cost to activate—as in, you can't use the ability at all without spending some of your Heroic Resource—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
-Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit](../Browse/Classes/Conduit.md)'s [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
+Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit](../Browse/Classes/Conduit.md)'s [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
 ##### Signature Abilities
 
@@ -4097,7 +4097,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities de
 
 ##### Charge
 
-Abilities with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword can be used with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action instead of a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). (The [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
+Abilities with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword can be used with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action instead of a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). (The [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action is described in Main [Actions](#page-288-0) in [Chapter 10: Combat](#page-288-0).)
 
 ##### Magic
 
@@ -4136,7 +4136,7 @@ Each ability notes the type of activity required to use it, on the right side of
 
 ##### Trigger
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician](../Browse/Classes/Tactician.md)'s [Parry](../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md) ability is: "A creature deals damage to the target." A [tactician](../Browse/Classes/Tactician.md) can use their [Parry](../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md) ability only when that specific triggering event occurs.
+If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician](../Browse/Classes/Tactician.md)'s [Parry](../Browse/Abilities/Tactician/1st-Level Features/Parry.md) ability is: "A creature deals damage to the target." A [tactician](../Browse/Classes/Tactician.md) can use their [Parry](../Browse/Abilities/Tactician/1st-Level Features/Parry.md) ability only when that specific triggering event occurs.
 
 #### Distance
 
@@ -4156,7 +4156,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../Browse/Kits/Cloak%20and%20Dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../Browse/Kits/Cloak and Dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See [Chapter 6: Kits](#page-231-0).)
 
 ##### Self
 
@@ -4199,7 +4199,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
 >
-> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
+> Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
 #### Target
 
@@ -4213,7 +4213,7 @@ If an ability targets one or more creatures, it can affect creatures within the 
 
 If an ability targets one or more objects, it can affect any object within the ability's distance or area. Unless otherwise noted, objects have poison immunity all and psychic immunity all. [(Damage](#page-291-1) in [Chapter 10: Combat](#page-288-0) has information on damage immunity.)
 
-When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent](../Browse/Classes/Talent.md)'s [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
+When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent](../Browse/Classes/Talent.md)'s [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
 
 ##### Enemy
 
@@ -4242,7 +4242,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 
 If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you use the ability. ([Chapter 1: The Basics](#page-17-3) talks about power rolls.)
 
-Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury](../Browse/Classes/Fury.md)'s [Brutal Slam](../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam.md) ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
+Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury](../Browse/Classes/Fury.md)'s [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md) ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
 - **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
@@ -4252,7 +4252,7 @@ Unlike power rolls made as tests (see Chapter 9), ability rolls always do someth
 
 Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score—either Might, Agility, Reason, Intuition, or Presence—to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
-Using the [fury](../Browse/Classes/Fury.md)'s [Brutal Slam](../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam.md) ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
+Using the [fury](../Browse/Classes/Fury.md)'s [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md) ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
@@ -4266,7 +4266,7 @@ For a [fury](../Browse/Classes/Fury.md) with a Might of 2, the ability's damage 
 
 The damage for these abilities increases at each echelon of play, since your characteristics improve each time you reach a new echelon.
 
-Some abilities, including your [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), allow you to pick which characteristic score you add to their damage. Such abilities use a format similar to "7 + M or A damage," indicating that you can add your Might or your Agility to determine the damage.
+Some abilities, including your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md), allow you to pick which characteristic score you add to their damage. Such abilities use a format similar to "7 + M or A damage," indicating that you can add your Might or your Agility to determine the damage.
 
 ([Chapter 10: Combat](#page-288-0) has more information on damage.)
 
@@ -4274,7 +4274,7 @@ Some abilities, including your [free strikes](../Browse/Abilities/Common/Main%20
 
 Strikes and area abilities can deal damage and have an additional effect on a target. The damage and the strength of the effect are determined by the ability roll.
 
-To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](../Browse/Abilities/Fury/1st-Level%20Features/Brutal%20Slam.md) ability mentioned above has the following power roll setup in the ability format:
+To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](../Browse/Abilities/Fury/1st-Level Features/Brutal Slam.md) ability mentioned above has the following power roll setup in the ability format:
 
 **Power Roll + Might:**
 
@@ -4342,13 +4342,13 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](../Browse/Classes/Censor.md)'s [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability and the [null](../Browse/Classes/Null.md)'s Null Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor](../Browse/Classes/Censor.md)'s [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability and the [null](../Browse/Classes/Null.md)'s Null Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the [tactician](../Browse/Classes/Tactician.md)'s [Overwatch](../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch.md) ability allows the [tactician](../Browse/Classes/Tactician.md) to spend 1 focus to impose the [slowed](../Browse/Conditions/Slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../Browse/Classes/Tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../Browse/Classes/Tactician.md) doesn't waste any [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md). However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
+For example, the [tactician](../Browse/Classes/Tactician.md)'s [Overwatch](../Browse/Abilities/Tactician/1st-Level Features/Overwatch.md) ability allows the [tactician](../Browse/Classes/Tactician.md) to spend 1 focus to impose the [slowed](../Browse/Conditions/Slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../Browse/Classes/Tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../Browse/Classes/Tactician.md) doesn't waste any [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md). However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
@@ -4356,7 +4356,7 @@ This rule also applies to Director-controlled creatures who spend Malice on abil
 
 Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](../Browse/Conditions/Dazed.md) (see [Conditions](#page-91-2) below).
 
-You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) ability can be critical hits.
+You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) ability can be critical hits.
 
 #### Roll Against Multiple Creatures
 
@@ -4366,7 +4366,7 @@ For example, if you target three creatures with a strike ability and the power r
 
 #### Surges
 
-A [troubadour](../Browse/Classes/Troubadour.md)'s battle song, a [fury](../Browse/Classes/Fury.md)'s building [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), and a [shadow](../Browse/Classes/Shadow.md)'s patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
+A [troubadour](../Browse/Classes/Troubadour.md)'s battle song, a [fury](../Browse/Classes/Fury.md)'s building [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), and a [shadow](../Browse/Classes/Shadow.md)'s patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
 
 When you gain surges, you keep track of them on your character sheet. Surges can be used in combat to deal extra damage to your foes and increase the value of your potencies, as follows:
 
@@ -4449,7 +4449,7 @@ Some abilities and other effects apply specific negative effects called conditio
 
 While a creature is [bleeding](../Browse/Conditions/Bleeding.md), whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) ability triggers the damage from the [bleeding](../Browse/Conditions/Bleeding.md) condition.
+You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) ability triggers the damage from the [bleeding](../Browse/Conditions/Bleeding.md) condition.
 
 ##### Dazed
 
@@ -4465,7 +4465,7 @@ A creature who is [grabbed](../Browse/Conditions/Grabbed.md) has speed 0, can't 
 
 A creature who has another creature [grabbed](../Browse/Conditions/Grabbed.md) can use a maneuver to move the [grabbed](../Browse/Conditions/Grabbed.md) creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have [grabbed](../Browse/Conditions/Grabbed.md) at any time to end that condition (no action required). A [grabbed](../Browse/Conditions/Grabbed.md) creature can attempt to escape being [grabbed](../Browse/Conditions/Grabbed.md) using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](../Browse/Conditions/Grabbed.md) creature [teleports](../Browse/Movement/Teleport.md), or if either the [grabbed](../Browse/Conditions/Grabbed.md) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../Browse/Conditions/Grabbed.md).
+A creature can release a creature they have [grabbed](../Browse/Conditions/Grabbed.md) at any time to end that condition (no action required). A [grabbed](../Browse/Conditions/Grabbed.md) creature can attempt to escape being [grabbed](../Browse/Conditions/Grabbed.md) using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver (see [Chapter 10: Combat](#page-288-0)). If a [grabbed](../Browse/Conditions/Grabbed.md) creature [teleports](../Browse/Movement/Teleport.md), or if either the [grabbed](../Browse/Conditions/Grabbed.md) creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../Browse/Conditions/Grabbed.md).
 
 A creature can [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) any creature larger than them with a size equal to or less than their Might score.
 
@@ -4473,7 +4473,7 @@ Unless otherwise indicated, a creature can [grab](../Browse/Abilities/Common/Man
 
 ##### Prone
 
-While a creature is [prone](../Browse/Conditions/Prone.md), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](../Browse/Conditions/Prone.md) creature must [crawl](../Browse/Movement/Crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](../Browse/Movement/Climb%20or%20Swim.md), [jump](../Browse/Movement/Jump.md), [swim](../Browse/Movement/Climb%20or%20Swim.md), or [fly](../Browse/Movement/Fly.md) while [prone](../Browse/Conditions/Prone.md). If they are [climbing](../Browse/Movement/Climb%20or%20Swim.md), [flying](../Browse/Movement/Fly.md), or [jumping](../Browse/Movement/Jump.md) when knocked [prone](../Browse/Conditions/Prone.md), they fall.
+While a creature is [prone](../Browse/Conditions/Prone.md), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](../Browse/Conditions/Prone.md) creature must [crawl](../Browse/Movement/Crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't [climb](../Browse/Movement/Climb or Swim.md), [jump](../Browse/Movement/Jump.md), [swim](../Browse/Movement/Climb or Swim.md), or [fly](../Browse/Movement/Fly.md) while [prone](../Browse/Conditions/Prone.md). If they are [climbing](../Browse/Movement/Climb or Swim.md), [flying](../Browse/Movement/Fly.md), or [jumping](../Browse/Movement/Jump.md) when knocked [prone](../Browse/Conditions/Prone.md), they fall.
 
 Unless the ability or effect that imposed the [prone](../Browse/Conditions/Prone.md) condition says otherwise, a [prone](../Browse/Conditions/Prone.md) creature can stand up using the Stand Up maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)). A creature adjacent to a willing [prone](../Browse/Conditions/Prone.md) creature can likewise use the Stand Up maneuver to make that creature stand up.
 
@@ -4499,7 +4499,7 @@ A creature who is [weakened](../Browse/Conditions/Weakened.md) takes a bane on p
 
 Each class in this chapter includes a table that shows the progression as a hero gains new levels in that class. Each of those tables has an Abilities column and another column that shows abilities granted by the hero's subclass, tracking all the heroic abilities a hero of that class has at each level. Each ability is represented by a numeral noting the ability's Heroic Resource cost.
 
-For example a 6th-level [censor](../Browse/Classes/Censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor](../Browse/Classes/Censor.md)'s subclass). This means a [censor](../Browse/Classes/Censor.md) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+For example a 6th-level [censor](../Browse/Classes/Censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor](../Browse/Classes/Censor.md)'s subclass). This means a [censor](../Browse/Classes/Censor.md) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 <!-- -->
 > **Quick Build Gold Icons**
@@ -4508,9 +4508,9 @@ For example a 6th-level [censor](../Browse/Classes/Censor.md) has "Signature, 3,
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) and sent out into the world first to seek, then [censor](../Browse/Classes/Censor.md) those whose actions—or even existence—are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) and sent out into the world first to seek, then [censor](../Browse/Classes/Censor.md) those whose actions—or even existence—are anathema to your church.
 
-As a [censor](../Browse/Classes/Censor.md), you're at your best against the strongest foes. Your [judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
+As a [censor](../Browse/Classes/Censor.md), you're at your best against the strongest foes. Your [judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
 <!-- -->
 > "We FIGHT!
@@ -4547,16 +4547,16 @@ As a [censor](../Browse/Classes/Censor.md), you're at your best against the stro
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Abilities                 | Order<br>Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
-| 1st   | [Censor Order](../Browse/Features/Censor/1st-Level%20Features/Censor%20Order.md), [Deity and Domains](../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains.md), [Wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md), [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md), [Kit](../Browse/Features/Censor/1st-Level%20Features/Kit.md), [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md), Domain Feature, Censor Abilities | Signature, 3, 5           | -                  |
+| 1st   | [Censor Order](../Browse/Features/Censor/1st-Level Features/Censor Order.md), [Deity and Domains](../Browse/Features/Conduit/1st-Level Features/Deity and Domains.md), [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md), [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md), [Kit](../Browse/Features/Censor/1st-Level Features/Kit.md), [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md), Domain Feature, Censor Abilities | Signature, 3, 5           | -                  |
 | 2nd   | Perk, Order Features, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5           | 5                  |
-| 3rd   | [Look On My Work and Despair](../Browse/Features/Censor/3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair.md), 7-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../Browse/Features/Censor/4th-Level%20Features/Wrath%20Beyond%20Wrath.md), Domain Feature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                  |
+| 3rd   | [Look On My Work and Despair](../Browse/Features/Censor/3rd-Level Features/Look On My Work and Despair.md), 7-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Perk, Skill, [Wrath Beyond Wrath](../Browse/Features/Censor/4th-Level Features/Wrath Beyond Wrath.md), Domain Feature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Signature, 3, 5, 7        | 5                  |
 | 5th   | Order Feature, 9-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5                  |
-| 6th   | [Implement of Wrath](../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath.md), Perk, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../Browse/Features/Censor/7th-Level%20Features/Focused%20Wrath.md), Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9     | 5, 9               |
+| 6th   | [Implement of Wrath](../Browse/Features/Censor/6th-Level Features/Implement of Wrath.md), Perk, Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Domain Feature, [Focused Wrath](../Browse/Features/Censor/7th-Level Features/Focused Wrath.md), Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7, 9     | 5, 9               |
 | 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | [Improved Implement of Wrath](../Browse/Features/Censor/9th-Level%20Features/Improved%20Implement%20of%20Wrath.md), Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | [Characteristic Increase](../Browse/Features/Censor/10th-Level%20Features/Characteristic%20Increase.md), Perk, Skill, [Templar](../Browse/Features/Censor/10th-Level%20Features/Templar.md), [Virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md), [Wrath of the Gods](../Browse/Features/Censor/10th-Level%20Features/Wrath%20of%20the%20Gods.md)                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 9th   | [Improved Implement of Wrath](../Browse/Features/Censor/9th-Level Features/Improved Implement of Wrath.md), Order Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | [Characteristic Increase](../Browse/Features/Censor/10th-Level Features/Characteristic Increase.md), Perk, Skill, [Templar](../Browse/Features/Censor/10th-Level Features/Templar.md), [Virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md), [Wrath of the Gods](../Browse/Features/Censor/10th-Level Features/Wrath of the Gods.md)                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -4580,25 +4580,25 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md), fueling your abilities as you [censor](../Browse/Classes/Censor.md) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md), fueling your abilities as you [censor](../Browse/Classes/Censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../Browse/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](../Browse/Features/Censor/1st-Level Features/Wrath/Wrath Outside of Combat.md), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../Browse/Classes/Censor.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../Browse/Classes/Censor.md), but they might appear in future products.)
 
 #### Judgment
 
-You pick out the enemies most worthy of your [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
 <!-- -->
 > ######## Judgment
@@ -4617,7 +4617,7 @@ You pick out the enemies most worthy of your [wrath](../Browse/Features/Censor/1
 >
 > Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 >
-> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 > - If you damage a creature judged by you with a melee ability, the creature is [taunted](../Browse/Conditions/Taunted.md) by you until the end of their next turn.
@@ -4626,7 +4626,7 @@ You pick out the enemies most worthy of your [wrath](../Browse/Features/Censor/1
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../Browse/Movement/Teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
@@ -4634,7 +4634,7 @@ The first time on a turn that you use your [Judgment](../Browse/Features/Censor/
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../Browse/Kits/Warrior%20Priest.md).)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../Browse/Kits/Warrior Priest.md).)
 
 #### My Life for Yours
 
@@ -4663,18 +4663,18 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 | Domain     | Feature                                                                                                                                                                    | Skill Group   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md)                                                  | Crafting      |
-| Death      | [Grave Speech](../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech.md)                                                                  | Lore          |
-| Fate       | [Oracular Visions](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions.md)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension.md)           | Lore          |
-| Life       | [Revitalizing Ritual](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual.md)                         | Exploration   |
-| Love       | [Blessing of Compassion](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion.md)                 | Interpersonal |
-| Nature     | [Faithful Friend](../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend.md)                                                            | Exploration   |
-| Protection | [Protective Circle](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) | Exploration   |
-| Sun        | [Inner Light](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light.md)                                         | Lore          |
-| Trickery   | [Inspired Deception](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception.md)                           | Intrigue      |
-| War        | [Sanctified Weapon](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md)                             | Exploration   |
+| Creation   | [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md)                                                  | Crafting      |
+| Death      | [Grave Speech](../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)           | Lore          |
+| Life       | [Revitalizing Ritual](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)                         | Exploration   |
+| Love       | [Blessing of Compassion](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)                 | Interpersonal |
+| Nature     | [Faithful Friend](../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md)                                                            | Exploration   |
+| Protection | [Protective Circle](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) | Exploration   |
+| Sun        | [Inner Light](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md)                                         | Lore          |
+| Trickery   | [Inspired Deception](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)                           | Intrigue      |
+| War        | [Sanctified Weapon](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -4759,7 +4759,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -4775,7 +4775,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You.md)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ######## Back Blasphemer!
@@ -4843,7 +4843,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+You call upon a number of heroic abilities, all of them bound to your [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 ###### 3-Wrath Ability
 
@@ -5003,9 +5003,9 @@ Your [censor](../Browse/Classes/Censor.md) order grants you two features, as sho
 
 | Order    | Features                                                                                                                                                                                                                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20Vigilance.md), [A Sense for Truth](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20Truth.md) |
-| Oracle   | [It Was Foretold](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20Foretold.md), [Judge of Character](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20Character.md)  |
-| Paragon  | [Lead by Example](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20Example.md), [Stalwart Icon](../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20Icon.md)              |
+| Exorcist | [Saint's Vigilance](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Saints Vigilance.md), [A Sense for Truth](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/A Sense for Truth.md) |
+| Oracle   | [It Was Foretold](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/It Was Foretold.md), [Judge of Character](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Judge of Character.md)  |
+| Paragon  | [Lead by Example](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Lead by Example.md), [Stalwart Icon](../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Stalwart Icon.md)              |
 
 ##### It Was Foretold
 
@@ -5021,7 +5021,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -5133,7 +5133,7 @@ As a 3rd-level [censor](../Browse/Classes/Censor.md), you gain the following fea
 
 #### Look On My Work and Despair
 
-Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability, you can spend 1 [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md), and if the target has P < AVERAGE, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends). If the target is already [frightened](../Browse/Conditions/Frightened.md) of you, they instead take holy damage equal to twice your Presence score.
+Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability, you can spend 1 [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md), and if the target has P < AVERAGE, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends). If the target is already [frightened](../Browse/Conditions/Frightened.md) of you, they instead take holy damage equal to twice your Presence score.
 
 #### 7-Wrath Ability
 
@@ -5211,22 +5211,22 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker.md) |
-| Death      | [Seance](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance.md)                                                   |
-| Fate       | [Oracular Warning](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning.md)                             |
-| Knowledge  | [Saint's Epiphany](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany.md)                              |
-| Life       | [Blessing of Life](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life.md)                           |
-| Love       | [Invocation of the Heart](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md)           |
-| Nature     | [Wode Road](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road.md)                                           |
-| Protection | [Impervious Touch](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch.md)                             |
-| Storm      | [Windwalk](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md)                                               |
-| Sun        | [Light of Revelation](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation.md)                     |
-| Trickery   | [Blessing of Secrets](../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets.md)                                                |
-| War        | [Improved Sanctified Weapon](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon.md)       |
+| Creation   | [Improved Hands of the Maker](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md) |
+| Death      | [Seance](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md)                                                   |
+| Fate       | [Oracular Warning](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md)                             |
+| Knowledge  | [Saint's Epiphany](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md)                              |
+| Life       | [Blessing of Life](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md)                           |
+| Love       | [Invocation of the Heart](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md)           |
+| Nature     | [Wode Road](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md)                                           |
+| Protection | [Impervious Touch](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md)                             |
+| Storm      | [Windwalk](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md)                                               |
+| Sun        | [Light of Revelation](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md)                     |
+| Trickery   | [Blessing of Secrets](../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md)                                                |
+| War        | [Improved Sanctified Weapon](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md)       |
 
 ##### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 
 ##### Blessing of Secrets
 
@@ -5251,11 +5251,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ##### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -5297,13 +5297,13 @@ Your [censor](../Browse/Classes/Censor.md) order grants you a feature, as shown 
 
 | Order    | Feature                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed.md) |
-| Oracle   | [Prophecy](../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy.md)             |
-| Paragon  | [Stand Fast](../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast.md)!      |
+| Exorcist | [Evil Revealed](../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Evil Revealed.md) |
+| Oracle   | [Prophecy](../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Prophecy.md)             |
+| Paragon  | [Stand Fast](../Browse/Features/Censor/5th-Level Features/5th-Level Order Feature/Stand Fast.md)!      |
 
 ##### Evil Revealed
 
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action.
+Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action.
 
 ##### Prophecy
 
@@ -5512,18 +5512,18 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster.md)                     |
-| Death      | [Word of Death Deferred](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred.md)             |
-| Fate       | [Word of Fate Denied](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied.md)                   |
+| Creation   | [Divine Quartermaster](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md)                     |
+| Death      | [Word of Death Deferred](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md)             |
+| Fate       | [Word of Fate Denied](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md)                   |
 | Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace.md)                                 |
-| Love       | [Covenant of the Heart](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart.md)               |
-| Nature     | [Nature's Bounty](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty.md)                                |
-| Protection | [Blessing of Iron](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron.md)                           |
-| Storm      | [Ride the Lightning](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning.md)                       |
-| Sun        | [Light of the Burning Sun](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun.md)       |
-| Trickery   | [Trinity of Trickery](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery.md)                     |
-| War        | [Your Triumphs Are Remembered](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered.md) |
+| Life       | [Font of Grace](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md)                                 |
+| Love       | [Covenant of the Heart](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md)               |
+| Nature     | [Nature's Bounty](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md)                                |
+| Protection | [Blessing of Iron](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md)                           |
+| Storm      | [Ride the Lightning](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md)                       |
+| Sun        | [Light of the Burning Sun](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md)       |
+| Trickery   | [Trinity of Trickery](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md)                     |
+| War        | [Your Triumphs Are Remembered](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md) |
 
 ##### Blessing of Iron
 
@@ -5531,7 +5531,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Guided to Your Side
@@ -5550,7 +5550,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md), it is lost. Additionally, the target of [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md), it is lost. Additionally, the target of [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) gains 10 temporary Stamina.
 
 ##### Gods' Library
 
@@ -5574,7 +5574,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ##### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md) already grants you a bonus to speed, this bonus adds to that.
 
 ##### Trinity of Trickery
 
@@ -5593,7 +5593,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
@@ -5607,7 +5607,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 #### Focused Wrath
 
-When you gain [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) at the start of each of your turns during combat, you gain 3 wrath instead of 2.
 
 #### Skill
 
@@ -5629,13 +5629,13 @@ Your [censor](../Browse/Classes/Censor.md) order grants you a feature, as shown 
 
 | Order    | Feature                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist.md)                   |
-| Oracle   | [Their Past Revealed](../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed.md) |
-| Paragon  | [Vow](../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Vow.md)                                     |
+| Exorcist | [Demonologist](../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md)                   |
+| Oracle   | [Their Past Revealed](../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md) |
+| Paragon  | [Vow](../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md)                                     |
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../Browse/Ancestries/Devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../Browse/Ancestries/Devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -5715,7 +5715,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 > - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../Browse/Conditions/Slowed.md) (save ends)
 > - **17+:** 12 + P damage; I < STRONG, [slowed](../Browse/Conditions/Slowed.md) (save ends)
 >
-> **Effect:** While the target is [slowed](../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target. Additionally, while the target is [slowed](../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a different creature must make the [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target instead.
+> **Effect:** While the target is [slowed](../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target. Additionally, while the target is [slowed](../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against a different creature must make the [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target instead.
 
 ### 9th-Level Features
 
@@ -5723,7 +5723,7 @@ As a 9th-level [censor](../Browse/Classes/Censor.md), you gain the following fea
 
 #### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](../Browse/Features/Censor/6th-Level%20Features/Implement%20of%20Wrath.md) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](../Browse/Features/Censor/6th-Level Features/Implement of Wrath.md) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.
@@ -5851,7 +5851,7 @@ You gain one skill of your choice.
 
 #### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability, you can use a free triggered action to use a [conduit](../Browse/Classes/Conduit.md) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with [virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../Browse/Classes/Conduit.md) level, use your [censor](../Browse/Classes/Censor.md) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../Browse/Features/Censor/1st-Level Features/Judgment.md) ability, you can use a free triggered action to use a [conduit](../Browse/Classes/Conduit.md) domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with [virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../Browse/Classes/Conduit.md) level, use your [censor](../Browse/Classes/Censor.md) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -5859,15 +5859,15 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called [virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md). Each time you finish a respite, you gain [virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md) equal to the XP you gain. You can spend [virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md) on your abilities as if it were [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+You have an epic resource called [virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md). Each time you finish a respite, you gain [virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md) equal to the XP you gain. You can spend [virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md) on your abilities as if it were [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
-Additionally, you can spend 3 [virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-[Virtue](../Browse/Features/Censor/10th-Level%20Features/Virtue.md) remains until you spend it.
+[Virtue](../Browse/Features/Censor/10th-Level Features/Virtue.md) remains until you spend it.
 
 #### Wrath of the Gods
 
-When you gain [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) at the start of each of your turns during combat, you gain 4 wrath instead of 3.
 
 ## Conduit
 
@@ -5907,16 +5907,16 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Abilities                     | Domain Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | [Deity and Domains](../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains.md), [Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), Domain Feature, [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md), [Ray of Wrath](../Browse/Abilities/Conduit/1st-Level%20Features/Ray%20of%20Wrath.md), Triggered Action, [Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md), Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
-| 2nd   | [The Lists of Heaven](../Browse/Features/Conduit/2nd-Level%20Features/The%20Lists%20of%20Heaven.md), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5           | 5                |
-| 3rd   | [Minor Miracle](../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle.md), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7        | 5                |
-| 4th   | [Blessed Domains](../Browse/Features/Conduit/4th-Level%20Features/Blessed%20Domain.md), [Characteristic Increase](../Browse/Features/Conduit/4th-Level%20Features/Characteristic%20Increase.md), Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                |
+| 1st   | [Deity and Domains](../Browse/Features/Conduit/1st-Level Features/Deity and Domains.md), [Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), Domain Feature, [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md), [Ray of Wrath](../Browse/Abilities/Conduit/1st-Level Features/Ray of Wrath.md), Triggered Action, [Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md), Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
+| 2nd   | [The Lists of Heaven](../Browse/Features/Conduit/2nd-Level Features/The Lists of Heaven.md), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5           | 5                |
+| 3rd   | [Minor Miracle](../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7        | 5                |
+| 4th   | [Blessed Domains](../Browse/Features/Conduit/4th-Level Features/Blessed Domain.md), [Characteristic Increase](../Browse/Features/Conduit/4th-Level Features/Characteristic Increase.md), Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Burgeoning Saint](../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint.md), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | [Characteristic Increase](../Browse/Features/Conduit/7th-Level%20Features/Characteristic%20Increase.md), Domain Feature, [Faithful's Reward](../Browse/Features/Conduit/7th-Level%20Features/Faithfuls%20Reward.md), Skill Increase                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 6th   | [Burgeoning Saint](../Browse/Features/Conduit/6th-Level Features/Burgeoning Saint.md), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | [Characteristic Increase](../Browse/Features/Conduit/7th-Level Features/Characteristic Increase.md), Domain Feature, [Faithful's Reward](../Browse/Features/Conduit/7th-Level Features/Faithfuls Reward.md), Skill Increase                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, [Faith's Sword](../Browse/Features/Conduit/9th-Level%20Features/Faiths%20Sword.md), [Ordained](../Browse/Features/Conduit/9th-Level%20Features/Ordained.md)                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Avatar](../Browse/Features/Conduit/10th-Level%20Features/Avatar.md), [Characteristic Increase](../Browse/Features/Conduit/10th-Level%20Features/Characteristic%20Increase.md), [Divine Power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md), [Most Pious](../Browse/Features/Conduit/10th-Level%20Features/Most%20Pious.md), Perk, Skill Increase                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](../Browse/Features/Conduit/9th-Level Features/Faiths Sword.md), [Ordained](../Browse/Features/Conduit/9th-Level Features/Ordained.md)                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Avatar](../Browse/Features/Conduit/10th-Level Features/Avatar.md), [Characteristic Increase](../Browse/Features/Conduit/10th-Level Features/Characteristic Increase.md), [Divine Power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md), [Most Pious](../Browse/Features/Conduit/10th-Level Features/Most Pious.md), Perk, Skill Increase                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -5930,112 +5930,112 @@ After choosing your deity, pick two domains from their portfolio. The two domain
 
 #### Piety
 
-Your deity grants you a Heroic Resource called [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), letting you heal and empower your allies, and unleash holy power upon your foes.
+Your deity grants you a Heroic Resource called [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+- If the roll is a 2, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
 You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](../Browse/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md), you can use it as if you had spent an amount of [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md), you can use it as if you had spent an amount of [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories.
 
 ##### Domain Piety and Effects
 
-Your choice of domains provides you with two additional ways to earn [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) from both your domains.
+Your choice of domains provides you with two additional ways to earn [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) from both your domains.
 
-Additionally, whenever you activate a domain effect by praying for [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), you can choose one of your domains and have that domain's prayer effect take effect immediately.
+Additionally, whenever you activate a domain effect by praying for [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
 ###### Creation Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
 ###### Death Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
 ###### Fate Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../Browse/Conditions/Prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../Browse/Conditions/Prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid%20Attack.md) maneuver or an ability that targets an ally.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver or an ability that targets an ally.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid%20Attack.md) or [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../Browse/Classes/Conduit.md) level.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid Attack.md) or [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../Browse/Classes/Conduit.md) level.
 
 ###### War Domain Piety and Effect
 
-- **[Piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **[Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **[Piety](../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **[Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../Browse/Classes/Conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual.md) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../Browse/Classes/Conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                     | Skill Group   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md)                                                   | Crafting      |
-| Death      | [Grave Speech](../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech.md)                                                                   | Lore          |
-| Fate       | [Oracular Visions](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions.md)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension.md)           | Lore          |
-| Life       | [Revitalizing Ritual](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual.md)                         | Exploration   |
-| Love       | [Blessing of Compassion](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion.md)                 | Interpersonal |
-| Nature     | [Faithful Friend](../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend.md)                                                             | Exploration   |
-| Protection | [Protective Circle](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) | Exploration   |
-| Sun        | [Inner Light](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light.md)                                         | Lore          |
-| Trickery   | [Inspired Deception](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception.md)                           | Intrigue      |
-| War        | [Sanctified Weapon](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md)                             | Exploration   |
+| Creation   | [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md)                                                   | Crafting      |
+| Death      | [Grave Speech](../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md)                                                                   | Lore          |
+| Fate       | [Oracular Visions](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)           | Lore          |
+| Life       | [Revitalizing Ritual](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)                         | Exploration   |
+| Love       | [Blessing of Compassion](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)                 | Interpersonal |
+| Nature     | [Faithful Friend](../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md)                                                             | Exploration   |
+| Protection | [Protective Circle](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) | Exploration   |
+| Sun        | [Inner Light](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md)                                         | Lore          |
+| Trickery   | [Inspired Deception](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)                           | Intrigue      |
+| War        | [Sanctified Weapon](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -6120,7 +6120,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -6154,7 +6154,7 @@ You have the following ability, which you can use once on your turn.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Ray of Wrath
@@ -6175,7 +6175,7 @@ You have the following ability, which can be used as a ranged [free strike](../B
 
 #### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../Browse/Abilities/Conduit/1st-Level%20Features/Word%20of%20Guidance.md).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md).)
 
 <!-- -->
 > ######## Word of Guidance
@@ -6209,7 +6209,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../Browse/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md).)
 
 ##### Prayer of Destruction
 
@@ -6221,13 +6221,13 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ##### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### Prayer of Steel
 
@@ -6235,7 +6235,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../Browse/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20Ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md).)
 
 ##### Bastion Ward
 
@@ -6259,7 +6259,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md), [Staggering Curse](../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md).)
 
 <!-- -->
 > ######## Blessed Light
@@ -6605,7 +6605,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a target you choose
+> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against a target you choose
 > - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 > - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -6793,7 +6793,7 @@ As a 4th-level [conduit](../Browse/Classes/Conduit.md), you gain the following f
 
 #### Blessed Domain
 
-Whenever you gain [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) from a domain effect, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+Whenever you gain [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) from a domain effect, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Characteristic Increase
 
@@ -6815,22 +6815,22 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker.md) |
-| Death      | [Seance](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance.md)                                                   |
-| Fate       | [Oracular Warning](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning.md)                             |
-| Knowledge  | [Saint's Epiphany](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany.md)                              |
-| Life       | [Blessing of Life](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life.md)                           |
-| Love       | [Invocation of the Heart](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md)           |
-| Nature     | [Wode Road](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road.md)                                           |
-| Protection | [Impervious Touch](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch.md)                             |
-| Storm      | [Windwalk](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md)                                               |
-| Sun        | [Light of Revelation](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation.md)                     |
-| Trickery   | [Blessing of Secrets](../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets.md)                                                |
-| War        | [Improved Sanctified Weapon](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon.md)       |
+| Creation   | [Improved Hands of the Maker](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md) |
+| Death      | [Seance](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md)                                                   |
+| Fate       | [Oracular Warning](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md)                             |
+| Knowledge  | [Saint's Epiphany](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md)                              |
+| Life       | [Blessing of Life](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md)                           |
+| Love       | [Invocation of the Heart](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md)           |
+| Nature     | [Wode Road](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md)                                           |
+| Protection | [Impervious Touch](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md)                             |
+| Storm      | [Windwalk](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md)                                               |
+| Sun        | [Light of Revelation](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md)                     |
+| Trickery   | [Blessing of Secrets](../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md)                                                |
+| War        | [Improved Sanctified Weapon](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md)       |
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
 
 ###### Blessing of Secrets
 
@@ -6855,11 +6855,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ###### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -7169,7 +7169,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Faithful's Reward
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Skill
 
@@ -7183,18 +7183,18 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster.md)                     |
-| Death      | [Word of Death Deferred](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred.md)             |
-| Fate       | [Word of Fate Denied](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied.md)                   |
+| Creation   | [Divine Quartermaster](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md)                     |
+| Death      | [Word of Death Deferred](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md)             |
+| Fate       | [Word of Fate Denied](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md)                   |
 | Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace.md)                                 |
-| Love       | [Covenant of the Heart](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart.md)               |
-| Nature     | [Nature's Bounty](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty.md)                                |
-| Protection | [Blessing of Iron](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron.md)                           |
-| Storm      | [Thunderstruck](../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck.md)                                    |
-| Sun        | [Light of the Burning Sun](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun.md)       |
-| Trickery   | [Trinity of Trickery](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery.md)                     |
-| War        | [Your Triumphs Are Remembered](../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered.md) |
+| Life       | [Font of Grace](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md)                                 |
+| Love       | [Covenant of the Heart](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md)               |
+| Nature     | [Nature's Bounty](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md)                                |
+| Protection | [Blessing of Iron](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md)                           |
+| Storm      | [Thunderstruck](../Browse/Features/Conduit/7th-Level Features/7th-Level Domain Feature/Thunderstruck.md)                                    |
+| Sun        | [Light of the Burning Sun](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md)       |
+| Trickery   | [Trinity of Trickery](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md)                     |
+| War        | [Your Triumphs Are Remembered](../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md) |
 
 ##### Blessing of Iron
 
@@ -7202,7 +7202,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Guided to Your Side
@@ -7221,7 +7221,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), it is lost. Additionally, you can use your [Minor Miracle](../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), it is lost. Additionally, you can use your [Minor Miracle](../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -7264,7 +7264,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
@@ -7348,7 +7348,7 @@ As a 9th-level [conduit](../Browse/Classes/Conduit.md), you gain the following f
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../Browse/Features/Conduit/6th-Level Features/Burgeoning Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 
@@ -7427,7 +7427,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 >
 > **Power Roll + Intuition:**
 >
@@ -7553,7 +7553,7 @@ As a 10th-level [conduit](../Browse/Classes/Conduit.md), you gain the following 
 
 #### Avatar
 
-You are now an avatar of your god! When you use your [Prayer](../Browse/Features/Conduit/1st-Level%20Features/Prayer.md) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../Browse/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20Effects.md)) without needing to pray.
+You are now an avatar of your god! When you use your [Prayer](../Browse/Features/Conduit/1st-Level Features/Prayer.md) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../Browse/Features/Conduit/1st-Level Features/Piety/Domain Piety and Effects.md)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -7563,15 +7563,15 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 #### Divine Power
 
-You have an epic resource called [divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md). Each time you finish a respite, you gain [divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md) equal to the XP you gain. You can spend [divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md) on your abilities as if it were [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+You have an epic resource called [divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md). Each time you finish a respite, you gain [divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md) equal to the XP you gain. You can spend [divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md) on your abilities as if it were [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
-Additionally, you can spend [divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md) as if it were piety to use any [conduit](../Browse/Classes/Conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../Browse/Classes/Conduit.md) ability you don't have that usually costs no [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md), you must spend 1 [divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md) to use it.
+Additionally, you can spend [divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md) as if it were piety to use any [conduit](../Browse/Classes/Conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../Browse/Classes/Conduit.md) ability you don't have that usually costs no [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md), you must spend 1 [divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md) to use it.
 
-[Divine power](../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power.md) remains until you spend it.
+[Divine power](../Browse/Features/Conduit/10th-Level Features/Divine Power.md) remains until you spend it.
 
 #### Most Pious
 
-When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level%20Features/Piety.md).
+When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional [piety](../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Perk
 
@@ -7585,7 +7585,7 @@ You gain one skill of your choice.
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](../Browse/Classes/Elementalist.md), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) determines which of these talents you excel at.**
+**As an [elementalist](../Browse/Classes/Elementalist.md), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) determines which of these talents you excel at.**
 
 <!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
@@ -7619,16 +7619,16 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Abilities                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md), [Essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md), [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md), [Persistent Magic](../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic.md), [Practical Magic](../Browse/Abilities/Elementalist/1st-Level%20Features/Practical%20Magic.md), Specialization Feature, [Specialization Triggered Action](../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action.md), [Enchantment](../Browse/Features/Elementalist/1st-Level%20Features/Enchantment.md), [Elementalist Ward](../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward.md), [Elementalist Abilities](../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Abilities.md) | Two signature, 3, 5                 |
+| 1st   | [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md), [Essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md), [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md), [Persistent Magic](../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md), [Practical Magic](../Browse/Abilities/Elementalist/1st-Level Features/Practical Magic.md), Specialization Feature, [Specialization Triggered Action](../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md), [Enchantment](../Browse/Features/Elementalist/1st-Level Features/Enchantment.md), [Elementalist Ward](../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md), [Elementalist Abilities](../Browse/Features/Elementalist/1st-Level Features/Elementalist Abilities.md) | Two signature, 3, 5                 |
 | 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 5              |
 | 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 4th   | [Characteristic Increase](../Browse/Features/Elementalist/4th-Level%20Features/Characteristic%20Increase.md), [Font of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Font%20of%20Essence.md), [Mantle of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
+| 4th   | [Characteristic Increase](../Browse/Features/Elementalist/4th-Level Features/Characteristic Increase.md), [Font of Essence](../Browse/Features/Elementalist/4th-Level Features/Font of Essence.md), [Mantle of Essence](../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md), Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 5, 7           |
 | 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, [Wyrding](../Browse/Features/Elementalist/6th-Level%20Features/Wyrding.md), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | [Characteristic Increase](../Browse/Features/Elementalist/7th-Level%20Features/Characteristic%20Increase.md), [Mantle of Quintessence](../Browse/Features/Elementalist/7th-Level%20Features/Mantle%20of%20Quintessence.md), [Surging Essence](../Browse/Features/Elementalist/7th-Level%20Features/Surging%20Essence.md), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9     |
+| 6th   | Perk, [Wyrding](../Browse/Features/Elementalist/6th-Level Features/Wyrding.md), New 9-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | [Characteristic Increase](../Browse/Features/Elementalist/7th-Level Features/Characteristic Increase.md), [Mantle of Quintessence](../Browse/Features/Elementalist/7th-Level Features/Mantle of Quintessence.md), [Surging Essence](../Browse/Features/Elementalist/7th-Level Features/Surging Essence.md), Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9     |
 | 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | [Grand Wyrding](../Browse/Features/Elementalist/9th-Level%20Features/Grand%20Wyrding.md), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | [Characteristic Increase](../Browse/Features/Elementalist/10th-Level%20Features/Characteristic%20Increase.md), [Breath](../Browse/Features/Elementalist/10th-Level%20Features/Breath.md), [Essential Being](../Browse/Features/Elementalist/10th-Level%20Features/Essential%20Being.md), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | [Grand Wyrding](../Browse/Features/Elementalist/9th-Level Features/Grand Wyrding.md), New 11-Essence Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | [Characteristic Increase](../Browse/Features/Elementalist/10th-Level Features/Characteristic Increase.md), [Breath](../Browse/Features/Elementalist/10th-Level Features/Breath.md), [Essential Being](../Browse/Features/Elementalist/10th-Level Features/Essential Being.md), One, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ### 1st-Level Features
 
@@ -7646,7 +7646,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../Browse/Movement/Teleport.md), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other [elemental specializations](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) will be featured in future products.) (*Quick Build:* Fire.)
 
 ##### Earth: Acolyte of Earth
 
@@ -7654,7 +7654,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -7666,27 +7666,27 @@ You use your immersion in the mystery of void magic to expand the reach of that 
 
 #### Essence
 
-You channel the substance of creation in the form of a Heroic Resource called [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md), gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a Heroic Resource called [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md), gathering and burning it to cast and maintain spells.
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
 You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](../Browse/Features/Elementalist/1st-Level%20Features/Essence/Essence%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [essence outside of combat](../Browse/Features/Elementalist/1st-Level Features/Essence/Essence Outside of Combat.md), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../Browse/Features/Elementalist/1st-Level%20Features/Persistent%20Magic.md) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../Browse/Features/Elementalist/1st-Level Features/Persistent Magic.md) below), you can maintain it for a number of rounds equal to your Victories.
 
-When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) equal to your Victories.
 
 #### Hurl Element
 
-You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Hurl Element
@@ -7707,9 +7707,9 @@ You have the following ability, which can be used as a ranged [free strike](../B
 
 #### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
@@ -7730,22 +7730,22 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You [teleport](../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) to [teleport](../Browse/Movement/Teleport.md) 1 additional square for each essence spent.
+> - You use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You [teleport](../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) to [teleport](../Browse/Movement/Teleport.md) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md)                                                                     |
-| Fire           | [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md)                                                   |
-| Green          | [It Is the Soul Which Hears](../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears.md) |
-| Void           | [A Beyonding of Vision](../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision.md)               |
+| Earth          | [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md)                                                                     |
+| Fire           | [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md)                                                   |
+| Green          | [It Is the Soul Which Hears](../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md) |
+| Void           | [A Beyonding of Vision](../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md)               |
 
 ##### A Beyonding of Vision
 
@@ -7762,7 +7762,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense.md) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md) ability.
 
 ##### It Is the Soul Which Hears
 
@@ -7804,16 +7804,16 @@ You have the following ability.
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a triggered action, as shown on the [Specialization Triggered Actions](../Browse/Features/Elementalist/1st-Level%20Features/Specialization%20Triggered%20Action.md) table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a triggered action, as shown on the [Specialization Triggered Actions](../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization | Triggered Action                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Skin Like Castle Walls](../Browse/Abilities/Elementalist/1st-Level%20Features/Skin%20Like%20Castle%20Walls.md)       |
-| Fire           | [Explosive Assistance](../Browse/Abilities/Elementalist/1st-Level%20Features/Explosive%20Assistance.md)               |
-| Green          | [Breath of Dawn Remembered](../Browse/Abilities/Elementalist/1st-Level%20Features/Breath%20of%20Dawn%20Remembered.md) |
-| Void           | [Subtle Relocation](../Browse/Abilities/Elementalist/1st-Level%20Features/Subtle%20Relocation.md)                     |
+| Earth          | [Skin Like Castle Walls](../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md)       |
+| Fire           | [Explosive Assistance](../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md)               |
+| Green          | [Breath of Dawn Remembered](../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md) |
+| Void           | [Subtle Relocation](../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md)                     |
 
 <!-- -->
 > ######## Breath of Dawn Remembered
@@ -7877,17 +7877,17 @@ Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Feat
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../Browse/Features/Elementalist/1st-Level%20Features/Enchantment/Enchantment%20of%20Destruction.md).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md).)
 
 ##### Enchantment of Battle
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this enchantment.
 
 ##### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### Enchantment of Destruction
 
@@ -7903,7 +7903,7 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity.md).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward/Ward of Surprising Reactivity.md).)
 
 ##### Ward of Delightful Consequences
 
@@ -7923,11 +7923,11 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration.md), [Viscous Fire](../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md), [Viscous Fire](../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md).)
 
 <!-- -->
 > ######## Afflict a Bountiful Decay
@@ -8059,7 +8059,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
 ###### 3-Essence Ability
 
@@ -8213,16 +8213,16 @@ You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7:
 
 #### 2nd-Level Specialization Feature
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 2nd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [Disciple of Earth](../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Earth.md)           |
-| Fire           | [Disciple of Fire](../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20Fire.md)             |
-| Green          | [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green.md) |
-| Void           | [There Is No Space Between](../Browse/Abilities/Elementalist/2nd-Level%20Features/There%20Is%20No%20Space%20Between.md)                           |
+| Earth          | [Disciple of Earth](../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Earth.md)           |
+| Fire           | [Disciple of Fire](../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of Fire.md)             |
+| Green          | [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md) |
+| Void           | [There Is No Space Between](../Browse/Abilities/Elementalist/2nd-Level Features/There Is No Space Between.md)                           |
 
 ##### Disciple of Earth
 
@@ -8236,7 +8236,7 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ##### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
@@ -8249,25 +8249,25 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 | Animal Type         | Level | Temporary Stamina | Speed                                                                           | Size | [Stability](../Browse/Movement/Stability.md) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------- | ----- | ----------------- | ------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Canine              | 2nd   | 5                 | 7                                                                               | 1M   | +0                                                                        | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Fish                | 2nd   | 0                 | 5 ([swim](../Browse/Movement/Climb%20or%20Swim.md) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Rodent              | 2nd   | 0                 | 5 ([climb](../Browse/Movement/Climb%20or%20Swim.md))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Fish                | 2nd   | 0                 | 5 ([swim](../Browse/Movement/Climb or Swim.md) only) | 1T   | +0                                                                        | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Rodent              | 2nd   | 0                 | 5 ([climb](../Browse/Movement/Climb or Swim.md))     | 1T   | +0                                                                        | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Bird                | 3rd   | 0                 | 5 ([fly](../Browse/Movement/Fly.md))                     | 1T   | +0                                                                        | +0/+0/+0           | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Great cat           | 3rd   | 5                 | 6 ([climb](../Browse/Movement/Climb%20or%20Swim.md))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../Browse/Movement/Jump.md) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](../Browse/Conditions/Prone.md), and you can<br>make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them (no action required).                                                                                                                                                                                                                             |
-| Giant frog          | 4th   | 5                 | 5 ([swim](../Browse/Movement/Climb%20or%20Swim.md))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) has a distance of melee 3. When you take the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md)<br>move action, you can high [jump](../Browse/Movement/Jump.md) or long [jump](../Browse/Movement/Jump.md) up to half your speed. This<br>[jump](../Browse/Movement/Jump.md) can allow you to move more squares than your speed.                                                                                                   |
-| Horse               | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a maneuver. You can't use two [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md)<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                                |
+| Great cat           | 3rd   | 5                 | 6 ([climb](../Browse/Movement/Climb or Swim.md))     | 2    | +0                                                                        | +1/+1/+1           | As a maneuver, you can [jump](../Browse/Movement/Jump.md) up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked [prone](../Browse/Conditions/Prone.md), and you can<br>make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them (no action required).                                                                                                                                                                                                                             |
+| Giant frog          | 4th   | 5                 | 5 ([swim](../Browse/Movement/Climb or Swim.md))      | 2    | +0                                                                        | +0/+0/+0           | Your melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) has a distance of melee 3. When you take the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md)<br>move action, you can high [jump](../Browse/Movement/Jump.md) or long [jump](../Browse/Movement/Jump.md) up to half your speed. This<br>[jump](../Browse/Movement/Jump.md) can allow you to move more squares than your speed.                                                                                                   |
+| Horse               | 4th   | 5                 | 8                                                                               | 2    | +1                                                                        | +0/+0/+0           | You can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action as a maneuver. You can't use two [Charge](../Browse/Abilities/Common/Main Actions/Charge.md)<br>main actions on the same turn.                                                                                                                                                                                                                                                                                                                                                                                |
 | Mohler              | 4th   | 0                 | 7 ([burrow](../Browse/Movement/Burrow.md))               | 1S   | +1                                                                        | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Bear                | 5th   | 10                | 5 ([climb](../Browse/Movement/Climb%20or%20Swim.md))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Giant bird          | 5th   | 0                 | 7 ([fly](../Browse/Movement/Fly.md))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Giant<br>salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Giant spider        | 6th   | 0                 | 5 ([climb](../Browse/Movement/Climb%20or%20Swim.md))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Giant snake         | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you<br>can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. While [grabbed](../Browse/Conditions/Grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                                                                                        |
-| Kangaroo            | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), the target is [dazed](../Browse/Conditions/Dazed.md) (save<br>ends). When you take the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action, you can high [jump](../Browse/Movement/Jump.md) or long<br>[jump](../Browse/Movement/Jump.md) up to half your speed. This [jump](../Browse/Movement/Jump.md) can allow you to move more squares<br>than your speed. |
+| Bear                | 5th   | 10                | 5 ([climb](../Browse/Movement/Climb or Swim.md))     | 2    | +1                                                                        | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../Browse/Movement/Fly.md))                     | 2    | +0                                                                        | +1/+1/+1           | After making a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Giant<br>salamander | 6th   | 5                 | 5                                                                               | 1L   | +3                                                                        | +2/+2/+2           | Your melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Giant spider        | 6th   | 0                 | 5 ([climb](../Browse/Movement/Climb or Swim.md))     | 2    | +0                                                                        | +0/+1/+2           | You have a double edge on melee [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Giant snake         | 7th   | 5                 | 5                                                                               | 3    | +0                                                                        | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), you<br>can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. While [grabbed](../Browse/Conditions/Grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                                                                                                                                                                        |
+| Kangaroo            | 7th   | 0                 | 7                                                                               | 1L   | +1                                                                        | +0/+0/+4           | When you score a critical hit with a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), the target is [dazed](../Browse/Conditions/Dazed.md) (save<br>ends). When you take the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action, you can high [jump](../Browse/Movement/Jump.md) or long<br>[jump](../Browse/Movement/Jump.md) up to half your speed. This [jump](../Browse/Movement/Jump.md) can allow you to move more squares<br>than your speed. |
 | Spiny armadillo     | 7th   | 10                | 5                                                                               | 1M   | +2                                                                        | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Ostrich             | 8th   | 0                 | 10                                                                              | 2    | +0                                                                        | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Shark               | 8th   | 0                 | 8 ([swim](../Browse/Movement/Climb%20or%20Swim.md) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../Browse/Conditions/Bleeding.md) or winded.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Giant octopus       | 9th   | 5                 | 5 ([swim](../Browse/Movement/Climb%20or%20Swim.md))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. You can have up to<br>eight creatures [grabbed](../Browse/Conditions/Grabbed.md).                                                              |
-| Rhinoceros          | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as part of the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                    |
-| King terror lizard  | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Shark               | 8th   | 0                 | 8 ([swim](../Browse/Movement/Climb or Swim.md) only) | 2    | +0                                                                        | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../Browse/Conditions/Bleeding.md) or winded.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Giant octopus       | 9th   | 5                 | 5 ([swim](../Browse/Movement/Climb or Swim.md))      | 3    | +2                                                                        | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. You can have up to<br>eight creatures [grabbed](../Browse/Conditions/Grabbed.md).                                                              |
+| Rhinoceros          | 9th   | 10                | 8                                                                               | 2    | +5                                                                        | +2/+2/+2           | Whenever you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as part of the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) action, that<br>strike gains an edge.                                                                                                                                                                                                                                                                                                                                                                                    |
+| King terror lizard  | 10th  | 20                | 5                                                                               | 4    | +3                                                                        | +2/+2/+2           | Your melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ##### There Is No Space Between
 
@@ -8362,16 +8362,16 @@ As a 3rd-level [elementalist](../Browse/Classes/Elementalist.md), you gain the f
 
 #### 3rd-Level Specialization Feature
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Earth          | [Earth Accepts Me](../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me.md)                                                       |
-| Fire           | [A Conversation With Fire](../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/A%20Conversation%20With%20Fire.md) |
-| Green          | [Remember Growth and Sun and Rain](../Browse/Abilities/Elementalist/3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain.md)                 |
-| Void           | [Distance Is Only Memory](../Browse/Features/Elementalist/3rd-Level%20Features/3rd-Level%20Specialization%20Feature/Distance%20Is%20Only%20Memory.md)   |
+| Earth          | [Earth Accepts Me](../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md)                                                       |
+| Fire           | [A Conversation With Fire](../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/A Conversation With Fire.md) |
+| Green          | [Remember Growth and Sun and Rain](../Browse/Abilities/Elementalist/3rd-Level Features/Remember Growth and Sun and Rain.md)                 |
+| Void           | [Distance Is Only Memory](../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/Distance Is Only Memory.md)   |
 
 ##### A Conversation With Fire
 
@@ -8497,16 +8497,16 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
 | Specialization | Feature                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth.md)     |
-| Fire           | [Burning Grounds](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds.md) |
-| Green          | [Flowering Bed](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed.md)     |
-| Void           | [Veiling Bed](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed.md)         |
+| Earth          | [Quaking Earth](../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md)     |
+| Fire           | [Burning Grounds](../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md) |
+| Green          | [Flowering Bed](../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md)     |
+| Void           | [Veiling Bed](../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md)         |
 
 ##### Burning Grounds
 
@@ -8538,16 +8538,16 @@ As a 5th-level [elementalist](../Browse/Classes/Elementalist.md), you gain the f
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move.md)     |
-| Fire           | [Smoldering Step](../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step.md)                                 |
-| Green          | [Hide of Tenfold Shields](../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields.md)             |
-| Void           | [Pierce the Veil of Substance](../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance.md) |
+| Earth          | [The Mountain Does Not Move](../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md)     |
+| Fire           | [Smoldering Step](../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md)                                 |
+| Green          | [Hide of Tenfold Shields](../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md)             |
+| Void           | [Pierce the Veil of Substance](../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md) |
 
 ##### Hide of Tenfold Shields
 
@@ -8559,7 +8559,7 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your [stability](../Browse/Movement/Stability.md) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability is force moved, you can use a free triggered action to decrease your [stability](../Browse/Movement/Stability.md) down to a minimum of 0, then increase the ally's [stability](../Browse/Movement/Stability.md) by an amount equal to the [stability](../Browse/Movement/Stability.md) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability is force moved, you can use a free triggered action to decrease your [stability](../Browse/Movement/Stability.md) down to a minimum of 0, then increase the ally's [stability](../Browse/Movement/Stability.md) by an amount equal to the [stability](../Browse/Movement/Stability.md) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 
@@ -8742,13 +8742,13 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Mantle of Quintessence
 
-Your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md) feature no longer requires [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+Your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) feature no longer requires [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
-Additionally, your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 #### Surging Essence
 
-When you gain [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) at the start of each of your turns during combat, you gain 3 essence instead of 2.
 
 #### Skill
 
@@ -8764,34 +8764,34 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth.md)                                 |
-| Fire           | [The Flame Primordial](../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial.md)   |
-| Green          | [Chimeric Manifestation](../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation.md) |
-| Void           | [Black Hole Star](../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star.md)             |
+| Earth          | [Summon Source of Earth](../Browse/Abilities/Elementalist/8th-Level Features/Summon Source of Earth.md)                                 |
+| Fire           | [The Flame Primordial](../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/The Flame Primordial.md)   |
+| Green          | [Chimeric Manifestation](../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Chimeric Manifestation.md) |
+| Void           | [Black Hole Star](../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Black Hole Star.md)             |
 
 ##### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability and [vertical](../Browse/Movement/Vertical.md) pull that target up to 5 squares. If their [stability](../Browse/Movement/Stability.md) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../Browse/Movement/Stability.md) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability and [vertical](../Browse/Movement/Vertical.md) pull that target up to 5 squares. If their [stability](../Browse/Movement/Stability.md) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../Browse/Movement/Stability.md) for your allies.
 
-Additionally, your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md) improves. While in the area of the aura, enemies and objects have their [stability](../Browse/Movement/Stability.md) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) improves. While in the area of the aura, enemies and objects have their [stability](../Browse/Movement/Stability.md) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green.md) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -8820,7 +8820,7 @@ You have the following ability.
 >
 > |      Elemental      |                                       -                                       |      Level 8      |                                    BRUTE                                     |                                                   EV -                                                    |
 > | :-----------------: | :---------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-> |    **2**<br>Size    |                                **6**<br>Speed                                 | **45**<br>Stamina | **5**<br>[Stability](../Browse/Movement/Stability.md) | **5**<br>[Free Strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) |
+> |    **2**<br>Size    |                                **6**<br>Speed                                 | **45**<br>Stamina | **5**<br>[Stability](../Browse/Movement/Stability.md) | **5**<br>[Free Strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) |
 > | **-**<br>Immunities | **[Burrow](../Browse/Movement/Burrow.md)**<br>Movement |                   |                            **-**<br>With Captain                             |                                            **-**<br>Weaknesses                                            |
 > |   **+3**<br>Might   |                               **+1**<br>Agility                               | **-5**<br>Reason  |                             **-5**<br>Intuition                              |                                            **-3**<br>Presence                                             |
 >
@@ -8834,7 +8834,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the [Earth Accepts Me](../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me.md) ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >
@@ -8861,7 +8861,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../Browse/Conditions/Prone.md). Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../Browse/Conditions/Prone.md). Each ally within distance also gains this benefit.
 >
 > Each enemy who ends their turn within 3 squares of the tree is [restrained](../Browse/Conditions/Restrained.md) until the end of their next turn. A creature [restrained](../Browse/Conditions/Restrained.md) this way can use a main action to end the effect early.
 
@@ -8916,7 +8916,7 @@ As a 9th-level [elementalist](../Browse/Classes/Elementalist.md), you gain the f
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../Browse/Features/Elementalist/6th-Level%20Features/Wyrding.md) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../Browse/Features/Elementalist/6th-Level Features/Wyrding.md) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
@@ -8988,9 +8988,9 @@ As a 10th-level [elementalist](../Browse/Classes/Elementalist.md), you gain the 
 
 #### Breath
 
-You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) (no action required). When you do, 1 breath becomes 3 [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) (no action required). When you do, 1 breath becomes 3 [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
-[Breath](../Browse/Features/Elementalist/10th-Level%20Features/Breath.md) remains until you convert it to [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+[Breath](../Browse/Features/Elementalist/10th-Level Features/Breath.md) remains until you convert it to [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
 #### Characteristic Increase
 
@@ -8998,7 +8998,7 @@ Your Reason score increases to 5. Additionally, you can increase one of your cha
 
 #### Essential Being
 
-When you gain [essence](../Browse/Features/Elementalist/1st-Level%20Features/Essence.md) at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain [essence](../Browse/Features/Elementalist/1st-Level Features/Essence.md) at the start of each of your turns during combat, you gain 4 essence instead of 3.
 
 #### One
 
@@ -9008,10 +9008,10 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 | Specialization | Feature                                                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Earth.md) |
-| Fire           | [Master of Fire](../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Fire.md)   |
-| Green          | [Master of Green](../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Green.md) |
-| Void           | [Master of Void](../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Void.md)   |
+| Earth          | [Master of Earth](../Browse/Features/Elementalist/10th-Level Features/One/Master of Earth.md) |
+| Fire           | [Master of Fire](../Browse/Features/Elementalist/10th-Level Features/One/Master of Fire.md)   |
+| Green          | [Master of Green](../Browse/Features/Elementalist/10th-Level Features/One/Master of Green.md) |
+| Void           | [Master of Void](../Browse/Features/Elementalist/10th-Level Features/One/Master of Void.md)   |
 
 ##### Master of Earth
 
@@ -9023,7 +9023,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
 
 ##### Master of Green
 
@@ -9051,7 +9051,7 @@ You gain one skill of your choice.
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a [fury](../Browse/Classes/Fury.md), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) increases. Nature has no concept of fairness—and neither do you.**
+**As a [fury](../Browse/Classes/Fury.md), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -9084,16 +9084,16 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Abilities                 | Aspect Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ---------------- |
-| 1st   | [Primordial Aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md), [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md), Aspect Features, [Aspect Triggered Action](../Browse/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20Action.md), [Mighty Leaps](../Browse/Features/Fury/1st-Level%20Features/Mighty%20Leaps.md), [Fury](../Browse/Classes/Fury.md) Abilities | Signature, 3, 5           | -                |
+| 1st   | [Primordial Aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md), [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md), Aspect Features, [Aspect Triggered Action](../Browse/Features/Fury/1st-Level Features/Aspect Triggered Action.md), [Mighty Leaps](../Browse/Features/Fury/1st-Level Features/Mighty Leaps.md), [Fury](../Browse/Classes/Fury.md) Abilities | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7        | 5                |
-| 4th   | [Characteristic Increase](../Browse/Features/Fury/4th-Level%20Features/Characteristic%20Increase.md), [Damaging Ferocity](../Browse/Features/Fury/4th-Level%20Features/Damaging%20Ferocity.md), [Growing Ferocity Improvement](../Browse/Features/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement.md), Perk, [Primordial Attunement](../Browse/Features/Fury/4th-Level%20Features/Primordial%20Attunement.md), [Primordial Strike](../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike.md), Skill           | Signature, 3, 5, 7        | 5                |
+| 4th   | [Characteristic Increase](../Browse/Features/Fury/4th-Level Features/Characteristic Increase.md), [Damaging Ferocity](../Browse/Features/Fury/4th-Level Features/Damaging Ferocity.md), [Growing Ferocity Improvement](../Browse/Features/Fury/7th-Level Features/Growing Ferocity Improvement.md), Perk, [Primordial Attunement](../Browse/Features/Fury/4th-Level Features/Primordial Attunement.md), [Primordial Strike](../Browse/Features/Fury/4th-Level Features/Primordial Strike.md), Skill           | Signature, 3, 5, 7        | 5                |
 | 5th   | Aspect Feature, 9-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Marauder of the Primordial Chaos](../Browse/Features/Fury/6th-Level%20Features/Marauder%20of%20the%20Primordial%20Chaos.md), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | [Characteristic Increase](../Browse/Features/Fury/7th-Level%20Features/Characteristic%20Increase.md), [Elemental Form](../Browse/Features/Fury/7th-Level%20Features/Elemental%20Form.md), [Greater Ferocity](../Browse/Features/Fury/7th-Level%20Features/Greater%20Ferocity.md), [Growing Ferocity Improvement](../Browse/Features/Fury/7th-Level%20Features/Growing%20Ferocity%20Improvement.md), Skill                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9             |
+| 6th   | [Marauder of the Primordial Chaos](../Browse/Features/Fury/6th-Level Features/Marauder of the Primordial Chaos.md), Perk, Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | [Characteristic Increase](../Browse/Features/Fury/7th-Level Features/Characteristic Increase.md), [Elemental Form](../Browse/Features/Fury/7th-Level Features/Elemental Form.md), [Greater Ferocity](../Browse/Features/Fury/7th-Level Features/Greater Ferocity.md), [Growing Ferocity Improvement](../Browse/Features/Fury/7th-Level Features/Growing Ferocity Improvement.md), Skill                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | [Harbinger of the Primordial Chaos](../Browse/Features/Fury/9th-Level%20Features/Harbinger%20of%20the%20Primordial%20Chaos.md), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Chaos Incarnate](../Browse/Features/Fury/10th-Level%20Features/Chaos%20Incarnate.md), [Characteristic Increase](../Browse/Features/Fury/10th-Level%20Features/Characteristic%20Increase.md), [Growing Ferocity Improvement](../Browse/Features/Fury/10th-Level%20Features/Growing%20Ferocity%20Improvement.md), Perk, [Primordial Ferocity](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity.md), [Primordial Power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md), Skill                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | [Harbinger of the Primordial Chaos](../Browse/Features/Fury/9th-Level Features/Harbinger of the Primordial Chaos.md), Aspect Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Chaos Incarnate](../Browse/Features/Fury/10th-Level Features/Chaos Incarnate.md), [Characteristic Increase](../Browse/Features/Fury/10th-Level Features/Characteristic Increase.md), [Growing Ferocity Improvement](../Browse/Features/Fury/10th-Level Features/Growing Ferocity Improvement.md), Perk, [Primordial Ferocity](../Browse/Features/Fury/10th-Level Features/Primordial Ferocity.md), [Primordial Power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md), Skill                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
@@ -9101,17 +9101,17 @@ As a 1st-level [fury](../Browse/Classes/Fury.md), you gain the following feature
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
-- **Berserker:** You channel your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
-- **Reaver:** You channel your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
-- **Stormwight:** You channel your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
+- **Berserker:** You channel your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
+- **Reaver:** You channel your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
+- **Stormwight:** You channel your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 #### Ferocity
 
-Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 <!-- -->
 > **Where's My Maneuver?**
@@ -9120,27 +9120,27 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
-Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) equal to your Victories.
 
 #### Growing Ferocity
 
-You gain certain benefits in combat based on the amount of [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) you spend during your turn.
+You gain certain benefits in combat based on the amount of [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) you spend during your turn.
 
-Some [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) tables in this section.
+Some [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                        |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2                                                                                           | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Might score.                                     |
 | 4                                                                                           | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
@@ -9151,7 +9151,7 @@ Some [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20F
 
 ###### Reaver Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                          |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                           | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Agility score.                                     |
 | 4                                                                                           | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
@@ -9162,19 +9162,19 @@ Some [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20F
 
 #### 1st-Level Aspect Features
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                                                                                                                                                          |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength.md)                                                                                                                           |
-| Reaver     | Kit, [Primordial Cunning](../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning.md)                                                                                                                             |
-| Stormwight | [Beast Shape](../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape.md), [Relentless Hunter](../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter.md) |
+| Berserker  | Kit, [Primordial Strength](../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Primordial Strength.md)                                                                                                                           |
+| Reaver     | Kit, [Primordial Cunning](../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Primordial Cunning.md)                                                                                                                             |
+| Stormwight | [Beast Shape](../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Beast Shape.md), [Relentless Hunter](../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Relentless Hunter.md) |
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature.
 
 ##### Kit
 
@@ -9184,13 +9184,13 @@ You can use and gain the benefits of a kit. See Chapter 6: Kits for more informa
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Reaver [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Reaver [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Berserker [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Berserker [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
@@ -9198,15 +9198,15 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a triggered action, as shown on the [Aspect Triggered Actions](../Browse/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20Action.md) table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a triggered action, as shown on the [Aspect Triggered Actions](../Browse/Features/Fury/1st-Level Features/Aspect Triggered Action.md) table.
 
 ###### Aspect Triggered Actions Table
 
 | Aspect     | Triggered Action                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Lines of Force](../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force.md)       |
-| Reaver     | [Unearthly Reflexes](../Browse/Abilities/Fury/1st-Level%20Features/Unearthly%20Reflexes.md) |
-| Stormwight | [Furious Change](../Browse/Abilities/Fury/1st-Level%20Features/Furious%20Change.md)         |
+| Berserker  | [Lines of Force](../Browse/Abilities/Fury/1st-Level Features/Lines of Force.md)       |
+| Reaver     | [Unearthly Reflexes](../Browse/Abilities/Fury/1st-Level Features/Unearthly Reflexes.md) |
+| Stormwight | [Furious Change](../Browse/Abilities/Fury/1st-Level Features/Furious Change.md)         |
 
 <!-- -->
 > ######## Furious Change
@@ -9263,7 +9263,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death.md)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../Browse/Abilities/Fury/1st-Level Features/To the Death.md)!)
 
 <!-- -->
 > ######## Brutal Slam
@@ -9481,15 +9481,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force.md) |
-| Reaver     | [Inescapable Wrath](../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath.md) |
-| Stormwight | [Tooth and Claw](../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw.md)     |
+| Berserker  | [Unstoppable Force](../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Unstoppable Force.md) |
+| Reaver     | [Inescapable Wrath](../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Inescapable Wrath.md) |
+| Stormwight | [Tooth and Claw](../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Tooth and Claw.md)     |
 
 ##### Inescapable Wrath
 
@@ -9501,11 +9501,11 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Additionally, you can [jump](../Browse/Movement/Jump.md) as part of your [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md).
+Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). Additionally, you can [jump](../Browse/Movement/Jump.md) as part of your [charge](../Browse/Abilities/Common/Main Actions/Charge.md).
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 
@@ -9520,7 +9520,7 @@ Choose one of the following abilities.
 > | ----------------- | ----------------------: |
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 >
-> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../Browse/Movement/Stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that deals extra damage equal to your Might score.
+> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../Browse/Movement/Stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals extra damage equal to your Might score.
 
 <!-- -->
 > ######## Wrecking Ball (5 Ferocity)
@@ -9621,15 +9621,15 @@ As a 3rd-level [fury](../Browse/Classes/Fury.md), you gain the following feature
 
 #### 3rd-Level Aspect Feature
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                                        |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Immovable Object](../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Immovable%20Object.md)                     |
-| Reaver     | [See Through Their Tricks](../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/See%20Through%20Their%20Tricks.md) |
-| Stormwight | [Nature's Knight](../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight.md)                        |
+| Berserker  | [Immovable Object](../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Immovable Object.md)                     |
+| Reaver     | [See Through Their Tricks](../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/See Through Their Tricks.md) |
+| Stormwight | [Nature's Knight](../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md)                        |
 
 ##### Immovable Object
 
@@ -9693,7 +9693,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 
 ### 4th-Level Features
 
@@ -9709,7 +9709,7 @@ The first time you take damage each combat round, you gain 2 ferocity instead of
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) feature provides additional benefits when you have 8 or more [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+Your [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature provides additional benefits when you have 8 or more [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 #### Perk
 
@@ -9717,11 +9717,11 @@ You gain one perk of your choice.
 
 #### Primordial Attunement
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific damage type. Additionally, you automatically sense any source of one of those damage types within 10 squares, such as a fire or a source of elemental power.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific damage type. Additionally, you automatically sense any source of one of those damage types within 10 squares, such as a fire or a source of elemental power.
 
 #### Primordial Strike
 
-You can manifest your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
+You can manifest your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
 
 #### Skill
 
@@ -9733,15 +9733,15 @@ As a 5th-level [fury](../Browse/Classes/Fury.md), you gain the following feature
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                      |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder.md)       |
-| Reaver     | [Unfettered](../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Unfettered.md) |
-| Stormwight | [Stormborn](../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn.md)   |
+| Berserker  | [Bounder](../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Bounder.md)       |
+| Reaver     | [Unfettered](../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Unfettered.md) |
+| Stormwight | [Stormborn](../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md)   |
 
 ##### Bounder
 
@@ -9749,7 +9749,7 @@ Your [jump](../Browse/Movement/Jump.md) distance and height double (see Movement
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) feature as if you were a 1st-level [conduit](../Browse/Classes/Conduit.md) (see 1st-Level Domain Feature in the [Conduit](../Browse/Classes/Conduit.md) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) feature as if you were a 1st-level [conduit](../Browse/Classes/Conduit.md) (see 1st-Level Domain Feature in the [Conduit](../Browse/Classes/Conduit.md) section).
 
 ##### Unfettered
 
@@ -9837,7 +9837,7 @@ As a 6th-level [fury](../Browse/Classes/Fury.md), you gain the following feature
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight.md) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the [Nature's Knight](../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md) aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends).
 
 #### Primordial Portal
 
@@ -9851,7 +9851,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 #### 6th-Level Aspect Ability
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Berserker Abilities
 
@@ -9971,17 +9971,17 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Elemental Form
 
-You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
+You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
 
 Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, you have immunity to the damage type of your Primordial Storm feature equal to twice your Might score.
 
 #### Greater Ferocity
 
-When you gain [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
+When you gain [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) feature provides additional benefits when you have 10 or more [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+Your [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature provides additional benefits when you have 10 or more [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 #### Skill
 
@@ -9997,23 +9997,23 @@ You gain one perk of your choice.
 
 #### 8th-Level Aspect Feature
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Strongest There Is](../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Strongest%20There%20Is.md) |
-| Reaver     | [A Step Ahead](../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/A%20Step%20Ahead.md)             |
-| Stormwight | [Menagerie](../Browse/Features/Fury/8th-Level%20Features/8th-Level%20Aspect%20Feature/Menagerie.md)                       |
+| Berserker  | [Strongest There Is](../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/Strongest There Is.md) |
+| Reaver     | [A Step Ahead](../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/A Step Ahead.md)             |
+| Stormwight | [Menagerie](../Browse/Features/Fury/8th-Level Features/8th-Level Aspect Feature/Menagerie.md)                       |
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../Browse/Features/Fury/3rd-Level%20Features/3rd-Level%20Aspect%20Feature/Natures%20Knight.md) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.
 
 ##### Strongest There Is
 
@@ -10085,11 +10085,11 @@ As a 9th-level [fury](../Browse/Classes/Fury.md), you gain the following feature
 
 #### Harbinger of the Primordial Chaos
 
-You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../Browse/Features/Fury/6th-Level%20Features/Primordial%20Portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
+You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../Browse/Features/Fury/6th-Level Features/Primordial Portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
 #### 9th-Level Aspect Ability
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Berserker Abilities
 
@@ -10213,7 +10213,7 @@ Your mastery of elemental forces protects and emboldens you. If you are a berser
 
 When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../Browse/Conditions/Frightened.md) of you (save ends).
 
-Additionally, when you use [Primordial Strike](../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike.md), you can spend up to 3 [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), gaining 1 surge per ferocity spent to use for that strike.
+Additionally, when you use [Primordial Strike](../Browse/Features/Fury/4th-Level Features/Primordial Strike.md), you can spend up to 3 [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), gaining 1 surge per ferocity spent to use for that strike.
 
 #### Characteristic Increase
 
@@ -10221,7 +10221,7 @@ Your Might and Agility scores each increase to 5.
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) feature provides additional benefits when you have 12 or more [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+Your [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature provides additional benefits when you have 12 or more [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 #### Perk
 
@@ -10233,13 +10233,13 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md). Each time you finish a respite, you gain [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) equal to the XP you gain. You can spend [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) on your abilities as if it were [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md).
+You have an epic resource called [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md). Each time you finish a respite, you gain [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) equal to the XP you gain. You can spend [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) on your abilities as if it were [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
-Additionally, you can spend any amount of [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) as a free maneuver, ending one effect on you for each [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) spent.
+Additionally, you can spend any amount of [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) as a free maneuver, ending one effect on you for each [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) spent.
 
-You can also spend 3 [primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) to create a portal to Quintessence without needing a source of elemental power.
+You can also spend 3 [primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) to create a portal to Quintessence without needing a source of elemental power.
 
-[Primordial power](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Power.md) remains until you spend it.
+[Primordial power](../Browse/Features/Fury/10th-Level Features/Primordial Power.md) remains until you spend it.
 
 #### Skill
 
@@ -10247,7 +10247,7 @@ You gain one skill of your choice.
 
 ### Stormwight Kits
 
-The stormwight [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) lets you channel your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
+The stormwight [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) lets you channel your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
 
 #### Kit Features
 
@@ -10255,7 +10255,7 @@ All stormwight kits have the following features in common.
 
 ##### Aspect Benefits and Animal Form
 
-Your [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
+Your [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
 ##### Aspect of the Wild
 
@@ -10280,7 +10280,7 @@ Each stormwight kit is associated with a primordial storm, which channels a spec
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows.
 
 ##### Kit Bonuses
 
@@ -10292,11 +10292,11 @@ You gain a new signature ability from your kit.
 
 ##### Growing Ferocity
 
-Each stormwight kit grants a set of benefits for your [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) feature.
+Each stormwight kit grants a set of benefits for your [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature.
 
 #### Boren
 
-With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity.md) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level Features/Primordial Ferocity.md) into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 ##### Aspect Benefits
 
@@ -10338,11 +10338,11 @@ Your primordial damage type is cold.
 
 ##### Growing Ferocity
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Boren [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Boren [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                                             |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                           | You can have up to two creatures [grabbed](../Browse/Conditions/Grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../Browse/Conditions/Grabbed.md), you gain 1 surge.             |
 | 4                                                                                           | The first time you [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) a creature on a turn, you gain 1 surge.                                                                                                                                              |
@@ -10353,7 +10353,7 @@ As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) gro
 
 #### Corven
 
-With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity.md) into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
+With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level Features/Primordial Ferocity.md) into the form of a crow, becoming stealthy and quick. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
 ##### Aspect Benefits
 
@@ -10376,7 +10376,7 @@ Your primordial damage type is fire.
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
-- **[Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) Bonus:** +1
+- **[Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) Bonus:** +1
 
 ##### Signature Ability
 
@@ -10398,22 +10398,22 @@ Your primordial damage type is fire.
 
 ##### Growing Ferocity
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Corven [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Corven [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                    |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                           | Whenever you use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.                                                         |
+| 2                                                                                           | Whenever you use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.                                                         |
 | 4                                                                                           | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                      |
-| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.       |
+| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.       |
 | 8 (4th level)                                                                               | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                        |
-| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver. |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver. |
 | 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                          |
 
 #### Raden
 
-With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity.md) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level Features/Primordial Ferocity.md) into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 
@@ -10421,11 +10421,11 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore diffi
 
 ##### Animal Form: Rat
 
-While you are in your rat form, your size is 1T and you can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving. You can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver as a free maneuver, you can use your allies as cover when you [hide](../Browse/Abilities/Common/Maneuvers/Hide.md), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../Browse/Movement/Climb%20or%20Swim.md) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
+While you are in your rat form, your size is 1T and you can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving. You can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver as a free maneuver, you can use your allies as cover when you [hide](../Browse/Abilities/Common/Maneuvers/Hide.md), and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to [climb](../Browse/Movement/Climb or Swim.md) other creatures. You can't use any abilities while in this form except for Aspect of the Wild.
 
 ##### Hybrid Form: Rat
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 ##### Primordial Storm: Rat Flood
 
@@ -10436,7 +10436,7 @@ Your primordial damage type is corruption.
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
-- **[Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) Bonus:** +1
+- **[Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) Bonus:** +1
 
 ##### Signature Ability
 
@@ -10458,26 +10458,26 @@ Your primordial damage type is corruption.
 
 ##### Growing Ferocity
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Raden [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Raden [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                   |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                           | Whenever you use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.                                                        |
+| 2                                                                                           | Whenever you use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, the distance you can shift gains a bonus equal to your Agility score.                                                        |
 | 4                                                                                           | The first time you shift on a turn, you gain 1 surge.                                                                                                                                                                                                     |
-| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.      |
+| 6                                                                                           | You gain an edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.      |
 | 8 (4th level)                                                                               | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                                                                                                                                       |
-| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests, the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver, and the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver |
 | 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you.                                                                                                         |
 
 #### Vuken
 
-With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level%20Features/Primordial%20Ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this stormwight kit, you channel your [primordial ferocity](../Browse/Features/Fury/10th-Level Features/Primordial Ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 ##### Aspect Benefits
 
-Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can then use the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid%20Attack.md) maneuver as a free triggered action.
+Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can then use the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver as a free triggered action.
 
 ##### Animal Form: Wolf
 
@@ -10496,7 +10496,7 @@ Your primordial damage type is lightning.
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
-- **[Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) Bonus:** +1
+- **[Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) Bonus:** +1
 
 ##### Signature Ability
 
@@ -10516,11 +10516,11 @@ Your primordial damage type is lightning.
 
 ##### Growing Ferocity
 
-As your [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) grows, you gain benefits as noted on the Vuken [Growing Ferocity](../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Vuken [Growing Ferocity](../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 
-| [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) | Benefit                                                                                                                                                                                                                          |
+| [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                           | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can target one additional creature.                                                                     |
 | 4                                                                                           | The first time on a turn that you push a creature or knock a creature [prone](../Browse/Conditions/Prone.md), you gain 1 surge.                                                                           |
@@ -10566,16 +10566,16 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Abilities                     | Tradition Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, [Discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md), Null Field, [Inertial Shield](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md), [Discipline Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md), Null Speed, [Psionic Augmentation](../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation.md), [Psionic Martial Arts](../Browse/Features/Null/1st-Level%20Features/Psionic%20Martial%20Arts.md), Null Abilities | Two signature, 3, 5           | -                   |
+| 1st   | Null Tradition, [Discipline](../Browse/Features/Null/1st-Level Features/Discipline.md), Null Field, [Inertial Shield](../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md), [Discipline Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery.md), Null Speed, [Psionic Augmentation](../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md), [Psionic Martial Arts](../Browse/Features/Null/1st-Level Features/Psionic Martial Arts.md), Null Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5           | 5                   |
-| 3rd   | [Psionic Leap](../Browse/Features/Null/3rd-Level%20Features/Psionic%20Leap.md), [Reorder](../Browse/Features/Null/3rd-Level%20Features/Reorder.md), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../Browse/Features/Null/4th-Level%20Features/Characteristic%20Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement.md), Enhanced Null Field, Perk, [Regenerative Field](../Browse/Features/Null/4th-Level%20Features/Regenerative%20Field.md), Skill                                                                                                                                                                                                              | Two signature, 3, 5, 7        | 5                   |
+| 3rd   | [Psionic Leap](../Browse/Features/Null/3rd-Level Features/Psionic Leap.md), [Reorder](../Browse/Features/Null/3rd-Level Features/Reorder.md), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../Browse/Features/Null/4th-Level Features/Characteristic Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md), Enhanced Null Field, Perk, [Regenerative Field](../Browse/Features/Null/4th-Level Features/Regenerative Field.md), Skill                                                                                                                                                                                                              | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Elemental Absorption](../Browse/Features/Null/6th-Level%20Features/Elemental%20Absorption.md), [Elemental Buffer](../Browse/Features/Null/6th-Level%20Features/Elemental%20Buffer.md), Perk, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../Browse/Features/Null/7th-Level%20Features/Characteristic%20Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement.md), [Psi Boost](../Browse/Features/Null/7th-Level%20Features/Psi%20Boost.md), [Improved Body](../Browse/Features/Null/7th-Level%20Features/Improved%20Body.md), Skill                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 6th   | [Elemental Absorption](../Browse/Features/Null/6th-Level Features/Elemental Absorption.md), [Elemental Buffer](../Browse/Features/Null/6th-Level Features/Elemental Buffer.md), Perk, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../Browse/Features/Null/7th-Level Features/Characteristic Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md), [Psi Boost](../Browse/Features/Null/7th-Level Features/Psi Boost.md), [Improved Body](../Browse/Features/Null/7th-Level Features/Improved Body.md), Skill                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [I Am the Weapon](../Browse/Features/Null/9th-Level%20Features/I%20Am%20the%20Weapon.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../Browse/Features/Null/10th-Level%20Features/Characteristic%20Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level%20Features/Discipline%20Mastery%20Improvement.md), [Manifold Body](../Browse/Features/Null/10th-Level%20Features/Manifold%20Body.md), [Manifold Resonance](../Browse/Features/Null/10th-Level%20Features/Manifold%20Resonance.md), [Order](../Browse/Features/Null/10th-Level%20Features/Order.md), Perk, Skill                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [I Am the Weapon](../Browse/Features/Null/9th-Level Features/I Am the Weapon.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../Browse/Features/Null/10th-Level Features/Characteristic Increase.md), [Discipline Mastery Improvement](../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md), [Manifold Body](../Browse/Features/Null/10th-Level Features/Manifold Body.md), [Manifold Resonance](../Browse/Features/Null/10th-Level Features/Manifold Resonance.md), [Order](../Browse/Features/Null/10th-Level Features/Order.md), Perk, Skill                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -10593,21 +10593,21 @@ Your null tradition is your subclass, and your choice of tradition determines ma
 
 #### Discipline
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../Browse/Features/Null/1st-Level%20Features/Discipline/Discipline%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../Browse/Features/Null/1st-Level Features/Discipline/Discipline Outside of Combat.md), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../Browse/Classes/Null.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../Browse/Classes/Null.md), but they might appear in future products.)
 
 #### Null Field
 
@@ -10653,21 +10653,21 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) you spend during your turn.
+As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) you spend during your turn.
 
-Some [Discipline Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action.
 
-Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Chronokinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| [Discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                                                     |
+| [Discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                               | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action either before or after the maneuver. |
+| 2                                                                                               | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action either before or after the maneuver. |
 | 4                                                                                               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
 | 6                                                                                               | You gain an edge on the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                                                    |
 | 8 (4th level)                                                                                   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
@@ -10676,13 +10676,13 @@ Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can then use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Cryokinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                       |
+| [Discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4                                                                                               | The first time on a turn that you [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
@@ -10693,13 +10693,13 @@ Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can then use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
+| [Discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
 | 4                                                                                               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
@@ -10710,11 +10710,11 @@ Additionally, as your [discipline](../Browse/Features/Null/1st-Level%20Features/
 
 #### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action equal to your Agility score.
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation.md).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Speed Augmentation.md).)
 
 ##### Density Augmentation
 
@@ -10726,7 +10726,7 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 #### Psionic Martial Arts
 
@@ -10738,7 +10738,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../Browse/Abilities/Null/1st-Level%20Features/Faster%20Than%20the%20Eye.md), [Inertial Step](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Step.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md), [Inertial Step](../Browse/Abilities/Null/1st-Level Features/Inertial Step.md).)
 
 <!-- -->
 > ######## Dance of Blows
@@ -10870,7 +10870,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 ###### 3-Discipline Ability
 
@@ -10891,7 +10891,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ######## Psychic Pulse (3 Discipline)
@@ -11006,7 +11006,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
 
 ### 2nd-Level Features
 
@@ -11024,13 +11024,13 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing.md)           |
-| Cryokinetic   | [Entropic Adaptability](../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability.md) |
-| Metakinetic   | [Inertial Sink](../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink.md)                 |
+| Chronokinetic | [Rapid Processing](../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md)           |
+| Cryokinetic   | [Entropic Adaptability](../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md) |
+| Metakinetic   | [Inertial Sink](../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md)                 |
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 ##### Inertial Sink
 
@@ -11212,7 +11212,7 @@ Your Agility and Intuition scores each increase to 3.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) feature provides additional benefits when you have 8 or more [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Your [Discipline Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 8 or more [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 #### Enhanced Null Field
 
@@ -11242,9 +11242,9 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                           |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../Browse/Features/Null/5th-Level%20Features/Instant%20Action.md)         |
-| Cryokinetic   | [Chilling Readiness](../Browse/Features/Null/5th-Level%20Features/Chilling%20Readiness.md) |
-| Metakinetic   | [Inertial Fulcrum](../Browse/Features/Null/5th-Level%20Features/Inertial%20Fulcrum.md)     |
+| Chronokinetic | [Instant Action](../Browse/Features/Null/5th-Level Features/Instant Action.md)         |
+| Cryokinetic   | [Chilling Readiness](../Browse/Features/Null/5th-Level Features/Chilling Readiness.md) |
+| Metakinetic   | [Inertial Fulcrum](../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md)     |
 
 #### Chilling Readiness
 
@@ -11296,7 +11296,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../Browse/Conditions/Grabbed.md)
 > - **17+:** 18 + A damage; A < STRONG, [grabbed](../Browse/Conditions/Grabbed.md)
 >
-> **Effect:** While [grabbed](../Browse/Conditions/Grabbed.md) this way, the target takes a bane on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../Browse/Conditions/Grabbed.md) this way, the target takes a bane on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ######## Phase Leap (9 Discipline)
@@ -11326,7 +11326,7 @@ As a 6th-level [null](../Browse/Classes/Null.md), you gain the following feature
 
 #### Elemental Absorption
 
-Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
 #### Elemental Buffer
 
@@ -11446,11 +11446,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) feature provides additional benefits when you have 10 or more [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Your [Discipline Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 10 or more [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to it and enhance its effects. A [psi boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../Browse/Features/Talent/6th-Level Features/Psi Boost.md).
 
 ##### Dynamic Power (1 Discipline)
 
@@ -11482,7 +11482,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### Improved Body
 
-When you gain [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) at the start of each of your turns during combat, you gain 3 discipline instead of 2.
+When you gain [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) at the start of each of your turns during combat, you gain 3 discipline instead of 2.
 
 #### Skill
 
@@ -11504,9 +11504,9 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum.md)     |
-| Cryokinetic   | [Synaptic Triage](../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage.md)     |
-| Metakinetic   | [Inertial Dampener](../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener.md) |
+| Chronokinetic | [Shared Momentum](../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Shared Momentum.md)     |
+| Cryokinetic   | [Synaptic Triage](../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Synaptic Triage.md)     |
+| Metakinetic   | [Inertial Dampener](../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Inertial Dampener.md) |
 
 ##### Inertial Dampener
 
@@ -11514,7 +11514,7 @@ You and each creature or object of your choice in the area of your Null Field ab
 
 ##### Shared Momentum
 
-When you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
@@ -11716,25 +11716,25 @@ Your Agility and Intuition scores each increase to 5.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) feature provides additional benefits when you have 12 or more [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Your [Discipline Mastery](../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 12 or more [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 #### Manifold Body
 
-When you gain [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md) at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+When you gain [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md) at the start of each of your turns during combat, you gain 4 discipline instead of 3.
 
 #### Manifold Resonance
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your Null Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md) feature to that ability. Additionally, you and allies in the area of your Null Field ability ignore banes and double banes on your power rolls.
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 
-[Order](../Browse/Features/Null/10th-Level%20Features/Order.md) remains until you spend it.
+[Order](../Browse/Features/Null/10th-Level Features/Order.md) remains until you spend it.
 
 #### Perk
 
@@ -11746,7 +11746,7 @@ You gain one skill of your choice.
 
 ## Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) into your enemies' weaknesses.
 
 **As a [shadow](../Browse/Classes/Shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
@@ -11779,16 +11779,16 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | College Abilities |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | [Shadow](../Browse/Classes/Shadow.md) College, [Insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md), College Features, [College Triggered Action](../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md), [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md), Kit, Shadow Abilities                                                                                                                                                        | Signature, 3, 5           | -                 |
+| 1st   | [Shadow](../Browse/Classes/Shadow.md) College, [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md), College Features, [College Triggered Action](../Browse/Features/Shadow/1st-Level Features/College Triggered Action.md), [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level Features/Hesitation Is Weakness.md), Kit, Shadow Abilities                                                                                                                                                        | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | [Careful Observation](../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md), 7-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7        | 5                 |
-| 4th   | [Characteristic Increase](../Browse/Features/Shadow/4th-Level%20Features/Characteristic%20Increase.md), [Keep It Down](../Browse/Features/Shadow/4th-Level%20Features/Keep%20It%20Down.md), [Night Watch](../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch.md), Perk, Skill, [Surge of Insight](../Browse/Features/Shadow/4th-Level%20Features/Surge%20of%20Insight.md)                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
+| 3rd   | [Careful Observation](../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md), 7-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7        | 5                 |
+| 4th   | [Characteristic Increase](../Browse/Features/Shadow/4th-Level Features/Characteristic Increase.md), [Keep It Down](../Browse/Features/Shadow/4th-Level Features/Keep It Down.md), [Night Watch](../Browse/Abilities/Shadow/4th-Level Features/Night Watch.md), Perk, Skill, [Surge of Insight](../Browse/Features/Shadow/4th-Level Features/Surge of Insight.md)                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
 | 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, [Umbral Form](../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | [Characteristic Increase](../Browse/Features/Shadow/7th-Level%20Features/Characteristic%20Increase.md), [Keen Insight](../Browse/Features/Shadow/7th-Level%20Features/Keen%20Insight.md), Skill, [Careful Observation Improvement](../Browse/Features/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement.md), [Ventriloquist](../Browse/Features/Shadow/7th-Level%20Features/Ventriloquist.md)                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
+| 6th   | Perk, [Umbral Form](../Browse/Features/Shadow/6th-Level Features/Umbral Form.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | [Characteristic Increase](../Browse/Features/Shadow/7th-Level Features/Characteristic Increase.md), [Keen Insight](../Browse/Features/Shadow/7th-Level Features/Keen Insight.md), Skill, [Careful Observation Improvement](../Browse/Features/Shadow/7th-Level Features/Careful Observation Improvement.md), [Ventriloquist](../Browse/Features/Shadow/7th-Level Features/Ventriloquist.md)                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
 | 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | [Gloom Squad](../Browse/Features/Shadow/9th-Level%20Features/Gloom%20Squad.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | [Characteristic Increase](../Browse/Features/Shadow/10th-Level%20Features/Characteristic%20Increase.md), [Death Pool](../Browse/Features/Shadow/10th-Level%20Features/Death%20Pool.md), Perk, Skill, [Careful Observation Improvement](../Browse/Features/Shadow/10th-Level%20Features/Careful%20Observation%20Improvement.md), [Improved Umbral Form](../Browse/Features/Shadow/10th-Level%20Features/Improved%20Umbral%20Form.md), [Subterfuge](../Browse/Features/Shadow/10th-Level%20Features/Subterfuge.md) | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 9th   | [Gloom Squad](../Browse/Features/Shadow/9th-Level Features/Gloom Squad.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | [Characteristic Increase](../Browse/Features/Shadow/10th-Level Features/Characteristic Increase.md), [Death Pool](../Browse/Features/Shadow/10th-Level Features/Death Pool.md), Perk, Skill, [Careful Observation Improvement](../Browse/Features/Shadow/10th-Level Features/Careful Observation Improvement.md), [Improved Umbral Form](../Browse/Features/Shadow/10th-Level Features/Improved Umbral Form.md), [Subterfuge](../Browse/Features/Shadow/10th-Level Features/Subterfuge.md) | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
@@ -11808,13 +11808,13 @@ Your [shadow](../Browse/Classes/Shadow.md) college is your subclass, and your ch
 
 #### Insight
 
-By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
@@ -11822,9 +11822,9 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../Browse/Features/Shadow/1st-Level Features/Insight/Insight Outside of Combat.md), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../Browse/Movement/Teleport.md), you can use it as if you had spent an amount of [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../Browse/Movement/Teleport.md), you can use it as if you had spent an amount of [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) equal to your Victories.
 
 #### 1st-Level College Features
 
@@ -11834,8 +11834,8 @@ Your [shadow](../Browse/Classes/Shadow.md) college grants you one or two feature
 
 | College         | Feature                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport.md)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade.md), [Smoke Bomb](../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) |
+| Black Ash       | [Black Ash Teleport](../Browse/Abilities/Shadow/1st-Level Features/Black Ash Teleport.md)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md), [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
@@ -11885,7 +11885,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, you gain a +1 bonus to the distance you can shift.
 >
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 >
@@ -11893,18 +11893,18 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) to use for distractions and easy getaways. You can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md) to use for distractions and easy getaways. You can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
-Your [shadow](../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md) table.
+Your [shadow](../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../Browse/Features/Shadow/1st-Level Features/College Triggered Action.md) table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [In All This Confusion](../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) |
-| Caustic Alchemy | [Defensive Roll](../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md)                   |
+| Black Ash       | [In All This Confusion](../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md)                   |
 | Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->
@@ -11969,7 +11969,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../Browse/Kits/Cloak%20and%20Dagger.md).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../Browse/Kits/Cloak and Dagger.md).)
 
 #### Shadow Abilities
 
@@ -11977,7 +11977,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place.md).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../Browse/Abilities/Shadow/1st-Level Features/Teamwork Has Its Place.md).)
 
 <!-- -->
 > ######## Gasping in Pain
@@ -12049,7 +12049,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
 ###### 3-Insight Ability
 
@@ -12197,8 +12197,8 @@ Your [shadow](../Browse/Classes/Shadow.md) college grants you a feature, as show
 
 | College         | Feature                                                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash.md)           |
-| Caustic Alchemy | [Trained Assassin](../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin.md) |
+| Black Ash       | [Burning Ash](../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md)           |
+| Caustic Alchemy | [Trained Assassin](../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Trained Assassin.md) |
 | Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
@@ -12209,7 +12209,7 @@ The ash you leave behind burns your foes. The first time on a turn that you use 
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as part of that ability.
+Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as part of that ability.
 
 ##### Trained Assassin
 
@@ -12247,9 +12247,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability.
+> **Trigger:** You use your [In All This Confusion](../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability. Before you [teleport](../Browse/Movement/Teleport.md), you can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature who damaged you to trigger [In All This Confusion](../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md). After you [teleport](../Browse/Movement/Teleport.md), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability. Before you [teleport](../Browse/Movement/Teleport.md), you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature who damaged you to trigger [In All This Confusion](../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md). After you [teleport](../Browse/Movement/Teleport.md), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -12321,7 +12321,7 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
@@ -12355,7 +12355,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action.
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action.
 
 <!-- -->
 > ######## Misdirecting Strike (7 Insight)
@@ -12459,15 +12459,15 @@ Your [shadow](../Browse/Classes/Shadow.md) college grants you a feature, as show
 
 | College         | Feature                                                                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders.md) |
-| Caustic Alchemy | [Volatile Reagents](../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents.md) |
-| Harlequin Mask  | [Harlequin Gambit](../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit.md)   |
+| Black Ash       | [Trail of Cinders](../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md) |
+| Caustic Alchemy | [Volatile Reagents](../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Volatile Reagents.md) |
+| Harlequin Mask  | [Harlequin Gambit](../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md)   |
 
 ##### Harlequin Gambit
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
@@ -12479,7 +12479,7 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../Browse/Movement/Fly.md), you fall.
+Additionally, your [Defensive Roll](../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../Browse/Movement/Fly.md), you fall.
 
 #### 9-Insight Ability
 
@@ -12494,7 +12494,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 > | --------------- | -------------: |
 > | **📏 3 burst**  | **🎯 Special** |
 >
-> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 
 <!-- -->
 > ######## Into the Shadows (9 Insight)
@@ -12559,7 +12559,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+- You can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -12665,11 +12665,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
 ### 7th-Level Features
 
@@ -12689,7 +12689,7 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your [Careful Observation](../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
 #### Ventriloquist
 
@@ -12711,17 +12711,17 @@ Your [shadow](../Browse/Classes/Shadow.md) college grants you a feature, as show
 
 | College         | Feature                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step.md) |
-| Caustic Alchemy | [Time Bomb](../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb.md)                                  |
-| Harlequin Mask  | [Parkour](../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour.md)           |
+| Black Ash       | [Cinder Step](../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Cinder Step.md) |
+| Caustic Alchemy | [Time Bomb](../Browse/Abilities/Shadow/8th-Level Features/Time Bomb.md)                                  |
+| Harlequin Mask  | [Parkour](../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Parkour.md)           |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../Browse/Movement/Teleport.md). When you [teleport](../Browse/Movement/Teleport.md) this way, it counts as using a [shadow](../Browse/Classes/Shadow.md) ability for the purpose of using your [Burning Ash](../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash.md) and [Trail of Cinders](../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders.md) features.
+Whenever you willingly move, you can [teleport](../Browse/Movement/Teleport.md). When you [teleport](../Browse/Movement/Teleport.md) this way, it counts as using a [shadow](../Browse/Classes/Shadow.md) ability for the purpose of using your [Burning Ash](../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md) and [Trail of Cinders](../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 
@@ -12810,7 +12810,7 @@ As a 9th-level [shadow](../Browse/Classes/Shadow.md), you gain the following fea
 
 #### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) and can't use the [Careful Observation](../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability, the [Umbral Form](../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). While making a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) and can't use the [Careful Observation](../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md) ability, the [Umbral Form](../Browse/Features/Shadow/6th-Level Features/Umbral Form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). While making a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -12948,21 +12948,21 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability.
+You can target three creatures simultaneously with your [Careful Observation](../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md) ability.
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](../Browse/Classes/Shadow.md) creature you become with your [Umbral Form](../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../Browse/Classes/Shadow.md) creature you become with your [Umbral Form](../Browse/Features/Shadow/6th-Level Features/Umbral Form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../Browse/Movement/Teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../Browse/Movement/Teleport.md) this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../Browse/Features/Shadow/6th-Level Features/Umbral Form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../Browse/Movement/Teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../Browse/Movement/Teleport.md) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 
-[Subterfuge](../Browse/Features/Shadow/10th-Level%20Features/Subterfuge.md) remains until you spend it.
+[Subterfuge](../Browse/Features/Shadow/10th-Level Features/Subterfuge.md) remains until you spend it.
 
 ## Tactician
 
@@ -13001,16 +13001,16 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Abilities      | Doctrine Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | [Tactical Doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md), [Focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md), Doctrine Feature, [Doctrine Triggered Action](../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action.md), [Field Arsenal](../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal.md), [Mark](../Browse/Features/Tactician/1st-Level%20Features/Mark.md), [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md), [Tactician](../Browse/Classes/Tactician.md) Abilities | 3, 5           | -                  |
+| 1st   | [Tactical Doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md), [Focus](../Browse/Features/Tactician/1st-Level Features/Focus.md), Doctrine Feature, [Doctrine Triggered Action](../Browse/Features/Tactician/1st-Level Features/Doctrine Triggered Action.md), [Field Arsenal](../Browse/Features/Tactician/1st-Level Features/Field Arsenal.md), [Mark](../Browse/Features/Tactician/1st-Level Features/Mark.md), [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md), [Tactician](../Browse/Classes/Tactician.md) Abilities | 3, 5           | -                  |
 | 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5           | 5                  |
-| 3rd   | [Out of Position](../Browse/Features/Tactician/3rd-Level%20Features/Out%20of%20Position.md), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 3, 5, 7        | 5                  |
-| 4th   | [Characteristic Increase](../Browse/Features/Tactician/4th-Level%20Features/Characteristic%20Increase.md), Focus on Their Weakness, [Improved Field Arsenal](../Browse/Features/Tactician/4th-Level%20Features/Improved%20Field%20Arsenal.md), Perk, Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7        | 5                  |
+| 3rd   | [Out of Position](../Browse/Features/Tactician/3rd-Level Features/Out of Position.md), 7-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 3, 5, 7        | 5                  |
+| 4th   | [Characteristic Increase](../Browse/Features/Tactician/4th-Level Features/Characteristic Increase.md), Focus on Their Weakness, [Improved Field Arsenal](../Browse/Features/Tactician/4th-Level Features/Improved Field Arsenal.md), Perk, Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7        | 5                  |
 | 5th   | Doctrine Feature, 9-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 3, 5, 7, 9     | 5                  |
-| 6th   | [Master of Arms](../Browse/Features/Tactician/6th-Level%20Features/Master%20of%20Arms.md), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7, 9     | 5, 9               |
-| 7th   | [Characteristic Increase](../Browse/Features/Tactician/7th-Level%20Features/Characteristic%20Increase.md), [Heightened Focus](../Browse/Features/Tactician/7th-Level%20Features/Heightened%20Focus.md), [Seize the Initiative](../Browse/Features/Tactician/7th-Level%20Features/Seize%20the%20Initiative.md), Skill, Doctrine Feature                                                                                                                                                                                                                                                                                                                                                               | 3, 5, 7, 9     | 5, 9               |
+| 6th   | [Master of Arms](../Browse/Features/Tactician/6th-Level Features/Master of Arms.md), Perk, Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7, 9     | 5, 9               |
+| 7th   | [Characteristic Increase](../Browse/Features/Tactician/7th-Level Features/Characteristic Increase.md), [Heightened Focus](../Browse/Features/Tactician/7th-Level Features/Heightened Focus.md), [Seize the Initiative](../Browse/Features/Tactician/7th-Level Features/Seize the Initiative.md), Skill, Doctrine Feature                                                                                                                                                                                                                                                                                                                                                               | 3, 5, 7, 9     | 5, 9               |
 | 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | [Grandmaster of Arms](../Browse/Features/Tactician/9th-Level%20Features/Grandmaster%20of%20Arms.md), Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | [Characteristic Increase](../Browse/Features/Tactician/10th-Level%20Features/Characteristic%20Increase.md), [Command](../Browse/Features/Tactician/10th-Level%20Features/Command.md), Perk, Skill, [True Focus](../Browse/Features/Tactician/10th-Level%20Features/True%20Focus.md), [Warmaster](../Browse/Features/Tactician/10th-Level%20Features/Warmaster.md)                                                                                                                                                                                                                                                                                                             | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 9th   | [Grandmaster of Arms](../Browse/Features/Tactician/9th-Level Features/Grandmaster of Arms.md), Doctrine Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | [Characteristic Increase](../Browse/Features/Tactician/10th-Level Features/Characteristic Increase.md), [Command](../Browse/Features/Tactician/10th-Level Features/Command.md), Perk, Skill, [True Focus](../Browse/Features/Tactician/10th-Level Features/True Focus.md), [Warmaster](../Browse/Features/Tactician/10th-Level Features/Warmaster.md)                                                                                                                                                                                                                                                                                                             | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ### 1st-Level Features
 
@@ -13018,31 +13018,31 @@ As a 1st-level [tactician](../Browse/Classes/Tactician.md), you gain the followi
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
 - **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md).
+The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md).
 
 ##### Focus in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md).
 
-Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../Browse/Features/Tactician/1st-Level%20Features/Mark.md) below), you gain 1 [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md).
+Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../Browse/Features/Tactician/1st-Level Features/Mark.md) below), you gain 1 [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md).
 
 You lose any remaining focus at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md) outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md) outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md) equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../Browse/Classes/Tactician.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md) equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../Browse/Classes/Tactician.md), but they might appear in future products.)
 
 <!-- -->
 > **[Tactician](../Browse/Classes/Tactician.md) Abilities Explained**
@@ -13051,15 +13051,15 @@ When you use an ability outside of combat that lets you spend unlimited focus on
 
 #### 1st-Level Doctrine Feature
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations.md)     |
-| Mastermind | [Studied Commander](../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander.md)     |
-| Vanguard   | [Commanding Presence](../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence.md) |
+| Insurgent  | [Covert Operations](../Browse/Features/Tactician/1st-Level Features/1st-Level Doctrine Feature/Covert Operations.md)     |
+| Mastermind | [Studied Commander](../Browse/Features/Tactician/1st-Level Features/1st-Level Doctrine Feature/Studied Commander.md)     |
+| Vanguard   | [Commanding Presence](../Browse/Features/Tactician/1st-Level Features/1st-Level Doctrine Feature/Commanding Presence.md) |
 
 ##### Commanding Presence
 
@@ -13091,15 +13091,15 @@ You can make this test only once for any encounter or negotiation.
 
 #### Doctrine Triggered Action
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../Browse/Features/Tactician/1st-Level%20Features/Doctrine%20Triggered%20Action.md) table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a triggered action, as shown on the [Doctrine Triggered Actions](../Browse/Features/Tactician/1st-Level Features/Doctrine Triggered Action.md) table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Advanced Tactics](../Browse/Abilities/Tactician/1st-Level%20Features/Advanced%20Tactics.md) |
-| Mastermind | [Overwatch](../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch.md)                 |
-| Vanguard   | [Parry](../Browse/Abilities/Tactician/1st-Level%20Features/Parry.md)                         |
+| Insurgent  | [Advanced Tactics](../Browse/Abilities/Tactician/1st-Level Features/Advanced Tactics.md) |
+| Mastermind | [Overwatch](../Browse/Abilities/Tactician/1st-Level Features/Overwatch.md)                 |
+| Vanguard   | [Parry](../Browse/Abilities/Tactician/1st-Level Features/Parry.md)                         |
 
 <!-- -->
 > ######## Advanced Tactics
@@ -13127,7 +13127,7 @@ Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tacti
 >
 > **Trigger:** The target moves.
 >
-> **Effect:** At any time during the target's movement, one ally can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+> **Effect:** At any time during the target's movement, one ally can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 >
 > **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../Browse/Conditions/Slowed.md) (EoT).
 
@@ -13148,11 +13148,11 @@ Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tacti
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../Browse/Kits/Shining%20Armor.md), [Sniper](../Browse/Kits/Sniper.md).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../Browse/Kits/Shining Armor.md), [Sniper](../Browse/Kits/Sniper.md).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](../Browse/Kits/Shining%20Armor.md) and [Sniper](../Browse/Kits/Sniper.md) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../Browse/Kits/Shining Armor.md) and [Sniper](../Browse/Kits/Sniper.md) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - [Stability](../Browse/Movement/Stability.md) Bonus: +1
@@ -13160,10 +13160,10 @@ For example, if you take the [Shining Armor](../Browse/Kits/Shining%20Armor.md) 
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
 - Ranged Distance Bonus: +10
-- [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) Bonus: +1
+- [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-[Kit signature abilities](../Browse/Features/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability.md) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../Browse/Kits/Martial%20Artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../Browse/Kits/Mountain.md) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../Browse/Kits/Mountain.md) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../Browse/Kits/Martial%20Artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../Browse/Kits/Mountain.md) kit to deal 3/6/13 damage.
+[Kit signature abilities](../Browse/Features/Tactician/1st-Level Features/Tactician Abilities/Kit Signature Ability.md) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../Browse/Kits/Martial Artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../Browse/Kits/Mountain.md) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../Browse/Kits/Mountain.md) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../Browse/Kits/Martial Artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../Browse/Kits/Mountain.md) kit to deal 3/6/13 damage.
 
 #### Mark
 
@@ -13180,7 +13180,7 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../Browse/Classes/Tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](../Browse/Classes/Tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md)'s [Anticipation](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially mark only one creature using this ability, though other [tactician](../Browse/Classes/Tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md)'s [Anticipation](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
 >
 > While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 >
@@ -13214,7 +13214,7 @@ You are a formidable combatant in your own right, but your greatest strength is 
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../Browse/Features/Tactician/1st-Level%20Features/Field%20Arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../Browse/Features/Tactician/1st-Level Features/Field Arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
 
 ##### Heroic Abilities
 
@@ -13329,7 +13329,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 Three allies** |
 >
-> **Effect:** Each target can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> **Effect:** Each target can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## This Is What We Planned For (5 Focus)
@@ -13352,15 +13352,15 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics.md) |
-| Mastermind | [Goaded](../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded.md)                               |
-| Vanguard   | [Melee Superiority](../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority.md)       |
+| Insurgent  | [Infiltration Tactics](../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Infiltration Tactics.md) |
+| Mastermind | [Goaded](../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Goaded.md)                               |
+| Vanguard   | [Melee Superiority](../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Melee Superiority.md)       |
 
 ##### Goaded
 
@@ -13374,11 +13374,11 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you can use a free triggered action and spend 2 focus to make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), you can use a free triggered action and spend 2 focus to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against that creature.
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 
@@ -13393,9 +13393,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ######## Try Me Instead (5 Focus)
@@ -13488,7 +13488,7 @@ As a 3rd-level [tactician](../Browse/Classes/Tactician.md), you gain the followi
 
 #### Out of Position
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your [Mark](../Browse/Features/Tactician/1st-Level%20Features/Mark.md) ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring [stability](../Browse/Movement/Stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your [Mark](../Browse/Features/Tactician/1st-Level Features/Mark.md) ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring [stability](../Browse/Movement/Stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 #### 7-Focus Ability
 
@@ -13503,7 +13503,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Hit 'Em Hard! (7 Focus)
@@ -13552,7 +13552,7 @@ The first time each combat round that you or any ally damages a target marked by
 
 #### Improved Field Arsenal
 
-Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using a weapon from one of your equipped kits, you gain an edge.
+Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using a weapon from one of your equipped kits, you gain an edge.
 
 #### Perk
 
@@ -13568,19 +13568,19 @@ As a 5th-level [tactician](../Browse/Classes/Tactician.md), you gain the followi
 
 #### 5th-Level Doctrine Features
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table
 
 | Doctrine   | Features                                                                                                                                                                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Distracted](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Distracted.md), [Leave No Trace](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Leave%20No%20Trace.md)               |
-| Mastermind | [Anticipation](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Anticipation.md), [I Predicted That](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/I%20Predicted%20That.md)       |
-| Vanguard   | [Shake It Off](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Shake%20It%20Off.md), [Tactical Offensive](../Browse/Features/Tactician/5th-Level%20Features/5th-Level%20Doctrine%20Features/Tactical%20Offensive.md) |
+| Insurgent  | [Distracted](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Distracted.md), [Leave No Trace](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Leave No Trace.md)               |
+| Mastermind | [Anticipation](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Anticipation.md), [I Predicted That](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/I Predicted That.md)       |
+| Vanguard   | [Shake It Off](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Shake It Off.md), [Tactical Offensive](../Browse/Features/Tactician/5th-Level Features/5th-Level Doctrine Features/Tactical Offensive.md) |
 
 ##### Anticipation
 
-You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../Browse/Features/Tactician/1st-Level%20Features/Mark.md) ability.
+You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../Browse/Features/Tactician/1st-Level Features/Mark.md) ability.
 
 ##### Distracted
 
@@ -13600,7 +13600,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 ##### Tactical Offensive
 
-When you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+When you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 #### 9-Focus Ability
 
@@ -13662,7 +13662,7 @@ As a 6th-level [tactician](../Browse/Classes/Tactician.md), you gain the followi
 
 #### Master of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
 
 #### Perk
 
@@ -13670,7 +13670,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Doctrine Ability
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Insurgent Abilities
 
@@ -13704,7 +13704,7 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; slide 3
 > - **17+:** 13 + M damage; slide 5
 >
-> **Effect:** If a target is force moved into another creature, they must make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against that creature.
+> **Effect:** If a target is force moved into another creature, they must make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against that creature.
 
 ##### 6th-Level Mastermind Abilities
 
@@ -13762,15 +13762,15 @@ Choose one of the following abilities.
 >
 > *You lead your allies in a charge.*
 >
-> | **[Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
+> | **[Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 > | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md)
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md)
-> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md)
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) for the [charge](../Browse/Abilities/Common/Main Actions/Charge.md)
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) for the [charge](../Browse/Abilities/Common/Main Actions/Charge.md)
+> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) for the [charge](../Browse/Abilities/Common/Main Actions/Charge.md)
 >
 > **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../Browse/Conditions/Dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -13784,7 +13784,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Heightened Focus
 
-When you gain [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md) at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md) at the start of each of your turns during combat, you gain 3 focus instead of 2.
 
 #### Seize the Initiative
 
@@ -13796,15 +13796,15 @@ You gain one skill of your choice.
 
 #### 7th-Level Doctrine Feature
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20Warfare.md) |
-| Mastermind | [Grand Strategy](../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20Strategy.md)         |
-| Vanguard   | [Shock and Awe](../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20Awe.md)         |
+| Insurgent  | [Asymmetric Warfare](../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Asymmetric Warfare.md) |
+| Mastermind | [Grand Strategy](../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Grand Strategy.md)         |
+| Vanguard   | [Shock and Awe](../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Shock and Awe.md)         |
 
 ##### Asymmetric Warfare
 
@@ -13828,15 +13828,15 @@ You gain one perk of your choice.
 
 #### 8th-Level Doctrine Feature
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Bait and Ambush](../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush.md)                                             |
-| Mastermind | [Pincer Movement](../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/Pincer%20Movement.md)                                               |
-| Vanguard   | [See Your Enemies Driven Before You](../Browse/Features/Tactician/8th-Level%20Features/8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You.md) |
+| Insurgent  | [Bait and Ambush](../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Bait and Ambush.md)                                             |
+| Mastermind | [Pincer Movement](../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/Pincer Movement.md)                                               |
+| Vanguard   | [See Your Enemies Driven Before You](../Browse/Features/Tactician/8th-Level Features/8th-Level Doctrine Feature/See Your Enemies Driven Before You.md) |
 
 ##### Bait and Ambush
 
@@ -13918,11 +13918,11 @@ As a 9th-level [tactician](../Browse/Classes/Tactician.md), you gain the followi
 
 #### Grandmaster of Arms
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 
@@ -13969,7 +13969,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can make a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). A target ignores banes and double banes when making this strike.
+> **Effect:** Each target can make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). A target ignores banes and double banes when making this strike.
 
 <!-- -->
 > ######## Counterstrategy (11 Focus)
@@ -13991,7 +13991,7 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **[Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
+> | **[Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 > | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
@@ -14003,7 +14003,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md).
+> **Effect:** If you use this ability as part of the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../Browse/Abilities/Common/Main Actions/Charge.md).
 
 <!-- -->
 > ######## That One Is Mine! (11 Focus)
@@ -14022,7 +14022,7 @@ Choose one of the following abilities.
 > - **12-16:** 13 + M damage
 > - **17+:** 17 + M damage
 >
-> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against any target marked by you.
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against any target marked by you.
 
 ### 10th-Level Features
 
@@ -14034,11 +14034,11 @@ Your Might and Reason scores each increase to 5.
 
 #### Command
 
-You have an epic resource called [command](../Browse/Features/Tactician/10th-Level%20Features/Command.md). Each time you finish a respite, you gain [command](../Browse/Features/Tactician/10th-Level%20Features/Command.md) equal to the XP you gain. You can spend [command](../Browse/Features/Tactician/10th-Level%20Features/Command.md) on your abilities as if it were [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md).
+You have an epic resource called [command](../Browse/Features/Tactician/10th-Level Features/Command.md). Each time you finish a respite, you gain [command](../Browse/Features/Tactician/10th-Level Features/Command.md) equal to the XP you gain. You can spend [command](../Browse/Features/Tactician/10th-Level Features/Command.md) on your abilities as if it were [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md).
 
 Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
 
-[Command](../Browse/Features/Tactician/10th-Level%20Features/Command.md) remains until you spend it.
+[Command](../Browse/Features/Tactician/10th-Level Features/Command.md) remains until you spend it.
 
 #### Perk
 
@@ -14050,7 +14050,7 @@ You gain one skill of your choice.
 
 #### True Focus
 
-When you gain [focus](../Browse/Features/Tactician/1st-Level%20Features/Focus.md) at the start of each of your turns during combat, you gain 4 focus instead of 3.
+When you gain [focus](../Browse/Features/Tactician/1st-Level Features/Focus.md) at the start of each of your turns during combat, you gain 4 focus instead of 3.
 
 #### Warmaster
 
@@ -14095,16 +14095,16 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Abilities                     | Tradition Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Talent](../Browse/Classes/Talent.md) Tradition, [Clarity and Strain](../Browse/Features/Talent/1st-Level%20Features/Clarity%20and%20Strain.md), [Mind Spike](../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md), [Psionic Augmentation](../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation.md), Talent Ward, [Telepathic Speech](../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech.md), Tradition Features, [Talent](../Browse/Classes/Talent.md) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Talent](../Browse/Classes/Talent.md) Tradition, [Clarity and Strain](../Browse/Features/Talent/1st-Level Features/Clarity and Strain.md), [Mind Spike](../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md), [Psionic Augmentation](../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md), Talent Ward, [Telepathic Speech](../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md), Tradition Features, [Talent](../Browse/Classes/Talent.md) Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../Browse/Features/Talent/3rd-Level%20Features/Scan.md), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../Browse/Features/Talent/4th-Level%20Features/Characteristic%20Increase.md), [Mind Projection](../Browse/Features/Talent/4th-Level%20Features/Mind%20Projection.md), [Mind Recovery](../Browse/Features/Talent/4th-Level%20Features/Mind%20Recovery.md), Perk, Skill [Suspensor Field](../Browse/Features/Talent/4th-Level%20Features/Suspensor%20Field.md)                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
+| 3rd   | [Scan](../Browse/Features/Talent/3rd-Level Features/Scan.md), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../Browse/Features/Talent/4th-Level Features/Characteristic Increase.md), [Mind Projection](../Browse/Features/Talent/4th-Level Features/Mind Projection.md), [Mind Recovery](../Browse/Features/Talent/4th-Level Features/Mind Recovery.md), Perk, Skill [Suspensor Field](../Browse/Features/Talent/4th-Level Features/Suspensor Field.md)                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Psi Boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../Browse/Features/Talent/7th-Level%20Features/Ancestral%20Memory.md), [Cascading Strain](../Browse/Features/Talent/7th-Level%20Features/Cascading%20Strain.md), [Characteristic Increase](../Browse/Features/Talent/7th-Level%20Features/Characteristic%20Increase.md), [Lucid Mind](../Browse/Features/Talent/7th-Level%20Features/Lucid%20Mind.md), Skill                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 6th   | Perk, [Psi Boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../Browse/Features/Talent/7th-Level Features/Ancestral Memory.md), [Cascading Strain](../Browse/Features/Talent/7th-Level Features/Cascading Strain.md), [Characteristic Increase](../Browse/Features/Talent/7th-Level Features/Characteristic Increase.md), [Lucid Mind](../Browse/Features/Talent/7th-Level Features/Lucid Mind.md), Skill                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [Fortress of Perfect Thought](../Browse/Features/Talent/9th-Level%20Features/Fortress%20of%20Perfect%20Thought.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../Browse/Features/Talent/10th-Level%20Features/Characteristic%20Increase.md), [Clear Mind](../Browse/Features/Talent/10th-Level%20Features/Clear%20Mind.md), [Omnisensory](../Browse/Features/Talent/10th-Level%20Features/Omnisensory.md), Perk, [Psion](../Browse/Features/Talent/10th-Level%20Features/Psion.md), Skill, [Vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md)                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Fortress of Perfect Thought](../Browse/Features/Talent/9th-Level Features/Fortress of Perfect Thought.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../Browse/Features/Talent/10th-Level Features/Characteristic Increase.md), [Clear Mind](../Browse/Features/Talent/10th-Level Features/Clear Mind.md), [Omnisensory](../Browse/Features/Talent/10th-Level Features/Omnisensory.md), Perk, [Psion](../Browse/Features/Talent/10th-Level Features/Psion.md), Skill, [Vision](../Browse/Features/Talent/10th-Level Features/Vision.md)                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -14143,15 +14143,15 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](../Browse/Features/Talent/1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../Browse/Features/Talent/1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+You have the following ability, which can be used as a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Mind Spike
@@ -14172,11 +14172,11 @@ You have the following ability, which can be used as a ranged [free strike](../B
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md).)
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
@@ -14194,11 +14194,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../Browse/Features/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20Ward.md).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../Browse/Features/Talent/1st-Level Features/Talent Ward/Repulsive Ward.md).)
 
 ##### Entropy Ward
 
@@ -14218,7 +14218,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../Chapters/Background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../Chapters/Background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -14228,9 +14228,9 @@ Your [talent](../Browse/Classes/Talent.md) tradition grants you two features, as
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate.md), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md), [Repel](../Browse/Features/Talent/1st-Level%20Features/Repel.md)                    |
-| Telepathy   | [Feedback Loop](../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop.md), [Remote Assistance](../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance.md) |
+| Chronopathy | [Accelerate](../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), [Repel](../Browse/Features/Talent/1st-Level Features/Repel.md)                    |
+| Telepathy   | [Feedback Loop](../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md), [Remote Assistance](../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md) |
 
 ##### Accelerate
 
@@ -14342,7 +14342,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../Browse/Abilities/Talent/1st-Level%20Features/Incinerate.md), [Kinetic Grip](../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../Browse/Abilities/Talent/1st-Level Features/Incinerate.md), [Kinetic Grip](../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md).)
 
 <!-- -->
 > ######## Entropic Bolt
@@ -14541,7 +14541,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the source of the damage.
 
 <!-- -->
 > ######## Smolder (3 Clarity)
@@ -14632,9 +14632,9 @@ Your [talent](../Browse/Classes/Talent.md) tradition grants you a feature, as sh
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours.md)   |
-| Telekinesis | [Ease Their Fall](../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall.md) |
-| Telepathy   | [Ease the Mind](../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind.md)     |
+| Chronopathy | [Ease the Hours](../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md)   |
+| Telekinesis | [Ease Their Fall](../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md) |
+| Telepathy   | [Ease the Mind](../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md)     |
 
 ##### Ease the Hours
 
@@ -14751,7 +14751,7 @@ Choose one of the following abilities.
 > - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../Browse/Conditions/Weakened.md) (save ends)
 > - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../Browse/Conditions/Dazed.md) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) until the end of the target's next turn.
 
 <!-- -->
 > ######## Synaptic Override (5 Clarity)
@@ -14764,7 +14764,7 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >
@@ -14778,7 +14778,7 @@ As a 3rd-level [talent](../Browse/Classes/Talent.md), you gain the following fea
 
 #### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
 
 #### 7-Clarity Ability
 
@@ -14902,13 +14902,13 @@ Your [talent](../Browse/Classes/Talent.md) tradition grants you two features, as
 
 | Tradition   | Features                                                                                                                                                                                                                                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal.md), [Speed of Thought](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought.md) |
-| Telekinesis | [Kinetic Amplifier](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier.md), [Triangulate](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate.md)                   |
-| Telepathy   | [Compulsion](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion.md), [Remote Amplification](../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification.md)               |
+| Chronopathy | [Distortion Temporal](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md), [Speed of Thought](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md) |
+| Telekinesis | [Kinetic Amplifier](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md), [Triangulate](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md)                   |
+| Telepathy   | [Compulsion](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md), [Remote Amplification](../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -14920,7 +14920,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech.md) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature increases to 1 mile.
 
 ##### Speed of Thought
 
@@ -14952,7 +14952,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > *You move fast enough to turn around and watch your foes feel the aftermath.*
 >
-> | **Area, [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
+> | **Area, [Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
 > | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 >
@@ -15014,7 +15014,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to it and enhance its effects. A [psi boost](../Browse/Features/Talent/6th-Level Features/Psi Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../Browse/Features/Talent/6th-Level Features/Psi Boost.md).
 
 ##### Dynamic Power (1 Clarity)
 
@@ -15182,7 +15182,7 @@ Each time you finish a respite, you can choose a number of skills you have up to
 
 #### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md) ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability to take the same damage.
 
 #### Characteristic Increase
 
@@ -15212,9 +15212,9 @@ Your [talent](../Browse/Classes/Talent.md) tradition grants you two features, as
 
 | Tradition   | Features                                                                                                                                                                                                                                                          |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours.md), [Stasis Shield](../Browse/Features/Talent/8th-Level%20Features/Stasis%20Shield.md) |
-| Telekinesis | [Levitation Field](../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field.md), [Low Gravity](../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity.md)          |
-| Telepathy   | [Mindlink](../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink.md), [Universal Connection](../Browse/Features/Talent/8th-Level%20Features/Universal%20Connection.md)           |
+| Chronopathy | [Doubling the Hours](../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md), [Stasis Shield](../Browse/Features/Talent/8th-Level Features/Stasis Shield.md) |
+| Telekinesis | [Levitation Field](../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md), [Low Gravity](../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md)          |
+| Telepathy   | [Mindlink](../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md), [Universal Connection](../Browse/Features/Talent/8th-Level Features/Universal Connection.md)           |
 
 ##### Doubling the Hours
 
@@ -15243,7 +15243,7 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
 #### Stasis Shield
 
@@ -15266,7 +15266,7 @@ You have the following ability.
 
 #### Universal Connection
 
-The range of your [Telepathic Speech](../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech.md) feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature increases to anywhere on the same world.
 
 #### 11-Clarity Ability
 
@@ -15508,17 +15508,17 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md). Each time you finish a respite, you gain [vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md) equal to the XP you gain. You can spend [vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md) on your abilities as if it were clarity.
+You have an epic resource called [vision](../Browse/Features/Talent/10th-Level Features/Vision.md). Each time you finish a respite, you gain [vision](../Browse/Features/Talent/10th-Level Features/Vision.md) equal to the XP you gain. You can spend [vision](../Browse/Features/Talent/10th-Level Features/Vision.md) on your abilities as if it were clarity.
 
-Additionally, you can spend [vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend [vision](../Browse/Features/Talent/10th-Level Features/Vision.md) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../Browse/Features/Talent/10th-Level Features/Vision.md). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
-[Vision](../Browse/Features/Talent/10th-Level%20Features/Vision.md) remains until you spend it.
+[Vision](../Browse/Features/Talent/10th-Level Features/Vision.md) remains until you spend it.
 
 ## Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../Browse/Classes/Troubadour.md). You find energy in the [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../Browse/Classes/Troubadour.md). You find energy in the [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](../Browse/Classes/Troubadour.md), you chase [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md). The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](../Browse/Classes/Troubadour.md), you chase [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md). The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -15550,16 +15550,16 @@ There is no visible text in the image provided. The image appears to show a deco
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | Class Act Abilities |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | [Troubadour](../Browse/Classes/Troubadour.md) Class Act, [Drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md), Kit, [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md), [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md), Class Act Features, [Class Act Triggered Action](../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action.md), [Troubadour](../Browse/Classes/Troubadour.md) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses.md), [Invocation](../Browse/Features/Troubadour/2nd-Level%20Features/Invocation.md), Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                   |
+| 1st   | [Troubadour](../Browse/Classes/Troubadour.md) Class Act, [Drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md), Kit, [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md), [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md), Class Act Features, [Class Act Triggered Action](../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md), [Troubadour](../Browse/Classes/Troubadour.md) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md), [Invocation](../Browse/Features/Troubadour/2nd-Level Features/Invocation.md), Perk, Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../Browse/Features/Troubadour/4th-Level%20Features/Characteristic%20Increase.md), [Melodrama](../Browse/Features/Troubadour/4th-Level%20Features/Melodrama.md), Perk, Skill, [Zeitgeist](../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist.md)                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../Browse/Features/Troubadour/4th-Level Features/Characteristic Increase.md), [Melodrama](../Browse/Features/Troubadour/4th-Level Features/Melodrama.md), Perk, Skill, [Zeitgeist](../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md)                                                                                                                                                                                                                                                                                            | Signature, 3, 5, 7        | 5                   |
 | 5th   | Class Act Feature, 9-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Spotlight](../Browse/Abilities/Troubadour/6th-Level%20Features/Spotlight.md), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../Browse/Features/Troubadour/7th-Level%20Features/Characteristic%20Increase.md), [A Muse's Muse](../Browse/Features/Troubadour/7th-Level%20Features/A%20Muses%20Muse.md), [Equal Billing](../Browse/Features/Troubadour/7th-Level%20Features/Equal%20Billing.md), Skill                                                                                                                                                                                                                                                                             | Signature, 5, 7, 9        | 5, 9                |
+| 6th   | Perk, [Spotlight](../Browse/Abilities/Troubadour/6th-Level Features/Spotlight.md), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../Browse/Features/Troubadour/7th-Level Features/Characteristic Increase.md), [A Muse's Muse](../Browse/Features/Troubadour/7th-Level Features/A Muses Muse.md), [Equal Billing](../Browse/Features/Troubadour/7th-Level Features/Equal Billing.md), Skill                                                                                                                                                                                                                                                                             | Signature, 5, 7, 9        | 5, 9                |
 | 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | [Roar of the Crowd](../Browse/Features/Troubadour/9th-Level%20Features/Roar%20of%20the%20Crowd.md), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Applause](../Browse/Features/Troubadour/10th-Level%20Features/Applause.md), [Characteristic Increase](../Browse/Features/Troubadour/10th-Level%20Features/Characteristic%20Increase.md), [Dramaturgy](../Browse/Features/Troubadour/10th-Level%20Features/Dramaturgy.md), [Greatest of All Time](../Browse/Features/Troubadour/10th-Level%20Features/Greatest%20of%20All%20Time.md), Perk, Skill                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Roar of the Crowd](../Browse/Features/Troubadour/9th-Level Features/Roar of the Crowd.md), Class Act Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Applause](../Browse/Features/Troubadour/10th-Level Features/Applause.md), [Characteristic Increase](../Browse/Features/Troubadour/10th-Level Features/Characteristic Increase.md), [Dramaturgy](../Browse/Features/Troubadour/10th-Level Features/Dramaturgy.md), [Greatest of All Time](../Browse/Features/Troubadour/10th-Level Features/Greatest of All Time.md), Perk, Skill                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -15570,40 +15570,40 @@ As a 1st-level [troubadour](../Browse/Classes/Troubadour.md), you gain the follo
 Panache, melody, and depiction. Some [troubadours](../Browse/Classes/Troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](../Browse/Classes/Troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../Browse/Classes/Troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
-- **Duelist:** [Drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
+- **Duelist:** [Drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
 Your [troubadour](../Browse/Classes/Troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
-Additionally, you gain [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) when certain events occur during a combat encounter:
+Additionally, you gain [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- The first time any hero is made winded during the encounter, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- When you or another hero dies, you gain 10 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- The first time any hero is made winded during the encounter, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- When you or another hero dies, you gain 10 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
-When you are dead, you continue to gain [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) during future encounters.
+When you are dead, you continue to gain [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../Browse/Features/Troubadour/1st-Level Features/Drama/Drama Outside of Combat.md), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish.md), you can use it as if you had spent an amount of [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../Browse/Abilities/Troubadour/1st-Level Features/Artful Flourish.md), you can use it as if you had spent an amount of [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) equal to your Victories.
 
 <!-- -->
 > **The Auteur [Troubadour](../Browse/Classes/Troubadour.md)**
 >
-> Abilities like Guest Star, [Missed Cue](../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue.md), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -15625,7 +15625,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../Browse/Conditions/Dazed.md), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
-You start off with the [Choreography](../Browse/Abilities/Troubadour/1st-Level%20Features/Choreography.md) and [Revitalizing Limerick](../Browse/Abilities/Troubadour/1st-Level%20Features/Revitalizing%20Limerick.md) performance abilities. Your choice of class act grants you additional performances.
+You start off with the [Choreography](../Browse/Abilities/Troubadour/1st-Level Features/Choreography.md) and [Revitalizing Limerick](../Browse/Abilities/Troubadour/1st-Level Features/Revitalizing Limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
 <!-- -->
 > ######## Choreography
@@ -15657,13 +15657,13 @@ Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you two feat
 
 | Class Act | Features                                                                                                                                                                                                                                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | Blocking, [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md)                                                                                                                                                   |
-| Duelist   | [Acrobatics](../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics.md), [Star Power](../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power.md) |
-| Virtuoso  | [Power Chord](../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord.md), [Virtuoso Performances](../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances.md)         |
+| Auteur    | Blocking, [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Acrobatics.md), [Star Power](../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Star Power.md) |
+| Virtuoso  | [Power Chord](../Browse/Abilities/Troubadour/1st-Level Features/Power Chord.md), [Virtuoso Performances](../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## Acrobatics
@@ -15674,11 +15674,11 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../Browse/Movement/Jump.md), tumble, or [climb](../Browse/Movement/Climb%20or%20Swim.md) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../Browse/Movement/Jump.md), tumble, or [climb](../Browse/Movement/Climb or Swim.md) as part of their movement before the end of their turn.
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## Blocking
@@ -15750,7 +15750,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## "Thunder Mother"
@@ -15782,14 +15782,14 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action.md) table.
+Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md) table.
 
 ###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Turnabout Is Fair Play](../Browse/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20Play.md) |
-| Duelist   | [Riposte](../Browse/Abilities/Troubadour/1st-Level%20Features/Riposte.md)                                     |
+| Auteur    | [Turnabout Is Fair Play](../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md) |
+| Duelist   | [Riposte](../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md)                                     |
 | Virtuoso  | Harmonize                                                                                                                            |
 
 <!-- -->
@@ -15818,7 +15818,7 @@ Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you a trigge
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the creature who made the triggering strike.
 
 <!-- -->
 > ######## Turnabout Is Fair Play
@@ -15841,7 +15841,7 @@ Your performance centers around maneuvering through the scene of battle, maintai
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../Browse/Abilities/Troubadour/1st-Level%20Features/Witty%20Banter.md).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md).)
 
 <!-- -->
 > ######## Artful Flourish
@@ -16004,9 +16004,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ######## Fake Your Death (5 Drama)
@@ -16053,11 +16053,11 @@ As a 2nd-level [troubadour](../Browse/Classes/Troubadour.md), you gain the follo
 
 #### Appeal to the Muses
 
-You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md). However, irony is eager to hand your fortune to the villain to achieve the same end.
+You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md). However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md). The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- If the roll is a 1, you gain 1 additional [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md). The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
 - If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
 
@@ -16077,9 +16077,9 @@ The Director determines when the target receives your notice. When the target re
 
 ##### My Reputation Precedes Me
 
-You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
+You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature to find allies within the group.
 
 #### Perk
 
@@ -16102,7 +16102,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 <!-- -->
 > ######## Twist at the End (5 Drama)
@@ -16128,7 +16128,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ######## En Garde! (5 Drama)
@@ -16145,7 +16145,7 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you. If they do, you can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target.
+> **Effect:** The target can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against you. If they do, you can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 
@@ -16191,9 +16191,9 @@ Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you a featur
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue.md)     |
+| Auteur    | [Missed Cue](../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album.md) |
+| Virtuoso  | [Second Album](../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md) |
 
 ##### Foil
 
@@ -16205,7 +16205,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## "Fire Up the Night"
@@ -16309,13 +16309,13 @@ Your Agility and Presence scores each increase to 3.
 
 You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:
 
-- Whenever a creature rolls a natural 2 on a power roll, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- The first time a hero unwillingly falls 5 or more squares, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- The first time a hero deals damage with 3 surges, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
-- Whenever a hero spends their last Recovery, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+- Whenever a creature rolls a natural 2 on a power roll, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- The first time a hero unwillingly falls 5 or more squares, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- The first time a hero deals damage with 3 surges, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- Whenever a hero spends their last Recovery, you gain 2 [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
-Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md), you gain 1 additional [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md), you gain 1 additional [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
 #### Perk
 
@@ -16359,11 +16359,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../Browse/Conditions/Bleeding.md), [frightened](../Browse/Conditions/Frightened.md), [prone](../Browse/Conditions/Prone.md), [slowed](../Browse/Conditions/Slowed.md), or [taunted](../Browse/Conditions/Taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../Browse/Conditions/Prone.md) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../Browse/Conditions/Bleeding.md), [frightened](../Browse/Conditions/Frightened.md), [prone](../Browse/Conditions/Prone.md), [slowed](../Browse/Conditions/Slowed.md), or [taunted](../Browse/Conditions/Taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../Browse/Conditions/Prone.md) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## Take Two!
@@ -16382,11 +16382,11 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## We Can't Be Upstaged!
@@ -16409,7 +16409,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You can maintain two performances at a time using your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 #### 9-Drama Ability
 
@@ -16479,7 +16479,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## Spotlight
@@ -16524,7 +16524,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) bonus, and [stability](../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) bonus, and [stability](../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -16554,7 +16554,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets and which enemies the target creature's [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../Browse/Movement/Stability.md).
+> **Effect:** You and the target each make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) targets and which enemies the target creature's [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../Browse/Movement/Stability.md).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -16598,7 +16598,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Equal Billing
 
-You can use your [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
+You can use your [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
 
 Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains temporary Stamina equal to your level.
 
@@ -16626,13 +16626,13 @@ Your [troubadour](../Browse/Classes/Troubadour.md) class act grants you a featur
 
 | Class Act | Feature                                                                                                                                             |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Deleted Scene](../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Deleted%20Scene.md)     |
-| Duelist   | [Masterwork](../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Masterwork.md)             |
-| Virtuoso  | [Crowd Favorites](../Browse/Features/Troubadour/8th-Level%20Features/8th-Level%20Class%20Act%20Feature/Crowd%20Favorites.md) |
+| Auteur    | [Deleted Scene](../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Deleted Scene.md)     |
+| Duelist   | [Masterwork](../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Masterwork.md)             |
+| Virtuoso  | [Crowd Favorites](../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Crowd Favorites.md) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ######## Moonlight Sonata
@@ -16658,13 +16658,13 @@ You have the following performance abilities, which are usable with your [Routin
 
 ##### Deleted Scene
 
-Whenever a creature within distance of your [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md), targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md), targeting only one creature.
 
 ##### Masterwork
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../Browse/Features/Troubadour/4th-Level%20Features/Zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 
@@ -16679,7 +16679,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../Browse/Movement/Teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../Browse/Movement/Teleport.md) ally can then make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../Browse/Movement/Teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../Browse/Movement/Teleport.md) ally can then make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Power Ballad (11 Drama)
@@ -16733,7 +16733,7 @@ As a 9th-level [troubadour](../Browse/Classes/Troubadour.md), you gain the follo
 
 You are empowered by your audience, near and far. You can't be made [frightened](../Browse/Conditions/Frightened.md), and if you are [prone](../Browse/Conditions/Prone.md), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
@@ -16758,7 +16758,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them after the ability is resolved.
 
 <!-- -->
 > ######## Rising Tension (11 Drama)
@@ -16780,7 +16780,7 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **[Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
+> | **[Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
@@ -16853,11 +16853,11 @@ As a 10th-level [troubadour](../Browse/Classes/Troubadour.md), you gain the foll
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-[Applause](../Browse/Features/Troubadour/10th-Level%20Features/Applause.md) remains until you spend it.
+[Applause](../Browse/Features/Troubadour/10th-Level Features/Applause.md) remains until you spend it.
 
 #### Characteristic Increase
 
@@ -16865,7 +16865,7 @@ Your Agility and Presence scores each increase to 5.
 
 #### Dramaturgy
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../Browse/Features/Troubadour/2nd-Level%20Features/Appeal%20to%20the%20Muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 #### Greatest of All Time
 
@@ -16881,7 +16881,7 @@ You gain one skill of your choice.
 
 # Kits
 
-The knight in [shining armor](../Browse/Kits/Shining%20Armor.md). The [warrior priest](../Browse/Kits/Warrior%20Priest.md). The [sniper](../Browse/Kits/Sniper.md). [Censors](../Browse/Classes/Censor.md), [furies](../Browse/Classes/Fury.md), [shadows](../Browse/Classes/Shadow.md), [tacticians](../Browse/Classes/Tactician.md), and [troubadours](../Browse/Classes/Troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](../Browse/Kits/Shining Armor.md). The [warrior priest](../Browse/Kits/Warrior Priest.md). The [sniper](../Browse/Kits/Sniper.md). [Censors](../Browse/Classes/Censor.md), [furies](../Browse/Classes/Fury.md), [shadows](../Browse/Classes/Shadow.md), [tacticians](../Browse/Classes/Tactician.md), and [troubadours](../Browse/Classes/Troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -16964,13 +16964,13 @@ Whip weapons include the standard whip, spiked chains, flails, and any similarly
 
 #### Kits and Treasures
 
-When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../Browse/Kits/Ranger.md) or [Shining Armor](../Browse/Kits/Shining%20Armor.md) kits. However, you can't use it with the [Cloak and Dagger](../Browse/Kits/Cloak%20and%20Dagger.md) or [Stick and Robe](../Browse/Kits/Stick%20and%20Robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](../Browse/Kits/Ranger.md) or [Shining Armor](../Browse/Kits/Shining Armor.md) kits. However, you can't use it with the [Cloak and Dagger](../Browse/Kits/Cloak and Dagger.md) or [Stick and Robe](../Browse/Kits/Stick and Robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
 
 If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and [stability](../Browse/Movement/Stability.md), as well as the damage and distance of your weapon abilities, including your [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your Stamina, speed, and [stability](../Browse/Movement/Stability.md), as well as the damage and distance of your weapon abilities, including your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md). ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -16992,7 +16992,7 @@ Kits can grant you a bonus to damage with both melee and ranged weapon abilities
 
 Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
 
-For example, the [Shining Armor](../Browse/Kits/Shining%20Armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](../Browse/Kits/Sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](../Browse/Kits/Shining Armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](../Browse/Kits/Sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
 
 #### Distance Bonus
 
@@ -17002,7 +17002,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
-A kit that has a [disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) bonus increases the number of squares you can shift when you take the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action (see [Chapter 10: Combat](#page-288-0)).
+A kit that has a [disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) bonus increases the number of squares you can shift when you take the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action (see [Chapter 10: Combat](#page-288-0)).
 
 ### Kit Signature Ability
 
@@ -17017,13 +17017,13 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 <!-- -->
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 #### Arcane Archer
 
-The [Arcane Archer](../Browse/Kits/Arcane%20Archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](../Browse/Kits/Arcane Archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment
 
@@ -17095,7 +17095,7 @@ You wear light armor and wield a medium weapon.
 
 #### Cloak and Dagger
 
-Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../Browse/Kits/Cloak%20and%20Dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../Browse/Kits/Cloak and Dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
 ##### Equipment
 
@@ -17133,7 +17133,7 @@ You wear light armor and wield one or two light weapons.
 
 #### Dual Wielder
 
-The [Dual Wielder](../Browse/Kits/Dual%20Wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+The [Dual Wielder](../Browse/Kits/Dual Wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
 ##### Equipment
 
@@ -17203,7 +17203,7 @@ You wear medium armor and wield a polearm.
 
 #### Martial Artist
 
-If you want to be fast in a fight, then [Martial Artist](../Browse/Kits/Martial%20Artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [Martial Artist](../Browse/Kits/Martial Artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
 
 ##### Equipment
 
@@ -17495,7 +17495,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 #### Shining Armor
 
-The [Shining Armor](../Browse/Kits/Shining%20Armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The [Shining Armor](../Browse/Kits/Shining Armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment
 
@@ -17601,7 +17601,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 #### Stick and Robe
 
-Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../Browse/Kits/Stick%20and%20Robe.md) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../Browse/Kits/Stick and Robe.md) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
 
 ##### Equipment
 
@@ -17673,7 +17673,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The [Sword and Board](../Browse/Kits/Sword%20and%20Board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The [Sword and Board](../Browse/Kits/Sword and Board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -17707,7 +17707,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 #### Warrior Priest
 
-The [Warrior Priest](../Browse/Kits/Warrior%20Priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+The [Warrior Priest](../Browse/Kits/Warrior Priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
 ##### Equipment
 
@@ -17788,28 +17788,28 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 ###### Kits Table
 
-| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | [Stability](../Browse/Movement/Stability.md) | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) |
+| Kit                                                                               | Armor          | Weapon             | Stamina per Echelon | Speed | [Stability](../Browse/Movement/Stability.md) | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) |
 | --------------------------------------------------------------------------------- | -------------- | ------------------ | ------------------- | ----- | ------------------------------------------------------------------- | ------------ | ------------- | -------------- | --------------- | ------------------------------------------------------------------------------------------ |
-| [Arcane Archer](../Browse/Kits/Arcane%20Archer.md)         | None           | Bow                | -                   | +1    | -                                                                   | -            | +2/+2/+2      | -              | +10             | +1                                                                                         |
+| [Arcane Archer](../Browse/Kits/Arcane Archer.md)         | None           | Bow                | -                   | +1    | -                                                                   | -            | +2/+2/+2      | -              | +10             | +1                                                                                         |
 | [Battlemind](../Browse/Kits/Battlemind.md)                 | Light          | Medium             | +3                  | +2    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -                                                                                          |
-| [Cloak and Dagger](../Browse/Kits/Cloak%20and%20Dagger.md) | Light          | Light              | +3                  | +2    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1                                                                                         |
-| [Dual Wielder](../Browse/Kits/Dual%20Wielder.md)           | Medium         | Light, medium      | +6                  | +2    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
+| [Cloak and Dagger](../Browse/Kits/Cloak and Dagger.md) | Light          | Light              | +3                  | +2    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1                                                                                         |
+| [Dual Wielder](../Browse/Kits/Dual Wielder.md)           | Medium         | Light, medium      | +6                  | +2    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
 | [Guisarmier](../Browse/Kits/Guisarmier.md)                 | Medium         | Polearm            | +6                  | -     | +1                                                                  | +2/+2/+2     | -             | +1             | -               | -                                                                                          |
-| [Martial Artist](../Browse/Kits/Martial%20Artist.md)       | None           | Unarmed strikes    | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
+| [Martial Artist](../Browse/Kits/Martial Artist.md)       | None           | Unarmed strikes    | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
 | [Mountain](../Browse/Kits/Mountain.md)                     | Heavy          | Heavy              | +9                  | -     | +2                                                                  | +0/+0/+4     | -             | -              | -               | -                                                                                          |
 | [Panther](../Browse/Kits/Panther.md)                       | None           | Heavy              | +6                  | +1    | +1                                                                  | +0/+0/+4     | -             | -              | -               | -                                                                                          |
 | [Pugilist](../Browse/Kits/Pugilist.md)                     | None           | Unarmed strikes    | +6                  | +2    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -                                                                                          |
 | [Raider](../Browse/Kits/Raider.md)                         | Light, shield  | Light              | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1                                                                                         |
 | [Ranger](../Browse/Kits/Ranger.md)                         | Medium         | Bow, medium        | +6                  | +1    | -                                                                   | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1                                                                                         |
-| [Rapid-Fire](../Browse/Kits/Rapid%20Fire.md)               | Light          | Bow                | +3                  | +1    | -                                                                   | -            | +2/+2/+2      | -              | +7              | +1                                                                                         |
+| [Rapid-Fire](../Browse/Kits/Rapid Fire.md)               | Light          | Bow                | +3                  | +1    | -                                                                   | -            | +2/+2/+2      | -              | +7              | +1                                                                                         |
 | [Retiarius](../Browse/Kits/Retiarius.md)                   | Light          | Ensnaring, polearm | +3                  | +1    | -                                                                   | +2/+2/+2     | -             | +1             | -               | +1                                                                                         |
-| [Shining Armor](../Browse/Kits/Shining%20Armor.md)         | Heavy, shield  | Medium             | +12                 | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | -                                                                                          |
+| [Shining Armor](../Browse/Kits/Shining Armor.md)         | Heavy, shield  | Medium             | +12                 | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | -                                                                                          |
 | [Sniper](../Browse/Kits/Sniper.md)                         | None           | Bow                | -                   | +1    | -                                                                   | -            | +0/+0/+4      | -              | +10             | +1                                                                                         |
 | [Spellsword](../Browse/Kits/Spellsword.md)                 | Light, shield  | Medium             | +6                  | +1    | +1                                                                  | +2/+2/+2     | -             | -              | -               | -                                                                                          |
-| [Stick and Robe](../Browse/Kits/Stick%20and%20Robe.md)     | Light          | Polearm            | +3                  | +2    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1                                                                                         |
+| [Stick and Robe](../Browse/Kits/Stick and Robe.md)     | Light          | Polearm            | +3                  | +2    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1                                                                                         |
 | [Swashbuckler](../Browse/Kits/Swashbuckler.md)             | Light          | Medium             | +3                  | +3    | -                                                                   | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
-| [Sword and Board](../Browse/Kits/Sword%20and%20Board.md)   | Medium, shield | Medium             | +9                  | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
-| [Warrior Priest](../Browse/Kits/Warrior%20Priest.md)       | Heavy          | Light              | +9                  | +1    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -                                                                                          |
+| [Sword and Board](../Browse/Kits/Sword and Board.md)   | Medium, shield | Medium             | +9                  | -     | +1                                                                  | +2/+2/+2     | -             | -              | -               | +1                                                                                         |
+| [Warrior Priest](../Browse/Kits/Warrior Priest.md)       | Heavy          | Light              | +9                  | +1    | +1                                                                  | +1/+1/+1     | -             | -              | -               | -                                                                                          |
 | [Whirlwind](../Browse/Kits/Whirlwind.md)                   | None           | Whip               | -                   | +3    | -                                                                   | +1/+1/+1     | -             | +1             | -               | +1                                                                                         |
 
 # Perks
@@ -17965,7 +17965,7 @@ This section presents intrigue perks in alphabetical order.
 
 #### Criminal Contacts
 
-You have access to a network of [criminal contacts](../Browse/Perks/Intrigue%20Perks/Criminal%20Contacts.md). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+You have access to a network of [criminal contacts](../Browse/Perks/Intrigue Perks/Criminal Contacts.md). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
 #### Forgettable Face
 
@@ -18023,7 +18023,7 @@ Whenever you make a test to recall lore and don't have a skill that applies to t
 
 #### Specialist
 
-You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your [specialist](../Browse/Perks/Lore%20Perks/Specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
+You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your [specialist](../Browse/Perks/Lore Perks/Specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
 
 #### Traveling Sage
 
@@ -18053,7 +18053,7 @@ You have the following ability.
 > - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
-> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](../Browse/Perks/Supernatural%20Perks/Arcane%20Trick.md).
+> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](../Browse/Perks/Supernatural Perks/Arcane Trick.md).
 > - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense
@@ -18062,28 +18062,28 @@ As a maneuver, choose a creature within 10 squares. If that creature is your lev
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md)—or to adopt you as their [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md).
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../Browse/Perks/Supernatural Perks/Familiar.md)—or to adopt you as their [familiar](../Browse/Perks/Supernatural Perks/Familiar.md).
 
-The spirit uses the [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) stat block.
+The spirit uses the [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) stat block.
 
-The [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
+The [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 
 **Familiar**
 
-| [Familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) |         -         |           Level -            |                                      -                                       |                                                   EV -                                                    |
+| [Familiar](../Browse/Perks/Supernatural Perks/Familiar.md) |         -         |           Level -            |                                      -                                       |                                                   EV -                                                    |
 | :---------------------------------------------------------------------------------: | :---------------: | :--------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|                                   **1T**<br>Size                                    |  **5**<br>Speed   | **2x your level**<br>Stamina | **0**<br>[Stability](../Browse/Movement/Stability.md) | **-**<br>[Free Strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) |
+|                                   **1T**<br>Size                                    |  **5**<br>Speed   | **2x your level**<br>Stamina | **0**<br>[Stability](../Browse/Movement/Stability.md) | **-**<br>[Free Strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) |
 |                                 **-**<br>Immunities                                 | **-**<br>Movement |                              |                            **-**<br>With Captain                             |                                            **-**<br>Weaknesses                                            |
 |                                   **-3**<br>Might                                   | **+2**<br>Agility |       **0**<br>Reason        |                              **0**<br>Intuition                              |                                            **+1**<br>Presence                                             |
 
 <!-- -->
 > **Telepathic**
 >
-> While you and your [familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> While you and your [familiar](../Browse/Perks/Supernatural Perks/Familiar.md) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
 #### Invisible Force
 
@@ -18143,7 +18143,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../Browse/Complications/Infernal%20Contract.md) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](../Browse/Ancestries/Devil.md)!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../Browse/Complications/Infernal Contract.md) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](../Browse/Ancestries/Devil.md)!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -18157,161 +18157,161 @@ Complications are presented in alphabetical order.
 
 | d100 | Complication                                                                                                     | d100 | Complication                                                                                                     |
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
-| 1    | [Advanced Studies](../Browse/Complications/Advanced%20Studies.md)                         | 51   | [Loner](../Browse/Complications/Loner.md)                                                 |
-| 2    | [Amnesia](../Browse/Complications/Amnesia.md)                                             | 52   | [Lost in Time](../Browse/Complications/Lost%20in%20Time.md)                               |
-| 3    | [Animal Form](../Browse/Complications/Animal%20Form.md)                                   | 53   | [Lost Your Head](../Browse/Complications/Lost%20Your%20Head.md)                           |
+| 1    | [Advanced Studies](../Browse/Complications/Advanced Studies.md)                         | 51   | [Loner](../Browse/Complications/Loner.md)                                                 |
+| 2    | [Amnesia](../Browse/Complications/Amnesia.md)                                             | 52   | [Lost in Time](../Browse/Complications/Lost in Time.md)                               |
+| 3    | [Animal Form](../Browse/Complications/Animal Form.md)                                   | 53   | [Lost Your Head](../Browse/Complications/Lost Your Head.md)                           |
 | 4    | [Antihero](../Browse/Complications/Antihero.md)                                           | 54   | [Lucky](../Browse/Complications/Lucky.md)                                                 |
-| 5    | [Artifact Bonded](../Browse/Complications/Artifact%20Bonded.md)                           | 55   | [Master Chef](../Browse/Complications/Master%20Chef.md)                                   |
-| 6    | [Bereaved](../Browse/Complications/Bereaved.md)                                           | 56   | [Meddling Butler](../Browse/Complications/Meddling%20Butler.md)                           |
+| 5    | [Artifact Bonded](../Browse/Complications/Artifact Bonded.md)                           | 55   | [Master Chef](../Browse/Complications/Master Chef.md)                                   |
+| 6    | [Bereaved](../Browse/Complications/Bereaved.md)                                           | 56   | [Meddling Butler](../Browse/Complications/Meddling Butler.md)                           |
 | 7    | [Betrothed](../Browse/Complications/Betrothed.md)                                         | 57   | [Medium](../Browse/Complications/Medium.md)                                               |
-| 8    | [Chaos Touched](../Browse/Complications/Chaos%20Touched.md)                               | 58   | [Medusa Blood](../Browse/Complications/Medusa%20Blood.md)                                 |
-| 9    | [Chosen One](../Browse/Complications/Chosen%20One.md)                                     | 59   | [Misunderstood](../Browse/Complications/Misunderstood.md)                                 |
-| 10   | [Consuming Interest](../Browse/Complications/Consuming%20Interest.md)                     | 60   | [Mundane](../Browse/Complications/Mundane.md)                                             |
-| 11   | [Corrupted Mentor](../Browse/Complications/Corrupted%20Mentor.md)                         | 61   | [Outlaw](../Browse/Complications/Outlaw.md)                                               |
+| 8    | [Chaos Touched](../Browse/Complications/Chaos Touched.md)                               | 58   | [Medusa Blood](../Browse/Complications/Medusa Blood.md)                                 |
+| 9    | [Chosen One](../Browse/Complications/Chosen One.md)                                     | 59   | [Misunderstood](../Browse/Complications/Misunderstood.md)                                 |
+| 10   | [Consuming Interest](../Browse/Complications/Consuming Interest.md)                     | 60   | [Mundane](../Browse/Complications/Mundane.md)                                             |
+| 11   | [Corrupted Mentor](../Browse/Complications/Corrupted Mentor.md)                         | 61   | [Outlaw](../Browse/Complications/Outlaw.md)                                               |
 | 12   | [Coward](../Browse/Complications/Coward.md)                                               | 62   | [Pirate](../Browse/Complications/Pirate.md)                                               |
-| 13   | [Crash Landed](../Browse/Complications/Crash%20Landed.md)                                 | 63   | [Preacher](../Browse/Complications/Preacher.md)                                           |
-| 14   | [Cult Victim](../Browse/Complications/Cult%20Victim.md)                                   | 64   | [Primordial Sickness](../Browse/Complications/Primordial%20Sickness.md)                   |
-| 15   | [Curse of Caution](../Browse/Complications/Curse%20of%20Caution.md)                       | 65   | [Prisoner of the Synlirii](../Browse/Complications/Prisoner%20of%20the%20Synlirii.md)     |
-| 16   | [Curse of Immortality](../Browse/Complications/Curse%20of%20Immortality.md)               | 66   | [Promising Apprentice](../Browse/Complications/Promising%20Apprentice.md)                 |
-| 17   | [Curse of Misfortune](../Browse/Complications/Curse%20of%20Misfortune.md)                 | 67   | [Psychic Eruption](../Browse/Complications/Psychic%20Eruption.md)                         |
-| 18   | [Curse of Poverty](../Browse/Complications/Curse%20of%20Poverty.md)                       | 68   | [Raised by Beasts](../Browse/Complications/Raised%20by%20Beasts.md)                       |
-| 19   | [Curse of Punishment](../Browse/Complications/Curse%20of%20Punishment.md)                 | 69   | [Refugee](../Browse/Complications/Refugee.md)                                             |
-| 20   | [Curse of Stone](../Browse/Complications/Curse%20of%20Stone.md)                           | 70   | [Rival](../Browse/Complications/Rival.md)                                                 |
-| 21   | [Cursed Weapon](../Browse/Complications/Cursed%20Weapon.md)                               | 71   | Rogue [Talent](../Browse/Classes/Talent.md)                                               |
+| 13   | [Crash Landed](../Browse/Complications/Crash Landed.md)                                 | 63   | [Preacher](../Browse/Complications/Preacher.md)                                           |
+| 14   | [Cult Victim](../Browse/Complications/Cult Victim.md)                                   | 64   | [Primordial Sickness](../Browse/Complications/Primordial Sickness.md)                   |
+| 15   | [Curse of Caution](../Browse/Complications/Curse of Caution.md)                       | 65   | [Prisoner of the Synlirii](../Browse/Complications/Prisoner of the Synlirii.md)     |
+| 16   | [Curse of Immortality](../Browse/Complications/Curse of Immortality.md)               | 66   | [Promising Apprentice](../Browse/Complications/Promising Apprentice.md)                 |
+| 17   | [Curse of Misfortune](../Browse/Complications/Curse of Misfortune.md)                 | 67   | [Psychic Eruption](../Browse/Complications/Psychic Eruption.md)                         |
+| 18   | [Curse of Poverty](../Browse/Complications/Curse of Poverty.md)                       | 68   | [Raised by Beasts](../Browse/Complications/Raised by Beasts.md)                       |
+| 19   | [Curse of Punishment](../Browse/Complications/Curse of Punishment.md)                 | 69   | [Refugee](../Browse/Complications/Refugee.md)                                             |
+| 20   | [Curse of Stone](../Browse/Complications/Curse of Stone.md)                           | 70   | [Rival](../Browse/Complications/Rival.md)                                                 |
+| 21   | [Cursed Weapon](../Browse/Complications/Cursed Weapon.md)                               | 71   | Rogue [Talent](../Browse/Classes/Talent.md)                                               |
 | 22   | [Disgraced](../Browse/Complications/Disgraced.md)                                         | 72   | [Runaway](../Browse/Complications/Runaway.md)                                             |
-| 23   | [Dragon Dreams](../Browse/Complications/Dragon%20Dreams.md)                               | 73   | [Searching for a Cure](../Browse/Complications/Searching%20for%20a%20Cure.md)             |
-| 24   | [Elemental Inside](../Browse/Complications/Elemental%20Inside.md)                         | 74   | [Secret Identity](../Browse/Complications/Secret%20Identity.md)                           |
-| 25   | [Evanesceria](../Browse/Complications/Evanesceria.md)                                     | 75   | [Secret Twin](../Browse/Complications/Secret%20Twin.md)                                   |
+| 23   | [Dragon Dreams](../Browse/Complications/Dragon Dreams.md)                               | 73   | [Searching for a Cure](../Browse/Complications/Searching for a Cure.md)             |
+| 24   | [Elemental Inside](../Browse/Complications/Elemental Inside.md)                         | 74   | [Secret Identity](../Browse/Complications/Secret Identity.md)                           |
+| 25   | [Evanesceria](../Browse/Complications/Evanesceria.md)                                     | 75   | [Secret Twin](../Browse/Complications/Secret Twin.md)                                   |
 | 26   | [Exile](../Browse/Complications/Exile.md)                                                 | 76   | Self-Taught                                                                                                      |
-| 27   | [Fallen Immortal](../Browse/Complications/Fallen%20Immortal.md)                           | 77   | [Sewer Folk](../Browse/Complications/Sewer%20Folk.md)                                     |
-| 28   | [Famous Relative](../Browse/Complications/Famous%20Relative.md)                           | 78   | [Shadow](../Browse/Classes/Shadow.md) Born                                                |
-| 29   | [Feytouched](../Browse/Complications/Feytouched.md)                                       | 79   | [Shared Spirit](../Browse/Complications/Shared%20Spirit.md)                               |
-| 30   | [Fiery Ideal](../Browse/Complications/Fiery%20Ideal.md)                                   | 80   | [Shattered Legacy](../Browse/Complications/Shattered%20Legacy.md)                         |
-| 31   | [Fire and Chaos](../Browse/Complications/Fire%20and%20Chaos.md)                           | 81   | [Shipwrecked](../Browse/Complications/Shipwrecked.md)                                     |
-| 32   | [Following in the Footsteps](../Browse/Complications/Following%20in%20the%20Footsteps.md) | 82   | [Sibling's Shield](../Browse/Complications/Siblings%20Shield.md)                          |
-| 33   | [Forbidden Romance](../Browse/Complications/Forbidden%20Romance.md)                       | 83   | [Silent Sentinel](../Browse/Complications/Silent%20Sentinel.md)                           |
-| 34   | [Frostheart](../Browse/Complications/Frostheart.md)                                       | 84   | [Slight Case of Lycanthropy](../Browse/Complications/Slight%20Case%20of%20Lycanthropy.md) |
-| 35   | [Getting Too Old for This](../Browse/Complications/Getting%20Too%20Old%20for%20This.md)   | 85   | [Stolen Face](../Browse/Complications/Stolen%20Face.md)                                   |
-| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](../Browse/Complications/Strange%20Inheritance.md)                   |
-| 37   | [Greening](../Browse/Complications/Greening.md)                                           | 87   | [Stripped of Rank](../Browse/Complications/Stripped%20of%20Rank.md)                       |
-| 38   | [Grifter](../Browse/Complications/Grifter.md)                                             | 88   | [Thrill Seeker](../Browse/Complications/Thrill%20Seeker.md)                               |
-| 39   | [Grounded](../Browse/Complications/Grounded.md)                                           | 89   | [Vampire Scion](../Browse/Complications/Vampire%20Scion.md)                               |
-| 40   | [Guilty Conscience](../Browse/Complications/Guilty%20Conscience.md)                       | 90   | [Voice in Your Head](../Browse/Complications/Voice%20in%20Your%20Head.md)                 |
-| 41   | [Hawk Rider](../Browse/Complications/Hawk%20Rider.md)                                     | 91   | [Vow of Duty](../Browse/Complications/Vow%20of%20Duty.md)                                 |
-| 42   | [Host Body](../Browse/Complications/Host%20Body.md)                                       | 92   | [Vow of Honesty](../Browse/Complications/Vow%20of%20Honesty.md)                           |
-| 43   | [Hunted](../Browse/Complications/Hunted.md)                                               | 93   | [Waking Dreams](../Browse/Complications/Waking%20Dreams.md)                               |
-| 44   | [Hunter](../Browse/Complications/Hunter.md)                                               | 94   | [War Dog Collar](../Browse/Complications/War%20Dog%20Collar.md)                           |
-| 45   | [Indebted](../Browse/Complications/Indebted.md)                                           | 95   | [War of Assassins](../Browse/Complications/War%20of%20Assassins.md)                       |
-| 46   | [Infernal Contract](../Browse/Complications/Infernal%20Contract.md)                       | 96   | [Ward](../Browse/Complications/Ward.md)                                                   |
-| 47   | [Infernal Contract](../Browse/Complications/Infernal%20Contract.md)... But, Like, Bad     | 97   | [Waterborn](../Browse/Complications/Waterborn.md)                                         |
-| 48   | [Ivory Tower](../Browse/Complications/Ivory%20Tower.md)                                   | 98   | [Wodewalker](../Browse/Complications/Wodewalker.md)                                       |
-| 49   | [Lifebonded](../Browse/Complications/Lifebonded.md)                                       | 99   | [Wrathful Spirit](../Browse/Complications/Wrathful%20Spirit.md)                           |
-| 50   | [Lightning Soul](../Browse/Complications/Lightning%20Soul.md)                             | 100  | [Wrongly Imprisoned](../Browse/Complications/Wrongly%20Imprisoned.md)                     |
+| 27   | [Fallen Immortal](../Browse/Complications/Fallen Immortal.md)                           | 77   | [Sewer Folk](../Browse/Complications/Sewer Folk.md)                                     |
+| 28   | [Famous Relative](../Browse/Complications/Famous Relative.md)                           | 78   | [Shadow](../Browse/Classes/Shadow.md) Born                                                |
+| 29   | [Feytouched](../Browse/Complications/Feytouched.md)                                       | 79   | [Shared Spirit](../Browse/Complications/Shared Spirit.md)                               |
+| 30   | [Fiery Ideal](../Browse/Complications/Fiery Ideal.md)                                   | 80   | [Shattered Legacy](../Browse/Complications/Shattered Legacy.md)                         |
+| 31   | [Fire and Chaos](../Browse/Complications/Fire and Chaos.md)                           | 81   | [Shipwrecked](../Browse/Complications/Shipwrecked.md)                                     |
+| 32   | [Following in the Footsteps](../Browse/Complications/Following in the Footsteps.md) | 82   | [Sibling's Shield](../Browse/Complications/Siblings Shield.md)                          |
+| 33   | [Forbidden Romance](../Browse/Complications/Forbidden Romance.md)                       | 83   | [Silent Sentinel](../Browse/Complications/Silent Sentinel.md)                           |
+| 34   | [Frostheart](../Browse/Complications/Frostheart.md)                                       | 84   | [Slight Case of Lycanthropy](../Browse/Complications/Slight Case of Lycanthropy.md) |
+| 35   | [Getting Too Old for This](../Browse/Complications/Getting Too Old for This.md)   | 85   | [Stolen Face](../Browse/Complications/Stolen Face.md)                                   |
+| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](../Browse/Complications/Strange Inheritance.md)                   |
+| 37   | [Greening](../Browse/Complications/Greening.md)                                           | 87   | [Stripped of Rank](../Browse/Complications/Stripped of Rank.md)                       |
+| 38   | [Grifter](../Browse/Complications/Grifter.md)                                             | 88   | [Thrill Seeker](../Browse/Complications/Thrill Seeker.md)                               |
+| 39   | [Grounded](../Browse/Complications/Grounded.md)                                           | 89   | [Vampire Scion](../Browse/Complications/Vampire Scion.md)                               |
+| 40   | [Guilty Conscience](../Browse/Complications/Guilty Conscience.md)                       | 90   | [Voice in Your Head](../Browse/Complications/Voice in Your Head.md)                 |
+| 41   | [Hawk Rider](../Browse/Complications/Hawk Rider.md)                                     | 91   | [Vow of Duty](../Browse/Complications/Vow of Duty.md)                                 |
+| 42   | [Host Body](../Browse/Complications/Host Body.md)                                       | 92   | [Vow of Honesty](../Browse/Complications/Vow of Honesty.md)                           |
+| 43   | [Hunted](../Browse/Complications/Hunted.md)                                               | 93   | [Waking Dreams](../Browse/Complications/Waking Dreams.md)                               |
+| 44   | [Hunter](../Browse/Complications/Hunter.md)                                               | 94   | [War Dog Collar](../Browse/Complications/War Dog Collar.md)                           |
+| 45   | [Indebted](../Browse/Complications/Indebted.md)                                           | 95   | [War of Assassins](../Browse/Complications/War of Assassins.md)                       |
+| 46   | [Infernal Contract](../Browse/Complications/Infernal Contract.md)                       | 96   | [Ward](../Browse/Complications/Ward.md)                                                   |
+| 47   | [Infernal Contract](../Browse/Complications/Infernal Contract.md)... But, Like, Bad     | 97   | [Waterborn](../Browse/Complications/Waterborn.md)                                         |
+| 48   | [Ivory Tower](../Browse/Complications/Ivory Tower.md)                                   | 98   | [Wodewalker](../Browse/Complications/Wodewalker.md)                                       |
+| 49   | [Lifebonded](../Browse/Complications/Lifebonded.md)                                       | 99   | [Wrathful Spirit](../Browse/Complications/Wrathful Spirit.md)                           |
+| 50   | [Lightning Soul](../Browse/Complications/Lightning Soul.md)                             | 100  | [Wrongly Imprisoned](../Browse/Complications/Wrongly Imprisoned.md)                     |
 
 ###### Complications Table
 
 | d100 | Complication                                                                                                     |
 | ---- | ---------------------------------------------------------------------------------------------------------------- |
-| 1    | [Advanced Studies](../Browse/Complications/Advanced%20Studies.md)                         |
+| 1    | [Advanced Studies](../Browse/Complications/Advanced Studies.md)                         |
 | 2    | [Amnesia](../Browse/Complications/Amnesia.md)                                             |
-| 3    | [Animal Form](../Browse/Complications/Animal%20Form.md)                                   |
+| 3    | [Animal Form](../Browse/Complications/Animal Form.md)                                   |
 | 4    | [Antihero](../Browse/Complications/Antihero.md)                                           |
-| 5    | [Artifact Bonded](../Browse/Complications/Artifact%20Bonded.md)                           |
+| 5    | [Artifact Bonded](../Browse/Complications/Artifact Bonded.md)                           |
 | 6    | [Bereaved](../Browse/Complications/Bereaved.md)                                           |
 | 7    | [Betrothed](../Browse/Complications/Betrothed.md)                                         |
-| 8    | [Chaos Touched](../Browse/Complications/Chaos%20Touched.md)                               |
-| 9    | [Chosen One](../Browse/Complications/Chosen%20One.md)                                     |
-| 10   | [Consuming Interest](../Browse/Complications/Consuming%20Interest.md)                     |
-| 11   | [Corrupted Mentor](../Browse/Complications/Corrupted%20Mentor.md)                         |
+| 8    | [Chaos Touched](../Browse/Complications/Chaos Touched.md)                               |
+| 9    | [Chosen One](../Browse/Complications/Chosen One.md)                                     |
+| 10   | [Consuming Interest](../Browse/Complications/Consuming Interest.md)                     |
+| 11   | [Corrupted Mentor](../Browse/Complications/Corrupted Mentor.md)                         |
 | 12   | [Coward](../Browse/Complications/Coward.md)                                               |
-| 13   | [Crash Landed](../Browse/Complications/Crash%20Landed.md)                                 |
-| 14   | [Cult Victim](../Browse/Complications/Cult%20Victim.md)                                   |
-| 15   | [Curse of Caution](../Browse/Complications/Curse%20of%20Caution.md)                       |
-| 16   | [Curse of Immortality](../Browse/Complications/Curse%20of%20Immortality.md)               |
-| 17   | [Curse of Misfortune](../Browse/Complications/Curse%20of%20Misfortune.md)                 |
-| 18   | [Curse of Poverty](../Browse/Complications/Curse%20of%20Poverty.md)                       |
-| 19   | [Curse of Punishment](../Browse/Complications/Curse%20of%20Punishment.md)                 |
-| 20   | [Curse of Stone](../Browse/Complications/Curse%20of%20Stone.md)                           |
-| 21   | [Cursed Weapon](../Browse/Complications/Cursed%20Weapon.md)                               |
+| 13   | [Crash Landed](../Browse/Complications/Crash Landed.md)                                 |
+| 14   | [Cult Victim](../Browse/Complications/Cult Victim.md)                                   |
+| 15   | [Curse of Caution](../Browse/Complications/Curse of Caution.md)                       |
+| 16   | [Curse of Immortality](../Browse/Complications/Curse of Immortality.md)               |
+| 17   | [Curse of Misfortune](../Browse/Complications/Curse of Misfortune.md)                 |
+| 18   | [Curse of Poverty](../Browse/Complications/Curse of Poverty.md)                       |
+| 19   | [Curse of Punishment](../Browse/Complications/Curse of Punishment.md)                 |
+| 20   | [Curse of Stone](../Browse/Complications/Curse of Stone.md)                           |
+| 21   | [Cursed Weapon](../Browse/Complications/Cursed Weapon.md)                               |
 | 22   | [Disgraced](../Browse/Complications/Disgraced.md)                                         |
-| 23   | [Dragon Dreams](../Browse/Complications/Dragon%20Dreams.md)                               |
-| 24   | [Elemental Inside](../Browse/Complications/Elemental%20Inside.md)                         |
+| 23   | [Dragon Dreams](../Browse/Complications/Dragon Dreams.md)                               |
+| 24   | [Elemental Inside](../Browse/Complications/Elemental Inside.md)                         |
 | 25   | [Evanesceria](../Browse/Complications/Evanesceria.md)                                     |
 | 26   | [Exile](../Browse/Complications/Exile.md)                                                 |
-| 27   | [Fallen Immortal](../Browse/Complications/Fallen%20Immortal.md)                           |
-| 28   | [Famous Relative](../Browse/Complications/Famous%20Relative.md)                           |
+| 27   | [Fallen Immortal](../Browse/Complications/Fallen Immortal.md)                           |
+| 28   | [Famous Relative](../Browse/Complications/Famous Relative.md)                           |
 | 29   | [Feytouched](../Browse/Complications/Feytouched.md)                                       |
-| 30   | [Fiery Ideal](../Browse/Complications/Fiery%20Ideal.md)                                   |
-| 31   | [Fire and Chaos](../Browse/Complications/Fire%20and%20Chaos.md)                           |
-| 32   | [Following in the Footsteps](../Browse/Complications/Following%20in%20the%20Footsteps.md) |
-| 33   | [Forbidden Romance](../Browse/Complications/Forbidden%20Romance.md)                       |
+| 30   | [Fiery Ideal](../Browse/Complications/Fiery Ideal.md)                                   |
+| 31   | [Fire and Chaos](../Browse/Complications/Fire and Chaos.md)                           |
+| 32   | [Following in the Footsteps](../Browse/Complications/Following in the Footsteps.md) |
+| 33   | [Forbidden Romance](../Browse/Complications/Forbidden Romance.md)                       |
 | 34   | [Frostheart](../Browse/Complications/Frostheart.md)                                       |
-| 35   | [Getting Too Old for This](../Browse/Complications/Getting%20Too%20Old%20for%20This.md)   |
+| 35   | [Getting Too Old for This](../Browse/Complications/Getting Too Old for This.md)   |
 | 36   | Gnoll-Mauled                                                                                                     |
 | 37   | [Greening](../Browse/Complications/Greening.md)                                           |
 | 38   | [Grifter](../Browse/Complications/Grifter.md)                                             |
 | 39   | [Grounded](../Browse/Complications/Grounded.md)                                           |
-| 40   | [Guilty Conscience](../Browse/Complications/Guilty%20Conscience.md)                       |
-| 41   | [Hawk Rider](../Browse/Complications/Hawk%20Rider.md)                                     |
-| 42   | [Host Body](../Browse/Complications/Host%20Body.md)                                       |
+| 40   | [Guilty Conscience](../Browse/Complications/Guilty Conscience.md)                       |
+| 41   | [Hawk Rider](../Browse/Complications/Hawk Rider.md)                                     |
+| 42   | [Host Body](../Browse/Complications/Host Body.md)                                       |
 | 43   | [Hunted](../Browse/Complications/Hunted.md)                                               |
 | 44   | [Hunter](../Browse/Complications/Hunter.md)                                               |
 | 45   | [Indebted](../Browse/Complications/Indebted.md)                                           |
-| 46   | [Infernal Contract](../Browse/Complications/Infernal%20Contract.md)                       |
-| 47   | [Infernal Contract](../Browse/Complications/Infernal%20Contract.md)... But, Like, Bad     |
-| 48   | [Ivory Tower](../Browse/Complications/Ivory%20Tower.md)                                   |
+| 46   | [Infernal Contract](../Browse/Complications/Infernal Contract.md)                       |
+| 47   | [Infernal Contract](../Browse/Complications/Infernal Contract.md)... But, Like, Bad     |
+| 48   | [Ivory Tower](../Browse/Complications/Ivory Tower.md)                                   |
 | 49   | [Lifebonded](../Browse/Complications/Lifebonded.md)                                       |
-| 50   | [Lightning Soul](../Browse/Complications/Lightning%20Soul.md)                             |
+| 50   | [Lightning Soul](../Browse/Complications/Lightning Soul.md)                             |
 | 51   | [Loner](../Browse/Complications/Loner.md)                                                 |
-| 52   | [Lost in Time](../Browse/Complications/Lost%20in%20Time.md)                               |
-| 53   | [Lost Your Head](../Browse/Complications/Lost%20Your%20Head.md)                           |
+| 52   | [Lost in Time](../Browse/Complications/Lost in Time.md)                               |
+| 53   | [Lost Your Head](../Browse/Complications/Lost Your Head.md)                           |
 | 54   | [Lucky](../Browse/Complications/Lucky.md)                                                 |
-| 55   | [Master Chef](../Browse/Complications/Master%20Chef.md)                                   |
-| 56   | [Meddling Butler](../Browse/Complications/Meddling%20Butler.md)                           |
+| 55   | [Master Chef](../Browse/Complications/Master Chef.md)                                   |
+| 56   | [Meddling Butler](../Browse/Complications/Meddling Butler.md)                           |
 | 57   | [Medium](../Browse/Complications/Medium.md)                                               |
-| 58   | [Medusa Blood](../Browse/Complications/Medusa%20Blood.md)                                 |
+| 58   | [Medusa Blood](../Browse/Complications/Medusa Blood.md)                                 |
 | 59   | [Misunderstood](../Browse/Complications/Misunderstood.md)                                 |
 | 60   | [Mundane](../Browse/Complications/Mundane.md)                                             |
 | 61   | [Outlaw](../Browse/Complications/Outlaw.md)                                               |
 | 62   | [Pirate](../Browse/Complications/Pirate.md)                                               |
 | 63   | [Preacher](../Browse/Complications/Preacher.md)                                           |
-| 64   | [Primordial Sickness](../Browse/Complications/Primordial%20Sickness.md)                   |
-| 65   | [Prisoner of the Synlirii](../Browse/Complications/Prisoner%20of%20the%20Synlirii.md)     |
-| 66   | [Promising Apprentice](../Browse/Complications/Promising%20Apprentice.md)                 |
-| 67   | [Psychic Eruption](../Browse/Complications/Psychic%20Eruption.md)                         |
-| 68   | [Raised by Beasts](../Browse/Complications/Raised%20by%20Beasts.md)                       |
+| 64   | [Primordial Sickness](../Browse/Complications/Primordial Sickness.md)                   |
+| 65   | [Prisoner of the Synlirii](../Browse/Complications/Prisoner of the Synlirii.md)     |
+| 66   | [Promising Apprentice](../Browse/Complications/Promising Apprentice.md)                 |
+| 67   | [Psychic Eruption](../Browse/Complications/Psychic Eruption.md)                         |
+| 68   | [Raised by Beasts](../Browse/Complications/Raised by Beasts.md)                       |
 | 69   | [Refugee](../Browse/Complications/Refugee.md)                                             |
 | 70   | [Rival](../Browse/Complications/Rival.md)                                                 |
-| 71   | [Rogue Talent](../Browse/Complications/Rogue%20Talent.md)                                 |
+| 71   | [Rogue Talent](../Browse/Complications/Rogue Talent.md)                                 |
 | 72   | [Runaway](../Browse/Complications/Runaway.md)                                             |
-| 73   | [Searching for a Cure](../Browse/Complications/Searching%20for%20a%20Cure.md)             |
-| 74   | [Secret Identity](../Browse/Complications/Secret%20Identity.md)                           |
-| 75   | [Secret Twin](../Browse/Complications/Secret%20Twin.md)                                   |
+| 73   | [Searching for a Cure](../Browse/Complications/Searching for a Cure.md)             |
+| 74   | [Secret Identity](../Browse/Complications/Secret Identity.md)                           |
+| 75   | [Secret Twin](../Browse/Complications/Secret Twin.md)                                   |
 | 76   | Self-Taught                                                                                                      |
-| 77   | [Sewer Folk](../Browse/Complications/Sewer%20Folk.md)                                     |
+| 77   | [Sewer Folk](../Browse/Complications/Sewer Folk.md)                                     |
 | 78   | [Shadow](../Browse/Classes/Shadow.md) Born                                                |
-| 79   | [Shared Spirit](../Browse/Complications/Shared%20Spirit.md)                               |
-| 80   | [Shattered Legacy](../Browse/Complications/Shattered%20Legacy.md)                         |
+| 79   | [Shared Spirit](../Browse/Complications/Shared Spirit.md)                               |
+| 80   | [Shattered Legacy](../Browse/Complications/Shattered Legacy.md)                         |
 | 81   | [Shipwrecked](../Browse/Complications/Shipwrecked.md)                                     |
-| 82   | [Sibling's Shield](../Browse/Complications/Siblings%20Shield.md)                          |
-| 83   | [Silent Sentinel](../Browse/Complications/Silent%20Sentinel.md)                           |
-| 84   | [Slight Case of Lycanthropy](../Browse/Complications/Slight%20Case%20of%20Lycanthropy.md) |
-| 85   | [Stolen Face](../Browse/Complications/Stolen%20Face.md)                                   |
-| 86   | [Strange Inheritance](../Browse/Complications/Strange%20Inheritance.md)                   |
-| 87   | [Stripped of Rank](../Browse/Complications/Stripped%20of%20Rank.md)                       |
-| 88   | [Thrill Seeker](../Browse/Complications/Thrill%20Seeker.md)                               |
-| 89   | [Vampire Scion](../Browse/Complications/Vampire%20Scion.md)                               |
-| 90   | [Voice in Your Head](../Browse/Complications/Voice%20in%20Your%20Head.md)                 |
-| 91   | [Vow of Duty](../Browse/Complications/Vow%20of%20Duty.md)                                 |
-| 92   | [Vow of Honesty](../Browse/Complications/Vow%20of%20Honesty.md)                           |
-| 93   | [Waking Dreams](../Browse/Complications/Waking%20Dreams.md)                               |
-| 94   | [War Dog Collar](../Browse/Complications/War%20Dog%20Collar.md)                           |
-| 95   | [War of Assassins](../Browse/Complications/War%20of%20Assassins.md)                       |
+| 82   | [Sibling's Shield](../Browse/Complications/Siblings Shield.md)                          |
+| 83   | [Silent Sentinel](../Browse/Complications/Silent Sentinel.md)                           |
+| 84   | [Slight Case of Lycanthropy](../Browse/Complications/Slight Case of Lycanthropy.md) |
+| 85   | [Stolen Face](../Browse/Complications/Stolen Face.md)                                   |
+| 86   | [Strange Inheritance](../Browse/Complications/Strange Inheritance.md)                   |
+| 87   | [Stripped of Rank](../Browse/Complications/Stripped of Rank.md)                       |
+| 88   | [Thrill Seeker](../Browse/Complications/Thrill Seeker.md)                               |
+| 89   | [Vampire Scion](../Browse/Complications/Vampire Scion.md)                               |
+| 90   | [Voice in Your Head](../Browse/Complications/Voice in Your Head.md)                 |
+| 91   | [Vow of Duty](../Browse/Complications/Vow of Duty.md)                                 |
+| 92   | [Vow of Honesty](../Browse/Complications/Vow of Honesty.md)                           |
+| 93   | [Waking Dreams](../Browse/Complications/Waking Dreams.md)                               |
+| 94   | [War Dog Collar](../Browse/Complications/War Dog Collar.md)                           |
+| 95   | [War of Assassins](../Browse/Complications/War of Assassins.md)                       |
 | 96   | [Ward](../Browse/Complications/Ward.md)                                                   |
 | 97   | [Waterborn](../Browse/Complications/Waterborn.md)                                         |
 | 98   | [Wodewalker](../Browse/Complications/Wodewalker.md)                                       |
-| 99   | [Wrathful Spirit](../Browse/Complications/Wrathful%20Spirit.md)                           |
-| 100  | [Wrongly Imprisoned](../Browse/Complications/Wrongly%20Imprisoned.md)                     |
+| 99   | [Wrathful Spirit](../Browse/Complications/Wrathful Spirit.md)                           |
+| 100  | [Wrongly Imprisoned](../Browse/Complications/Wrongly Imprisoned.md)                     |
 
 #### Advanced Studies
 
@@ -18335,7 +18335,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md), [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../Browse/Movement/Burrow.md) or [fly](../Browse/Movement/Fly.md), or to automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) or [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md), [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../Browse/Movement/Burrow.md) or [fly](../Browse/Movement/Fly.md), or to automatically [climb](../Browse/Movement/Climb or Swim.md) or [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -18377,7 +18377,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md), [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md), and [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md), [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md), and [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -18442,7 +18442,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a pi
 
 **Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](../Browse/Complications/Crash%20Landed.md).
+**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](../Browse/Complications/Crash Landed.md).
 
 #### Cult Victim
 
@@ -18516,7 +18516,7 @@ You're a [disgraced](../Browse/Complications/Disgraced.md) member of a powerful 
 
 You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven't told anyone about these dreams, except for your one strange relative who seems to know more than they're letting on.
 
-**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
+**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../Browse/Ancestries/Dragon Knight.md) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
 
 **Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
@@ -18554,7 +18554,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 #### Famous Relative
 
-Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../Browse/Complications/Famous%20Relative.md). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
+Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../Browse/Complications/Famous Relative.md). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
 **Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
@@ -18600,7 +18600,7 @@ You are in love with someone powerful, but tragic circumstances mean you cannot 
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and [presumed dead](../Browse/Titles/1st%20Echelon/Presumed%20Dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](../Browse/Titles/1st Echelon/Presumed Dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -18618,9 +18618,9 @@ You were once a renowned hero, but you've been living the last few years in blis
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
-**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
-**Drawback:** While you are [dazed](../Browse/Conditions/Dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against an adjacent creature.
+**Drawback:** While you are [dazed](../Browse/Conditions/Dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against an adjacent creature.
 
 **Special:** You can't take this complication if you can't be made [dazed](../Browse/Conditions/Dazed.md).
 
@@ -18644,7 +18644,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level [Elementalist](../Browse/Classes/Elementalist.md) Specialization feature [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md) (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist](../Browse/Classes/Elementalist.md) Specialization feature [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md) (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the [Motivate Earth](../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -18668,7 +18668,7 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../Browse/Complications/Host%20Body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../Browse/Complications/Host%20Body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../Browse/Complications/Host%20Body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../Browse/Complications/Host%20Body.md) dies if it was alive. Your new [host body](../Browse/Complications/Host%20Body.md) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](../Browse/Complications/Host%20Body.md)'s ancestry, which you instead gain from your new [host body](../Browse/Complications/Host%20Body.md). When you inhabit a new [host body](../Browse/Complications/Host%20Body.md), you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../Browse/Complications/Host Body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../Browse/Complications/Host Body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../Browse/Complications/Host Body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../Browse/Complications/Host Body.md) dies if it was alive. Your new [host body](../Browse/Complications/Host Body.md) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](../Browse/Complications/Host Body.md)'s ancestry, which you instead gain from your new [host body](../Browse/Complications/Host Body.md). When you inhabit a new [host body](../Browse/Complications/Host Body.md), you start with 1 Stamina and can immediately spend a Recovery.
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
@@ -18968,7 +18968,7 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.
 
-**Benefit:** You have the following ability, which you can use as a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+**Benefit:** You have the following ability, which you can use as a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ######## Telekinetic Grasp
@@ -19009,11 +19009,11 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
-**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../Browse/Complications/Secret%20Identity.md) for 1 day.
+**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../Browse/Complications/Secret Identity.md) for 1 day.
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](../Browse/Complications/Secret%20Twin.md) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](../Browse/Complications/Secret Twin.md) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -19029,7 +19029,7 @@ While your peers were learning their trades in fancy schools, you honed your cap
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
-**Benefit:** You can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) or [swim](../Browse/Movement/Climb%20or%20Swim.md) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+**Benefit:** You can automatically [climb](../Browse/Movement/Climb or Swim.md) or [swim](../Browse/Movement/Climb or Swim.md) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
 
 **Drawback:** You have poison weakness 5.
 
@@ -19067,7 +19067,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your [sibling's shield](../Browse/Complications/Siblings%20Shield.md) on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](../Browse/Complications/Siblings Shield.md) on your back, you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 
@@ -19085,9 +19085,9 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
 
-**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a [fury](../Browse/Classes/Fury.md) with the stormwight [primordial aspect](../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md).
+**Special:** You can't take this complication if you are a [fury](../Browse/Classes/Fury.md) with the stormwight [primordial aspect](../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md).
 
 #### Stolen Face
 
@@ -19122,7 +19122,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) [tactician](../Browse/Classes/Tactician.md) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) [tactician](../Browse/Classes/Tactician.md) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -19138,13 +19138,13 @@ You live for danger. Whether in battle or mundane peril, you can transcend your 
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
-**Benefit:** Whenever you make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+**Benefit:** Whenever you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 
 **Drawback:** While you have temporary Stamina from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
 
 #### Voice in Your Head
 
-You occasionally hear a [voice in your head](../Browse/Complications/Voice%20in%20Your%20Head.md), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](../Browse/Complications/Voice in Your Head.md), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
@@ -19213,7 +19213,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
-**Benefit:** You can automatically [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
+**Benefit:** You can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
 <!-- -->
 > ######## Rogue Wave
@@ -19270,7 +19270,7 @@ The advancement of a story shouldn't be halted by failing a test. For instance, 
 
 #### It Just Works!
 
-When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to [climb](../Browse/Movement/Climb%20or%20Swim.md) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can [climb](../Browse/Movement/Climb%20or%20Swim.md) up the wall without needing to make a test.
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to [climb](../Browse/Movement/Climb or Swim.md) a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can [climb](../Browse/Movement/Climb or Swim.md) up the wall without needing to make a test.
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
@@ -19286,13 +19286,13 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to [climb](../Browse/Movement/Climb%20or%20Swim.md). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to [climb](../Browse/Movement/Climb or Swim.md). If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
 ##### Might Tests
 
-You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, [swimming](../Browse/Movement/Climb%20or%20Swim.md) against a mighty current, and other feats of physical power.
+You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, [swimming](../Browse/Movement/Climb or Swim.md) against a mighty current, and other feats of physical power.
 
 ##### Agility Tests
 
@@ -19376,7 +19376,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to [climb](../Browse/Movement/Climb%20or%20Swim.md) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../Browse/Conditions/Prone.md). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](../Browse/Titles/4th%20Echelon/Monarch.md) is deathly allergic.
+For instance, if a hero suffers a consequence while trying to [climb](../Browse/Movement/Climb or Swim.md) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../Browse/Conditions/Prone.md). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](../Browse/Titles/4th Echelon/Monarch.md) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -19393,7 +19393,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 ##### Failure
 
-If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](../Browse/Movement/Climb%20or%20Swim.md) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](../Browse/Movement/Climb or Swim.md) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
@@ -19401,7 +19401,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in [climbing](../Browse/Movement/Climb%20or%20Swim.md) up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](../Browse/Movement/Climb%20or%20Swim.md) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in [climbing](../Browse/Movement/Climb or Swim.md) up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the [climb](../Browse/Movement/Climb or Swim.md) more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -19415,7 +19415,7 @@ If you succeed on a test without consequence or reward, you simply achieve whate
 
 If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends.
 
-The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while [climbing](../Browse/Movement/Climb%20or%20Swim.md) a wall, they might find a ladder at the top they can lower so that any allies [climbing](../Browse/Movement/Climb%20or%20Swim.md) up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
+The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while [climbing](../Browse/Movement/Climb or Swim.md) a wall, they might find a ladder at the top they can lower so that any allies [climbing](../Browse/Movement/Climb or Swim.md) up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
 
 As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a noble. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering magic from the noble's private stash in congratulations and admiration.
 
@@ -19525,11 +19525,11 @@ Sometimes you won't have a skill that applies to a test. That's okay! If your ch
 
 Although certain skills are often paired with one characteristic more than others, a skill can apply to a test made using any characteristic that makes sense. The Director has the final say on which characteristic is used to complete a task, and can call for a different characteristic based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The [Climb](../Browse/Movement/Climb%20or%20Swim.md) skill applies to both of these tests.
+For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The [Climb](../Browse/Movement/Climb or Swim.md) skill applies to both of these tests.
 
 #### Many Specific Skills
 
-*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](../Browse/Movement/Climb%20or%20Swim.md), [jumping](../Browse/Movement/Jump.md), [swimming](../Browse/Movement/Climb%20or%20Swim.md), and lifting heavy objects, your character might use separate [Climb](../Browse/Movement/Climb%20or%20Swim.md), [Jump](../Browse/Movement/Jump.md), Lift, and [Swim](../Browse/Movement/Climb%20or%20Swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](../Browse/Movement/Climb or Swim.md), [jumping](../Browse/Movement/Jump.md), [swimming](../Browse/Movement/Climb or Swim.md), and lifting heavy objects, your character might use separate [Climb](../Browse/Movement/Climb or Swim.md), [Jump](../Browse/Movement/Jump.md), Lift, and [Swim](../Browse/Movement/Climb or Swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
@@ -19540,12 +19540,12 @@ The rules for skills allow for them to be flexibly applied to any test that is a
 <!-- -->
 > **Edges on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../Browse/Classes/Conduit.md)'s [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md) in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit](../Browse/Classes/Conduit.md)'s [Blessing of Fortunate Weather](../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to [hide](../Browse/Abilities/Common/Maneuvers/Hide.md) in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
 <!-- -->
 > **Are All Skills Equal?**
 >
-> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](../Browse/Movement/Climb%20or%20Swim.md) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
+> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](../Browse/Movement/Climb or Swim.md) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
 
 #### Skill Groups
 
@@ -19555,9 +19555,9 @@ Skills are broken down into five skill groups: crafting, exploration, interperso
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
-Rewards for tests made with [crafting skills](../Browse/Skills/Crafting%20Skills.md) typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
+Rewards for tests made with [crafting skills](../Browse/Skills/Crafting Skills.md) typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
 
-Consequences for tests made with [crafting skills](../Browse/Skills/Crafting%20Skills.md) typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
+Consequences for tests made with [crafting skills](../Browse/Skills/Crafting Skills.md) typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
 ###### Crafting Skills Table
 
@@ -19578,9 +19578,9 @@ Consequences for tests made with [crafting skills](../Browse/Skills/Crafting%20S
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
-Rewards for tests made with [exploration skills](../Browse/Skills/Exploration%20Skills.md) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+Rewards for tests made with [exploration skills](../Browse/Skills/Exploration Skills.md) typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
 
-Consequences for tests made with [exploration skills](../Browse/Skills/Exploration%20Skills.md) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+Consequences for tests made with [exploration skills](../Browse/Skills/Exploration Skills.md) include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
 ###### Exploration Skills Table
 
@@ -19599,11 +19599,11 @@ Consequences for tests made with [exploration skills](../Browse/Skills/Explorati
 
 ##### Interpersonal Skills
 
-Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](../Browse/Skills/Interpersonal%20Skills.md) when you attempt to influence creatures who have emotions and who can understand you.
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use [interpersonal skills](../Browse/Skills/Interpersonal Skills.md) when you attempt to influence creatures who have emotions and who can understand you.
 
-Rewards for tests made with [interpersonal skills](../Browse/Skills/Interpersonal%20Skills.md) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+Rewards for tests made with [interpersonal skills](../Browse/Skills/Interpersonal Skills.md) typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
-Consequences for tests made with [interpersonal skills](../Browse/Skills/Interpersonal%20Skills.md) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+Consequences for tests made with [interpersonal skills](../Browse/Skills/Interpersonal Skills.md) include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 ###### Interpersonal Skills Table
 
@@ -19629,7 +19629,7 @@ Skills from the intrigue skill group are used in tasks centered around investiga
 
 Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
 
-Consequences for tests made with [intrigue skills](../Browse/Skills/Intrigue%20Skills.md) include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
+Consequences for tests made with [intrigue skills](../Browse/Skills/Intrigue Skills.md) include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
 ###### Intrigue Skills Table
 
@@ -19652,9 +19652,9 @@ Consequences for tests made with [intrigue skills](../Browse/Skills/Intrigue%20S
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
-Rewards for tests made with [lore skills](../Browse/Skills/Lore%20Skills.md) typically include learning an extra piece of useful information.
+Rewards for tests made with [lore skills](../Browse/Skills/Lore Skills.md) typically include learning an extra piece of useful information.
 
-Consequences for tests made with [lore skills](../Browse/Skills/Lore%20Skills.md) typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
+Consequences for tests made with [lore skills](../Browse/Skills/Lore Skills.md) typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
 
 ###### Lore Skills Table
 
@@ -19690,9 +19690,9 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](../Browse/Movement/Climb%20or%20Swim.md), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](../Browse/Movement/Climb or Swim.md), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](../Browse/Movement/Climb%20or%20Swim.md) skill.*
+**Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](../Browse/Movement/Climb or Swim.md) skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
@@ -19706,13 +19706,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to [climb](../Browse/Movement/Climb%20or%20Swim.md).*
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to [climb](../Browse/Movement/Climb or Swim.md).*
 
-**Director:** *It's not a [climb](../Browse/Movement/Climb%20or%20Swim.md) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+**Director:** *It's not a [climb](../Browse/Movement/Climb or Swim.md) that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second [climb](../Browse/Movement/Climb%20or%20Swim.md) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second [climb](../Browse/Movement/Climb or Swim.md) attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -19799,7 +19799,7 @@ While you are hidden from another creature and not in combat, you can attempt to
 
 ### Group Tests
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to [climb](../Browse/Movement/Climb%20or%20Swim.md) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to [climb](../Browse/Movement/Climb or Swim.md) the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
 #### Group Test Difficulty
 
@@ -19926,7 +19926,7 @@ When the test begins, the Director sets the scene. They tell the players that th
 
 Urdoncara, a [fury](../Browse/Classes/Fury.md), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a [tactician](../Browse/Classes/Tactician.md), wants to make a Reason test using the [Climb](../Browse/Movement/Climb%20or%20Swim.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](../Browse/Movement/Climb%20or%20Swim.md) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](../Browse/Classes/Tactician.md), wants to make a Reason test using the [Climb](../Browse/Movement/Climb or Swim.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](../Browse/Movement/Climb or Swim.md) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
 Karrel, an [elementalist](../Browse/Classes/Elementalist.md), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
@@ -20036,7 +20036,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../Browse/Classes/Shadow.md)'s [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md) ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../Browse/Classes/Shadow.md)'s [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level Features/Hesitation Is Weakness.md) ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
@@ -20054,9 +20054,9 @@ The [Movement](#page-281-3) section below breaks down how your move action works
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../Browse/Classes/Fury.md) hero can use the [Lines of Force](../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force.md) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../Browse/Classes/Fury.md) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../Browse/Classes/Fury.md) hero can use the [Lines of Force](../Browse/Abilities/Fury/1st-Level Features/Lines of Force.md) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../Browse/Classes/Fury.md) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../Browse/Classes/Shadow.md) hero can use their [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../Browse/Classes/Shadow.md) can still use their [In All This Confusion](../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../Browse/Classes/Shadow.md) hero can use their [Hesitation Is Weakness](../Browse/Features/Shadow/1st-Level Features/Hesitation Is Weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../Browse/Classes/Shadow.md) can still use their [In All This Confusion](../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -20068,7 +20068,7 @@ Boring stuff like opening an unlocked door, picking up an arrow from the ground,
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
-Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](../Browse/Classes/Talent.md) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](../Browse/Classes/Tactician.md) ally decked out in the [Shining Armor](../Browse/Kits/Shining%20Armor.md) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](../Browse/Classes/Talent.md) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](../Browse/Classes/Tactician.md) ally decked out in the [Shining Armor](../Browse/Kits/Shining Armor.md) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
@@ -20080,9 +20080,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) or [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) or [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -20106,7 +20106,7 @@ You can't shift into or while within difficult terrain or damaging terrain (see 
 
 #### Movement Types
 
-Creatures in the game can use eight types of movement: [walk](../Browse/Movement/Walk.md), [burrow](../Browse/Movement/Burrow.md), [climb](../Browse/Movement/Climb%20or%20Swim.md), [swim](../Browse/Movement/Climb%20or%20Swim.md), [jump](../Browse/Movement/Jump.md), [crawl](../Browse/Movement/Crawl.md), [fly](../Browse/Movement/Fly.md), and [teleport](../Browse/Movement/Teleport.md).
+Creatures in the game can use eight types of movement: [walk](../Browse/Movement/Walk.md), [burrow](../Browse/Movement/Burrow.md), [climb](../Browse/Movement/Climb or Swim.md), [swim](../Browse/Movement/Climb or Swim.md), [jump](../Browse/Movement/Jump.md), [crawl](../Browse/Movement/Crawl.md), [fly](../Browse/Movement/Fly.md), and [teleport](../Browse/Movement/Teleport.md).
 
 ##### Walk
 
@@ -20118,9 +20118,9 @@ A creature who has "burrow" in their speed entry, or who gains the temporary abi
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../Browse/Movement/Dig%20Maneuver.md), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../Browse/Movement/Dig Maneuver.md), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the [Dig maneuver](../Browse/Movement/Dig%20Maneuver.md), they can move vertically up to a number of squares equal to their size. If a [burrowing](../Browse/Movement/Burrow.md) creature has a creature who is not unconscious [grabbed](../Browse/Conditions/Grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](../Browse/Movement/Dig Maneuver.md), they can move vertically up to a number of squares equal to their size. If a [burrowing](../Browse/Movement/Burrow.md) creature has a creature who is not unconscious [grabbed](../Browse/Conditions/Grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
@@ -20156,21 +20156,21 @@ While a creature who is completely beneath the ground while [burrowing](../Brows
 
 ##### Climb or Swim
 
-A creature who has "[climb](../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry, or who gains the temporary ability to automatically [climb](../Browse/Movement/Climb%20or%20Swim.md), can [climb](../Browse/Movement/Climb%20or%20Swim.md) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry, or who gains the temporary ability to automatically [swim](../Browse/Movement/Climb%20or%20Swim.md), can [swim](../Browse/Movement/Climb%20or%20Swim.md) in liquid at full speed.
+A creature who has "[climb](../Browse/Movement/Climb or Swim.md)" in their speed entry, or who gains the temporary ability to automatically [climb](../Browse/Movement/Climb or Swim.md), can [climb](../Browse/Movement/Climb or Swim.md) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../Browse/Movement/Climb or Swim.md)" in their speed entry, or who gains the temporary ability to automatically [swim](../Browse/Movement/Climb or Swim.md), can [swim](../Browse/Movement/Climb or Swim.md) in liquid at full speed.
 
-Creatures without those types of movement can still [climb](../Browse/Movement/Climb%20or%20Swim.md) or [swim](../Browse/Movement/Climb%20or%20Swim.md) when a rule allows them to move, but each square of [climbing](../Browse/Movement/Climb%20or%20Swim.md) or [swimming](../Browse/Movement/Climb%20or%20Swim.md) costs 2 squares of movement. If a surface is difficult to [climb](../Browse/Movement/Climb%20or%20Swim.md) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../Browse/Movement/Climb%20or%20Swim.md) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../Browse/Movement/Climb%20or%20Swim.md) or [swim](../Browse/Movement/Climb%20or%20Swim.md) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](../Browse/Movement/Climb or Swim.md) or [swim](../Browse/Movement/Climb or Swim.md) when a rule allows them to move, but each square of [climbing](../Browse/Movement/Climb or Swim.md) or [swimming](../Browse/Movement/Climb or Swim.md) costs 2 squares of movement. If a surface is difficult to [climb](../Browse/Movement/Climb or Swim.md) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../Browse/Movement/Climb or Swim.md) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../Browse/Movement/Climb or Swim.md) or [swim](../Browse/Movement/Climb or Swim.md) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
-You can attempt to [climb](../Browse/Movement/Climb%20or%20Swim.md) a creature whose size is greater than yours. If the creature is willing, you can [climb](../Browse/Movement/Climb%20or%20Swim.md) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](../Browse/Movement/Climb or Swim.md) a creature whose size is greater than yours. If the creature is willing, you can [climb](../Browse/Movement/Climb or Swim.md) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](../Browse/Movement/Climb%20or%20Swim.md) the creature, and they can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you.
-- **12-16:** You fail to [climb](../Browse/Movement/Climb%20or%20Swim.md) the creature.
-- **17+:** You [climb](../Browse/Movement/Climb%20or%20Swim.md) the creature.
+- **≤11:** You fail to [climb](../Browse/Movement/Climb or Swim.md) the creature, and they can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against you.
+- **12-16:** You fail to [climb](../Browse/Movement/Climb or Swim.md) the creature.
+- **17+:** You [climb](../Browse/Movement/Climb or Swim.md) the creature.
 
-While you [climb](../Browse/Movement/Climb%20or%20Swim.md) or [ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](../Browse/Movement/Climb or Swim.md) or [ride](../Browse/Abilities/Common/Move Actions/Ride.md) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
@@ -20178,11 +20178,11 @@ While you [climb](../Browse/Movement/Climb%20or%20Swim.md) or [ride](../Browse/A
 - **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](../Browse/Conditions/Prone.md).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](../Browse/Conditions/Prone.md) while [climbing](../Browse/Movement/Climb%20or%20Swim.md) or riding a creature, you fall and land [prone](../Browse/Conditions/Prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](../Browse/Conditions/Prone.md) while [climbing](../Browse/Movement/Climb or Swim.md) or riding a creature, you fall and land [prone](../Browse/Conditions/Prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
 If you want to [jump](../Browse/Movement/Jump.md) even longer or higher than your baseline jump allows, make a Might or Agility test:
 
@@ -20215,7 +20215,7 @@ When a creature [teleports](../Browse/Movement/Teleport.md), they move from one 
 - A creature [teleporting](../Browse/Movement/Teleport.md) themself must have line of effect to their destination space. A creature [teleporting](../Browse/Movement/Teleport.md) another creature must have line of effect from the space the [teleported](../Browse/Movement/Teleport.md) creature leaves and to their destination space.
 - A [teleporting](../Browse/Movement/Teleport.md) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](../Browse/Movement/Teleport.md) indicates how far they can [teleport](../Browse/Movement/Teleport.md). That distance can be greater than the creature's speed.
-- If a creature can [teleport](../Browse/Movement/Teleport.md) as part of their usual movement, they can use the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action to [teleport](../Browse/Movement/Teleport.md) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature can [teleport](../Browse/Movement/Teleport.md) as part of their usual movement, they can use the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action to [teleport](../Browse/Movement/Teleport.md) a number of squares up to their usual speed, unmodified by conditions or effects.
 - If a creature [teleports](../Browse/Movement/Teleport.md) while [prone](../Browse/Conditions/Prone.md), they can be standing when they reach their destination space provided they are able to stand. If a [prone](../Browse/Conditions/Prone.md) creature is [teleported](../Browse/Movement/Teleport.md) by another creature, it is up to that creature whether the [teleported](../Browse/Movement/Teleport.md) creature remains [prone](../Browse/Conditions/Prone.md) or stands if they are able.
 - If you [teleport](../Browse/Movement/Teleport.md) while affected by the [grabbed](../Browse/Conditions/Grabbed.md) or [restrained](../Browse/Conditions/Restrained.md) conditions, those conditions end for you.
 - When a creature [teleports](../Browse/Movement/Teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../Browse/Movement/Teleport.md) to and from the same space.
@@ -20246,7 +20246,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while [climbing](../Browse/Movement/Climb%20or%20Swim.md) only if they have "climb" in their speed entry or can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+A creature can gain this benefit while [climbing](../Browse/Movement/Climb or Swim.md) only if they have "climb" in their speed entry or can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 #### Forced Movement
 
@@ -20339,15 +20339,15 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 
 #### Advance
 
-When a creature takes the [Advance](../Browse/Abilities/Common/Move%20Actions/Advance.md) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](../Browse/Abilities/Common/Move Actions/Advance.md) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
 #### Disengage
 
-When a creature takes the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they [disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md). A creature who does so can break up their shift with their maneuver and main action however they wish.
+When a creature takes the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they [disengage](../Browse/Abilities/Common/Move Actions/Disengage.md). A creature who does so can break up their shift with their maneuver and main action however they wish.
 
 #### Ride
 
-A creature can take the [Ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) move action to have their mount use the [Disengage](../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action. A creature can use the [Ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the [Ride](../Browse/Abilities/Common/Move Actions/Ride.md) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](../Browse/Abilities/Common/Move Actions/Ride.md) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../Browse/Abilities/Common/Move Actions/Ride.md) move action to have their mount use the [Disengage](../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action. A creature can use the [Ride](../Browse/Abilities/Common/Move Actions/Ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -20357,13 +20357,13 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 
 #### Aid Attack
 
-A creature who uses the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid%20Attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+A creature who uses the [Aid Attack](../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
 
 #### Catch Breath
 
-A creature who uses the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
+A creature who uses the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
 
-A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver, but other creatures can help them spend Recoveries in other ways.
+A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver, but other creatures can help them spend Recoveries in other ways.
 
 #### Escape Grab
 
@@ -20379,7 +20379,7 @@ A creature who is [grabbed](../Browse/Conditions/Grabbed.md) by another creature
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the [grab](../Browse/Abilities/Common/Maneuvers/Grab.md), but if you do, a creature who has you [grabbed](../Browse/Conditions/Grabbed.md) can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you before you are no longer [grabbed](../Browse/Conditions/Grabbed.md).
+> - **12-16:** You can escape the [grab](../Browse/Abilities/Common/Maneuvers/Grab.md), but if you do, a creature who has you [grabbed](../Browse/Conditions/Grabbed.md) can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against you before you are no longer [grabbed](../Browse/Conditions/Grabbed.md).
 > - **17+:** You are no longer [grabbed](../Browse/Conditions/Grabbed.md).
 >
 > **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../Browse/Conditions/Grabbed.md).
@@ -20400,7 +20400,7 @@ A creature seeking to keep a foe close and locked down can attempt to [grab](../
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target, but if you do, the target can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you before they are [grabbed](../Browse/Conditions/Grabbed.md).
+> - **12-16:** You can [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target, but if you do, the target can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against you before they are [grabbed](../Browse/Conditions/Grabbed.md).
 > - **17+:** The target is [grabbed](../Browse/Conditions/Grabbed.md) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
@@ -20454,53 +20454,53 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) into battle, defend yourself, or make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+You can also use your main action to help another creature regain Stamina, [charge](../Browse/Abilities/Common/Main Actions/Charge.md) into battle, defend yourself, or make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, they move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword, they can use that ability against the target instead of a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+When a creature takes the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action, they move up to their speed in a straight line, then make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword, they can use that ability against the target instead of a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
-A creature can't move through difficult terrain or shift when they [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md). They can [fly](../Browse/Movement/Fly.md) or [burrow](../Browse/Movement/Burrow.md) as part of the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action if they have that movement available to them, but they can't [climb](../Browse/Movement/Climb%20or%20Swim.md) or [swim](../Browse/Movement/Climb%20or%20Swim.md) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they [charge](../Browse/Abilities/Common/Main Actions/Charge.md). They can [fly](../Browse/Movement/Fly.md) or [burrow](../Browse/Movement/Burrow.md) as part of the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action if they have that movement available to them, but they can't [climb](../Browse/Movement/Climb or Swim.md) or [swim](../Browse/Movement/Climb or Swim.md) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
-When a creature takes the [Defend](../Browse/Abilities/Common/Main%20Actions/Defend.md) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../Browse/Conditions/Taunted.md) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+When a creature takes the [Defend](../Browse/Abilities/Common/Main Actions/Defend.md) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../Browse/Conditions/Taunted.md) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
 
 #### Free Strike
 
-A creature can use this main action to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) are available for when all else fails. For instance, a [fury](../Browse/Classes/Fury.md) who has no other options for ranged strikes might use the Ranged Weapon [Free Strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) ability with an improvised weapon when battling a [flying](../Browse/Movement/Fly.md) foe.
+A creature can use this main action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) are available for when all else fails. For instance, a [fury](../Browse/Classes/Fury.md) who has no other options for ranged strikes might use the Ranged Weapon [Free Strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) ability with an improvised weapon when battling a [flying](../Browse/Movement/Fly.md) foe.
 
 #### Heal
 
-A creature who uses the [Heal](../Browse/Abilities/Common/Main%20Actions/Heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+A creature who uses the [Heal](../Browse/Abilities/Common/Main Actions/Heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
 ### Free Strikes
 
-Every creature can use a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) when the rules call for it. Specific rules let you use [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action lets you move and use a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) in one main action (see [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) above).
+Every creature can use a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) when the rules call for it. Specific rules let you use [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action lets you move and use a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) in one main action (see [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) above).
 
-Many rules and abilities allow heroes to make [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) when it isn't their turn, such as the [tactician](../Browse/Classes/Tactician.md)'s [Overwatch](../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch.md) ability. As well, all characters can make an opportunity attack [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+Many rules and abilities allow heroes to make [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) when it isn't their turn, such as the [tactician](../Browse/Classes/Tactician.md)'s [Overwatch](../Browse/Abilities/Tactician/1st-Level Features/Overwatch.md) ability. As well, all characters can make an opportunity attack [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](../Browse/Classes/Tactician.md)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 
-Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
+Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
 
 If a creature has a bane or double bane on the power roll against the enemy, they can't make an opportunity attack.
 
 #### Standard Free Strikes
 
-Every hero has two standard [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) abilities available to them. Your class might give you additional [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
+Every hero has two standard [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) abilities available to them. Your class might give you additional [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
 
-A melee weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+A melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 **<span class="steel-compendium-feature">Melee Weapon Free Strike</span>**
 
-| **[Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Stike, Weapon** |               **Main action** |
+| **[Charge](../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Stike, Weapon** |               **Main action** |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 | **📏 Melee 1**                                                                                                 | **🎯 One creature or object** |
 
@@ -20580,7 +20580,7 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Recoveries and Recovery Value
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 #### Winded
 
@@ -20590,7 +20590,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat. Additionally, you are [bleeding](../Browse/Conditions/Bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver in combat. Additionally, you are [bleeding](../Browse/Conditions/Bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -20637,7 +20637,7 @@ The Director can decide that a well-made or poorly made object has more or less 
 
 ### Underwater Combat
 
-If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, their power rolls take a bane.
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, their power rolls take a bane.
 
 ### Suffocating
 
@@ -20647,7 +20647,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../Browse/Movement/Climb%20or%20Swim.md) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](../Browse/Abilities/Common/Move%20Actions/Ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../Browse/Movement/Climb or Swim.md) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](../Browse/Abilities/Common/Move Actions/Ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
 If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](../Browse/Movement/Teleport.md) separately.
 
@@ -20713,7 +20713,7 @@ Sometimes combat is complicated by the fact that the heroes need to stop the vil
 
 ##### Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../Browse/Ancestries/Time%20Raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../Browse/Ancestries/Time%20Raider.md) actually aboard.
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../Browse/Ancestries/Time Raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../Browse/Ancestries/Time Raider.md) actually aboard.
 
 #### Dramatic Finish
 
@@ -21503,7 +21503,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 <!-- -->
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial%20Artist.md) or [Sniper](../Browse/Kits/Sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](../Browse/Kits/Martial Artist.md) or [Sniper](../Browse/Kits/Sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -21691,7 +21691,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -21725,7 +21725,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
+**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can shift up to 3 squares, or you can use the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver as a free maneuver (see [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0)).
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../Browse/Movement/Hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
@@ -21767,7 +21767,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
+**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../Browse/Conditions/Weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../Browse/Conditions/Weakened.md) effect ends, you can use a free triggered action to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them.
 
 **Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../Browse/Movement/Teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
@@ -21805,7 +21805,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial%20Artist.md) and [Pugilist](../Browse/Kits/Pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../Browse/Kits/Martial Artist.md) and [Pugilist](../Browse/Kits/Pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../Browse/Classes/Elementalist.md) and [nulls](../Browse/Classes/Null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -22149,7 +22149,7 @@ When you seek to learn from a master, you choose the goal you wish to work on as
 
 ##### Acquire Ability
 
-You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) ability instead. You can't gain this benefit again for the same class.
+You gain one signature ability of your choice from the master's class (gaining a second signature ability if the master is of the same class as you). If the master is a [tactician](../Browse/Classes/Tactician.md), you can gain the [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md) ability instead. You can't gain this benefit again for the same class.
 
 ##### Hone Ability
 
@@ -22358,7 +22358,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
-Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../Browse/Ancestries/Time%20Raider.md) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
+Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../Browse/Ancestries/Time Raider.md) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
 Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different look might wear an earring as a piercing anywhere else they desire.
 
@@ -22372,9 +22372,9 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 ##### Treasures and Kits
 
-To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../Browse/Kits/Warrior%20Priest.md) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
+To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../Browse/Kits/Warrior Priest.md) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../Browse/Classes/Conduit.md)'s [Prayer of Soldier's Skill](../Browse/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Soldiers%20Skill.md).
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../Browse/Classes/Conduit.md)'s [Prayer of Soldier's Skill](../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Soldiers Skill.md).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -22431,7 +22431,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](../Browse/Classes/Shadow.md))
 
-**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** You can [teleport](../Browse/Movement/Teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../Browse/Movement/Teleport.md) the target up to 4 squares.
@@ -22697,7 +22697,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../Browse/Conditions/Grabbed.md). While [grabbed](../Browse/Conditions/Grabbed.md) this way, the creature is [bleeding](../Browse/Conditions/Bleeding.md). You can also [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../Browse/Conditions/Grabbed.md). While [grabbed](../Browse/Conditions/Grabbed.md) this way, the creature is [bleeding](../Browse/Conditions/Bleeding.md). You can also [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -22919,7 +22919,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using the [Timesplitter](../Browse/Treasures/Consumables/3rd%20Echelon%20Consumables/Timesplitter.md), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using the [Timesplitter](../Browse/Treasures/Consumables/3rd Echelon Consumables/Timesplitter.md), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](../Browse/Conditions/Slowed.md) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../Browse/Conditions/Slowed.md) (save ends).
@@ -23107,7 +23107,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as a free maneuver once during the fall before you hit the ground.
 
 ##### Displacing Replacement Bracer
 
@@ -23173,7 +23173,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../Browse/Movement/Climb%20or%20Swim.md) unless you are force moved, and any creature [grabbed](../Browse/Conditions/Grabbed.md) by you takes a bane on the test for the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../Browse/Movement/Climb or Swim.md) unless you are force moved, and any creature [grabbed](../Browse/Conditions/Grabbed.md) by you takes a bane on the test for the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
 
 ##### Hellcharger Helm
 
@@ -23189,7 +23189,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
 
 ##### Mask of the Many
 
@@ -23337,7 +23337,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
 
 ##### Scannerstone
 
@@ -23535,7 +23535,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals an extra 3 psychic damage.
 
 ### Leveled Treasures
 
@@ -23598,7 +23598,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
@@ -23650,7 +23650,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a [time raider](../Browse/Ancestries/Time%20Raider.md) who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](../Browse/Ancestries/Time Raider.md) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 
@@ -23682,7 +23682,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](../Browse/Conditions/Dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../Browse/Conditions/Dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../Browse/Conditions/Grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../Browse/Conditions/Dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../Browse/Conditions/Grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver against you and when making strikes against you.
 
 ##### Shrouded Memory
 
@@ -23760,7 +23760,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../Browse/Conditions/Grabbed.md) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver while [grabbed](../Browse/Conditions/Grabbed.md) this way takes a bane on the test.
+**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver while [grabbed](../Browse/Conditions/Grabbed.md) this way takes a bane on the test.
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../Browse/Conditions/Grabbed.md) up to 5 squares.
 
@@ -23870,11 +23870,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 ##### Words Become Wonders at Next Breath
 
-*This ornate [high elf](../Browse/Ancestries/High%20Elf.md) tome seems to sigh each time it is opened.*
+*This ornate [high elf](../Browse/Ancestries/High Elf.md) tome seems to sigh each time it is opened.*
 
 **Keywords:** Implement, Magic
 
-**Item Prerequisite:** Written permission from a [high elf](../Browse/Ancestries/High%20Elf.md) magistrate
+**Item Prerequisite:** Written permission from a [high elf](../Browse/Ancestries/High Elf.md) magistrate
 
 **Project Source:** Texts or lore in Hyrallic
 
@@ -24046,7 +24046,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action and use an ability with the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword, or whenever you use an ability that allows you to shift, you can [fly](../Browse/Movement/Fly.md) as part of the [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) movement or the shift. If you don't end your [flying](../Browse/Movement/Fly.md) movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action and use an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword, or whenever you use an ability that allows you to shift, you can [fly](../Browse/Movement/Fly.md) as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md) movement or the shift. If you don't end your [flying](../Browse/Movement/Fly.md) movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be [vertical](../Browse/Movement/Vertical.md).
 
@@ -24064,11 +24064,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. A target [grabbed](../Browse/Conditions/Grabbed.md) in this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. A target [grabbed](../Browse/Conditions/Grabbed.md) in this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../Browse/Conditions/Grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../Browse/Conditions/Grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
 
-**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../Browse/Conditions/Grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) with another weapon against a target [grabbed](../Browse/Conditions/Grabbed.md) using the net.
+**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../Browse/Conditions/Grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) with another weapon against a target [grabbed](../Browse/Conditions/Grabbed.md) using the net.
 
 ##### Onerous Bow
 
@@ -24124,7 +24124,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../Browse/Conditions/Dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) using this weapon against the creature.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../Browse/Conditions/Dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using this weapon against the creature.
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
@@ -24162,11 +24162,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) and can move up to 2 squares before or after the strike.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 #### Other Leveled Treasures
 
@@ -24208,9 +24208,9 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) option or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
+**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) option or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) option, or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) option, or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
 
 ##### Lightning Treads
 
@@ -24350,7 +24350,7 @@ Each title comes with a new ability or other special benefit. By earning titles,
 
 ### Title Requirements
 
-Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](../Browse/Titles/4th%20Echelon/Monarch.md) title—win a kingdom!
+Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](../Browse/Titles/4th Echelon/Monarch.md) title—win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon simply because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -24358,7 +24358,7 @@ Although the Director gives out titles, if you want to earn a specific title, le
 
 ### Title Echelons
 
-Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](../Browse/Titles/4th%20Echelon/Monarch.md) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
+Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](../Browse/Titles/4th Echelon/Monarch.md) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
 
 <!-- -->
 > For the Director: Granting Titles Early
@@ -24369,12 +24369,12 @@ Each title is assigned to an echelon of play where it is most likely to be earne
 
 This section details a number of ready-to-use titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title. Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](../Browse/Titles/1st%20Echelon/Brawler.md) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
+The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](../Browse/Titles/1st Echelon/Brawler.md) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
 <!-- -->
 > **For the Director: Perks as Custom Titles**
 >
-> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](../Browse/Perks/Supernatural%20Perks/Familiar.md) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
+> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](../Browse/Perks/Supernatural Perks/Familiar.md) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
 
 ### How Many Titles?
 
@@ -24384,7 +24384,7 @@ Just because a hero meets the prerequisite for a title doesn't mean it is grante
 
 Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular fate reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](../Browse/Titles/1st%20Echelon/Brawler.md) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](../Browse/Titles/1st Echelon/Brawler.md) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
 
 ### Granting Titles
 
@@ -24404,7 +24404,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 <!-- -->
 > **For the Director: Planning Titles**
 >
-> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](../Browse/Titles/3rd%20Echelon/Demon%20Slayer.md) or [Dragon Blooded](../Browse/Titles/3rd%20Echelon/Dragon%20Blooded.md) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](../Browse/Titles/4th%20Echelon/Demigod.md) title?
+> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](../Browse/Titles/3rd Echelon/Demon Slayer.md) or [Dragon Blooded](../Browse/Titles/3rd Echelon/Dragon Blooded.md) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](../Browse/Titles/4th Echelon/Demigod.md) title?
 
 #### Ancient Loremaster
 
@@ -24440,7 +24440,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../Browse/Conditions/Grabbed.md) or [restrained](../Browse/Conditions/Restrained.md), your [free strikes](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) don't take a bane when those conditions would impose one.
+- *Headbutt:* While you are [grabbed](../Browse/Conditions/Grabbed.md) or [restrained](../Browse/Conditions/Restrained.md), your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
 #### City Rat
@@ -24483,7 +24483,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md) 1st-level [Hurl Element](../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md) 1st-level [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
@@ -24530,7 +24530,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Arcane Dampening:* When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.
-- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them as a triggered action.
+- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
 #### Marshal
@@ -24543,7 +24543,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
 - *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../Browse/Movement/Jump.md) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) feature from the [censor](../Browse/Classes/Censor.md) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) unless you have the [Wrath](../Browse/Features/Censor/1st-Level%20Features/Wrath.md) class feature.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) feature from the [censor](../Browse/Classes/Censor.md) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) unless you have the [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -24625,7 +24625,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *Deep-Sea Diver:* You can automatically [swim](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
+- *Deep-Sea Diver:* You can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving.
 - *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your distance from the ship.
 - *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
 - *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
@@ -24653,7 +24653,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
 #### Zombie Slayer
 
@@ -24691,7 +24691,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../Browse/Conditions/Prone.md) creatures. Additionally, being [prone](../Browse/Conditions/Prone.md) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../Browse/Conditions/Grabbed.md), you can use them as a weapon when you make a melee weapon [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Both the target and the [grabbed](../Browse/Conditions/Grabbed.md) enemy take the strike's damage.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../Browse/Conditions/Grabbed.md), you can use them as a weapon when you make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). Both the target and the [grabbed](../Browse/Conditions/Grabbed.md) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -24719,7 +24719,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Foresight:* You don't take a bane when using abilities against creatures with concealment.
-- *[Rogue Talent](../Browse/Complications/Rogue%20Talent.md):* Choose one triggered action that the [talent](../Browse/Classes/Talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
+- *[Rogue Talent](../Browse/Complications/Rogue Talent.md):* Choose one triggered action that the [talent](../Browse/Classes/Talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
 #### Battlefield Commander
@@ -24741,10 +24741,10 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) main action.
+> **Effect:** Each target can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../Browse/Classes/Tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../Browse/Classes/Tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) feature.
 
 #### Blood Magic
 
@@ -24762,7 +24762,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the [Ship Captain](../Browse/Titles/1st%20Echelon/Ship%20Captain.md) title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](../Browse/Titles/1st Echelon/Ship Captain.md) title, and you sink or capture a ship of equal or greater size than your own.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24775,7 +24775,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
-**Prerequisite:** You have the [Faction Member](../Browse/Titles/1st%20Echelon/Faction%20Member.md) title, and you greatly advance the faction's goals.
+**Prerequisite:** You have the [Faction Member](../Browse/Titles/1st Echelon/Faction Member.md) title, and you greatly advance the faction's goals.
 
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 
@@ -24820,7 +24820,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../Browse/Movement/Climb%20or%20Swim.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../Browse/Movement/Climb%20or%20Swim.md) skill. While you're [climbing](../Browse/Movement/Climb%20or%20Swim.md) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../Browse/Movement/Climb or Swim.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../Browse/Movement/Climb or Swim.md) skill. While you're [climbing](../Browse/Movement/Climb or Swim.md) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
 #### Godsworn
 
@@ -24830,7 +24830,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the [Deities and](#page-369-0) [Domains table](#page-369-0) in [Chapter 14: Gods and Religion](#page-367-1). From that god or saint's domains, choose a [Conduit](#page-108-0) 1st-level domain feature (see [Chapter 5: Classes](#page-83-2)).
 
@@ -24838,7 +24838,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Everybody know their assignments? All right, let's go.*
 
-**Prerequisite:** You have the [Troupe Leading Player](../Browse/Titles/1st%20Echelon/Troupe%20Leading%20Player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
+**Prerequisite:** You have the [Troupe Leading Player](../Browse/Titles/1st Echelon/Troupe Leading Player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24894,7 +24894,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *You want to know the exact coordinates of the **Gem of the Waves** shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.*
 
-**Prerequisite:** You have the [Ancient Loremaster](../Browse/Titles/1st%20Echelon/Ancient%20Loremaster.md) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
+**Prerequisite:** You have the [Ancient Loremaster](../Browse/Titles/1st Echelon/Ancient Loremaster.md) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24912,7 +24912,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md) college features [Coat the Blade](../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade.md) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) unless you have the [Insight](../Browse/Features/Shadow/1st-Level%20Features/Insight.md) class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md) college features [Coat the Blade](../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) unless you have the [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -24928,7 +24928,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the [Marshal](../Browse/Titles/1st%20Echelon/Marshal.md) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](../Browse/Titles/1st Echelon/Marshal.md) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 
@@ -24944,7 +24944,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee [free strike](../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+- *Ghoul or Vampire:* When you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being force moved into objects.
 - *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and fall [prone](../Browse/Conditions/Prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
@@ -24957,8 +24957,8 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
-- *Furious Attack:* Choose one signature ability from the [fury](../Browse/Classes/Fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), you can't do so unless you have the [Ferocity](../Browse/Features/Fury/1st-Level%20Features/Ferocity.md) class feature.
-- *Furious Charge:* When you use the [Charge](../Browse/Abilities/Common/Main%20Actions/Charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../Browse/Abilities/Common/Main%20Actions/Charge.md).
+- *Furious Attack:* Choose one signature ability from the [fury](../Browse/Classes/Fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), you can't do so unless you have the [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) class feature.
+- *Furious Charge:* When you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md).
 
 ### 3rd-Echelon Titles
 
@@ -25017,19 +25017,19 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) ancestry (see [Chapter 3](#page-35-0)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../Browse/Ancestries/Dragon%20Knight.md) ancestry traits.
+- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../Browse/Ancestries/Dragon Knight.md) ancestry (see [Chapter 3](#page-35-0)).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../Browse/Ancestries/Dragon Knight.md) ancestry traits.
 
 #### Fleet Admiral
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the [Corsair](../Browse/Titles/2nd%20Echelon/Corsair.md) title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](../Browse/Titles/2nd Echelon/Corsair.md) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
 - *First Mate:* You have a pirate retainer, such as a **[human](../Browse/Ancestries/Human.md) warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *[Swashbuckler](../Browse/Kits/Swashbuckler.md):* You can automatically [climb](../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving
+- *[Swashbuckler](../Browse/Kits/Swashbuckler.md):* You can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working
@@ -25046,7 +25046,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action.md) from the [troubadour](../Browse/Classes/Troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md), you can gain or spend the Heroic Resource of your class in place of [drama](../Browse/Features/Troubadour/1st-Level%20Features/Drama.md).
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md) from the [troubadour](../Browse/Classes/Troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md), you can gain or spend the Heroic Resource of your class in place of [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 - *[Devil](../Browse/Ancestries/Devil.md)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
@@ -25105,7 +25105,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 - *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to [stability](../Browse/Movement/Stability.md) against magic or psionic abilities.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
-- *[Time Raider](../Browse/Ancestries/Time%20Raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../Browse/Ancestries/Time%20Raider.md) ancestry traits (see [Chapter 3](#page-35-0)).
+- *[Time Raider](../Browse/Ancestries/Time Raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../Browse/Ancestries/Time Raider.md) ancestry traits (see [Chapter 3](#page-35-0)).
 
 #### Scarred
 
@@ -25121,7 +25121,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Best way to deal with a castle siege? Be on the outside.*
 
-**Prerequisite:** You have the [Battlefield Commander](../Browse/Titles/2nd%20Echelon/Battlefield%20Commander.md) title, and you lead the defense of a settlement or fortification.
+**Prerequisite:** You have the [Battlefield Commander](../Browse/Titles/2nd Echelon/Battlefield Commander.md) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:
 
@@ -25157,7 +25157,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the [Godsworn](../Browse/Titles/2nd%20Echelon/Godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](../Browse/Titles/2nd Echelon/Godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 
@@ -25217,7 +25217,7 @@ Additionally, choose one of the following benefits:
 
 #### Peace Bringer
 
-*There goes Diana, [peace bringer](../Browse/Titles/4th%20Echelon/Peace%20Bringer.md). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
+*There goes Diana, [peace bringer](../Browse/Titles/4th Echelon/Peace Bringer.md). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 
@@ -25248,7 +25248,7 @@ Additionally, choose one of the following benefits:
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
-**Prerequisite:** You have the [Master Librarian](../Browse/Titles/2nd%20Echelon/Master%20Librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
+**Prerequisite:** You have the [Master Librarian](../Browse/Titles/2nd Echelon/Master Librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 
@@ -25258,7 +25258,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
-**Prerequisite:** You have the [Unstoppable](../Browse/Titles/2nd%20Echelon/Unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.
+**Prerequisite:** You have the [Unstoppable](../Browse/Titles/2nd Echelon/Unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
@@ -25270,7 +25270,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *I'll never get away with it? My dear, I already have.*
 
-**Prerequisite:** You have the [Heist Hero](../Browse/Titles/2nd%20Echelon/Heist%20Hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
+**Prerequisite:** You have the [Heist Hero](../Browse/Titles/2nd Echelon/Heist Hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
@@ -25377,7 +25377,7 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th%20Echelon/Demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th Echelon/Demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
@@ -25534,7 +25534,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
-The [high elf](../Browse/Ancestries/High%20Elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode%20Elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
+The [high elf](../Browse/Ancestries/High Elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode Elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
 ##### A Sea of Suns
 
@@ -25572,7 +25572,7 @@ In the end, her efforts failed, and the elder dragons live no more in this world
 
 Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnessed the Composer's first song, and took it upon themselves to communicate with and care for the speaking creatures A Sea of Suns created. The dryads, elgenwights, the giant birds and intelligent fish who populated the ancient wode that once covered all Orden, all came under the Beast Heart's care. Dyrvis learned their speech and taught them who they were.
 
-To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode%20Elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode%20Elf.md) for protection.
+To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode Elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode Elf.md) for protection.
 
 ##### Thyll Hylacae
 
@@ -26066,7 +26066,7 @@ Salorna has few [censors](../Browse/Classes/Censor.md), but not none! Favoring l
 
 **Domains:** Nature, Sun
 
-Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode%20Elf.md) had not seen in many ages of the world.
+Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode Elf.md) had not seen in many ages of the world.
 
 The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [dwarves](../Browse/Ancestries/Dwarf.md)?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [human](../Browse/Ancestries/Human.md) who took their problems as her own.
 
@@ -26276,9 +26276,9 @@ OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masc
 
 Lost ships sometimes find their navigation systems lighting up, a clear path home suddenly visible where no such path was possible before. OV aids those who are lost regardless of their affiliation with law or chaos, and is one of the Lords of Balance. His herald works to stop conflicts by guiding ships around and past routes that might cause them to intercept hostile entities.
 
-OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time%20Raider.md), though none would call him or any other being their "god."
+OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time Raider.md), though none would call him or any other being their "god."
 
-When a [time raider](../Browse/Ancestries/Time%20Raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](../Browse/Ancestries/Time Raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider
 
@@ -26290,15 +26290,15 @@ Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the
 
 Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
 
-Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time%20Raider.md) were to be rescued by proteans!
+Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time Raider.md) were to be rescued by proteans!
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
 The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../Browse/Conditions/Grabbed.md) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
 
-With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time%20Raider.md) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
+With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time Raider.md) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 
-On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time%20Raider.md) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
+On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time Raider.md) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
 
 "Take the helm and damn them all!" she called out. "There must be a way home!" And in that instant, the navigation screens sprung to life. "Look!" her brother said. A route had already been plotted. One that made no literal sense. Was the ship's logic system malfunctioning?
 
@@ -26398,7 +26398,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](../Chapters/The%20Basics.md)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](../Chapters/The Basics.md)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 <!-- -->
 > **Personal Problems at the Table**
@@ -26455,7 +26455,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](../Browse/Ancestries/Memonek.md) and [time raiders](../Browse/Ancestries/Time%20Raider.md) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](../Chapters/Ancestries.md) (see [Chapter 3](../Chapters/Ancestries.md)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4: Background](../Chapters/Background.md)) so that no one can take [Aristocrat](../Browse/Careers/Aristocrat.md) or [Politician](../Browse/Careers/Politician.md).
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](../Browse/Ancestries/Memonek.md) and [time raiders](../Browse/Ancestries/Time Raider.md) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all [ancestries](../Chapters/Ancestries.md) (see [Chapter 3](../Chapters/Ancestries.md)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4: Background](../Chapters/Background.md)) so that no one can take [Aristocrat](../Browse/Careers/Aristocrat.md) or [Politician](../Browse/Careers/Politician.md).
 
 Put any restrictions your campaign has into your pitch!
 
@@ -26534,7 +26534,7 @@ If you're planning on running a long-arc campaign, you might want to make sure t
 
 ##### Adventure of the Week
 
-An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of [time raiders](../Browse/Ancestries/Time%20Raider.md) before they disappear across the timescape with their kidnapped victims.
+An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of [time raiders](../Browse/Ancestries/Time Raider.md) before they disappear across the timescape with their kidnapped victims.
 
 Adventure-of-the-week campaigns can give the heroes plenty of downtime between adventures, since the quests aren't connected. However, they often lack the personal drama that comes from a campaign with recurring threats and villains.
 
@@ -26554,7 +26554,7 @@ Multiple-front campaigns make the world feel authentic and alive, but they requi
 
 As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
 
-Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](../Chapters/The%20Basics.md) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](../Chapters/The Basics.md) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
 
 - **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
@@ -26571,13 +26571,13 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the [talent](../Browse/Classes/Talent.md), has the [Elemental Inside](../Browse/Complications/Elemental%20Inside.md) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](../Browse/Classes/Elementalist.md). Sorin wanted to abduct Linn's [talent](../Browse/Classes/Talent.md) mentor, a [dwarf](../Browse/Ancestries/Dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](../Browse/Classes/Talent.md), has the [Elemental Inside](../Browse/Complications/Elemental Inside.md) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](../Browse/Classes/Elementalist.md). Sorin wanted to abduct Linn's [talent](../Browse/Classes/Talent.md) mentor, a [dwarf](../Browse/Ancestries/Dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
 Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent](../Browse/Classes/Talent.md)'s story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
 - **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
-- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](../Browse/Ancestries/High%20Elf.md) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](../Browse/Classes/Talent.md) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](../Browse/Ancestries/High Elf.md) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](../Browse/Classes/Talent.md) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
 At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the [elementalist](../Browse/Classes/Elementalist.md) is likely to return and try to free Bruulv once again!
@@ -26955,7 +26955,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../Browse/Classes/Troubadour.md)'s [Scene Partner](../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour](../Browse/Classes/Troubadour.md)'s [Scene Partner](../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 
@@ -27134,7 +27134,7 @@ The burgomaster has the following possible pitfalls:
 
 *The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
 
-The virtuoso archetype can be used for any other local celebrity, such as a [master crafter](../Browse/Titles/3rd%20Echelon/Master%20Crafter.md), inspired artist, famous [gladiator](../Browse/Careers/Gladiator.md), or world champion.
+The virtuoso archetype can be used for any other local celebrity, such as a [master crafter](../Browse/Titles/3rd Echelon/Master Crafter.md), inspired artist, famous [gladiator](../Browse/Careers/Gladiator.md), or world champion.
 
 ###### Motivations
 
@@ -27193,7 +27193,7 @@ The duke archetype can be used for any other royal counselor, such as an archmag
 The duke has the following possible motivations:
 
 - **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
-- **Higher Authority:** I must do as my liege commands. [So tell me](../Browse/Perks/Interpersonal%20Perks/So%20Tell%20Me.md) how you seek to serve them as well.
+- **Higher Authority:** I must do as my liege commands. [So tell me](../Browse/Perks/Interpersonal Perks/So Tell Me.md) how you seek to serve them as well.
 - **Peace:** We must have [stability](../Browse/Movement/Stability.md). I will sacrifice anything—and anyone—for this.
 - **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
 
@@ -27360,7 +27360,7 @@ The following challenges can be part of the montage test:
 
 - **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* Presence, Reason. *Suggested Skills:* Architecture, Intimidate, Lead.
 - **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a Recovery if they incur a consequence on the test for this challenge.
-- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* [Climb](../Browse/Movement/Climb%20or%20Swim.md), Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
+- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* [Climb](../Browse/Movement/Climb or Swim.md), Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
 - **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested Characteristic:* Presence. *Suggested Skills:* Intimidate, Lead, Persuade.
 - **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Handle Animals, Lift, Ride.
 - **Move Burning Rubble:** Shifting burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge.
@@ -27370,7 +27370,7 @@ The following challenges can be part of the montage test:
 
 At the end of the first montage test round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the end of the round. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise, they earn a failure.
 
-- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
+- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
 - **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears—a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
 - **Help!** Townsfolk are about to run into a burning building to save a trapped relative. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townspeople from entering the burning building while another rescues the relative. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Lift, Persuade.
 
@@ -27408,7 +27408,7 @@ The first time any hero fails a test made as part of the montage test while the 
 
 The following challenges can be part of the heroes' infiltration:
 
-- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
+- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
 - **Avoid Traffic:** By finding the dustiest, least-traveled areas and sticking to them, characters can avoid notice. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Search, Track.
 - **Lie Low:** Once while the alarm level is greater than 0, the heroes can find a place to hide for a bit, reducing the alarm level by 1. This activity doesn't require a test or generate a success or failure.
 - **Make a Diversion:** After causing a ruckus, the characters quickly go the other way. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Alchemy, Perform, Sabotage.
@@ -27474,7 +27474,7 @@ The following challenges can be part of the montage test:
 
 - **Ask Around:** Characters can gather clues from locals or bystanders—or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
 - **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
-- **Obtain a Good View:** Characters can [climb](../Browse/Movement/Climb%20or%20Swim.md) up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](../Browse/Movement/Climb%20or%20Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
+- **Obtain a Good View:** Characters can [climb](../Browse/Movement/Climb or Swim.md) up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* [Climb](../Browse/Movement/Climb or Swim.md), Gymnastics, [Jump](../Browse/Movement/Jump.md).
 - **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
 - **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a Recovery.
 
@@ -27528,7 +27528,7 @@ One of the following outcomes ends the montage test:
 
 ### Running Respites
 
-When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1: The Basics](../Chapters/The%20Basics.md), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1: The Basics](../Chapters/The Basics.md), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
 
 #### Safe Place
 
@@ -27538,13 +27538,13 @@ Heroes can't take a respite unless they're in a safe place. This typically means
 
 #### Too Many Respites?
 
-It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](../Chapters/Downtime%20Projects.md)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](../Chapters/Downtime Projects.md)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
 
 If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
 
 #### Project Events
 
-Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](../Chapters/Downtime%20Projects.md)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](../Chapters/Downtime Projects.md)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
 
 When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
 
@@ -27601,7 +27601,7 @@ The players can choose their hero's treasures, and can replace any leveled treas
 
 #### Making New Treasures
 
-You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](../Chapters/Downtime%20Projects.md).
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](../Chapters/Downtime Projects.md).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 

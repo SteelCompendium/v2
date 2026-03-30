@@ -9,12 +9,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](10th-Level%20Features/Characteristic%20Increase.md)
-- [Perk](10th-Level%20Features/Perk.md)
-- [Skill](10th-Level%20Features/Skill.md)
-- [Templar](10th-Level%20Features/Templar.md)
-- [Virtue](10th-Level%20Features/Virtue.md)
-- [Wrath of the Gods](10th-Level%20Features/Wrath%20of%20the%20Gods.md)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md)
+- [Perk](10th-Level Features/Perk.md)
+- [Skill](10th-Level Features/Skill.md)
+- [Templar](10th-Level Features/Templar.md)
+- [Virtue](10th-Level Features/Virtue.md)
+- [Wrath of the Gods](10th-Level Features/Wrath of the Gods.md)
 
 </div>
 
@@ -22,31 +22,31 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Domain Feature](1st-Level%20Features/1st%20Level%20Domain%20Feature.md)
-    - [Blessing of Compassion](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion.md)
-    - [Blessing of Comprehension](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension.md)
-    - [Blessing of Fortunate Weather](1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md)
-    - [Faithful Friend](1st-Level%20Features/1st-Level%20Domain%20Feature/Faithful%20Friend.md)
-    - [Grave Speech](1st-Level%20Features/1st-Level%20Domain%20Feature/Grave%20Speech.md)
-    - [Hands of the Maker](1st-Level%20Features/1st-Level%20Domain%20Feature/Hands%20of%20the%20Maker.md)
-    - [Inner Light](1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light.md)
-    - [Inspired Deception](1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception.md)
-    - [Oracular Visions](1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions.md)
-    - [Protective Circle](1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md)
-    - [Revitalizing Ritual](1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual.md)
-    - [Sanctified Weapon](1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md)
-- [Censor Abilities](1st-Level%20Features/Censor%20Abilities.md)
-    - [Heroic Abilities](1st-Level%20Features/Censor%20Abilities/Heroic%20Abilities.md)
-    - [Signature Ability](1st-Level%20Features/Censor%20Abilities/Signature%20Ability.md)
-- [Censor Order](1st-Level%20Features/Censor%20Order.md)
-- [Deity and Domains](1st-Level%20Features/Deity%20and%20Domains.md)
-- [Judgment](1st-Level%20Features/Judgment.md)
-    - [Judgment Order Benefit](1st-Level%20Features/Judgment/Judgment%20Order%20Benefit.md)
-- [Kit](1st-Level%20Features/Kit.md)
-- [My Life for Yours](1st-Level%20Features/My%20Life%20for%20Yours.md)
-- [Wrath](1st-Level%20Features/Wrath.md)
-    - [Wrath in Combat](1st-Level%20Features/Wrath/Wrath%20in%20Combat.md)
-    - [Wrath Outside of Combat](1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat.md)
+- [1st Level Domain Feature](1st-Level Features/1st Level Domain Feature.md)
+    - [Blessing of Compassion](1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)
+    - [Blessing of Comprehension](1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)
+    - [Blessing of Fortunate Weather](1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md)
+    - [Faithful Friend](1st-Level Features/1st-Level Domain Feature/Faithful Friend.md)
+    - [Grave Speech](1st-Level Features/1st-Level Domain Feature/Grave Speech.md)
+    - [Hands of the Maker](1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md)
+    - [Inner Light](1st-Level Features/1st-Level Domain Feature/Inner Light.md)
+    - [Inspired Deception](1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)
+    - [Oracular Visions](1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)
+    - [Protective Circle](1st-Level Features/1st-Level Domain Feature/Protective Circle.md)
+    - [Revitalizing Ritual](1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)
+    - [Sanctified Weapon](1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)
+- [Censor Abilities](1st-Level Features/Censor Abilities.md)
+    - [Heroic Abilities](1st-Level Features/Censor Abilities/Heroic Abilities.md)
+    - [Signature Ability](1st-Level Features/Censor Abilities/Signature Ability.md)
+- [Censor Order](1st-Level Features/Censor Order.md)
+- [Deity and Domains](1st-Level Features/Deity and Domains.md)
+- [Judgment](1st-Level Features/Judgment.md)
+    - [Judgment Order Benefit](1st-Level Features/Judgment/Judgment Order Benefit.md)
+- [Kit](1st-Level Features/Kit.md)
+- [My Life for Yours](1st-Level Features/My Life for Yours.md)
+- [Wrath](1st-Level Features/Wrath.md)
+    - [Wrath in Combat](1st-Level Features/Wrath/Wrath in Combat.md)
+    - [Wrath Outside of Combat](1st-Level Features/Wrath/Wrath Outside of Combat.md)
 
 </div>
 
@@ -54,18 +54,18 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Order Ability](2nd-Level%20Features/2nd%20Level%20Order%20Ability.md)
-    - [2nd Level Exorcist Ability](2nd-Level%20Features/2nd-Level%20Order%20Ability/2nd%20Level%20Exorcist%20Ability.md)
-    - [2nd Level Oracle Ability](2nd-Level%20Features/2nd-Level%20Order%20Ability/2nd%20Level%20Oracle%20Ability.md)
-    - [2nd Level Paragon Ability](2nd-Level%20Features/2nd-Level%20Order%20Ability/2nd%20Level%20Paragon%20Ability.md)
-- [2nd Level Order Features](2nd-Level%20Features/2nd%20Level%20Order%20Features.md)
-    - [A Sense for Truth](2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20Truth.md)
-    - [It Was Foretold](2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20Foretold.md)
-    - [Judge of Character](2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20Character.md)
-    - [Lead by Example](2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20Example.md)
-    - [Saints Vigilance](2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20Vigilance.md)
-    - [Stalwart Icon](2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20Icon.md)
-- [Perk](2nd-Level%20Features/Perk.md)
+- [2nd Level Order Ability](2nd-Level Features/2nd Level Order Ability.md)
+    - [2nd Level Exorcist Ability](2nd-Level Features/2nd-Level Order Ability/2nd Level Exorcist Ability.md)
+    - [2nd Level Oracle Ability](2nd-Level Features/2nd-Level Order Ability/2nd Level Oracle Ability.md)
+    - [2nd Level Paragon Ability](2nd-Level Features/2nd-Level Order Ability/2nd Level Paragon Ability.md)
+- [2nd Level Order Features](2nd-Level Features/2nd Level Order Features.md)
+    - [A Sense for Truth](2nd-Level Features/2nd-Level Order Features/A Sense for Truth.md)
+    - [It Was Foretold](2nd-Level Features/2nd-Level Order Features/It Was Foretold.md)
+    - [Judge of Character](2nd-Level Features/2nd-Level Order Features/Judge of Character.md)
+    - [Lead by Example](2nd-Level Features/2nd-Level Order Features/Lead by Example.md)
+    - [Saints Vigilance](2nd-Level Features/2nd-Level Order Features/Saints Vigilance.md)
+    - [Stalwart Icon](2nd-Level Features/2nd-Level Order Features/Stalwart Icon.md)
+- [Perk](2nd-Level Features/Perk.md)
 
 </div>
 
@@ -73,7 +73,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Look On My Work and Despair](3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair.md)
+- [Look On My Work and Despair](3rd-Level Features/Look On My Work and Despair.md)
 
 </div>
 
@@ -81,23 +81,23 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [4th Level Domain Feature](4th-Level%20Features/4th%20Level%20Domain%20Feature.md)
-    - [Blessing of Life](4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life.md)
-    - [Blessing of Secrets](4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Secrets.md)
-    - [Impervious Touch](4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch.md)
-    - [Improved Hands of the Maker](4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker.md)
-    - [Improved Sanctified Weapon](4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon.md)
-    - [Invocation of the Heart](4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md)
-    - [Light of Revelation](4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation.md)
-    - [Oracular Warning](4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning.md)
-    - [Saints Epiphany](4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany.md)
-    - [Seance](4th-Level%20Features/4th-Level%20Domain%20Feature/Seance.md)
-    - [Windwalk](4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md)
-    - [Wode Road](4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road.md)
-- [Characteristic Increase](4th-Level%20Features/Characteristic%20Increase.md)
-- [Perk](4th-Level%20Features/Perk.md)
-- [Skill](4th-Level%20Features/Skill.md)
-- [Wrath Beyond Wrath](4th-Level%20Features/Wrath%20Beyond%20Wrath.md)
+- [4th Level Domain Feature](4th-Level Features/4th Level Domain Feature.md)
+    - [Blessing of Life](4th-Level Features/4th-Level Domain Feature/Blessing of Life.md)
+    - [Blessing of Secrets](4th-Level Features/4th-Level Domain Feature/Blessing of Secrets.md)
+    - [Impervious Touch](4th-Level Features/4th-Level Domain Feature/Impervious Touch.md)
+    - [Improved Hands of the Maker](4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md)
+    - [Improved Sanctified Weapon](4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md)
+    - [Invocation of the Heart](4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md)
+    - [Light of Revelation](4th-Level Features/4th-Level Domain Feature/Light of Revelation.md)
+    - [Oracular Warning](4th-Level Features/4th-Level Domain Feature/Oracular Warning.md)
+    - [Saints Epiphany](4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md)
+    - [Seance](4th-Level Features/4th-Level Domain Feature/Seance.md)
+    - [Windwalk](4th-Level Features/4th-Level Domain Feature/Windwalk.md)
+    - [Wode Road](4th-Level Features/4th-Level Domain Feature/Wode Road.md)
+- [Characteristic Increase](4th-Level Features/Characteristic Increase.md)
+- [Perk](4th-Level Features/Perk.md)
+- [Skill](4th-Level Features/Skill.md)
+- [Wrath Beyond Wrath](4th-Level Features/Wrath Beyond Wrath.md)
 
 </div>
 
@@ -105,10 +105,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Order Feature](5th-Level%20Features/5th%20Level%20Order%20Feature.md)
-    - [Evil Revealed](5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed.md)
-    - [Prophecy](5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy.md)
-    - [Stand Fast](5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast.md)
+- [5th Level Order Feature](5th-Level Features/5th Level Order Feature.md)
+    - [Evil Revealed](5th-Level Features/5th-Level Order Feature/Evil Revealed.md)
+    - [Prophecy](5th-Level Features/5th-Level Order Feature/Prophecy.md)
+    - [Stand Fast](5th-Level Features/5th-Level Order Feature/Stand Fast.md)
 
 </div>
 
@@ -116,12 +116,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [6th Level Order Ability](6th-Level%20Features/6th%20Level%20Order%20Ability.md)
-    - [6th Level Exorcist Abilities](6th-Level%20Features/6th-Level%20Order%20Ability/6th%20Level%20Exorcist%20Abilities.md)
-    - [6th Level Oracle Abilities](6th-Level%20Features/6th-Level%20Order%20Ability/6th%20Level%20Oracle%20Abilities.md)
-    - [6th Level Paragon Abilities](6th-Level%20Features/6th-Level%20Order%20Ability/6th%20Level%20Paragon%20Abilities.md)
-- [Implement of Wrath](6th-Level%20Features/Implement%20of%20Wrath.md)
-- [Perk](6th-Level%20Features/Perk.md)
+- [6th Level Order Ability](6th-Level Features/6th Level Order Ability.md)
+    - [6th Level Exorcist Abilities](6th-Level Features/6th-Level Order Ability/6th Level Exorcist Abilities.md)
+    - [6th Level Oracle Abilities](6th-Level Features/6th-Level Order Ability/6th Level Oracle Abilities.md)
+    - [6th Level Paragon Abilities](6th-Level Features/6th-Level Order Ability/6th Level Paragon Abilities.md)
+- [Implement of Wrath](6th-Level Features/Implement of Wrath.md)
+- [Perk](6th-Level Features/Perk.md)
 
 </div>
 
@@ -129,22 +129,22 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [7th Level Domain Feature](7th-Level%20Features/7th%20Level%20Domain%20Feature.md)
-    - [Blessing of Iron](7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron.md)
-    - [Covenant of the Heart](7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart.md)
-    - [Divine Quartermaster](7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster.md)
-    - [Font of Grace](7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace.md)
-    - [Gods Library](7th-Level%20Features/7th-Level%20Domain%20Feature/Gods%20Library.md)
-    - [Light of the Burning Sun](7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun.md)
-    - [Natures Bounty](7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty.md)
-    - [Ride the Lightning](7th-Level%20Features/7th-Level%20Domain%20Feature/Ride%20the%20Lightning.md)
-    - [Trinity of Trickery](7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery.md)
-    - [Word of Death Deferred](7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred.md)
-    - [Word of Fate Denied](7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied.md)
-    - [Your Triumphs Are Remembered](7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered.md)
-- [Characteristic Increase](7th-Level%20Features/Characteristic%20Increase.md)
-- [Focused Wrath](7th-Level%20Features/Focused%20Wrath.md)
-- [Skill](7th-Level%20Features/Skill.md)
+- [7th Level Domain Feature](7th-Level Features/7th Level Domain Feature.md)
+    - [Blessing of Iron](7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md)
+    - [Covenant of the Heart](7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md)
+    - [Divine Quartermaster](7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md)
+    - [Font of Grace](7th-Level Features/7th-Level Domain Feature/Font of Grace.md)
+    - [Gods Library](7th-Level Features/7th-Level Domain Feature/Gods Library.md)
+    - [Light of the Burning Sun](7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md)
+    - [Natures Bounty](7th-Level Features/7th-Level Domain Feature/Natures Bounty.md)
+    - [Ride the Lightning](7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md)
+    - [Trinity of Trickery](7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md)
+    - [Word of Death Deferred](7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md)
+    - [Word of Fate Denied](7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md)
+    - [Your Triumphs Are Remembered](7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md)
+- [Characteristic Increase](7th-Level Features/Characteristic Increase.md)
+- [Focused Wrath](7th-Level Features/Focused Wrath.md)
+- [Skill](7th-Level Features/Skill.md)
 
 </div>
 
@@ -152,11 +152,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Order Feature](8th-Level%20Features/8th%20Level%20Order%20Feature.md)
-    - [Demonologist](8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist.md)
-    - [Their Past Revealed](8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed.md)
-    - [Vow](8th-Level%20Features/8th-Level%20Order%20Feature/Vow.md)
-- [Perk](8th-Level%20Features/Perk.md)
+- [8th Level Order Feature](8th-Level Features/8th Level Order Feature.md)
+    - [Demonologist](8th-Level Features/8th-Level Order Feature/Demonologist.md)
+    - [Their Past Revealed](8th-Level Features/8th-Level Order Feature/Their Past Revealed.md)
+    - [Vow](8th-Level Features/8th-Level Order Feature/Vow.md)
+- [Perk](8th-Level Features/Perk.md)
 
 </div>
 
@@ -164,10 +164,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [9th Level Order Ability](9th-Level%20Features/9th%20Level%20Order%20Ability.md)
-    - [9th Level Exorcist Abilities](9th-Level%20Features/9th-Level%20Order%20Ability/9th%20Level%20Exorcist%20Abilities.md)
-    - [9th Level Oracle Abilities](9th-Level%20Features/9th-Level%20Order%20Ability/9th%20Level%20Oracle%20Abilities.md)
-    - [9th Level Paragon Abilities](9th-Level%20Features/9th-Level%20Order%20Ability/9th%20Level%20Paragon%20Abilities.md)
-- [Improved Implement of Wrath](9th-Level%20Features/Improved%20Implement%20of%20Wrath.md)
+- [9th Level Order Ability](9th-Level Features/9th Level Order Ability.md)
+    - [9th Level Exorcist Abilities](9th-Level Features/9th-Level Order Ability/9th Level Exorcist Abilities.md)
+    - [9th Level Oracle Abilities](9th-Level Features/9th-Level Order Ability/9th Level Oracle Abilities.md)
+    - [9th Level Paragon Abilities](9th-Level Features/9th-Level Order Ability/9th Level Paragon Abilities.md)
+- [Improved Implement of Wrath](9th-Level Features/Improved Implement of Wrath.md)
 
 </div>

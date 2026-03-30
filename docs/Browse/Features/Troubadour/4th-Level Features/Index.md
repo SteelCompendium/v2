@@ -7,13 +7,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic%20Increase.md)
+- [Characteristic Increase](Characteristic Increase.md)
 - [Melodrama](Melodrama.md)
 - [Perk](Perk.md)
 - [Skill](Skill.md)
 - [Zeitgeist](Zeitgeist.md)
     - [Foreshadowing](Zeitgeist/Foreshadowing.md)
-    - [Hear Ye Hear Ye](Zeitgeist/Hear%20Ye%20Hear%20Ye.md)
-    - [Latest Goss](Zeitgeist/Latest%20Goss.md)
+    - [Hear Ye Hear Ye](Zeitgeist/Hear Ye Hear Ye.md)
+    - [Latest Goss](Zeitgeist/Latest Goss.md)
 
 </div>

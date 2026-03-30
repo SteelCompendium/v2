@@ -18,7 +18,7 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration.md), [Viscous Fire](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md), [Viscous Fire](../../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay

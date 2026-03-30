@@ -18,13 +18,13 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Shield.md) ability, you can then use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery/Metakinetic%20Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
+| [Discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2                                                                                               | Whenever you use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
 | 4                                                                                               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |

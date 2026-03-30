@@ -18,11 +18,11 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration.md), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -154,7 +154,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence.md).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
 ###### 3-Essence Ability
 

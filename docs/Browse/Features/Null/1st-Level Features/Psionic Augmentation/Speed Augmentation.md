@@ -18,4 +18,4 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.

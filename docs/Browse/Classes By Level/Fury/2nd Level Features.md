@@ -22,15 +22,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force.md) |
-| Reaver     | [Inescapable Wrath](../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath.md) |
-| Stormwight | [Tooth and Claw](../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw.md)     |
+| Berserker  | [Unstoppable Force](../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Unstoppable Force.md) |
+| Reaver     | [Inescapable Wrath](../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Inescapable Wrath.md) |
+| Stormwight | [Tooth and Claw](../../../Browse/Features/Fury/2nd-Level Features/2nd-Level Aspect Feature/Tooth and Claw.md)     |
 
 ##### Inescapable Wrath
 
@@ -42,11 +42,11 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Additionally, you can [jump](../../../Browse/Movement/Jump.md) as part of your [charge](../../../Browse/Abilities/Common/Main%20Actions/Charge.md).
+Whenever you use the [Charge](../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md). Additionally, you can [jump](../../../Browse/Movement/Jump.md) as part of your [charge](../../../Browse/Abilities/Common/Main Actions/Charge.md).
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 > | ----------------- | ----------------------: |
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 >
-> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../Browse/Movement/Stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that deals extra damage equal to your Might score.
+> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../Browse/Movement/Stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals extra damage equal to your Might score.
 
 <!-- -->
 > ###### Wrecking Ball (5 Ferocity)

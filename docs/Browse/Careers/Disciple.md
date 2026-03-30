@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../../Browse/Perks/Supernatural%20Perks/Ritualist.md).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../../Browse/Perks/Supernatural Perks/Ritualist.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

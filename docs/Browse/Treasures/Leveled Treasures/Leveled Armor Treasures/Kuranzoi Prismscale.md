@@ -20,7 +20,7 @@ type: treasure/leveled/armor
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a [time raider](../../../../Browse/Ancestries/Time%20Raider.md) who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](../../../../Browse/Ancestries/Time Raider.md) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 

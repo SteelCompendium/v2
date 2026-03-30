@@ -24,10 +24,10 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 | Specialization | Feature                                                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Master of Earth](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Earth.md) |
-| Fire           | [Master of Fire](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Fire.md)   |
-| Green          | [Master of Green](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Green.md) |
-| Void           | [Master of Void](../../../../Browse/Features/Elementalist/10th-Level%20Features/One/Master%20of%20Void.md)   |
+| Earth          | [Master of Earth](../../../../Browse/Features/Elementalist/10th-Level Features/One/Master of Earth.md) |
+| Fire           | [Master of Fire](../../../../Browse/Features/Elementalist/10th-Level Features/One/Master of Fire.md)   |
+| Green          | [Master of Green](../../../../Browse/Features/Elementalist/10th-Level Features/One/Master of Green.md) |
+| Void           | [Master of Void](../../../../Browse/Features/Elementalist/10th-Level Features/One/Master of Void.md)   |
 
 ##### Master of Earth
 
@@ -39,7 +39,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
 
 ##### Master of Green
 

@@ -24,8 +24,8 @@ Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a feature
 
 | College         | Feature                                                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash.md)           |
-| Caustic Alchemy | [Trained Assassin](../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin.md) |
+| Black Ash       | [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md)           |
+| Caustic Alchemy | [Trained Assassin](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Trained Assassin.md) |
 | Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
@@ -36,7 +36,7 @@ The ash you leave behind burns your foes. The first time on a turn that you use 
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as part of that ability.
+Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as part of that ability.
 
 ##### Trained Assassin
 

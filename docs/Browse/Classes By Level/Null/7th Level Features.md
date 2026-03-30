@@ -22,11 +22,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../Browse/Features/Null/1st-Level%20Features/Discipline%20Mastery.md) feature provides additional benefits when you have 10 or more [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+Your [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 10 or more [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to it and enhance its effects. A [psi boost](../../../Browse/Features/Talent/6th-Level Features/Psi Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../Browse/Features/Talent/6th-Level Features/Psi Boost.md).
 
 ##### Dynamic Power (1 Discipline)
 
@@ -58,7 +58,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### Improved Body
 
-When you gain [discipline](../../../Browse/Features/Null/1st-Level%20Features/Discipline.md) at the start of each of your turns during combat, you gain 3 discipline instead of 2.
+When you gain [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) at the start of each of your turns during combat, you gain 3 discipline instead of 2.
 
 #### Skill
 

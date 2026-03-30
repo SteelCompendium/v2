@@ -25,7 +25,7 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **[Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
+> | **[Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 > | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
@@ -37,7 +37,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md).
+> **Effect:** If you use this ability as part of the [Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md).
 
 <!-- -->
 > ###### That One Is Mine! (11 Focus)
@@ -56,4 +56,4 @@ Choose one of the following abilities.
 > - **12-16:** 13 + M damage
 > - **17+:** 17 + M damage
 >
-> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against any target marked by you.
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against any target marked by you.

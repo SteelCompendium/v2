@@ -9,13 +9,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level College Features](1st%20Level%20College%20Features.md)
-- [College Triggered Action](College%20Triggered%20Action.md)
-- [Hesitation Is Weakness](Hesitation%20Is%20Weakness.md)
+- [1st Level College Features](1st Level College Features.md)
+- [College Triggered Action](College Triggered Action.md)
+- [Hesitation Is Weakness](Hesitation Is Weakness.md)
 - [Insight](Insight.md)
 - [Kit](Kit.md)
-- [Shadow Abilities](Shadow%20Abilities.md)
-- [Shadow College](Shadow%20College.md)
+- [Shadow Abilities](Shadow Abilities.md)
+- [Shadow College](Shadow College.md)
 
 </div>
 
@@ -23,10 +23,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Black Ash Teleport](1st-Level%20College%20Features/Black%20Ash%20Teleport.md)
-    - [Coat the Blade](1st-Level%20College%20Features/Coat%20the%20Blade.md)
-    - [Im No Threat](1st-Level%20College%20Features/Im%20No%20Threat.md)
-    - [Smoke Bomb](1st-Level%20College%20Features/Smoke%20Bomb.md)
+    - [Black Ash Teleport](1st-Level College Features/Black Ash Teleport.md)
+    - [Coat the Blade](1st-Level College Features/Coat the Blade.md)
+    - [Im No Threat](1st-Level College Features/Im No Threat.md)
+    - [Smoke Bomb](1st-Level College Features/Smoke Bomb.md)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Insight in Combat](Insight/Insight%20in%20Combat.md)
-    - [Insight Outside of Combat](Insight/Insight%20Outside%20of%20Combat.md)
+    - [Insight in Combat](Insight/Insight in Combat.md)
+    - [Insight Outside of Combat](Insight/Insight Outside of Combat.md)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Shadow%20Abilities/Heroic%20Abilities.md)
-    - [Signature Ability](Shadow%20Abilities/Signature%20Ability.md)
+    - [Heroic Abilities](Shadow Abilities/Heroic Abilities.md)
+    - [Signature Ability](Shadow Abilities/Signature Ability.md)
 
 </div>

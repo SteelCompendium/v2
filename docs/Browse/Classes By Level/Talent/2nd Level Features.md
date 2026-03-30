@@ -28,9 +28,9 @@ Your [talent](../../../Browse/Classes/Talent.md) tradition grants you a feature,
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours.md)   |
-| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall.md) |
-| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind.md)     |
+| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md)   |
+| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md) |
+| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md)     |
 
 ##### Ease the Hours
 
@@ -147,7 +147,7 @@ Choose one of the following abilities.
 > - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
 > - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -160,7 +160,7 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >

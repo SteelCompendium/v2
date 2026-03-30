@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../../Browse/Features/Null/1st-Level%20Features/Discipline.md).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md).
 
 ###### 3-Discipline Ability
 
@@ -39,7 +39,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -154,4 +154,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free maneuver before or after you use this ability.

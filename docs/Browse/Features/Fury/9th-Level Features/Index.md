@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [9th Level Aspect Ability](9th%20Level%20Aspect%20Ability.md)
-    - [9th Level Berserker Abilities](9th-Level%20Aspect%20Ability/9th%20Level%20Berserker%20Abilities.md)
-    - [9th Level Reaver Abilities](9th-Level%20Aspect%20Ability/9th%20Level%20Reaver%20Abilities.md)
-    - [9th Level Stormwight Abilities](9th-Level%20Aspect%20Ability/9th%20Level%20Stormwight%20Abilities.md)
-- [Harbinger of the Primordial Chaos](Harbinger%20of%20the%20Primordial%20Chaos.md)
+- [9th Level Aspect Ability](9th Level Aspect Ability.md)
+    - [9th Level Berserker Abilities](9th-Level Aspect Ability/9th Level Berserker Abilities.md)
+    - [9th Level Reaver Abilities](9th-Level Aspect Ability/9th Level Reaver Abilities.md)
+    - [9th Level Stormwight Abilities](9th-Level Aspect Ability/9th Level Stormwight Abilities.md)
+- [Harbinger of the Primordial Chaos](Harbinger of the Primordial Chaos.md)
 
 </div>

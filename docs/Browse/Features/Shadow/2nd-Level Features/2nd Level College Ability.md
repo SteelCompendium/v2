@@ -48,9 +48,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability.
+> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md). After you [teleport](../../../../Browse/Movement/Teleport.md), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md). After you [teleport](../../../../Browse/Movement/Teleport.md), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -122,4 +122,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them. You can then spend a Recovery.

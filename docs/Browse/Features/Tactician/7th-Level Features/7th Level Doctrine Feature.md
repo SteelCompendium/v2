@@ -18,15 +18,15 @@ type: feature/trait/tactician/7th-level-feature
 
 #### 7th-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Asymmetric Warfare](../../../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Asymmetric%20Warfare.md) |
-| Mastermind | [Grand Strategy](../../../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Grand%20Strategy.md)         |
-| Vanguard   | [Shock and Awe](../../../../Browse/Features/Tactician/7th-Level%20Features/7th-Level%20Doctrine%20Feature/Shock%20and%20Awe.md)         |
+| Insurgent  | [Asymmetric Warfare](../../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Asymmetric Warfare.md) |
+| Mastermind | [Grand Strategy](../../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Grand Strategy.md)         |
+| Vanguard   | [Shock and Awe](../../../../Browse/Features/Tactician/7th-Level Features/7th-Level Doctrine Feature/Shock and Awe.md)         |
 
 ##### Asymmetric Warfare
 

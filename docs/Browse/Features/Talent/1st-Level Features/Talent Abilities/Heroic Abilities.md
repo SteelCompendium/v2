@@ -67,7 +67,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)

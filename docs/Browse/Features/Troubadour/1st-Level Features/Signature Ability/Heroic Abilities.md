@@ -107,9 +107,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)

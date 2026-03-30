@@ -18,7 +18,7 @@ type: feature/trait/fury/9th-level-feature
 
 #### 9th-Level Aspect Ability
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Berserker Abilities
 

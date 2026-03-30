@@ -18,7 +18,7 @@ type: feature/subtrait/censor/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You.md)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ###### Back Blasphemer!

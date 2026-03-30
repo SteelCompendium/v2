@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Minor Miracle](Minor%20Miracle.md)
+- [Minor Miracle](Minor Miracle.md)
 
 </div>

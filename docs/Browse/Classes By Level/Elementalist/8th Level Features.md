@@ -22,34 +22,34 @@ You gain one perk of your choice.
 
 #### 8th-Level Specialization Feature
 
-Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Summon Source of Earth](../../../Browse/Abilities/Elementalist/8th-Level%20Features/Summon%20Source%20of%20Earth.md)                                 |
-| Fire           | [The Flame Primordial](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/The%20Flame%20Primordial.md)   |
-| Green          | [Chimeric Manifestation](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Chimeric%20Manifestation.md) |
-| Void           | [Black Hole Star](../../../Browse/Features/Elementalist/8th-Level%20Features/8th-Level%20Specialization%20Feature/Black%20Hole%20Star.md)             |
+| Earth          | [Summon Source of Earth](../../../Browse/Abilities/Elementalist/8th-Level Features/Summon Source of Earth.md)                                 |
+| Fire           | [The Flame Primordial](../../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/The Flame Primordial.md)   |
+| Green          | [Chimeric Manifestation](../../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Chimeric Manifestation.md) |
+| Void           | [Black Hole Star](../../../Browse/Features/Elementalist/8th-Level Features/8th-Level Specialization Feature/Black Hole Star.md)             |
 
 ##### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element.md) ability and [vertical](../../../Browse/Movement/Vertical.md) pull that target up to 5 squares. If their [stability](../../../Browse/Movement/Stability.md) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../../Browse/Movement/Stability.md) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability and [vertical](../../../Browse/Movement/Vertical.md) pull that target up to 5 squares. If their [stability](../../../Browse/Movement/Stability.md) reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores [stability](../../../Browse/Movement/Stability.md) for your allies.
 
-Additionally, your [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence.md) improves. While in the area of the aura, enemies and objects have their [stability](../../../Browse/Movement/Stability.md) reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) improves. While in the area of the aura, enemies and objects have their [stability](../../../Browse/Movement/Stability.md) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level%20Features/2nd-Level%20Specialization%20Feature/Disciple%20of%20the%20Green.md) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../../../Browse/Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature/Disciple of the Green.md) feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
 ##### The Flame Primordial
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md) ability instead.
+You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
@@ -78,7 +78,7 @@ You have the following ability.
 >
 > |       Elemental       |                                        -                                        |       Level 8       |                                     BRUTE                                      |                                                    EV -                                                     |
 > | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../Browse/Movement/Stability.md) | **5**<br/> [Free Strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) |
+> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../Browse/Movement/Stability.md) | **5**<br/> [Free Strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) |
 > | **-**<br/> Immunities | **[Burrow](../../../Browse/Movement/Burrow.md)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
 > |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |                             **-5**<br/> Intuition                              |                                            **-3**<br/> Presence                                             |
 >
@@ -92,7 +92,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the [Earth Accepts Me](../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me.md) ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >
@@ -119,7 +119,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > | ------------------------ | --------------: |
 > | **📏 Ranged 10**         |  **🎯 Special** |
 >
-> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../../../Browse/Conditions/Prone.md). Each ally within distance also gains this benefit.
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the [Catch Breath](../../../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are [prone](../../../Browse/Conditions/Prone.md). Each ally within distance also gains this benefit.
 >
 > Each enemy who ends their turn within 3 squares of the tree is [restrained](../../../Browse/Conditions/Restrained.md) until the end of their next turn. A creature [restrained](../../../Browse/Conditions/Restrained.md) this way can use a main action to end the effect early.
 

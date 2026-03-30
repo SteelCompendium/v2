@@ -41,7 +41,7 @@ You have the following ability.
 >
 > |       Elemental       |                                        -                                        |       Level 8       |                                     BRUTE                                      |                                                    EV -                                                     |
 > | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../../../Browse/Movement/Stability.md) | **5**<br/> [Free Strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) |
+> |    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../../../Browse/Movement/Stability.md) | **5**<br/> [Free Strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) |
 > | **-**<br/> Immunities | **[Burrow](../../../../../Browse/Movement/Burrow.md)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
 > |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |                             **-5**<br/> Intuition                              |                                            **-3**<br/> Presence                                             |
 >
@@ -55,7 +55,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level%20Features/Earth%20Accepts%20Me.md) ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >

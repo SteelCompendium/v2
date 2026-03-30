@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Aspect Feature](8th%20Level%20Aspect%20Feature.md)
-    - [A Step Ahead](8th-Level%20Aspect%20Feature/A%20Step%20Ahead.md)
-    - [Menagerie](8th-Level%20Aspect%20Feature/Menagerie.md)
-    - [Strongest There Is](8th-Level%20Aspect%20Feature/Strongest%20There%20Is.md)
+- [8th Level Aspect Feature](8th Level Aspect Feature.md)
+    - [A Step Ahead](8th-Level Aspect Feature/A Step Ahead.md)
+    - [Menagerie](8th-Level Aspect Feature/Menagerie.md)
+    - [Strongest There Is](8th-Level Aspect Feature/Strongest There Is.md)
 - [Perk](Perk.md)
 
 </div>

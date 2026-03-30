@@ -9,13 +9,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Tradition Features](8th%20Level%20Tradition%20Features.md)
-    - [Doubling the Hours](8th-Level%20Tradition%20Features/Doubling%20the%20Hours.md)
-    - [Levitation Field](8th-Level%20Tradition%20Features/Levitation%20Field.md)
-    - [Low Gravity](8th-Level%20Tradition%20Features/Low%20Gravity.md)
-    - [Mindlink](8th-Level%20Tradition%20Features/Mindlink.md)
+- [8th Level Tradition Features](8th Level Tradition Features.md)
+    - [Doubling the Hours](8th-Level Tradition Features/Doubling the Hours.md)
+    - [Levitation Field](8th-Level Tradition Features/Levitation Field.md)
+    - [Low Gravity](8th-Level Tradition Features/Low Gravity.md)
+    - [Mindlink](8th-Level Tradition Features/Mindlink.md)
 - [Perk](Perk.md)
-- [Stasis Shield](Stasis%20Shield.md)
+- [Stasis Shield](Stasis Shield.md)
 
 </div>
 
@@ -23,6 +23,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Universal Connection](Universal%20Connection.md)
+- [Universal Connection](Universal Connection.md)
 
 </div>

@@ -28,9 +28,9 @@ Your [censor](../../../Browse/Classes/Censor.md) order grants you two features, 
 
 | Order    | Features                                                                                                                                                                                                                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Saints%20Vigilance.md), [A Sense for Truth](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/A%20Sense%20for%20Truth.md) |
-| Oracle   | [It Was Foretold](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/It%20Was%20Foretold.md), [Judge of Character](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Judge%20of%20Character.md)  |
-| Paragon  | [Lead by Example](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Lead%20by%20Example.md), [Stalwart Icon](../../../Browse/Features/Censor/2nd-Level%20Features/2nd-Level%20Order%20Features/Stalwart%20Icon.md)              |
+| Exorcist | [Saint's Vigilance](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Saints Vigilance.md), [A Sense for Truth](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/A Sense for Truth.md) |
+| Oracle   | [It Was Foretold](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/It Was Foretold.md), [Judge of Character](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Judge of Character.md)  |
+| Paragon  | [Lead by Example](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Lead by Example.md), [Stalwart Icon](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Stalwart Icon.md)              |
 
 ##### It Was Foretold
 
@@ -46,7 +46,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action.
 
 ##### A Sense for Truth
 

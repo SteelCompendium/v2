@@ -9,16 +9,16 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Specialization Feature](1st%20Level%20Specialization%20Feature.md)
-- [Elementalist Abilities](Elementalist%20Abilities.md)
-- [Elementalist Ward](Elementalist%20Ward.md)
-- [Elemental Specialization](Elemental%20Specialization.md)
+- [1st Level Specialization Feature](1st Level Specialization Feature.md)
+- [Elementalist Abilities](Elementalist Abilities.md)
+- [Elementalist Ward](Elementalist Ward.md)
+- [Elemental Specialization](Elemental Specialization.md)
 - [Enchantment](Enchantment.md)
 - [Essence](Essence.md)
-- [Hurl Element](Hurl%20Element.md)
-- [Persistent Magic](Persistent%20Magic.md)
-- [Practical Magic](Practical%20Magic.md)
-- [Specialization Triggered Action](Specialization%20Triggered%20Action.md)
+- [Hurl Element](Hurl Element.md)
+- [Persistent Magic](Persistent Magic.md)
+- [Practical Magic](Practical Magic.md)
+- [Specialization Triggered Action](Specialization Triggered Action.md)
 
 </div>
 
@@ -26,10 +26,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [A Beyonding of Vision](1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision.md)
-    - [It Is the Soul Which Hears](1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears.md)
-    - [Motivate Earth](1st-Level%20Specialization%20Feature/Motivate%20Earth.md)
-    - [Return to Formlessness](1st-Level%20Specialization%20Feature/Return%20to%20Formlessness.md)
+    - [A Beyonding of Vision](1st-Level Specialization Feature/A Beyonding of Vision.md)
+    - [It Is the Soul Which Hears](1st-Level Specialization Feature/It Is the Soul Which Hears.md)
+    - [Motivate Earth](1st-Level Specialization Feature/Motivate Earth.md)
+    - [Return to Formlessness](1st-Level Specialization Feature/Return to Formlessness.md)
 
 </div>
 
@@ -37,8 +37,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Elementalist%20Abilities/Heroic%20Abilities.md)
-    - [Signature Abilities](Elementalist%20Abilities/Signature%20Abilities.md)
+    - [Heroic Abilities](Elementalist Abilities/Heroic Abilities.md)
+    - [Signature Abilities](Elementalist Abilities/Signature Abilities.md)
 
 </div>
 
@@ -46,10 +46,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Ward of Delightful Consequences](Elementalist%20Ward/Ward%20of%20Delightful%20Consequences.md)
-    - [Ward of Excellent Protection](Elementalist%20Ward/Ward%20of%20Excellent%20Protection.md)
-    - [Ward of Natures Affection](Elementalist%20Ward/Ward%20of%20Natures%20Affection.md)
-    - [Ward of Surprising Reactivity](Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity.md)
+    - [Ward of Delightful Consequences](Elementalist Ward/Ward of Delightful Consequences.md)
+    - [Ward of Excellent Protection](Elementalist Ward/Ward of Excellent Protection.md)
+    - [Ward of Natures Affection](Elementalist Ward/Ward of Natures Affection.md)
+    - [Ward of Surprising Reactivity](Elementalist Ward/Ward of Surprising Reactivity.md)
 
 </div>
 
@@ -57,10 +57,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Earth Acolyte of Earth](Elemental%20Specialization/Earth%20Acolyte%20of%20Earth.md)
-    - [Fire Acolyte of Fire](Elemental%20Specialization/Fire%20Acolyte%20of%20Fire.md)
-    - [Green Acolyte of the Green](Elemental%20Specialization/Green%20Acolyte%20of%20the%20Green.md)
-    - [Void Acolyte of the Mystery](Elemental%20Specialization/Void%20Acolyte%20of%20the%20Mystery.md)
+    - [Earth Acolyte of Earth](Elemental Specialization/Earth Acolyte of Earth.md)
+    - [Fire Acolyte of Fire](Elemental Specialization/Fire Acolyte of Fire.md)
+    - [Green Acolyte of the Green](Elemental Specialization/Green Acolyte of the Green.md)
+    - [Void Acolyte of the Mystery](Elemental Specialization/Void Acolyte of the Mystery.md)
 
 </div>
 
@@ -68,11 +68,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Enchantment of Battle](Enchantment/Enchantment%20of%20Battle.md)
-    - [Enchantment of Celerity](Enchantment/Enchantment%20of%20Celerity.md)
-    - [Enchantment of Destruction](Enchantment/Enchantment%20of%20Destruction.md)
-    - [Enchantment of Distance](Enchantment/Enchantment%20of%20Distance.md)
-    - [Enchantment of Permanence](Enchantment/Enchantment%20of%20Permanence.md)
+    - [Enchantment of Battle](Enchantment/Enchantment of Battle.md)
+    - [Enchantment of Celerity](Enchantment/Enchantment of Celerity.md)
+    - [Enchantment of Destruction](Enchantment/Enchantment of Destruction.md)
+    - [Enchantment of Distance](Enchantment/Enchantment of Distance.md)
+    - [Enchantment of Permanence](Enchantment/Enchantment of Permanence.md)
 
 </div>
 
@@ -80,7 +80,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Essence in Combat](Essence/Essence%20in%20Combat.md)
-    - [Essence Outside of Combat](Essence/Essence%20Outside%20of%20Combat.md)
+    - [Essence in Combat](Essence/Essence in Combat.md)
+    - [Essence Outside of Combat](Essence/Essence Outside of Combat.md)
 
 </div>

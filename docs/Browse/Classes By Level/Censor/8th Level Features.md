@@ -28,13 +28,13 @@ Your [censor](../../../Browse/Classes/Censor.md) order grants you a feature, as 
 
 | Order    | Feature                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Demonologist.md)                   |
-| Oracle   | [Their Past Revealed](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Their%20Past%20Revealed.md) |
-| Paragon  | [Vow](../../../Browse/Features/Censor/8th-Level%20Features/8th-Level%20Order%20Feature/Vow.md)                                     |
+| Exorcist | [Demonologist](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md)                   |
+| Oracle   | [Their Past Revealed](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md) |
+| Paragon  | [Vow](../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md)                                     |
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../Browse/Ancestries/Devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../Browse/Ancestries/Devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 
@@ -114,4 +114,4 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 > - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 > - **17+:** 12 + P damage; I < STRONG, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 >
-> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a different creature must make the [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target instead.
+> **Effect:** While the target is [slowed](../../../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target. Additionally, while the target is [slowed](../../../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a different creature must make the [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target instead.

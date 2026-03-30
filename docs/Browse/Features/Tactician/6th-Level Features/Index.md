@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [6th Level Doctrine Ability](6th%20Level%20Doctrine%20Ability.md)
-    - [6th Level Insurgent Abilities](6th-Level%20Doctrine%20Ability/6th%20Level%20Insurgent%20Abilities.md)
-    - [6th Level Mastermind Abilities](6th-Level%20Doctrine%20Ability/6th%20Level%20Mastermind%20Abilities.md)
-    - [6th Level Vanguard Abilities](6th-Level%20Doctrine%20Ability/6th%20Level%20Vanguard%20Abilities.md)
-- [Master of Arms](Master%20of%20Arms.md)
+- [6th Level Doctrine Ability](6th Level Doctrine Ability.md)
+    - [6th Level Insurgent Abilities](6th-Level Doctrine Ability/6th Level Insurgent Abilities.md)
+    - [6th Level Mastermind Abilities](6th-Level Doctrine Ability/6th Level Mastermind Abilities.md)
+    - [6th Level Vanguard Abilities](6th-Level Doctrine Ability/6th Level Vanguard Abilities.md)
+- [Master of Arms](Master of Arms.md)
 - [Perk](Perk.md)
 
 </div>

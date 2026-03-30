@@ -18,14 +18,14 @@ type: feature/trait/shadow/1st-level-feature
 
 #### College Triggered Action
 
-Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md) table.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../Browse/Features/Shadow/1st-Level Features/College Triggered Action.md) table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) |
-| Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md)                   |
+| Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md)                   |
 | Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->

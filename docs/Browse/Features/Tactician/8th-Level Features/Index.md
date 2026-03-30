@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Doctrine Feature](8th%20Level%20Doctrine%20Feature.md)
-    - [Bait and Ambush](8th-Level%20Doctrine%20Feature/Bait%20and%20Ambush.md)
-    - [Pincer Movement](8th-Level%20Doctrine%20Feature/Pincer%20Movement.md)
-    - [See Your Enemies Driven Before You](8th-Level%20Doctrine%20Feature/See%20Your%20Enemies%20Driven%20Before%20You.md)
+- [8th Level Doctrine Feature](8th Level Doctrine Feature.md)
+    - [Bait and Ambush](8th-Level Doctrine Feature/Bait and Ambush.md)
+    - [Pincer Movement](8th-Level Doctrine Feature/Pincer Movement.md)
+    - [See Your Enemies Driven Before You](8th-Level Doctrine Feature/See Your Enemies Driven Before You.md)
 - [Perk](Perk.md)
 
 </div>

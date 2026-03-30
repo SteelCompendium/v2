@@ -9,15 +9,15 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Class Act Features](1st%20Level%20Class%20Act%20Features.md)
-- [Class Act Triggered Action](Class%20Act%20Triggered%20Action.md)
+- [1st Level Class Act Features](1st Level Class Act Features.md)
+- [Class Act Triggered Action](Class Act Triggered Action.md)
 - [Drama](Drama.md)
 - [Kit](Kit.md)
 - [Routines](Routines.md)
-- [Scene Partner](Scene%20Partner.md)
-- [Signature Ability](Signature%20Ability.md)
-- [Troubadour Abilities](Troubadour%20Abilities.md)
-- [Troubadour Class Act](Troubadour%20Class%20Act.md)
+- [Scene Partner](Scene Partner.md)
+- [Signature Ability](Signature Ability.md)
+- [Troubadour Abilities](Troubadour Abilities.md)
+- [Troubadour Class Act](Troubadour Class Act.md)
 
 </div>
 
@@ -25,12 +25,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Acrobatics](1st-Level%20Class%20Act%20Features/Acrobatics.md)
-    - [Blocking](1st-Level%20Class%20Act%20Features/Blocking.md)
-    - [Dramatic Monologue](1st-Level%20Class%20Act%20Features/Dramatic%20Monologue.md)
-    - [Power Chord](1st-Level%20Class%20Act%20Features/Power%20Chord.md)
-    - [Star Power](1st-Level%20Class%20Act%20Features/Star%20Power.md)
-    - [Virtuoso Performances](1st-Level%20Class%20Act%20Features/Virtuoso%20Performances.md)
+    - [Acrobatics](1st-Level Class Act Features/Acrobatics.md)
+    - [Blocking](1st-Level Class Act Features/Blocking.md)
+    - [Dramatic Monologue](1st-Level Class Act Features/Dramatic Monologue.md)
+    - [Power Chord](1st-Level Class Act Features/Power Chord.md)
+    - [Star Power](1st-Level Class Act Features/Star Power.md)
+    - [Virtuoso Performances](1st-Level Class Act Features/Virtuoso Performances.md)
 
 </div>
 
@@ -38,8 +38,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Drama in Combat](Drama/Drama%20in%20Combat.md)
-    - [Drama Outside of Combat](Drama/Drama%20Outside%20of%20Combat.md)
+    - [Drama in Combat](Drama/Drama in Combat.md)
+    - [Drama Outside of Combat](Drama/Drama Outside of Combat.md)
 
 </div>
 
@@ -47,6 +47,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Signature%20Ability/Heroic%20Abilities.md)
+    - [Heroic Abilities](Signature Ability/Heroic Abilities.md)
 
 </div>

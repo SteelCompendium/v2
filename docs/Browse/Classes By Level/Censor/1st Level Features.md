@@ -34,25 +34,25 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 #### Wrath
 
-The power you serve grants you a Heroic Resource called [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md), fueling your abilities as you [censor](../../../Browse/Classes/Censor.md) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md), fueling your abilities as you [censor](../../../Browse/Classes/Censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath outside of combat](../../../Browse/Features/Censor/1st-Level%20Features/Wrath/Wrath%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [wrath outside of combat](../../../Browse/Features/Censor/1st-Level Features/Wrath/Wrath Outside of Combat.md), you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../Browse/Classes/Censor.md), but they might appear in future products.)
 
 #### Judgment
 
-You pick out the enemies most worthy of your [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
 <!-- -->
 > ###### Judgment
@@ -71,7 +71,7 @@ You pick out the enemies most worthy of your [wrath](../../../Browse/Features/Ce
 >
 > Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 >
-> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 > - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../Browse/Conditions/Taunted.md) by you until the end of their next turn.
@@ -80,7 +80,7 @@ You pick out the enemies most worthy of your [wrath](../../../Browse/Features/Ce
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../../../Browse/Features/Censor/1st-Level Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../../../Browse/Movement/Teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
@@ -88,7 +88,7 @@ The first time on a turn that you use your [Judgment](../../../Browse/Features/C
 
 #### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../../../Browse/Kits/Warrior%20Priest.md).)
+You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* [Warrior Priest](../../../Browse/Kits/Warrior Priest.md).)
 
 #### My Life for Yours
 
@@ -117,18 +117,18 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 | Domain     | Feature                                                                                                                                                                    | Skill Group   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md)                                                  | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech.md)                                                                  | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions.md)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension.md)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual.md)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion.md)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend.md)                                                            | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light.md)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception.md)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md)                             | Exploration   |
+| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md)                                                  | Crafting      |
+| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md)                                                                  | Lore          |
+| Fate       | [Oracular Visions](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md)                                                            | Exploration   |
+| Protection | [Protective Circle](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) | Exploration   |
+| Sun        | [Inner Light](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -213,7 +213,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -229,7 +229,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You.md)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ###### Back Blasphemer!
@@ -297,7 +297,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your [wrath](../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+You call upon a number of heroic abilities, all of them bound to your [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 ###### 3-Wrath Ability
 

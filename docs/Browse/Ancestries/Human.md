@@ -24,7 +24,7 @@ So, we arrive here at the end of your first semester of [Human](../../Browse/Anc
 
 I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../../Browse/Ancestries/Human.md)?
 
-I am a [high elf](../../Browse/Ancestries/High%20Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a [high elf](../../Browse/Ancestries/High Elf.md), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../../Browse/Ancestries/Human.md), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
 What do I think of [humans](../../Browse/Ancestries/Human.md)? Well, I will tell you.
 

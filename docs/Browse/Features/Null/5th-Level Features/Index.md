@@ -9,7 +9,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Tradition Feature](5th%20Level%20Tradition%20Feature.md)
+- [5th Level Tradition Feature](5th Level Tradition Feature.md)
 
 </div>
 
@@ -17,7 +17,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Chilling Readiness](Chilling%20Readiness.md)
+- [Chilling Readiness](Chilling Readiness.md)
 
 </div>
 
@@ -25,7 +25,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Inertial Fulcrum](Inertial%20Fulcrum.md)
+- [Inertial Fulcrum](Inertial Fulcrum.md)
 
 </div>
 
@@ -33,6 +33,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Instant Action](Instant%20Action.md)
+- [Instant Action](Instant Action.md)
 
 </div>

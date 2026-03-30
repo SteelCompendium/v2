@@ -22,7 +22,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md), [Staggering Curse](../../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md).)
 
 <!-- -->
 > ###### Blessed Light

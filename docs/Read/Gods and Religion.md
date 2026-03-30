@@ -24,7 +24,7 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th%20Echelon/Demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th Echelon/Demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
@@ -181,7 +181,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
-The [high elf](../Browse/Ancestries/High%20Elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode%20Elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
+The [high elf](../Browse/Ancestries/High Elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode Elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
 ##### A Sea of Suns
 
@@ -219,7 +219,7 @@ In the end, her efforts failed, and the elder dragons live no more in this world
 
 Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnessed the Composer's first song, and took it upon themselves to communicate with and care for the speaking creatures A Sea of Suns created. The dryads, elgenwights, the giant birds and intelligent fish who populated the ancient wode that once covered all Orden, all came under the Beast Heart's care. Dyrvis learned their speech and taught them who they were.
 
-To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode%20Elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode%20Elf.md) for protection.
+To this day, many ages of the world later, the [wode elves](../Browse/Ancestries/Wode Elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../Browse/Ancestries/Wode Elf.md) for protection.
 
 ##### Thyll Hylacae
 
@@ -713,7 +713,7 @@ Salorna has few [censors](../Browse/Classes/Censor.md), but not none! Favoring l
 
 **Domains:** Nature, Sun
 
-Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode%20Elf.md) had not seen in many ages of the world.
+Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the [wode elves](../Browse/Ancestries/Wode Elf.md) had not seen in many ages of the world.
 
 The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [dwarves](../Browse/Ancestries/Dwarf.md)?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [human](../Browse/Ancestries/Human.md) who took their problems as her own.
 
@@ -923,9 +923,9 @@ OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masc
 
 Lost ships sometimes find their navigation systems lighting up, a clear path home suddenly visible where no such path was possible before. OV aids those who are lost regardless of their affiliation with law or chaos, and is one of the Lords of Balance. His herald works to stop conflicts by guiding ships around and past routes that might cause them to intercept hostile entities.
 
-OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time%20Raider.md), though none would call him or any other being their "god."
+OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../Browse/Ancestries/Time Raider.md), though none would call him or any other being their "god."
 
-When a [time raider](../Browse/Ancestries/Time%20Raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](../Browse/Ancestries/Time Raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider
 
@@ -937,15 +937,15 @@ Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the
 
 Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
 
-Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time%20Raider.md) were to be rescued by proteans!
+Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the [time raiders](../Browse/Ancestries/Time Raider.md) were to be rescued by proteans!
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
 The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../Browse/Conditions/Grabbed.md) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
 
-With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time%20Raider.md) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
+With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time Raider.md) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 
-On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time%20Raider.md) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
+On gaining the bridge, messages blared from every signal receiver. Each side demanding the [time raiders](../Browse/Ancestries/Time Raider.md) join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
 
 "Take the helm and damn them all!" she called out. "There must be a way home!" And in that instant, the navigation screens sprung to life. "Look!" her brother said. A route had already been plotted. One that made no literal sense. Was the ship's logic system malfunctioning?
 

@@ -142,7 +142,7 @@ Khorva shook her head. "[Orcs](../../Browse/Ancestries/Orc.md) have no great lov
 
 #### Signature Trait: Relentless
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 #### Purchased Orc Traits
 
@@ -154,7 +154,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery (2 Points)
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch Breath.md) maneuver, you can spend as many Recoveries as you like.
 
 ##### Grounded (1 Point)
 

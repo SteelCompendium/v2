@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic%20Increase.md)
-- [Discipline Mastery Improvement](Discipline%20Mastery%20Improvement.md)
-- [Enhanced Null Field](Enhanced%20Null%20Field.md)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Discipline Mastery Improvement](Discipline Mastery Improvement.md)
+- [Enhanced Null Field](Enhanced Null Field.md)
 - [Perk](Perk.md)
-- [Regenerative Field](Regenerative%20Field.md)
+- [Regenerative Field](Regenerative Field.md)
 - [Skill](Skill.md)
 
 </div>

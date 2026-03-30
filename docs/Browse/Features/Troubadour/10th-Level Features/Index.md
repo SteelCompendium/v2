@@ -8,9 +8,9 @@ type: index
 <div class="browse-index" markdown>
 
 - [Applause](Applause.md)
-- [Characteristic Increase](Characteristic%20Increase.md)
+- [Characteristic Increase](Characteristic Increase.md)
 - [Dramaturgy](Dramaturgy.md)
-- [Greatest of All Time](Greatest%20of%20All%20Time.md)
+- [Greatest of All Time](Greatest of All Time.md)
 - [Perk](Perk.md)
 - [Skill](Skill.md)
 

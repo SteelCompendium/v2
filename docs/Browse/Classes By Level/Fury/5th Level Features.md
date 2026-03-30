@@ -18,15 +18,15 @@ As a 5th-level [fury](../../../Browse/Classes/Fury.md), you gain the following f
 
 #### 5th-Level Aspect Feature
 
-Your [primordial aspect](../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
 ###### 5th-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                      |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Bounder](../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Bounder.md)       |
-| Reaver     | [Unfettered](../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Unfettered.md) |
-| Stormwight | [Stormborn](../../../Browse/Features/Fury/5th-Level%20Features/5th-Level%20Aspect%20Feature/Stormborn.md)   |
+| Berserker  | [Bounder](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Bounder.md)       |
+| Reaver     | [Unfettered](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Unfettered.md) |
+| Stormwight | [Stormborn](../../../Browse/Features/Fury/5th-Level Features/5th-Level Aspect Feature/Stormborn.md)   |
 
 ##### Bounder
 
@@ -34,7 +34,7 @@ Your [jump](../../../Browse/Movement/Jump.md) distance and height double (see Mo
 
 ##### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather.md) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit.md) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit.md) section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) feature as if you were a 1st-level [conduit](../../../Browse/Classes/Conduit.md) (see 1st-Level Domain Feature in the [Conduit](../../../Browse/Classes/Conduit.md) section).
 
 ##### Unfettered
 

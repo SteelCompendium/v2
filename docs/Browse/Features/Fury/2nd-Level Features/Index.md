@@ -9,8 +9,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Aspect Ability](2nd%20Level%20Aspect%20Ability.md)
-- [2nd Level Aspect Feature](2nd%20Level%20Aspect%20Feature.md)
+- [2nd Level Aspect Ability](2nd Level Aspect Ability.md)
+- [2nd Level Aspect Feature](2nd Level Aspect Feature.md)
 - [Perk](Perk.md)
 
 </div>
@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [2nd Level Berserker Ability](2nd-Level%20Aspect%20Ability/2nd%20Level%20Berserker%20Ability.md)
-    - [2nd Level Reaver Ability](2nd-Level%20Aspect%20Ability/2nd%20Level%20Reaver%20Ability.md)
-    - [2nd Level Stormwight Ability](2nd-Level%20Aspect%20Ability/2nd%20Level%20Stormwight%20Ability.md)
+    - [2nd Level Berserker Ability](2nd-Level Aspect Ability/2nd Level Berserker Ability.md)
+    - [2nd Level Reaver Ability](2nd-Level Aspect Ability/2nd Level Reaver Ability.md)
+    - [2nd Level Stormwight Ability](2nd-Level Aspect Ability/2nd Level Stormwight Ability.md)
 
 </div>
 
@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Inescapable Wrath](2nd-Level%20Aspect%20Feature/Inescapable%20Wrath.md)
-    - [Tooth and Claw](2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw.md)
-    - [Unstoppable Force](2nd-Level%20Aspect%20Feature/Unstoppable%20Force.md)
+    - [Inescapable Wrath](2nd-Level Aspect Feature/Inescapable Wrath.md)
+    - [Tooth and Claw](2nd-Level Aspect Feature/Tooth and Claw.md)
+    - [Unstoppable Force](2nd-Level Aspect Feature/Unstoppable Force.md)
 
 </div>

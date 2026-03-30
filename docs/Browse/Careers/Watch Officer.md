@@ -28,7 +28,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One exploration perk (*Quick Build:* [Team Leader](../../Browse/Perks/Exploration%20Perks/Team%20Leader.md).)
+**Perk:** One exploration perk (*Quick Build:* [Team Leader](../../Browse/Perks/Exploration Perks/Team Leader.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

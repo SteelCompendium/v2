@@ -9,8 +9,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Doctrine Ability](2nd%20Level%20Doctrine%20Ability.md)
-- [2nd Level Doctrine Feature](2nd%20Level%20Doctrine%20Feature.md)
+- [2nd Level Doctrine Ability](2nd Level Doctrine Ability.md)
+- [2nd Level Doctrine Feature](2nd Level Doctrine Feature.md)
 - [Perk](Perk.md)
 
 </div>
@@ -19,9 +19,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [2nd Level Insurgent Ability](2nd-Level%20Doctrine%20Ability/2nd%20Level%20Insurgent%20Ability.md)
-    - [2nd Level Mastermind Ability](2nd-Level%20Doctrine%20Ability/2nd%20Level%20Mastermind%20Ability.md)
-    - [2nd Level Vanguard Ability](2nd-Level%20Doctrine%20Ability/2nd%20Level%20Vanguard%20Ability.md)
+    - [2nd Level Insurgent Ability](2nd-Level Doctrine Ability/2nd Level Insurgent Ability.md)
+    - [2nd Level Mastermind Ability](2nd-Level Doctrine Ability/2nd Level Mastermind Ability.md)
+    - [2nd Level Vanguard Ability](2nd-Level Doctrine Ability/2nd Level Vanguard Ability.md)
 
 </div>
 
@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Goaded](2nd-Level%20Doctrine%20Feature/Goaded.md)
-    - [Infiltration Tactics](2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics.md)
-    - [Melee Superiority](2nd-Level%20Doctrine%20Feature/Melee%20Superiority.md)
+    - [Goaded](2nd-Level Doctrine Feature/Goaded.md)
+    - [Infiltration Tactics](2nd-Level Doctrine Feature/Infiltration Tactics.md)
+    - [Melee Superiority](2nd-Level Doctrine Feature/Melee Superiority.md)
 
 </div>

@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [2nd Level Domain Ability](2nd%20Level%20Domain%20Ability.md)
-- [2nd Level Domain Feature](2nd%20Level%20Domain%20Feature.md)
+- [2nd Level Domain Ability](2nd Level Domain Ability.md)
+- [2nd Level Domain Feature](2nd Level Domain Feature.md)
 - [Perk](Perk.md)
-- [The Lists of Heaven](The%20Lists%20of%20Heaven.md)
+- [The Lists of Heaven](The Lists of Heaven.md)
 
 </div>

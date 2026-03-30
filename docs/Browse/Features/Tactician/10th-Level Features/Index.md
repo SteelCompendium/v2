@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic%20Increase.md)
+- [Characteristic Increase](Characteristic Increase.md)
 - [Command](Command.md)
 - [Perk](Perk.md)
 - [Skill](Skill.md)
-- [True Focus](True%20Focus.md)
+- [True Focus](True Focus.md)
 - [Warmaster](Warmaster.md)
 
 </div>

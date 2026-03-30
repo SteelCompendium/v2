@@ -49,15 +49,15 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](../../../Browse/Features/Talent/1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../../../Browse/Features/Talent/1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
+You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ###### Mind Spike
@@ -78,11 +78,11 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md).)
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
@@ -100,11 +100,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../../Browse/Features/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20Ward.md).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../../Browse/Features/Talent/1st-Level Features/Talent Ward/Repulsive Ward.md).)
 
 ##### Entropy Ward
 
@@ -124,7 +124,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -134,9 +134,9 @@ Your [talent](../../../Browse/Classes/Talent.md) tradition grants you two featur
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate.md), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis.md), [Repel](../../../Browse/Features/Talent/1st-Level%20Features/Repel.md)                    |
-| Telepathy   | [Feedback Loop](../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop.md), [Remote Assistance](../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance.md) |
+| Chronopathy | [Accelerate](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), [Repel](../../../Browse/Features/Talent/1st-Level Features/Repel.md)                    |
+| Telepathy   | [Feedback Loop](../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md), [Remote Assistance](../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md) |
 
 ##### Accelerate
 
@@ -248,7 +248,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate.md), [Kinetic Grip](../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md), [Kinetic Grip](../../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -447,7 +447,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)

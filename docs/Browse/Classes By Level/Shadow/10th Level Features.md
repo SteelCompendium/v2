@@ -34,18 +34,18 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability.
+You can target three creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md) ability.
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](../../../Browse/Classes/Shadow.md) creature you become with your [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../../../Browse/Classes/Shadow.md) creature you become with your [Umbral Form](../../../Browse/Features/Shadow/6th-Level Features/Umbral Form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../Browse/Movement/Teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../Browse/Movement/Teleport.md) this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../../../Browse/Features/Shadow/6th-Level Features/Umbral Form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../Browse/Movement/Teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../Browse/Movement/Teleport.md) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level Features/Insight.md).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 
-[Subterfuge](../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge.md) remains until you spend it.
+[Subterfuge](../../../Browse/Features/Shadow/10th-Level Features/Subterfuge.md) remains until you spend it.

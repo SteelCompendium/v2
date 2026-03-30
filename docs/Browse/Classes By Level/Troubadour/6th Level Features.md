@@ -22,7 +22,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Spotlight
 
-You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Spotlight
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) bonus, and [stability](../../../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) bonus, and [stability](../../../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets and which enemies the target creature's [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../Browse/Movement/Stability.md).
+> **Effect:** You and the target each make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) targets and which enemies the target creature's [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../Browse/Movement/Stability.md).
 
 ##### 6th-Level Virtuoso Abilities
 
