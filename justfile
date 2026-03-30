@@ -11,15 +11,12 @@ update push="true":
         v2_dir="$(pwd)"
         cd "$dir"
 
-        # Extract data-md-linked version info and write footer partial
+        # Extract data-md-linked version info and embed in mkdocs.yml copyright footer
         data_sha="$(git rev-parse --short HEAD)"
         data_date="$(git log -1 --format='%cs')"
+        data_version="<a href=\"https://github.com/SteelCompendium/data-md-linked/commit/${data_sha}\">${data_sha}</a> (${data_date})"
         echo >&2 "[INFO] data-md-linked version: ${data_sha} (${data_date})"
-        cat > "${v2_dir}/overrides/partials/data-version.html" <<VEOF
-    <span class="md-footer-data-version">
-      Data: <a href="https://github.com/SteelCompendium/data-md-linked/commit/${data_sha}">${data_sha}</a> (${data_date})
-    </span>
-    VEOF
+        sed -i "s|DATA_VERSION|${data_version}|g" "${v2_dir}/mkdocs.yml"
 
         echo >&2 "[INFO] Copying compendium markdown (data-md)..."
 
@@ -156,6 +153,8 @@ update push="true":
 clean_docs:
     #!/usr/bin/env bash
     set -euo pipefail
+    # Reset data version placeholder in mkdocs.yml for idempotent re-runs
+    sed -i -E 's|Data: <a[^<]*</a> \([0-9]{4}-[0-9]{2}-[0-9]{2}\)|Data: DATA_VERSION|g' mkdocs.yml
     cd docs
     find . -maxdepth 1 -mindepth 1 \
       ! -name 'javascripts' \

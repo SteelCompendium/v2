@@ -1,12 +1,4 @@
 {% extends "base.html" %}
-
-{% block content_footer %}
-{{ super() }}
-<div class="md-footer-data-version-container">
-  {% include "partials/data-version.html" ignore missing %}
-</div>
-{% endblock %}
-
 {% block extrahead %}
 {{ super() }}
 <script>
