@@ -22,7 +22,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
 
 <!-- -->
 > ###### Blessed Light
@@ -69,9 +69,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 2
-> - **12-16:** 5 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 3
-> - **17+:** 8 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -88,7 +88,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can [teleport](../../../../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](../../../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -177,7 +177,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../Browse/Movement/Stability.md).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../Browse/Movement/Stability.md).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)
@@ -201,9 +201,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
-> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
-> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../../Browse/Conditions/Prone.md)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -252,9 +252,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -282,4 +282,4 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../../Browse/Conditions/Prone.md).
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../Browse/Conditions/Prone.md).

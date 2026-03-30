@@ -18,7 +18,7 @@ type: feature/trait/censor/1st-level-feature
 
 #### Judgment
 
-You pick out the enemies most worthy of your [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
 <!-- -->
 > ###### Judgment
@@ -29,7 +29,7 @@ You pick out the enemies most worthy of your [wrath](../../../../../Browse/Featu
 > | ----------------- | ---------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 >
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../../Browse/Classes/Censor.md) judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../Browse/Classes/Censor.md) judges the target.
 >
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 >
@@ -37,17 +37,17 @@ You pick out the enemies most worthy of your [wrath](../../../../../Browse/Featu
 >
 > Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 >
-> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When an adjacent creature judged by you starts to shift, you make a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../../../Browse/Conditions/Taunted.md) by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../../Browse/Conditions/Taunted.md) by you until the end of their next turn.
 >
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit
 
-The first time on a turn that you use your [Judgment](../../../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can [teleport](../../../../../Browse/Movement/Teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Exorcist:** You can [teleport](../../../../Browse/Movement/Teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
-- **Paragon:** You can [vertical](../../../../../Browse/Movement/Vertical.md) pull the judged creature up to a number of squares equal to twice your Presence score.
+- **Paragon:** You can [vertical](../../../../Browse/Movement/Vertical.md) pull the judged creature up to a number of squares equal to twice your Presence score.

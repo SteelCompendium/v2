@@ -37,8 +37,8 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-- **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
+- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+- **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
 
 **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.

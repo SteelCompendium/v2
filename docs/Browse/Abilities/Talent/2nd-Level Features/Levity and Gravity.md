@@ -38,8 +38,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
-- **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
-- **17+:** 14 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+- **≤11:** 6 + R damage; M < WEAK, [prone](../../../../Browse/Conditions/Prone.md)
+- **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md)
+- **17+:** 14 + R damage; M < STRONG, [prone](../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 **Strained:** You take half the damage the target takes.

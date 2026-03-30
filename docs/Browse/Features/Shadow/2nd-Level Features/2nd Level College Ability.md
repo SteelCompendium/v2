@@ -18,7 +18,7 @@ type: feature/trait/shadow/2nd-level-feature
 
 #### 2nd-Level College Ability
 
-Your [shadow](../../../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target 1 square
-> - **12-16:** 10 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target up to 3 squares
-> - **17+:** 14 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](../../../../Browse/Movement/Teleport.md) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](../../../../Browse/Movement/Teleport.md) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](../../../../Browse/Movement/Teleport.md) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -48,9 +48,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability.
+> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability. Before you [teleport](../../../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md). After you [teleport](../../../../../Browse/Movement/Teleport.md), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md). After you [teleport](../../../../Browse/Movement/Teleport.md), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -88,7 +88,7 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../../Browse/Conditions/Weakened.md) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -109,7 +109,7 @@ Choose one of the following abilities.
 > - **12-16:** Slide 5
 > - **17+:** Slide 7
 >
-> **Effect:** This forced movement ignores [stability](../../../../../Browse/Movement/Stability.md). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+> **Effect:** This forced movement ignores [stability](../../../../Browse/Movement/Stability.md). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
 <!-- -->
 > ###### So Gullible (5 Insight)
@@ -122,4 +122,4 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.

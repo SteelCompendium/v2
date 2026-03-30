@@ -14,11 +14,11 @@ type: class/elementalist/level
 
 ### 9th-Level Features
 
-As a 9th-level [elementalist](../../../../Browse/Classes/Elementalist.md), you gain the following features.
+As a 9th-level [elementalist](../../../Browse/Classes/Elementalist.md), you gain the following features.
 
 #### Grand Wyrding
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding.md) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../../../Browse/Features/Elementalist/6th-Level%20Features/Wyrding.md) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
@@ -78,8 +78,8 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **17+:** 25 + R fire damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Effect:** This damage ignores immunity.

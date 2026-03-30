@@ -35,7 +35,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../../../../Browse/Conditions/Slowed.md) or [weakened](../../../../../../Browse/Conditions/Weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../../../Browse/Conditions/Slowed.md) or [weakened](../../../../../Browse/Conditions/Weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.

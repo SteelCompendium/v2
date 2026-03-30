@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Focus on Their Weaknesses](../Focus%20on%20Their%20Weaknesses)
-- [Improved Field Arsenal](../Improved%20Field%20Arsenal)
-- [Perk](../Perk)
-- [Skill](../Skill)
+- [Characteristic Increase](Characteristic%20Increase.md)
+- [Focus on Their Weaknesses](Focus%20on%20Their%20Weaknesses.md)
+- [Improved Field Arsenal](Improved%20Field%20Arsenal.md)
+- [Perk](Perk.md)
+- [Skill](Skill.md)
 
 </div>

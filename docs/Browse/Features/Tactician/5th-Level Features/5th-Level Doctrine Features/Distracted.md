@@ -18,4 +18,4 @@ type: feature/subtrait/tactician/5th-level-feature
 
 ##### Distracted
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](../../../../../../Browse/Abilities/Common/Maneuvers/Hide.md), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to [hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md), any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.

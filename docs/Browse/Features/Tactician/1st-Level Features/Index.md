@@ -9,14 +9,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Doctrine Feature](../1st%20Level%20Doctrine%20Feature)
-- [Doctrine Triggered Action](../Doctrine%20Triggered%20Action)
-- [Field Arsenal](../Field%20Arsenal)
-- [Focus](../Focus)
-- [Mark](../Mark)
-- [Strike Now](../Strike%20Now)
-- [Tactical Doctrine](../Tactical%20Doctrine)
-- [Tactician Abilities](../Tactician%20Abilities)
+- [1st Level Doctrine Feature](1st%20Level%20Doctrine%20Feature.md)
+- [Doctrine Triggered Action](Doctrine%20Triggered%20Action.md)
+- [Field Arsenal](Field%20Arsenal.md)
+- [Focus](Focus.md)
+- [Mark](Mark.md)
+- [Strike Now](Strike%20Now.md)
+- [Tactical Doctrine](Tactical%20Doctrine.md)
+- [Tactician Abilities](Tactician%20Abilities.md)
 
 </div>
 
@@ -24,9 +24,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Commanding Presence](../1st-Level%20Doctrine%20Feature/Commanding%20Presence)
-    - [Covert Operations](../1st-Level%20Doctrine%20Feature/Covert%20Operations)
-    - [Studied Commander](../1st-Level%20Doctrine%20Feature/Studied%20Commander)
+    - [Commanding Presence](1st-Level%20Doctrine%20Feature/Commanding%20Presence.md)
+    - [Covert Operations](1st-Level%20Doctrine%20Feature/Covert%20Operations.md)
+    - [Studied Commander](1st-Level%20Doctrine%20Feature/Studied%20Commander.md)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Focus in Combat](../Focus/Focus%20in%20Combat)
-    - [Focus Outside of Combat](../Focus/Focus%20Outside%20of%20Combat)
+    - [Focus in Combat](Focus/Focus%20in%20Combat.md)
+    - [Focus Outside of Combat](Focus/Focus%20Outside%20of%20Combat.md)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](../Tactician%20Abilities/Heroic%20Abilities)
-    - [Kit Signature Ability](../Tactician%20Abilities/Kit%20Signature%20Ability)
+    - [Heroic Abilities](Tactician%20Abilities/Heroic%20Abilities.md)
+    - [Kit Signature Ability](Tactician%20Abilities/Kit%20Signature%20Ability.md)
 
 </div>

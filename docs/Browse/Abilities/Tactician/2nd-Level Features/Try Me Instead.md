@@ -39,6 +39,6 @@ type: feature/ability/tactician/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-- **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-- **17+:** 4 + R damage; R < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+- **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+- **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+- **17+:** 4 + R damage; R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)

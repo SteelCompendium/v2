@@ -37,8 +37,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 3 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 2
-- **12-16:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 4
-- **17+:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 6
+- **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical.md) push 2
+- **12-16:** 6 damage; [vertical](../../../../Browse/Movement/Vertical.md) push 4
+- **17+:** 9 damage; [vertical](../../../../Browse/Movement/Vertical.md) push 6
 
-**Strained:** The size of the burst increases by 1, and you are [weakened](../../../../../Browse/Conditions/Weakened.md) until the end of your turn.
+**Strained:** The size of the burst increases by 1, and you are [weakened](../../../../Browse/Conditions/Weakened.md) until the end of your turn.

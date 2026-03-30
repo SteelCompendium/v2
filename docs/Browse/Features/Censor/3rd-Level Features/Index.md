@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Look On My Work and Despair](../Look%20On%20My%20Work%20and%20Despair)
+- [Look On My Work and Despair](Look%20On%20My%20Work%20and%20Despair.md)
 
 </div>

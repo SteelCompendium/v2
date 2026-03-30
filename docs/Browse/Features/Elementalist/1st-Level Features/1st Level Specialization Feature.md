@@ -18,16 +18,16 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### 1st-Level Specialization Feature
 
-Your [elemental specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization.md) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md)                                                                     |
-| Fire           | [Return to Formlessness](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md)                                                   |
-| Green          | [It Is the Soul Which Hears](../../../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears.md) |
-| Void           | [A Beyonding of Vision](../../../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision.md)               |
+| Earth          | [Motivate Earth](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md)                                                                     |
+| Fire           | [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Return%20to%20Formlessness.md)                                                   |
+| Green          | [It Is the Soul Which Hears](../../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/It%20Is%20the%20Soul%20Which%20Hears.md) |
+| Void           | [A Beyonding of Vision](../../../../Browse/Features/Elementalist/1st-Level%20Features/1st-Level%20Specialization%20Feature/A%20Beyonding%20of%20Vision.md)               |
 
 ##### A Beyonding of Vision
 
@@ -44,7 +44,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense.md) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Shared%20Void%20Sense.md) ability.
 
 ##### It Is the Soul Which Hears
 

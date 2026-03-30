@@ -18,7 +18,7 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light.md), [Staggering Curse](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse.md).)
 
 <!-- -->
 > ###### Blessed Light
@@ -65,9 +65,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; [vertical](../../../../../../Browse/Movement/Vertical.md) pull 2
-> - **12-16:** 5 + I holy damage; [vertical](../../../../../../Browse/Movement/Vertical.md) pull 3
-> - **17+:** 8 + I holy damage; [vertical](../../../../../../Browse/Movement/Vertical.md) pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -84,7 +84,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can [teleport](../../../../../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](../../../../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer

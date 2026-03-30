@@ -37,8 +37,8 @@ type: feature/ability/conduit/9th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-- **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
+- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+- **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
 
-**Effect:** While [weakened](../../../../../Browse/Conditions/Weakened.md) this way, the target has damage weakness 10.
+**Effect:** While [weakened](../../../../Browse/Conditions/Weakened.md) this way, the target has damage weakness 10.

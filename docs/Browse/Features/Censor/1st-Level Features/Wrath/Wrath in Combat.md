@@ -18,8 +18,8 @@ type: feature/subtrait/censor/1st-level-feature
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath.md).
 
 You lose any remaining wrath at the end of the encounter.

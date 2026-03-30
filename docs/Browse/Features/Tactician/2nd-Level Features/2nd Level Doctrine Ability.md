@@ -18,7 +18,7 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 
@@ -33,9 +33,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ###### Try Me Instead (5 Focus)
@@ -50,9 +50,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
 
 ##### 2nd-Level Mastermind Ability
 
@@ -69,9 +69,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT)
-> - **12-16:** 9 + R damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT)
-> - **17+:** 12 + R damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT)
+> - **≤11:** 5 + R damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT)
+> - **12-16:** 9 + R damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT)
+> - **17+:** 12 + R damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -107,9 +107,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)
@@ -120,4 +120,4 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 1 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../../Browse/Movement/Stability.md) equal to your Might score. Additionally, each target gains 2 surges.
+> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../Browse/Movement/Stability.md) equal to your Might score. Additionally, each target gains 2 surges.

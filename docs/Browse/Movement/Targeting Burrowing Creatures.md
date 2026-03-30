@@ -14,10 +14,10 @@ type: movement
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a [burrowing](../../../Browse/Movement/Burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../../Browse/Movement/Burrow.md) creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](../../Browse/Movement/Burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/Movement/Burrow.md) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while [burrowing](../../../Browse/Movement/Burrow.md), you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](../../../Browse/Movement/Burrow.md) and are adjacent to another creature who is [burrowing](../../../Browse/Movement/Burrow.md), you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md) and are adjacent to another creature who is [burrowing](../../Browse/Movement/Burrow.md), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](../../../Browse/Movement/Burrow.md).
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md).

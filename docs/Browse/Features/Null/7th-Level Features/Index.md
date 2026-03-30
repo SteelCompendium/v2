@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Discipline Mastery Improvement](../Discipline%20Mastery%20Improvement)
-- [Improved Body](../Improved%20Body)
-- [Psi Boost](../Psi%20Boost)
-- [Skill](../Skill)
+- [Characteristic Increase](Characteristic%20Increase.md)
+- [Discipline Mastery Improvement](Discipline%20Mastery%20Improvement.md)
+- [Improved Body](Improved%20Body.md)
+- [Psi Boost](Psi%20Boost.md)
+- [Skill](Skill.md)
 
 </div>

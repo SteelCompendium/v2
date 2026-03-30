@@ -14,23 +14,23 @@ type: class/censor/level
 
 ### 5th-Level Features
 
-As a 5th-level [censor](../../../../Browse/Classes/Censor.md), you gain the following features.
+As a 5th-level [censor](../../../Browse/Classes/Censor.md), you gain the following features.
 
 #### 5th-Level Order Feature
 
-Your [censor](../../../../Browse/Classes/Censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](../../../Browse/Classes/Censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
 | Order    | Feature                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Evil Revealed](../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed.md) |
-| Oracle   | [Prophecy](../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy.md)             |
-| Paragon  | [Stand Fast](../../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast.md)!      |
+| Exorcist | [Evil Revealed](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Evil%20Revealed.md) |
+| Oracle   | [Prophecy](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Prophecy.md)             |
+| Paragon  | [Stand Fast](../../../Browse/Features/Censor/5th-Level%20Features/5th-Level%20Order%20Feature/Stand%20Fast.md)!      |
 
 ##### Evil Revealed
 
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action.
+Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level%20Features/Judgment.md) ability against them as a free triggered action.
 
 ##### Prophecy
 
@@ -55,7 +55,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > | ---------------- | ----------------------: |
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../Browse/Conditions/Prone.md) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../Browse/Conditions/Prone.md) target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
 
 <!-- -->
 > ###### Orison of Victory (9 Wrath)
@@ -72,7 +72,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 > - **12-16:** Each target gains 2 surges.
 > - **17+:** Each target gains 3 surges.
 >
-> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../Browse/Conditions/Prone.md) target can stand up.
+> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../Browse/Conditions/Prone.md) target can stand up.
 
 <!-- -->
 > ###### Righteous Judgment (9 Wrath)

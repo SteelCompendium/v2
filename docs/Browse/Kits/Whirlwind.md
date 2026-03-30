@@ -14,7 +14,7 @@ type: kit
 
 #### Whirlwind
 
-The [Whirlwind](../../../Browse/Kits/Whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+The [Whirlwind](../../Browse/Kits/Whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
 ##### Equipment
 
@@ -42,6 +42,6 @@ You wear no armor and wield a whip.
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 4 + M or A damage; [vertical](../../../Browse/Movement/Vertical.md) pull 1
-- **12-16:** 7 + M or A damage; [vertical](../../../Browse/Movement/Vertical.md) pull 2
-- **17+:** 10 + M or A damage; [vertical](../../../Browse/Movement/Vertical.md) pull 3
+- **≤11:** 4 + M or A damage; [vertical](../../Browse/Movement/Vertical.md) pull 1
+- **12-16:** 7 + M or A damage; [vertical](../../Browse/Movement/Vertical.md) pull 2
+- **17+:** 10 + M or A damage; [vertical](../../Browse/Movement/Vertical.md) pull 3

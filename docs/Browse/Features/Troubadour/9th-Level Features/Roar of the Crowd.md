@@ -18,6 +18,6 @@ type: feature/trait/troubadour/9th-level-feature
 
 #### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made [frightened](../../../../../Browse/Conditions/Frightened.md), and if you are [prone](../../../../../Browse/Conditions/Prone.md), you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](../../../../Browse/Conditions/Frightened.md), and if you are [prone](../../../../Browse/Conditions/Prone.md), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).

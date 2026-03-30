@@ -18,7 +18,7 @@ type: feature/trait/tactician/6th-level-feature
 
 #### 6th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Insurgent Abilities
 
@@ -52,7 +52,7 @@ Choose one of the following abilities.
 > - **12-16:** 9 + M damage; slide 3
 > - **17+:** 13 + M damage; slide 5
 >
-> **Effect:** If a target is force moved into another creature, they must make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against that creature.
+> **Effect:** If a target is force moved into another creature, they must make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against that creature.
 
 ##### 6th-Level Mastermind Abilities
 
@@ -101,23 +101,23 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** A < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **12-16:** A < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **17+:** A < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **≤11:** A < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** A < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** A < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 
 <!-- -->
 > ###### To Me Squad! (9 Focus)
 >
 > *You lead your allies in a charge.*
 >
-> | **[Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
+> | **[Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 > | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
-> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
-> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
+> - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) for the [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md)
 >
-> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
+> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../../Browse/Conditions/Dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.

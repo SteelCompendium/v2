@@ -14,4 +14,4 @@ type: movement
 
 ##### Hover
 
-A creature who has "hover" in their speed entry (most commonly alongside "[fly](../../../Browse/Movement/Fly.md)" or "[teleport](../../../Browse/Movement/Teleport.md)"), or who gains the temporary ability to [hover](../../../Browse/Movement/Hover.md), can remain motionless in midair. They don't fall even if they are knocked [prone](../../../Browse/Conditions/Prone.md) or their speed is reduced to 0.
+A creature who has "hover" in their speed entry (most commonly alongside "[fly](../../Browse/Movement/Fly.md)" or "[teleport](../../Browse/Movement/Teleport.md)"), or who gains the temporary ability to [hover](../../Browse/Movement/Hover.md), can remain motionless in midair. They don't fall even if they are knocked [prone](../../Browse/Conditions/Prone.md) or their speed is reduced to 0.

@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Careful Observation](../Careful%20Observation)
+- [Careful Observation](Careful%20Observation.md)
 
 </div>

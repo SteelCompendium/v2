@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 6th-Level Features
 
-As a 6th-level [talent](../../../../Browse/Classes/Talent.md), you gain the following features.
+As a 6th-level [talent](../../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Perk
 
@@ -22,7 +22,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
 
 ##### Dynamic Power (1 Clarity)
 
@@ -54,7 +54,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### 6th-Level Tradition Ability
 
-Your [talent](../../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 
@@ -69,9 +69,9 @@ Choose one of the following abilities.
 > | ------------------------------- | ---------------: |
 > | **📏 Melee 2**                  | **🎯 One enemy** |
 >
-> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../../../Browse/Conditions/Prone.md).
+> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../../Browse/Conditions/Prone.md).
 >
-> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../../Browse/Conditions/Weakened.md) (save ends).
+> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../Browse/Conditions/Weakened.md) (save ends).
 >
 > **Power Roll + Presence:**
 >
@@ -88,17 +88,17 @@ Choose one of the following abilities.
 > | -------------------------------------- | ------------------------------------------: |
 > | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 >
-> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../../Browse/Conditions/Restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../Browse/Conditions/Restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
 >
 > Make a power roll that targets each enemy in the area.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** P < WEAK, the target is [slowed](../../../../Browse/Conditions/Slowed.md) until the effect ends
+> - **≤11:** P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed.md) until the effect ends
 > - **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
-> - **17+:** P < STRONG, the target is [restrained](../../../../Browse/Conditions/Restrained.md) until the effect ends
+> - **17+:** P < STRONG, the target is [restrained](../../../Browse/Conditions/Restrained.md) until the effect ends
 >
-> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../../../Browse/Conditions/Restrained.md) in the area can be force moved. You are [restrained](../../../../Browse/Conditions/Restrained.md) until the effect ends.
+> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../../Browse/Conditions/Restrained.md) in the area can be force moved. You are [restrained](../../../Browse/Conditions/Restrained.md) until the effect ends.
 
 ##### 6th-Level Telekinesis Abilities
 
@@ -115,9 +115,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 5 toward the center of the area
-> - **12-16:** 9 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 7 toward the center of the area
-> - **17+:** 13 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 10 toward the center of the area
+> - **≤11:** 6 damage; [vertical](../../../Browse/Movement/Vertical.md) pull 5 toward the center of the area
+> - **12-16:** 9 damage; [vertical](../../../Browse/Movement/Vertical.md) pull 7 toward the center of the area
+> - **17+:** 13 damage; [vertical](../../../Browse/Movement/Vertical.md) pull 10 toward the center of the area
 >
 > **Effect:** Targets closest to the center of the area are pulled first.
 >
@@ -134,11 +134,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../../Browse/Movement/Vertical.md)
-> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../Browse/Movement/Vertical.md)
-> - **17+:** Slide 12 + R; [prone](../../../../Browse/Conditions/Prone.md); M < STRONG, the forced movement is [vertical](../../../../Browse/Movement/Vertical.md)
+> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../Browse/Movement/Vertical.md)
+> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../Browse/Movement/Vertical.md)
+> - **17+:** Slide 12 + R; [prone](../../../Browse/Conditions/Prone.md); M < STRONG, the forced movement is [vertical](../../../Browse/Movement/Vertical.md)
 >
-> **Strained:** The forced movement ignores [stability](../../../../Browse/Movement/Stability.md). You take 2d6 damage and are [weakened](../../../../Browse/Conditions/Weakened.md) (save ends).
+> **Strained:** The forced movement ignores [stability](../../../Browse/Movement/Stability.md). You take 2d6 damage and are [weakened](../../../Browse/Conditions/Weakened.md) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 

@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Thunder Mother"

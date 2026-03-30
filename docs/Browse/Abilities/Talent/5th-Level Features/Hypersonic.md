@@ -31,11 +31,11 @@ type: feature/ability/talent/5th-level-feature
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 
-| **Area, [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
+| **Area, [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 
-**Effect:** You [teleport](../../../../../Browse/Movement/Teleport.md) to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](../../../../Browse/Movement/Teleport.md) to a square on the opposite side of the area before making the power roll.
 
 **Power Roll + Reason:**
 
@@ -43,4 +43,4 @@ type: feature/ability/talent/5th-level-feature
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../../Browse/Conditions/Slowed.md) until the end of your turn and each target is [slowed](../../../../../Browse/Conditions/Slowed.md) until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../Browse/Conditions/Slowed.md) until the end of your turn and each target is [slowed](../../../../Browse/Conditions/Slowed.md) until the end of their turn.

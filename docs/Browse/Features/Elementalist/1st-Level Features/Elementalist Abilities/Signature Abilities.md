@@ -18,7 +18,7 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration.md), [Viscous Fire](../../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Bifurcated%20Incineration.md), [Viscous Fire](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Viscous%20Fire.md).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -67,7 +67,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can [teleport](../../../../../../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](../../../../../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -112,9 +112,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground

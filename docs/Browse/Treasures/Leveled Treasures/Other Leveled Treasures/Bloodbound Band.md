@@ -32,4 +32,4 @@ type: treasure/leveled/other
 
 **5th Level:** The ring's bonus to Stamina increases to +12. Additionally, you have damage immunity 2.
 
-**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../../../../../Browse/Movement/Teleport.md) into their possession and ceases to be magic.
+**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../../../../Browse/Movement/Teleport.md) into their possession and ceases to be magic.

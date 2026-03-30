@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is [frightened](../../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is [frightened](../../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is [frightened](../../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](../../../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)
@@ -48,4 +48,4 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 1 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../../../Browse/Movement/Stability.md) equal to your Might score. Additionally, each target gains 2 surges.
+> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../../Browse/Movement/Stability.md) equal to your Might score. Additionally, each target gains 2 surges.

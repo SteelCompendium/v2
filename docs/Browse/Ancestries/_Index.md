@@ -7,17 +7,17 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Devil](../Devil)
-- [Dragon Knight](../Dragon%20Knight)
-- [Dwarf](../Dwarf)
-- [Hakaan](../Hakaan)
-- [High Elf](../High%20Elf)
-- [Human](../Human)
-- [Memonek](../Memonek)
-- [Orc](../Orc)
-- [Polder](../Polder)
-- [Revenant](../Revenant)
-- [Time Raider](../Time%20Raider)
-- [Wode Elf](../Wode%20Elf)
+- [Devil](Devil.md)
+- [Dragon Knight](Dragon%20Knight.md)
+- [Dwarf](Dwarf.md)
+- [Hakaan](Hakaan.md)
+- [High Elf](High%20Elf.md)
+- [Human](Human.md)
+- [Memonek](Memonek.md)
+- [Orc](Orc.md)
+- [Polder](Polder.md)
+- [Revenant](Revenant.md)
+- [Time Raider](Time%20Raider.md)
+- [Wode Elf](Wode%20Elf.md)
 
 </div>

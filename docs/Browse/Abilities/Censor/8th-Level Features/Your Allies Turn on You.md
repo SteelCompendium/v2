@@ -36,8 +36,8 @@ type: feature/ability/censor/8th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P damage; I < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
-- **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
-- **17+:** 12 + P damage; I < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+- **≤11:** 5 + P damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+- **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+- **17+:** 12 + P damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
 
-**Effect:** While the target is [slowed](../../../../../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target. Additionally, while the target is [slowed](../../../../../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a different creature must make the [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target instead.
+**Effect:** While the target is [slowed](../../../../Browse/Conditions/Slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target. Additionally, while the target is [slowed](../../../../Browse/Conditions/Slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a different creature must make the [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the target instead.

@@ -14,11 +14,11 @@ type: ancestry
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../../../Browse/Ancestries/Dragon%20Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../../Browse/Ancestries/Dragon%20Knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of [dragon knights](../../../Browse/Ancestries/Dragon%20Knight.md). Within the Dragon Phalanx were [shadows](../../../Browse/Classes/Shadow.md), [censors](../../../Browse/Classes/Censor.md), [tacticians](../../../Browse/Classes/Tactician.md), and [elementalists](../../../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
+Knighthood was a title carried by every member of that first generation of [dragon knights](../../Browse/Ancestries/Dragon%20Knight.md). Within the Dragon Phalanx were [shadows](../../Browse/Classes/Shadow.md), [censors](../../Browse/Classes/Censor.md), [tacticians](../../Browse/Classes/Tactician.md), and [elementalists](../../Browse/Classes/Elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
 Then Ajax came.
 
@@ -28,25 +28,25 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three [human](../../../Browse/Ancestries/Human.md) bandits took a step back. One of the [dwarves](../../../Browse/Ancestries/Dwarf.md) just sneered—then, sensing his [human](../../../Browse/Ancestries/Human.md) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](../../../Browse/Ancestries/Dwarf.md) growled.
+The three [human](../../Browse/Ancestries/Human.md) bandits took a step back. One of the [dwarves](../../Browse/Ancestries/Dwarf.md) just sneered—then, sensing his [human](../../Browse/Ancestries/Human.md) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](../../Browse/Ancestries/Dwarf.md) growled.
 
-Looking at the [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md), another bandit added quickly, "We didn't know there was one of you here."
+Looking at the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md), another bandit added quickly, "We didn't know there was one of you here."
 
-The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](../../../Browse/Ancestries/Dwarf.md). "Think of the *bounty*," the [dwarf](../../../Browse/Ancestries/Dwarf.md) hissed to the [humans](../../../Browse/Ancestries/Human.md), but he kept his eye on the draconian. "We'll all be *rich*."
+The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](../../Browse/Ancestries/Dwarf.md). "Think of the *bounty*," the [dwarf](../../Browse/Ancestries/Dwarf.md) hissed to the [humans](../../Browse/Ancestries/Human.md), but he kept his eye on the draconian. "We'll all be *rich*."
 
-The two [dwarves](../../../Browse/Ancestries/Dwarf.md) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [dwarves](../../Browse/Ancestries/Dwarf.md) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
 
-"We'll be *back*," the lead [dwarf](../../../Browse/Ancestries/Dwarf.md) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
+"We'll be *back*," the lead [dwarf](../../Browse/Ancestries/Dwarf.md) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) walked past their table.
 
-The knight moved on, ignoring them. The man reached out and [grabbed](../../../Browse/Conditions/Grabbed.md) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The knight moved on, ignoring them. The man reached out and [grabbed](../../Browse/Conditions/Grabbed.md) the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man touched his forelock. The two women with him curtseyed. "Begging your pardon, sir, but we been lookin' for you."
 
-The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
+The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) sneered and bared a set of sharp teeth. "*Look for someone else*," he growled as he pulled his arm away.
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
@@ -54,7 +54,7 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
 
 "John?"
 
@@ -62,7 +62,7 @@ The man turned to look up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
-The man held out his hand. The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
+The man held out his hand. The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" he asked.
 
 "These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn."
 
@@ -74,7 +74,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) spoke again, his voice low.
+The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -84,23 +84,23 @@ The inn had mostly gone back to its business but the three peasants watched inte
 
 "What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
-"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
+"Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md)'s eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The [dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
 ### Dragon Knight Traits
 
-[Dragon knight](../../../Browse/Ancestries/Dragon%20Knight.md) heroes have access to the following traits.
+[Dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate
 
@@ -164,4 +164,4 @@ As a maneuver, you can recite the following oath. Until the start of your next t
 
 ##### Wings (2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../../../Browse/Movement/Fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../../Browse/Movement/Fly.md) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/Movement/Fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/Movement/Fly.md) at 3rd level or lower, you have damage weakness 5.

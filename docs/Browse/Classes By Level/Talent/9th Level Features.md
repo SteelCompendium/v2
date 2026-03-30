@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 9th-Level Features
 
-As a 9th-level [talent](../../../../Browse/Classes/Talent.md), you gain the following features.
+As a 9th-level [talent](../../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Fortress of Perfect Thought
 
@@ -24,11 +24,11 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made [taunted](../../../../Browse/Conditions/Taunted.md) or [frightened](../../../../Browse/Conditions/Frightened.md).
+- You can't be made [taunted](../../../Browse/Conditions/Taunted.md) or [frightened](../../../Browse/Conditions/Frightened.md).
 
 #### 9th-Level Tradition Ability
 
-Your [talent](../../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -49,9 +49,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 6 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 10 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 4 corruption damage; [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 10 corruption damage; [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -77,7 +77,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../Browse/Movement/Vertical.md) pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../Browse/Movement/Vertical.md) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >
@@ -104,7 +104,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are [weakened](../../../../Browse/Conditions/Weakened.md) (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](../../../Browse/Conditions/Weakened.md) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -142,8 +142,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** R < WEAK, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** R < STRONG, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

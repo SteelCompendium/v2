@@ -18,7 +18,7 @@ type: feature/trait/troubadour/5th-level-feature
 
 #### 5th-Level Class Act Feature
 
-Your [troubadour](../../../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two features.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two features.
 
 ##### Auteur Features
 
@@ -26,11 +26,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../../../../Browse/Conditions/Bleeding.md), [frightened](../../../../../Browse/Conditions/Frightened.md), [prone](../../../../../Browse/Conditions/Prone.md), [slowed](../../../../../Browse/Conditions/Slowed.md), or [taunted](../../../../../Browse/Conditions/Taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../../../Browse/Conditions/Prone.md) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../../../Browse/Conditions/Bleeding.md), [frightened](../../../../Browse/Conditions/Frightened.md), [prone](../../../../Browse/Conditions/Prone.md), [slowed](../../../../Browse/Conditions/Slowed.md), or [taunted](../../../../Browse/Conditions/Taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../../Browse/Conditions/Prone.md) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### Take Two!
@@ -49,11 +49,11 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!
@@ -76,4 +76,4 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You can maintain two performances at a time using your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.

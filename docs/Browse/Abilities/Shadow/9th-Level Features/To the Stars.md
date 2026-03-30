@@ -37,8 +37,8 @@ type: feature/ability/shadow/9th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A fire damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 8
-- **12-16:** 7 + A fire damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 10
-- **17+:** 11 + A fire damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 15
+- **≤11:** 4 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 8
+- **12-16:** 7 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 10
+- **17+:** 11 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 15
 
 **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.

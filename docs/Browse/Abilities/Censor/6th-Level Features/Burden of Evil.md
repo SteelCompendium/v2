@@ -37,6 +37,6 @@ type: feature/ability/censor/6th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** Slide 3; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+- **≤11:** Slide 3; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **17+:** Slide 7; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)

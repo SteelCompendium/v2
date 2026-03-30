@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 5 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 1
-- **12-16:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 2
-- **17+:** 11 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 3
+- **≤11:** 5 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 1
+- **12-16:** 8 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 2
+- **17+:** 11 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 3

@@ -36,6 +36,6 @@ type: feature/ability/troubadour/6th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-- **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+- **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+- **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)

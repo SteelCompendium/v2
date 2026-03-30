@@ -18,7 +18,7 @@ type: feature/trait/censor/6th-level-feature
 
 #### 6th-Level Order Ability
 
-Your [censor](../../../../../Browse/Classes/Censor.md) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md) order grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 
@@ -67,9 +67,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **17+:** Slide 7; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **≤11:** Slide 3; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** Slide 7; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 
 <!-- -->
 > ###### Edict of Peace (9 Wrath)

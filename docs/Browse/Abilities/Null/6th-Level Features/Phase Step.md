@@ -39,6 +39,6 @@ type: feature/ability/null/6th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 damage; M < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md)
-- **12-16:** 8 damage; M < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md)
-- **17+:** 12 damage; M < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md)
+- **≤11:** 6 damage; M < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md)
+- **12-16:** 8 damage; M < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md)
+- **17+:** 12 damage; M < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md)

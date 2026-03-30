@@ -17,10 +17,10 @@ type: title/3rd-echelon
 
 *Best way to deal with a castle siege? Be on the outside.*
 
-**Prerequisite:** You have the [Battlefield Commander](../../../../Browse/Titles/2nd%20Echelon/Battlefield%20Commander.md) title, and you lead the defense of a settlement or fortification.
+**Prerequisite:** You have the [Battlefield Commander](../../../Browse/Titles/2nd%20Echelon/Battlefield%20Commander.md) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:
 
 - *Death From Above:* When you gain an edge on an ability due to high ground, the ability gains a +8 damage bonus.
-- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to [stability](../../../../Browse/Movement/Stability.md).
+- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to [stability](../../../Browse/Movement/Stability.md).
 - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your temporary Stamina by the amount you would have gained.

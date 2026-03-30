@@ -9,11 +9,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Nomadic](../Environments/Nomadic)
-- [Rural](../Environments/Rural)
-- [Secluded](../Environments/Secluded)
-- [Urban](../Environments/Urban)
-- [Wilderness](../Environments/Wilderness)
+- [Nomadic](Environments/Nomadic.md)
+- [Rural](Environments/Rural.md)
+- [Secluded](Environments/Secluded.md)
+- [Urban](Environments/Urban.md)
+- [Wilderness](Environments/Wilderness.md)
 
 </div>
 
@@ -21,8 +21,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Bureaucratic](../Organization/Bureaucratic)
-- [Communal](../Organization/Communal)
+- [Bureaucratic](Organization/Bureaucratic.md)
+- [Communal](Organization/Communal.md)
 
 </div>
 
@@ -30,11 +30,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Academic](../Upbringing/Academic)
-- [Creative](../Upbringing/Creative)
-- [Labor](../Upbringing/Labor)
-- [Lawless](../Upbringing/Lawless)
-- [Martial](../Upbringing/Martial)
-- [Noble](../Upbringing/Noble)
+- [Academic](Upbringing/Academic.md)
+- [Creative](Upbringing/Creative.md)
+- [Labor](Upbringing/Labor.md)
+- [Lawless](Upbringing/Lawless.md)
+- [Martial](Upbringing/Martial.md)
+- [Noble](Upbringing/Noble.md)
 
 </div>

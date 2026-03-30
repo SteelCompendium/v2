@@ -14,19 +14,19 @@ type: class/troubadour/level
 
 ### 3rd-Level Features
 
-As a 3rd-level [troubadour](../../../../Browse/Classes/Troubadour.md), you gain the following features.
+As a 3rd-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
 
 #### 3rd-Level Class Act Feature
 
-Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue.md)     |
+| Auteur    | [Missed Cue](../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue.md)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album.md) |
+| Virtuoso  | [Second Album](../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album.md) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
@@ -60,7 +60,7 @@ You have the following performance abilities, which are usable with your [Routin
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../Browse/Conditions/Bleeding.md) until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../Browse/Conditions/Bleeding.md) until the end of their turn.
 
 #### 7-Drama Ability
 
@@ -77,9 +77,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md)
-> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md)
-> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../../Browse/Movement/Stability.md)
+> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md)
+> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md)
+> - **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../../Browse/Movement/Stability.md)
 >
 > **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
@@ -94,9 +94,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 fire damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 10 fire damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 5 fire damage; A < WEAK, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 7 fire damage; A < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 10 fire damage; A < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
 >
 > **Effect:** Each ally in the area can shift up to 2 squares.
 

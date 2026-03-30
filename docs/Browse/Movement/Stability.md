@@ -14,6 +14,6 @@ type: movement
 
 ##### Stability
 
-Each creature has a [stability](../../../Browse/Movement/Stability.md) that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their [stability](../../../Browse/Movement/Stability.md). Heroes start with [stability](../../../Browse/Movement/Stability.md) 0 and can increase their [stability](../../../Browse/Movement/Stability.md) through ancestry, class, and kit options.
+Each creature has a [stability](../../Browse/Movement/Stability.md) that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their [stability](../../Browse/Movement/Stability.md). Heroes start with [stability](../../Browse/Movement/Stability.md) 0 and can increase their [stability](../../Browse/Movement/Stability.md) through ancestry, class, and kit options.
 
-A creature's [stability](../../../Browse/Movement/Stability.md) can't be less than 0, even when reduced by a penalty.
+A creature's [stability](../../Browse/Movement/Stability.md) can't be less than 0, even when reduced by a penalty.

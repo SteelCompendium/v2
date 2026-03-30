@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** [Vertical](../../../../../../Browse/Movement/Vertical.md) slide 6
-> - **12-16:** [Vertical](../../../../../../Browse/Movement/Vertical.md) slide 8
-> - **17+:** [Vertical](../../../../../../Browse/Movement/Vertical.md) slide 10
+> - **≤11:** [Vertical](../../../../../Browse/Movement/Vertical.md) slide 6
+> - **12-16:** [Vertical](../../../../../Browse/Movement/Vertical.md) slide 8
+> - **17+:** [Vertical](../../../../../Browse/Movement/Vertical.md) slide 10
 >
 > **Effect:** The pillars vanish as soon as the effects of the forced movement are resolved.
 
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 > | ------------------------- | --------------: |
 > | **📏 10 wall within 10**  |  **🎯 Special** |
 >
-> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../../../../../Browse/Conditions/Slowed.md) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](../../../../../../Browse/Conditions/Restrained.md) (save ends).
+> **Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is [restrained](../../../../../Browse/Conditions/Restrained.md) (save ends).

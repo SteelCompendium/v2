@@ -56,10 +56,12 @@ update push="true":
         # Adventures (skipped -- no adventures planned for release)
 
         # --- Fix index links ---
+        # Index files have bare sibling links like (Tactician). Append .md so MkDocs
+        # resolves them source-relative (no ../ hack needed for use_directory_urls).
         echo >&2 "[INFO] Fixing index links..."
         find "${v2_dir}/docs" -type f \( -name '_Index.md' -o -name 'Index.md' \) -print0 |
         while IFS= read -r -d '' f; do
-            sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
+            sed -i -E 's|\]\(([^/)][^)]*)\)|](\1.md)|g' "$f"
             sed -i -E 's|File Name|File Name   |g' "$f"
             sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
         done
@@ -71,7 +73,7 @@ update push="true":
             file_dir="$(dirname "$f")"
             rel_path="$(python3 -c "import os.path; print(os.path.relpath('${v2_dir}/docs', '${file_dir}'))")"
             sed -i -E "s|REL_PATH_PREFIXRules/Chapters|${rel_path}/Chapters|g" "$f"
-            sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/../Browse|g" "$f"
+            sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/Browse|g" "$f"
             sed -i -E 's|REL_PATH_SUFFIX|.md|g' "$f"
         done
 

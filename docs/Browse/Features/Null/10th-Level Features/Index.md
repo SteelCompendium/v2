@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Discipline Mastery Improvement](../Discipline%20Mastery%20Improvement)
-- [Manifold Body](../Manifold%20Body)
-- [Manifold Resonance](../Manifold%20Resonance)
-- [Order](../Order)
-- [Perk](../Perk)
-- [Skill](../Skill)
+- [Characteristic Increase](Characteristic%20Increase.md)
+- [Discipline Mastery Improvement](Discipline%20Mastery%20Improvement.md)
+- [Manifold Body](Manifold%20Body.md)
+- [Manifold Resonance](Manifold%20Resonance.md)
+- [Order](Order.md)
+- [Perk](Perk.md)
+- [Skill](Skill.md)
 
 </div>

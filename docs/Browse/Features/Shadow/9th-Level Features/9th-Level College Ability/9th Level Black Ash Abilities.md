@@ -33,9 +33,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../../../Browse/Movement/Teleport.md) up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../../../Browse/Movement/Teleport.md) up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../../../Browse/Movement/Teleport.md) up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport.md) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport.md) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport.md) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -52,4 +52,4 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is [grabbed](../../../../../../Browse/Conditions/Grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](../../../../../Browse/Conditions/Grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.

@@ -18,15 +18,15 @@ type: feature/trait/tactician/1st-level-feature
 
 #### 1st-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Covert Operations](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations.md)     |
-| Mastermind | [Studied Commander](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander.md)     |
-| Vanguard   | [Commanding Presence](../../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence.md) |
+| Insurgent  | [Covert Operations](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20Operations.md)     |
+| Mastermind | [Studied Commander](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20Commander.md)     |
+| Vanguard   | [Commanding Presence](../../../../Browse/Features/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20Presence.md) |
 
 ##### Commanding Presence
 

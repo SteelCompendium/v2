@@ -14,29 +14,29 @@ type: class/shadow/level
 
 ### 1st-Level Features
 
-As a 1st-level [shadow](../../../../Browse/Classes/Shadow.md), you gain the following features.
+As a 1st-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Shadow College
 
-[Shadow](../../../../Browse/Classes/Shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../Browse/Classes/Shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a [shadow](../../../../Browse/Classes/Shadow.md) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](../../../Browse/Classes/Shadow.md) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../../Browse/Classes/Shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../../../../Browse/Movement/Teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../Browse/Classes/Shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../../../Browse/Movement/Teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your [shadow](../../../../Browse/Classes/Shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](../../../Browse/Classes/Shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
-By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
@@ -44,20 +44,20 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../../Browse/Movement/Teleport.md), you can use it as if you had spent an amount of [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../Browse/Movement/Teleport.md), you can use it as if you had spent an amount of [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories.
 
 #### 1st-Level College Features
 
-Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
 | College         | Feature                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport.md)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade.md), [Smoke Bomb](../../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport.md)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade.md), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
@@ -73,9 +73,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](../../../../Browse/Movement/Teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed. If you successfully [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed. If you successfully [hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You [teleport](../../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -107,7 +107,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, you gain a +1 bonus to the distance you can shift.
 >
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 >
@@ -115,18 +115,18 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) to use for distractions and easy getaways. You can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) to use for distractions and easy getaways. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
-Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md) table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md) table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) |
-| Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md)                   |
+| Black Ash       | [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md)                   |
 | Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->
@@ -153,7 +153,7 @@ Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a trigger
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -168,9 +168,9 @@ Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a trigger
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can [teleport](../../../../Browse/Movement/Teleport.md) up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](../../../Browse/Movement/Teleport.md) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You [teleport](../../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -191,7 +191,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../../Browse/Kits/Cloak%20and%20Dagger.md).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../Browse/Kits/Cloak%20and%20Dagger.md).)
 
 #### Shadow Abilities
 
@@ -199,7 +199,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place.md).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place.md).)
 
 <!-- -->
 > ###### Gasping in Pain
@@ -214,7 +214,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](../../../../Browse/Conditions/Prone.md)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -271,7 +271,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 ###### 3-Insight Ability
 
@@ -305,9 +305,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)
