@@ -10,6 +10,17 @@ update push="true":
     (
         v2_dir="$(pwd)"
         cd "$dir"
+
+        # Extract data-md-linked version info and write footer partial
+        data_sha="$(git rev-parse --short HEAD)"
+        data_date="$(git log -1 --format='%cs')"
+        echo >&2 "[INFO] data-md-linked version: ${data_sha} (${data_date})"
+        cat > "${v2_dir}/overrides/partials/data-version.html" <<VEOF
+    <span class="md-footer-data-version">
+      Data: <a href="https://github.com/SteelCompendium/data-md-linked/commit/${data_sha}">${data_sha}</a> (${data_date})
+    </span>
+    VEOF
+
         echo >&2 "[INFO] Copying compendium markdown (data-md)..."
 
         # Copy all content into a temp staging area first
