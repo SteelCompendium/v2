@@ -39,6 +39,6 @@ type: feature/ability/shadow/9th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 3 squares.
-- **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares.
-- **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../../Browse/Movement/Teleport) up to 7 squares.
+- **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 3 squares.
+- **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 5 squares.
+- **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 7 squares.

@@ -18,7 +18,7 @@ type: feature/trait/censor/9th-level-feature
 
 #### 9th-Level Order Ability
 
-Your [censor](../../../../../Browse/Classes/Censor) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md) order grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 
@@ -39,7 +39,7 @@ Choose one of the following abilities.
 > - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 > - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 >
-> **Effect:** This ability gains an edge against demons, [devils](../../../../../Browse/Ancestries/Devil), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+> **Effect:** This ability gains an edge against demons, [devils](../../../../Browse/Ancestries/Devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 <!-- -->
 > ###### Terror Manifest (11 Wrath)
@@ -52,11 +52,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 13 + P psychic damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 13 + P psychic damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
 >
-> **Effect:** While [frightened](../../../../../Browse/Conditions/Frightened) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../../../../../Browse/Conditions/Frightened) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+> **Effect:** While [frightened](../../../../Browse/Conditions/Frightened.md) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../../../../Browse/Conditions/Frightened.md) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
 
 ##### 9th-Level Oracle Abilities
 

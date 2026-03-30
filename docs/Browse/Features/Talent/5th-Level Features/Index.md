@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Tradition Features](../5th%20Level%20Tradition%20Features)
-    - [Compulsion](../5th-Level%20Tradition%20Features/Compulsion)
-    - [Distortion Temporal](../5th-Level%20Tradition%20Features/Distortion%20Temporal)
-    - [Kinetic Amplifier](../5th-Level%20Tradition%20Features/Kinetic%20Amplifier)
-    - [Remote Amplification](../5th-Level%20Tradition%20Features/Remote%20Amplification)
-    - [Speed of Thought](../5th-Level%20Tradition%20Features/Speed%20of%20Thought)
-    - [Triangulate](../5th-Level%20Tradition%20Features/Triangulate)
+- [5th Level Tradition Features](5th Level Tradition Features.md)
+    - [Compulsion](5th-Level Tradition Features/Compulsion.md)
+    - [Distortion Temporal](5th-Level Tradition Features/Distortion Temporal.md)
+    - [Kinetic Amplifier](5th-Level Tradition Features/Kinetic Amplifier.md)
+    - [Remote Amplification](5th-Level Tradition Features/Remote Amplification.md)
+    - [Speed of Thought](5th-Level Tradition Features/Speed of Thought.md)
+    - [Triangulate](5th-Level Tradition Features/Triangulate.md)
 
 </div>

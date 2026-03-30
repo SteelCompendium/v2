@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Mind Projection](../Mind%20Projection)
-- [Mind Recovery](../Mind%20Recovery)
-- [Perk](../Perk)
-- [Skill](../Skill)
-- [Suspensor Field](../Suspensor%20Field)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Mind Projection](Mind Projection.md)
+- [Mind Recovery](Mind Recovery.md)
+- [Perk](Perk.md)
+- [Skill](Skill.md)
+- [Suspensor Field](Suspensor Field.md)
 
 </div>

@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../../../Browse/Abilities/Null/1st-Level%20Features/Faster%20Than%20the%20Eye), [Inertial Step](../../../../../../Browse/Abilities/Null/1st-Level%20Features/Inertial%20Step).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md), [Inertial Step](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md).)
 
 <!-- -->
 > ###### Dance of Blows
@@ -82,9 +82,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../../../Browse/Conditions/Grabbed)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../../../Browse/Conditions/Grabbed)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../../../Browse/Conditions/Grabbed)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../../Browse/Conditions/Grabbed.md)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../../Browse/Conditions/Grabbed.md)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../../Browse/Conditions/Grabbed.md)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -97,9 +97,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](../../../../../../Browse/Conditions/Taunted) (EoT)
-> - **12-16:** 5 + A damage; [taunted](../../../../../../Browse/Conditions/Taunted) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](../../../../../../Browse/Conditions/Taunted) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT)
+> - **12-16:** 5 + A damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](../../../../../Browse/Conditions/Taunted.md) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -112,9 +112,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 5 + A psychic damage; [vertical](../../../../../../Browse/Movement/Vertical) pull 1
-> - **12-16:** 8 + A psychic damage; [vertical](../../../../../../Browse/Movement/Vertical) pull 2
-> - **17+:** 11 + A psychic damage; [vertical](../../../../../../Browse/Movement/Vertical) pull 3
+> - **≤11:** 5 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 1
+> - **12-16:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 2
+> - **17+:** 11 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 3
 
 <!-- -->
 > ###### Phase Inversion Strike
@@ -131,7 +131,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](../../../../../../Browse/Movement/Teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../../../Browse/Movement/Teleport) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](../../../../../Browse/Movement/Teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../../Browse/Movement/Teleport.md) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -144,6 +144,6 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)

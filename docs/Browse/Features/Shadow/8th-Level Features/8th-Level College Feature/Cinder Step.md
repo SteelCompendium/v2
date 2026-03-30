@@ -18,4 +18,4 @@ type: feature/subtrait/shadow/8th-level-feature
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../../../../Browse/Movement/Teleport). When you [teleport](../../../../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash) and [Trail of Cinders](../../../../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) features.
+Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport.md). When you [teleport](../../../../../Browse/Movement/Teleport.md) this way, it counts as using a [shadow](../../../../../Browse/Classes/Shadow.md) ability for the purpose of using your [Burning Ash](../../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md) and [Trail of Cinders](../../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md) features.

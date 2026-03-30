@@ -9,15 +9,15 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Tradition Features](../1st%20Level%20Tradition%20Features)
-- [Clarity and Strain](../Clarity%20and%20Strain)
-- [Mind Spike](../Mind%20Spike)
-- [Psionic Augmentation](../Psionic%20Augmentation)
-- [Repel](../Repel)
-- [Talent Abilities](../Talent%20Abilities)
-- [Talent Tradition](../Talent%20Tradition)
-- [Talent Ward](../Talent%20Ward)
-- [Telepathic Speech](../Telepathic%20Speech)
+- [1st Level Tradition Features](1st Level Tradition Features.md)
+- [Clarity and Strain](Clarity and Strain.md)
+- [Mind Spike](Mind Spike.md)
+- [Psionic Augmentation](Psionic Augmentation.md)
+- [Repel](Repel.md)
+- [Talent Abilities](Talent Abilities.md)
+- [Talent Tradition](Talent Tradition.md)
+- [Talent Ward](Talent Ward.md)
+- [Telepathic Speech](Telepathic Speech.md)
 
 </div>
 
@@ -25,11 +25,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Accelerate](../1st-Level%20Tradition%20Features/Accelerate)
-    - [Again](../1st-Level%20Tradition%20Features/Again)
-    - [Feedback Loop](../1st-Level%20Tradition%20Features/Feedback%20Loop)
-    - [Minor Telekinesis](../1st-Level%20Tradition%20Features/Minor%20Telekinesis)
-    - [Remote Assistance](../1st-Level%20Tradition%20Features/Remote%20Assistance)
+    - [Accelerate](1st-Level Tradition Features/Accelerate.md)
+    - [Again](1st-Level Tradition Features/Again.md)
+    - [Feedback Loop](1st-Level Tradition Features/Feedback Loop.md)
+    - [Minor Telekinesis](1st-Level Tradition Features/Minor Telekinesis.md)
+    - [Remote Assistance](1st-Level Tradition Features/Remote Assistance.md)
 
 </div>
 
@@ -37,8 +37,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Clarity in Combat](../Clarity%20And%20Strain/Clarity%20in%20Combat)
-    - [Clarity Outside of Combat](../Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat)
+    - [Clarity in Combat](Clarity And Strain/Clarity in Combat.md)
+    - [Clarity Outside of Combat](Clarity And Strain/Clarity Outside of Combat.md)
 
 </div>
 
@@ -46,11 +46,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Battle Augmentation](../Psionic%20Augmentation/Battle%20Augmentation)
-    - [Density Augmentation](../Psionic%20Augmentation/Density%20Augmentation)
-    - [Distance Augmentation](../Psionic%20Augmentation/Distance%20Augmentation)
-    - [Force Augmentation](../Psionic%20Augmentation/Force%20Augmentation)
-    - [Speed Augmentation](../Psionic%20Augmentation/Speed%20Augmentation)
+    - [Battle Augmentation](Psionic Augmentation/Battle Augmentation.md)
+    - [Density Augmentation](Psionic Augmentation/Density Augmentation.md)
+    - [Distance Augmentation](Psionic Augmentation/Distance Augmentation.md)
+    - [Force Augmentation](Psionic Augmentation/Force Augmentation.md)
+    - [Speed Augmentation](Psionic Augmentation/Speed Augmentation.md)
 
 </div>
 
@@ -58,8 +58,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](../Talent%20Abilities/Heroic%20Abilities)
-    - [Signature Abilities](../Talent%20Abilities/Signature%20Abilities)
+    - [Heroic Abilities](Talent Abilities/Heroic Abilities.md)
+    - [Signature Abilities](Talent Abilities/Signature Abilities.md)
 
 </div>
 
@@ -67,9 +67,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Entropy Ward](../Talent%20Ward/Entropy%20Ward)
-    - [Repulsive Ward](../Talent%20Ward/Repulsive%20Ward)
-    - [Steel Ward](../Talent%20Ward/Steel%20Ward)
-    - [Vanishing Ward](../Talent%20Ward/Vanishing%20Ward)
+    - [Entropy Ward](Talent Ward/Entropy Ward.md)
+    - [Repulsive Ward](Talent Ward/Repulsive Ward.md)
+    - [Steel Ward](Talent Ward/Steel Ward.md)
+    - [Vanishing Ward](Talent Ward/Vanishing Ward.md)
 
 </div>

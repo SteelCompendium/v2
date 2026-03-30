@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Damaging Ferocity](../Damaging%20Ferocity)
-- [Growing Ferocity Improvement](../Growing%20Ferocity%20Improvement)
-- [Perk](../Perk)
-- [Primordial Attunement](../Primordial%20Attunement)
-- [Primordial Strike](../Primordial%20Strike)
-- [Skill](../Skill)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Damaging Ferocity](Damaging Ferocity.md)
+- [Growing Ferocity Improvement](Growing Ferocity Improvement.md)
+- [Perk](Perk.md)
+- [Primordial Attunement](Primordial Attunement.md)
+- [Primordial Strike](Primordial Strike.md)
+- [Skill](Skill.md)
 
 </div>

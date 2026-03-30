@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Keep It Down](../Keep%20It%20Down)
-- [Night Watch](../Night%20Watch)
-- [Perk](../Perk)
-- [Skill](../Skill)
-- [Surge of Insight](../Surge%20of%20Insight)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Keep It Down](Keep It Down.md)
+- [Night Watch](Night Watch.md)
+- [Perk](Perk.md)
+- [Skill](Skill.md)
+- [Surge of Insight](Surge of Insight.md)
 
 </div>

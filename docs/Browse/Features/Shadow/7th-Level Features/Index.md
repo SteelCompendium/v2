@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Careful Observation Improvement](../Careful%20Observation%20Improvement)
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Keen Insight](../Keen%20Insight)
-- [Skill](../Skill)
-- [Ventriloquist](../Ventriloquist)
+- [Careful Observation Improvement](Careful Observation Improvement.md)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Keen Insight](Keen Insight.md)
+- [Skill](Skill.md)
+- [Ventriloquist](Ventriloquist.md)
 
 </div>

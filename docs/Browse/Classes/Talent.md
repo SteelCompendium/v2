@@ -14,9 +14,9 @@ type: class
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent](../../../Browse/Classes/Talent)'s abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent](../../Browse/Classes/Talent.md)'s abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
-**As a [talent](../../../Browse/Classes/Talent), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](../../../Browse/Classes/Talent) who use too much power too quickly pay a deadly price.**
+**As a [talent](../../Browse/Classes/Talent.md), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](../../Browse/Classes/Talent.md) who use too much power too quickly pay a deadly price.**
 
 <!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
@@ -49,20 +49,20 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Abilities                     | Tradition Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Talent](../../../Browse/Classes/Talent) Tradition, [Clarity and Strain](../../../Browse/Features/Talent/1st-Level%20Features/Clarity%20and%20Strain), [Mind Spike](../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike), [Psionic Augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation), Talent Ward, [Telepathic Speech](../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech), Tradition Features, [Talent](../../../Browse/Classes/Talent) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Talent](../../Browse/Classes/Talent.md) Tradition, [Clarity and Strain](../../Browse/Features/Talent/1st-Level Features/Clarity and Strain.md), [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md), [Psionic Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md), Talent Ward, [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md), Tradition Features, [Talent](../../Browse/Classes/Talent.md) Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../../../Browse/Features/Talent/3rd-Level%20Features/Scan), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../../../Browse/Features/Talent/4th-Level%20Features/Characteristic%20Increase), [Mind Projection](../../../Browse/Features/Talent/4th-Level%20Features/Mind%20Projection), [Mind Recovery](../../../Browse/Features/Talent/4th-Level%20Features/Mind%20Recovery), Perk, Skill [Suspensor Field](../../../Browse/Features/Talent/4th-Level%20Features/Suspensor%20Field)                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
+| 3rd   | [Scan](../../Browse/Features/Talent/3rd-Level Features/Scan.md), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../../Browse/Features/Talent/4th-Level Features/Characteristic Increase.md), [Mind Projection](../../Browse/Features/Talent/4th-Level Features/Mind Projection.md), [Mind Recovery](../../Browse/Features/Talent/4th-Level Features/Mind Recovery.md), Perk, Skill [Suspensor Field](../../Browse/Features/Talent/4th-Level Features/Suspensor Field.md)                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Psi Boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../../../Browse/Features/Talent/7th-Level%20Features/Ancestral%20Memory), [Cascading Strain](../../../Browse/Features/Talent/7th-Level%20Features/Cascading%20Strain), [Characteristic Increase](../../../Browse/Features/Talent/7th-Level%20Features/Characteristic%20Increase), [Lucid Mind](../../../Browse/Features/Talent/7th-Level%20Features/Lucid%20Mind), Skill                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 6th   | Perk, [Psi Boost](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../../Browse/Features/Talent/7th-Level Features/Ancestral Memory.md), [Cascading Strain](../../Browse/Features/Talent/7th-Level Features/Cascading Strain.md), [Characteristic Increase](../../Browse/Features/Talent/7th-Level Features/Characteristic Increase.md), [Lucid Mind](../../Browse/Features/Talent/7th-Level Features/Lucid Mind.md), Skill                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
 | 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [Fortress of Perfect Thought](../../../Browse/Features/Talent/9th-Level%20Features/Fortress%20of%20Perfect%20Thought), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../../../Browse/Features/Talent/10th-Level%20Features/Characteristic%20Increase), [Clear Mind](../../../Browse/Features/Talent/10th-Level%20Features/Clear%20Mind), [Omnisensory](../../../Browse/Features/Talent/10th-Level%20Features/Omnisensory), Perk, [Psion](../../../Browse/Features/Talent/10th-Level%20Features/Psion), Skill, [Vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision)                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | [Fortress of Perfect Thought](../../Browse/Features/Talent/9th-Level Features/Fortress of Perfect Thought.md), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../../Browse/Features/Talent/10th-Level Features/Characteristic Increase.md), [Clear Mind](../../Browse/Features/Talent/10th-Level Features/Clear Mind.md), [Omnisensory](../../Browse/Features/Talent/10th-Level Features/Omnisensory.md), Perk, [Psion](../../Browse/Features/Talent/10th-Level Features/Psion.md), Skill, [Vision](../../Browse/Features/Talent/10th-Level Features/Vision.md)                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
-As a 1st-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 1st-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Talent Tradition
 
@@ -77,7 +77,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../Browse/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../Browse/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../Browse/Classes/Talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../Browse/Classes/Talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -97,15 +97,15 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain [clarity outside of combat](../../../Browse/Features/Talent/1st-Level%20Features/Clarity%20And%20Strain/Clarity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [clarity outside of combat](../../Browse/Features/Talent/1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md), you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You have the following ability, which can be used as a ranged [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ###### Mind Spike
@@ -126,17 +126,17 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Force%20Augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md).)
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability).
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/Movement/Stability.md).
 
 ##### Distance Augmentation
 
@@ -148,11 +148,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../../Browse/Features/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20Ward).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../../Browse/Features/Talent/1st-Level Features/Talent Ward/Repulsive Ward.md).)
 
 ##### Entropy Ward
 
@@ -172,19 +172,19 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../Chapters/Background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../Chapters/Background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), [Repel](../../../Browse/Features/Talent/1st-Level%20Features/Repel)                    |
-| Telepathy   | [Feedback Loop](../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop), [Remote Assistance](../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance) |
+| Chronopathy | [Accelerate](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), [Repel](../../Browse/Features/Talent/1st-Level Features/Repel.md)                    |
+| Telepathy   | [Feedback Loop](../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md), [Remote Assistance](../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md) |
 
 ##### Accelerate
 
@@ -254,7 +254,7 @@ You have the following ability.
 >
 > **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 >
-> **Spend 3 Clarity:** You can [vertical](../../../Browse/Movement/Vertical) slide the target.
+> **Spend 3 Clarity:** You can [vertical](../../Browse/Movement/Vertical.md) slide the target.
 
 ##### Remote Assistance
 
@@ -296,7 +296,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate), [Kinetic Grip](../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md), [Kinetic Grip](../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -309,9 +309,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -328,11 +328,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed.md) (EoT)
 >
-> **Strained:** You are [slowed](../../../Browse/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](../../../Browse/Conditions/Slowed) by this ability is [restrained](../../../Browse/Conditions/Restrained) instead.
+> **Strained:** You are [slowed](../../Browse/Conditions/Slowed.md) until the end of your next turn. Additionally, a target [slowed](../../Browse/Conditions/Slowed.md) by this ability is [restrained](../../Browse/Conditions/Restrained.md) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -366,9 +366,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; [prone](../../../Browse/Conditions/Prone)
+> - **17+:** Slide 6 + R; [prone](../../Browse/Conditions/Prone.md)
 >
-> **Strained:** You must [vertical](../../../Browse/Movement/Vertical) push the target instead of sliding them.
+> **Strained:** You must [vertical](../../Browse/Movement/Vertical.md) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse
@@ -385,7 +385,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../Browse/Conditions/Bleeding) until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../Browse/Conditions/Bleeding.md) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -417,9 +417,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, [prone](../../../Browse/Conditions/Prone)
-> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone)
-> - **17+:** 6 + R damage; M < STRONG, [prone](../../../Browse/Conditions/Prone)
+> - **≤11:** 2 + R damage; M < WEAK, [prone](../../Browse/Conditions/Prone.md)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone.md)
+> - **17+:** 6 + R damage; M < STRONG, [prone](../../Browse/Conditions/Prone.md)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >
@@ -465,9 +465,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Choke (3 Clarity)
@@ -480,11 +480,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 8 + R damage; M < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** You can [vertical](../../../Browse/Movement/Vertical) pull the target up to 2 squares. If the target is made [restrained](../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their [stability](../../../Browse/Movement/Stability).
+> **Effect:** You can [vertical](../../Browse/Movement/Vertical.md) pull the target up to 2 squares. If the target is made [restrained](../../Browse/Conditions/Restrained.md) by this ability, this forced movement ignores their [stability](../../Browse/Movement/Stability.md).
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -495,7 +495,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)
@@ -529,7 +529,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are [slowed](../../../Browse/Conditions/Slowed) (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](../../Browse/Conditions/Slowed.md) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -540,9 +540,9 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | -------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 >
-> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../Browse/Movement/Stability). A creature can only be force moved this way once a turn.
+> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../Browse/Movement/Stability.md). A creature can only be force moved this way once a turn.
 >
-> **Strained:** You are [weakened](../../../Browse/Conditions/Weakened) (save ends). While you are [weakened](../../../Browse/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+> **Strained:** You are [weakened](../../Browse/Conditions/Weakened.md) (save ends). While you are [weakened](../../Browse/Conditions/Weakened.md) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
 <!-- -->
 > ###### Iron (5 Clarity)
@@ -553,7 +553,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target's [stability](../../../Browse/Movement/Stability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../Browse/Movement/Stability) increase lasts until the target no longer has temporary Stamina from this ability.
+> **Effect:** The target's [stability](../../Browse/Movement/Stability.md) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../Browse/Movement/Stability.md) increase lasts until the target no longer has temporary Stamina from this ability.
 >
 > **Strained:** You can't use maneuvers (save ends).
 
@@ -572,7 +572,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### 2nd-Level Features
 
-As a 2nd-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 2nd-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Perk
 
@@ -580,15 +580,15 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Tradition Feature
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
+| Chronopathy | [Ease the Hours](../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md)   |
+| Telekinesis | [Ease Their Fall](../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md) |
+| Telepathy   | [Ease the Mind](../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md)     |
 
 ##### Ease the Hours
 
@@ -604,7 +604,7 @@ Whenever you land after a fall, or if any falling creature lands within 2 square
 
 #### 2nd-Level Tradition Ability
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Chronopathy Ability
 
@@ -625,7 +625,7 @@ Choose one of the following abilities.
 > - **12-16:** You target three creatures, one of which can be you.
 > - **17+:** You target four creatures, one of which can be you.
 >
-> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../Browse/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../Browse/Conditions/Dazed), that condition ends for them.
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../Browse/Conditions/Dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../Browse/Conditions/Dazed.md), that condition ends for them.
 >
 > **Strained:** Your speed is halved until the end of the encounter.
 
@@ -640,9 +640,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed) (save ends).
-> - **12-16:** The target is [slowed](../../../Browse/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](../../../Browse/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../Browse/Conditions/Slowed.md) (save ends).
+> - **12-16:** The target is [slowed](../../Browse/Conditions/Slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../Browse/Conditions/Slowed.md) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >
@@ -663,11 +663,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; [vertical](../../../Browse/Movement/Vertical) push 2
-> - **12-16:** 6 damage; [vertical](../../../Browse/Movement/Vertical) push 4
-> - **17+:** 9 damage; [vertical](../../../Browse/Movement/Vertical) push 6
+> - **≤11:** 3 damage; [vertical](../../Browse/Movement/Vertical.md) push 2
+> - **12-16:** 6 damage; [vertical](../../Browse/Movement/Vertical.md) push 4
+> - **17+:** 9 damage; [vertical](../../Browse/Movement/Vertical.md) push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../Browse/Conditions/Weakened) until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](../../Browse/Conditions/Weakened.md) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -680,9 +680,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../Browse/Conditions/Prone)
-> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone)
-> - **17+:** 14 + R damage; M < STRONG, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](../../Browse/Conditions/Prone.md)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone.md)
+> - **17+:** 14 + R damage; M < STRONG, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.
 
@@ -701,11 +701,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../Browse/Conditions/Dazed.md) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -718,21 +718,21 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >
 > **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 >
-> **Strained:** You take 1d6 damage and are [weakened](../../../Browse/Conditions/Weakened) until the end of your turn.
+> **Strained:** You take 1d6 damage and are [weakened](../../Browse/Conditions/Weakened.md) until the end of your turn.
 
 ### 3rd-Level Features
 
-As a 3rd-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 3rd-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
 
 #### 7-Clarity Ability
 
@@ -749,13 +749,13 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../Browse/Conditions/Weakened.md) (save ends)
 >
 > **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 >
-> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../../Browse/Ancestries/Human)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../Browse/Ancestries/Human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 <!-- -->
 > ###### Force Orbs (7 Clarity)
@@ -776,7 +776,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 > - **12-16:** 3 damage
 > - **17+:** 5 damage
 >
-> **Strained:** You create five orbs, and you are [weakened](../../../Browse/Conditions/Weakened) while you have any orbs active.
+> **Strained:** You create five orbs, and you are [weakened](../../Browse/Conditions/Weakened.md) while you have any orbs active.
 
 <!-- -->
 > ###### Reflector Field (7 Clarity)
@@ -802,9 +802,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 6 + P damage; P < WEAK, [dazed](../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 14 + P damage; P < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 6 + P damage; P < WEAK, [dazed](../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 10 + P damage; P < AVERAGE, [dazed](../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 14 + P damage; P < STRONG, [dazed](../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 >
@@ -812,7 +812,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 ### 4th-Level Features
 
-As a 4th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 4th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -820,7 +820,7 @@ Your Reason and Presence scores each increase to 3.
 
 #### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../../Browse/Conditions/Prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../Browse/Conditions/Prone.md), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -840,29 +840,29 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](../../../Browse/Movement/Fly). While [flying](../../../Browse/Movement/Fly), your [stability](../../../Browse/Movement/Stability) is reduced to 0 and can't be increased. If you can already [fly](../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../Browse/Movement/Fly) instead.
+You can [fly](../../Browse/Movement/Fly.md). While [flying](../../Browse/Movement/Fly.md), your [stability](../../Browse/Movement/Stability.md) is reduced to 0 and can't be increased. If you can already [fly](../../Browse/Movement/Fly.md), you have a +2 bonus to speed while [flying](../../Browse/Movement/Fly.md) instead.
 
-If you are strained while [flying](../../../Browse/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](../../Browse/Movement/Fly.md) and are force moved, the forced movement distance gains a +2 bonus.
 
 ### 5th-Level Features
 
-As a 5th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 5th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### 5th-Level Tradition Features
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                                                                                                                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Distortion%20Temporal), [Speed of Thought](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Speed%20of%20Thought) |
-| Telekinesis | [Kinetic Amplifier](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Kinetic%20Amplifier), [Triangulate](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Triangulate)                   |
-| Telepathy   | [Compulsion](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Compulsion), [Remote Amplification](../../../Browse/Features/Talent/5th-Level%20Features/5th-Level%20Tradition%20Features/Remote%20Amplification)               |
+| Chronopathy | [Distortion Temporal](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md), [Speed of Thought](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md) |
+| Telekinesis | [Kinetic Amplifier](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md), [Triangulate](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md)                   |
+| Telepathy   | [Compulsion](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md), [Remote Amplification](../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -874,7 +874,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature increases to 1 mile.
 
 ##### Speed of Thought
 
@@ -899,18 +899,18 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 >
-> **Strained:** The target gains 2 surges. You are [weakened](../../../Browse/Conditions/Weakened) and [slowed](../../../Browse/Conditions/Slowed) (save ends).
+> **Strained:** The target gains 2 surges. You are [weakened](../../Browse/Conditions/Weakened.md) and [slowed](../../Browse/Conditions/Slowed.md) (save ends).
 
 <!-- -->
 > ###### Hypersonic (9 Clarity)
 >
 > *You move fast enough to turn around and watch your foes feel the aftermath.*
 >
-> | **Area, [Charge](../../../Browse/Abilities/Common/Main%20Actions/Charge), Psionic, Telekinesis** |               **Main action** |
+> | **Area, [Charge](../../Browse/Abilities/Common/Main Actions/Charge.md), Psionic, Telekinesis** |               **Main action** |
 > | -------------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 5 x 2 line within 1**                                                                                           | **🎯 Each enemy in the area** |
 >
-> **Effect:** You [teleport](../../../Browse/Movement/Teleport) to a square on the opposite side of the area before making the power roll.
+> **Effect:** You [teleport](../../Browse/Movement/Teleport.md) to a square on the opposite side of the area before making the power roll.
 >
 > **Power Roll + Reason:**
 >
@@ -918,7 +918,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 > - **12-16:** 18 sonic damage
 > - **17+:** 24 sonic damage
 >
-> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../Browse/Conditions/Slowed) until the end of your turn and each target is [slowed](../../../Browse/Conditions/Slowed) until the end of their turn.
+> **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../Browse/Conditions/Slowed.md) until the end of your turn and each target is [slowed](../../Browse/Conditions/Slowed.md) until the end of their turn.
 
 <!-- -->
 > ###### Mind Snare (9 Clarity)
@@ -931,13 +931,13 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 20 + R psychic damage; R < STRONG, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
 >
-> **Effect:** While [slowed](../../../Browse/Conditions/Slowed) this way, the target takes 3 psychic damage for each square they willingly leave.
+> **Effect:** While [slowed](../../Browse/Conditions/Slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 >
-> **Strained:** While [slowed](../../../Browse/Conditions/Slowed) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../Browse/Conditions/Slowed) this way.
+> **Strained:** While [slowed](../../Browse/Conditions/Slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../Browse/Conditions/Slowed.md) this way.
 
 <!-- -->
 > ###### Soulbound (9 Clarity)
@@ -960,7 +960,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 ### 6th-Level Features
 
-As a 6th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 6th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Perk
 
@@ -968,7 +968,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to it and enhance its effects. A [psi boost](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md).
 
 ##### Dynamic Power (1 Clarity)
 
@@ -1000,7 +1000,7 @@ If the ability has any power roll, that roll gains an edge.
 
 #### 6th-Level Tradition Ability
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 
@@ -1015,9 +1015,9 @@ Choose one of the following abilities.
 > | ------------------------------- | ---------------: |
 > | **📏 Melee 2**                  | **🎯 One enemy** |
 >
-> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../../Browse/Conditions/Prone).
+> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../Browse/Conditions/Prone.md).
 >
-> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../Browse/Conditions/Weakened) (save ends).
+> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../Browse/Conditions/Weakened.md) (save ends).
 >
 > **Power Roll + Presence:**
 >
@@ -1034,17 +1034,17 @@ Choose one of the following abilities.
 > | -------------------------------------- | ------------------------------------------: |
 > | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 >
-> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../Browse/Conditions/Restrained) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+> **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../Browse/Conditions/Restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
 >
 > Make a power roll that targets each enemy in the area.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed) until the effect ends
+> - **≤11:** P < WEAK, the target is [slowed](../../Browse/Conditions/Slowed.md) until the effect ends
 > - **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
-> - **17+:** P < STRONG, the target is [restrained](../../../Browse/Conditions/Restrained) until the effect ends
+> - **17+:** P < STRONG, the target is [restrained](../../Browse/Conditions/Restrained.md) until the effect ends
 >
-> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../../Browse/Conditions/Restrained) in the area can be force moved. You are [restrained](../../../Browse/Conditions/Restrained) until the effect ends.
+> **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../Browse/Conditions/Restrained.md) in the area can be force moved. You are [restrained](../../Browse/Conditions/Restrained.md) until the effect ends.
 
 ##### 6th-Level Telekinesis Abilities
 
@@ -1061,9 +1061,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 damage; [vertical](../../../Browse/Movement/Vertical) pull 5 toward the center of the area
-> - **12-16:** 9 damage; [vertical](../../../Browse/Movement/Vertical) pull 7 toward the center of the area
-> - **17+:** 13 damage; [vertical](../../../Browse/Movement/Vertical) pull 10 toward the center of the area
+> - **≤11:** 6 damage; [vertical](../../Browse/Movement/Vertical.md) pull 5 toward the center of the area
+> - **12-16:** 9 damage; [vertical](../../Browse/Movement/Vertical.md) pull 7 toward the center of the area
+> - **17+:** 13 damage; [vertical](../../Browse/Movement/Vertical.md) pull 10 toward the center of the area
 >
 > **Effect:** Targets closest to the center of the area are pulled first.
 >
@@ -1080,11 +1080,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../Browse/Movement/Vertical)
-> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../Browse/Movement/Vertical)
-> - **17+:** Slide 12 + R; [prone](../../../Browse/Conditions/Prone); M < STRONG, the forced movement is [vertical](../../../Browse/Movement/Vertical)
+> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../Browse/Movement/Vertical.md)
+> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../Browse/Movement/Vertical.md)
+> - **17+:** Slide 12 + R; [prone](../../Browse/Conditions/Prone.md); M < STRONG, the forced movement is [vertical](../../Browse/Movement/Vertical.md)
 >
-> **Strained:** The forced movement ignores [stability](../../../Browse/Movement/Stability). You take 2d6 damage and are [weakened](../../../Browse/Conditions/Weakened) (save ends).
+> **Strained:** The forced movement ignores [stability](../../Browse/Movement/Stability.md). You take 2d6 damage and are [weakened](../../Browse/Conditions/Weakened.md) (save ends).
 
 ##### 6th-Level Telepathy Abilities
 
@@ -1128,7 +1128,7 @@ Choose one of the following abilities.
 
 ### 7th-Level Features
 
-As a 7th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 7th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Ancestral Memory
 
@@ -1136,7 +1136,7 @@ Each time you finish a respite, you can choose a number of skills you have up to
 
 #### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md) ability to take the same damage.
 
 #### Characteristic Increase
 
@@ -1152,7 +1152,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features
 
-As an 8th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As an 8th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Perk
 
@@ -1160,15 +1160,15 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Features
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                                                                                                                                          |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Doubling%20the%20Hours), [Stasis Shield](../../../Browse/Features/Talent/8th-Level%20Features/Stasis%20Shield) |
-| Telekinesis | [Levitation Field](../../../Browse/Abilities/Talent/8th-Level%20Features/Levitation%20Field), [Low Gravity](../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Low%20Gravity)          |
-| Telepathy   | [Mindlink](../../../Browse/Features/Talent/8th-Level%20Features/8th-Level%20Tradition%20Features/Mindlink), [Universal Connection](../../../Browse/Features/Talent/8th-Level%20Features/Universal%20Connection)           |
+| Chronopathy | [Doubling the Hours](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md), [Stasis Shield](../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md) |
+| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md), [Low Gravity](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md)          |
+| Telepathy   | [Mindlink](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md), [Universal Connection](../../Browse/Features/Talent/8th-Level Features/Universal Connection.md)           |
 
 ##### Doubling the Hours
 
@@ -1187,17 +1187,17 @@ You have the following ability.
 > | ----------------- | ---------------------------: |
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can [fly](../../../Browse/Movement/Fly) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../../Browse/Movement/Fly), a target's [stability](../../../Browse/Movement/Stability) is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../../Browse/Movement/Fly.md) until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While [flying](../../Browse/Movement/Fly.md), a target's [stability](../../Browse/Movement/Stability.md) is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
 ##### Low Gravity
 
-Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](../../../Browse/Conditions/Prone).
+Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](../../Browse/Conditions/Prone.md).
 
 ##### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
 #### Stasis Shield
 
@@ -1214,13 +1214,13 @@ You have the following ability.
 >
 > **Trigger:** The target takes damage.
 >
-> **Effect:** The target is [teleported](../../../Browse/Movement/Teleport) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+> **Effect:** The target is [teleported](../../Browse/Movement/Teleport.md) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 >
 > **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
 #### Universal Connection
 
-The range of your [Telepathic Speech](../../../Browse/Features/Talent/1st-Level%20Features/Telepathic%20Speech) feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature increases to anywhere on the same world.
 
 #### 11-Clarity Ability
 
@@ -1237,9 +1237,9 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 10 + P damage; P < WEAK, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 20 + P damage; P < STRONG, [weakened](../../../Browse/Conditions/Weakened) and [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 10 + P damage; P < WEAK, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 20 + P damage; P < STRONG, [weakened](../../Browse/Conditions/Weakened.md) and [slowed](../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 >
@@ -1279,7 +1279,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 > - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 >
-> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../Browse/Ancestries/Human) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../Browse/Conditions/Weakened) and [slowed](../../../Browse/Conditions/Slowed) (save ends).
+> **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../Browse/Ancestries/Human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../Browse/Conditions/Weakened.md) and [slowed](../../Browse/Conditions/Slowed.md) (save ends).
 
 <!-- -->
 > ###### Steel (11 Clarity)
@@ -1290,13 +1290,13 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target has damage immunity 5 and can't be made [slowed](../../../Browse/Conditions/Slowed) or [weakened](../../../Browse/Conditions/Weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+> **Effect:** The target has damage immunity 5 and can't be made [slowed](../../Browse/Conditions/Slowed.md) or [weakened](../../Browse/Conditions/Weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
 >
 > **Strained:** You can't use maneuvers (save ends).
 
 ### 9th-Level Features
 
-As a 9th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 9th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Fortress of Perfect Thought
 
@@ -1306,11 +1306,11 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made [taunted](../../../Browse/Conditions/Taunted) or [frightened](../../../Browse/Conditions/Frightened).
+- You can't be made [taunted](../../Browse/Conditions/Taunted.md) or [frightened](../../Browse/Conditions/Frightened.md).
 
 #### 9th-Level Tradition Ability
 
-Your [talent](../../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -1331,9 +1331,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 6 corruption damage; [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 10 corruption damage; [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 4 corruption damage; [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 10 corruption damage; [slowed](../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -1359,7 +1359,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../Browse/Movement/Vertical) pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../Browse/Movement/Vertical.md) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >
@@ -1386,7 +1386,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are [weakened](../../../Browse/Conditions/Weakened) (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](../../Browse/Conditions/Weakened.md) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -1424,15 +1424,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** R < AVERAGE, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** R < STRONG, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** R < WEAK, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** R < STRONG, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.
 
 ### 10th-Level Features
 
-As a 10th-level [talent](../../../Browse/Classes/Talent), you gain the following features.
+As a 10th-level [talent](../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1462,8 +1462,8 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision). Each time you finish a respite, you gain [vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision) equal to the XP you gain. You can spend [vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision) on your abilities as if it were clarity.
+You have an epic resource called [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md). Each time you finish a respite, you gain [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md) equal to the XP you gain. You can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md) on your abilities as if it were clarity.
 
-Additionally, you can spend [vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
-[Vision](../../../Browse/Features/Talent/10th-Level%20Features/Vision) remains until you spend it.
+[Vision](../../Browse/Features/Talent/10th-Level Features/Vision.md) remains until you spend it.

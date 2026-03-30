@@ -14,100 +14,100 @@ type: class/fury/level
 
 ### 1st-Level Features
 
-As a 1st-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
+As a 1st-level [fury](../../../Browse/Classes/Fury.md), you gain the following features.
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
-- **Berserker:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
-- **Reaver:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
-- **Stormwight:** You channel your [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
+- **Berserker:** You channel your [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
+- **Reaver:** You channel your [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) into instinct and cunning, challenging the order of civilization. You have the Hide skill.
+- **Stormwight:** You channel your [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 #### Ferocity
 
-Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
+Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 <!-- -->
 > **Where's My Maneuver?**
 >
-> Since most other [classes](../../../Chapters/Classes) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../../Browse/Classes/Fury)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../../Browse/Classes/Fury) has them using the [Grab](../../../../Browse/Abilities/Common/Maneuvers/Grab) or [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other [classes](../../../Chapters/Classes.md) get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](../../../Browse/Classes/Fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](../../../Browse/Classes/Fury.md) has them using the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) or [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
-Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity).
+Additionally, the first time each combat round that you take damage, you gain 1 [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md). The first time you become winded or are dying in an encounter, you gain 1d3 [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md).
 
 You lose any remaining ferocity at the end of the encounter.
 
 ##### Ferocity Outside of Combat
 
-Though you can't gain [ferocity outside of combat](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity/Ferocity%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [ferocity outside of combat](../../../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) equal to your Victories.
 
 #### Growing Ferocity
 
-You gain certain benefits in combat based on the amount of [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) you spend during your turn.
+You gain certain benefits in combat based on the amount of [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) you spend during your turn.
 
-Some [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) tables in this section.
+Some [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
-| [Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) | Benefit                                                                                                                                                                                                                        |
+| [Ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2                                                                                           | Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, the forced movement distance gains a bonus equal to your Might score.                                     |
+| 2                                                                                           | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Might score.                                     |
 | 4                                                                                           | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
-| 6                                                                                           | You gain an edge on Might tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                        |
+| 6                                                                                           | You gain an edge on Might tests and the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.                                                                                        |
 | 8 (4th level)                                                                               | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
-| 10 (7th level)                                                                              | You have a double edge on Might tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                  |
+| 10 (7th level)                                                                              | You have a double edge on Might tests and the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.                                                                                  |
 | 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Might score. |
 
 ###### Reaver Growing Ferocity Table
 
-| [Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) | Benefit                                                                                                                                                                                                                          |
+| [Ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) | Benefit                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                           | Whenever you use the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver, the forced movement distance gains a bonus equal to your Agility score.                                     |
+| 2                                                                                           | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Agility score.                                     |
 | 4                                                                                           | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
-| 6                                                                                           | You gain an edge on Agility tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                        |
+| 6                                                                                           | You gain an edge on Agility tests and the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.                                                                                        |
 | 8 (4th level)                                                                               | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
-| 10 (7th level)                                                                              | You have a double edge on Agility tests and the [Knockback](../../../../Browse/Abilities/Common/Maneuvers/Knockback) maneuver.                                                                                  |
+| 10 (7th level)                                                                              | You have a double edge on Agility tests and the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver.                                                                                  |
 | 12 (10th level)                                                                             | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
 
 #### 1st-Level Aspect Features
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you two features, as shown on the 1st-Level Aspect Features table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                                                                                                                                                          |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | Kit, [Primordial Strength](../../../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Strength)                                                                                                                           |
-| Reaver     | Kit, [Primordial Cunning](../../../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20Cunning)                                                                                                                             |
-| Stormwight | [Beast Shape](../../../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20Shape), [Relentless Hunter](../../../../Browse/Features/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20Hunter) |
+| Berserker  | Kit, [Primordial Strength](../../../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Primordial Strength.md)                                                                                                                           |
+| Reaver     | Kit, [Primordial Cunning](../../../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Primordial Cunning.md)                                                                                                                             |
+| Stormwight | [Beast Shape](../../../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Beast Shape.md), [Relentless Hunter](../../../Browse/Features/Fury/1st-Level Features/1st-Level Aspect Features/Relentless Hunter.md) |
 
 ##### Beast Shape
 
-You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) feature.
+You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) feature.
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../../Browse/Kits/Panther).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../Browse/Kits/Panther.md).)
 
 ##### Primordial Cunning
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
-As your [ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity) grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../../../Browse/Features/Fury/1st-Level%20Features/Growing%20Ferocity) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md) grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../../Browse/Features/Fury/1st-Level Features/Growing Ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Relentless Hunter
 
@@ -115,15 +115,15 @@ You gain an edge on tests made using the Track skill.
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../../Browse/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20Action) table.
+Your [primordial aspect](../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../Browse/Features/Fury/1st-Level Features/Aspect Triggered Action.md) table.
 
 ###### Aspect Triggered Actions Table
 
 | Aspect     | Triggered Action                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Lines of Force](../../../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force)       |
-| Reaver     | [Unearthly Reflexes](../../../../Browse/Abilities/Fury/1st-Level%20Features/Unearthly%20Reflexes) |
-| Stormwight | [Furious Change](../../../../Browse/Abilities/Fury/1st-Level%20Features/Furious%20Change)         |
+| Berserker  | [Lines of Force](../../../Browse/Abilities/Fury/1st-Level Features/Lines of Force.md)       |
+| Reaver     | [Unearthly Reflexes](../../../Browse/Abilities/Fury/1st-Level Features/Unearthly Reflexes.md) |
+| Stormwight | [Furious Change](../../../Browse/Abilities/Fury/1st-Level Features/Furious Change.md)         |
 
 <!-- -->
 > ###### Furious Change
@@ -172,7 +172,7 @@ Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/P
 
 #### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to [jump](../../../../Browse/Movement/Jump) (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to [jump](../../../Browse/Movement/Jump.md) (see Movement Types in Chapter 10: Combat).
 
 #### Fury Abilities
 
@@ -180,7 +180,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../Browse/Abilities/Fury/1st-Level Features/To the Death.md)!)
 
 <!-- -->
 > ###### Brutal Slam
@@ -210,7 +210,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -225,9 +225,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../Browse/Conditions/Grabbed.md)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md)
 
 <!-- -->
 > ###### To the Death!
@@ -316,11 +316,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
 >
-> **Effect:** While [bleeding](../../../../Browse/Conditions/Bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](../../../Browse/Conditions/Bleeding.md) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -337,9 +337,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) and [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../Browse/Conditions/Bleeding.md) and [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding.md) and [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../Browse/Conditions/Bleeding.md) and [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 

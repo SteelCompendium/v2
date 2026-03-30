@@ -17,19 +17,19 @@ type: career
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
 - What led you to this life of violent entertainment?
-- What was your [gladiator](../../../Browse/Careers/Gladiator) name and persona?
+- What was your [gladiator](../../Browse/Careers/Gladiator.md) name and persona?
 - Who was your biggest rival?
 - What happened during your most famous match?
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, [Jump](../../../Browse/Movement/Jump).)
+**Skills:** Two skills from the exploration skill group (*Quick Build:* Gymnastics, [Jump](../../Browse/Movement/Jump.md).)
 
 **Languages:** One language
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../../../Browse/Perks/Exploration%20Perks/Friend%20Catapult).)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../../Browse/Perks/Exploration Perks/Friend Catapult.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

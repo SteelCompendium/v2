@@ -18,7 +18,7 @@ type: feature/subtrait/censor/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../../../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ###### Back Blasphemer!
@@ -63,9 +63,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!

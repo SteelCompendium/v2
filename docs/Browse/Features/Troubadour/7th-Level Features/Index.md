@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [A Muses Muse](../A%20Muses%20Muse)
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Equal Billing](../Equal%20Billing)
-- [Skill](../Skill)
+- [A Muses Muse](A Muses Muse.md)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Equal Billing](Equal Billing.md)
+- [Skill](Skill.md)
 
 </div>

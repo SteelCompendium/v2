@@ -18,14 +18,14 @@ type: feature/trait/shadow/1st-level-feature
 
 #### College Triggered Action
 
-Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../../Browse/Features/Shadow/1st-Level Features/College Triggered Action.md) table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) |
-| Caustic Alchemy | [Defensive Roll](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll)                   |
+| Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md)                   |
 | Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->
@@ -52,7 +52,7 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a trigger
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -67,6 +67,6 @@ Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a trigger
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can [teleport](../../../../../Browse/Movement/Teleport) up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](../../../../Browse/Movement/Teleport.md) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You [teleport](../../../../../Browse/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.

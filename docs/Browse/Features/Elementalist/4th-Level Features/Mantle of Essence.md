@@ -18,16 +18,16 @@ type: feature/trait/elementalist/4th-level-feature
 
 #### Mantle of Essence
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20of%20Essence) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../../../../Browse/Features/Elementalist/4th-Level Features/Mantle of Essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
 | Specialization | Feature                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Quaking Earth](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Quaking%20Earth)     |
-| Fire           | [Burning Grounds](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Burning%20Grounds) |
-| Green          | [Flowering Bed](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Flowering%20Bed)     |
-| Void           | [Veiling Bed](../../../../../Browse/Features/Elementalist/4th-Level%20Features/Mantle%20Of%20Essence/Veiling%20Bed)         |
+| Earth          | [Quaking Earth](../../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Quaking Earth.md)     |
+| Fire           | [Burning Grounds](../../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Burning Grounds.md) |
+| Green          | [Flowering Bed](../../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Flowering Bed.md)     |
+| Void           | [Veiling Bed](../../../../Browse/Features/Elementalist/4th-Level Features/Mantle Of Essence/Veiling Bed.md)         |
 
 ##### Burning Grounds
 

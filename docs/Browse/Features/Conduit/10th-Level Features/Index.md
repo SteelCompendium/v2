@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Avatar](../Avatar)
-- [Characteristic Increase](../Characteristic%20Increase)
-- [Divine Power](../Divine%20Power)
-- [Most Pious](../Most%20Pious)
-- [Perk](../Perk)
-- [Skill](../Skill)
+- [Avatar](Avatar.md)
+- [Characteristic Increase](Characteristic Increase.md)
+- [Divine Power](Divine Power.md)
+- [Most Pious](Most Pious.md)
+- [Perk](Perk.md)
+- [Skill](Skill.md)
 
 </div>

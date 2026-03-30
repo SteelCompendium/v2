@@ -18,7 +18,7 @@ type: feature/trait/shadow/6th-level-feature
 
 #### 6th-Level College Ability
 
-Your [shadow](../../../../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 5
-> - **12-16:** 6 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 10
-> - **17+:** 9 + A damage; [vertical](../../../../../Browse/Movement/Vertical) push 15
+> - **≤11:** 3 + A damage; [vertical](../../../../Browse/Movement/Vertical.md) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../../Browse/Movement/Vertical.md) push 10
+> - **17+:** 9 + A damage; [vertical](../../../../Browse/Movement/Vertical.md) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 
@@ -50,7 +50,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -85,7 +85,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can [fly](../../../../../Browse/Movement/Fly) until the end of the encounter.
+> - **12-16:** The creature can [fly](../../../../Browse/Movement/Fly.md) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
@@ -114,8 +114,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.

@@ -24,17 +24,17 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
-| Cryokinetic   | [Entropic Adaptability](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
-| Metakinetic   | [Inertial Sink](../../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
+| Chronokinetic | [Rapid Processing](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md)           |
+| Cryokinetic   | [Entropic Adaptability](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md) |
+| Metakinetic   | [Inertial Sink](../../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md)                 |
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../../Browse/Conditions/Grabbed).
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../Browse/Conditions/Grabbed.md).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 

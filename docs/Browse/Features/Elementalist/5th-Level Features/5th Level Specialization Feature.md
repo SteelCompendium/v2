@@ -18,16 +18,16 @@ type: feature/trait/elementalist/5th-level-feature
 
 #### 5th-Level Specialization Feature
 
-Your [elemental specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elemental%20Specialization) Features table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) Features table.
 
 ###### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [The Mountain Does Not Move](../../../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/The%20Mountain%20Does%20Not%20Move)     |
-| Fire           | [Smoldering Step](../../../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Smoldering%20Step)                                 |
-| Green          | [Hide of Tenfold Shields](../../../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Hide%20of%20Tenfold%20Shields)             |
-| Void           | [Pierce the Veil of Substance](../../../../../Browse/Features/Elementalist/5th-Level%20Features/5th-Level%20Specialization%20Feature/Pierce%20the%20Veil%20of%20Substance) |
+| Earth          | [The Mountain Does Not Move](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/The Mountain Does Not Move.md)     |
+| Fire           | [Smoldering Step](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Smoldering Step.md)                                 |
+| Green          | [Hide of Tenfold Shields](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Hide of Tenfold Shields.md)             |
+| Void           | [Pierce the Veil of Substance](../../../../Browse/Features/Elementalist/5th-Level Features/5th-Level Specialization Feature/Pierce the Veil of Substance.md) |
 
 ##### Hide of Tenfold Shields
 
@@ -37,18 +37,18 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 ##### The Mountain Does Not Move
 
-You stand firm and magnetize your allies to stay grounded. Your [stability](../../../../../Browse/Movement/Stability) increases by your level.
+You stand firm and magnetize your allies to stay grounded. Your [stability](../../../../Browse/Movement/Stability.md) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../../../../../Browse/Abilities/Elementalist/1st-Level%20Features/Hurl%20Element) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../../Browse/Movement/Stability) down to a minimum of 0, then increase the ally's [stability](../../../../../Browse/Movement/Stability) by an amount equal to the [stability](../../../../../Browse/Movement/Stability) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../Browse/Movement/Stability.md) down to a minimum of 0, then increase the ally's [stability](../../../../Browse/Movement/Stability.md) by an amount equal to the [stability](../../../../Browse/Movement/Stability.md) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../../../../Browse/Movement/Teleport) a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../../../Browse/Movement/Teleport.md) a number of squares equal to your Reason score.
 
 ##### Smoldering Step
 
-You can use 1 square of movement to [walk](../../../../../Browse/Movement/Walk) into an area of fire your size or larger and [teleport](../../../../../Browse/Movement/Teleport) to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to [walk](../../../../Browse/Movement/Walk.md) into an area of fire your size or larger and [teleport](../../../../Browse/Movement/Teleport.md) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.

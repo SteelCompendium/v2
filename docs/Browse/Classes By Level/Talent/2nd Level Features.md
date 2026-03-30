@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [talent](../../../../Browse/Classes/Talent), you gain the following features.
+As a 2nd-level [talent](../../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Perk
 
@@ -22,15 +22,15 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Tradition Feature
 
-Your [talent](../../../../Browse/Classes/Talent) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](../../../Browse/Classes/Talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Ease the Hours](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Hours)   |
-| Telekinesis | [Ease Their Fall](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20Their%20Fall) |
-| Telepathy   | [Ease the Mind](../../../../Browse/Features/Talent/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Ease%20the%20Mind)     |
+| Chronopathy | [Ease the Hours](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md)   |
+| Telekinesis | [Ease Their Fall](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md) |
+| Telepathy   | [Ease the Mind](../../../Browse/Features/Talent/2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md)     |
 
 ##### Ease the Hours
 
@@ -46,7 +46,7 @@ Whenever you land after a fall, or if any falling creature lands within 2 square
 
 #### 2nd-Level Tradition Ability
 
-Your [talent](../../../../Browse/Classes/Talent) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Chronopathy Ability
 
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 > - **12-16:** You target three creatures, one of which can be you.
 > - **17+:** You target four creatures, one of which can be you.
 >
-> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../Browse/Conditions/Dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../Browse/Conditions/Dazed), that condition ends for them.
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../Browse/Conditions/Dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../Browse/Conditions/Dazed.md), that condition ends for them.
 >
 > **Strained:** Your speed is halved until the end of the encounter.
 
@@ -82,9 +82,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../Browse/Conditions/Slowed) (save ends).
-> - **12-16:** The target is [slowed](../../../../Browse/Conditions/Slowed) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-> - **17+:** The target is [slowed](../../../../Browse/Conditions/Slowed) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+> - **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../Browse/Conditions/Slowed.md) (save ends).
+> - **12-16:** The target is [slowed](../../../Browse/Conditions/Slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+> - **17+:** The target is [slowed](../../../Browse/Conditions/Slowed.md) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 >
 > **Effect:** A target can't use triggered actions while their speed is reduced this way.
 >
@@ -105,11 +105,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical) push 2
-> - **12-16:** 6 damage; [vertical](../../../../Browse/Movement/Vertical) push 4
-> - **17+:** 9 damage; [vertical](../../../../Browse/Movement/Vertical) push 6
+> - **≤11:** 3 damage; [vertical](../../../Browse/Movement/Vertical.md) push 2
+> - **12-16:** 6 damage; [vertical](../../../Browse/Movement/Vertical.md) push 4
+> - **17+:** 9 damage; [vertical](../../../Browse/Movement/Vertical.md) push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../Browse/Conditions/Weakened) until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../Browse/Conditions/Weakened.md) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -122,9 +122,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../../Browse/Conditions/Prone)
-> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../Browse/Conditions/Prone)
-> - **17+:** 14 + R damage; M < STRONG, [prone](../../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../Browse/Conditions/Prone.md)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone.md)
+> - **17+:** 14 + R damage; M < STRONG, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.
 
@@ -143,11 +143,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
 >
-> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) until the end of the target's next turn.
+> **Strained:** You start crying, and you can't use triggered actions or make [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) until the end of the target's next turn.
 
 <!-- -->
 > ###### Synaptic Override (5 Clarity)
@@ -160,10 +160,10 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against one enemy of your choice.
+> - **≤11:** The target makes a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against one enemy of your choice.
 > - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 > - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 >
 > **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 >
-> **Strained:** You take 1d6 damage and are [weakened](../../../../Browse/Conditions/Weakened) until the end of your turn.
+> **Strained:** You take 1d6 damage and are [weakened](../../../Browse/Conditions/Weakened.md) until the end of your turn.

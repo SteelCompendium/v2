@@ -14,4 +14,4 @@ type: condition
 
 ##### Taunted
 
-A creature who is [taunted](../../../Browse/Conditions/Taunted) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](../../../Browse/Conditions/Taunted) them, as long as they have line of effect to that creature. If a creature gains the [taunted](../../../Browse/Conditions/Taunted) condition from one source while already [taunted](../../../Browse/Conditions/Taunted) by a different source, the new condition replaces the old one.
+A creature who is [taunted](../../Browse/Conditions/Taunted.md) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](../../Browse/Conditions/Taunted.md) them, as long as they have line of effect to that creature. If a creature gains the [taunted](../../Browse/Conditions/Taunted.md) condition from one source while already [taunted](../../Browse/Conditions/Taunted.md) by a different source, the new condition replaces the old one.

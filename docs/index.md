@@ -23,24 +23,19 @@ Use the **tabs** at the top to choose how you want to explore the rules:
 Don't bother scraping the site! I have already parsed the data, serialized it to json, yaml, and markdown, and have it
 available in Github.
 
-##### Unified (Everything)
-
-These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
+**Unified:** These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
 
 - [data-md](https://github.com/SteelCompendium/data-md): Markdown
 - [data-md-dse](https://github.com/SteelCompendium/data-md-dse): Markdown for Draw Steel Elements Obsidian Plugin
 
-##### Rules
-
-These repos contain rules (Heroes book) data.
+**Rules:** These repos contain rules (Heroes book) data.
 
 - [data-rules-md](https://github.com/SteelCompendium/data-rules-md): Markdown
 - [data-rules-md-dse](https://github.com/SteelCompendium/data-rules-md-dse): Markdown for Draw Steel Elements Obsidian Plugin
 - [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml): Yaml
 - [data-rules-json](https://github.com/SteelCompendium/data-rules-json): Json
-- [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml): Xml
 
-##### Bestiary
+**Bestiary:** These repos contain rules (Monsters book) data.
 
 - [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md): Markdown
 - [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse): Markdown for Draw Steel Elements Obsidian Plugin

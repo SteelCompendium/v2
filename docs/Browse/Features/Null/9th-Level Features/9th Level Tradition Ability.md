@@ -88,11 +88,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** While [restrained](../../../../../Browse/Conditions/Restrained) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../../../Browse/Conditions/Restrained) this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained.md) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../../Browse/Conditions/Restrained.md) this way, any potency associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -122,8 +122,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed)
-> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed)
-> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed)
+> - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md)
+> - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md)
+> - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md)
 >
-> **Effect:** While [dazed](../../../../../Browse/Conditions/Dazed) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+> **Effect:** While [dazed](../../../../Browse/Conditions/Dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.

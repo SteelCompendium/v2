@@ -18,4 +18,4 @@ type: feature/subtrait/troubadour/5th-level-feature
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You can maintain two performances at a time using your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.

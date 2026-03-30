@@ -18,7 +18,7 @@ type: feature/subtrait/talent/1st-level-feature
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate), [Kinetic Grip](../../../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../../Browse/Abilities/Talent/1st-Level Features/Incinerate.md), [Kinetic Grip](../../../../../Browse/Abilities/Talent/1st-Level Features/Kinetic Grip.md).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -31,9 +31,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -50,11 +50,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../../../Browse/Conditions/Slowed) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../../../Browse/Conditions/Slowed) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
 >
-> **Strained:** You are [slowed](../../../../../../Browse/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](../../../../../../Browse/Conditions/Slowed) by this ability is [restrained](../../../../../../Browse/Conditions/Restrained) instead.
+> **Strained:** You are [slowed](../../../../../Browse/Conditions/Slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../../Browse/Conditions/Slowed.md) by this ability is [restrained](../../../../../Browse/Conditions/Restrained.md) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -88,9 +88,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; [prone](../../../../../../Browse/Conditions/Prone)
+> - **17+:** Slide 6 + R; [prone](../../../../../Browse/Conditions/Prone.md)
 >
-> **Strained:** You must [vertical](../../../../../../Browse/Movement/Vertical) push the target instead of sliding them.
+> **Strained:** You must [vertical](../../../../../Browse/Movement/Vertical.md) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse
@@ -107,7 +107,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../../../../Browse/Conditions/Bleeding) until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../../../Browse/Conditions/Bleeding.md) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -139,9 +139,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, [prone](../../../../../../Browse/Conditions/Prone)
-> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../../../../../Browse/Conditions/Prone)
-> - **17+:** 6 + R damage; M < STRONG, [prone](../../../../../../Browse/Conditions/Prone)
+> - **≤11:** 2 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
+> - **17+:** 6 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >

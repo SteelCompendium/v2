@@ -18,19 +18,19 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### 1st-Level Class Act Features
 
-Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
 | Class Act | Features                                                                                                                                                                                                                                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | Blocking, [Dramatic Monologue](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                                   |
-| Duelist   | [Acrobatics](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power) |
-| Virtuoso  | [Power Chord](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)         |
+| Auteur    | Blocking, [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Acrobatics.md), [Star Power](../../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Star Power.md) |
+| Virtuoso  | [Power Chord](../../../../Browse/Abilities/Troubadour/1st-Level Features/Power Chord.md), [Virtuoso Performances](../../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -41,11 +41,11 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../../Browse/Movement/Jump), tumble, or [climb](../../../../../Browse/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../Browse/Movement/Jump.md), tumble, or [climb](../../../../Browse/Movement/Climb or Swim.md) as part of their movement before the end of their turn.
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Blocking
@@ -56,7 +56,7 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../../Browse/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../../../Browse/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../Browse/Movement/Teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../../Browse/Movement/Teleport.md) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ##### Dramatic Monologue
 
@@ -117,7 +117,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Thunder Mother"

@@ -18,7 +18,7 @@ type: feature/trait/conduit/2nd-level-feature
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../../Browse/Classes/Conduit.md) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -84,7 +84,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a target you choose
+> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a target you choose
 > - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 > - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -116,9 +116,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 7 damage; A < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)
@@ -164,9 +164,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 1
-> - **12-16:** 5 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 2
-> - **17+:** 7 lightning damage; [vertical](../../../../../Browse/Movement/Vertical) slide 3
+> - **≤11:** 2 lightning damage; [vertical](../../../../Browse/Movement/Vertical.md) slide 1
+> - **12-16:** 5 lightning damage; [vertical](../../../../Browse/Movement/Vertical.md) slide 2
+> - **17+:** 7 lightning damage; [vertical](../../../../Browse/Movement/Vertical.md) slide 3
 
 <!-- -->
 > ###### Statue of Power (5 Piety)

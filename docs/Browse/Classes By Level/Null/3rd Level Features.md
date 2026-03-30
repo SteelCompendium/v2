@@ -14,11 +14,11 @@ type: class/null/level
 
 ### 3rd-Level Features
 
-As a 3rd-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As a 3rd-level [null](../../../Browse/Classes/Null.md), you gain the following features.
 
 #### Psionic Leap
 
-You can long [jump](../../../../Browse/Movement/Jump) and high [jump](../../../../Browse/Movement/Jump) a distance equal to twice your Agility score without needing to make a test.
+You can long [jump](../../../Browse/Movement/Jump.md) and high [jump](../../../Browse/Movement/Jump.md) a distance equal to twice your Agility score without needing to make a test.
 
 #### Reorder
 
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../../Browse/Conditions/Bleeding) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+> **Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 <!-- -->
 > ###### Stabilizing Field (7 Discipline)

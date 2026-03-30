@@ -18,25 +18,25 @@ type: feature/trait/shadow/2nd-level-feature
 
 #### 2nd-Level College Feature
 
-Your [shadow](../../../../../Browse/Classes/Shadow) college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
 | College         | Feature                                                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](../../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Black Ash       | [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md)           |
+| Caustic Alchemy | [Trained Assassin](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Trained Assassin.md) |
 | Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](../../../../../Browse/Classes/Shadow) ability to [teleport](../../../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](../../../../Browse/Classes/Shadow.md) ability to [teleport](../../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ##### Friend!
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as part of that ability.
+Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as part of that ability.
 
 ##### Trained Assassin
 

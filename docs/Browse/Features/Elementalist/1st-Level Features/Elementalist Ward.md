@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../../../../Browse/Features/Elementalist/1st-Level%20Features/Elementalist%20Ward/Ward%20of%20Surprising%20Reactivity).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* [Ward of Surprising Reactivity](../../../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward/Ward of Surprising Reactivity.md).)
 
 ##### Ward of Delightful Consequences
 

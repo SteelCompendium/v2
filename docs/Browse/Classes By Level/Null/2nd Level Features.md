@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As a 2nd-level [null](../../../Browse/Classes/Null.md), you gain the following features.
 
 #### Perk
 
@@ -28,17 +28,17 @@ Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Rapid Processing](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Rapid%20Processing)           |
-| Cryokinetic   | [Entropic Adaptability](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Entropic%20Adaptability) |
-| Metakinetic   | [Inertial Sink](../../../../Browse/Features/Null/2nd-Level%20Features/2nd-Level%20Tradition%20Feature/Inertial%20Sink)                 |
+| Chronokinetic | [Rapid Processing](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Rapid Processing.md)           |
+| Cryokinetic   | [Entropic Adaptability](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Entropic Adaptability.md) |
+| Metakinetic   | [Inertial Sink](../../../Browse/Features/Null/2nd-Level Features/2nd-Level Tradition Feature/Inertial Sink.md)                 |
 
 ##### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically [climb](../../../Browse/Movement/Climb or Swim.md) at full speed while moving.
 
 ##### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../Browse/Conditions/Grabbed).
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../Browse/Conditions/Grabbed.md).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
 
@@ -95,9 +95,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -125,9 +125,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical) pull 3
-> - **12-16:** 12 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical) pull 5
-> - **17+:** 16 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical) pull 7
+> - **≤11:** 8 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 3
+> - **12-16:** 12 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 5
+> - **17+:** 16 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 7
 
 <!-- -->
 > ###### Kinetic Shield (5 Discipline)
@@ -144,4 +144,4 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../Browse/Conditions/Bleeding) even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../Browse/Conditions/Bleeding.md) even while dying.

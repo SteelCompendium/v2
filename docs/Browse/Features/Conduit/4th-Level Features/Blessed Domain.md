@@ -18,4 +18,4 @@ type: feature/trait/conduit/4th-level-feature
 
 #### Blessed Domain
 
-Whenever you gain [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety) from a domain effect, you gain 1 additional [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+Whenever you gain [piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md) from a domain effect, you gain 1 additional [piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md).

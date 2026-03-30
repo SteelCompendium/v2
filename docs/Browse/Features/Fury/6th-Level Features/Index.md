@@ -9,12 +9,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [6th Level Aspect Ability](../6th%20Level%20Aspect%20Ability)
-    - [6th Level Berserker Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Berserker%20Abilities)
-    - [6th Level Reaver Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Reaver%20Abilities)
-    - [6th Level Stormwight Abilities](../6th-Level%20Aspect%20Ability/6th%20Level%20Stormwight%20Abilities)
-- [Perk](../Perk)
-- [Primordial Portal](../Primordial%20Portal)
+- [6th Level Aspect Ability](6th Level Aspect Ability.md)
+    - [6th Level Berserker Abilities](6th-Level Aspect Ability/6th Level Berserker Abilities.md)
+    - [6th Level Reaver Abilities](6th-Level Aspect Ability/6th Level Reaver Abilities.md)
+    - [6th Level Stormwight Abilities](6th-Level Aspect Ability/6th Level Stormwight Abilities.md)
+- [Perk](Perk.md)
+- [Primordial Portal](Primordial Portal.md)
 
 </div>
 
@@ -22,6 +22,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Marauder of the Primordial Chaos](../Marauder%20of%20the%20Primordial%20Chaos)
+- [Marauder of the Primordial Chaos](Marauder of the Primordial Chaos.md)
 
 </div>

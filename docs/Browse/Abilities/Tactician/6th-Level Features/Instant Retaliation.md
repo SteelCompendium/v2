@@ -40,6 +40,6 @@ type: feature/ability/tactician/6th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** A < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-- **12-16:** A < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-- **17+:** A < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+- **≤11:** A < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **12-16:** A < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **17+:** A < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)

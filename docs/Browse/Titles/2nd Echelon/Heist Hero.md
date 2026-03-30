@@ -17,7 +17,7 @@ type: title/2nd-echelon
 
 *Everybody know their assignments? All right, let's go.*
 
-**Prerequisite:** You have the [Troupe Leading Player](../../../../Browse/Titles/1st%20Echelon/Troupe%20Leading%20Player) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
+**Prerequisite:** You have the [Troupe Leading Player](../../../Browse/Titles/1st Echelon/Troupe Leading Player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:
 
@@ -34,6 +34,6 @@ type: title/2nd-echelon
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../../../../Browse/Abilities/Common/Maneuvers/Hide) from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) from, or sneak by the target and doesn't like the outcome.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.

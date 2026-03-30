@@ -50,9 +50,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
 
 <!-- -->
 > ###### Inspiring Strike (3 Focus)

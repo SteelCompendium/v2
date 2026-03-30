@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Scan](../Scan)
+- [Scan](Scan.md)
 
 </div>

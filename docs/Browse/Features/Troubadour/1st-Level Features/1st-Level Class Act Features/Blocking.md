@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Blocking
@@ -29,4 +29,4 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../../../Browse/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../../../../Browse/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../../Browse/Movement/Teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../../../Browse/Movement/Teleport.md) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.

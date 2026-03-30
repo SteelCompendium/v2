@@ -10,6 +10,14 @@ update push="true":
     (
         v2_dir="$(pwd)"
         cd "$dir"
+
+        # Extract data-md-linked version info and embed in mkdocs.yml copyright footer
+        data_sha="$(git rev-parse --short HEAD)"
+        data_date="$(git log -1 --format='%cs')"
+        data_version="<a href=\"https://github.com/SteelCompendium/data-md-linked/commit/${data_sha}\">${data_sha}</a> (${data_date})"
+        echo >&2 "[INFO] data-md-linked version: ${data_sha} (${data_date})"
+        sed -i "s|DATA_VERSION|${data_version}|g" "${v2_dir}/mkdocs.yml"
+
         echo >&2 "[INFO] Copying compendium markdown (data-md)..."
 
         # Copy all content into a temp staging area first
@@ -56,10 +64,12 @@ update push="true":
         # Adventures (skipped -- no adventures planned for release)
 
         # --- Fix index links ---
+        # Index files have bare sibling links like (Tactician). Append .md so MkDocs
+        # resolves them source-relative (no ../ hack needed for use_directory_urls).
         echo >&2 "[INFO] Fixing index links..."
         find "${v2_dir}/docs" -type f \( -name '_Index.md' -o -name 'Index.md' \) -print0 |
         while IFS= read -r -d '' f; do
-            sed -i -E 's|\]\((.+)\)|](../\1)|g' "$f"
+            sed -i -E 's|\]\(([^/)][^)]*)\)|](\1.md)|g' "$f"
             sed -i -E 's|File Name|File Name   |g' "$f"
             sed -i -E 's/^\| (\-+)/| \1---/g' "$f"
         done
@@ -71,8 +81,10 @@ update push="true":
             file_dir="$(dirname "$f")"
             rel_path="$(python3 -c "import os.path; print(os.path.relpath('${v2_dir}/docs', '${file_dir}'))")"
             sed -i -E "s|REL_PATH_PREFIXRules/Chapters|${rel_path}/Chapters|g" "$f"
-            sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/../Browse|g" "$f"
-            sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
+            sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/Browse|g" "$f"
+            sed -i -E 's|REL_PATH_SUFFIX|.md|g' "$f"
+            # Decode %20 in markdown links so MkDocs matches against source file paths
+            sed -i -E 's|%20| |g' "$f"
         done
 
     #        # Replace link placeholders with relative paths (works for both mkdocs serve and build).
@@ -141,6 +153,8 @@ update push="true":
 clean_docs:
     #!/usr/bin/env bash
     set -euo pipefail
+    # Reset data version placeholder in mkdocs.yml for idempotent re-runs
+    sed -i -E 's|Data: <a[^<]*</a> \([0-9]{4}-[0-9]{2}-[0-9]{2}\)|Data: DATA_VERSION|g' mkdocs.yml
     cd docs
     find . -maxdepth 1 -mindepth 1 \
       ! -name 'javascripts' \

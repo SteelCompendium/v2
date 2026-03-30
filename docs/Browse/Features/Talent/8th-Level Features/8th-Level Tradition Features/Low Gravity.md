@@ -18,4 +18,4 @@ type: feature/subtrait/talent/8th-level-feature
 
 ##### Low Gravity
 
-Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](../../../../../../Browse/Conditions/Prone).
+Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while [prone](../../../../../Browse/Conditions/Prone.md).

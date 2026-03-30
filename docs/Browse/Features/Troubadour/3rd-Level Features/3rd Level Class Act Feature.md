@@ -18,15 +18,15 @@ type: feature/trait/troubadour/3rd-level-feature
 
 #### 3rd-Level Class Act Feature
 
-Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
 | Class Act | Features                                                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Missed Cue](../../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue)     |
+| Auteur    | [Missed Cue](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md)     |
 | Duelist   | Foil                                                                                                                                          |
-| Virtuoso  | [Second Album](../../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Second%20Album) |
+| Virtuoso  | [Second Album](../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Second Album.md) |
 
 ##### Foil
 
@@ -38,7 +38,7 @@ If you aren't surprised at the start of an encounter, you can choose one enemy w
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
@@ -60,4 +60,4 @@ You have the following performance abilities, which are usable with your [Routin
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../../Browse/Conditions/Bleeding) until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../Browse/Conditions/Bleeding.md) until the end of their turn.

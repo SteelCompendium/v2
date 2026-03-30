@@ -7,8 +7,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [9th Level Domain Ability](../9th%20Level%20Domain%20Ability)
-- [Faiths Sword](../Faiths%20Sword)
-- [Ordained](../Ordained)
+- [9th Level Domain Ability](9th Level Domain Ability.md)
+- [Faiths Sword](Faiths Sword.md)
+- [Ordained](Ordained.md)
 
 </div>

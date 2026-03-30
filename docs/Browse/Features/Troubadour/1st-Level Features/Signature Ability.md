@@ -18,7 +18,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Witty%20Banter).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md).)
 
 <!-- -->
 > ###### Artful Flourish
@@ -50,9 +50,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Instigator
@@ -69,7 +69,7 @@ Choose one signature ability from the following options. Signature abilities can
 > - **12-16:** 6 + P damage
 > - **17+:** 9 + P damage
 >
-> **Effect:** The target is [taunted](../../../../../Browse/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+> **Effect:** The target is [taunted](../../../../Browse/Conditions/Taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 <!-- -->
 > ###### Witty Banter
@@ -126,9 +126,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 1; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** Slide 2; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** Slide 1; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** Slide 2; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -143,9 +143,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -162,9 +162,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Agility or Presence:**
 >
-> - **≤11:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < WEAK, [prone](../../../../../Browse/Conditions/Prone)
-> - **12-16:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
-> - **17+:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < STRONG, [prone](../../../../../Browse/Conditions/Prone) and can't stand (EoT)
+> - **≤11:** [Taunted](../../../../Browse/Conditions/Taunted.md) (EoT); A < WEAK, [prone](../../../../Browse/Conditions/Prone.md)
+> - **12-16:** [Taunted](../../../../Browse/Conditions/Taunted.md) (EoT); A < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md)
+> - **17+:** [Taunted](../../../../Browse/Conditions/Taunted.md) (EoT); A < STRONG, [prone](../../../../Browse/Conditions/Prone.md) and can't stand (EoT)
 
 ###### 5-Drama Ability
 
@@ -181,9 +181,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)
@@ -205,7 +205,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport) up to 5 squares. Any [teleported](../../../../../Browse/Movement/Teleport) target who was [slowed](../../../../../Browse/Conditions/Slowed) is no longer [slowed](../../../../../Browse/Conditions/Slowed).
+> **Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport.md) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport.md) target who was [slowed](../../../../Browse/Conditions/Slowed.md) is no longer [slowed](../../../../Browse/Conditions/Slowed.md).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -218,8 +218,8 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 14 + A damage; P < STRONG, [weakened](../../../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 14 + A damage; P < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
 >
-> **Effect:** You can become [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+> **Effect:** You can become [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.

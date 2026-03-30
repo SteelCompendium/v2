@@ -18,7 +18,7 @@ type: feature/subtrait/elementalist/1st-level-feature
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../../../Browse/Features/Elementalist/1st-Level%20Features/Essence).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md).
 
 ###### 3-Essence Ability
 
@@ -88,7 +88,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, [prone](../../../../../../Browse/Conditions/Prone)
+> - **17+:** 8 damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 

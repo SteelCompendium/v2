@@ -14,7 +14,7 @@ type: class/tactician/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [tactician](../../../../Browse/Classes/Tactician), you gain the following features.
+As a 2nd-level [tactician](../../../Browse/Classes/Tactician.md), you gain the following features.
 
 #### Perk
 
@@ -22,15 +22,15 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20Tactics) |
-| Mastermind | [Goaded](../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Goaded)                               |
-| Vanguard   | [Melee Superiority](../../../../Browse/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20Superiority)       |
+| Insurgent  | [Infiltration Tactics](../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Infiltration Tactics.md) |
+| Mastermind | [Goaded](../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Goaded.md)                               |
+| Vanguard   | [Melee Superiority](../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Melee Superiority.md)       |
 
 ##### Goaded
 
@@ -44,11 +44,11 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you can use a free triggered action and spend 2 focus to make a melee [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md), you can use a free triggered action and spend 2 focus to make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against that creature.
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 
@@ -63,9 +63,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ###### Try Me Instead (5 Focus)
@@ -80,9 +80,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
 
 ##### 2nd-Level Mastermind Ability
 
@@ -99,9 +99,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](../../../../Browse/Conditions/Taunted) (EoT)
-> - **12-16:** 9 + R damage; [taunted](../../../../Browse/Conditions/Taunted) (EoT)
-> - **17+:** 12 + R damage; [taunted](../../../../Browse/Conditions/Taunted) (EoT)
+> - **≤11:** 5 + R damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT)
+> - **12-16:** 9 + R damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT)
+> - **17+:** 12 + R damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -137,9 +137,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, the target is [frightened](../../../../Browse/Conditions/Frightened) of the triggering ally (save ends)
-> - **12-16:** R < AVERAGE, the target is [frightened](../../../../Browse/Conditions/Frightened) of the triggering ally (save ends)
-> - **17+:** R < STRONG, the target is [frightened](../../../../Browse/Conditions/Frightened) of the triggering ally (save ends)
+> - **≤11:** R < WEAK, the target is [frightened](../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](../../../Browse/Conditions/Frightened.md) of the triggering ally (save ends)
 
 <!-- -->
 > ###### Squad! On Me! (5 Focus)
@@ -150,4 +150,4 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 1 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Might score. Additionally, each target gains 2 surges.
+> **Effect:** Until the start of your next turn, each target has a bonus to [stability](../../../Browse/Movement/Stability.md) equal to your Might score. Additionally, each target gains 2 surges.

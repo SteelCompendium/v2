@@ -7,7 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Psionic Leap](../Psionic%20Leap)
-- [Reorder](../Reorder)
+- [Psionic Leap](Psionic Leap.md)
+- [Reorder](Reorder.md)
 
 </div>

@@ -22,7 +22,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../../Browse/Abilities/Censor/1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../../Browse/Abilities/Censor/1st-Level Features/Your Allies Cannot Save You.md)!)
 
 <!-- -->
 > ###### Back Blasphemer!
@@ -67,9 +67,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!
@@ -90,7 +90,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-You call upon a number of heroic abilities, all of them bound to your [wrath](../../../../../Browse/Features/Censor/1st-Level%20Features/Wrath).
+You call upon a number of heroic abilities, all of them bound to your [wrath](../../../../Browse/Features/Censor/1st-Level Features/Wrath.md).
 
 ###### 3-Wrath Ability
 
@@ -158,9 +158,9 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 11 + P holy damage; I < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 11 + P holy damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 
 ###### 5-Wrath Ability
 
@@ -177,11 +177,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 6 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
-> - **12-16:** 9 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
-> - **17+:** 13 + M holy damage; [grabbed](../../../../../Browse/Conditions/Grabbed)
+> - **≤11:** 6 + M holy damage; [grabbed](../../../../Browse/Conditions/Grabbed.md)
+> - **12-16:** 9 + M holy damage; [grabbed](../../../../Browse/Conditions/Grabbed.md)
+> - **17+:** 13 + M holy damage; [grabbed](../../../../Browse/Conditions/Grabbed.md)
 >
-> **Effect:** If the target makes a strike against a creature while [grabbed](../../../../../Browse/Conditions/Grabbed) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+> **Effect:** If the target makes a strike against a creature while [grabbed](../../../../Browse/Conditions/Grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 <!-- -->
 > ###### Behold the Face of Justice! (5 Wrath)
@@ -194,11 +194,11 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../../../../Browse/Conditions/Frightened) of you (save ends)
-> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../../../Browse/Conditions/Frightened) of you (save ends)
-> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../../../Browse/Conditions/Frightened) of you (save ends)
+> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../../../Browse/Conditions/Frightened.md) of you (save ends)
+> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../../Browse/Conditions/Frightened.md) of you (save ends)
+> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../../Browse/Conditions/Frightened.md) of you (save ends)
 >
-> **Effect:** Each enemy [frightened](../../../../../Browse/Conditions/Frightened) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+> **Effect:** Each enemy [frightened](../../../../Browse/Conditions/Frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 <!-- -->
 > ###### Censored (5 Wrath)

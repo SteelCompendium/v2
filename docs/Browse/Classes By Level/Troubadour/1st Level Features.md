@@ -14,47 +14,47 @@ type: class/troubadour/level
 
 ### 1st-Level Features
 
-As a 1st-level [troubadour](../../../../Browse/Classes/Troubadour), you gain the following features.
+As a 1st-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
 
 #### Troubadour Class Act
 
-Panache, melody, and depiction. Some [troubadours](../../../../Browse/Classes/Troubadour) have it all, but everyone starts somewhere. Your [troubadour](../../../../Browse/Classes/Troubadour) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../../../../Browse/Classes/Troubadour) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](../../../Browse/Classes/Troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](../../../Browse/Classes/Troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../../../Browse/Classes/Troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
-- **Duelist:** [Drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
+- **Duelist:** [Drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
-Your [troubadour](../../../../Browse/Classes/Troubadour) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour](../../../Browse/Classes/Troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 #### Drama
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
-Additionally, you gain [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) when certain events occur during a combat encounter:
+Additionally, you gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
-- The first time any hero is made winded during the encounter, you gain 2 [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
-- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
-- When you or another hero dies, you gain 10 [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama).
+- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- The first time any hero is made winded during the encounter, you gain 2 [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+- When you or another hero dies, you gain 10 [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
 
-When you are dead, you continue to gain [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) during future encounters.
+When you are dead, you continue to gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama outside of combat](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama/Drama%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [drama outside of combat](../../../Browse/Features/Troubadour/1st-Level Features/Drama/Drama Outside of Combat.md), you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Artful%20Flourish), you can use it as if you had spent an amount of [drama](../../../../Browse/Features/Troubadour/1st-Level%20Features/Drama) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../Browse/Abilities/Troubadour/1st-Level Features/Artful Flourish.md), you can use it as if you had spent an amount of [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) equal to your Victories.
 
 <!-- -->
-> **The Auteur [Troubadour](../../../../Browse/Classes/Troubadour)**
+> **The Auteur [Troubadour](../../../Browse/Classes/Troubadour.md)**
 >
-> Abilities like Guest Star, [Missed Cue](../../../../Browse/Features/Troubadour/3rd-Level%20Features/3rd-Level%20Class%20Act%20Feature/Missed%20Cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like Guest Star, [Missed Cue](../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
 > This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
@@ -64,7 +64,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](../../../../Browse/Kits/Swashbuckler).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](../../../Browse/Kits/Swashbuckler.md).)
 
 #### Scene Partner
 
@@ -74,9 +74,9 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 #### Routines
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../../../Browse/Conditions/Dazed), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../../Browse/Conditions/Dazed.md), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
-You start off with the [Choreography](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Choreography) and [Revitalizing Limerick](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Revitalizing%20Limerick) performance abilities. Your choice of class act grants you additional performances.
+You start off with the [Choreography](../../../Browse/Abilities/Troubadour/1st-Level Features/Choreography.md) and [Revitalizing Limerick](../../../Browse/Abilities/Troubadour/1st-Level Features/Revitalizing Limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
 <!-- -->
 > ###### Choreography
@@ -102,19 +102,19 @@ You start off with the [Choreography](../../../../Browse/Abilities/Troubadour/1s
 
 #### 1st-Level Class Act Features
 
-Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
 | Class Act | Features                                                                                                                                                                                                                                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | Blocking, [Dramatic Monologue](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Dramatic%20Monologue)                                                                                                                                                   |
-| Duelist   | [Acrobatics](../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Acrobatics), [Star Power](../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Star%20Power) |
-| Virtuoso  | [Power Chord](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Power%20Chord), [Virtuoso Performances](../../../../Browse/Features/Troubadour/1st-Level%20Features/1st-Level%20Class%20Act%20Features/Virtuoso%20Performances)         |
+| Auteur    | Blocking, [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md)                                                                                                                                                   |
+| Duelist   | [Acrobatics](../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Acrobatics.md), [Star Power](../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Star Power.md) |
+| Virtuoso  | [Power Chord](../../../Browse/Abilities/Troubadour/1st-Level Features/Power Chord.md), [Virtuoso Performances](../../../Browse/Features/Troubadour/1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md)         |
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -125,11 +125,11 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../Browse/Movement/Jump), tumble, or [climb](../../../../Browse/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../Browse/Movement/Jump.md), tumble, or [climb](../../../Browse/Movement/Climb or Swim.md) as part of their movement before the end of their turn.
 
 ##### Blocking
 
-You have the following performance ability, which is usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### Blocking
@@ -140,7 +140,7 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | -------------------------------: |
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../Browse/Movement/Teleport) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../../Browse/Movement/Teleport) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../Browse/Movement/Teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleported](../../../Browse/Movement/Teleport.md) in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ##### Dramatic Monologue
 
@@ -201,7 +201,7 @@ You have the following ability.
 
 ##### Virtuoso Performances
 
-You have the following performance abilities, which are usable with your [Routines](../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Thunder Mother"
@@ -233,14 +233,14 @@ You have the following performance abilities, which are usable with your [Routin
 
 #### Class Act Triggered Action
 
-Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../../Browse/Features/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20Action) table.
+Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](../../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md) table.
 
 ###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Auteur    | [Turnabout Is Fair Play](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20Play) |
-| Duelist   | [Riposte](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Riposte)                                     |
+| Auteur    | [Turnabout Is Fair Play](../../../Browse/Abilities/Troubadour/1st-Level Features/Turnabout Is Fair Play.md) |
+| Duelist   | [Riposte](../../../Browse/Abilities/Troubadour/1st-Level Features/Riposte.md)                                     |
 | Virtuoso  | Harmonize                                                                                                                            |
 
 <!-- -->
@@ -269,7 +269,7 @@ Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants you a 
 >
 > **Trigger:** The target takes damage from a melee strike.
 >
-> **Effect:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the creature who made the triggering strike.
+> **Effect:** The target makes a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the creature who made the triggering strike.
 
 <!-- -->
 > ###### Turnabout Is Fair Play
@@ -292,7 +292,7 @@ Your performance centers around maneuvering through the scene of battle, maintai
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../../Browse/Abilities/Troubadour/1st-Level%20Features/Witty%20Banter).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../Browse/Abilities/Troubadour/1st-Level Features/Witty Banter.md).)
 
 <!-- -->
 > ###### Artful Flourish
@@ -324,9 +324,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Instigator
@@ -343,7 +343,7 @@ Choose one signature ability from the following options. Signature abilities can
 > - **12-16:** 6 + P damage
 > - **17+:** 9 + P damage
 >
-> **Effect:** The target is [taunted](../../../../Browse/Conditions/Taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+> **Effect:** The target is [taunted](../../../Browse/Conditions/Taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 <!-- -->
 > ###### Witty Banter
@@ -400,9 +400,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** Slide 1; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** Slide 2; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** Slide 1; I < WEAK, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** Slide 1; I < AVERAGE, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** Slide 2; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -417,9 +417,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 damage; P < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 6 damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 4 damage; P < WEAK, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 damage; P < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 6 damage; P < STRONG, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
 >
 > **Effect:** The area is difficult terrain for enemies.
 
@@ -436,9 +436,9 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 >
 > **Power Roll + Agility or Presence:**
 >
-> - **≤11:** [Taunted](../../../../Browse/Conditions/Taunted) (EoT); A < WEAK, [prone](../../../../Browse/Conditions/Prone)
-> - **12-16:** [Taunted](../../../../Browse/Conditions/Taunted) (EoT); A < AVERAGE, [prone](../../../../Browse/Conditions/Prone)
-> - **17+:** [Taunted](../../../../Browse/Conditions/Taunted) (EoT); A < STRONG, [prone](../../../../Browse/Conditions/Prone) and can't stand (EoT)
+> - **≤11:** [Taunted](../../../Browse/Conditions/Taunted.md) (EoT); A < WEAK, [prone](../../../Browse/Conditions/Prone.md)
+> - **12-16:** [Taunted](../../../Browse/Conditions/Taunted.md) (EoT); A < AVERAGE, [prone](../../../Browse/Conditions/Prone.md)
+> - **17+:** [Taunted](../../../Browse/Conditions/Taunted.md) (EoT); A < STRONG, [prone](../../../Browse/Conditions/Prone.md) and can't stand (EoT)
 
 ###### 5-Drama Ability
 
@@ -455,9 +455,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** The target can shift 1 square and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
-> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge.
-> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge, then can spend a Recovery.
+> - **≤11:** The target can shift 1 square and make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> - **12-16:** The target can shift up to 2 squares and make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge.
+> - **17+:** The target can shift up to 3 squares and make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge, then can spend a Recovery.
 
 <!-- -->
 > ###### Fake Your Death (5 Drama)
@@ -479,7 +479,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 > | --------------- | ------------------------------------: |
 > | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../../Browse/Movement/Teleport) up to 5 squares. Any [teleported](../../../../Browse/Movement/Teleport) target who was [slowed](../../../../Browse/Conditions/Slowed) is no longer [slowed](../../../../Browse/Conditions/Slowed).
+> **Effect:** Each target can [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares. Any [teleported](../../../Browse/Movement/Teleport.md) target who was [slowed](../../../Browse/Conditions/Slowed.md) is no longer [slowed](../../../Browse/Conditions/Slowed.md).
 
 <!-- -->
 > ###### Method Acting (5 Drama)
@@ -492,8 +492,8 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 14 + A damage; P < STRONG, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 6 + A damage; P < WEAK, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 14 + A damage; P < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
 >
-> **Effect:** You can become [bleeding](../../../../Browse/Conditions/Bleeding) (save ends) to deal an extra 5 corruption damage to the target.
+> **Effect:** You can become [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.

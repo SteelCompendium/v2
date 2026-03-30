@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 4th-Level Features
 
-As a 4th-level [talent](../../../../Browse/Classes/Talent), you gain the following features.
+As a 4th-level [talent](../../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -22,7 +22,7 @@ Your Reason and Presence scores each increase to 3.
 
 #### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../../../Browse/Conditions/Prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../../Browse/Conditions/Prone.md), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -42,6 +42,6 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### Suspensor Field
 
-You can [fly](../../../../Browse/Movement/Fly). While [flying](../../../../Browse/Movement/Fly), your [stability](../../../../Browse/Movement/Stability) is reduced to 0 and can't be increased. If you can already [fly](../../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../../Browse/Movement/Fly) instead.
+You can [fly](../../../Browse/Movement/Fly.md). While [flying](../../../Browse/Movement/Fly.md), your [stability](../../../Browse/Movement/Stability.md) is reduced to 0 and can't be increased. If you can already [fly](../../../Browse/Movement/Fly.md), you have a +2 bonus to speed while [flying](../../../Browse/Movement/Fly.md) instead.
 
-If you are strained while [flying](../../../../Browse/Movement/Fly) and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](../../../Browse/Movement/Fly.md) and are force moved, the forced movement distance gains a +2 bonus.

@@ -18,7 +18,7 @@ type: feature/trait/tactician/9th-level-feature
 
 #### 9th-Level Doctrine Ability
 
-Your [tactical doctrine](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactical%20Doctrine) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Insurgent Abilities
 
@@ -48,9 +48,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** R < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** R < STRONG, [dazed](../../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** R < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** R < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 
 ##### 9th-Level Mastermind Abilities
 
@@ -65,7 +65,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can make a ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). A target ignores banes and double banes when making this strike.
+> **Effect:** Each target can make a ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md). A target ignores banes and double banes when making this strike.
 
 <!-- -->
 > ###### Counterstrategy (11 Focus)
@@ -87,7 +87,7 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **[Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |     **Main action** |
+> | **[Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 > | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
@@ -99,7 +99,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the [Charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../../Browse/Abilities/Common/Main%20Actions/Charge).
+> **Effect:** If you use this ability as part of the [Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md).
 
 <!-- -->
 > ###### That One Is Mine! (11 Focus)
@@ -118,4 +118,4 @@ Choose one of the following abilities.
 > - **12-16:** 13 + M damage
 > - **17+:** 17 + M damage
 >
-> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against any target marked by you.
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against any target marked by you.

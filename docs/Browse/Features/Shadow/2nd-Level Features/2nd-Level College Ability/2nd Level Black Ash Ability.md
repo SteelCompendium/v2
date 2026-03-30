@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can [teleport](../../../../../../Browse/Movement/Teleport) the target 1 square
-> - **12-16:** 10 + A damage; you can [teleport](../../../../../../Browse/Movement/Teleport) the target up to 3 squares
-> - **17+:** 14 + A damage; you can [teleport](../../../../../../Browse/Movement/Teleport) the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](../../../../../Browse/Movement/Teleport.md) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -44,6 +44,6 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability.
+> **Trigger:** You use your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability. Before you [teleport](../../../../../../Browse/Movement/Teleport), you can make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger [In All This Confusion](../../../../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion). After you [teleport](../../../../../../Browse/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md) ability. Before you [teleport](../../../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md). After you [teleport](../../../../../Browse/Movement/Teleport.md), you can spend a Recovery.

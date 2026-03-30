@@ -9,12 +9,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Area of Expertise](../Crafting%20Perks/Area%20of%20Expertise)
-- [Expert Artisan](../Crafting%20Perks/Expert%20Artisan)
-- [Handy](../Crafting%20Perks/Handy)
-- [Improvisation Creation](../Crafting%20Perks/Improvisation%20Creation)
-- [Inspired Artisan](../Crafting%20Perks/Inspired%20Artisan)
-- [Traveling Artisan](../Crafting%20Perks/Traveling%20Artisan)
+- [Area of Expertise](Crafting Perks/Area of Expertise.md)
+- [Expert Artisan](Crafting Perks/Expert Artisan.md)
+- [Handy](Crafting Perks/Handy.md)
+- [Improvisation Creation](Crafting Perks/Improvisation Creation.md)
+- [Inspired Artisan](Crafting Perks/Inspired Artisan.md)
+- [Traveling Artisan](Crafting Perks/Traveling Artisan.md)
 
 </div>
 
@@ -22,16 +22,16 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Brawny](../Exploration%20Perks/Brawny)
-- [Camouflage Hunter](../Exploration%20Perks/Camouflage%20Hunter)
-- [Danger Sense](../Exploration%20Perks/Danger%20Sense)
-- [Friend Catapult](../Exploration%20Perks/Friend%20Catapult)
-- [Ive Got You](../Exploration%20Perks/Ive%20Got%20You)
-- [Monster Whisperer](../Exploration%20Perks/Monster%20Whisperer)
-- [Put Your Back Into It](../Exploration%20Perks/Put%20Your%20Back%20Into%20It)
-- [Team Leader](../Exploration%20Perks/Team%20Leader)
-- [Teamwork](../Exploration%20Perks/Teamwork)
-- [Wood Wise](../Exploration%20Perks/Wood%20Wise)
+- [Brawny](Exploration Perks/Brawny.md)
+- [Camouflage Hunter](Exploration Perks/Camouflage Hunter.md)
+- [Danger Sense](Exploration Perks/Danger Sense.md)
+- [Friend Catapult](Exploration Perks/Friend Catapult.md)
+- [Ive Got You](Exploration Perks/Ive Got You.md)
+- [Monster Whisperer](Exploration Perks/Monster Whisperer.md)
+- [Put Your Back Into It](Exploration Perks/Put Your Back Into It.md)
+- [Team Leader](Exploration Perks/Team Leader.md)
+- [Teamwork](Exploration Perks/Teamwork.md)
+- [Wood Wise](Exploration Perks/Wood Wise.md)
 
 </div>
 
@@ -39,16 +39,16 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Charming Liar](../Interpersonal%20Perks/Charming%20Liar)
-- [Dazzler](../Interpersonal%20Perks/Dazzler)
-- [Engrossing Monologue](../Interpersonal%20Perks/Engrossing%20Monologue)
-- [Harmonizer](../Interpersonal%20Perks/Harmonizer)
-- [Lie Detector](../Interpersonal%20Perks/Lie%20Detector)
-- [Open Book](../Interpersonal%20Perks/Open%20Book)
-- [Pardon My Friend](../Interpersonal%20Perks/Pardon%20My%20Friend)
-- [Power Player](../Interpersonal%20Perks/Power%20Player)
-- [So Tell Me](../Interpersonal%20Perks/So%20Tell%20Me)
-- [Spot the Tell](../Interpersonal%20Perks/Spot%20the%20Tell)
+- [Charming Liar](Interpersonal Perks/Charming Liar.md)
+- [Dazzler](Interpersonal Perks/Dazzler.md)
+- [Engrossing Monologue](Interpersonal Perks/Engrossing Monologue.md)
+- [Harmonizer](Interpersonal Perks/Harmonizer.md)
+- [Lie Detector](Interpersonal Perks/Lie Detector.md)
+- [Open Book](Interpersonal Perks/Open Book.md)
+- [Pardon My Friend](Interpersonal Perks/Pardon My Friend.md)
+- [Power Player](Interpersonal Perks/Power Player.md)
+- [So Tell Me](Interpersonal Perks/So Tell Me.md)
+- [Spot the Tell](Interpersonal Perks/Spot the Tell.md)
 
 </div>
 
@@ -56,12 +56,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Criminal Contacts](../Intrigue%20Perks/Criminal%20Contacts)
-- [Forgettable Face](../Intrigue%20Perks/Forgettable%20Face)
-- [Gum Up the Works](../Intrigue%20Perks/Gum%20Up%20the%20Works)
-- [Lucky Dog](../Intrigue%20Perks/Lucky%20Dog)
-- [Master of Disguise](../Intrigue%20Perks/Master%20of%20Disguise)
-- [Slipped Lead](../Intrigue%20Perks/Slipped%20Lead)
+- [Criminal Contacts](Intrigue Perks/Criminal Contacts.md)
+- [Forgettable Face](Intrigue Perks/Forgettable Face.md)
+- [Gum Up the Works](Intrigue Perks/Gum Up the Works.md)
+- [Lucky Dog](Intrigue Perks/Lucky Dog.md)
+- [Master of Disguise](Intrigue Perks/Master of Disguise.md)
+- [Slipped Lead](Intrigue Perks/Slipped Lead.md)
 
 </div>
 
@@ -69,14 +69,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [But I Know Who Does](../Lore%20Perks/But%20I%20Know%20Who%20Does)
-- [Eidetic Memory](../Lore%20Perks/Eidetic%20Memory)
-- [Expert Sage](../Lore%20Perks/Expert%20Sage)
-- [Ive Read About This Place](../Lore%20Perks/Ive%20Read%20About%20This%20Place)
-- [Linguist](../Lore%20Perks/Linguist)
-- [Polymath](../Lore%20Perks/Polymath)
-- [Specialist](../Lore%20Perks/Specialist)
-- [Traveling Sage](../Lore%20Perks/Traveling%20Sage)
+- [But I Know Who Does](Lore Perks/But I Know Who Does.md)
+- [Eidetic Memory](Lore Perks/Eidetic Memory.md)
+- [Expert Sage](Lore Perks/Expert Sage.md)
+- [Ive Read About This Place](Lore Perks/Ive Read About This Place.md)
+- [Linguist](Lore Perks/Linguist.md)
+- [Polymath](Lore Perks/Polymath.md)
+- [Specialist](Lore Perks/Specialist.md)
+- [Traveling Sage](Lore Perks/Traveling Sage.md)
 
 </div>
 
@@ -84,12 +84,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Arcane Trick](../Supernatural%20Perks/Arcane%20Trick)
-- [Creature Sense](../Supernatural%20Perks/Creature%20Sense)
-- [Familiar](../Supernatural%20Perks/Familiar)
-- [Invisible Force](../Supernatural%20Perks/Invisible%20Force)
-- [Psychic Whisper](../Supernatural%20Perks/Psychic%20Whisper)
-- [Ritualist](../Supernatural%20Perks/Ritualist)
-- [Thingspeaker](../Supernatural%20Perks/Thingspeaker)
+- [Arcane Trick](Supernatural Perks/Arcane Trick.md)
+- [Creature Sense](Supernatural Perks/Creature Sense.md)
+- [Familiar](Supernatural Perks/Familiar.md)
+- [Invisible Force](Supernatural Perks/Invisible Force.md)
+- [Psychic Whisper](Supernatural Perks/Psychic Whisper.md)
+- [Ritualist](Supernatural Perks/Ritualist.md)
+- [Thingspeaker](Supernatural Perks/Thingspeaker.md)
 
 </div>

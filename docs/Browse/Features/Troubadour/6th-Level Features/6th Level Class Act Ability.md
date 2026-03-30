@@ -18,7 +18,7 @@ type: feature/trait/troubadour/6th-level-feature
 
 #### 6th-Level Class Act Ability
 
-Your [troubadour](../../../../../Browse/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -35,9 +35,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) bonus, and [stability](../../../../../Browse/Movement/Stability) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) bonus, and [stability](../../../../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ##### 6th-Level Duelist Abilities
 
@@ -65,9 +65,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 24 + A damage; [bleeding](../../../../../Browse/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 24 + A damage; [bleeding](../../../../Browse/Conditions/Bleeding.md) (EoT), or if M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -78,7 +78,7 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets and which enemies the target creature's [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets. You then slide the target 5 squares, ignoring [stability](../../../../../Browse/Movement/Stability).
+> **Effect:** You and the target each make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) targets and which enemies the target creature's [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../../Browse/Movement/Stability.md).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -93,13 +93,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](../../../../../Browse/Conditions/Prone) target ignores this ability.
+> **Effect:** A [prone](../../../../Browse/Conditions/Prone.md) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](../../../../../Browse/Conditions/Prone)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](../../../../../Browse/Conditions/Prone)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](../../../../Browse/Conditions/Prone.md)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](../../../../Browse/Conditions/Prone.md)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](../../../../Browse/Conditions/Prone.md)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)

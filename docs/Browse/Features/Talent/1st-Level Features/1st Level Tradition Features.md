@@ -18,15 +18,15 @@ type: feature/trait/talent/1st-level-feature
 
 #### 1st-Level Tradition Features
 
-Your [talent](../../../../../Browse/Classes/Talent) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](../../../../Browse/Classes/Talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../../../../Browse/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/Accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Minor%20Telekinesis), [Repel](../../../../../Browse/Features/Talent/1st-Level%20Features/Repel)                    |
-| Telepathy   | [Feedback Loop](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Feedback%20Loop), [Remote Assistance](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Remote%20Assistance) |
+| Chronopathy | [Accelerate](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md), [Repel](../../../../Browse/Features/Talent/1st-Level Features/Repel.md)                    |
+| Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md) |
 
 ##### Accelerate
 
@@ -96,7 +96,7 @@ You have the following ability.
 >
 > **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 >
-> **Spend 3 Clarity:** You can [vertical](../../../../../Browse/Movement/Vertical) slide the target.
+> **Spend 3 Clarity:** You can [vertical](../../../../Browse/Movement/Vertical.md) slide the target.
 
 ##### Remote Assistance
 

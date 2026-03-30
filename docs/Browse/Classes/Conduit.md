@@ -16,7 +16,7 @@ type: class
 
 The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a [conduit](../../../Browse/Classes/Conduit), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](../../Browse/Classes/Conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
 <!-- -->
 > "The gods judge our actions, and our inaction."
@@ -50,20 +50,20 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Abilities                     | Domain Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | [Deity and Domains](../../../Browse/Features/Conduit/1st-Level%20Features/Deity%20and%20Domains), [Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), Domain Feature, [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), [Ray of Wrath](../../../Browse/Abilities/Conduit/1st-Level%20Features/Ray%20of%20Wrath), Triggered Action, [Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer), Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
-| 2nd   | [The Lists of Heaven](../../../Browse/Features/Conduit/2nd-Level%20Features/The%20Lists%20of%20Heaven), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5           | 5                |
-| 3rd   | [Minor Miracle](../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7        | 5                |
-| 4th   | [Blessed Domains](../../../Browse/Features/Conduit/4th-Level%20Features/Blessed%20Domain), [Characteristic Increase](../../../Browse/Features/Conduit/4th-Level%20Features/Characteristic%20Increase), Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                |
+| 1st   | [Deity and Domains](../../Browse/Features/Conduit/1st-Level Features/Deity and Domains.md), [Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), Domain Feature, [Healing Grace](../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md), [Ray of Wrath](../../Browse/Abilities/Conduit/1st-Level Features/Ray of Wrath.md), Triggered Action, [Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md), Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
+| 2nd   | [The Lists of Heaven](../../Browse/Features/Conduit/2nd-Level Features/The Lists of Heaven.md), Perk, Domain Feature, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5           | 5                |
+| 3rd   | [Minor Miracle](../../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md), 7-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7        | 5                |
+| 4th   | [Blessed Domains](../../Browse/Features/Conduit/4th-Level Features/Blessed Domain.md), [Characteristic Increase](../../Browse/Features/Conduit/4th-Level Features/Characteristic Increase.md), Domain Feature, Perk, Skill Increase                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                |
 | 5th   | Domain Feature, 9-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | [Burgeoning Saint](../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | [Characteristic Increase](../../../Browse/Features/Conduit/7th-Level%20Features/Characteristic%20Increase), Domain Feature, [Faithful's Reward](../../../Browse/Features/Conduit/7th-Level%20Features/Faithfuls%20Reward), Skill Increase                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 6th   | [Burgeoning Saint](../../Browse/Features/Conduit/6th-Level Features/Burgeoning Saint.md), Perk, Domain Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | [Characteristic Increase](../../Browse/Features/Conduit/7th-Level Features/Characteristic Increase.md), Domain Feature, [Faithful's Reward](../../Browse/Features/Conduit/7th-Level Features/Faithfuls Reward.md), Skill Increase                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
 | 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, [Faith's Sword](../../../Browse/Features/Conduit/9th-Level%20Features/Faiths%20Sword), [Ordained](../../../Browse/Features/Conduit/9th-Level%20Features/Ordained)                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | [Avatar](../../../Browse/Features/Conduit/10th-Level%20Features/Avatar), [Characteristic Increase](../../../Browse/Features/Conduit/10th-Level%20Features/Characteristic%20Increase), [Divine Power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power), [Most Pious](../../../Browse/Features/Conduit/10th-Level%20Features/Most%20Pious), Perk, Skill Increase                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 9th   | Domain Ability, [Faith's Sword](../../Browse/Features/Conduit/9th-Level Features/Faiths Sword.md), [Ordained](../../Browse/Features/Conduit/9th-Level Features/Ordained.md)                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | [Avatar](../../Browse/Features/Conduit/10th-Level Features/Avatar.md), [Characteristic Increase](../../Browse/Features/Conduit/10th-Level Features/Characteristic Increase.md), [Divine Power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md), [Most Pious](../../Browse/Features/Conduit/10th-Level Features/Most Pious.md), Perk, Skill Increase                                                                                                                                    | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ### 1st-Level Features
 
-As a [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Deity and Domains
 
@@ -73,112 +73,112 @@ After choosing your deity, pick two domains from their portfolio. The two domain
 
 #### Piety
 
-Your deity grants you a Heroic Resource called [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), letting you heal and empower your allies, and unleash holy power upon your foes.
+Your deity grants you a Heroic Resource called [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+- If the roll is a 2, you gain 1 additional [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
 You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level%20Features/Piety/Piety%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md), you can use it as if you had spent an amount of [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories.
 
 ##### Domain Piety and Effects
 
-Your choice of domains provides you with two additional ways to earn [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) from both your domains.
+Your choice of domains provides you with two additional ways to earn [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) from both your domains.
 
-Additionally, whenever you activate a domain effect by praying for [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), you can choose one of your domains and have that domain's prayer effect take effect immediately.
+Additionally, whenever you activate a domain effect by praying for [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
 ###### Creation Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
 ###### Death Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
 ###### Fate Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../../../Browse/Conditions/Prone). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../../Browse/Conditions/Prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) maneuver or an ability that targets an ally.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver or an ability that targets an ally.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) or [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../Browse/Classes/Conduit) level.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid Attack.md) or [Hide](../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../Browse/Classes/Conduit.md) level.
 
 ###### War Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **[Piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **[Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                     | Skill Group   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker)                                                   | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level%20Features/Grave%20Speech)                                                                   | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Oracular%20Visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Revitalizing%20Ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend)                                                             | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Blessing%20of%20Fortunate%20Weather) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inner%20Light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Inspired%20Deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon)                             | Exploration   |
+| Creation   | [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md)                                                   | Crafting      |
+| Death      | [Grave Speech](../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md)                                                                   | Lore          |
+| Fate       | [Oracular Visions](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)           | Lore          |
+| Life       | [Revitalizing Ritual](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md)                                                             | Exploration   |
+| Protection | [Protective Circle](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) | Exploration   |
+| Sun        | [Inner Light](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -217,7 +217,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../../Browse/Movement/Fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../Browse/Movement/Fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -263,7 +263,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Conduit/1st-Level%20Features/1st-Level%20Domain%20Feature/Protective%20Circle), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -292,12 +292,12 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A [prone](../../../Browse/Conditions/Prone) target can stand up.
+> - A [prone](../../Browse/Conditions/Prone.md) target can stand up.
 > - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You have the following ability, which can be used as a ranged [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 
 <!-- -->
 > ###### Ray of Wrath
@@ -318,7 +318,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../Browse/Abilities/Conduit/1st-Level%20Features/Word%20of%20Guidance).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md).)
 
 <!-- -->
 > ###### Word of Guidance
@@ -352,7 +352,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20Distance).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md).)
 
 ##### Prayer of Destruction
 
@@ -364,21 +364,21 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ##### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
 
 ##### Prayer of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability).
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/Movement/Stability.md).
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Features/Conduit/1st-Level%20Features/Conduit%20Ward/Bastion%20Ward).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md).)
 
 ##### Bastion Ward
 
@@ -402,7 +402,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../Browse/Abilities/Conduit/1st-Level%20Features/Blessed%20Light), [Staggering Curse](../../../Browse/Abilities/Conduit/1st-Level%20Features/Staggering%20Curse).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md), [Staggering Curse](../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md).)
 
 <!-- -->
 > ###### Blessed Light
@@ -449,9 +449,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 2
-> - **12-16:** 5 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 3
-> - **17+:** 8 + I holy damage; [vertical](../../../Browse/Movement/Vertical) pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../Browse/Movement/Vertical.md) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../Browse/Movement/Vertical.md) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../Browse/Movement/Vertical.md) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -468,7 +468,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can [teleport](../../../Browse/Movement/Teleport) yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -557,7 +557,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../Browse/Movement/Stability.md).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)
@@ -581,9 +581,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../Browse/Conditions/Prone)
-> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone)
-> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../Browse/Conditions/Prone.md)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone.md)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -632,9 +632,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -662,11 +662,11 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../Browse/Conditions/Prone).
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../Browse/Conditions/Prone.md).
 
 ### 2nd-Level Features
 
-As a 2nd-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 2nd-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### The Lists of Heaven
 
@@ -682,7 +682,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 #### 2nd-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../Browse/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Abilities table.
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
@@ -748,7 +748,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a target you choose
+> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md) against a target you choose
 > - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 > - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -780,9 +780,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 7 damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 7 damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
 
 <!-- -->
 > ###### Our Hearts Your Strength (5 Piety)
@@ -828,9 +828,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 2 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 1
-> - **12-16:** 5 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 2
-> - **17+:** 7 lightning damage; [vertical](../../../Browse/Movement/Vertical) slide 3
+> - **≤11:** 2 lightning damage; [vertical](../../Browse/Movement/Vertical.md) slide 1
+> - **12-16:** 5 lightning damage; [vertical](../../Browse/Movement/Vertical.md) slide 2
+> - **17+:** 7 lightning damage; [vertical](../../Browse/Movement/Vertical.md) slide 3
 
 <!-- -->
 > ###### Statue of Power (5 Piety)
@@ -856,7 +856,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ### 3rd-Level Features
 
-As a 3rd-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 3rd-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Minor Miracle
 
@@ -879,11 +879,11 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 13 psychic damage; I < STRONG, [frightened](../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 6 psychic damage; I < WEAK, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 13 psychic damage; I < STRONG, [frightened](../../Browse/Conditions/Frightened.md) (save ends)
 >
-> **Effect:** Each target is [frightened](../../../Browse/Conditions/Frightened) of you or a creature you choose within distance.
+> **Effect:** Each target is [frightened](../../Browse/Conditions/Frightened.md) of you or a creature you choose within distance.
 
 <!-- -->
 > ###### Saint's Raiment (7 Piety)
@@ -932,11 +932,11 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 ### 4th-Level Features
 
-As a 4th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 4th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) from a domain effect, you gain 1 additional [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+Whenever you gain [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) from a domain effect, you gain 1 additional [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Characteristic Increase
 
@@ -952,28 +952,28 @@ You gain one skill of your choice. See Skills in Chapter 9: Tests.
 
 #### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](../../../Browse/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
-| Death      | [Seance](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
-| Fate       | [Oracular Warning](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
-| Knowledge  | [Saint's Epiphany](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
-| Life       | [Blessing of Life](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
-| Love       | [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
-| Nature     | [Wode Road](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
-| Protection | [Impervious Touch](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
-| Storm      | [Windwalk](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
-| Sun        | [Light of Revelation](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
-| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                                |
-| War        | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
+| Creation   | [Improved Hands of the Maker](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md) |
+| Death      | [Seance](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md)                                                   |
+| Fate       | [Oracular Warning](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md)                             |
+| Knowledge  | [Saint's Epiphany](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md)                              |
+| Life       | [Blessing of Life](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md)                           |
+| Love       | [Invocation of the Heart](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md)           |
+| Nature     | [Wode Road](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md)                                           |
+| Protection | [Impervious Touch](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md)                             |
+| Storm      | [Windwalk](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md)                                               |
+| Sun        | [Light of Revelation](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md)                     |
+| Trickery   | [Blessing of Secrets](../../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md)                                                |
+| War        | [Improved Sanctified Weapon](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md)       |
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
 
 ###### Blessing of Secrets
 
@@ -998,11 +998,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ###### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -1010,7 +1010,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ###### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../Browse/Abilities/Common/Maneuvers/Hide.md). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ###### Oracular Warning
 
@@ -1026,15 +1026,15 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can [fly](../../../Browse/Movement/Fly). If you can already [fly](../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../Browse/Movement/Fly) instead.
+While you have 5 or more Victories, you can [fly](../../Browse/Movement/Fly.md). If you can already [fly](../../Browse/Movement/Fly.md), you have a +2 bonus to speed while [flying](../../Browse/Movement/Fly.md) instead.
 
 ###### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../Browse/Movement/Teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### 5th-Level Features
 
-As a 5th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 5th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### 5th-Level Domain Feature
 
@@ -1072,9 +1072,9 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 4 corruption damage; I < WEAK, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
-> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 11 corruption damage; I < STRONG, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 4 corruption damage; I < WEAK, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **12-16:** 7 corruption damage; I < AVERAGE, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **17+:** 11 corruption damage; I < STRONG, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 <!-- -->
 > ###### Sanctuary (9 Piety)
@@ -1100,7 +1100,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 ### 6th-Level Features
 
-As a 6th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 6th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Burgeoning Saint
 
@@ -1117,7 +1117,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 #### 6th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](../../../Browse/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Abilities table.
 
 ###### 6th-Level Conduit Domain Abilities Table
 
@@ -1145,7 +1145,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | -------------------------------: |
 > | **📏 4 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../Browse/Movement/Stability) for your allies.
+> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../Browse/Movement/Stability.md) for your allies.
 
 <!-- -->
 > ###### Blade of the Heavens (9 Piety)
@@ -1158,9 +1158,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, [prone](../../../Browse/Conditions/Prone) and [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone) and [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 16 + I damage; A < STRONG, [prone](../../../Browse/Conditions/Prone) and [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](../../Browse/Conditions/Prone.md) and [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../Browse/Conditions/Prone.md) and [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](../../Browse/Conditions/Prone.md) and [restrained](../../Browse/Conditions/Restrained.md) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)
@@ -1268,7 +1268,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | ------------------------------------: |
 > | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../../Browse/Conditions/Prone).
+> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../Browse/Conditions/Prone.md).
 
 <!-- -->
 > ###### Spirit Stampede (9 Piety)
@@ -1281,9 +1281,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 5 damage; M < WEAK, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
-> - **12-16:** 8 damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 11 damage; M < STRONG, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 5 damage; M < WEAK, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **12-16:** 8 damage; M < AVERAGE, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **17+:** 11 damage; M < STRONG, [prone](../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 <!-- -->
 > ###### Your Story Ends Here (9 Piety)
@@ -1296,15 +1296,15 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
 >
 > **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.
 
 ### 7th-Level Features
 
-As a 7th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 7th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1312,7 +1312,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 #### Faithful's Reward
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Skill
 
@@ -1320,24 +1320,24 @@ You gain one skill of your choice.
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../../Browse/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Creation   | [Divine Quartermaster](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md)                     |
+| Death      | [Word of Death Deferred](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md)             |
+| Fate       | [Word of Fate Denied](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md)                   |
 | Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Thunderstruck](../../../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
-| Sun        | [Light of the Burning Sun](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Life       | [Font of Grace](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md)                                 |
+| Love       | [Covenant of the Heart](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md)               |
+| Nature     | [Nature's Bounty](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md)                                |
+| Protection | [Blessing of Iron](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md)                           |
+| Storm      | [Thunderstruck](../../Browse/Features/Conduit/7th-Level Features/7th-Level Domain Feature/Thunderstruck.md)                                    |
+| Sun        | [Light of the Burning Sun](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md)       |
+| Trickery   | [Trinity of Trickery](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md)                     |
+| War        | [Your Triumphs Are Remembered](../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md) |
 
 ##### Blessing of Iron
 
@@ -1345,7 +1345,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -1356,7 +1356,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../Browse/Movement/Teleport.md) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1364,7 +1364,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), it is lost. Additionally, you can use your [Minor Miracle](../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), it is lost. Additionally, you can use your [Minor Miracle](../../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -1407,7 +1407,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
@@ -1421,7 +1421,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### 8th-Level Features
 
-As an 8th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As an 8th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Perk
 
@@ -1444,7 +1444,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../../Browse/Conditions/Prone). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../Browse/Conditions/Prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
 <!-- -->
 > ###### Blessing of Steel (11 Piety)
@@ -1487,11 +1487,11 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 ### 9th-Level Features
 
-As a 9th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 9th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../Browse/Features/Conduit/6th-Level Features/Burgeoning Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 
@@ -1499,7 +1499,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 
 #### 9th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../../Browse/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../Browse/Classes/Conduit.md) Domain Abilities table.
 
 ###### 9th-Level Conduit Domain Abilities Table
 
@@ -1560,7 +1560,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../Browse/Movement/Fly), [stability](../../../Browse/Movement/Stability) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../Browse/Movement/Fly.md), [stability](../../Browse/Movement/Stability.md) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -1570,7 +1570,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../Browse/Abilities/Common/Main Actions/Free Strike.md).
 >
 > **Power Roll + Intuition:**
 >
@@ -1615,7 +1615,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | -----------------: |
 > | **📏 Ranged 10**  | **🎯 Four allies** |
 >
-> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../../Browse/Conditions/Prone).
+> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../Browse/Conditions/Prone.md).
 
 <!-- -->
 > ###### Righteous Phalanx (11 Piety)
@@ -1654,11 +1654,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 21 + I damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** While [restrained](../../../Browse/Conditions/Restrained) this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](../../Browse/Conditions/Restrained.md) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)
@@ -1684,19 +1684,19 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../Browse/Conditions/Weakened.md) (save ends)
 >
-> **Effect:** While [weakened](../../../Browse/Conditions/Weakened) this way, the target has damage weakness 10.
+> **Effect:** While [weakened](../../Browse/Conditions/Weakened.md) this way, the target has damage weakness 10.
 
 ### 10th-Level Features
 
-As a 10th-level [conduit](../../../Browse/Classes/Conduit), you gain the following features.
+As a 10th-level [conduit](../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Avatar
 
-You are now an avatar of your god! When you use your [Prayer](../../../Browse/Features/Conduit/1st-Level%20Features/Prayer) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../../../Browse/Features/Conduit/1st-Level%20Features/Piety/Domain%20Piety%20and%20Effects)) without needing to pray.
+You are now an avatar of your god! When you use your [Prayer](../../Browse/Features/Conduit/1st-Level Features/Prayer.md) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../../Browse/Features/Conduit/1st-Level Features/Piety/Domain Piety and Effects.md)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -1706,15 +1706,15 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 #### Divine Power
 
-You have an epic resource called [divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power). Each time you finish a respite, you gain [divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power) equal to the XP you gain. You can spend [divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power) on your abilities as if it were [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+You have an epic resource called [divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md). Each time you finish a respite, you gain [divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md) equal to the XP you gain. You can spend [divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md) on your abilities as if it were [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
-Additionally, you can spend [divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power) as if it were piety to use any [conduit](../../../Browse/Classes/Conduit) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../../Browse/Classes/Conduit) ability you don't have that usually costs no [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety), you must spend 1 [divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power) to use it.
+Additionally, you can spend [divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md) as if it were piety to use any [conduit](../../Browse/Classes/Conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../Browse/Classes/Conduit.md) ability you don't have that usually costs no [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md), you must spend 1 [divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md) to use it.
 
-[Divine power](../../../Browse/Features/Conduit/10th-Level%20Features/Divine%20Power) remains until you spend it.
+[Divine power](../../Browse/Features/Conduit/10th-Level Features/Divine Power.md) remains until you spend it.
 
 #### Most Pious
 
-When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional [piety](../../../Browse/Features/Conduit/1st-Level%20Features/Piety).
+When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional [piety](../../Browse/Features/Conduit/1st-Level Features/Piety.md).
 
 #### Perk
 
