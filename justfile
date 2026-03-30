@@ -72,7 +72,7 @@ update push="true":
             rel_path="$(python3 -c "import os.path; print(os.path.relpath('${v2_dir}/docs', '${file_dir}'))")"
             sed -i -E "s|REL_PATH_PREFIXRules/Chapters|${rel_path}/Chapters|g" "$f"
             sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/../Browse|g" "$f"
-            sed -i -E 's|REL_PATH_SUFFIX||g' "$f"
+            sed -i -E 's|REL_PATH_SUFFIX|.md|g' "$f"
         done
 
     #        # Replace link placeholders with relative paths (works for both mkdocs serve and build).
