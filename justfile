@@ -75,6 +75,8 @@ update push="true":
             sed -i -E "s|REL_PATH_PREFIXRules/Chapters|${rel_path}/Chapters|g" "$f"
             sed -i -E "s|REL_PATH_PREFIXRules|${rel_path}/Browse|g" "$f"
             sed -i -E 's|REL_PATH_SUFFIX|.md|g' "$f"
+            # Decode %20 in markdown links so MkDocs matches against source file paths
+            sed -i -E 's|%20| |g' "$f"
         done
 
     #        # Replace link placeholders with relative paths (works for both mkdocs serve and build).
