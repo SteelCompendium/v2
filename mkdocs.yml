@@ -63,11 +63,12 @@ markdown_extensions:
         permalink: true
         toc_depth: 1-8
    - material.extensions.preview:
-       targets:
-         include:
-           - Browse/*
-           - Read/*
-           - Bestiary/*
+       configurations:
+         - targets:
+             include:
+               - Browse/*
+               - Read/*
+               - Bestiary/*
 
 extra:
    homepage: https://steelcompendium.io/v2
