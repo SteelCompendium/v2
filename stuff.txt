@@ -1,0 +1,6 @@
+  1. [P1] /colorize — Extract hard-coded colors into CSS variables; unique palette (just completed)
+  2. [P1] /harden — Focus trap on keyboard overlay; prefers-reduced-motion support; missing ARIA labels
+  3. [P1] /optimize — Cache browse counts; lazy-load MathJax/Mermaid; passive scroll listeners; consider self-hosting fonts
+  4. [P2] /normalize — Remove !important overuse; move inline JS styles to CSS; fix invalid CSS property
+  5. [P2] /adapt — Increase touch targets on browse index cards for mobile
+  6. [P3] /polish — Final pass after all fixes
