@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Renown:** +1
 
-**Perk:** One exploration perk (*Quick Build:* [Teamwork](../../../Browse/Perks/Exploration%20Perks/Teamwork).)
+**Perk:** One exploration perk (*Quick Build:* [Teamwork](../../../Browse/Perks/Exploration%20Perks/Teamwork.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

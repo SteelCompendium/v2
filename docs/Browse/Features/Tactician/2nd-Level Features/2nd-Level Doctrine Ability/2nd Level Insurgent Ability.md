@@ -29,9 +29,9 @@ Choose one of the following abilities.
 > | ---------------- | -------------------: |
 > | **📏 Ranged 10** | **🎯 Two creatures** |
 >
-> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
+> **Effect:** Each target is marked by you, and must immediately make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
 >
-> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature of your choice within 5 squares of them.
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature of your choice within 5 squares of them.
 
 <!-- -->
 > ###### Try Me Instead (5 Focus)
@@ -46,6 +46,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)

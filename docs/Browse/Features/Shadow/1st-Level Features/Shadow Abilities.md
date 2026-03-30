@@ -22,7 +22,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place.md).)
 
 <!-- -->
 > ###### Gasping in Pain
@@ -37,7 +37,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](../../../../../Browse/Conditions/Prone)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -94,7 +94,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 ###### 3-Insight Ability
 
@@ -128,9 +128,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)

@@ -18,28 +18,28 @@ type: feature/trait/censor/4th-level-feature
 
 #### 4th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 4th-Level [Censor](../../../../../Browse/Classes/Censor) Domain Features table.
+You gain a domain feature from your domain, as shown on the 4th-Level [Censor](../../../../../Browse/Classes/Censor.md) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker) |
-| Death      | [Seance](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance)                                                   |
-| Fate       | [Oracular Warning](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning)                             |
-| Knowledge  | [Saint's Epiphany](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany)                              |
-| Life       | [Blessing of Life](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life)                           |
-| Love       | [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart)           |
-| Nature     | [Wode Road](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road)                                           |
-| Protection | [Impervious Touch](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch)                             |
-| Storm      | [Windwalk](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk)                                               |
-| Sun        | [Light of Revelation](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation)                     |
-| Trickery   | [Blessing of Secrets](../../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets)                                                |
-| War        | [Improved Sanctified Weapon](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon)       |
+| Creation   | [Improved Hands of the Maker](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Hands%20of%20the%20Maker.md) |
+| Death      | [Seance](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Seance.md)                                                   |
+| Fate       | [Oracular Warning](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Oracular%20Warning.md)                             |
+| Knowledge  | [Saint's Epiphany](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Saints%20Epiphany.md)                              |
+| Life       | [Blessing of Life](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Blessing%20of%20Life.md)                           |
+| Love       | [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md)           |
+| Nature     | [Wode Road](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Wode%20Road.md)                                           |
+| Protection | [Impervious Touch](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Impervious%20Touch.md)                             |
+| Storm      | [Windwalk](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Windwalk.md)                                               |
+| Sun        | [Light of Revelation](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Light%20of%20Revelation.md)                     |
+| Trickery   | [Blessing of Secrets](../../../../../Browse/Abilities/Conduit/4th-Level%20Features/Blessing%20of%20Secrets.md)                                                |
+| War        | [Improved Sanctified Weapon](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Improved%20Sanctified%20Weapon.md)       |
 
 ##### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level%20Features/My%20Life%20for%20Yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 
 ##### Blessing of Secrets
 
@@ -64,11 +64,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ##### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20Maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../../../../Browse/Features/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20Weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ##### Invocation of the Heart
 
@@ -76,7 +76,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't [hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md). While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
 
 ##### Oracular Warning
 
@@ -92,8 +92,8 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](../../../../../Browse/Movement/Fly). If you can already [fly](../../../../../Browse/Movement/Fly), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly) instead.
+While you have 5 or more Victories, you can [fly](../../../../../Browse/Movement/Fly.md). If you can already [fly](../../../../../Browse/Movement/Fly.md), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly.md) instead.
 
 ##### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../../../../Browse/Movement/Teleport) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../../../../Browse/Movement/Teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).

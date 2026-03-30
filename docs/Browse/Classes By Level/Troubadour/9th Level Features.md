@@ -14,17 +14,17 @@ type: class/troubadour/level
 
 ### 9th-Level Features
 
-As a 9th-level [troubadour](../../../../Browse/Classes/Troubadour), you gain the following features.
+As a 9th-level [troubadour](../../../../Browse/Classes/Troubadour.md), you gain the following features.
 
 #### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made [frightened](../../../../Browse/Conditions/Frightened), and if you are [prone](../../../../Browse/Conditions/Prone), you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](../../../../Browse/Conditions/Frightened.md), and if you are [prone](../../../../Browse/Conditions/Prone.md), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../../../../Browse/Features/Troubadour/1st-Level%20Features/Scene%20Partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
 
 #### 9th-Level Class Act Ability
 
-Your [troubadour](../../../../Browse/Classes/Troubadour) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Auteur Abilities
 
@@ -45,7 +45,7 @@ Choose one of the following abilities.
 > - **12-16:** The target has a double bane on ability rolls (save ends).
 > - **17+:** The target has a double bane on power rolls (save ends).
 >
-> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them after the ability is resolved.
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them after the ability is resolved.
 
 <!-- -->
 > ###### Rising Tension (11 Drama)
@@ -56,7 +56,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  | **🎯 One ally** |
 >
-> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../../Browse/Conditions/Slowed) or [weakened](../../../../Browse/Conditions/Weakened) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+> **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../../Browse/Conditions/Slowed.md) or [weakened](../../../../Browse/Conditions/Weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **[Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Strike, Weapon** |               **Main action** |
+> | **[Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
@@ -75,7 +75,7 @@ Choose one of the following abilities.
 >
 > - **≤11:** 15 + A damage
 > - **12-16:** 21 + A damage
-> - **17+:** 28 + A damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding) (save ends)
+> - **17+:** 28 + A damage; M < STRONG, [bleeding](../../../../Browse/Conditions/Bleeding.md) (save ends)
 >
 > **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 
@@ -132,4 +132,4 @@ Choose one of the following abilities.
 > - **12-16:** 16 + P sonic damage; push 10
 > - **17+:** 22 + P sonic damage; push 15
 >
-> **Effect:** Forced movement from this ability ignores [stability](../../../../Browse/Movement/Stability).
+> **Effect:** Forced movement from this ability ignores [stability](../../../../Browse/Movement/Stability.md).

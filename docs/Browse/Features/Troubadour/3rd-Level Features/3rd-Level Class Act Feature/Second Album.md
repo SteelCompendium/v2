@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/3rd-level-feature
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
@@ -40,4 +40,4 @@ You have the following performance abilities, which are usable with your [Routin
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../../../Browse/Conditions/Bleeding) until the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../../../Browse/Conditions/Bleeding.md) until the end of their turn.

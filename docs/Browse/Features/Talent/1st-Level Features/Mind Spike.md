@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Mind Spike
 
-You have the following ability, which can be used as a ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You have the following ability, which can be used as a ranged [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
 <!-- -->
 > ###### Mind Spike

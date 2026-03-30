@@ -44,6 +44,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** R < WEAK, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** R < AVERAGE, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** R < STRONG, [dazed](../../../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** R < WEAK, [dazed](../../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](../../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** R < STRONG, [dazed](../../../../../../Browse/Conditions/Dazed.md) (save ends)

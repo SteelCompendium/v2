@@ -18,7 +18,7 @@ type: feature/trait/talent/6th-level-feature
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to it and enhance its effects. A [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to it and enhance its effects. A [psi boost](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](../../../../../Browse/Features/Talent/6th-Level%20Features/Psi%20Boost.md).
 
 ##### Dynamic Power (1 Clarity)
 

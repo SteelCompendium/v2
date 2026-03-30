@@ -18,19 +18,19 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../../../../../Browse/Kits/Shining%20Armor), [Sniper](../../../../../Browse/Kits/Sniper).)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (*Quick Build:* [Shining Armor](../../../../../Browse/Kits/Shining%20Armor.md), [Sniper](../../../../../Browse/Kits/Sniper.md).)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](../../../../../Browse/Kits/Shining%20Armor) and [Sniper](../../../../../Browse/Kits/Sniper) kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../../../../Browse/Kits/Shining%20Armor.md) and [Sniper](../../../../../Browse/Kits/Sniper.md) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
-- [Stability](../../../../../Browse/Movement/Stability) Bonus: +1
+- [Stability](../../../../../Browse/Movement/Stability.md) Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
 - Ranged Distance Bonus: +10
-- [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) Bonus: +1
+- [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
-[Kit signature abilities](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../../Browse/Kits/Mountain) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../../Browse/Kits/Mountain) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../../Browse/Kits/Mountain) kit to deal 3/6/13 damage.
+[Kit signature abilities](../../../../../Browse/Features/Tactician/1st-Level%20Features/Tactician%20Abilities/Kit%20Signature%20Ability.md) have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](../../../../../Browse/Kits/Mountain.md) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](../../../../../Browse/Kits/Mountain.md) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](../../../../../Browse/Kits/Martial%20Artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](../../../../../Browse/Kits/Mountain.md) kit to deal 3/6/13 damage.

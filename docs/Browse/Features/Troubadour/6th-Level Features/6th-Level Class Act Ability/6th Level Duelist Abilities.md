@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 24 + A damage; [bleeding](../../../../../../Browse/Conditions/Bleeding) (EoT), or if M < STRONG, [bleeding](../../../../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](../../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 24 + A damage; [bleeding](../../../../../../Browse/Conditions/Bleeding.md) (EoT), or if M < STRONG, [bleeding](../../../../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)
@@ -44,4 +44,4 @@ Choose one of the following abilities.
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Effect:** You and the target each make a melee [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets and which enemies the target creature's [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) targets. You then slide the target 5 squares, ignoring [stability](../../../../../../Browse/Movement/Stability).
+> **Effect:** You and the target each make a melee [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets and which enemies the target creature's [free strike](../../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../../../../Browse/Movement/Stability.md).

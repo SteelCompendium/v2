@@ -14,11 +14,11 @@ type: class/conduit/level
 
 ### 9th-Level Features
 
-As a 9th-level [conduit](../../../../Browse/Classes/Conduit), you gain the following features.
+As a 9th-level [conduit](../../../../Browse/Classes/Conduit.md), you gain the following features.
 
 #### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint) feature until you finish another respite. Additionally, you can spend [piety](../../../../Browse/Features/Conduit/1st-Level%20Features/Piety) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../../../../Browse/Features/Conduit/6th-Level%20Features/Burgeoning%20Saint.md) feature until you finish another respite. Additionally, you can spend [piety](../../../../Browse/Features/Conduit/1st-Level%20Features/Piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 #### Ordained
 
@@ -26,7 +26,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 
 #### 9th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../../../Browse/Classes/Conduit) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](../../../../Browse/Classes/Conduit.md) Domain Abilities table.
 
 ###### 9th-Level Conduit Domain Abilities Table
 
@@ -87,7 +87,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../Browse/Movement/Fly), [stability](../../../../Browse/Movement/Stability) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+> **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../../../../Browse/Movement/Fly.md), [stability](../../../../Browse/Movement/Stability.md) 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 >
 > On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 >
@@ -97,7 +97,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > - **12-16:** 9 fire damage
 > - **17+:** 12 fire damage
 >
-> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 >
 > **Power Roll + Intuition:**
 >
@@ -142,7 +142,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | ----------------- | -----------------: |
 > | **📏 Ranged 10**  | **🎯 Four allies** |
 >
-> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../../../Browse/Conditions/Prone).
+> **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are [prone](../../../../Browse/Conditions/Prone.md).
 
 <!-- -->
 > ###### Righteous Phalanx (11 Piety)
@@ -181,11 +181,11 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 21 + I damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 10 + I damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 21 + I damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained) this way, the target takes 10 damage at the start of each of your turns.
+> **Effect:** While [restrained](../../../../Browse/Conditions/Restrained.md) this way, the target takes 10 damage at the start of each of your turns.
 
 <!-- -->
 > ###### Word of Final Redemption (11 Piety)
@@ -211,8 +211,8 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
-> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened) (save ends)
+> - **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **17+:** 21 + I corruption damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
 >
-> **Effect:** While [weakened](../../../../Browse/Conditions/Weakened) this way, the target has damage weakness 10.
+> **Effect:** While [weakened](../../../../Browse/Conditions/Weakened.md) this way, the target has damage weakness 10.

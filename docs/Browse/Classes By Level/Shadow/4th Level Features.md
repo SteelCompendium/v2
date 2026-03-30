@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 4th-Level Features
 
-As a 4th-level [shadow](../../../../Browse/Classes/Shadow), you gain the following features.
+As a 4th-level [shadow](../../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Characteristic Increase
 

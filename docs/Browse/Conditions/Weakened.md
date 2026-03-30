@@ -14,4 +14,4 @@ type: condition
 
 ##### Weakened
 
-A creature who is [weakened](../../../Browse/Conditions/Weakened) takes a bane on power rolls.
+A creature who is [weakened](../../../Browse/Conditions/Weakened.md) takes a bane on power rolls.

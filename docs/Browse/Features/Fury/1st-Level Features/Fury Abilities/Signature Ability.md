@@ -18,7 +18,7 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../../Browse/Abilities/Fury/1st-Level%20Features/To%20the%20Death.md)!)
 
 <!-- -->
 > ###### Brutal Slam
@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 2 + M damage
 > - **12-16:** 5 + M damage
-> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed) (save ends)
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../../../../../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** You can shift 1 square.
 
@@ -63,9 +63,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../../../Browse/Conditions/Grabbed)
-> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../../../Browse/Conditions/Grabbed)
-> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../../../Browse/Conditions/Grabbed)
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../../../../../../Browse/Conditions/Grabbed.md)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../../../Browse/Conditions/Grabbed.md)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../../../Browse/Conditions/Grabbed.md)
 
 <!-- -->
 > ###### To the Death!

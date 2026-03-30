@@ -65,9 +65,9 @@ Choose one of the following heroic abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 13 cold damage; A < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
 
 <!-- -->
 > ###### Heat Sink (5 Discipline)
@@ -95,9 +95,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 3
-> - **12-16:** 12 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 5
-> - **17+:** 16 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical) pull 7
+> - **≤11:** 8 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 3
+> - **12-16:** 12 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 5
+> - **17+:** 16 + A psychic damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 7
 
 <!-- -->
 > ###### Kinetic Shield (5 Discipline)
@@ -114,4 +114,4 @@ Choose one of the following abilities.
 > - **12-16:** You gain 15 temporary Stamina.
 > - **17+:** You gain 20 temporary Stamina.
 >
-> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../../Browse/Conditions/Bleeding) even while dying.
+> **Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../../Browse/Conditions/Bleeding.md) even while dying.

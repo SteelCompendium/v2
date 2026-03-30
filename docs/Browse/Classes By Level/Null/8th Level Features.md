@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 8th-Level Features
 
-As an 8th-level [null](../../../../Browse/Classes/Null), you gain the following features.
+As an 8th-level [null](../../../../Browse/Classes/Null.md), you gain the following features.
 
 #### Perk
 
@@ -28,17 +28,17 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum)     |
-| Cryokinetic   | [Synaptic Triage](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage)     |
-| Metakinetic   | [Inertial Dampener](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener) |
+| Chronokinetic | [Shared Momentum](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Shared%20Momentum.md)     |
+| Cryokinetic   | [Synaptic Triage](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Synaptic%20Triage.md)     |
+| Metakinetic   | [Inertial Dampener](../../../../Browse/Features/Null/8th-Level%20Features/8th-Level%20Tradition%20Feature/Inertial%20Dampener.md) |
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability.md) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 
@@ -76,11 +76,11 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 >
-> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../Browse/Conditions/Dazed) this way, they see glimpses of creatures from other parts of the timescape.
+> **Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../Browse/Conditions/Dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 
 <!-- -->
 > ###### Scalar Assault (11 Discipline)
@@ -108,4 +108,4 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 >
 > **Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
 >
-> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../Browse/Conditions/Dazed) (save ends). While the triggering creature is [dazed](../../../../Browse/Conditions/Dazed) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+> **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../Browse/Conditions/Dazed.md) (save ends). While the triggering creature is [dazed](../../../../Browse/Conditions/Dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

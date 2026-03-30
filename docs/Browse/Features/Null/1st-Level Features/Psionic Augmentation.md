@@ -18,11 +18,11 @@ type: feature/trait/null/1st-level-feature
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../../../Browse/Features/Talent/1st-Level%20Features/Psionic%20Augmentation/Speed%20Augmentation.md).)
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../../Browse/Movement/Stability).
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../../Browse/Movement/Stability.md).
 
 ##### Force Augmentation
 
@@ -30,4 +30,4 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action.

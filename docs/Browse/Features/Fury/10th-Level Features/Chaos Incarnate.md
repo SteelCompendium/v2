@@ -20,6 +20,6 @@ type: feature/trait/fury/10th-level-feature
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your Primordial Storm feature (see Stormwight Kits) increases to three times your Might score.
 
-When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../../../../Browse/Conditions/Frightened) of you (save ends).
+When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../../../../../Browse/Conditions/Frightened.md) of you (save ends).
 
-Additionally, when you use [Primordial Strike](../../../../../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike), you can spend up to 3 [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity), gaining 1 surge per ferocity spent to use for that strike.
+Additionally, when you use [Primordial Strike](../../../../../Browse/Features/Fury/4th-Level%20Features/Primordial%20Strike.md), you can spend up to 3 [ferocity](../../../../../Browse/Features/Fury/1st-Level%20Features/Ferocity.md), gaining 1 surge per ferocity spent to use for that strike.

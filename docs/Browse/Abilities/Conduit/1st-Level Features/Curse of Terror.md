@@ -36,6 +36,6 @@ type: feature/ability/conduit/1st-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+- **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+- **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)

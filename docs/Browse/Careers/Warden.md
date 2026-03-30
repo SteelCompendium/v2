@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../../../Browse/Perks/Exploration%20Perks/Camouflage%20Hunter).)
+**Perk:** One exploration perk (*Quick Build:* [Camouflage Hunter](../../../Browse/Perks/Exploration%20Perks/Camouflage%20Hunter.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

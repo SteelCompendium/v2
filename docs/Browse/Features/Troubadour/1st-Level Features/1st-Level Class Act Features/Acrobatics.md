@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/1st-level-feature
 
 ##### Acrobatics
 
-You have the following performance ability, which is usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines) feature.
+You have the following performance ability, which is usable with your [Routines](../../../../../../Browse/Features/Troubadour/1st-Level%20Features/Routines.md) feature.
 
 <!-- -->
 > ###### Acrobatics
@@ -29,4 +29,4 @@ You have the following performance ability, which is usable with your [Routines]
 > | ---------------------------- | ------------------------------------: |
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../../../Browse/Movement/Jump), tumble, or [climb](../../../../../../Browse/Movement/Climb%20or%20Swim) as part of their movement before the end of their turn.
+> **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to [jump](../../../../../../Browse/Movement/Jump.md), tumble, or [climb](../../../../../../Browse/Movement/Climb%20or%20Swim.md) as part of their movement before the end of their turn.

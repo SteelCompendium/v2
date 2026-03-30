@@ -14,9 +14,9 @@ type: class
 
 ## Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight) into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) into your enemies' weaknesses.
 
-**As a [shadow](../../../Browse/Classes/Shadow), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
+**As a [shadow](../../../Browse/Classes/Shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
 "Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
 
@@ -47,42 +47,42 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abilities                 | College Abilities |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | [Shadow](../../../Browse/Classes/Shadow) College, [Insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight), College Features, [College Triggered Action](../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action), [Hesitation Is Weakness](../../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness), Kit, Shadow Abilities                                                                                                                                                        | Signature, 3, 5           | -                 |
+| 1st   | [Shadow](../../../Browse/Classes/Shadow.md) College, [Insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md), College Features, [College Triggered Action](../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md), [Hesitation Is Weakness](../../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md), Kit, Shadow Abilities                                                                                                                                                        | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation), 7-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7        | 5                 |
-| 4th   | [Characteristic Increase](../../../Browse/Features/Shadow/4th-Level%20Features/Characteristic%20Increase), [Keep It Down](../../../Browse/Features/Shadow/4th-Level%20Features/Keep%20It%20Down), [Night Watch](../../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch), Perk, Skill, [Surge of Insight](../../../Browse/Features/Shadow/4th-Level%20Features/Surge%20of%20Insight)                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
+| 3rd   | [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md), 7-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7        | 5                 |
+| 4th   | [Characteristic Increase](../../../Browse/Features/Shadow/4th-Level%20Features/Characteristic%20Increase.md), [Keep It Down](../../../Browse/Features/Shadow/4th-Level%20Features/Keep%20It%20Down.md), [Night Watch](../../../Browse/Abilities/Shadow/4th-Level%20Features/Night%20Watch.md), Perk, Skill, [Surge of Insight](../../../Browse/Features/Shadow/4th-Level%20Features/Surge%20of%20Insight.md)                                                                                                                                                    | Signature, 3, 5, 7        | 5                 |
 | 5th   | College Feature, 9-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | [Characteristic Increase](../../../Browse/Features/Shadow/7th-Level%20Features/Characteristic%20Increase), [Keen Insight](../../../Browse/Features/Shadow/7th-Level%20Features/Keen%20Insight), Skill, [Careful Observation Improvement](../../../Browse/Features/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement), [Ventriloquist](../../../Browse/Features/Shadow/7th-Level%20Features/Ventriloquist)                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
+| 6th   | Perk, [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | [Characteristic Increase](../../../Browse/Features/Shadow/7th-Level%20Features/Characteristic%20Increase.md), [Keen Insight](../../../Browse/Features/Shadow/7th-Level%20Features/Keen%20Insight.md), Skill, [Careful Observation Improvement](../../../Browse/Features/Shadow/7th-Level%20Features/Careful%20Observation%20Improvement.md), [Ventriloquist](../../../Browse/Features/Shadow/7th-Level%20Features/Ventriloquist.md)                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9              |
 | 8th   | College Feature, Perk, 11-Insight Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | [Gloom Squad](../../../Browse/Features/Shadow/9th-Level%20Features/Gloom%20Squad), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | [Characteristic Increase](../../../Browse/Features/Shadow/10th-Level%20Features/Characteristic%20Increase), [Death Pool](../../../Browse/Features/Shadow/10th-Level%20Features/Death%20Pool), Perk, Skill, [Careful Observation Improvement](../../../Browse/Features/Shadow/10th-Level%20Features/Careful%20Observation%20Improvement), [Improved Umbral Form](../../../Browse/Features/Shadow/10th-Level%20Features/Improved%20Umbral%20Form), [Subterfuge](../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge) | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 9th   | [Gloom Squad](../../../Browse/Features/Shadow/9th-Level%20Features/Gloom%20Squad.md), College Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | [Characteristic Increase](../../../Browse/Features/Shadow/10th-Level%20Features/Characteristic%20Increase.md), [Death Pool](../../../Browse/Features/Shadow/10th-Level%20Features/Death%20Pool.md), Perk, Skill, [Careful Observation Improvement](../../../Browse/Features/Shadow/10th-Level%20Features/Careful%20Observation%20Improvement.md), [Improved Umbral Form](../../../Browse/Features/Shadow/10th-Level%20Features/Improved%20Umbral%20Form.md), [Subterfuge](../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge.md) | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 ### 1st-Level Features
 
-As a 1st-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 1st-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Shadow College
 
-[Shadow](../../../Browse/Classes/Shadow) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../Browse/Classes/Shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a [shadow](../../../Browse/Classes/Shadow) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow](../../../Browse/Classes/Shadow.md) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../Browse/Classes/Shadow). Its graduates are unmatched in mobility, using sorcery to [teleport](../../../Browse/Movement/Teleport) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../Browse/Classes/Shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../../../Browse/Movement/Teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your [shadow](../../../Browse/Classes/Shadow) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](../../../Browse/Classes/Shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 #### Insight
 
-By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
@@ -90,20 +90,20 @@ You lose any remaining insight at the end of the encounter.
 
 ##### Insight Outside of Combat
 
-Although you can't gain [insight outside of combat](../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Although you can't gain [insight outside of combat](../../../Browse/Features/Shadow/1st-Level%20Features/Insight/Insight%20Outside%20of%20Combat.md), you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../Browse/Movement/Teleport), you can use it as if you had spent an amount of [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash [Teleport](../../../Browse/Movement/Teleport.md), you can use it as if you had spent an amount of [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) equal to your Victories.
 
 #### 1st-Level College Features
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
 | College         | Feature                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20Teleport.md)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level%20Features/Coat%20the%20Blade.md), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) |
 | Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
 
 ##### Black Ash Teleport
@@ -119,9 +119,9 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You [teleport](../../../Browse/Movement/Teleport) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed. If you successfully [hide](../../../Browse/Abilities/Common/Maneuvers/Hide) using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed. If you successfully [hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) using this maneuver, you gain 1 surge.
 >
-> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
@@ -153,7 +153,7 @@ You have the following ability.
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, you gain a +1 bonus to the distance you can shift.
 >
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 >
@@ -161,18 +161,18 @@ You have the following ability.
 
 ##### Smoke Bomb
 
-You always carry a supply of [smoke bombs](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb) to use for distractions and easy getaways. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of [smoke bombs](../../../Browse/Features/Shadow/1st-Level%20Features/1st-Level%20College%20Features/Smoke%20Bomb.md) to use for distractions and easy getaways. You can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 #### College Triggered Action
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you a triggered action, as shown on the [College Triggered Actions](../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action) table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you a triggered action, as shown on the [College Triggered Actions](../../../Browse/Features/Shadow/1st-Level%20Features/College%20Triggered%20Action.md) table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action                                                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Black Ash       | [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) |
-| Caustic Alchemy | [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll)                   |
+| Black Ash       | [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md)                   |
 | Harlequin Mask  | Clever Trick                                                                                                                   |
 
 <!-- -->
@@ -199,7 +199,7 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a triggered act
 >
 > **Trigger:** Another creature damages you.
 >
-> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if you are observed.
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if you are observed.
 >
 > **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -214,9 +214,9 @@ Your [shadow](../../../Browse/Classes/Shadow) college grants you a triggered act
 >
 > **Trigger:** You take damage.
 >
-> **Effect:** You take half the damage, then can [teleport](../../../Browse/Movement/Teleport) up to 4 squares after the triggering effect resolves.
+> **Effect:** You take half the damage, then can [teleport](../../../Browse/Movement/Teleport.md) up to 4 squares after the triggering effect resolves.
 >
-> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport) 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../../../Browse/Movement/Teleport.md) 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
@@ -237,7 +237,7 @@ You have the following ability.
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../Browse/Kits/Cloak%20and%20Dagger).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../Browse/Kits/Cloak%20and%20Dagger.md).)
 
 #### Shadow Abilities
 
@@ -245,7 +245,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place).)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../Browse/Abilities/Shadow/1st-Level%20Features/Teamwork%20Has%20Its%20Place.md).)
 
 <!-- -->
 > ###### Gasping in Pain
@@ -260,7 +260,7 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > - **≤11:** 3 + A damage
 > - **12-16:** 5 + A damage
-> - **17+:** 8 + A damage; I < STRONG, [prone](../../../Browse/Conditions/Prone)
+> - **17+:** 8 + A damage; I < STRONG, [prone](../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -317,7 +317,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 ###### 3-Insight Ability
 
@@ -351,9 +351,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../Browse/Conditions/Bleeding) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)
@@ -451,7 +451,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 ### 2nd-Level Features
 
-As a 2nd-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 2nd-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Perk
 
@@ -459,25 +459,25 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level College Feature
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
 | College         | Feature                                                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Burning Ash](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash)           |
-| Caustic Alchemy | [Trained Assassin](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin) |
+| Black Ash       | [Burning Ash](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash.md)           |
+| Caustic Alchemy | [Trained Assassin](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Trained%20Assassin.md) |
 | Harlequin Mask  | Friend!                                                                                                                                       |
 
 ##### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](../../../Browse/Classes/Shadow) ability to [teleport](../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a [shadow](../../../Browse/Classes/Shadow.md) ability to [teleport](../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ##### Friend!
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as part of that ability.
+Additionally, when you use your I'm No Threat ability, you can take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as part of that ability.
 
 ##### Trained Assassin
 
@@ -485,7 +485,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 #### 2nd-Level College Ability
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -502,9 +502,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 + A damage; you can [teleport](../../../Browse/Movement/Teleport) the target 1 square
-> - **12-16:** 10 + A damage; you can [teleport](../../../Browse/Movement/Teleport) the target up to 3 squares
-> - **17+:** 14 + A damage; you can [teleport](../../../Browse/Movement/Teleport) the target up to 5 squares
+> - **≤11:** 6 + A damage; you can [teleport](../../../Browse/Movement/Teleport.md) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](../../../Browse/Movement/Teleport.md) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](../../../Browse/Movement/Teleport.md) the target up to 5 squares
 
 <!-- -->
 > ###### Too Slow (5 Insight)
@@ -515,9 +515,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability.
+> **Trigger:** You use your [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) ability. Before you [teleport](../../../Browse/Movement/Teleport), you can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against a creature who damaged you to trigger [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion). After you [teleport](../../../Browse/Movement/Teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) ability. Before you [teleport](../../../Browse/Movement/Teleport.md), you can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against a creature who damaged you to trigger [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md). After you [teleport](../../../Browse/Movement/Teleport.md), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
@@ -555,7 +555,7 @@ Choose one of the following abilities.
 > - **12-16:** 5 poison damage
 > - **17+:** 7 poison damage
 >
-> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../Browse/Conditions/Weakened) (save ends).
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../Browse/Conditions/Weakened.md) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -576,7 +576,7 @@ Choose one of the following abilities.
 > - **12-16:** Slide 5
 > - **17+:** Slide 7
 >
-> **Effect:** This forced movement ignores [stability](../../../Browse/Movement/Stability). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+> **Effect:** This forced movement ignores [stability](../../../Browse/Movement/Stability.md). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
 <!-- -->
 > ###### So Gullible (5 Insight)
@@ -589,11 +589,11 @@ Choose one of the following abilities.
 >
 > **Trigger:** Another creature targets you with a strike.
 >
-> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../Browse/Movement/Teleport) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them. You can then spend a Recovery.
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can [teleport](../../../Browse/Movement/Teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
-As a 3rd-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 3rd-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Careful Observation
 
@@ -623,7 +623,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action.
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the [Disengage](../../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action.
 
 <!-- -->
 > ###### Misdirecting Strike (7 Insight)
@@ -640,7 +640,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 > - **12-16:** 13 + A damage
 > - **17+:** 18 + A damage
 >
-> **Effect:** The target is [taunted](../../../Browse/Conditions/Taunted) by a willing ally within 5 squares of you until the end of the target's next turn.
+> **Effect:** The target is [taunted](../../../Browse/Conditions/Taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
 
 <!-- -->
 > ###### Pinning Shot (7 Insight)
@@ -653,9 +653,9 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 16 + A damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 8 + A damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 16 + A damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
 
 <!-- -->
 > ###### Staggering Blow (7 Insight)
@@ -668,13 +668,13 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 11 + A damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
-> - **17+:** 16 + A damage; M < STRONG, [prone](../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 7 + A damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 11 + A damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **17+:** 16 + A damage; M < STRONG, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 ### 4th-Level Features
 
-As a 4th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 4th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -717,37 +717,37 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level Features
 
-As a 5th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 5th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### 5th-Level College Feature
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
 | College         | Feature                                                                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) |
-| Caustic Alchemy | [Volatile Reagents](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents) |
-| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit)   |
+| Black Ash       | [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders.md) |
+| Caustic Alchemy | [Volatile Reagents](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Volatile%20Reagents.md) |
+| Harlequin Mask  | [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit.md)   |
 
 ##### Harlequin Gambit
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../Browse/Movement/Teleport) ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../Browse/Movement/Teleport.md) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../Browse/Classes/Shadow) ability to [teleport](../../../Browse/Movement/Teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../Browse/Movement/Teleport). If no such space exists, they can't [teleport](../../../Browse/Movement/Teleport) with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../Browse/Classes/Shadow.md) ability to [teleport](../../../Browse/Movement/Teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../Browse/Movement/Teleport.md). If no such space exists, they can't [teleport](../../../Browse/Movement/Teleport.md) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../Browse/Movement/Fly), you fall.
+Additionally, your [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level%20Features/Defensive%20Roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../../Browse/Movement/Fly.md), you fall.
 
 #### 9-Insight Ability
 
@@ -762,7 +762,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 > | --------------- | -------------: |
 > | **📏 3 burst**  | **🎯 Special** |
 >
-> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against them.
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against them.
 
 <!-- -->
 > ###### Into the Shadows (9 Insight)
@@ -809,15 +809,15 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; P < WEAK, [dazed](../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 21 + A damage; P < STRONG, [dazed](../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 10 + A damage; P < WEAK, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 21 + A damage; P < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Effect:** The target can't communicate with anyone until the end of the encounter.
 
 ### 6th-Level Features
 
-As a 6th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 6th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Perk
 
@@ -827,7 +827,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
+- You can automatically [climb](../../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -837,7 +837,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -854,9 +854,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; [vertical](../../../Browse/Movement/Vertical) push 5
-> - **12-16:** 6 + A damage; [vertical](../../../Browse/Movement/Vertical) push 10
-> - **17+:** 9 + A damage; [vertical](../../../Browse/Movement/Vertical) push 15
+> - **≤11:** 3 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 10
+> - **17+:** 9 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 
@@ -869,7 +869,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../Browse/Movement/Teleport) up to 5 squares. For each target in addition to you who [teleports](../../../Browse/Movement/Teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide) maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -904,7 +904,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can [fly](../../../Browse/Movement/Fly) until the end of the encounter.
+> - **12-16:** The creature can [fly](../../../Browse/Movement/Fly.md) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
@@ -933,15 +933,15 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
 ### 7th-Level Features
 
-As a 7th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 7th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -957,7 +957,7 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
 #### Ventriloquist
 
@@ -965,7 +965,7 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ### 8th-Level Features
 
-As an 8th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As an 8th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Perk
 
@@ -973,23 +973,23 @@ You gain one perk of your choice.
 
 #### 8th-Level College Feature
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
 | College         | Feature                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](../../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step) |
-| Caustic Alchemy | [Time Bomb](../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb)                                  |
-| Harlequin Mask  | [Parkour](../../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour)           |
+| Black Ash       | [Cinder Step](../../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Cinder%20Step.md) |
+| Caustic Alchemy | [Time Bomb](../../../Browse/Abilities/Shadow/8th-Level%20Features/Time%20Bomb.md)                                  |
+| Harlequin Mask  | [Parkour](../../../Browse/Features/Shadow/8th-Level%20Features/8th-Level%20College%20Feature/Parkour.md)           |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport). When you [teleport](../../../Browse/Movement/Teleport) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow) ability for the purpose of using your [Burning Ash](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash) and [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders) features.
+Whenever you willingly move, you can [teleport](../../../Browse/Movement/Teleport.md). When you [teleport](../../../Browse/Movement/Teleport.md) this way, it counts as using a [shadow](../../../Browse/Classes/Shadow.md) ability for the purpose of using your [Burning Ash](../../../Browse/Features/Shadow/2nd-Level%20Features/2nd-Level%20College%20Feature/Burning%20Ash.md) and [Trail of Cinders](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Trail%20of%20Cinders.md) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../Browse/Features/Shadow/5th-Level%20Features/5th-Level%20College%20Feature/Harlequin%20Gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 
@@ -1042,9 +1042,9 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 21 corruption damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
 
 <!-- -->
 > ###### Speed of Shadows (11 Insight)
@@ -1068,23 +1068,23 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 18 damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 24 damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 12 damage; M < WEAK, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 24 damage; M < STRONG, [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
 
 ### 9th-Level Features
 
-As a 9th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 9th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight) and can't use the [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, the [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). While making a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) and can't use the [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability, the [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). While making a [free strike](../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
 #### 9th-Level College Ability
 
-Your [shadow](../../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 
@@ -1103,9 +1103,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../Browse/Movement/Teleport) up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../Browse/Movement/Teleport) up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../Browse/Movement/Teleport) up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../Browse/Movement/Teleport.md) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../Browse/Movement/Teleport.md) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -1122,7 +1122,7 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is [grabbed](../../../Browse/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](../../../Browse/Conditions/Grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
@@ -1156,9 +1156,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 8
-> - **12-16:** 7 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 10
-> - **17+:** 11 + A fire damage; [vertical](../../../Browse/Movement/Vertical) push 15
+> - **≤11:** 4 + A fire damage; [vertical](../../../Browse/Movement/Vertical.md) push 8
+> - **12-16:** 7 + A fire damage; [vertical](../../../Browse/Movement/Vertical.md) push 10
+> - **17+:** 11 + A fire damage; [vertical](../../../Browse/Movement/Vertical.md) push 15
 >
 > **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
 
@@ -1196,7 +1196,7 @@ Choose one of the following abilities.
 
 ### 10th-Level Features
 
-As a 10th-level [shadow](../../../Browse/Classes/Shadow), you gain the following features.
+As a 10th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Characteristic Increase
 
@@ -1216,18 +1216,18 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability.
+You can target three creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability.
 
 #### Improved Umbral Form
 
-You gain full control over the [shadow](../../../Browse/Classes/Shadow) creature you become with your [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](../../../Browse/Classes/Shadow.md) creature you become with your [Umbral Form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../Browse/Movement/Teleport) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../Browse/Movement/Teleport) this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../../../Browse/Movement/Teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../../../Browse/Movement/Teleport.md) this way is invisible for 1 hour or until they use an ability.
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight).
+You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 
-[Subterfuge](../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge) remains until you spend it.
+[Subterfuge](../../../Browse/Features/Shadow/10th-Level%20Features/Subterfuge.md) remains until you spend it.

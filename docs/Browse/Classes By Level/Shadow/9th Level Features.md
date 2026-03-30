@@ -14,17 +14,17 @@ type: class/shadow/level
 
 ### 9th-Level Features
 
-As a 9th-level [shadow](../../../../Browse/Classes/Shadow), you gain the following features.
+As a 9th-level [shadow](../../../../Browse/Classes/Shadow.md), you gain the following features.
 
 #### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight) and can't use the [Careful Observation](../../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation) ability, the [Umbral Form](../../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). While making a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have [insight](../../../../Browse/Features/Shadow/1st-Level%20Features/Insight.md) and can't use the [Careful Observation](../../../../Browse/Abilities/Shadow/3rd-Level%20Features/Careful%20Observation.md) ability, the [Umbral Form](../../../../Browse/Features/Shadow/6th-Level%20Features/Umbral%20Form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). While making a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
 #### 9th-Level College Ability
 
-Your [shadow](../../../../Browse/Classes/Shadow) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 
@@ -43,9 +43,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../Browse/Movement/Teleport) up to 3 squares.
-> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../Browse/Movement/Teleport) up to 5 squares.
-> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../Browse/Movement/Teleport) up to 7 squares.
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../Browse/Movement/Teleport.md) up to 7 squares.
 
 <!-- -->
 > ###### Demon Door (11 Insight)
@@ -62,7 +62,7 @@ Choose one of the following abilities.
 > - **12-16:** 18 + A corruption damage; push 5
 > - **17+:** 25 + A corruption damage; push 7
 >
-> **Effect:** On a critical hit, the target is [grabbed](../../../../Browse/Conditions/Grabbed) by the demon and pulled through the portal before it closes, never to be seen again.
+> **Effect:** On a critical hit, the target is [grabbed](../../../../Browse/Conditions/Grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
@@ -96,9 +96,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A fire damage; [vertical](../../../../Browse/Movement/Vertical) push 8
-> - **12-16:** 7 + A fire damage; [vertical](../../../../Browse/Movement/Vertical) push 10
-> - **17+:** 11 + A fire damage; [vertical](../../../../Browse/Movement/Vertical) push 15
+> - **≤11:** 4 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 8
+> - **12-16:** 7 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 10
+> - **17+:** 11 + A fire damage; [vertical](../../../../Browse/Movement/Vertical.md) push 15
 >
 > **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
 

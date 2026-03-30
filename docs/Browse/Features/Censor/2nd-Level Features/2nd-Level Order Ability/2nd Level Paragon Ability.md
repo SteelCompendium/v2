@@ -42,8 +42,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../../../Browse/Conditions/Restrained) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../../../Browse/Conditions/Restrained) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** While the target is [restrained](../../../../../../Browse/Conditions/Restrained) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../../../../../Browse/Conditions/Restrained.md) this way, your abilities that impose forced movement can still move them.

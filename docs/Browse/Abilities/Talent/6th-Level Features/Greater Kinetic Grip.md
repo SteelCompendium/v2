@@ -38,8 +38,8 @@ type: feature/ability/talent/6th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../../../Browse/Movement/Vertical)
-- **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../../Browse/Movement/Vertical)
-- **17+:** Slide 12 + R; [prone](../../../../../Browse/Conditions/Prone); M < STRONG, the forced movement is [vertical](../../../../../Browse/Movement/Vertical)
+- **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
+- **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
+- **17+:** Slide 12 + R; [prone](../../../../../Browse/Conditions/Prone.md); M < STRONG, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
 
-**Strained:** The forced movement ignores [stability](../../../../../Browse/Movement/Stability). You take 2d6 damage and are [weakened](../../../../../Browse/Conditions/Weakened) (save ends).
+**Strained:** The forced movement ignores [stability](../../../../../Browse/Movement/Stability.md). You take 2d6 damage and are [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends).

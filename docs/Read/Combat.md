@@ -35,7 +35,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 
 A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
-The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small [polders](../../Browse/Ancestries/Polder), medium [humans](../../Browse/Ancestries/Human), and large [hakaan](../../Browse/Ancestries/Hakaan). As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
+The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small [polders](../../Browse/Ancestries/Polder.md), medium [humans](../../Browse/Ancestries/Human.md), and large [hakaan](../../Browse/Ancestries/Hakaan.md). As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
 
 Objects also have a size rating, which usually indicates how many squares they occupy. Some objects are identified as having an irregular size, with that size instead representing the object's mass and weight relative to a creature of the same size. If a mechanic mentions objects of a certain size, that mechanic includes all objects of that size, including irregular objects.
 
@@ -46,9 +46,9 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 | Size | Example Creature                                                |
 | ---- | --------------------------------------------------------------- |
 | 1T   | Pixie                                                           |
-| 1S   | [Polder](../../Browse/Ancestries/Polder) |
-| 1M   | [Human](../../Browse/Ancestries/Human)   |
-| 1L   | [Hakaan](../../Browse/Ancestries/Hakaan) |
+| 1S   | [Polder](../../Browse/Ancestries/Polder.md) |
+| 1M   | [Human](../../Browse/Ancestries/Human.md)   |
+| 1L   | [Hakaan](../../Browse/Ancestries/Hakaan.md) |
 | 2    | Ogre                                                            |
 | 3    | Shambling mound                                                 |
 | 4    | Hill giant                                                      |
@@ -104,7 +104,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow)'s [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow](../../Browse/Classes/Shadow.md)'s [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md) ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
@@ -122,9 +122,9 @@ The [Movement](#page-281-3) section below breaks down how your move action works
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury) hero can use the [Lines of Force](../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/Classes/Fury.md) hero can use the [Lines of Force](../../Browse/Abilities/Fury/1st-Level%20Features/Lines%20of%20Force.md) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/Classes/Fury.md) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow) hero can use their [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow) can still use their [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion) triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/Classes/Shadow.md) hero can use their [Hesitation Is Weakness](../../Browse/Features/Shadow/1st-Level%20Features/Hesitation%20Is%20Weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/Classes/Shadow.md) can still use their [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20Confusion.md) triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -136,7 +136,7 @@ Boring stuff like opening an unlocked door, picking up an arrow from the ground,
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
-Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](../../Browse/Classes/Talent) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](../../Browse/Classes/Tactician) ally decked out in the [Shining Armor](../../Browse/Kits/Shining%20Armor) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious [talent](../../Browse/Classes/Talent.md) ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a [tactician](../../Browse/Classes/Tactician.md) ally decked out in the [Shining Armor](../../Browse/Kits/Shining%20Armor.md) kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
@@ -148,9 +148,9 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 ### Movement
 
-During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) or [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance.md) or [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance.md) move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -160,7 +160,7 @@ At the Director's discretion, you can be forced into the same space as another c
 
 #### Can't Exceed Speed
 
-A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the [slowed](../../Browse/Conditions/Slowed) condition (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
+A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the [slowed](../../Browse/Conditions/Slowed.md) condition (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
 
 #### Can't Cut Corners
 
@@ -174,7 +174,7 @@ You can't shift into or while within difficult terrain or damaging terrain (see 
 
 #### Movement Types
 
-Creatures in the game can use eight types of movement: [walk](../../Browse/Movement/Walk), [burrow](../../Browse/Movement/Burrow), [climb](../../Browse/Movement/Climb%20or%20Swim), [swim](../../Browse/Movement/Climb%20or%20Swim), [jump](../../Browse/Movement/Jump), [crawl](../../Browse/Movement/Crawl), [fly](../../Browse/Movement/Fly), and [teleport](../../Browse/Movement/Teleport).
+Creatures in the game can use eight types of movement: [walk](../../Browse/Movement/Walk.md), [burrow](../../Browse/Movement/Burrow.md), [climb](../../Browse/Movement/Climb%20or%20Swim.md), [swim](../../Browse/Movement/Climb%20or%20Swim.md), [jump](../../Browse/Movement/Jump.md), [crawl](../../Browse/Movement/Crawl.md), [fly](../../Browse/Movement/Fly.md), and [teleport](../../Browse/Movement/Teleport.md).
 
 ##### Walk
 
@@ -182,29 +182,29 @@ Walking is the most common movement type, whether it refers to ambulating on leg
 
 ##### Burrow
 
-A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](../../Browse/Movement/Burrow), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](../../Browse/Movement/Burrow) says otherwise. Similarly, a [burrowing](../../Browse/Movement/Burrow) creature doesn't leave a tunnel unless the rules say so.
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to [burrow](../../Browse/Movement/Burrow.md), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](../../Browse/Movement/Burrow.md) says otherwise. Similarly, a [burrowing](../../Browse/Movement/Burrow.md) creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig%20Maneuver), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the [Dig maneuver](../../Browse/Movement/Dig%20Maneuver.md), a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
 
-When a creature uses the [Dig maneuver](../../Browse/Movement/Dig%20Maneuver), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the [Dig maneuver](../../Browse/Movement/Dig%20Maneuver.md), they can move vertically up to a number of squares equal to their size. If a [burrowing](../../Browse/Movement/Burrow.md) creature has a creature who is not unconscious [grabbed](../../Browse/Conditions/Grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a [burrowing](../../Browse/Movement/Burrow) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/Movement/Burrow) creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](../../Browse/Movement/Burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/Movement/Burrow.md) creature gains the benefit of cover from you.
 
-If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow), you don't have line of effect to any creature on the surface unless a rule states otherwise.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow) and are adjacent to another creature who is [burrowing](../../Browse/Movement/Burrow), you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md) and are adjacent to another creature who is [burrowing](../../Browse/Movement/Burrow.md), you have line of effect to that creature, though you both have cover from each other.
 
-You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow).
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md).
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](../../Browse/Movement/Burrow), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](../../Browse/Movement/Burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
-If a creature who can't [burrow](../../Browse/Movement/Burrow) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
+If a creature who can't [burrow](../../Browse/Movement/Burrow.md) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
 ###### Claw Dirt
 
@@ -214,89 +214,89 @@ If a creature who can't [burrow](../../Browse/Movement/Burrow) wants to dig into
 
 **Power Roll + Might:**
 
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed) and [weakened](../../Browse/Conditions/Weakened) (EoT).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed) (EoT).
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md) and [weakened](../../Browse/Conditions/Weakened.md) (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/Conditions/Slowed.md) (EoT).
 - **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while [burrowing](../../Browse/Movement/Burrow) is force moved by movement that isn't [vertical](../../Browse/Movement/Vertical), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](../../Browse/Movement/Vertical), the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md) is force moved by movement that isn't [vertical](../../Browse/Movement/Vertical.md), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](../../Browse/Movement/Vertical.md), the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
-A creature who has "[climb](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [climb](../../Browse/Movement/Climb%20or%20Swim), can [climb](../../Browse/Movement/Climb%20or%20Swim) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../Browse/Movement/Climb%20or%20Swim)" in their speed entry, or who gains the temporary ability to automatically [swim](../../Browse/Movement/Climb%20or%20Swim), can [swim](../../Browse/Movement/Climb%20or%20Swim) in liquid at full speed.
+A creature who has "[climb](../../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry, or who gains the temporary ability to automatically [climb](../../Browse/Movement/Climb%20or%20Swim.md), can [climb](../../Browse/Movement/Climb%20or%20Swim.md) across vertical and horizontal surfaces at full speed. Likewise, a creature who has "[swim](../../Browse/Movement/Climb%20or%20Swim.md)" in their speed entry, or who gains the temporary ability to automatically [swim](../../Browse/Movement/Climb%20or%20Swim.md), can [swim](../../Browse/Movement/Climb%20or%20Swim.md) in liquid at full speed.
 
-Creatures without those types of movement can still [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) when a rule allows them to move, but each square of [climbing](../../Browse/Movement/Climb%20or%20Swim) or [swimming](../../Browse/Movement/Climb%20or%20Swim) costs 2 squares of movement. If a surface is difficult to [climb](../../Browse/Movement/Climb%20or%20Swim) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../../Browse/Movement/Climb%20or%20Swim) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [swim](../../Browse/Movement/Climb%20or%20Swim.md) when a rule allows them to move, but each square of [climbing](../../Browse/Movement/Climb%20or%20Swim.md) or [swimming](../../Browse/Movement/Climb%20or%20Swim.md) costs 2 squares of movement. If a surface is difficult to [climb](../../Browse/Movement/Climb%20or%20Swim.md) (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to [swim](../../Browse/Movement/Climb%20or%20Swim.md) through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [swim](../../Browse/Movement/Climb%20or%20Swim.md) but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
 ###### Climbing Other Creatures
 
-You can attempt to [climb](../../Browse/Movement/Climb%20or%20Swim) a creature whose size is greater than yours. If the creature is willing, you can [climb](../../Browse/Movement/Climb%20or%20Swim) them without any trouble. If the creature is unwilling, you make the following test:
+You can attempt to [climb](../../Browse/Movement/Climb%20or%20Swim.md) a creature whose size is greater than yours. If the creature is willing, you can [climb](../../Browse/Movement/Climb%20or%20Swim.md) them without any trouble. If the creature is unwilling, you make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim) the creature, and they can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you.
-- **12-16:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
-- **17+:** You [climb](../../Browse/Movement/Climb%20or%20Swim) the creature.
+- **≤11:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim.md) the creature, and they can make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you.
+- **12-16:** You fail to [climb](../../Browse/Movement/Climb%20or%20Swim.md) the creature.
+- **17+:** You [climb](../../Browse/Movement/Climb%20or%20Swim.md) the creature.
 
-While you [climb](../../Browse/Movement/Climb%20or%20Swim) or [ride](../../Browse/Abilities/Common/Move%20Actions/Ride) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+While you [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](../../Browse/Conditions/Prone) as usual (see [Falling](#page-283-3) below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](../../Browse/Conditions/Prone).
+- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](../../Browse/Conditions/Prone.md) as usual (see [Falling](#page-283-3) below).
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land [prone](../../Browse/Conditions/Prone.md).
 - **17+:** You continue to hold on to the creature.
 
-If you are knocked [prone](../../Browse/Conditions/Prone) while [climbing](../../Browse/Movement/Climb%20or%20Swim) or riding a creature, you fall and land [prone](../../Browse/Conditions/Prone) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are knocked [prone](../../Browse/Conditions/Prone.md) while [climbing](../../Browse/Movement/Climb%20or%20Swim.md) or riding a creature, you fall and land [prone](../../Browse/Conditions/Prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
 
 ##### Jump
 
-Whenever an effect allows you to move (including using the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
+Whenever an effect allows you to move (including using the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance.md) move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
-If you want to [jump](../../Browse/Movement/Jump) even longer or higher than your baseline jump allows, make a Might or Agility test:
+If you want to [jump](../../Browse/Movement/Jump.md) even longer or higher than your baseline jump allows, make a Might or Agility test:
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You don't [jump](../../Browse/Movement/Jump) any farther than your baseline [jump](../../Browse/Movement/Jump) allows.
-- **12-16:** You [jump](../../Browse/Movement/Jump) 1 square longer and higher than your baseline [jump](../../Browse/Movement/Jump) allows.
-- **17+:** You [jump](../../Browse/Movement/Jump) 2 squares longer and higher than your baseline [jump](../../Browse/Movement/Jump) allows.
+- **≤11:** You don't [jump](../../Browse/Movement/Jump.md) any farther than your baseline [jump](../../Browse/Movement/Jump.md) allows.
+- **12-16:** You [jump](../../Browse/Movement/Jump.md) 1 square longer and higher than your baseline [jump](../../Browse/Movement/Jump.md) allows.
+- **17+:** You [jump](../../Browse/Movement/Jump.md) 2 squares longer and higher than your baseline [jump](../../Browse/Movement/Jump.md) allows.
 
-You can't [jump](../../Browse/Movement/Jump) farther or higher than the distance of the effect that allows you to move. You can't [jump](../../Browse/Movement/Jump) out of difficult terrain or damaging terrain (see below).
+You can't [jump](../../Browse/Movement/Jump.md) farther or higher than the distance of the effect that allows you to move. You can't [jump](../../Browse/Movement/Jump.md) out of difficult terrain or damaging terrain (see below).
 
 ##### Crawl
 
-If you are [prone](../../Browse/Conditions/Prone) (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain [prone](../../Browse/Conditions/Prone) and [crawl](../../Browse/Movement/Crawl) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/Movement/Crawl). If you intentionally want to [crawl](../../Browse/Movement/Crawl), you can fall [prone](../../Browse/Conditions/Prone) as a free maneuver. While voluntarily [prone](../../Browse/Conditions/Prone), you can choose to stand as a free maneuver.
+If you are [prone](../../Browse/Conditions/Prone.md) (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain [prone](../../Browse/Conditions/Prone.md) and [crawl](../../Browse/Movement/Crawl.md) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/Movement/Crawl.md). If you intentionally want to [crawl](../../Browse/Movement/Crawl.md), you can fall [prone](../../Browse/Conditions/Prone.md) as a free maneuver. While voluntarily [prone](../../Browse/Conditions/Prone.md), you can choose to stand as a free maneuver.
 
 ##### Fly
 
-A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](../../Browse/Movement/Fly), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](../../Browse/Movement/Fly) creature is knocked [prone](../../Browse/Conditions/Prone) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+A creature who has "fly" in their speed entry, or who gains the temporary ability to [fly](../../Browse/Movement/Fly.md), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](../../Browse/Movement/Fly.md) creature is knocked [prone](../../Browse/Conditions/Prone.md) or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
 
 ##### Hover
 
-A creature who has "hover" in their speed entry (most commonly alongside "[fly](../../Browse/Movement/Fly)" or "[teleport](../../Browse/Movement/Teleport)"), or who gains the temporary ability to [hover](../../Browse/Movement/Hover), can remain motionless in midair. They don't fall even if they are knocked [prone](../../Browse/Conditions/Prone) or their speed is reduced to 0.
+A creature who has "hover" in their speed entry (most commonly alongside "[fly](../../Browse/Movement/Fly.md)" or "[teleport](../../Browse/Movement/Teleport.md)"), or who gains the temporary ability to [hover](../../Browse/Movement/Hover.md), can remain motionless in midair. They don't fall even if they are knocked [prone](../../Browse/Conditions/Prone.md) or their speed is reduced to 0.
 
 ##### Teleport
 
-When a creature [teleports](../../Browse/Movement/Teleport), they move from one space to another space instantaneously. The following rules apply to [teleporting](../../Browse/Movement/Teleport):
+When a creature [teleports](../../Browse/Movement/Teleport.md), they move from one space to another space instantaneously. The following rules apply to [teleporting](../../Browse/Movement/Teleport.md):
 
-- [Teleporting](../../Browse/Movement/Teleport) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
-- When a creature [teleports](../../Browse/Movement/Teleport), they bypass any obstacles between the space they leave and their destination space.
-- A creature [teleporting](../../Browse/Movement/Teleport) themself must have line of effect to their destination space. A creature [teleporting](../../Browse/Movement/Teleport) another creature must have line of effect from the space the [teleported](../../Browse/Movement/Teleport) creature leaves and to their destination space.
-- A [teleporting](../../Browse/Movement/Teleport) creature's destination space can't be occupied by another creature or object.
-- The effect that lets a creature [teleport](../../Browse/Movement/Teleport) indicates how far they can [teleport](../../Browse/Movement/Teleport). That distance can be greater than the creature's speed.
-- If a creature can [teleport](../../Browse/Movement/Teleport) as part of their usual movement, they can use the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action to [teleport](../../Browse/Movement/Teleport) a number of squares up to their usual speed, unmodified by conditions or effects.
-- If a creature [teleports](../../Browse/Movement/Teleport) while [prone](../../Browse/Conditions/Prone), they can be standing when they reach their destination space provided they are able to stand. If a [prone](../../Browse/Conditions/Prone) creature is [teleported](../../Browse/Movement/Teleport) by another creature, it is up to that creature whether the [teleported](../../Browse/Movement/Teleport) creature remains [prone](../../Browse/Conditions/Prone) or stands if they are able.
-- If you [teleport](../../Browse/Movement/Teleport) while affected by the [grabbed](../../Browse/Conditions/Grabbed) or [restrained](../../Browse/Conditions/Restrained) conditions, those conditions end for you.
-- When a creature [teleports](../../Browse/Movement/Teleport), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/Movement/Teleport) to and from the same space.
+- [Teleporting](../../Browse/Movement/Teleport.md) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
+- When a creature [teleports](../../Browse/Movement/Teleport.md), they bypass any obstacles between the space they leave and their destination space.
+- A creature [teleporting](../../Browse/Movement/Teleport.md) themself must have line of effect to their destination space. A creature [teleporting](../../Browse/Movement/Teleport.md) another creature must have line of effect from the space the [teleported](../../Browse/Movement/Teleport.md) creature leaves and to their destination space.
+- A [teleporting](../../Browse/Movement/Teleport.md) creature's destination space can't be occupied by another creature or object.
+- The effect that lets a creature [teleport](../../Browse/Movement/Teleport.md) indicates how far they can [teleport](../../Browse/Movement/Teleport.md). That distance can be greater than the creature's speed.
+- If a creature can [teleport](../../Browse/Movement/Teleport.md) as part of their usual movement, they can use the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance.md) move action to [teleport](../../Browse/Movement/Teleport.md) a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature [teleports](../../Browse/Movement/Teleport.md) while [prone](../../Browse/Conditions/Prone.md), they can be standing when they reach their destination space provided they are able to stand. If a [prone](../../Browse/Conditions/Prone.md) creature is [teleported](../../Browse/Movement/Teleport.md) by another creature, it is up to that creature whether the [teleported](../../Browse/Movement/Teleport.md) creature remains [prone](../../Browse/Conditions/Prone.md) or stands if they are able.
+- If you [teleport](../../Browse/Movement/Teleport.md) while affected by the [grabbed](../../Browse/Conditions/Grabbed.md) or [restrained](../../Browse/Conditions/Restrained.md) conditions, those conditions end for you.
+- When a creature [teleports](../../Browse/Movement/Teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/Movement/Teleport.md) to and from the same space.
 
 #### Falling
 
-When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/Conditions/Prone). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
+When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/Conditions/Prone.md). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
 
 Falling is not forced movement, but being force moved downward is considered falling. Movement from falling doesn't provoke opportunity attacks (see [Opportunity Attacks](#page-289-4) below).
 
 ##### Falling Onto Another Creature
 
-A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](../../Browse/Conditions/Prone) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](../../Browse/Conditions/Prone).
+A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands [prone](../../Browse/Conditions/Prone.md) in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked [prone](../../Browse/Conditions/Prone.md).
 
 ##### Falling Far
 
@@ -314,7 +314,7 @@ Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage 
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
-A creature can gain this benefit while [climbing](../../Browse/Movement/Climb%20or%20Swim) only if they have "climb" in their speed entry or can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving.
+A creature can gain this benefit while [climbing](../../Browse/Movement/Climb%20or%20Swim.md) only if they have "climb" in their speed entry or can automatically [climb](../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving.
 
 #### Forced Movement
 
@@ -324,7 +324,7 @@ Some actions and maneuvers allow a creature to push, pull, or slide a target cre
 - **Pull X:** The creature moves the target up to X squares toward them in a straight line, without moving them vertically. Each square the creature moves the target must bring the target closer to them.
 - **Slide X:** The creature moves the target up to X squares in any direction, except for vertically. Unlike a push or a pull, a slide doesn't need to be a straight line.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../../Browse/Classes/Conduit) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../../Browse/Classes/Conduit.md) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
@@ -337,7 +337,7 @@ Forced movement ignores difficult terrain and never provokes opportunity attacks
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [fly](../../Browse/Movement/Fly) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](../../Browse/Movement/Fly) is always a vertical forced move, whether or not the effect specifies it.
+If a creature who can't [fly](../../Browse/Movement/Fly.md) is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is [flying](../../Browse/Movement/Fly.md) is always a vertical forced move, whether or not the effect specifies it.
 
 Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -385,13 +385,13 @@ If any forced movement remains after the object is destroyed, you can continue t
 
 ##### Forced Into a Fall
 
-If you can't [fly](../../Browse/Movement/Fly) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the forced movement ends, you fall.
+If you can't [fly](../../Browse/Movement/Fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the forced movement ends, you fall.
 
 ##### Stability
 
-Each creature has a [stability](../../Browse/Movement/Stability) that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their [stability](../../Browse/Movement/Stability). Heroes start with [stability](../../Browse/Movement/Stability) 0 and can increase their [stability](../../Browse/Movement/Stability) through ancestry, class, and kit options.
+Each creature has a [stability](../../Browse/Movement/Stability.md) that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their [stability](../../Browse/Movement/Stability.md). Heroes start with [stability](../../Browse/Movement/Stability.md) 0 and can increase their [stability](../../Browse/Movement/Stability.md) through ancestry, class, and kit options.
 
-A creature's [stability](../../Browse/Movement/Stability) can't be less than 0, even when reduced by a penalty.
+A creature's [stability](../../Browse/Movement/Stability.md) can't be less than 0, even when reduced by a penalty.
 
 ##### "When a Creature Moves..."
 
@@ -407,15 +407,15 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 
 #### Advance
 
-When a creature takes the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](../../Browse/Abilities/Common/Move%20Actions/Advance.md) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
 #### Disengage
 
-When a creature takes the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they [disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage). A creature who does so can break up their shift with their maneuver and main action however they wish.
+When a creature takes the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they [disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage.md). A creature who does so can break up their shift with their maneuver and main action however they wish.
 
 #### Ride
 
-A creature can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action to have their mount use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage) move action as a free triggered action. A creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+A creature can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) move action to have their mount use the [Disengage](../../Browse/Abilities/Common/Move%20Actions/Disengage.md) move action as a free triggered action. A creature can use the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
 ### Maneuvers
 
@@ -425,17 +425,17 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 
 #### Aid Attack
 
-A creature who uses the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid%20Attack) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+A creature who uses the [Aid Attack](../../Browse/Abilities/Common/Maneuvers/Aid%20Attack.md) maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
 
 #### Catch Breath
 
-A creature who uses the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
+A creature who uses the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
 
-A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver, but other creatures can help them spend Recoveries in other ways.
+A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver, but other creatures can help them spend Recoveries in other ways.
 
 #### Escape Grab
 
-A creature who is [grabbed](../../Browse/Conditions/Grabbed) by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
+A creature who is [grabbed](../../Browse/Conditions/Grabbed.md) by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
 
 <!-- -->
 > ###### Escape Grab
@@ -447,16 +447,16 @@ A creature who is [grabbed](../../Browse/Conditions/Grabbed) by another creature
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can escape the [grab](../../Browse/Abilities/Common/Maneuvers/Grab), but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed).
-> - **17+:** You are no longer [grabbed](../../Browse/Conditions/Grabbed).
+> - **12-16:** You can escape the [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md), but if you do, a creature who has you [grabbed](../../Browse/Conditions/Grabbed.md) can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you before you are no longer [grabbed](../../Browse/Conditions/Grabbed.md).
+> - **17+:** You are no longer [grabbed](../../Browse/Conditions/Grabbed.md).
 >
-> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/Conditions/Grabbed).
+> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/Conditions/Grabbed.md).
 
-See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed.md) condition.
 
 #### Grab
 
-A creature seeking to keep a foe close and locked down can attempt to [grab](../../Browse/Abilities/Common/Maneuvers/Grab) a creature using the following ability.
+A creature seeking to keep a foe close and locked down can attempt to [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md) a creature using the following ability.
 
 <!-- -->
 > ###### Grab
@@ -468,18 +468,18 @@ A creature seeking to keep a foe close and locked down can attempt to [grab](../
 > **Power Roll + Might:**
 >
 > - **≤11:** No effect.
-> - **12-16:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against you before they are [grabbed](../../Browse/Conditions/Grabbed).
-> - **17+:** The target is [grabbed](../../Browse/Conditions/Grabbed) by you.
+> - **12-16:** You can [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md) the target, but if you do, the target can make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against you before they are [grabbed](../../Browse/Conditions/Grabbed.md).
+> - **17+:** The target is [grabbed](../../Browse/Conditions/Grabbed.md) by you.
 >
 > **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-Unless otherwise indicated, a creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab) only one creature at a time.
+Unless otherwise indicated, a creature can [grab](../../Browse/Abilities/Common/Maneuvers/Grab.md) only one creature at a time.
 
-See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed) condition.
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the [grabbed](../../Browse/Conditions/Grabbed.md) condition.
 
 #### Hide
 
-Using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide) maneuver, a creature attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+Using the [Hide](../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver, a creature attempts to [hide](../../Browse/Abilities/Common/Maneuvers/Hide.md) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
 
 #### Knockback
 
@@ -512,7 +512,7 @@ The Search for Hidden Creatures maneuver allows a creature to attempt to locate 
 
 #### Stand Up
 
-A creature can use the Stand Up maneuver to stand up if they are [prone](../../Browse/Conditions/Prone), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](../../Browse/Conditions/Prone) creature stand up.
+A creature can use the Stand Up maneuver to stand up if they are [prone](../../Browse/Conditions/Prone.md), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](../../Browse/Conditions/Prone.md) creature stand up.
 
 #### Use Consumable
 
@@ -522,53 +522,53 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, [charge](../../Browse/Abilities/Common/Main%20Actions/Charge) into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+You can also use your main action to help another creature regain Stamina, [charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) into battle, defend yourself, or make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
 #### Charge
 
-When a creature takes the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+When a creature takes the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, they move up to their speed in a straight line, then make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) keyword, they can use that ability against the target instead of a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
-A creature can't move through difficult terrain or shift when they [charge](../../Browse/Abilities/Common/Main%20Actions/Charge). They can [fly](../../Browse/Movement/Fly) or [burrow](../../Browse/Movement/Burrow) as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) while charging unless they can automatically use that movement at full speed.
+A creature can't move through difficult terrain or shift when they [charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md). They can [fly](../../Browse/Movement/Fly.md) or [burrow](../../Browse/Movement/Burrow.md) as part of the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action if they have that movement available to them, but they can't [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [swim](../../Browse/Movement/Climb%20or%20Swim.md) while charging unless they can automatically use that movement at full speed.
 
 #### Defend
 
-When a creature takes the [Defend](../../Browse/Abilities/Common/Main%20Actions/Defend) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/Conditions/Taunted) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+When a creature takes the [Defend](../../Browse/Abilities/Common/Main%20Actions/Defend.md) main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/Conditions/Taunted.md) by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
 
 #### Free Strike
 
-A creature can use this main action to make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) are available for when all else fails. For instance, a [fury](../../Browse/Classes/Fury) who has no other options for ranged strikes might use the Ranged Weapon [Free Strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability with an improvised weapon when battling a [flying](../../Browse/Movement/Fly) foe.
+A creature can use this main action to make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) are available for when all else fails. For instance, a [fury](../../Browse/Classes/Fury.md) who has no other options for ranged strikes might use the Ranged Weapon [Free Strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) ability with an improvised weapon when battling a [flying](../../Browse/Movement/Fly.md) foe.
 
 #### Heal
 
-A creature who uses the [Heal](../../Browse/Abilities/Common/Main%20Actions/Heal) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+A creature who uses the [Heal](../../Browse/Abilities/Common/Main%20Actions/Heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
 ### Free Strikes
 
-Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) in one main action (see [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge) above).
+Every creature can use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) when the rules call for it. Specific rules let you use [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action lets you move and use a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) in one main action (see [Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md) above).
 
-Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician)'s [Overwatch](../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch) ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+Many rules and abilities allow heroes to make [free strikes](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) when it isn't their turn, such as the [tactician](../../Browse/Classes/Tactician.md)'s [Overwatch](../../Browse/Abilities/Tactician/1st-Level%20Features/Overwatch.md) ability. As well, all characters can make an opportunity attack [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](../../Browse/Classes/Tactician)'s [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](../../Browse/Classes/Tactician.md)'s [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 
-Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the enemy as a free triggered action. This is called an opportunity attack.
+Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
 
 If a creature has a bane or double bane on the power roll against the enemy, they can't make an opportunity attack.
 
 #### Standard Free Strikes
 
-Every hero has two standard [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) abilities available to them. Your class might give you additional [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
+Every hero has two standard [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) abilities available to them. Your class might give you additional [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
 
-A melee weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+A melee weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
 ###### Melee Weapon Free Strike
 
-| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge), Melee, Stike, Weapon** |               **Main action** |
+| **[Charge](../../Browse/Abilities/Common/Main%20Actions/Charge.md), Melee, Stike, Weapon** |               **Main action** |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 | **📏 Melee 1**                                                                                                 | **🎯 One creature or object** |
 
@@ -642,13 +642,13 @@ If multiple damage weaknesses apply to a source of damage, only the weakness wit
 
 ### Stamina
 
-Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../Browse/Conditions/Bleeding) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../Browse/Conditions/Bleeding.md) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
 #### Recoveries and Recovery Value
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 #### Winded
 
@@ -658,7 +658,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath) maneuver in combat. Additionally, you are [bleeding](../../Browse/Conditions/Bleeding), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/Abilities/Common/Maneuvers/Catch%20Breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/Conditions/Bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -680,7 +680,7 @@ Heroes remain unconscious for 1 hour if no one does anything to wake them. After
 
 ##### Unconscious
 
-While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [prone](../../Browse/Conditions/Prone). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from [prone](../../Browse/Conditions/Prone) as a free maneuver.
+While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [prone](../../Browse/Conditions/Prone.md). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from [prone](../../Browse/Conditions/Prone.md) as a free maneuver.
 
 #### Temporary Stamina
 
@@ -705,7 +705,7 @@ The Director can decide that a well-made or poorly made object has more or less 
 
 ### Underwater Combat
 
-If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving, their power rolls take a bane.
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically [swim](../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, their power rolls take a bane.
 
 ### Suffocating
 
@@ -715,11 +715,11 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 ### Mounted Combat
 
-A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../../Browse/Movement/Climb%20or%20Swim) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can [climb](../../Browse/Movement/Climb%20or%20Swim.md) onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/Abilities/Common/Move%20Actions/Ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
-If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](../../Browse/Movement/Teleport) separately.
+If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts [teleport](../../Browse/Movement/Teleport.md) separately.
 
-If your mount dies, they fall [prone](../../Browse/Conditions/Prone), and you fall off them and land [prone](../../Browse/Conditions/Prone) in the nearest unoccupied space of your choice.
+If your mount dies, they fall [prone](../../Browse/Conditions/Prone.md), and you fall off them and land [prone](../../Browse/Conditions/Prone.md) in the nearest unoccupied space of your choice.
 
 ### End of Combat
 
@@ -777,11 +777,11 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ##### Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/Ancestries/Devil) suddenly becomes the heroes' new objective!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/Ancestries/Devil.md) suddenly becomes the heroes' new objective!
 
 ##### Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../Browse/Ancestries/Time%20Raider) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../Browse/Ancestries/Time%20Raider) actually aboard.
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../Browse/Ancestries/Time%20Raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../Browse/Ancestries/Time%20Raider.md) actually aboard.
 
 #### Dramatic Finish
 
@@ -796,6 +796,6 @@ Event endings can cover big scenarios such as the characters destroying a dam to
 <!-- -->
 > **Fleeing Foes**
 >
-> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/Conditions/Grabbed) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/Conditions/Grabbed.md) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 >
 > Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.

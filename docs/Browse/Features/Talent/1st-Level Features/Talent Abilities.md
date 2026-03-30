@@ -22,7 +22,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate), [Kinetic Grip](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Incinerate.md), [Kinetic Grip](../../../../../Browse/Abilities/Talent/1st-Level%20Features/Kinetic%20Grip.md).)
 
 <!-- -->
 > ###### Entropic Bolt
@@ -35,9 +35,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 >
@@ -54,11 +54,11 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
-> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
-> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../../Browse/Conditions/Slowed) (EoT)
+> - **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
+> - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
+> - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../../Browse/Conditions/Slowed.md) (EoT)
 >
-> **Strained:** You are [slowed](../../../../../Browse/Conditions/Slowed) until the end of your next turn. Additionally, a target [slowed](../../../../../Browse/Conditions/Slowed) by this ability is [restrained](../../../../../Browse/Conditions/Restrained) instead.
+> **Strained:** You are [slowed](../../../../../Browse/Conditions/Slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../../Browse/Conditions/Slowed.md) by this ability is [restrained](../../../../../Browse/Conditions/Restrained.md) instead.
 
 <!-- -->
 > ###### Incinerate
@@ -92,9 +92,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > - **≤11:** Slide 2 + R
 > - **12-16:** Slide 4 + R
-> - **17+:** Slide 6 + R; [prone](../../../../../Browse/Conditions/Prone)
+> - **17+:** Slide 6 + R; [prone](../../../../../Browse/Conditions/Prone.md)
 >
-> **Strained:** You must [vertical](../../../../../Browse/Movement/Vertical) push the target instead of sliding them.
+> **Strained:** You must [vertical](../../../../../Browse/Movement/Vertical.md) push the target instead of sliding them.
 
 <!-- -->
 > ###### Kinetic Pulse
@@ -111,7 +111,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 5 psychic damage; push 1
 > - **17+:** 7 psychic damage; push 2
 >
-> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../../../Browse/Conditions/Bleeding) until the start of your next turn.
+> **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../../../Browse/Conditions/Bleeding.md) until the start of your next turn.
 
 <!-- -->
 > ###### Materialize
@@ -143,9 +143,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone)
-> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
-> - **17+:** 6 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone)
+> - **≤11:** 2 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
+> - **12-16:** 4 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
+> - **17+:** 6 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md)
 >
 > **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 >
@@ -191,9 +191,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Choke (3 Clarity)
@@ -206,11 +206,11 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../../Browse/Conditions/Restrained) (save ends)
+> - **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 8 + R damage; M < STRONG, [restrained](../../../../../Browse/Conditions/Restrained.md) (save ends)
 >
-> **Effect:** You can [vertical](../../../../../Browse/Movement/Vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../../Browse/Conditions/Restrained) by this ability, this forced movement ignores their [stability](../../../../../Browse/Movement/Stability).
+> **Effect:** You can [vertical](../../../../../Browse/Movement/Vertical.md) pull the target up to 2 squares. If the target is made [restrained](../../../../../Browse/Conditions/Restrained.md) by this ability, this forced movement ignores their [stability](../../../../../Browse/Movement/Stability.md).
 
 <!-- -->
 > ###### Precognition (3 Clarity)
@@ -221,7 +221,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 > | ------------------------------- | ----------------------: |
 > | **📏 Melee 2**                  | **🎯 Self or one ally** |
 >
-> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the source of the damage.
+> **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the source of the damage.
 
 <!-- -->
 > ###### Smolder (3 Clarity)
@@ -255,7 +255,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 >
 > **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 >
-> **Strained:** You take 1d6 damage and are [slowed](../../../../../Browse/Conditions/Slowed) (save ends).
+> **Strained:** You take 1d6 damage and are [slowed](../../../../../Browse/Conditions/Slowed.md) (save ends).
 
 <!-- -->
 > ###### Inertia Soak (5 Clarity)
@@ -266,9 +266,9 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | -------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 >
-> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../../../Browse/Movement/Stability). A creature can only be force moved this way once a turn.
+> **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's [stability](../../../../../Browse/Movement/Stability.md). A creature can only be force moved this way once a turn.
 >
-> **Strained:** You are [weakened](../../../../../Browse/Conditions/Weakened) (save ends). While you are [weakened](../../../../../Browse/Conditions/Weakened) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+> **Strained:** You are [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends). While you are [weakened](../../../../../Browse/Conditions/Weakened.md) this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
 
 <!-- -->
 > ###### Iron (5 Clarity)
@@ -279,7 +279,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 > | ---------------------------------- | ----------------------: |
 > | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 >
-> **Effect:** The target's [stability](../../../../../Browse/Movement/Stability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../../Browse/Movement/Stability) increase lasts until the target no longer has temporary Stamina from this ability.
+> **Effect:** The target's [stability](../../../../../Browse/Movement/Stability.md) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../../Browse/Movement/Stability.md) increase lasts until the target no longer has temporary Stamina from this ability.
 >
 > **Strained:** You can't use maneuvers (save ends).
 

@@ -14,25 +14,25 @@ type: perk/supernatural
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar)—or to adopt you as their [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar).
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md)—or to adopt you as their [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md).
 
-The spirit uses the [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) stat block.
+The spirit uses the [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md) stat block.
 
-The [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
+The [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 
 **Familiar**
 
-| [Familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) |          -          |            Level -             |                                       -                                        |                                                    EV -                                                     |
+| [Familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md) |          -          |            Level -             |                                       -                                        |                                                    EV -                                                     |
 | :---------------------------------------------------------------------------------: | :-----------------: | :----------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina | **0**<br/> [Stability](../../../../Browse/Movement/Stability) | **-**<br/> [Free Strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) |
+|                                  **1T**<br/> Size                                   |  **5**<br/> Speed   | **2x your level**<br/> Stamina | **0**<br/> [Stability](../../../../Browse/Movement/Stability.md) | **-**<br/> [Free Strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) |
 |                                **-**<br/> Immunities                                | **-**<br/> Movement |                                |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
 |                                  **-3**<br/> Might                                  | **+2**<br/> Agility |       **0**<br/> Reason        |                              **0**<br/> Intuition                              |                                            **+1**<br/> Presence                                             |
 
 <!-- -->
 > **Telepathic**
 >
-> While you and your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> While you and your [familiar](../../../../Browse/Perks/Supernatural%20Perks/Familiar.md) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.

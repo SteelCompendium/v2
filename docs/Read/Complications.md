@@ -32,7 +32,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../../Browse/Complications/Infernal%20Contract) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](../../Browse/Ancestries/Devil)!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose [Infernal Contract](../../Browse/Complications/Infernal%20Contract.md) as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](../../Browse/Ancestries/Devil.md)!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -46,161 +46,161 @@ Complications are presented in alphabetical order.
 
 | d100 | Complication                                                                                                     | d100 | Complication                                                                                                     |
 | ---- | ---------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
-| 1    | [Advanced Studies](../../Browse/Complications/Advanced%20Studies)                         | 51   | [Loner](../../Browse/Complications/Loner)                                                 |
-| 2    | [Amnesia](../../Browse/Complications/Amnesia)                                             | 52   | [Lost in Time](../../Browse/Complications/Lost%20in%20Time)                               |
-| 3    | [Animal Form](../../Browse/Complications/Animal%20Form)                                   | 53   | [Lost Your Head](../../Browse/Complications/Lost%20Your%20Head)                           |
-| 4    | [Antihero](../../Browse/Complications/Antihero)                                           | 54   | [Lucky](../../Browse/Complications/Lucky)                                                 |
-| 5    | [Artifact Bonded](../../Browse/Complications/Artifact%20Bonded)                           | 55   | [Master Chef](../../Browse/Complications/Master%20Chef)                                   |
-| 6    | [Bereaved](../../Browse/Complications/Bereaved)                                           | 56   | [Meddling Butler](../../Browse/Complications/Meddling%20Butler)                           |
-| 7    | [Betrothed](../../Browse/Complications/Betrothed)                                         | 57   | [Medium](../../Browse/Complications/Medium)                                               |
-| 8    | [Chaos Touched](../../Browse/Complications/Chaos%20Touched)                               | 58   | [Medusa Blood](../../Browse/Complications/Medusa%20Blood)                                 |
-| 9    | [Chosen One](../../Browse/Complications/Chosen%20One)                                     | 59   | [Misunderstood](../../Browse/Complications/Misunderstood)                                 |
-| 10   | [Consuming Interest](../../Browse/Complications/Consuming%20Interest)                     | 60   | [Mundane](../../Browse/Complications/Mundane)                                             |
-| 11   | [Corrupted Mentor](../../Browse/Complications/Corrupted%20Mentor)                         | 61   | [Outlaw](../../Browse/Complications/Outlaw)                                               |
-| 12   | [Coward](../../Browse/Complications/Coward)                                               | 62   | [Pirate](../../Browse/Complications/Pirate)                                               |
-| 13   | [Crash Landed](../../Browse/Complications/Crash%20Landed)                                 | 63   | [Preacher](../../Browse/Complications/Preacher)                                           |
-| 14   | [Cult Victim](../../Browse/Complications/Cult%20Victim)                                   | 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness)                   |
-| 15   | [Curse of Caution](../../Browse/Complications/Curse%20of%20Caution)                       | 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii)     |
-| 16   | [Curse of Immortality](../../Browse/Complications/Curse%20of%20Immortality)               | 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice)                 |
-| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune)                 | 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption)                         |
-| 18   | [Curse of Poverty](../../Browse/Complications/Curse%20of%20Poverty)                       | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
-| 19   | [Curse of Punishment](../../Browse/Complications/Curse%20of%20Punishment)                 | 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
-| 20   | [Curse of Stone](../../Browse/Complications/Curse%20of%20Stone)                           | 70   | [Rival](../../Browse/Complications/Rival)                                                 |
-| 21   | [Cursed Weapon](../../Browse/Complications/Cursed%20Weapon)                               | 71   | Rogue [Talent](../../Browse/Classes/Talent)                                               |
-| 22   | [Disgraced](../../Browse/Complications/Disgraced)                                         | 72   | [Runaway](../../Browse/Complications/Runaway)                                             |
-| 23   | [Dragon Dreams](../../Browse/Complications/Dragon%20Dreams)                               | 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure)             |
-| 24   | [Elemental Inside](../../Browse/Complications/Elemental%20Inside)                         | 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity)                           |
-| 25   | [Evanesceria](../../Browse/Complications/Evanesceria)                                     | 75   | [Secret Twin](../../Browse/Complications/Secret%20Twin)                                   |
-| 26   | [Exile](../../Browse/Complications/Exile)                                                 | 76   | Self-Taught                                                                                                      |
-| 27   | [Fallen Immortal](../../Browse/Complications/Fallen%20Immortal)                           | 77   | [Sewer Folk](../../Browse/Complications/Sewer%20Folk)                                     |
-| 28   | [Famous Relative](../../Browse/Complications/Famous%20Relative)                           | 78   | [Shadow](../../Browse/Classes/Shadow) Born                                                |
-| 29   | [Feytouched](../../Browse/Complications/Feytouched)                                       | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
-| 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal)                                   | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
-| 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos)                           | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) | 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
-| 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance)                       | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
-| 34   | [Frostheart](../../Browse/Complications/Frostheart)                                       | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
-| 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This)   | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
-| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](../../Browse/Complications/Strange%20Inheritance)                   |
-| 37   | [Greening](../../Browse/Complications/Greening)                                           | 87   | [Stripped of Rank](../../Browse/Complications/Stripped%20of%20Rank)                       |
-| 38   | [Grifter](../../Browse/Complications/Grifter)                                             | 88   | [Thrill Seeker](../../Browse/Complications/Thrill%20Seeker)                               |
-| 39   | [Grounded](../../Browse/Complications/Grounded)                                           | 89   | [Vampire Scion](../../Browse/Complications/Vampire%20Scion)                               |
-| 40   | [Guilty Conscience](../../Browse/Complications/Guilty%20Conscience)                       | 90   | [Voice in Your Head](../../Browse/Complications/Voice%20in%20Your%20Head)                 |
-| 41   | [Hawk Rider](../../Browse/Complications/Hawk%20Rider)                                     | 91   | [Vow of Duty](../../Browse/Complications/Vow%20of%20Duty)                                 |
-| 42   | [Host Body](../../Browse/Complications/Host%20Body)                                       | 92   | [Vow of Honesty](../../Browse/Complications/Vow%20of%20Honesty)                           |
-| 43   | [Hunted](../../Browse/Complications/Hunted)                                               | 93   | [Waking Dreams](../../Browse/Complications/Waking%20Dreams)                               |
-| 44   | [Hunter](../../Browse/Complications/Hunter)                                               | 94   | [War Dog Collar](../../Browse/Complications/War%20Dog%20Collar)                           |
-| 45   | [Indebted](../../Browse/Complications/Indebted)                                           | 95   | [War of Assassins](../../Browse/Complications/War%20of%20Assassins)                       |
-| 46   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract)                       | 96   | [Ward](../../Browse/Complications/Ward)                                                   |
-| 47   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract)... But, Like, Bad     | 97   | [Waterborn](../../Browse/Complications/Waterborn)                                         |
-| 48   | [Ivory Tower](../../Browse/Complications/Ivory%20Tower)                                   | 98   | [Wodewalker](../../Browse/Complications/Wodewalker)                                       |
-| 49   | [Lifebonded](../../Browse/Complications/Lifebonded)                                       | 99   | [Wrathful Spirit](../../Browse/Complications/Wrathful%20Spirit)                           |
-| 50   | [Lightning Soul](../../Browse/Complications/Lightning%20Soul)                             | 100  | [Wrongly Imprisoned](../../Browse/Complications/Wrongly%20Imprisoned)                     |
+| 1    | [Advanced Studies](../../Browse/Complications/Advanced%20Studies.md)                         | 51   | [Loner](../../Browse/Complications/Loner.md)                                                 |
+| 2    | [Amnesia](../../Browse/Complications/Amnesia.md)                                             | 52   | [Lost in Time](../../Browse/Complications/Lost%20in%20Time.md)                               |
+| 3    | [Animal Form](../../Browse/Complications/Animal%20Form.md)                                   | 53   | [Lost Your Head](../../Browse/Complications/Lost%20Your%20Head.md)                           |
+| 4    | [Antihero](../../Browse/Complications/Antihero.md)                                           | 54   | [Lucky](../../Browse/Complications/Lucky.md)                                                 |
+| 5    | [Artifact Bonded](../../Browse/Complications/Artifact%20Bonded.md)                           | 55   | [Master Chef](../../Browse/Complications/Master%20Chef.md)                                   |
+| 6    | [Bereaved](../../Browse/Complications/Bereaved.md)                                           | 56   | [Meddling Butler](../../Browse/Complications/Meddling%20Butler.md)                           |
+| 7    | [Betrothed](../../Browse/Complications/Betrothed.md)                                         | 57   | [Medium](../../Browse/Complications/Medium.md)                                               |
+| 8    | [Chaos Touched](../../Browse/Complications/Chaos%20Touched.md)                               | 58   | [Medusa Blood](../../Browse/Complications/Medusa%20Blood.md)                                 |
+| 9    | [Chosen One](../../Browse/Complications/Chosen%20One.md)                                     | 59   | [Misunderstood](../../Browse/Complications/Misunderstood.md)                                 |
+| 10   | [Consuming Interest](../../Browse/Complications/Consuming%20Interest.md)                     | 60   | [Mundane](../../Browse/Complications/Mundane.md)                                             |
+| 11   | [Corrupted Mentor](../../Browse/Complications/Corrupted%20Mentor.md)                         | 61   | [Outlaw](../../Browse/Complications/Outlaw.md)                                               |
+| 12   | [Coward](../../Browse/Complications/Coward.md)                                               | 62   | [Pirate](../../Browse/Complications/Pirate.md)                                               |
+| 13   | [Crash Landed](../../Browse/Complications/Crash%20Landed.md)                                 | 63   | [Preacher](../../Browse/Complications/Preacher.md)                                           |
+| 14   | [Cult Victim](../../Browse/Complications/Cult%20Victim.md)                                   | 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness.md)                   |
+| 15   | [Curse of Caution](../../Browse/Complications/Curse%20of%20Caution.md)                       | 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii.md)     |
+| 16   | [Curse of Immortality](../../Browse/Complications/Curse%20of%20Immortality.md)               | 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice.md)                 |
+| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune.md)                 | 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption.md)                         |
+| 18   | [Curse of Poverty](../../Browse/Complications/Curse%20of%20Poverty.md)                       | 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts.md)                       |
+| 19   | [Curse of Punishment](../../Browse/Complications/Curse%20of%20Punishment.md)                 | 69   | [Refugee](../../Browse/Complications/Refugee.md)                                             |
+| 20   | [Curse of Stone](../../Browse/Complications/Curse%20of%20Stone.md)                           | 70   | [Rival](../../Browse/Complications/Rival.md)                                                 |
+| 21   | [Cursed Weapon](../../Browse/Complications/Cursed%20Weapon.md)                               | 71   | Rogue [Talent](../../Browse/Classes/Talent.md)                                               |
+| 22   | [Disgraced](../../Browse/Complications/Disgraced.md)                                         | 72   | [Runaway](../../Browse/Complications/Runaway.md)                                             |
+| 23   | [Dragon Dreams](../../Browse/Complications/Dragon%20Dreams.md)                               | 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure.md)             |
+| 24   | [Elemental Inside](../../Browse/Complications/Elemental%20Inside.md)                         | 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity.md)                           |
+| 25   | [Evanesceria](../../Browse/Complications/Evanesceria.md)                                     | 75   | [Secret Twin](../../Browse/Complications/Secret%20Twin.md)                                   |
+| 26   | [Exile](../../Browse/Complications/Exile.md)                                                 | 76   | Self-Taught                                                                                                      |
+| 27   | [Fallen Immortal](../../Browse/Complications/Fallen%20Immortal.md)                           | 77   | [Sewer Folk](../../Browse/Complications/Sewer%20Folk.md)                                     |
+| 28   | [Famous Relative](../../Browse/Complications/Famous%20Relative.md)                           | 78   | [Shadow](../../Browse/Classes/Shadow.md) Born                                                |
+| 29   | [Feytouched](../../Browse/Complications/Feytouched.md)                                       | 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit.md)                               |
+| 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal.md)                                   | 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy.md)                         |
+| 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos.md)                           | 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked.md)                                     |
+| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps.md) | 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield.md)                          |
+| 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance.md)                       | 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel.md)                           |
+| 34   | [Frostheart](../../Browse/Complications/Frostheart.md)                                       | 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy.md) |
+| 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This.md)   | 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face.md)                                   |
+| 36   | Gnoll-Mauled                                                                                                     | 86   | [Strange Inheritance](../../Browse/Complications/Strange%20Inheritance.md)                   |
+| 37   | [Greening](../../Browse/Complications/Greening.md)                                           | 87   | [Stripped of Rank](../../Browse/Complications/Stripped%20of%20Rank.md)                       |
+| 38   | [Grifter](../../Browse/Complications/Grifter.md)                                             | 88   | [Thrill Seeker](../../Browse/Complications/Thrill%20Seeker.md)                               |
+| 39   | [Grounded](../../Browse/Complications/Grounded.md)                                           | 89   | [Vampire Scion](../../Browse/Complications/Vampire%20Scion.md)                               |
+| 40   | [Guilty Conscience](../../Browse/Complications/Guilty%20Conscience.md)                       | 90   | [Voice in Your Head](../../Browse/Complications/Voice%20in%20Your%20Head.md)                 |
+| 41   | [Hawk Rider](../../Browse/Complications/Hawk%20Rider.md)                                     | 91   | [Vow of Duty](../../Browse/Complications/Vow%20of%20Duty.md)                                 |
+| 42   | [Host Body](../../Browse/Complications/Host%20Body.md)                                       | 92   | [Vow of Honesty](../../Browse/Complications/Vow%20of%20Honesty.md)                           |
+| 43   | [Hunted](../../Browse/Complications/Hunted.md)                                               | 93   | [Waking Dreams](../../Browse/Complications/Waking%20Dreams.md)                               |
+| 44   | [Hunter](../../Browse/Complications/Hunter.md)                                               | 94   | [War Dog Collar](../../Browse/Complications/War%20Dog%20Collar.md)                           |
+| 45   | [Indebted](../../Browse/Complications/Indebted.md)                                           | 95   | [War of Assassins](../../Browse/Complications/War%20of%20Assassins.md)                       |
+| 46   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract.md)                       | 96   | [Ward](../../Browse/Complications/Ward.md)                                                   |
+| 47   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract.md)... But, Like, Bad     | 97   | [Waterborn](../../Browse/Complications/Waterborn.md)                                         |
+| 48   | [Ivory Tower](../../Browse/Complications/Ivory%20Tower.md)                                   | 98   | [Wodewalker](../../Browse/Complications/Wodewalker.md)                                       |
+| 49   | [Lifebonded](../../Browse/Complications/Lifebonded.md)                                       | 99   | [Wrathful Spirit](../../Browse/Complications/Wrathful%20Spirit.md)                           |
+| 50   | [Lightning Soul](../../Browse/Complications/Lightning%20Soul.md)                             | 100  | [Wrongly Imprisoned](../../Browse/Complications/Wrongly%20Imprisoned.md)                     |
 
 ###### Complications Table
 
 | d100 | Complication                                                                                                     |
 | ---- | ---------------------------------------------------------------------------------------------------------------- |
-| 1    | [Advanced Studies](../../Browse/Complications/Advanced%20Studies)                         |
-| 2    | [Amnesia](../../Browse/Complications/Amnesia)                                             |
-| 3    | [Animal Form](../../Browse/Complications/Animal%20Form)                                   |
-| 4    | [Antihero](../../Browse/Complications/Antihero)                                           |
-| 5    | [Artifact Bonded](../../Browse/Complications/Artifact%20Bonded)                           |
-| 6    | [Bereaved](../../Browse/Complications/Bereaved)                                           |
-| 7    | [Betrothed](../../Browse/Complications/Betrothed)                                         |
-| 8    | [Chaos Touched](../../Browse/Complications/Chaos%20Touched)                               |
-| 9    | [Chosen One](../../Browse/Complications/Chosen%20One)                                     |
-| 10   | [Consuming Interest](../../Browse/Complications/Consuming%20Interest)                     |
-| 11   | [Corrupted Mentor](../../Browse/Complications/Corrupted%20Mentor)                         |
-| 12   | [Coward](../../Browse/Complications/Coward)                                               |
-| 13   | [Crash Landed](../../Browse/Complications/Crash%20Landed)                                 |
-| 14   | [Cult Victim](../../Browse/Complications/Cult%20Victim)                                   |
-| 15   | [Curse of Caution](../../Browse/Complications/Curse%20of%20Caution)                       |
-| 16   | [Curse of Immortality](../../Browse/Complications/Curse%20of%20Immortality)               |
-| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune)                 |
-| 18   | [Curse of Poverty](../../Browse/Complications/Curse%20of%20Poverty)                       |
-| 19   | [Curse of Punishment](../../Browse/Complications/Curse%20of%20Punishment)                 |
-| 20   | [Curse of Stone](../../Browse/Complications/Curse%20of%20Stone)                           |
-| 21   | [Cursed Weapon](../../Browse/Complications/Cursed%20Weapon)                               |
-| 22   | [Disgraced](../../Browse/Complications/Disgraced)                                         |
-| 23   | [Dragon Dreams](../../Browse/Complications/Dragon%20Dreams)                               |
-| 24   | [Elemental Inside](../../Browse/Complications/Elemental%20Inside)                         |
-| 25   | [Evanesceria](../../Browse/Complications/Evanesceria)                                     |
-| 26   | [Exile](../../Browse/Complications/Exile)                                                 |
-| 27   | [Fallen Immortal](../../Browse/Complications/Fallen%20Immortal)                           |
-| 28   | [Famous Relative](../../Browse/Complications/Famous%20Relative)                           |
-| 29   | [Feytouched](../../Browse/Complications/Feytouched)                                       |
-| 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal)                                   |
-| 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos)                           |
-| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps) |
-| 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance)                       |
-| 34   | [Frostheart](../../Browse/Complications/Frostheart)                                       |
-| 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This)   |
+| 1    | [Advanced Studies](../../Browse/Complications/Advanced%20Studies.md)                         |
+| 2    | [Amnesia](../../Browse/Complications/Amnesia.md)                                             |
+| 3    | [Animal Form](../../Browse/Complications/Animal%20Form.md)                                   |
+| 4    | [Antihero](../../Browse/Complications/Antihero.md)                                           |
+| 5    | [Artifact Bonded](../../Browse/Complications/Artifact%20Bonded.md)                           |
+| 6    | [Bereaved](../../Browse/Complications/Bereaved.md)                                           |
+| 7    | [Betrothed](../../Browse/Complications/Betrothed.md)                                         |
+| 8    | [Chaos Touched](../../Browse/Complications/Chaos%20Touched.md)                               |
+| 9    | [Chosen One](../../Browse/Complications/Chosen%20One.md)                                     |
+| 10   | [Consuming Interest](../../Browse/Complications/Consuming%20Interest.md)                     |
+| 11   | [Corrupted Mentor](../../Browse/Complications/Corrupted%20Mentor.md)                         |
+| 12   | [Coward](../../Browse/Complications/Coward.md)                                               |
+| 13   | [Crash Landed](../../Browse/Complications/Crash%20Landed.md)                                 |
+| 14   | [Cult Victim](../../Browse/Complications/Cult%20Victim.md)                                   |
+| 15   | [Curse of Caution](../../Browse/Complications/Curse%20of%20Caution.md)                       |
+| 16   | [Curse of Immortality](../../Browse/Complications/Curse%20of%20Immortality.md)               |
+| 17   | [Curse of Misfortune](../../Browse/Complications/Curse%20of%20Misfortune.md)                 |
+| 18   | [Curse of Poverty](../../Browse/Complications/Curse%20of%20Poverty.md)                       |
+| 19   | [Curse of Punishment](../../Browse/Complications/Curse%20of%20Punishment.md)                 |
+| 20   | [Curse of Stone](../../Browse/Complications/Curse%20of%20Stone.md)                           |
+| 21   | [Cursed Weapon](../../Browse/Complications/Cursed%20Weapon.md)                               |
+| 22   | [Disgraced](../../Browse/Complications/Disgraced.md)                                         |
+| 23   | [Dragon Dreams](../../Browse/Complications/Dragon%20Dreams.md)                               |
+| 24   | [Elemental Inside](../../Browse/Complications/Elemental%20Inside.md)                         |
+| 25   | [Evanesceria](../../Browse/Complications/Evanesceria.md)                                     |
+| 26   | [Exile](../../Browse/Complications/Exile.md)                                                 |
+| 27   | [Fallen Immortal](../../Browse/Complications/Fallen%20Immortal.md)                           |
+| 28   | [Famous Relative](../../Browse/Complications/Famous%20Relative.md)                           |
+| 29   | [Feytouched](../../Browse/Complications/Feytouched.md)                                       |
+| 30   | [Fiery Ideal](../../Browse/Complications/Fiery%20Ideal.md)                                   |
+| 31   | [Fire and Chaos](../../Browse/Complications/Fire%20and%20Chaos.md)                           |
+| 32   | [Following in the Footsteps](../../Browse/Complications/Following%20in%20the%20Footsteps.md) |
+| 33   | [Forbidden Romance](../../Browse/Complications/Forbidden%20Romance.md)                       |
+| 34   | [Frostheart](../../Browse/Complications/Frostheart.md)                                       |
+| 35   | [Getting Too Old for This](../../Browse/Complications/Getting%20Too%20Old%20for%20This.md)   |
 | 36   | Gnoll-Mauled                                                                                                     |
-| 37   | [Greening](../../Browse/Complications/Greening)                                           |
-| 38   | [Grifter](../../Browse/Complications/Grifter)                                             |
-| 39   | [Grounded](../../Browse/Complications/Grounded)                                           |
-| 40   | [Guilty Conscience](../../Browse/Complications/Guilty%20Conscience)                       |
-| 41   | [Hawk Rider](../../Browse/Complications/Hawk%20Rider)                                     |
-| 42   | [Host Body](../../Browse/Complications/Host%20Body)                                       |
-| 43   | [Hunted](../../Browse/Complications/Hunted)                                               |
-| 44   | [Hunter](../../Browse/Complications/Hunter)                                               |
-| 45   | [Indebted](../../Browse/Complications/Indebted)                                           |
-| 46   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract)                       |
-| 47   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract)... But, Like, Bad     |
-| 48   | [Ivory Tower](../../Browse/Complications/Ivory%20Tower)                                   |
-| 49   | [Lifebonded](../../Browse/Complications/Lifebonded)                                       |
-| 50   | [Lightning Soul](../../Browse/Complications/Lightning%20Soul)                             |
-| 51   | [Loner](../../Browse/Complications/Loner)                                                 |
-| 52   | [Lost in Time](../../Browse/Complications/Lost%20in%20Time)                               |
-| 53   | [Lost Your Head](../../Browse/Complications/Lost%20Your%20Head)                           |
-| 54   | [Lucky](../../Browse/Complications/Lucky)                                                 |
-| 55   | [Master Chef](../../Browse/Complications/Master%20Chef)                                   |
-| 56   | [Meddling Butler](../../Browse/Complications/Meddling%20Butler)                           |
-| 57   | [Medium](../../Browse/Complications/Medium)                                               |
-| 58   | [Medusa Blood](../../Browse/Complications/Medusa%20Blood)                                 |
-| 59   | [Misunderstood](../../Browse/Complications/Misunderstood)                                 |
-| 60   | [Mundane](../../Browse/Complications/Mundane)                                             |
-| 61   | [Outlaw](../../Browse/Complications/Outlaw)                                               |
-| 62   | [Pirate](../../Browse/Complications/Pirate)                                               |
-| 63   | [Preacher](../../Browse/Complications/Preacher)                                           |
-| 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness)                   |
-| 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii)     |
-| 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice)                 |
-| 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption)                         |
-| 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts)                       |
-| 69   | [Refugee](../../Browse/Complications/Refugee)                                             |
-| 70   | [Rival](../../Browse/Complications/Rival)                                                 |
-| 71   | [Rogue Talent](../../Browse/Complications/Rogue%20Talent)                                 |
-| 72   | [Runaway](../../Browse/Complications/Runaway)                                             |
-| 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure)             |
-| 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity)                           |
-| 75   | [Secret Twin](../../Browse/Complications/Secret%20Twin)                                   |
+| 37   | [Greening](../../Browse/Complications/Greening.md)                                           |
+| 38   | [Grifter](../../Browse/Complications/Grifter.md)                                             |
+| 39   | [Grounded](../../Browse/Complications/Grounded.md)                                           |
+| 40   | [Guilty Conscience](../../Browse/Complications/Guilty%20Conscience.md)                       |
+| 41   | [Hawk Rider](../../Browse/Complications/Hawk%20Rider.md)                                     |
+| 42   | [Host Body](../../Browse/Complications/Host%20Body.md)                                       |
+| 43   | [Hunted](../../Browse/Complications/Hunted.md)                                               |
+| 44   | [Hunter](../../Browse/Complications/Hunter.md)                                               |
+| 45   | [Indebted](../../Browse/Complications/Indebted.md)                                           |
+| 46   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract.md)                       |
+| 47   | [Infernal Contract](../../Browse/Complications/Infernal%20Contract.md)... But, Like, Bad     |
+| 48   | [Ivory Tower](../../Browse/Complications/Ivory%20Tower.md)                                   |
+| 49   | [Lifebonded](../../Browse/Complications/Lifebonded.md)                                       |
+| 50   | [Lightning Soul](../../Browse/Complications/Lightning%20Soul.md)                             |
+| 51   | [Loner](../../Browse/Complications/Loner.md)                                                 |
+| 52   | [Lost in Time](../../Browse/Complications/Lost%20in%20Time.md)                               |
+| 53   | [Lost Your Head](../../Browse/Complications/Lost%20Your%20Head.md)                           |
+| 54   | [Lucky](../../Browse/Complications/Lucky.md)                                                 |
+| 55   | [Master Chef](../../Browse/Complications/Master%20Chef.md)                                   |
+| 56   | [Meddling Butler](../../Browse/Complications/Meddling%20Butler.md)                           |
+| 57   | [Medium](../../Browse/Complications/Medium.md)                                               |
+| 58   | [Medusa Blood](../../Browse/Complications/Medusa%20Blood.md)                                 |
+| 59   | [Misunderstood](../../Browse/Complications/Misunderstood.md)                                 |
+| 60   | [Mundane](../../Browse/Complications/Mundane.md)                                             |
+| 61   | [Outlaw](../../Browse/Complications/Outlaw.md)                                               |
+| 62   | [Pirate](../../Browse/Complications/Pirate.md)                                               |
+| 63   | [Preacher](../../Browse/Complications/Preacher.md)                                           |
+| 64   | [Primordial Sickness](../../Browse/Complications/Primordial%20Sickness.md)                   |
+| 65   | [Prisoner of the Synlirii](../../Browse/Complications/Prisoner%20of%20the%20Synlirii.md)     |
+| 66   | [Promising Apprentice](../../Browse/Complications/Promising%20Apprentice.md)                 |
+| 67   | [Psychic Eruption](../../Browse/Complications/Psychic%20Eruption.md)                         |
+| 68   | [Raised by Beasts](../../Browse/Complications/Raised%20by%20Beasts.md)                       |
+| 69   | [Refugee](../../Browse/Complications/Refugee.md)                                             |
+| 70   | [Rival](../../Browse/Complications/Rival.md)                                                 |
+| 71   | [Rogue Talent](../../Browse/Complications/Rogue%20Talent.md)                                 |
+| 72   | [Runaway](../../Browse/Complications/Runaway.md)                                             |
+| 73   | [Searching for a Cure](../../Browse/Complications/Searching%20for%20a%20Cure.md)             |
+| 74   | [Secret Identity](../../Browse/Complications/Secret%20Identity.md)                           |
+| 75   | [Secret Twin](../../Browse/Complications/Secret%20Twin.md)                                   |
 | 76   | Self-Taught                                                                                                      |
-| 77   | [Sewer Folk](../../Browse/Complications/Sewer%20Folk)                                     |
-| 78   | [Shadow](../../Browse/Classes/Shadow) Born                                                |
-| 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit)                               |
-| 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy)                         |
-| 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked)                                     |
-| 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield)                          |
-| 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel)                           |
-| 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy) |
-| 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face)                                   |
-| 86   | [Strange Inheritance](../../Browse/Complications/Strange%20Inheritance)                   |
-| 87   | [Stripped of Rank](../../Browse/Complications/Stripped%20of%20Rank)                       |
-| 88   | [Thrill Seeker](../../Browse/Complications/Thrill%20Seeker)                               |
-| 89   | [Vampire Scion](../../Browse/Complications/Vampire%20Scion)                               |
-| 90   | [Voice in Your Head](../../Browse/Complications/Voice%20in%20Your%20Head)                 |
-| 91   | [Vow of Duty](../../Browse/Complications/Vow%20of%20Duty)                                 |
-| 92   | [Vow of Honesty](../../Browse/Complications/Vow%20of%20Honesty)                           |
-| 93   | [Waking Dreams](../../Browse/Complications/Waking%20Dreams)                               |
-| 94   | [War Dog Collar](../../Browse/Complications/War%20Dog%20Collar)                           |
-| 95   | [War of Assassins](../../Browse/Complications/War%20of%20Assassins)                       |
-| 96   | [Ward](../../Browse/Complications/Ward)                                                   |
-| 97   | [Waterborn](../../Browse/Complications/Waterborn)                                         |
-| 98   | [Wodewalker](../../Browse/Complications/Wodewalker)                                       |
-| 99   | [Wrathful Spirit](../../Browse/Complications/Wrathful%20Spirit)                           |
-| 100  | [Wrongly Imprisoned](../../Browse/Complications/Wrongly%20Imprisoned)                     |
+| 77   | [Sewer Folk](../../Browse/Complications/Sewer%20Folk.md)                                     |
+| 78   | [Shadow](../../Browse/Classes/Shadow.md) Born                                                |
+| 79   | [Shared Spirit](../../Browse/Complications/Shared%20Spirit.md)                               |
+| 80   | [Shattered Legacy](../../Browse/Complications/Shattered%20Legacy.md)                         |
+| 81   | [Shipwrecked](../../Browse/Complications/Shipwrecked.md)                                     |
+| 82   | [Sibling's Shield](../../Browse/Complications/Siblings%20Shield.md)                          |
+| 83   | [Silent Sentinel](../../Browse/Complications/Silent%20Sentinel.md)                           |
+| 84   | [Slight Case of Lycanthropy](../../Browse/Complications/Slight%20Case%20of%20Lycanthropy.md) |
+| 85   | [Stolen Face](../../Browse/Complications/Stolen%20Face.md)                                   |
+| 86   | [Strange Inheritance](../../Browse/Complications/Strange%20Inheritance.md)                   |
+| 87   | [Stripped of Rank](../../Browse/Complications/Stripped%20of%20Rank.md)                       |
+| 88   | [Thrill Seeker](../../Browse/Complications/Thrill%20Seeker.md)                               |
+| 89   | [Vampire Scion](../../Browse/Complications/Vampire%20Scion.md)                               |
+| 90   | [Voice in Your Head](../../Browse/Complications/Voice%20in%20Your%20Head.md)                 |
+| 91   | [Vow of Duty](../../Browse/Complications/Vow%20of%20Duty.md)                                 |
+| 92   | [Vow of Honesty](../../Browse/Complications/Vow%20of%20Honesty.md)                           |
+| 93   | [Waking Dreams](../../Browse/Complications/Waking%20Dreams.md)                               |
+| 94   | [War Dog Collar](../../Browse/Complications/War%20Dog%20Collar.md)                           |
+| 95   | [War of Assassins](../../Browse/Complications/War%20of%20Assassins.md)                       |
+| 96   | [Ward](../../Browse/Complications/Ward.md)                                                   |
+| 97   | [Waterborn](../../Browse/Complications/Waterborn.md)                                         |
+| 98   | [Wodewalker](../../Browse/Complications/Wodewalker.md)                                       |
+| 99   | [Wrathful Spirit](../../Browse/Complications/Wrathful%20Spirit.md)                           |
+| 100  | [Wrongly Imprisoned](../../Browse/Complications/Wrongly%20Imprisoned.md)                     |
 
 #### Advanced Studies
 
@@ -224,7 +224,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow) or [fly](../../Browse/Movement/Fly), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md), [Hide](../../Browse/Abilities/Common/Maneuvers/Hide.md), and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/Movement/Burrow.md) or [fly](../../Browse/Movement/Fly.md), or to automatically [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [swim](../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -234,9 +234,9 @@ Unless you use this benefit again, you return to your true form at the start of 
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
-**Benefit:** You have 3 [antihero](../../Browse/Complications/Antihero) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](../../Browse/Complications/Antihero) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](../../Browse/Complications/Antihero) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](../../Browse/Complications/Antihero) token.
+**Benefit:** You have 3 [antihero](../../Browse/Complications/Antihero.md) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](../../Browse/Complications/Antihero.md) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](../../Browse/Complications/Antihero.md) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](../../Browse/Complications/Antihero.md) token.
 
-**Drawback:** While you have fewer than 3 [antihero](../../Browse/Complications/Antihero) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+**Drawback:** While you have fewer than 3 [antihero](../../Browse/Complications/Antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 
 #### Artifact Bonded
 
@@ -266,7 +266,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab), [Grab](../../Browse/Abilities/Common/Maneuvers/Grab), and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape%20Grab.md), [Grab](../../Browse/Abilities/Common/Maneuvers/Grab.md), and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -321,9 +321,9 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
-**Benefit:** While you are [frightened](../../Browse/Conditions/Frightened), you can move toward the source of your fear.
+**Benefit:** While you are [frightened](../../Browse/Conditions/Frightened.md), you can move toward the source of your fear.
 
-**Drawback:** Whenever you make a saving throw to end the [frightened](../../Browse/Conditions/Frightened) condition, you roll a d10 twice and take the lower roll.
+**Drawback:** Whenever you make a saving throw to end the [frightened](../../Browse/Conditions/Frightened.md) condition, you roll a d10 twice and take the lower roll.
 
 #### Crash Landed
 
@@ -331,7 +331,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a pi
 
 **Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](../../Browse/Complications/Crash%20Landed).
+**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](../../Browse/Complications/Crash%20Landed.md).
 
 #### Cult Victim
 
@@ -361,7 +361,7 @@ For as long as you can remember, you've never gotten older. You've simply advent
 
 You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
 
-**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](../../Browse/Conditions/Prone).
+**Benefit and Drawback:** Whenever you make a test in combat and incur a consequence, you ignore that consequence. Instead, you and each ally adjacent to you fall [prone](../../Browse/Conditions/Prone.md).
 
 #### Curse of Poverty
 
@@ -381,9 +381,9 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
 
-**Benefit:** You have a +1 bonus to [stability](../../Browse/Movement/Stability). Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
+**Benefit:** You have a +1 bonus to [stability](../../Browse/Movement/Stability.md). Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a mundane statue while you remain unmoving.
 
-**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](../../Browse/Conditions/Dazed).
+**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](../../Browse/Conditions/Dazed.md).
 
 #### Cursed Weapon
 
@@ -395,7 +395,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 #### Disgraced
 
-You're a [disgraced](../../Browse/Complications/Disgraced) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
+You're a [disgraced](../../Browse/Complications/Disgraced.md) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
 **Benefit:** You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skill group.
 
@@ -405,7 +405,7 @@ You're a [disgraced](../../Browse/Complications/Disgraced) member of a powerful 
 
 You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven't told anyone about these dreams, except for your one strange relative who seems to know more than they're letting on.
 
-**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../../Browse/Ancestries/Dragon%20Knight) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
+**Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../../Browse/Ancestries/Dragon%20Knight.md) traits (see [Chapter 3: Ancestries](#page-35-0)). You can use these traits whenever you have 5 or more Victories.
 
 **Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
@@ -419,7 +419,7 @@ When an evil mage threatened someone you loved, you blocked that foe's summoning
 
 #### Evanesceria
 
-You have contracted a rare magical disease called [evanesceria](../../Browse/Complications/Evanesceria). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
+You have contracted a rare magical disease called [evanesceria](../../Browse/Complications/Evanesceria.md). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
 **Benefit:** At the start of any combat round, you can attempt to absent yourself from reality by rolling a d10. On a 6 or higher, you disappear, then reappear in the space you left or the nearest unoccupied space of your choice when you take your turn. You can't attempt to absent yourself again until you earn 1 or more Victories.
 
@@ -429,7 +429,7 @@ You have contracted a rare magical disease called [evanesceria](../../Browse/Com
 
 Whether you're a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you've been cast forth from your homeland, never to return. At least not until you're strong enough to set things right.
 
-**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background)).
+**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background.md)).
 
 **Drawback:** If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 
@@ -443,7 +443,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 #### Famous Relative
 
-Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../../Browse/Complications/Famous%20Relative). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
+Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../../Browse/Complications/Famous%20Relative.md). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
 **Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
@@ -481,15 +481,15 @@ Your personal idol was a mighty hero, and you have modeled yourself after them. 
 
 #### Forbidden Romance
 
-You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](../../Browse/Complications/Betrothed) to another, or has been driven from your side, you are fated to always be apart.
+You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](../../Browse/Complications/Betrothed.md) to another, or has been driven from your side, you are fated to always be apart.
 
-**Benefit:** You can secretly call on your [betrothed](../../Browse/Complications/Betrothed) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+**Benefit:** You can secretly call on your [betrothed](../../Browse/Complications/Betrothed.md) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
 
 **Drawback:** When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 
 #### Frostheart
 
-At the edge of the world, you were lost in a winter storm and [presumed dead](../../Browse/Titles/1st%20Echelon/Presumed%20Dead). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](../../Browse/Titles/1st%20Echelon/Presumed%20Dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 
@@ -507,11 +507,11 @@ You were once a renowned hero, but you've been living the last few years in blis
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
-**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
-**Drawback:** While you are [dazed](../../Browse/Conditions/Dazed), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against an adjacent creature.
+**Drawback:** While you are [dazed](../../Browse/Conditions/Dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against an adjacent creature.
 
-**Special:** You can't take this complication if you can't be made [dazed](../../Browse/Conditions/Dazed).
+**Special:** You can't take this complication if you can't be made [dazed](../../Browse/Conditions/Dazed.md).
 
 #### Greening
 
@@ -533,7 +533,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level [Elementalist](../../Browse/Classes/Elementalist) Specialization feature [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth) (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth) ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist](../../Browse/Classes/Elementalist.md) Specialization feature [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md) (see [Chapter 5: Classes](#page-83-2)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/Abilities/Elementalist/1st-Level%20Features/Motivate%20Earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -557,13 +557,13 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](#p
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/Complications/Host%20Body) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/Complications/Host%20Body) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/Complications/Host%20Body), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/Complications/Host%20Body) dies if it was alive. Your new [host body](../../Browse/Complications/Host%20Body) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](../../Browse/Complications/Host%20Body)'s ancestry, which you instead gain from your new [host body](../../Browse/Complications/Host%20Body). When you inhabit a new [host body](../../Browse/Complications/Host%20Body), you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/Complications/Host%20Body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/Complications/Host%20Body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/Complications/Host%20Body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/Complications/Host%20Body.md) dies if it was alive. Your new [host body](../../Browse/Complications/Host%20Body.md) gains all your statistics except size, ancestry traits, and other statistics related to your former [host body](../../Browse/Complications/Host%20Body.md)'s ancestry, which you instead gain from your new [host body](../../Browse/Complications/Host%20Body.md). When you inhabit a new [host body](../../Browse/Complications/Host%20Body.md), you start with 1 Stamina and can immediately spend a Recovery.
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](../../Browse/Ancestries/Revenant), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a [revenant](../../Browse/Ancestries/Revenant.md), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
@@ -597,11 +597,11 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Benefit:** Whenever you are present for a battle in which both sides have creatures who aren't surprised, your side determines who goes first if the d10 roll is a 4 or higher (see [Combat Round](#page-279-1) in [Chapter 10: Combat](#page-288-0)).
 
-**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](../../Browse/Ancestries/Devil) after you and those you care about.
+**Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](../../Browse/Ancestries/Devil.md) after you and those you care about.
 
 #### Infernal Contract... But, Like, Bad
 
-You made a deal with a [devil](../../Browse/Ancestries/Devil). Not a very good deal, because it wasn't a very good [devil](../../Browse/Ancestries/Devil). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](../../Browse/Ancestries/Devil) to void the deal.
+You made a deal with a [devil](../../Browse/Ancestries/Devil.md). Not a very good deal, because it wasn't a very good [devil](../../Browse/Ancestries/Devil.md). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](../../Browse/Ancestries/Devil.md) to void the deal.
 
 **Benefit:** Choose one of the following benefits:
 
@@ -615,7 +615,7 @@ You made a deal with a [devil](../../Browse/Ancestries/Devil). Not a very good d
 
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
-**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background)).
+**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](../Chapters/Background.md)).
 
 **Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
 
@@ -623,13 +623,13 @@ You studied in an academy or other educational institution. Your training was th
 
 In a sinister ritual, your soul has been bound to that of another creature. This might be a companion, a creature you are beholden to, or an enemy. When they die, you die—making you the perfect bodyguard.
 
-**Benefit:** Choose another creature who doesn't have the [Lifebonded](../../Browse/Complications/Lifebonded) complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
+**Benefit:** Choose another creature who doesn't have the [Lifebonded](../../Browse/Complications/Lifebonded.md) complication. When you die, your body disappears until that creature finishes a respite or earns 1 or more Victories. You then appear next to the creature, fully healed.
 
 **Drawback:** If the creature you're bound to dies, you die as well, no matter what other traits or features you have.
 
 #### Lightning Soul
 
-You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](../../Browse/Classes/Elementalist), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
+You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](../../Browse/Classes/Elementalist.md), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
 **Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
 
@@ -641,7 +641,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](../../Browse/Conditions/Taunted) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](../../Browse/Conditions/Taunted), or the end of the encounter.
+**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](../../Browse/Conditions/Taunted.md) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](../../Browse/Conditions/Taunted.md), or the end of the encounter.
 
 #### Lost in Time
 
@@ -734,9 +734,9 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > **Power Roll + Might or Presence:**
 >
-> - **≤11:** 2 damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 4 damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 6 damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 2 damage; M < WEAK, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 4 damage; M < AVERAGE, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 6 damage; M < STRONG, [slowed](../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
 
@@ -827,7 +827,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
 > - **17+:** 1 psychic damage for each Heroic Resource you spend
 
-**Drawback:** Whenever you become [bleeding](../../Browse/Conditions/Bleeding), [frightened](../../Browse/Conditions/Frightened), or [weakened](../../Browse/Conditions/Weakened), you must use Psychic Blast as a free triggered action.
+**Drawback:** Whenever you become [bleeding](../../Browse/Conditions/Bleeding.md), [frightened](../../Browse/Conditions/Frightened.md), or [weakened](../../Browse/Conditions/Weakened.md), you must use Psychic Blast as a free triggered action.
 
 #### Raised by Beasts
 
@@ -835,7 +835,7 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
-**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](../Chapters/Background)), though you can speak Caelian.
+**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](../Chapters/Background.md)), though you can speak Caelian.
 
 #### Refugee
 
@@ -857,7 +857,7 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.
 
-**Benefit:** You have the following ability, which you can use as a ranged [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike).
+**Benefit:** You have the following ability, which you can use as a ranged [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md).
 
 <!-- -->
 > ###### Telekinetic Grasp
@@ -898,11 +898,11 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your Renown and Wealth are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
-**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../../Browse/Complications/Secret%20Identity) for 1 day.
+**Drawback:** Each time you resume your true identity while you are still hunted, you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../../Browse/Complications/Secret%20Identity.md) for 1 day.
 
 #### Secret Twin
 
-You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](../../Browse/Complications/Secret%20Twin) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
+You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](../../Browse/Complications/Secret%20Twin.md) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
 **Benefit:** You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and has their name or sigil written, sewn, or emblazoned on it somewhere.
 
@@ -918,7 +918,7 @@ While your peers were learning their trades in fancy schools, you honed your cap
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
-**Benefit:** You can automatically [climb](../../Browse/Movement/Climb%20or%20Swim) or [swim](../../Browse/Movement/Climb%20or%20Swim) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
+**Benefit:** You can automatically [climb](../../Browse/Movement/Climb%20or%20Swim.md) or [swim](../../Browse/Movement/Climb%20or%20Swim.md) (your choice) at full speed while moving, and you never get lost while underground. Additionally, while in a city with sewers, you and your companions can move from place to place without being detected, as the Director determines.
 
 **Drawback:** You have poison weakness 5.
 
@@ -956,7 +956,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
-**Benefit:** While you wear your [sibling's shield](../../Browse/Complications/Siblings%20Shield) on your back, you can't be flanked.
+**Benefit:** While you wear your [sibling's shield](../../Browse/Complications/Siblings%20Shield.md) on your back, you can't be flanked.
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
 
@@ -966,7 +966,7 @@ You were trained by a group of spies, who psionically infused silence into your 
 
 **Benefit:** You have the Eavesdrop and Sneak skills from the intrigue skill group, plus one skill of your choice from the lore skill group. Additionally, you can telepathically communicate with any creature provided they share a language with you and you can observe each other. A creature you communicate with this way can respond telepathically if they choose.
 
-**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](../../Browse/Conditions/Dazed) until the end of your next turn.
+**Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](../../Browse/Conditions/Dazed.md) until the end of your next turn.
 
 #### Slight Case of Lycanthropy
 
@@ -974,9 +974,9 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
 
-**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a [fury](../../Browse/Classes/Fury) with the stormwight [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect).
+**Special:** You can't take this complication if you are a [fury](../../Browse/Classes/Fury.md) with the stormwight [primordial aspect](../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md).
 
 #### Stolen Face
 
@@ -1011,7 +1011,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now) [tactician](../../Browse/Classes/Tactician) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the [Strike Now](../../Browse/Abilities/Tactician/1st-Level%20Features/Strike%20Now.md) [tactician](../../Browse/Classes/Tactician.md) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -1027,13 +1027,13 @@ You live for danger. Whether in battle or mundane peril, you can transcend your 
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
-**Benefit:** Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+**Benefit:** Whenever you make a melee [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 
 **Drawback:** While you have temporary Stamina from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
 
 #### Voice in Your Head
 
-You occasionally hear a [voice in your head](../../Browse/Complications/Voice%20in%20Your%20Head), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
+You occasionally hear a [voice in your head](../../Browse/Complications/Voice%20in%20Your%20Head.md), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
@@ -1043,9 +1043,9 @@ You occasionally hear a [voice in your head](../../Browse/Complications/Voice%20
 
 You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.
 
-**Benefit:** You gain a +1 bonus to [stability](../../Browse/Movement/Stability).
+**Benefit:** You gain a +1 bonus to [stability](../../Browse/Movement/Stability.md).
 
-**Drawback:** If you are ever forced to disobey your organization's orders, your [stability](../../Browse/Movement/Stability) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
+**Drawback:** If you are ever forced to disobey your organization's orders, your [stability](../../Browse/Movement/Stability.md) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
 
 #### Vow of Honesty
 
@@ -1102,7 +1102,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
-**Benefit:** You can automatically [swim](../../Browse/Movement/Climb%20or%20Swim) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
+**Benefit:** You can automatically [swim](../../Browse/Movement/Climb%20or%20Swim.md) at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Rogue Wave
@@ -1125,7 +1125,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 #### Wodewalker
 
-You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/Classes/Elementalist) had saved your life by infusing the regenerative bark of a tree to your body.
+You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/Classes/Elementalist.md) had saved your life by infusing the regenerative bark of a tree to your body.
 
 **Benefit:** Your recovery value increases by an amount equal to your highest characteristic score.
 
@@ -1135,9 +1135,9 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
-**Benefit:** While you are [taunted](../../Browse/Conditions/Taunted) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
+**Benefit:** While you are [taunted](../../Browse/Conditions/Taunted.md) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
 
-**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](../../Browse/Conditions/Taunted), you are [taunted](../../Browse/Conditions/Taunted) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
+**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](../../Browse/Conditions/Taunted.md), you are [taunted](../../Browse/Conditions/Taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
 
 #### Wrongly Imprisoned
 
@@ -1145,4 +1145,4 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
-**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to [hide](../../Browse/Abilities/Common/Maneuvers/Hide) or sneak.
+**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to [hide](../../Browse/Abilities/Common/Maneuvers/Hide.md) or sneak.

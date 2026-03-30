@@ -14,7 +14,7 @@ type: class/talent/level
 
 ### 7th-Level Features
 
-As a 7th-level [talent](../../../../Browse/Classes/Talent), you gain the following features.
+As a 7th-level [talent](../../../../Browse/Classes/Talent.md), you gain the following features.
 
 #### Ancestral Memory
 
@@ -22,7 +22,7 @@ Each time you finish a respite, you can choose a number of skills you have up to
 
 #### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike) ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../../../Browse/Abilities/Talent/1st-Level%20Features/Mind%20Spike.md) ability to take the same damage.
 
 #### Characteristic Increase
 

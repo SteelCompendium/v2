@@ -18,24 +18,24 @@ type: feature/trait/conduit/7th-level-feature
 
 #### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../../../../Browse/Classes/Conduit) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../../../../Browse/Classes/Conduit.md) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred)             |
-| Fate       | [Word of Fate Denied](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied)                   |
+| Creation   | [Divine Quartermaster](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Divine%20Quartermaster.md)                     |
+| Death      | [Word of Death Deferred](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Death%20Deferred.md)             |
+| Fate       | [Word of Fate Denied](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Word%20of%20Fate%20Denied.md)                   |
 | Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace)                                 |
-| Love       | [Covenant of the Heart](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart)               |
-| Nature     | [Nature's Bounty](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty)                                |
-| Protection | [Blessing of Iron](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron)                           |
-| Storm      | [Thunderstruck](../../../../../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck)                                    |
-| Sun        | [Light of the Burning Sun](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun)       |
-| Trickery   | [Trinity of Trickery](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered) |
+| Life       | [Font of Grace](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Font%20of%20Grace.md)                                 |
+| Love       | [Covenant of the Heart](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Covenant%20of%20the%20Heart.md)               |
+| Nature     | [Nature's Bounty](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Natures%20Bounty.md)                                |
+| Protection | [Blessing of Iron](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Blessing%20of%20Iron.md)                           |
+| Storm      | [Thunderstruck](../../../../../Browse/Features/Conduit/7th-Level%20Features/7th-Level%20Domain%20Feature/Thunderstruck.md)                                    |
+| Sun        | [Light of the Burning Sun](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Light%20of%20the%20Burning%20Sun.md)       |
+| Trickery   | [Trinity of Trickery](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Trinity%20of%20Trickery.md)                     |
+| War        | [Your Triumphs Are Remembered](../../../../../Browse/Features/Censor/7th-Level%20Features/7th-Level%20Domain%20Feature/Your%20Triumphs%20Are%20Remembered.md) |
 
 ##### Blessing of Iron
 
@@ -43,7 +43,7 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 ##### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../../../../../Browse/Features/Censor/4th-Level%20Features/4th-Level%20Domain%20Feature/Invocation%20of%20the%20Heart.md) feature. Additionally, you have the following ability.
 
 <!-- -->
 > ###### Guided to Your Side
@@ -54,7 +54,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > | ----------------- | ------------------------: |
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 >
-> **Effect:** Each target is [teleported](../../../../../Browse/Movement/Teleport) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleported](../../../../../Browse/Movement/Teleport.md) to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -62,7 +62,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety), it is lost. Additionally, you can use your [Minor Miracle](../../../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../../../../Browse/Features/Conduit/1st-Level%20Features/Piety.md), it is lost. Additionally, you can use your [Minor Miracle](../../../../../Browse/Features/Conduit/3rd-Level%20Features/Minor%20Miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -105,7 +105,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../../../Browse/Abilities/Conduit/1st-Level%20Features/Healing%20Grace.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 

@@ -14,7 +14,7 @@ type: class/fury/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
+As a 2nd-level [fury](../../../../Browse/Classes/Fury.md), you gain the following features.
 
 #### Perk
 
@@ -22,15 +22,15 @@ You gain one crafting, exploration, or intrigue perk of your choice. See [Chapte
 
 #### 2nd-Level Aspect Feature
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants you a feature, as shown on the 2nd-Level Aspect Features table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
 ###### 2nd-Level Aspect Features Table
 
 | Aspect     | Feature                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force) |
-| Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath) |
-| Stormwight | [Tooth and Claw](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw)     |
+| Berserker  | [Unstoppable Force](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Unstoppable%20Force.md) |
+| Reaver     | [Inescapable Wrath](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Inescapable%20Wrath.md) |
+| Stormwight | [Tooth and Claw](../../../../Browse/Features/Fury/2nd-Level%20Features/2nd-Level%20Aspect%20Feature/Tooth%20and%20Claw.md)     |
 
 ##### Inescapable Wrath
 
@@ -42,11 +42,11 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 ##### Unstoppable Force
 
-Whenever you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike). Additionally, you can [jump](../../../../Browse/Movement/Jump) as part of your [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge).
+Whenever you use the [Charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md). Additionally, you can [jump](../../../../Browse/Movement/Jump.md) as part of your [charge](../../../../Browse/Abilities/Common/Main%20Actions/Charge.md).
 
 #### 2nd-Level Aspect Ability
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Berserker Ability
 
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 > | ----------------- | ----------------------: |
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 >
-> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../Browse/Movement/Stability), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike) that deals extra damage equal to your Might score.
+> **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's [stability](../../../../Browse/Movement/Stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../../Browse/Abilities/Common/Main%20Actions/Free%20Strike.md) that deals extra damage equal to your Might score.
 
 <!-- -->
 > ###### Wrecking Ball (5 Ferocity)
@@ -97,9 +97,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../Browse/Conditions/Dazed) and [frightened](../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -114,9 +114,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 6 damage; A < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 
 ##### 2nd-Level Stormwight Ability
 
@@ -133,9 +133,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
-> - **17+:** 10 damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed) (save ends)
+> - **≤11:** 4 damage; I < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
 >
 > **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -150,8 +150,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
-> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../../Browse/Conditions/Dazed) (save ends)
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
 >
 > **Effect:** This ability deals your primordial damage type (see Stormwight Kits).

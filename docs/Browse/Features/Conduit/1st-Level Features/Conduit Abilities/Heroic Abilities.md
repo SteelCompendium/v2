@@ -39,7 +39,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../../Browse/Movement/Stability).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../../../../Browse/Movement/Stability.md).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)
@@ -63,9 +63,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../../../../Browse/Conditions/Prone)
-> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../../../../Browse/Conditions/Prone)
-> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../../../../Browse/Conditions/Prone) and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../../../../Browse/Conditions/Prone.md)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../../../../Browse/Conditions/Prone.md)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -114,9 +114,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../../../Browse/Conditions/Frightened) (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../../../Browse/Conditions/Frightened.md) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -144,4 +144,4 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../../../Browse/Conditions/Prone).
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../../../Browse/Conditions/Prone.md).

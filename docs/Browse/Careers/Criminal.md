@@ -29,7 +29,7 @@ You gain the following career benefits:
 
 **Project Points:** 120
 
-**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../../../Browse/Perks/Intrigue%20Perks/Criminal%20Contacts).)
+**Perk:** One intrigue perk (*Quick Build:* [Criminal Contacts](../../../Browse/Perks/Intrigue%20Perks/Criminal%20Contacts.md).)
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

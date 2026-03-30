@@ -16,11 +16,11 @@ type: treasure/leveled/implement
 
 ##### Words Become Wonders at Next Breath
 
-*This ornate [high elf](../../../../../Browse/Ancestries/High%20Elf) tome seems to sigh each time it is opened.*
+*This ornate [high elf](../../../../../Browse/Ancestries/High%20Elf.md) tome seems to sigh each time it is opened.*
 
 **Keywords:** Implement, Magic
 
-**Item Prerequisite:** Written permission from a [high elf](../../../../../Browse/Ancestries/High%20Elf) magistrate
+**Item Prerequisite:** Written permission from a [high elf](../../../../../Browse/Ancestries/High%20Elf.md) magistrate
 
 **Project Source:** Texts or lore in Hyrallic
 

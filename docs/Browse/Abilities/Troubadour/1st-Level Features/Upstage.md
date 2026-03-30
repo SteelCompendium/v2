@@ -38,6 +38,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Agility or Presence:**
 
-- **≤11:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < WEAK, [prone](../../../../../Browse/Conditions/Prone)
-- **12-16:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < AVERAGE, [prone](../../../../../Browse/Conditions/Prone)
-- **17+:** [Taunted](../../../../../Browse/Conditions/Taunted) (EoT); A < STRONG, [prone](../../../../../Browse/Conditions/Prone) and can't stand (EoT)
+- **≤11:** [Taunted](../../../../../Browse/Conditions/Taunted.md) (EoT); A < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
+- **12-16:** [Taunted](../../../../../Browse/Conditions/Taunted.md) (EoT); A < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
+- **17+:** [Taunted](../../../../../Browse/Conditions/Taunted.md) (EoT); A < STRONG, [prone](../../../../../Browse/Conditions/Prone.md) and can't stand (EoT)

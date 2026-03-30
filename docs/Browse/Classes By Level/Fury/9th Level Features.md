@@ -14,15 +14,15 @@ type: class/fury/level
 
 ### 9th-Level Features
 
-As a 9th-level [fury](../../../../Browse/Classes/Fury), you gain the following features.
+As a 9th-level [fury](../../../../Browse/Classes/Fury.md), you gain the following features.
 
 #### Harbinger of the Primordial Chaos
 
-You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../../../Browse/Features/Fury/6th-Level%20Features/Primordial%20Portal) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
+You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../../../../Browse/Features/Fury/6th-Level%20Features/Primordial%20Portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
 #### 9th-Level Aspect Ability
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level%20Features/Primordial%20Aspect.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Berserker Abilities
 
@@ -56,9 +56,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical) pull 3
-> - **12-16:** 5 damage; [vertical](../../../../Browse/Movement/Vertical) pull 5
-> - **17+:** 8 damage; [vertical](../../../../Browse/Movement/Vertical) pull 7
+> - **≤11:** 3 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 3
+> - **12-16:** 5 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 5
+> - **17+:** 8 damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 7
 >
 > **Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 

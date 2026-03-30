@@ -29,4 +29,4 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../../../Browse/Classes/Talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../../Browse/Classes/Talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../../../../Browse/Classes/Talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../../Browse/Classes/Talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
