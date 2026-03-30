@@ -54,6 +54,21 @@ Customize the look and feel of the compendium. Settings are saved in your browse
 
 </div>
 
+## Display
+
+<div class="prefs-grid">
+
+<div class="pref-card">
+<label for="compact-toggle">Compact Mode</label>
+<div style="display: flex; align-items: center; gap: 0.6em;">
+<input id="compact-toggle" type="checkbox">
+<span style="font-size: 0.9em;">Reduce spacing for information-dense display</span>
+</div>
+<span class="pref-hint">Useful for GMs who want to see more content on screen during sessions.</span>
+</div>
+
+</div>
+
 ## Page Width
 
 <div class="prefs-grid">
