@@ -29,7 +29,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../../Browse/Movement/Vertical.md) pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../../Browse/Movement/Vertical.md#vertical) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >
@@ -56,4 +56,4 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) (save ends). If you scored a critical hit with this ability, you die.

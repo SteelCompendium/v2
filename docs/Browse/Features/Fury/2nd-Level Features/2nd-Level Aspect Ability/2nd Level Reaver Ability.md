@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) and [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) and [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 
 <!-- -->
 > ###### Phalanx-Breaker (5 Ferocity)
@@ -48,6 +48,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 damage; A < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
-> - **17+:** 6 damage; A < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md) (save ends)
+> - **≤11:** 2 damage; A < WEAK, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../../../../../Browse/Conditions/Dazed.md#dazed) (save ends)

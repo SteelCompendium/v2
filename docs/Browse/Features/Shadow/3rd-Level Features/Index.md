@@ -7,6 +7,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Careful Observation](Careful Observation.md)
+- [Careful Observation](Careful Observation.md#carefulob-ervation)
 
 </div>

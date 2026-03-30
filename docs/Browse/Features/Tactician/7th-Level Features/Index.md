@@ -7,13 +7,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [7th Level Doctrine Feature](7th Level Doctrine Feature.md)
-    - [Asymmetric Warfare](7th-Level Doctrine Feature/Asymmetric Warfare.md)
-    - [Grand Strategy](7th-Level Doctrine Feature/Grand Strategy.md)
-    - [Shock and Awe](7th-Level Doctrine Feature/Shock and Awe.md)
-- [Characteristic Increase](Characteristic Increase.md)
-- [Heightened Focus](Heightened Focus.md)
-- [Seize the Initiative](Seize the Initiative.md)
-- [Skill](Skill.md)
+- [7th Level Doctrine Feature](7th Level Doctrine Feature.md#7thleveldoctrinefeature)
+    - [Asymmetric Warfare](7th-Level Doctrine Feature/Asymmetric Warfare.md#a-ymmetricwarfare)
+    - [Grand Strategy](7th-Level Doctrine Feature/Grand Strategy.md#grand-trategy)
+    - [Shock and Awe](7th-Level Doctrine Feature/Shock and Awe.md#hockandawe)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Heightened Focus](Heightened Focus.md#heightenedfocu)
+- [Seize the Initiative](Seize the Initiative.md#eizetheinitiative)
+- [Skill](Skill.md#kill)
 
 </div>

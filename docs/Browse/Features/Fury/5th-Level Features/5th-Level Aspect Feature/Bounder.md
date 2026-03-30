@@ -18,4 +18,4 @@ type: feature/subtrait/fury/5th-level-feature
 
 ##### Bounder
 
-Your [jump](../../../../../Browse/Movement/Jump.md) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](../../../../../Browse/Movement/Jump.md) distance for the purpose of determining damage and whether you land [prone](../../../../../Browse/Conditions/Prone.md) (see Falling in Chapter 10). You are not [prone](../../../../../Browse/Conditions/Prone.md) after falling and landing on another creature.
+Your [jump](../../../../../Browse/Movement/Jump.md#jump) distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your [jump](../../../../../Browse/Movement/Jump.md#jump) distance for the purpose of determining damage and whether you land [prone](../../../../../Browse/Conditions/Prone.md#prone) (see Falling in Chapter 10). You are not [prone](../../../../../Browse/Conditions/Prone.md#prone) after falling and landing on another creature.

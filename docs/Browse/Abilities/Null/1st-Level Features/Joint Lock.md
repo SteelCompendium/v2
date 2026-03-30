@@ -35,6 +35,6 @@ type: feature/ability/null/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-- **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-- **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md)
+- **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+- **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+- **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)

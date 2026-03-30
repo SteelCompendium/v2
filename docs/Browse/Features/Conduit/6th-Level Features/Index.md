@@ -7,8 +7,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [6th Level Domain Ability](6th Level Domain Ability.md)
-- [Burgeoning Saint](Burgeoning Saint.md)
-- [Perk](Perk.md)
+- [6th Level Domain Ability](6th Level Domain Ability.md#6thleveldomainability)
+- [Burgeoning Saint](Burgeoning Saint.md#burgeoning-aint)
+- [Perk](Perk.md#perk)
 
 </div>

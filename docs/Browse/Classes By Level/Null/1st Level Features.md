@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 1st-Level Features
 
-As a 1st-level [null](../../../Browse/Classes/Null.md), you gain the following features.
+As a 1st-level [null](../../../Browse/Classes/Null.md#null), you gain the following features.
 
 #### Null Tradition
 
@@ -28,21 +28,21 @@ Your null tradition is your subclass, and your choice of tradition determines ma
 
 #### Discipline
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
 
-Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline). The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
 
 You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline outside of combat](../../../Browse/Features/Null/1st-Level Features/Discipline/Discipline Outside of Combat.md), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [discipline outside of combat](../../../Browse/Features/Null/1st-Level Features/Discipline/Discipline Outside of Combat.md#di-ciplineout-ideofcombat), you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../Browse/Classes/Null.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../Browse/Classes/Null.md#null), but they might appear in future products.)
 
 #### Null Field
 
@@ -88,72 +88,72 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) you spend during your turn.
+As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) you spend during your turn.
 
-Some [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#di-ciplinema-tery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-hield) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md#chronokineticma-tery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                                                     |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) | Benefit                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action either before or after the maneuver. |
+| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free triggered action either before or after the maneuver. |
 | 4                                                                                               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                                                                                                                                 |
-| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                                                    |
+| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers.                                                                                                    |
 | 8 (4th level)                                                                                   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                                                                                                                                |
-| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                                              |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers.                                                                                              |
 | 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                                                 |
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-hield) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokineticma-tery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                                                                                       |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) | Benefit                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4                                                                                               | The first time on a turn that you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
-| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                      |
-| 8 (4th level)                                                                                   | The first time on a turn that you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                       |
-| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.                                                                |
+| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
+| 4                                                                                               | The first time on a turn that you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 1 surge.                                                        |
+| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers.                                                                      |
+| 8 (4th level)                                                                                   | The first time on a turn that you [grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) a creature or an enemy moves 1 or more squares in the area of your Null Field ability, you gain 2 surges.                                                       |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers.                                                                |
 | 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                                                                                   |
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-hield) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
 
-Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md#metakineticma-tery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md) | Benefit                                                                                                                                                                                                        |
+| [Discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline) | Benefit                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
+| 2                                                                                               | Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, the forced movement distance gains a bonus equal to your Intuition score.                 |
 | 4                                                                                               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                                     |
-| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers.       |
+| 6                                                                                               | You gain an edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers.       |
 | 8 (4th level)                                                                                   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                                    |
-| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuvers. |
+| 10 (7th level)                                                                                  | You have a double edge on the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) and [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers. |
 | 12 (10th level)                                                                                 | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.                    |
 
 #### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action equal to your Agility score.
 
 #### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Speed Augmentation.md).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Speed Augmentation.md#peedaugmentation).)
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md).
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md#tability).
 
 ##### Force Augmentation
 
@@ -161,11 +161,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
 
 #### Psionic Martial Arts
 
-Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) or [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) or [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities
 
@@ -173,7 +173,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md), [Inertial Step](../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md#fa-terthantheeye), [Inertial Step](../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md#inertial-tep).)
 
 <!-- -->
 > ###### Dance of Blows
@@ -237,9 +237,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../Browse/Conditions/Grabbed.md)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -252,9 +252,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT)
-> - **12-16:** 5 + A damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](../../../Browse/Conditions/Taunted.md) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](../../../Browse/Conditions/Taunted.md#taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](../../../Browse/Conditions/Taunted.md#taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](../../../Browse/Conditions/Taunted.md#taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -267,9 +267,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 5 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 1
-> - **12-16:** 8 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 2
-> - **17+:** 11 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md) pull 3
+> - **≤11:** 5 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 1
+> - **12-16:** 8 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 2
+> - **17+:** 11 + A psychic damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 3
 
 <!-- -->
 > ###### Phase Inversion Strike
@@ -286,7 +286,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](../../../Browse/Movement/Teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../Browse/Movement/Teleport.md) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](../../../Browse/Movement/Teleport.md#teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../Browse/Movement/Teleport.md#teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -299,13 +299,13 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
 
 ###### 3-Discipline Ability
 
@@ -326,7 +326,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -367,9 +367,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../Browse/Conditions/Dazed.md) and [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../Browse/Conditions/Dazed.md) and [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md) and [slowed](../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../Browse/Conditions/Slowed.md#lowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -386,11 +386,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 >
-> **Effect:** While [weakened](../../../Browse/Conditions/Weakened.md) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](../../../Browse/Conditions/Weakened.md#weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -424,7 +424,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](../../../Browse/Conditions/Slowed.md), has their [stability](../../../Browse/Movement/Stability.md) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](../../../Browse/Conditions/Slowed.md#lowed), has their [stability](../../../Browse/Movement/Stability.md#tability) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -441,4 +441,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free maneuver before or after you use this ability.

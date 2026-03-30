@@ -18,4 +18,4 @@ type: feature/subtrait/censor/4th-level-feature
 
 ##### Windwalk
 
-While you have 5 or more Victories, you can [fly](../../../../../Browse/Movement/Fly.md). If you can already [fly](../../../../../Browse/Movement/Fly.md), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly.md) instead.
+While you have 5 or more Victories, you can [fly](../../../../../Browse/Movement/Fly.md#fly). If you can already [fly](../../../../../Browse/Movement/Fly.md#fly), you have a +2 bonus to speed while [flying](../../../../../Browse/Movement/Fly.md#fly) instead.

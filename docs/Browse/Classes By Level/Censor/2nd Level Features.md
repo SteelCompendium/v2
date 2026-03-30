@@ -14,7 +14,7 @@ type: class/censor/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [censor](../../../Browse/Classes/Censor.md), you gain the following features.
+As a 2nd-level [censor](../../../Browse/Classes/Censor.md#cen-or), you gain the following features.
 
 #### Perk
 
@@ -22,15 +22,15 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See [Chap
 
 #### 2nd-Level Order Features
 
-Your [censor](../../../Browse/Classes/Censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](../../../Browse/Classes/Censor.md#cen-or) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
 | Order    | Features                                                                                                                                                                                                                                                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Saint's Vigilance](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Saints Vigilance.md), [A Sense for Truth](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/A Sense for Truth.md) |
-| Oracle   | [It Was Foretold](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/It Was Foretold.md), [Judge of Character](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Judge of Character.md)  |
-| Paragon  | [Lead by Example](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Lead by Example.md), [Stalwart Icon](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Stalwart Icon.md)              |
+| Exorcist | [Saint's Vigilance](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Saints Vigilance.md#aint-vigilance), [A Sense for Truth](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/A Sense for Truth.md#a-en-efortruth) |
+| Oracle   | [It Was Foretold](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/It Was Foretold.md#itwa-foretold), [Judge of Character](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Judge of Character.md#judgeofcharacter)  |
+| Paragon  | [Lead by Example](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Lead by Example.md#leadbyexample), [Stalwart Icon](../../../Browse/Features/Censor/2nd-Level Features/2nd-Level Order Features/Stalwart Icon.md#talwarticon)              |
 
 ##### It Was Foretold
 
@@ -46,7 +46,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ##### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../Browse/Features/Censor/1st-Level Features/Judgment.md#judgment) ability against them as a free triggered action.
 
 ##### A Sense for Truth
 
@@ -58,7 +58,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 #### 2nd-Level Order Ability
 
-Your [censor](../../../Browse/Classes/Censor.md) order grants your choice of one of two heroic abilities.
+Your [censor](../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -75,11 +75,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 >
-> **Effect:** If the target is already [frightened](../../../Browse/Conditions/Frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](../../../Browse/Conditions/Frightened.md#frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -146,8 +146,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 >
-> **Effect:** While the target is [restrained](../../../Browse/Conditions/Restrained.md) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../../Browse/Conditions/Restrained.md#re-trained) this way, your abilities that impose forced movement can still move them.

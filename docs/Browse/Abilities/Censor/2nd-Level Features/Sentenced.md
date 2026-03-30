@@ -38,8 +38,8 @@ type: feature/ability/censor/2nd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-- **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+- **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 
-**Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md) this way, your abilities that impose forced movement can still move them.
+**Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) this way, your abilities that impose forced movement can still move them.

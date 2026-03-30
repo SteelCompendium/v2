@@ -9,13 +9,13 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Aspect Features](1st Level Aspect Features.md)
-- [Aspect Triggered Action](Aspect Triggered Action.md)
-- [Ferocity](Ferocity.md)
-- [Fury Abilities](Fury Abilities.md)
-- [Growing Ferocity](Growing Ferocity.md)
-- [Mighty Leaps](Mighty Leaps.md)
-- [Primordial Aspect](Primordial Aspect.md)
+- [1st Level Aspect Features](1st Level Aspect Features.md#1-tlevela-pectfeature)
+- [Aspect Triggered Action](Aspect Triggered Action.md#a-pecttriggeredaction)
+- [Ferocity](Ferocity.md#ferocity)
+- [Fury Abilities](Fury Abilities.md#furyabilitie)
+- [Growing Ferocity](Growing Ferocity.md#growingferocity)
+- [Mighty Leaps](Mighty Leaps.md#mightyleap)
+- [Primordial Aspect](Primordial Aspect.md#primordiala-pect)
 
 </div>
 
@@ -23,11 +23,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Beast Shape](1st-Level Aspect Features/Beast Shape.md)
-    - [Kit](1st-Level Aspect Features/Kit.md)
-    - [Primordial Cunning](1st-Level Aspect Features/Primordial Cunning.md)
-    - [Primordial Strength](1st-Level Aspect Features/Primordial Strength.md)
-    - [Relentless Hunter](1st-Level Aspect Features/Relentless Hunter.md)
+    - [Beast Shape](1st-Level Aspect Features/Beast Shape.md#bea-t-hape)
+    - [Kit](1st-Level Aspect Features/Kit.md#kit)
+    - [Primordial Cunning](1st-Level Aspect Features/Primordial Cunning.md#primordialcunning)
+    - [Primordial Strength](1st-Level Aspect Features/Primordial Strength.md#primordial-trength)
+    - [Relentless Hunter](1st-Level Aspect Features/Relentless Hunter.md#relentle-hunter)
 
 </div>
 
@@ -35,8 +35,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Ferocity in Combat](Ferocity/Ferocity in Combat.md)
-    - [Ferocity Outside of Combat](Ferocity/Ferocity Outside of Combat.md)
+    - [Ferocity in Combat](Ferocity/Ferocity in Combat.md#ferocityincombat)
+    - [Ferocity Outside of Combat](Ferocity/Ferocity Outside of Combat.md#ferocityout-ideofcombat)
 
 </div>
 
@@ -44,7 +44,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Fury Abilities/Heroic Abilities.md)
-    - [Signature Ability](Fury Abilities/Signature Ability.md)
+    - [Heroic Abilities](Fury Abilities/Heroic Abilities.md#heroicabilitie)
+    - [Signature Ability](Fury Abilities/Signature Ability.md#ignatureability)
 
 </div>

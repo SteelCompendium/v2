@@ -9,14 +9,14 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Doctrine Feature](1st Level Doctrine Feature.md)
-- [Doctrine Triggered Action](Doctrine Triggered Action.md)
-- [Field Arsenal](Field Arsenal.md)
-- [Focus](Focus.md)
-- [Mark](Mark.md)
-- [Strike Now](Strike Now.md)
-- [Tactical Doctrine](Tactical Doctrine.md)
-- [Tactician Abilities](Tactician Abilities.md)
+- [1st Level Doctrine Feature](1st Level Doctrine Feature.md#1-tleveldoctrinefeature)
+- [Doctrine Triggered Action](Doctrine Triggered Action.md#doctrinetriggeredaction)
+- [Field Arsenal](Field Arsenal.md#fieldar-enal)
+- [Focus](Focus.md#focu)
+- [Mark](Mark.md#mark)
+- [Strike Now](Strike Now.md#trikenow)
+- [Tactical Doctrine](Tactical Doctrine.md#tacticaldoctrine)
+- [Tactician Abilities](Tactician Abilities.md#tacticianabilitie)
 
 </div>
 
@@ -24,9 +24,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Commanding Presence](1st-Level Doctrine Feature/Commanding Presence.md)
-    - [Covert Operations](1st-Level Doctrine Feature/Covert Operations.md)
-    - [Studied Commander](1st-Level Doctrine Feature/Studied Commander.md)
+    - [Commanding Presence](1st-Level Doctrine Feature/Commanding Presence.md#commandingpre-ence)
+    - [Covert Operations](1st-Level Doctrine Feature/Covert Operations.md#covertoperation)
+    - [Studied Commander](1st-Level Doctrine Feature/Studied Commander.md#tudiedcommander)
 
 </div>
 
@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Focus in Combat](Focus/Focus in Combat.md)
-    - [Focus Outside of Combat](Focus/Focus Outside of Combat.md)
+    - [Focus in Combat](Focus/Focus in Combat.md#focu-incombat)
+    - [Focus Outside of Combat](Focus/Focus Outside of Combat.md#focu-out-ideofcombat)
 
 </div>
 
@@ -43,7 +43,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Tactician Abilities/Heroic Abilities.md)
-    - [Kit Signature Ability](Tactician Abilities/Kit Signature Ability.md)
+    - [Heroic Abilities](Tactician Abilities/Heroic Abilities.md#heroicabilitie)
+    - [Kit Signature Ability](Tactician Abilities/Kit Signature Ability.md#kit-ignatureability)
 
 </div>

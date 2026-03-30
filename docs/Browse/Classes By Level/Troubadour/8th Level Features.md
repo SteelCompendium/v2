@@ -14,7 +14,7 @@ type: class/troubadour/level
 
 ### 8th-Level Features
 
-As an 8th-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
+As an 8th-level [troubadour](../../../Browse/Classes/Troubadour.md#troubadour), you gain the following features.
 
 #### Perk
 
@@ -22,19 +22,19 @@ You gain one perk of your choice.
 
 #### 8th-Level Class Act Feature
 
-Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour](../../../Browse/Classes/Troubadour.md#troubadour) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 
 | Class Act | Feature                                                                                                                                             |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auteur    | [Deleted Scene](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Deleted Scene.md)     |
-| Duelist   | [Masterwork](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Masterwork.md)             |
-| Virtuoso  | [Crowd Favorites](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Crowd Favorites.md) |
+| Auteur    | [Deleted Scene](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Deleted Scene.md#deleted-cene)     |
+| Duelist   | [Masterwork](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Masterwork.md#ma-terwork)             |
+| Virtuoso  | [Crowd Favorites](../../../Browse/Features/Troubadour/8th-Level Features/8th-Level Class Act Feature/Crowd Favorites.md#crowdfavorite) |
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
+You have the following performance abilities, which are usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
 
 <!-- -->
 > ###### Moonlight Sonata
@@ -60,13 +60,13 @@ You have the following performance abilities, which are usable with your [Routin
 
 ##### Deleted Scene
 
-Whenever a creature within distance of your [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md), targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue), targeting only one creature.
 
 ##### Masterwork
 
 Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
-Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
+Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../../../Browse/Features/Troubadour/4th-Level Features/Zeitgeist.md#zeitgei-t) feature to tell tales of your exploits after the encounter ends.
 
 #### 11-Drama Ability
 
@@ -81,7 +81,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../Browse/Movement/Teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../../Browse/Movement/Teleport.md) ally can then make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../Browse/Movement/Teleport.md#teleport) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleported](../../../Browse/Movement/Teleport.md#teleport) ally can then make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
 
 <!-- -->
 > ###### Power Ballad (11 Drama)
@@ -107,8 +107,8 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 >
 > - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 > - The target has damage immunity equal to your Presence score.
-> - The target has a bonus to [stability](../../../Browse/Movement/Stability.md) and a penalty to speed equal to your Presence score.
-> - The target has a bonus to speed and a penalty to [stability](../../../Browse/Movement/Stability.md) equal to your Presence score.
+> - The target has a bonus to [stability](../../../Browse/Movement/Stability.md#tability) and a penalty to speed equal to your Presence score.
+> - The target has a bonus to speed and a penalty to [stability](../../../Browse/Movement/Stability.md#tability) equal to your Presence score.
 
 <!-- -->
 > ###### The Show Must Go On (11 Drama)

@@ -7,7 +7,7 @@ type: index
 
 | File Name                               |
 | --------------------------------------- |
-| [Dynamic Terrain](Dynamic Terrain.md) |
-| [Monster Basics](Monster Basics.md)   |
-| [Monsters](Monsters.md)                 |
-| [Retainers](Retainers.md)               |
+| [Dynamic Terrain](Dynamic Terrain.md#dynamicterrain) |
+| [Monster Basics](Monster Basics.md#mon-terba-ic)   |
+| [Monsters](Monsters.md#mon-ter)                 |
+| [Retainers](Retainers.md#retainer)               |

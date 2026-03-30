@@ -18,7 +18,7 @@ type: feature/subtrait/shadow/1st-level-feature
 
 ##### Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level Features/Insight.md).
+A range of heroic abilities define your combat prowess, all of which make use of your [insight](../../../../../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight).
 
 ###### 3-Insight Ability
 
@@ -52,9 +52,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
+> - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
 
 <!-- -->
 > ###### Get In Get Out (3 Insight)

@@ -26,10 +26,10 @@ type: treasure/consumable/1st-echelon
 
 **Project Roll Characteristic:** Agility or Intuition
 
-**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](../../../../Browse/Classes/Shadow.md))
+**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](../../../../Browse/Classes/Shadow.md#hadow))
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** You can [teleport](../../../../Browse/Movement/Teleport.md) the target up to 2 squares.
-- **12-16:** You can [teleport](../../../../Browse/Movement/Teleport.md) the target up to 4 squares.
-- **17+:** You can [teleport](../../../../Browse/Movement/Teleport.md) the target up to 6 squares.
+- **≤11:** You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target up to 2 squares.
+- **12-16:** You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target up to 4 squares.
+- **17+:** You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target up to 6 squares.

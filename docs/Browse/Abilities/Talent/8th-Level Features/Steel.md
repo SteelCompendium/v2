@@ -34,6 +34,6 @@ type: feature/ability/talent/8th-level-feature
 | ---------------------------------- | ----------------------: |
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has damage immunity 5 and can't be made [slowed](../../../../Browse/Conditions/Slowed.md) or [weakened](../../../../Browse/Conditions/Weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+**Effect:** The target has damage immunity 5 and can't be made [slowed](../../../../Browse/Conditions/Slowed.md#lowed) or [weakened](../../../../Browse/Conditions/Weakened.md#weakened) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
 
 **Strained:** You can't use maneuvers (save ends).

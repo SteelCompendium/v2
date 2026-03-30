@@ -37,10 +37,10 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against one enemy of your choice.
+- **≤11:** The target makes a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 
 **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 
-**Strained:** You take 1d6 damage and are [weakened](../../../../Browse/Conditions/Weakened.md) until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) until the end of your turn.

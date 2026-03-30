@@ -7,7 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Grand Wyrding](Grand Wyrding.md)
-- [New 11 Essence Ability](New 11 Essence Ability.md)
+- [Grand Wyrding](Grand Wyrding.md#grandwyrding)
+- [New 11 Essence Ability](New 11 Essence Ability.md#new11e-enceability)
 
 </div>

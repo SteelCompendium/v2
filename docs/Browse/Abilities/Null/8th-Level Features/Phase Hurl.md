@@ -37,8 +37,8 @@ type: feature/ability/null/8th-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-- **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-- **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+- **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+- **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
 
-**Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../Browse/Conditions/Dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
+**Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../Browse/Conditions/Dazed.md#dazed) this way, they see glimpses of creatures from other parts of the timescape.

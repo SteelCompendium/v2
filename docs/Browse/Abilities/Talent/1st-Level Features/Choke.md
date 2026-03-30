@@ -37,8 +37,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-- **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-- **17+:** 8 + R damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+- **≤11:** 3 + R damage; M < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **17+:** 8 + R damage; M < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 
-**Effect:** You can [vertical](../../../../Browse/Movement/Vertical.md) pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained.md) by this ability, this forced movement ignores their [stability](../../../../Browse/Movement/Stability.md).
+**Effect:** You can [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull the target up to 2 squares. If the target is made [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) by this ability, this forced movement ignores their [stability](../../../../Browse/Movement/Stability.md#tability).

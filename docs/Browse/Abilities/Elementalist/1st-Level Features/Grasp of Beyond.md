@@ -39,4 +39,4 @@ type: feature/ability/elementalist/1st-level-feature
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can [teleport](../../../../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score.

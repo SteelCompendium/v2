@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md)
-- [Clear Mind](Clear Mind.md)
-- [Omnisensory](Omnisensory.md)
-- [Perk](Perk.md)
-- [Psion](Psion.md)
-- [Skill](Skill.md)
-- [Vision](Vision.md)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Clear Mind](Clear Mind.md#clearmind)
+- [Omnisensory](Omnisensory.md#omni-en-ory)
+- [Perk](Perk.md#perk)
+- [Psion](Psion.md#p-ion)
+- [Skill](Skill.md#kill)
+- [Vision](Vision.md#vi-ion)
 
 </div>

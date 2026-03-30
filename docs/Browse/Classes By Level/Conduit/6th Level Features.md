@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 6th-Level Features
 
-As a 6th-level [conduit](../../../Browse/Classes/Conduit.md), you gain the following features.
+As a 6th-level [conduit](../../../Browse/Classes/Conduit.md#conduit), you gain the following features.
 
 #### Burgeoning Saint
 
@@ -31,7 +31,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 #### 6th-Level Domain Ability
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](../../../Browse/Classes/Conduit.md) Domain Abilities table.
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](../../../Browse/Classes/Conduit.md#conduit) Domain Abilities table.
 
 ###### 6th-Level Conduit Domain Abilities Table
 
@@ -59,7 +59,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | -------------------------------: |
 > | **📏 4 aura**   | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../Browse/Movement/Stability.md) for your allies.
+> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores [stability](../../../Browse/Movement/Stability.md#tability) for your allies.
 
 <!-- -->
 > ###### Blade of the Heavens (9 Piety)
@@ -72,9 +72,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I damage; A < WEAK, [prone](../../../Browse/Conditions/Prone.md) and [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone.md) and [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **17+:** 16 + I damage; A < STRONG, [prone](../../../Browse/Conditions/Prone.md) and [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **≤11:** 8 + I damage; A < WEAK, [prone](../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **12-16:** 12 + I damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **17+:** 16 + I damage; A < STRONG, [prone](../../../Browse/Conditions/Prone.md#prone) and [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 
 <!-- -->
 > ###### Blessing of the Midday Sun (9 Piety)
@@ -182,7 +182,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 > | --------------- | ------------------------------------: |
 > | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../../Browse/Conditions/Prone.md).
+> **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../../Browse/Conditions/Prone.md#prone).
 
 <!-- -->
 > ###### Spirit Stampede (9 Piety)
@@ -195,9 +195,9 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 5 damage; M < WEAK, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
-> - **12-16:** 8 damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
-> - **17+:** 11 damage; M < STRONG, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **≤11:** 5 damage; M < WEAK, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
+> - **12-16:** 8 damage; M < AVERAGE, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
+> - **17+:** 11 damage; M < STRONG, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Your Story Ends Here (9 Piety)
@@ -210,8 +210,8 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 19 + I corruption damage; R < STRONG, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 >
 > **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.

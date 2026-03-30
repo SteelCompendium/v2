@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](../../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 
 <!-- -->
 > ###### You're All My Understudies (9 Drama)
@@ -44,4 +44,4 @@ Choose one of the following abilities.
 > | --------------- | ---------------------------: |
 > | **📏 5 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md) bonus, and [stability](../../../../../Browse/Movement/Stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+> **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, [disengage](../../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) bonus, and [stability](../../../../../Browse/Movement/Stability.md#tability) bonus of your currently equipped kit in addition to their own kit's bonuses.

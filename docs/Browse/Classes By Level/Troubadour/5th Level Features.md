@@ -14,11 +14,11 @@ type: class/troubadour/level
 
 ### 5th-Level Features
 
-As a 5th-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
+As a 5th-level [troubadour](../../../Browse/Classes/Troubadour.md#troubadour), you gain the following features.
 
 #### 5th-Level Class Act Feature
 
-Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two features.
+Your [troubadour](../../../Browse/Classes/Troubadour.md#troubadour) class act grants your choice of one of two features.
 
 ##### Auteur Features
 
@@ -26,11 +26,11 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../../Browse/Conditions/Bleeding.md), [frightened](../../../Browse/Conditions/Frightened.md), [prone](../../../Browse/Conditions/Prone.md), [slowed](../../../Browse/Conditions/Slowed.md), or [taunted](../../../Browse/Conditions/Taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../Browse/Conditions/Prone.md) can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Monologue.md#dramaticmonologue) ability. Choose one of the following conditions on the target: [bleeding](../../../Browse/Conditions/Bleeding.md#bleeding), [frightened](../../../Browse/Conditions/Frightened.md#frightened), [prone](../../../Browse/Conditions/Prone.md#prone), [slowed](../../../Browse/Conditions/Slowed.md#lowed), or [taunted](../../../Browse/Conditions/Taunted.md#taunted). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer [prone](../../../Browse/Conditions/Prone.md#prone) can stand up.
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
 
 <!-- -->
 > ###### Take Two!
@@ -49,11 +49,11 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md), which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
+You have the following performance ability, which is usable with your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!
@@ -76,7 +76,7 @@ Once on each of your turns, you can use a free maneuver to exchange words with a
 
 ###### Medley
 
-You can maintain two performances at a time using your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md) feature.
+You can maintain two performances at a time using your [Routines](../../../Browse/Features/Troubadour/1st-Level Features/Routines.md#routine) feature.
 
 #### 9-Drama Ability
 
@@ -108,7 +108,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 > | ----------------- | -------------------------: |
 > | **📏 Ranged 10**  | **🎯 One enemy or object** |
 >
-> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../../../Browse/Conditions/Weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+> **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../../../Browse/Conditions/Weakened.md#weakened), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
 <!-- -->
 > ###### Love Song (9 Drama)

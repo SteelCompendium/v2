@@ -7,7 +7,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Domain Feature](8th Level Domain Feature.md)
-- [Perk](Perk.md)
+- [8th Level Domain Feature](8th Level Domain Feature.md#8thleveldomainfeature)
+- [Perk](Perk.md#perk)
 
 </div>

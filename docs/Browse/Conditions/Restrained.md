@@ -14,6 +14,6 @@ type: condition
 
 ##### Restrained
 
-A creature who is [restrained](../../Browse/Conditions/Restrained.md) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](../../Browse/Conditions/Restrained.md) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
+A creature who is [restrained](../../Browse/Conditions/Restrained.md#re-trained) has speed 0, can't use the Stand Up maneuver, and can't be force moved. A [restrained](../../Browse/Conditions/Restrained.md#re-trained) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
 
-If a creature [teleports](../../Movement/Teleport/#teleport) while [restrained](../../Browse/Conditions/Restrained.md), that condition ends.
+If a creature [teleports](../../Browse/Movement/Teleport.md#teleport) while [restrained](../../Browse/Conditions/Restrained.md#re-trained), that condition ends.

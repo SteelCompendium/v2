@@ -41,4 +41,4 @@ type: feature/ability/shadow/2nd-level-feature
 - **12-16:** Slide 5
 - **17+:** Slide 7
 
-**Effect:** This forced movement ignores [stability](../../../../Browse/Movement/Stability.md). Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+**Effect:** This forced movement ignores [stability](../../../../Browse/Movement/Stability.md#tability). Instead, the forced movement is reduced by a number equal to the target's Intuition score.

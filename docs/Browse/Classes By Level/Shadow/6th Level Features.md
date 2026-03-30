@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 6th-Level Features
 
-As a 6th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
+As a 6th-level [shadow](../../../Browse/Classes/Shadow.md#hadow), you gain the following features.
 
 #### Perk
 
@@ -24,7 +24,7 @@ You gain one perk of your choice.
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
-- You can automatically [climb](../../../Browse/Movement/Climb or Swim.md) at full speed while moving.
+- You can automatically [climb](../../../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving.
 - Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
@@ -34,7 +34,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 
 #### 6th-Level College Ability
 
-Your [shadow](../../../Browse/Classes/Shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow](../../../Browse/Classes/Shadow.md#hadow) college grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -51,9 +51,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 5
-> - **12-16:** 6 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 10
-> - **17+:** 9 + A damage; [vertical](../../../Browse/Movement/Vertical.md) push 15
+> - **≤11:** 3 + A damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) push 10
+> - **17+:** 9 + A damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 
@@ -66,7 +66,7 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../Browse/Movement/Teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. For each target in addition to you who [teleports](../../../Browse/Movement/Teleport.md#teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -101,7 +101,7 @@ Choose one of the following abilities.
 > **Power Roll + Agility:**
 >
 > - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-> - **12-16:** The creature can [fly](../../../Browse/Movement/Fly.md) until the end of the encounter.
+> - **12-16:** The creature can [fly](../../../Browse/Movement/Fly.md#fly) until the end of the encounter.
 > - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
@@ -130,8 +130,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
 > - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 > - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
 >
-> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+> **Effect:** You choose the new targets for the original target's [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.

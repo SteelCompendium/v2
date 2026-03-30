@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 3 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 5
-> - **12-16:** 6 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 10
-> - **17+:** 9 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 15
+> - **≤11:** 3 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 5
+> - **12-16:** 6 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 10
+> - **17+:** 9 + A damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 15
 >
 > **Effect:** A creature force moved by this ability must be moved straight upward.
 
@@ -46,4 +46,4 @@ Choose one of the following abilities.
 > | -------------- | ------------------------------------: |
 > | **📏 4 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../../../Browse/Movement/Teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even if they are observed.
+> **Effect:** Each target can [teleport](../../../../../Browse/Movement/Teleport.md#teleport) up to 5 squares. For each target in addition to you who [teleports](../../../../../Browse/Movement/Teleport.md#teleport) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../../../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver even if they are observed.

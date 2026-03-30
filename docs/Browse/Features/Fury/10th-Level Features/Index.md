@@ -7,12 +7,12 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Chaos Incarnate](Chaos Incarnate.md)
-- [Characteristic Increase](Characteristic Increase.md)
-- [Growing Ferocity Improvement](Growing Ferocity Improvement.md)
-- [Perk](Perk.md)
-- [Primordial Ferocity](Primordial Ferocity.md)
-- [Primordial Power](Primordial Power.md)
-- [Skill](Skill.md)
+- [Chaos Incarnate](Chaos Incarnate.md#chao-incarnate)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Growing Ferocity Improvement](Growing Ferocity Improvement.md#growingferocityimprovement)
+- [Perk](Perk.md#perk)
+- [Primordial Ferocity](Primordial Ferocity.md#primordialferocity)
+- [Primordial Power](Primordial Power.md#primordialpower)
+- [Skill](Skill.md#kill)
 
 </div>

@@ -9,15 +9,15 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Discipline](Discipline.md)
-- [Discipline Mastery](Discipline Mastery.md)
-- [Inertial Shield](Inertial Shield.md)
-- [Null Abilities](Null Abilities.md)
-- [Null Field](Null Field.md)
-- [Null Speed](Null Speed.md)
-- [Null Tradition](Null Tradition.md)
-- [Psionic Augmentation](Psionic Augmentation.md)
-- [Psionic Martial Arts](Psionic Martial Arts.md)
+- [Discipline](Discipline.md#di-cipline)
+- [Discipline Mastery](Discipline Mastery.md#di-ciplinema-tery)
+- [Inertial Shield](Inertial Shield.md#inertial-hield)
+- [Null Abilities](Null Abilities.md#nullabilitie)
+- [Null Field](Null Field.md#nullfield)
+- [Null Speed](Null Speed.md#null-peed)
+- [Null Tradition](Null Tradition.md#nulltradition)
+- [Psionic Augmentation](Psionic Augmentation.md#p-ionicaugmentation)
+- [Psionic Martial Arts](Psionic Martial Arts.md#p-ionicmartialart)
 
 </div>
 
@@ -25,8 +25,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Discipline in Combat](Discipline/Discipline in Combat.md)
-    - [Discipline Outside of Combat](Discipline/Discipline Outside of Combat.md)
+    - [Discipline in Combat](Discipline/Discipline in Combat.md#di-ciplineincombat)
+    - [Discipline Outside of Combat](Discipline/Discipline Outside of Combat.md#di-ciplineout-ideofcombat)
 
 </div>
 
@@ -34,9 +34,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Chronokinetic Mastery](Discipline Mastery/Chronokinetic Mastery.md)
-    - [Cryokinetic Mastery](Discipline Mastery/Cryokinetic Mastery.md)
-    - [Metakinetic Mastery](Discipline Mastery/Metakinetic Mastery.md)
+    - [Chronokinetic Mastery](Discipline Mastery/Chronokinetic Mastery.md#chronokineticma-tery)
+    - [Cryokinetic Mastery](Discipline Mastery/Cryokinetic Mastery.md#cryokineticma-tery)
+    - [Metakinetic Mastery](Discipline Mastery/Metakinetic Mastery.md#metakineticma-tery)
 
 </div>
 
@@ -44,8 +44,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Null Abilities/Heroic Abilities.md)
-    - [Signature Abilities](Null Abilities/Signature Abilities.md)
+    - [Heroic Abilities](Null Abilities/Heroic Abilities.md#heroicabilitie)
+    - [Signature Abilities](Null Abilities/Signature Abilities.md#ignatureabilitie)
 
 </div>
 
@@ -53,8 +53,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Density Augmentation](Psionic Augmentation/Density Augmentation.md)
-    - [Force Augmentation](Psionic Augmentation/Force Augmentation.md)
-    - [Speed Augmentation](Psionic Augmentation/Speed Augmentation.md)
+    - [Density Augmentation](Psionic Augmentation/Density Augmentation.md#den-ityaugmentation)
+    - [Force Augmentation](Psionic Augmentation/Force Augmentation.md#forceaugmentation)
+    - [Speed Augmentation](Psionic Augmentation/Speed Augmentation.md#peedaugmentation)
 
 </div>

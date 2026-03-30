@@ -14,7 +14,7 @@ type: class/null/level
 
 ### 5th-Level Features
 
-As a 5th-level [null](../../../Browse/Classes/Null.md), you gain the following features.
+As a 5th-level [null](../../../Browse/Classes/Null.md#null), you gain the following features.
 
 #### 5th-Level Tradition Feature
 
@@ -24,9 +24,9 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                           |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level Features/Instant Action.md)         |
-| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level Features/Chilling Readiness.md) |
-| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md)     |
+| Chronokinetic | [Instant Action](../../../Browse/Features/Null/5th-Level Features/Instant Action.md#in-tantaction)         |
+| Cryokinetic   | [Chilling Readiness](../../../Browse/Features/Null/5th-Level Features/Chilling Readiness.md#chillingreadine) |
+| Metakinetic   | [Inertial Fulcrum](../../../Browse/Features/Null/5th-Level Features/Inertial Fulcrum.md#inertialfulcrum)     |
 
 #### Chilling Readiness
 
@@ -57,9 +57,9 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
-> - **17+:** 13 + A damage; I < STRONG, [restrained](../../../Browse/Conditions/Restrained.md) (save ends)
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 >
 > **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -74,11 +74,11 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 10 + A damage; A < WEAK, [grabbed](../../../Browse/Conditions/Grabbed.md)
-> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md)
-> - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md)
+> - **≤11:** 10 + A damage; A < WEAK, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **17+:** 18 + A damage; A < STRONG, [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed)
 >
-> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+> **Effect:** While [grabbed](../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes a bane on the [Escape Grab](../../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 <!-- -->
 > ###### Phase Leap (9 Discipline)
@@ -89,7 +89,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** You [jump](../../../Browse/Movement/Jump.md) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+> **Effect:** You [jump](../../../Browse/Movement/Jump.md#jump) up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 <!-- -->
 > ###### Synaptic Reset (9 Discipline)

@@ -61,7 +61,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
-Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../Browse/Ancestries/Time Raider.md) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
+Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../Browse/Ancestries/Time Raider.md#timeraider) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
 Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different look might wear an earring as a piercing anywhere else they desire.
 
@@ -75,9 +75,9 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 ##### Treasures and Kits
 
-To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../Browse/Kits/Warrior Priest.md) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
+To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../Browse/Kits/Warrior Priest.md#warriorprie-t) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
-If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../Browse/Classes/Conduit.md)'s [Prayer of Soldier's Skill](../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Soldiers Skill.md).
+If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit](../Browse/Classes/Conduit.md#conduit)'s [Prayer of Soldier's Skill](../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Soldiers Skill.md#prayerof-oldier-kill).
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
@@ -104,9 +104,9 @@ Your character can carry any number of consumables at a time.
 >
 > Recoveries, respites, Victories: Chapter 1: The Basics
 >
-> Languages: [Chapter 4: Background](../Chapters/Background.md)
+> Languages: [Chapter 4: Background](../Chapters/Background.md#background)
 >
-> Abilities, conditions, potencies, surges: Chapter 5: [Classes](../Chapters/Classes.md)
+> Abilities, conditions, potencies, surges: Chapter 5: [Classes](../Chapters/Classes.md#cla-e)
 >
 > Skills, tests: Chapter 9: Tests
 >
@@ -132,13 +132,13 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Roll Characteristic:** Agility or Intuition
 
-**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](../Browse/Classes/Shadow.md))
+**Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a [shadow](../Browse/Classes/Shadow.md#hadow))
 
-**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** You can [teleport](../Browse/Movement/Teleport.md) the target up to 2 squares.
-- **12-16:** You can [teleport](../Browse/Movement/Teleport.md) the target up to 4 squares.
-- **17+:** You can [teleport](../Browse/Movement/Teleport.md) the target up to 6 squares.
+- **≤11:** You can [teleport](../Browse/Movement/Teleport.md#teleport) the target up to 2 squares.
+- **12-16:** You can [teleport](../Browse/Movement/Teleport.md#teleport) the target up to 4 squares.
+- **17+:** You can [teleport](../Browse/Movement/Teleport.md#teleport) the target up to 6 squares.
 
 ##### Blood Essence Vial
 
@@ -170,7 +170,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../Browse/Conditions/Bleeding.md) and [weakened](../Browse/Conditions/Weakened.md) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
+**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../Browse/Conditions/Bleeding.md#bleeding) and [weakened](../Browse/Conditions/Weakened.md#weakened) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
 
 ##### Catapult Dust
 
@@ -222,7 +222,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and [Stability](../Browse/Movement/Stability.md) are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina maximum and [Stability](../Browse/Movement/Stability.md), and losing the potion's other benefits. Objects maintain their new size permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and [Stability](../Browse/Movement/Stability.md#tability) are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina maximum and [Stability](../Browse/Movement/Stability.md#tability), and losing the potion's other benefits. Objects maintain their new size permanently.
 
 ##### Healing Potion
 
@@ -306,7 +306,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can shift 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with Stamina 15, a 0 in all their characteristics, and a speed and [stability](../Browse/Movement/Stability.md) equal to yours. They appear indistinguishable from you but can't use any abilities.
+**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can shift 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with Stamina 15, a 0 in all their characteristics, and a speed and [stability](../Browse/Movement/Stability.md#tability) equal to yours. They appear indistinguishable from you but can't use any abilities.
 
 While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 Stamina.
 
@@ -328,9 +328,9 @@ While you have line of effect to your homunculus, you can use a maneuver to issu
 
 Enterprising mages within various thieves' guilds have developed variations of the Portable Cloud. Each variation has a secondary item prerequisite and a project goal of 45.
 
-**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../Browse/Conditions/Weakened.md) while in the fog.
+**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../Browse/Conditions/Weakened.md#weakened) while in the fog.
 
-**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../Browse/Conditions/Slowed.md) while in the cloud.
+**Item Prerequisite:** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 cube of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../Browse/Conditions/Slowed.md#lowed) while in the cloud.
 
 **Item Prerequisite:** A spool of copper wire.
 
@@ -348,7 +348,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../Browse/Conditions/Grabbed.md), [restrained](../Browse/Conditions/Restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
+**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../Browse/Conditions/Grabbed.md#grabbed), [restrained](../Browse/Conditions/Restrained.md#re-trained), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
 
 ##### Snapdragon
 
@@ -384,7 +384,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../Browse/Conditions/Frightened.md), [slowed](../Browse/Conditions/Slowed.md), and [taunted](../Browse/Conditions/Taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../Browse/Movement/Stability.md) until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../Browse/Conditions/Frightened.md#frightened), [slowed](../Browse/Conditions/Slowed.md#lowed), and [taunted](../Browse/Conditions/Taunted.md#taunted) conditions on yourself, and you gain a +8 bonus to [Stability](../Browse/Movement/Stability.md#tability) until the end of the encounter.
 
 ##### Bull Shot
 
@@ -400,7 +400,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../Browse/Conditions/Grabbed.md). While [grabbed](../Browse/Conditions/Grabbed.md) this way, the creature is [bleeding](../Browse/Conditions/Bleeding.md). You can also [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action, the target of your strike is gored upon your horns and [grabbed](../Browse/Conditions/Grabbed.md#grabbed). While [grabbed](../Browse/Conditions/Grabbed.md#grabbed) this way, the creature is [bleeding](../Browse/Conditions/Bleeding.md#bleeding). You can also [grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -416,7 +416,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to [stability](../Browse/Movement/Stability.md). Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to [stability](../Browse/Movement/Stability.md) lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
+**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to [stability](../Browse/Movement/Stability.md#tability). Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to [stability](../Browse/Movement/Stability.md#tability) lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
 
 ##### Concealment Potion
 
@@ -432,7 +432,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver even while you are observed.
 
 ##### Float Powder
 
@@ -448,7 +448,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your [stability](../Browse/Movement/Stability.md) is reduced to 0, and you can [fly](../Browse/Movement/Fly.md) and [hover](../Browse/Movement/Hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your [stability](../Browse/Movement/Stability.md#tability) is reduced to 0, and you can [fly](../Browse/Movement/Fly.md#fly) and [hover](../Browse/Movement/Hover.md#hover). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 
 ##### Purified Jelly
 
@@ -500,9 +500,9 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 **Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of size 3 or less a number of squares based on that target's size:
 
-- **Size 1L or smaller:** [vertical](../Browse/Movement/Vertical.md) pull 6
-- **Size 2:** [vertical](../Browse/Movement/Vertical.md) pull 3
-- **Size 3:** [vertical](../Browse/Movement/Vertical.md) pull 1
+- **Size 1L or smaller:** [vertical](../Browse/Movement/Vertical.md#vertical) pull 6
+- **Size 2:** [vertical](../Browse/Movement/Vertical.md#vertical) pull 3
+- **Size 3:** [vertical](../Browse/Movement/Vertical.md#vertical) pull 1
 
 If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
@@ -540,7 +540,7 @@ This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 180
 
-**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with [stability](../Browse/Movement/Stability.md) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with [stability](../Browse/Movement/Stability.md#tability) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
 
 At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their Intuition score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
 
@@ -574,7 +574,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a [devil](../Browse/Ancestries/Devil.md). You avoid the damage and any accompanying effects, and the [devil](../Browse/Ancestries/Devil.md) redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The [devil](../Browse/Ancestries/Devil.md) then disappears.
+**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a [devil](../Browse/Ancestries/Devil.md#devil). You avoid the damage and any accompanying effects, and the [devil](../Browse/Ancestries/Devil.md#devil) redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The [devil](../Browse/Ancestries/Devil.md#devil) then disappears.
 
 ##### Personal Effigy
 
@@ -606,7 +606,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../Browse/Conditions/Bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../Browse/Conditions/Bleeding.md#bleeding) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
 
 ##### Timesplitter
 
@@ -622,11 +622,11 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using the [Timesplitter](../Browse/Treasures/Consumables/3rd Echelon Consumables/Timesplitter.md), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using the [Timesplitter](../Browse/Treasures/Consumables/3rd Echelon Consumables/Timesplitter.md#time-plitter), which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** The target and each creature within 3 squares of them a [slowed](../Browse/Conditions/Slowed.md) (save ends).
-- **12-16:** The target and each creature within 5 squares of them is [slowed](../Browse/Conditions/Slowed.md) (save ends).
-- **17+:** The target and each creature within 8 squares of them is [slowed](../Browse/Conditions/Slowed.md) (save ends).
+- **≤11:** The target and each creature within 3 squares of them a [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends).
+- **12-16:** The target and each creature within 5 squares of them is [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends).
+- **17+:** The target and each creature within 8 squares of them is [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends).
 
 ##### Ward Token
 
@@ -714,7 +714,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Goal:** 360
 
-**Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../Browse/Conditions/Dazed.md) until the end of their turn.
+**Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../Browse/Conditions/Dazed.md#dazed) until the end of their turn.
 
 ##### Restorative of the Bright Court
 
@@ -810,7 +810,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) as a free maneuver once during the fall before you hit the ground.
 
 ##### Displacing Replacement Bracer
 
@@ -842,7 +842,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver at a distance. If the target is [grabbed](../Browse/Conditions/Grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your [grab](../Browse/Abilities/Common/Maneuvers/Grab.md), or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver at a distance. If the target is [grabbed](../Browse/Conditions/Grabbed.md#grabbed), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your [grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab), or you call upon the vine to release the target (no action required).
 
 ##### Flameshade Gloves
 
@@ -876,7 +876,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../Browse/Movement/Climb or Swim.md) unless you are force moved, and any creature [grabbed](../Browse/Conditions/Grabbed.md) by you takes a bane on the test for the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while [climbing](../Browse/Movement/Climb or Swim.md#climbor-wim) unless you are force moved, and any creature [grabbed](../Browse/Conditions/Grabbed.md#grabbed) by you takes a bane on the test for the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver.
 
 ##### Hellcharger Helm
 
@@ -892,7 +892,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free maneuver, regardless of the target creature's size.
 
 ##### Mask of the Many
 
@@ -960,7 +960,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to [Stability](../Browse/Movement/Stability.md). This Stamina bonus adds to the Stamina bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to [Stability](../Browse/Movement/Stability.md#tability). This Stamina bonus adds to the Stamina bonus granted by other treasures.
 
 ##### Evilest Eye
 
@@ -1008,7 +1008,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../Browse/Conditions/Grabbed.md), or [restrained](../Browse/Conditions/Restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../Browse/Conditions/Grabbed.md#grabbed), or [restrained](../Browse/Conditions/Restrained.md#re-trained) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 
 ##### Mediator's Charm
 
@@ -1016,7 +1016,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](../Browse/Ancestries/Devil.md)
+**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](../Browse/Ancestries/Devil.md#devil)
 
 **Project Source:** Texts or lore in Hyrallic
 
@@ -1040,7 +1040,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically [swim](../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
 
 ##### Scannerstone
 
@@ -1161,7 +1161,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](../Browse/Classes/Null.md) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
+**Effect:** You must be a [null](../Browse/Classes/Null.md#null) to wear this ring. While you do so, the area of your Null Field ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -1177,10 +1177,10 @@ Additionally, you have the following ability.
 > **Power Roll + Might or Agility:**
 >
 > - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, [slowed](../Browse/Conditions/Slowed.md) (save ends)
+> - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends)
 >
-> **Effect:** While [slowed](../Browse/Conditions/Slowed.md) in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](../Browse/Conditions/Slowed.md#lowed) in this way, the target takes a bane on magic or psionic abilities.
 
 ##### Shifting Ring
 
@@ -1196,7 +1196,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](../Browse/Movement/Teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../Browse/Movement/Teleport.md), you can [teleport](../Browse/Movement/Teleport.md) up to 3 additional squares.
+**Effect:** Once per turn, you can use a maneuver to [teleport](../Browse/Movement/Teleport.md#teleport) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../Browse/Movement/Teleport.md#teleport), you can [teleport](../Browse/Movement/Teleport.md#teleport) up to 3 additional squares.
 
 #### 4th-Echelon Trinkets
 
@@ -1238,7 +1238,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that deals an extra 3 psychic damage.
 
 ### Leveled Treasures
 
@@ -1301,7 +1301,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically [swim](../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
@@ -1321,11 +1321,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can [fly](../Browse/Movement/Fly.md). If you don't end your turn on the ground, you fall.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can [fly](../Browse/Movement/Fly.md#fly). If you don't end your turn on the ground, you fall.
 
 **5th Level:** The armor's bonus to Stamina increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](../Browse/Movement/Fly.md) any distance before making a strike, that strike gains an edge.
+**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](../Browse/Movement/Fly.md#fly) any distance before making a strike, that strike gains an edge.
 
 ##### King's Roar
 
@@ -1345,7 +1345,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The shield's bonus to Stamina increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../Browse/Conditions/Slowed.md) until the end of their next turn.
+**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../Browse/Conditions/Slowed.md#lowed) until the end of their next turn.
 
 ##### Kuran'zoi Prismscale
 
@@ -1353,7 +1353,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a [time raider](../Browse/Ancestries/Time Raider.md) who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](../Browse/Ancestries/Time Raider.md#timeraider) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 
@@ -1361,7 +1361,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](../Browse/Conditions/Slowed.md) until the end of their next turn.
+**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](../Browse/Conditions/Slowed.md#lowed) until the end of their next turn.
 
 **5th Level:** The armor's bonus to Stamina increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
 
@@ -1381,11 +1381,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../Browse/Conditions/Dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../Browse/Conditions/Dazed.md#dazed) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](../Browse/Conditions/Dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
+**5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](../Browse/Conditions/Dazed.md#dazed) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../Browse/Conditions/Dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../Browse/Conditions/Grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../Browse/Conditions/Dazed.md#dazed) when you return to your true form. Additionally, while you have a target [grabbed](../Browse/Conditions/Grabbed.md#grabbed) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver against you and when making strikes against you.
 
 ##### Shrouded Memory
 
@@ -1403,9 +1403,9 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../Browse/Movement/Teleport.md) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
+**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../Browse/Movement/Teleport.md#teleport) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](../Browse/Movement/Teleport.md), you can [teleport](../Browse/Movement/Teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
+**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](../Browse/Movement/Teleport.md#teleport), you can [teleport](../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
 
 ##### Spiny Turtle
 
@@ -1461,11 +1461,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../Browse/Conditions/Grabbed.md) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver against that enemy. You can have any number of enemies [grabbed](../Browse/Conditions/Grabbed.md#grabbed) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver while [grabbed](../Browse/Conditions/Grabbed.md) this way takes a bane on the test.
+**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver while [grabbed](../Browse/Conditions/Grabbed.md#grabbed) this way takes a bane on the test.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../Browse/Conditions/Grabbed.md) up to 5 squares.
+**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../Browse/Conditions/Grabbed.md#grabbed) up to 5 squares.
 
 #### Leveled Implement Treasures
 
@@ -1569,15 +1569,15 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal 20 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is weakend until the end of their next turn.
 
-**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](../Browse/Conditions/Dazed.md) until the end of their next turn.
+**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](../Browse/Conditions/Dazed.md#dazed) until the end of their next turn.
 
 ##### Words Become Wonders at Next Breath
 
-*This ornate [high elf](../Browse/Ancestries/High Elf.md) tome seems to sigh each time it is opened.*
+*This ornate [high elf](../Browse/Ancestries/High Elf.md#highelf) tome seems to sigh each time it is opened.*
 
 **Keywords:** Implement, Magic
 
-**Item Prerequisite:** Written permission from a [high elf](../Browse/Ancestries/High Elf.md) magistrate
+**Item Prerequisite:** Written permission from a [high elf](../Browse/Ancestries/High Elf.md#highelf) magistrate
 
 **Project Source:** Texts or lore in Hyrallic
 
@@ -1649,7 +1649,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, whenever you deal rolled damage with this weapon, you can immediately shift 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an NPC in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your size or smaller, you can use fancy footwork to knock them [prone](../Browse/Conditions/Prone.md). You also earn 1 Renown.
+**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your size or smaller, you can use fancy footwork to knock them [prone](../Browse/Conditions/Prone.md#prone). You also earn 1 Renown.
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double edge on any test you make using a skill you have from the interpersonal skill group.
 
@@ -1667,11 +1667,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to [teleport](../Browse/Movement/Teleport.md) you and that creature, letting you trade places provided you both fit into each other's spaces.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to [teleport](../Browse/Movement/Teleport.md#teleport) you and that creature, letting you trade places provided you both fit into each other's spaces.
 
 **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../Browse/Conditions/Weakened.md) until the end of their next turn, or you can spend a Recovery.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../Browse/Conditions/Weakened.md#weakened) until the end of their next turn, or you can spend a Recovery.
 
 ##### Executioner's Blade
 
@@ -1749,9 +1749,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can shift to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action and use an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) keyword, or whenever you use an ability that allows you to shift, you can [fly](../Browse/Movement/Fly.md) as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md) movement or the shift. If you don't end your [flying](../Browse/Movement/Fly.md) movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action and use an ability with the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) keyword, or whenever you use an ability that allows you to shift, you can [fly](../Browse/Movement/Fly.md#fly) as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) movement or the shift. If you don't end your [flying](../Browse/Movement/Fly.md#fly) movement on the ground, you fall.
 
-**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be [vertical](../Browse/Movement/Vertical.md).
+**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be [vertical](../Browse/Movement/Vertical.md#vertical).
 
 ##### Molten Constrictor
 
@@ -1767,11 +1767,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md) the target. A target [grabbed](../Browse/Conditions/Grabbed.md) in this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically [grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) the target. A target [grabbed](../Browse/Conditions/Grabbed.md#grabbed) in this way takes a bane when using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../Browse/Conditions/Grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../Browse/Conditions/Grabbed.md#grabbed) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver.
 
-**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../Browse/Conditions/Grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) with another weapon against a target [grabbed](../Browse/Conditions/Grabbed.md) using the net.
+**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../Browse/Conditions/Grabbed.md#grabbed) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) with another weapon against a target [grabbed](../Browse/Conditions/Grabbed.md#grabbed) using the net.
 
 ##### Onerous Bow
 
@@ -1787,9 +1787,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target [weakened](../Browse/Conditions/Weakened.md) until the end of their next turn.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, any signature ability using the weapon that obtains a tier 3 outcome also makes the target [weakened](../Browse/Conditions/Weakened.md#weakened) until the end of their next turn.
 
-**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](../Browse/Conditions/Weakened.md) and [slowed](../Browse/Conditions/Slowed.md) until the end of their next turn.
+**5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](../Browse/Conditions/Weakened.md#weakened) and [slowed](../Browse/Conditions/Slowed.md#lowed) until the end of their next turn.
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double bane to target two creatures adjacent to the original target.
 
@@ -1807,11 +1807,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../Browse/Conditions/Bleeding.md) (save ends).
+**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../Browse/Conditions/Bleeding.md#bleeding) (save ends).
 
-**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](../Browse/Conditions/Bleeding.md).
+**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](../Browse/Conditions/Bleeding.md#bleeding).
 
-**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](../Browse/Conditions/Bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
+**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](../Browse/Conditions/Bleeding.md#bleeding) creatures, you can use the same ability again immediately as a maneuver.
 
 ##### Third Eye Seeker
 
@@ -1827,7 +1827,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../Browse/Conditions/Dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) using this weapon against the creature.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../Browse/Conditions/Dazed.md#dazed) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) using this weapon against the creature.
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
@@ -1865,11 +1865,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) and can move up to 2 squares before or after the strike.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
 
 #### Other Leveled Treasures
 
@@ -1893,7 +1893,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **5th Level:** The ring's bonus to Stamina increases to +12. Additionally, you have damage immunity 2.
 
-**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../Browse/Movement/Teleport.md) into their possession and ceases to be magic.
+**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../Browse/Movement/Teleport.md#teleport) into their possession and ceases to be magic.
 
 ##### Bloody Hand Wraps
 
@@ -1909,11 +1909,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) option or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
+**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) (no action required). On your turn, you can use the wraps' melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) option or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) option, or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md) maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) option, or [Grab](../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver option, but only one.
 
 ##### Lightning Treads
 
@@ -1949,9 +1949,9 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest characteristic score, and whenever you damage a creature marked for revenge, they are also [bleeding](../Browse/Conditions/Bleeding.md) until the end of their next turn.
+**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest characteristic score, and whenever you damage a creature marked for revenge, they are also [bleeding](../Browse/Conditions/Bleeding.md#bleeding) until the end of their next turn.
 
-**5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](../Browse/Conditions/Bleeding.md) (save ends).
+**5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](../Browse/Conditions/Bleeding.md#bleeding) (save ends).
 
 **9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their distance from you and even if you don't have line of effect to them.
 
@@ -1993,11 +1993,11 @@ Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to
 
 Though its size and make are often debated, the sword is consistently described as having a crossguard made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in weapons. Those who touch the blade are filled with the vigor and power of the heroes who have held it before.
 
-**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](../Browse/Conditions/Frightened.md) and [weakened](../Browse/Conditions/Weakened.md) until the end of their next turn.
+**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](../Browse/Conditions/Frightened.md#frightened) and [weakened](../Browse/Conditions/Weakened.md#weakened) until the end of their next turn.
 
 **Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature's Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.
 
-**Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](../Browse/Conditions/Dazed.md). Any enemy leader or solo creature in that area takes a bane on ability rolls.
+**Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](../Browse/Conditions/Dazed.md#dazed). Any enemy leader or solo creature in that area takes a bane on ability rolls.
 
 **Victory's Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
@@ -2011,17 +2011,17 @@ Though its size and make are often debated, the sword is consistently described 
 
 This scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The [Encepter](../Browse/Treasures/Artifacts/Encepter.md) is said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) belong to dragons deep in slumber.
+The [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) is said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) belong to dragons deep in slumber.
 
-**Shining Presence:** The one who wields the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 outcome, though the wielder can still roll in an attempt to score a critical success or critical hit.
+**Shining Presence:** The one who wields the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 outcome, though the wielder can still roll in an attempt to score a critical success or critical hit.
 
-**Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md). Creatures remain lassoed until the lasso is released or until a new line is drawn.
+**Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter). Creatures remain lassoed until the lasso is released or until a new line is drawn.
 
-**Dominion:** Each creature lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) is [restrained](../Browse/Conditions/Restrained.md) and can't [teleport](../Browse/Movement/Teleport.md). A creature caught in midair while lassoed stays in place rather than falling.
+**Dominion:** Each creature lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) is [restrained](../Browse/Conditions/Restrained.md#re-trained) and can't [teleport](../Browse/Movement/Teleport.md#teleport). A creature caught in midair while lassoed stays in place rather than falling.
 
-**Obliteration:** As a main action, the wielder raises the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) to the sky. Each target lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
+**Obliteration:** As a main action, the wielder raises the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) to the sky. Each target lassoed by the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
 
-**At World's End:** If the [Encepter](../Browse/Treasures/Artifacts/Encepter.md) was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within 3 days of the scepter being taken.
+**At World's End:** If the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter) was not taken from its cyclonic resting place with the purpose of vanquishing a terrible peril, then a terrible peril emerges to threaten the world within 3 days of the scepter being taken.
 
 ##### Mortal Coil
 
@@ -2053,7 +2053,7 @@ Each title comes with a new ability or other special benefit. By earning titles,
 
 ### Title Requirements
 
-Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](../Browse/Titles/4th Echelon/Monarch.md) title—win a kingdom!
+Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the [Monarch](../Browse/Titles/4th Echelon/Monarch.md#monarch) title—win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon simply because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -2061,7 +2061,7 @@ Although the Director gives out titles, if you want to earn a specific title, le
 
 ### Title Echelons
 
-Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](../Browse/Titles/4th Echelon/Monarch.md) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
+Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, but becoming a [monarch](../Browse/Titles/4th Echelon/Monarch.md#monarch) can usually only be achieved in the 4th echelon. But don't let the rules get in the way of a good story! If the Director decides that your character somehow wins a knighthood at 1st level, bask in the glory of this great accomplishment.
 
 <!-- -->
 > For the Director: Granting Titles Early
@@ -2072,12 +2072,12 @@ Each title is assigned to an echelon of play where it is most likely to be earne
 
 This section details a number of ready-to-use titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title. Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](../Browse/Titles/1st Echelon/Brawler.md) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
+The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the [Brawler](../Browse/Titles/1st Echelon/Brawler.md#brawler) title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
 <!-- -->
 > **For the Director: Perks as Custom Titles**
 >
-> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](../Browse/Perks/Supernatural Perks/Familiar.md) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
+> You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the [Familiar](../Browse/Perks/Supernatural Perks/Familiar.md#familiar) perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
 
 ### How Many Titles?
 
@@ -2087,7 +2087,7 @@ Just because a hero meets the prerequisite for a title doesn't mean it is grante
 
 Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular fate reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](../Browse/Titles/1st Echelon/Brawler.md) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](../Browse/Titles/1st Echelon/Brawler.md#brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
 
 ### Granting Titles
 
@@ -2107,7 +2107,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 <!-- -->
 > **For the Director: Planning Titles**
 >
-> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](../Browse/Titles/3rd Echelon/Demon Slayer.md) or [Dragon Blooded](../Browse/Titles/3rd Echelon/Dragon Blooded.md) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](../Browse/Titles/4th Echelon/Demigod.md) title?
+> While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](../Browse/Titles/3rd Echelon/Demon Slayer.md#demon-layer) or [Dragon Blooded](../Browse/Titles/3rd Echelon/Dragon Blooded.md#dragonblooded) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](../Browse/Titles/4th Echelon/Demigod.md#demigod) title?
 
 #### Ancient Loremaster
 
@@ -2143,7 +2143,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../Browse/Conditions/Grabbed.md) or [restrained](../Browse/Conditions/Restrained.md), your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md) don't take a bane when those conditions would impose one.
+- *Headbutt:* While you are [grabbed](../Browse/Conditions/Grabbed.md#grabbed) or [restrained](../Browse/Conditions/Restrained.md#re-trained), your [free strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
 #### City Rat
@@ -2162,7 +2162,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 *I don't know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?*
 
-**Prerequisite:** You aren't a [hakaan](../Browse/Ancestries/Hakaan.md) but have witnessed the death of a [hakaan](../Browse/Ancestries/Hakaan.md).
+**Prerequisite:** You aren't a [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) but have witnessed the death of a [hakaan](../Browse/Ancestries/Hakaan.md#hakaan).
 
 **Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become doomed. If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
@@ -2170,11 +2170,11 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
-**Prerequisite:** You fight alongside three or more [dwarves](../Browse/Ancestries/Dwarf.md).
+**Prerequisite:** You fight alongside three or more [dwarves](../Browse/Ancestries/Dwarf.md#dwarf).
 
 **Effect:** Choose one of the following benefits:
 
-- *Close Formation:* While adjacent to two or more allies, you gain a +2 bonus to [stability](../Browse/Movement/Stability.md).
+- *Close Formation:* While adjacent to two or more allies, you gain a +2 bonus to [stability](../Browse/Movement/Stability.md#tability).
 - *Rune of Alarm:* You can spend 10 uninterrupted minutes to inscribe a magic eye-shaped rune on a surface. The rune sheds light for 2 squares. The rune is dispelled 1 minute after it is activated or if you inscribe the rune elsewhere. The rune activates when an enemy comes within 2 squares of it. When the rune is activated, you wake up if you are nonmagically asleep, and you can perceive through the rune for 1 minute as if you were in its square.
 - *Stonemeld:* While adjacent to a stone wall, you can use a maneuver to gain concealment. This concealment lasts until you leave the square or use an ability.
 
@@ -2186,7 +2186,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md) 1st-level [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md) feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md#elementali-t) 1st-level [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurlelement) feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
@@ -2202,7 +2202,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Academic Faction:* You find a sage who can make up to three Reason tests to recall lore or make project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
 - *Guild Faction:* You find an expert crafter who can make up to three project rolls for crafting projects on your behalf. The crafter has a +5 bonus to these tests. These project rolls take 10 uninterrupted minutes each and don't need to be made during a respite.
-- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](../Browse/Ancestries/Human.md) guards**). These minions follow your orders for a day.
+- *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](../Browse/Ancestries/Human.md#human) guards**). These minions follow your orders for a day.
 - *Spy Faction:* You find an agent who can provide you with three pieces of information about the settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation motivation or pitfall of an important person.
 
 **Special:** You can gain this title multiple times, once for each faction. You can be stripped of this title if you act against the faction's interests.
@@ -2233,7 +2233,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Arcane Dampening:* When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.
-- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against them as a triggered action.
+- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
 #### Marshal
@@ -2245,8 +2245,8 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
-- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../Browse/Movement/Jump.md) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md) feature from the [censor](../Browse/Classes/Censor.md) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) unless you have the [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md) class feature.
+- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../Browse/Movement/Jump.md#jump) you make by 1 square, both until the end of your turn.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#mylifeforyour) feature from the [censor](../Browse/Classes/Censor.md#cen-or) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) unless you have the [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -2300,10 +2300,10 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 > | --------------- | ------------------------------------------: |
 > | **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
 >
-> **Effect:** Each target who has P < AVERAGE is [taunted](../Browse/Conditions/Taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../Browse/Conditions/Taunted.md) in this way.
+> **Effect:** Each target who has P < AVERAGE is [taunted](../Browse/Conditions/Taunted.md#taunted) by you until the end of their next turn, and you know the location of each creature [taunted](../Browse/Conditions/Taunted.md#taunted) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Everybody Move!:* When you use the [Knockback](../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver, you can target one additional creature of your size or two additional smaller creatures.
 
 #### Saved for a Worse Fate
 
@@ -2328,7 +2328,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *Deep-Sea Diver:* You can automatically [swim](../Browse/Movement/Climb or Swim.md) at full speed while moving.
+- *Deep-Sea Diver:* You can automatically [swim](../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving.
 - *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your distance from the ship.
 - *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
 - *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
@@ -2342,9 +2342,9 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Flying Circus:* When you are adjacent to a willing ally on their turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
-- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or [hide](../Browse/Abilities/Common/Maneuvers/Hide.md), they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
+- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or [hide](../Browse/Abilities/Common/Maneuvers/Hide.md#hide), they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
 - *Supporting Player:* You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
-- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, [hide](../Browse/Abilities/Common/Maneuvers/Hide.md), pick pockets, or sneak.
+- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, [hide](../Browse/Abilities/Common/Maneuvers/Hide.md#hide), pick pockets, or sneak.
 
 #### Wanted Dead or Alive
 
@@ -2356,7 +2356,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#e-capegrab) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
 #### Zombie Slayer
 
@@ -2379,7 +2379,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 > | --------------- | -----------------------------------: |
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](../Browse/Conditions/Frightened.md) (save ends).
+> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](../Browse/Conditions/Frightened.md#frightened) (save ends).
 
 ### 2nd-Echelon Titles
 
@@ -2393,8 +2393,8 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../Browse/Conditions/Prone.md) creatures. Additionally, being [prone](../Browse/Conditions/Prone.md) doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../Browse/Conditions/Grabbed.md), you can use them as a weapon when you make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md). Both the target and the [grabbed](../Browse/Conditions/Grabbed.md) enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone](../Browse/Conditions/Prone.md#prone) creatures. Additionally, being [prone](../Browse/Conditions/Prone.md#prone) doesn't impose a bane on your strikes.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../Browse/Conditions/Grabbed.md#grabbed), you can use them as a weapon when you make a melee weapon [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). Both the target and the [grabbed](../Browse/Conditions/Grabbed.md#grabbed) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -2407,11 +2407,11 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, [slowed](../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 10 damage; I < AVERAGE, [frightened](../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 14 damage; I < STRONG, [dazed](../Browse/Conditions/Dazed.md) (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, [frightened](../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 14 damage; I < STRONG, [dazed](../Browse/Conditions/Dazed.md#dazed) (save ends)
 >
-> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](../Browse/Conditions/Frightened.md) (save ends).
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](../Browse/Conditions/Frightened.md#frightened) (save ends).
 
 #### Awakened
 
@@ -2422,7 +2422,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Foresight:* You don't take a bane when using abilities against creatures with concealment.
-- *[Rogue Talent](../Browse/Complications/Rogue Talent.md):* Choose one triggered action that the [talent](../Browse/Classes/Talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
+- *[Rogue Talent](../Browse/Complications/Rogue Talent.md#roguetalent):* Choose one triggered action that the [talent](../Browse/Classes/Talent.md#talent) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
 #### Battlefield Commander
@@ -2444,10 +2444,10 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | -------------- | ------------------------------------: |
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) main action.
+> **Effect:** Each target can use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../Browse/Classes/Tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../Browse/Classes/Tactician.md#tactician) class. You gain that feature even if you don't have the [Tactical Doctrine](../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) feature.
 
 #### Blood Magic
 
@@ -2465,20 +2465,20 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the [Ship Captain](../Browse/Titles/1st Echelon/Ship Captain.md) title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](../Browse/Titles/1st Echelon/Ship Captain.md#hipcaptain) title, and you sink or capture a ship of equal or greater size than your own.
 
 **Effect:** Choose one of the following benefits:
 
 - *Artillerist:* You gain a +5 damage bonus when using a ship's weapons
 - *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is flying from your ship, crewmembers of other ships who have line of effect to the flag take a bane on strikes made against your ship or its crew.
 - *Fearsome Reputation:* You earn 1 Renown.
-- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md) or Sneak to let your ship avoid notice.
+- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or [Hide](../Browse/Abilities/Common/Maneuvers/Hide.md#hide) or Sneak to let your ship avoid notice.
 
 #### Faction Officer
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
-**Prerequisite:** You have the [Faction Member](../Browse/Titles/1st Echelon/Faction Member.md) title, and you greatly advance the faction's goals.
+**Prerequisite:** You have the [Faction Member](../Browse/Titles/1st Echelon/Faction Member.md#factionmember) title, and you greatly advance the faction's goals.
 
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 
@@ -2517,13 +2517,13 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; M < WEAK, [prone](../Browse/Conditions/Prone.md) and can't stand (save ends)
-> - **12-16:** 11 damage; M < AVERAGE, [prone](../Browse/Conditions/Prone.md) and can't stand (save ends)
-> - **17+:** 16 damage; M < STRONG, [prone](../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **≤11:** 7 damage; M < WEAK, [prone](../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE, [prone](../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG, [prone](../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../Browse/Movement/Climb or Swim.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../Browse/Movement/Climb or Swim.md) skill. While you're [climbing](../Browse/Movement/Climb or Swim.md) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../Browse/Movement/Climb or Swim.md#climbor-wim) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../Browse/Movement/Climb or Swim.md#climbor-wim) skill. While you're [climbing](../Browse/Movement/Climb or Swim.md#climbor-wim) a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
 #### Godsworn
 
@@ -2533,7 +2533,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healinggrace) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the [Deities and](#page-369-0) [Domains table](#page-369-0) in [Chapter 14: Gods and Religion](#page-367-1). From that god or saint's domains, choose a [Conduit](#page-108-0) 1st-level domain feature (see [Chapter 5: Classes](#page-83-2)).
 
@@ -2541,7 +2541,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *Everybody know their assignments? All right, let's go.*
 
-**Prerequisite:** You have the [Troupe Leading Player](../Browse/Titles/1st Echelon/Troupe Leading Player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
+**Prerequisite:** You have the [Troupe Leading Player](../Browse/Titles/1st Echelon/Troupe Leading Player.md#troupeleadingplayer) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:
 
@@ -2558,7 +2558,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > | ---------------- | ------------------: |
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../Browse/Abilities/Common/Maneuvers/Hide.md) from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a test to lie to, pick the pocket of, [hide](../Browse/Abilities/Common/Maneuvers/Hide.md#hide) from, or sneak by the target and doesn't like the outcome.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
 
@@ -2585,11 +2585,11 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; [taunted](../Browse/Conditions/Taunted.md) (save ends)
-> - **12-16:** 11 damage; [taunted](../Browse/Conditions/Taunted.md) (save ends)
-> - **17+:** 16 damage; [taunted](../Browse/Conditions/Taunted.md) (save ends)
+> - **≤11:** 7 damage; [taunted](../Browse/Conditions/Taunted.md#taunted) (save ends)
+> - **12-16:** 11 damage; [taunted](../Browse/Conditions/Taunted.md#taunted) (save ends)
+> - **17+:** 16 damage; [taunted](../Browse/Conditions/Taunted.md#taunted) (save ends)
 >
-> **Effect:** You can end the [taunted](../Browse/Conditions/Taunted.md) condition on the target as a free maneuver.
+> **Effect:** You can end the [taunted](../Browse/Conditions/Taunted.md#taunted) condition on the target as a free maneuver.
 >
 > **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
 
@@ -2597,7 +2597,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 *You want to know the exact coordinates of the **Gem of the Waves** shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.*
 
-**Prerequisite:** You have the [Ancient Loremaster](../Browse/Titles/1st Echelon/Ancient Loremaster.md) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
+**Prerequisite:** You have the [Ancient Loremaster](../Browse/Titles/1st Echelon/Ancient Loremaster.md#ancientlorema-ter) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 
 **Effect:** Choose one of the following benefits:
 
@@ -2615,7 +2615,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md) college features [Coat the Blade](../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) unless you have the [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md) class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md#hadow) college features [Coat the Blade](../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coattheblade) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#mokebomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight) unless you have the [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#in-ight) class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties
@@ -2631,13 +2631,13 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the [Marshal](../Browse/Titles/1st Echelon/Marshal.md) title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](../Browse/Titles/1st Echelon/Marshal.md#mar-hal) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 
 - *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have line of effect to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage bonus against the target.
 - *Particular Set of Skills:* You know a skill from the intrigue skill group.
-- *We're In This Together:* When you have a creature [grabbed](../Browse/Conditions/Grabbed.md) and take damage from an ability not used by that creature, the [grabbed](../Browse/Conditions/Grabbed.md) creature takes the same damage.
+- *We're In This Together:* When you have a creature [grabbed](../Browse/Conditions/Grabbed.md#grabbed) and take damage from an ability not used by that creature, the [grabbed](../Browse/Conditions/Grabbed.md#grabbed) creature takes the same damage.
 
 #### Undead Slain
 
@@ -2647,9 +2647,9 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+- *Ghoul or Vampire:* When you make a melee [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being force moved into objects.
-- *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and fall [prone](../Browse/Conditions/Prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
+- *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and fall [prone](../Browse/Conditions/Prone.md#prone). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
 #### Unstoppable
 
@@ -2660,8 +2660,8 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
-- *Furious Attack:* Choose one signature ability from the [fury](../Browse/Classes/Fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md), you can't do so unless you have the [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md) class feature.
-- *Furious Charge:* When you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md).
+- *Furious Attack:* Choose one signature ability from the [fury](../Browse/Classes/Fury.md#fury) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity), you can't do so unless you have the [Ferocity](../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) class feature.
+- *Furious Charge:* When you use the [Charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the [charge](../Browse/Abilities/Common/Main Actions/Charge.md#charge).
 
 ### 3rd-Echelon Titles
 
@@ -2679,9 +2679,9 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Hi! Remember me?*
 
-**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](../Browse/Ancestries/Revenant.md).
+**Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](../Browse/Ancestries/Revenant.md#revenant).
 
-**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](../Browse/Ancestries/Revenant.md) ancestry.
+**Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](../Browse/Ancestries/Revenant.md#revenant) ancestry.
 
 #### Demon Slayer
 
@@ -2703,13 +2703,13 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *If you can't beat 'em, join 'em.*
 
-**Prerequisite:** You defeat a leader or solo creature with the [Devil](../Browse/Ancestries/Devil.md) keyword, such as an archdevil, or you make a deal with a [devil](../Browse/Ancestries/Devil.md).
+**Prerequisite:** You defeat a leader or solo creature with the [Devil](../Browse/Ancestries/Devil.md#devil) keyword, such as an archdevil, or you make a deal with a [devil](../Browse/Ancestries/Devil.md#devil).
 
 **Effect:** Choose one of the following benefits:
 
-- *[Devil](../Browse/Ancestries/Devil.md) Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
-- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](../Browse/Ancestries/Devil.md) ancestry traits (see [Chapter 3](#page-35-0)).
-- *Sly [Devil](../Browse/Ancestries/Devil.md):* You gain the Silver Tongue signature trait from the [devil](../Browse/Ancestries/Devil.md) ancestry.
+- *[Devil](../Browse/Ancestries/Devil.md#devil) Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
+- *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](../Browse/Ancestries/Devil.md#devil) ancestry traits (see [Chapter 3](#page-35-0)).
+- *Sly [Devil](../Browse/Ancestries/Devil.md#devil):* You gain the Silver Tongue signature trait from the [devil](../Browse/Ancestries/Devil.md#devil) ancestry.
 - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.
 
 #### Dragon Blooded
@@ -2720,19 +2720,19 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../Browse/Ancestries/Dragon Knight.md) ancestry (see [Chapter 3](#page-35-0)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../Browse/Ancestries/Dragon Knight.md) ancestry traits.
+- *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../Browse/Ancestries/Dragon Knight.md#dragonknight) ancestry (see [Chapter 3](#page-35-0)).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../Browse/Ancestries/Dragon Knight.md#dragonknight) ancestry traits.
 
 #### Fleet Admiral
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the [Corsair](../Browse/Titles/2nd Echelon/Corsair.md) title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](../Browse/Titles/2nd Echelon/Corsair.md#cor-air) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
-- *First Mate:* You have a pirate retainer, such as a **[human](../Browse/Ancestries/Human.md) warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
-- *[Swashbuckler](../Browse/Kits/Swashbuckler.md):* You can automatically [climb](../Browse/Movement/Climb or Swim.md) at full speed while moving
+- *First Mate:* You have a pirate retainer, such as a **[human](../Browse/Ancestries/Human.md#human) warrior**, chosen by the Director from *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. This retainer's level increases to your level.
+- *[Swashbuckler](../Browse/Kits/Swashbuckler.md#wa-hbuckler):* You can automatically [climb](../Browse/Movement/Climb or Swim.md#climbor-wim) at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
     - *Calm:* Wind-powered vessels and technology cease working
@@ -2745,12 +2745,12 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
-**Prerequisite:** You visit the realms of gods, [devils](../Browse/Ancestries/Devil.md), or other immortal beings and hear a note of the Music of Creation.
+**Prerequisite:** You visit the realms of gods, [devils](../Browse/Ancestries/Devil.md#devil), or other immortal beings and hear a note of the Music of Creation.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md) from the [troubadour](../Browse/Classes/Troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md), you can gain or spend the Heroic Resource of your class in place of [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md).
-- *[Devil](../Browse/Ancestries/Devil.md)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#cla-acttriggeredaction) from the [troubadour](../Browse/Classes/Troubadour.md#troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), you can gain or spend the Heroic Resource of your class in place of [drama](../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama).
+- *[Devil](../Browse/Ancestries/Devil.md#devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
 > ###### The Devil's Chord (9 Heroic Resource)
@@ -2764,8 +2764,8 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 > **Power Roll + Presence:**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
-> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 10 sonic damage; M < STRONG, [weakened](../Browse/Conditions/Weakened.md) and [bleeding](../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 10 sonic damage; M < STRONG, [weakened](../Browse/Conditions/Weakened.md#weakened) and [bleeding](../Browse/Conditions/Bleeding.md#bleeding) (save ends)
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
@@ -2806,9 +2806,9 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to [stability](../Browse/Movement/Stability.md) against magic or psionic abilities.
+- *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to [stability](../Browse/Movement/Stability.md#tability) against magic or psionic abilities.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
-- *[Time Raider](../Browse/Ancestries/Time Raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../Browse/Ancestries/Time Raider.md) ancestry traits (see [Chapter 3](#page-35-0)).
+- *[Time Raider](../Browse/Ancestries/Time Raider.md#timeraider) Training:* You gain 2 ancestry points to spend on purchased [time raider](../Browse/Ancestries/Time Raider.md#timeraider) ancestry traits (see [Chapter 3](#page-35-0)).
 
 #### Scarred
 
@@ -2824,17 +2824,17 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Best way to deal with a castle siege? Be on the outside.*
 
-**Prerequisite:** You have the [Battlefield Commander](../Browse/Titles/2nd Echelon/Battlefield Commander.md) title, and you lead the defense of a settlement or fortification.
+**Prerequisite:** You have the [Battlefield Commander](../Browse/Titles/2nd Echelon/Battlefield Commander.md#battlefieldcommander) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:
 
 - *Death From Above:* When you gain an edge on an ability due to high ground, the ability gains a +8 damage bonus.
-- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to [stability](../Browse/Movement/Stability.md).
+- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to [stability](../Browse/Movement/Stability.md#tability).
 - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your temporary Stamina by the amount you would have gained.
 
 #### Teacher
 
-*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](../Browse/Classes/Elementalist.md) training.*
+*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](../Browse/Classes/Elementalist.md#elementali-t) training.*
 
 **Prerequisite:** You train or command at least three lower-level members of your class.
 
@@ -2860,7 +2860,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
-**Prerequisite:** You have the [Godsworn](../Browse/Titles/2nd Echelon/Godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [Godsworn](../Browse/Titles/2nd Echelon/Godsworn.md#god-worn) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 
 **Effect:** You gain the following benefits:
 
@@ -2884,7 +2884,7 @@ Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Mind Over Matter:* Whenever you spend a Recovery, you can end one condition on yourself.
-- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](../Browse/Movement/Teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
+- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](../Browse/Movement/Teleport.md#teleport) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
 #### Forsaken
 
@@ -2895,8 +2895,8 @@ Additionally, choose one of the following benefits:
 **Effect:** A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Brief Reunion:* While you're winded, you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the [Encepter](../Browse/Treasures/Artifacts/Encepter.md), or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
-- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the [Encepter](../Browse/Treasures/Artifacts/Encepter.md), or a Thief of Joy or any other torque for the Mortal Coil.
+- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter), or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
+- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the [Encepter](../Browse/Treasures/Artifacts/Encepter.md#encepter), or a Thief of Joy or any other torque for the Mortal Coil.
 
 #### Monarch
 
@@ -2920,7 +2920,7 @@ Additionally, choose one of the following benefits:
 
 #### Peace Bringer
 
-*There goes Diana, [peace bringer](../Browse/Titles/4th Echelon/Peace Bringer.md). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
+*There goes Diana, [peace bringer](../Browse/Titles/4th Echelon/Peace Bringer.md#peacebringer). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 
@@ -2945,13 +2945,13 @@ Additionally, choose one of the following benefits:
 - *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a bane on ability rolls against you.
 - *Memories of the Beyond:* You have two skills of your choice.
 
-**Special:** If a [hakaan](../Browse/Ancestries/Hakaan.md) gains this title as a result of using their Doomsight trait, they lose that trait.
+**Special:** If a [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) gains this title as a result of using their Doomsight trait, they lose that trait.
 
 #### Theoretical Warrior
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
-**Prerequisite:** You have the [Master Librarian](../Browse/Titles/2nd Echelon/Master Librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
+**Prerequisite:** You have the [Master Librarian](../Browse/Titles/2nd Echelon/Master Librarian.md#ma-terlibrarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 
@@ -2961,31 +2961,31 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
-**Prerequisite:** You have the [Unstoppable](../Browse/Titles/2nd Echelon/Unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.
+**Prerequisite:** You have the [Unstoppable](../Browse/Titles/2nd Echelon/Unstoppable.md#un-toppable) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your recovery value is half your Stamina
-- *Undying:* You can't be affected by the [bleeding](../Browse/Conditions/Bleeding.md) condition.
+- *Undying:* You can't be affected by the [bleeding](../Browse/Conditions/Bleeding.md#bleeding) condition.
 
 #### Unchained
 
 *I'll never get away with it? My dear, I already have.*
 
-**Prerequisite:** You have the [Heist Hero](../Browse/Titles/2nd Echelon/Heist Hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
+**Prerequisite:** You have the [Heist Hero](../Browse/Titles/2nd Echelon/Heist Hero.md#hei-thero) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Bye-Bye:* You can use a maneuver to [teleport](../Browse/Movement/Teleport.md) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Bye-Bye:* You can use a maneuver to [teleport](../Browse/Movement/Teleport.md#teleport) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Laughs at Locks:* Whenever you make a test to open a lock or break a restraint, you don't need any tools and you automatically obtain a tier 3 outcome.
-- *Slippery:* You can't be [grabbed](../Browse/Conditions/Grabbed.md) against your will.
+- *Slippery:* You can't be [grabbed](../Browse/Conditions/Grabbed.md#grabbed) against your will.
 
 ## Renown
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](../Chapters/Background.md)).
+At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](../Chapters/Background.md#background)).
 
 ### Increasing Renown
 
@@ -3050,7 +3050,7 @@ Treasures such as magic swords, psionic crowns, and even healing potions are rar
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](../Chapters/Background.md)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
+Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](../Chapters/Background.md#background)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 

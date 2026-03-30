@@ -18,8 +18,8 @@ type: feature/trait/talent/10th-level-feature
 
 #### Vision
 
-You have an epic resource called [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md). Each time you finish a respite, you gain [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md) equal to the XP you gain. You can spend [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md) on your abilities as if it were clarity.
+You have an epic resource called [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion). Each time you finish a respite, you gain [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion) equal to the XP you gain. You can spend [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion) on your abilities as if it were clarity.
 
-Additionally, you can spend [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
-[Vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md) remains until you spend it.
+[Vision](../../../../Browse/Features/Talent/10th-Level Features/Vision.md#vi-ion) remains until you spend it.

@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md#ba-tionward).)
 
 ##### Bastion Ward
 

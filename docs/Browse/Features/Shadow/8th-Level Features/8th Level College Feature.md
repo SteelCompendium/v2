@@ -18,23 +18,23 @@ type: feature/trait/shadow/8th-level-feature
 
 #### 8th-Level College Feature
 
-Your [shadow](../../../../Browse/Classes/Shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](../../../../Browse/Classes/Shadow.md#hadow) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
 | College         | Feature                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Cinder Step](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Cinder Step.md) |
-| Caustic Alchemy | [Time Bomb](../../../../Browse/Abilities/Shadow/8th-Level Features/Time Bomb.md)                                  |
-| Harlequin Mask  | [Parkour](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Parkour.md)           |
+| Black Ash       | [Cinder Step](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Cinder Step.md#cinder-tep) |
+| Caustic Alchemy | [Time Bomb](../../../../Browse/Abilities/Shadow/8th-Level Features/Time Bomb.md#timebomb)                                  |
+| Harlequin Mask  | [Parkour](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Parkour.md#parkour)           |
 
 ##### Cinder Step
 
-Whenever you willingly move, you can [teleport](../../../../Browse/Movement/Teleport.md). When you [teleport](../../../../Browse/Movement/Teleport.md) this way, it counts as using a [shadow](../../../../Browse/Classes/Shadow.md) ability for the purpose of using your [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md) and [Trail of Cinders](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md) features.
+Whenever you willingly move, you can [teleport](../../../../Browse/Movement/Teleport.md#teleport). When you [teleport](../../../../Browse/Movement/Teleport.md#teleport) this way, it counts as using a [shadow](../../../../Browse/Classes/Shadow.md#hadow) ability for the purpose of using your [Burning Ash](../../../../Browse/Features/Shadow/2nd-Level Features/2nd-Level College Feature/Burning Ash.md#burninga-h) and [Trail of Cinders](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Trail of Cinders.md#trailofcinder) features.
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequingambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
 
 ##### Time Bomb
 

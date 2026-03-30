@@ -34,6 +34,6 @@ type: feature/ability/talent/1st-level-feature
 | ---------------------------------- | ----------------------: |
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target's [stability](../../../../Browse/Movement/Stability.md) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../Browse/Movement/Stability.md) increase lasts until the target no longer has temporary Stamina from this ability.
+**Effect:** The target's [stability](../../../../Browse/Movement/Stability.md#tability) increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This [stability](../../../../Browse/Movement/Stability.md#tability) increase lasts until the target no longer has temporary Stamina from this ability.
 
 **Strained:** You can't use maneuvers (save ends).

@@ -33,7 +33,7 @@ type: feature/ability/fury/6th-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You [jump](../../../../Browse/Movement/Jump.md) up to your maximum [jump](../../../../Browse/Movement/Jump.md) distance and make one power roll that targets each creature adjacent to the space where you land.
+**Effect:** You [jump](../../../../Browse/Movement/Jump.md#jump) up to your maximum [jump](../../../../Browse/Movement/Jump.md#jump) distance and make one power roll that targets each creature adjacent to the space where you land.
 
 **Power Roll + Might:**
 

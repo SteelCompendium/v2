@@ -25,7 +25,7 @@ Choose one of the following abilities.
 >
 > *If you can land the strike, the crowd goes wild.*
 >
-> | **[Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |               **Main action** |
+> | **[Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge), Melee, Strike, Weapon** |               **Main action** |
 > | --------------------------------------------------------------------------------------------------------------- | ----------------------------: |
 > | **📏 Melee 3**                                                                                                  | **🎯 One creature or object** |
 >
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 >
 > - **≤11:** 15 + A damage
 > - **12-16:** 21 + A damage
-> - **17+:** 28 + A damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **17+:** 28 + A damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
 >
 > **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 

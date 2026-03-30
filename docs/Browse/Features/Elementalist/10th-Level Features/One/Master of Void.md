@@ -18,6 +18,6 @@ type: feature/subtrait/elementalist/10th-level-feature
 
 ##### Master of Void
 
-Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport.md).
+Whenever you willingly move, you can [teleport](../../../../../Browse/Movement/Teleport.md#teleport).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.

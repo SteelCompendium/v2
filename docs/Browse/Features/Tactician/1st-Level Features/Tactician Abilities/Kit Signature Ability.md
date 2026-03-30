@@ -18,4 +18,4 @@ type: feature/subtrait/tactician/1st-level-feature
 
 ##### Kit Signature Ability
 
-Each kit from your [Field Arsenal](../../../../../Browse/Features/Tactician/1st-Level Features/Field Arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](../../../../../Browse/Features/Tactician/1st-Level Features/Field Arsenal.md#fieldar-enal) feature grants you a signature ability. Signature abilities can be used at will.

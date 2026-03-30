@@ -9,15 +9,15 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [1st Level Tradition Features](1st Level Tradition Features.md)
-- [Clarity and Strain](Clarity and Strain.md)
-- [Mind Spike](Mind Spike.md)
-- [Psionic Augmentation](Psionic Augmentation.md)
-- [Repel](Repel.md)
-- [Talent Abilities](Talent Abilities.md)
-- [Talent Tradition](Talent Tradition.md)
-- [Talent Ward](Talent Ward.md)
-- [Telepathic Speech](Telepathic Speech.md)
+- [1st Level Tradition Features](1st Level Tradition Features.md#1-tleveltraditionfeature)
+- [Clarity and Strain](Clarity and Strain.md#clarityand-train)
+- [Mind Spike](Mind Spike.md#mind-pike)
+- [Psionic Augmentation](Psionic Augmentation.md#p-ionicaugmentation)
+- [Repel](Repel.md#repel)
+- [Talent Abilities](Talent Abilities.md#talentabilitie)
+- [Talent Tradition](Talent Tradition.md#talenttradition)
+- [Talent Ward](Talent Ward.md#talentward)
+- [Telepathic Speech](Telepathic Speech.md#telepathic-peech)
 
 </div>
 
@@ -25,11 +25,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Accelerate](1st-Level Tradition Features/Accelerate.md)
-    - [Again](1st-Level Tradition Features/Again.md)
-    - [Feedback Loop](1st-Level Tradition Features/Feedback Loop.md)
-    - [Minor Telekinesis](1st-Level Tradition Features/Minor Telekinesis.md)
-    - [Remote Assistance](1st-Level Tradition Features/Remote Assistance.md)
+    - [Accelerate](1st-Level Tradition Features/Accelerate.md#accelerate)
+    - [Again](1st-Level Tradition Features/Again.md#again)
+    - [Feedback Loop](1st-Level Tradition Features/Feedback Loop.md#feedbackloop)
+    - [Minor Telekinesis](1st-Level Tradition Features/Minor Telekinesis.md#minortelekine-i)
+    - [Remote Assistance](1st-Level Tradition Features/Remote Assistance.md#remotea-i-tance)
 
 </div>
 
@@ -37,8 +37,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Clarity in Combat](Clarity And Strain/Clarity in Combat.md)
-    - [Clarity Outside of Combat](Clarity And Strain/Clarity Outside of Combat.md)
+    - [Clarity in Combat](Clarity And Strain/Clarity in Combat.md#clarityincombat)
+    - [Clarity Outside of Combat](Clarity And Strain/Clarity Outside of Combat.md#clarityout-ideofcombat)
 
 </div>
 
@@ -46,11 +46,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Battle Augmentation](Psionic Augmentation/Battle Augmentation.md)
-    - [Density Augmentation](Psionic Augmentation/Density Augmentation.md)
-    - [Distance Augmentation](Psionic Augmentation/Distance Augmentation.md)
-    - [Force Augmentation](Psionic Augmentation/Force Augmentation.md)
-    - [Speed Augmentation](Psionic Augmentation/Speed Augmentation.md)
+    - [Battle Augmentation](Psionic Augmentation/Battle Augmentation.md#battleaugmentation)
+    - [Density Augmentation](Psionic Augmentation/Density Augmentation.md#den-ityaugmentation)
+    - [Distance Augmentation](Psionic Augmentation/Distance Augmentation.md#di-tanceaugmentation)
+    - [Force Augmentation](Psionic Augmentation/Force Augmentation.md#forceaugmentation)
+    - [Speed Augmentation](Psionic Augmentation/Speed Augmentation.md#peedaugmentation)
 
 </div>
 
@@ -58,8 +58,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Heroic Abilities](Talent Abilities/Heroic Abilities.md)
-    - [Signature Abilities](Talent Abilities/Signature Abilities.md)
+    - [Heroic Abilities](Talent Abilities/Heroic Abilities.md#heroicabilitie)
+    - [Signature Abilities](Talent Abilities/Signature Abilities.md#ignatureabilitie)
 
 </div>
 
@@ -67,9 +67,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Entropy Ward](Talent Ward/Entropy Ward.md)
-    - [Repulsive Ward](Talent Ward/Repulsive Ward.md)
-    - [Steel Ward](Talent Ward/Steel Ward.md)
-    - [Vanishing Ward](Talent Ward/Vanishing Ward.md)
+    - [Entropy Ward](Talent Ward/Entropy Ward.md#entropyward)
+    - [Repulsive Ward](Talent Ward/Repulsive Ward.md#repul-iveward)
+    - [Steel Ward](Talent Ward/Steel Ward.md#teelward)
+    - [Vanishing Ward](Talent Ward/Vanishing Ward.md#vani-hingward)
 
 </div>

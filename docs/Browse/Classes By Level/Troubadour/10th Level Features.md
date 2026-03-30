@@ -14,15 +14,15 @@ type: class/troubadour/level
 
 ### 10th-Level Features
 
-As a 10th-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
+As a 10th-level [troubadour](../../../Browse/Classes/Troubadour.md#troubadour), you gain the following features.
 
 #### Applause
 
-You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
+You have an epic resource called applause. Each time you finish a respite, you gain applause equal to the XP you gain. You can spend applause on your abilities as if it were [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama).
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 applause to improve the outcome by 1 tier.
 
-[Applause](../../../Browse/Features/Troubadour/10th-Level Features/Applause.md) remains until you spend it.
+[Applause](../../../Browse/Features/Troubadour/10th-Level Features/Applause.md#applau-e) remains until you spend it.
 
 #### Characteristic Increase
 
@@ -30,7 +30,7 @@ Your Agility and Presence scores each increase to 5.
 
 #### Dramaturgy
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../../Browse/Features/Troubadour/2nd-Level Features/Appeal to the Muses.md#appealtothemu-e) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 #### Greatest of All Time
 

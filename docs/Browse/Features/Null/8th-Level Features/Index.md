@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [8th Level Tradition Feature](8th Level Tradition Feature.md)
-    - [Inertial Dampener](8th-Level Tradition Feature/Inertial Dampener.md)
-    - [Shared Momentum](8th-Level Tradition Feature/Shared Momentum.md)
-    - [Synaptic Triage](8th-Level Tradition Feature/Synaptic Triage.md)
-- [Perk](Perk.md)
+- [8th Level Tradition Feature](8th Level Tradition Feature.md#8thleveltraditionfeature)
+    - [Inertial Dampener](8th-Level Tradition Feature/Inertial Dampener.md#inertialdampener)
+    - [Shared Momentum](8th-Level Tradition Feature/Shared Momentum.md#haredmomentum)
+    - [Synaptic Triage](8th-Level Tradition Feature/Synaptic Triage.md#ynaptictriage)
+- [Perk](Perk.md#perk)
 
 </div>

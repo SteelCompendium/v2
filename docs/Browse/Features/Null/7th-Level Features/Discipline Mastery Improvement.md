@@ -18,4 +18,4 @@ type: feature/trait/null/7th-level-feature
 
 #### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md) feature provides additional benefits when you have 10 or more [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+Your [Discipline Mastery](../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#di-ciplinema-tery) feature provides additional benefits when you have 10 or more [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).

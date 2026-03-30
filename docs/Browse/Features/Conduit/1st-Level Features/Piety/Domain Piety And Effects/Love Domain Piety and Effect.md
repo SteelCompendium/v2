@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver or an ability that targets an ally.
-- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) maneuver or an ability that targets an ally.
+- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.

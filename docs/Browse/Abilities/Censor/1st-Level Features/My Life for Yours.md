@@ -34,4 +34,4 @@ type: feature/ability/censor/1st-level-feature
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../Browse/Conditions/Prone.md) target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../Browse/Conditions/Prone.md#prone) target can stand up.

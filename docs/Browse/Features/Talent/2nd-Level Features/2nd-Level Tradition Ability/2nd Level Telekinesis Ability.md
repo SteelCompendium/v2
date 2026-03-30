@@ -31,11 +31,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 3 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 2
-> - **12-16:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 4
-> - **17+:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical.md) push 6
+> - **≤11:** 3 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 2
+> - **12-16:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 4
+> - **17+:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) push 6
 >
-> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../../Browse/Conditions/Weakened.md) until the end of your turn.
+> **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) until the end of your turn.
 
 <!-- -->
 > ###### Levity and Gravity (5 Clarity)
@@ -48,8 +48,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone.md)
-> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md)
-> - **17+:** 14 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **≤11:** 6 + R damage; M < WEAK, [prone](../../../../../Browse/Conditions/Prone.md#prone)
+> - **12-16:** 10 + R damage; M < AVERAGE, [prone](../../../../../Browse/Conditions/Prone.md#prone)
+> - **17+:** 14 + R damage; M < STRONG, [prone](../../../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
 >
 > **Strained:** You take half the damage the target takes.

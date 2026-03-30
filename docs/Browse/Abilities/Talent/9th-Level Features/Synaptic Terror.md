@@ -39,8 +39,8 @@ type: feature/ability/talent/9th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-- **12-16:** R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-- **17+:** R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+- **≤11:** R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+- **12-16:** R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+- **17+:** R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 
 **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

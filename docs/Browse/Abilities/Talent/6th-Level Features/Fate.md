@@ -35,9 +35,9 @@ type: feature/ability/talent/6th-level-feature
 | ------------------------------- | ---------------: |
 | **📏 Melee 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../../../Browse/Conditions/Prone.md).
+**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked [prone](../../../../Browse/Conditions/Prone.md#prone).
 
-**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../../Browse/Conditions/Weakened.md) (save ends).
+**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends).
 
 **Power Roll + Presence:**
 

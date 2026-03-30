@@ -17,12 +17,12 @@ type: title/3rd-echelon
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
-**Prerequisite:** You visit the realms of gods, [devils](../../../Browse/Ancestries/Devil.md), or other immortal beings and hear a note of the Music of Creation.
+**Prerequisite:** You visit the realms of gods, [devils](../../../Browse/Ancestries/Devil.md#devil), or other immortal beings and hear a note of the Music of Creation.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md) from the [troubadour](../../../Browse/Classes/Troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md), you can gain or spend the Heroic Resource of your class in place of [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md).
-- *[Devil](../../../Browse/Ancestries/Devil.md)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one [class act triggered action](../../../Browse/Features/Troubadour/1st-Level Features/Class Act Triggered Action.md#cla-acttriggeredaction) from the [troubadour](../../../Browse/Classes/Troubadour.md#troubadour) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama), you can gain or spend the Heroic Resource of your class in place of [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama).
+- *[Devil](../../../Browse/Ancestries/Devil.md#devil)'s Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
 <!-- -->
 > ###### The Devil's Chord (9 Heroic Resource)
@@ -36,8 +36,8 @@ type: title/3rd-echelon
 > **Power Roll + Presence:**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
-> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 10 sonic damage; M < STRONG, [weakened](../../../Browse/Conditions/Weakened.md) and [bleeding](../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 10 sonic damage; M < STRONG, [weakened](../../../Browse/Conditions/Weakened.md#weakened) and [bleeding](../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 

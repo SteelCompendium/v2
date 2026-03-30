@@ -31,6 +31,6 @@ You have the following ability.
 >
 > **Trigger:** The target takes damage.
 >
-> **Effect:** The target is [teleported](../../../../Browse/Movement/Teleport.md) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+> **Effect:** The target is [teleported](../../../../Browse/Movement/Teleport.md#teleport) to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 >
 > **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.

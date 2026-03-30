@@ -15,7 +15,7 @@ type: title/3rd-echelon
 
 #### Teacher
 
-*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](../../../Browse/Classes/Elementalist.md) training.*
+*Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](../../../Browse/Classes/Elementalist.md#elementali-t) training.*
 
 **Prerequisite:** You train or command at least three lower-level members of your class.
 

@@ -14,15 +14,15 @@ type: class/troubadour/level
 
 ### 2nd-Level Features
 
-As a 2nd-level [troubadour](../../../Browse/Classes/Troubadour.md), you gain the following features.
+As a 2nd-level [troubadour](../../../Browse/Classes/Troubadour.md#troubadour), you gain the following features.
 
 #### Appeal to the Muses
 
-You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md). However, irony is eager to hand your fortune to the villain to achieve the same end.
+You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama). However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md). The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- If the roll is a 1, you gain 1 additional [drama](../../../Browse/Features/Troubadour/1st-Level Features/Drama.md#drama). The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
 - If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
 
@@ -42,9 +42,9 @@ The Director determines when the target receives your notice. When the target re
 
 ##### My Reputation Precedes Me
 
-You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
+You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../../../Browse/Features/Troubadour/1st-Level Features/Scene Partner.md#cenepartner) feature to find allies within the group.
 
 #### Perk
 
@@ -52,7 +52,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 #### 2nd-Level Class Act Ability
 
-Your [troubadour](../../../Browse/Classes/Troubadour.md) class act grants your choice of one of two heroic abilities.
+Your [troubadour](../../../Browse/Classes/Troubadour.md#troubadour) class act grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 > | ----------------- | --------------: |
 > | **📏 Ranged 10**  |  **🎯 Special** |
 >
-> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+> **Effect:** A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 <!-- -->
 > ###### Twist at the End (5 Drama)
@@ -93,7 +93,7 @@ Choose one of the following abilities.
 > | ------------------------- | -------------------------------: |
 > | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 >
-> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) that deals extra damage equal to twice their highest characteristic score.
+> **Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) that deals extra damage equal to twice their highest characteristic score.
 
 <!-- -->
 > ###### En Garde! (5 Drama)
@@ -110,7 +110,7 @@ Choose one of the following abilities.
 > - **12-16:** 11 + **A** damage
 > - **17+:** 16 + **A** damage
 >
-> **Effect:** The target can make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against you. If they do, you can make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against the target.
+> **Effect:** The target can make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against you. If they do, you can make a melee [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 

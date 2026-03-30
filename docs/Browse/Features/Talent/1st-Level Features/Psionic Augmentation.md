@@ -18,17 +18,17 @@ type: feature/trait/talent/1st-level-feature
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md#forceaugmentation).)
 
 ##### Battle Augmentation
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 ##### Density Augmentation
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../Browse/Movement/Stability.md).
+You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../../Browse/Movement/Stability.md#tability).
 
 ##### Distance Augmentation
 
@@ -40,4 +40,4 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 ##### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.

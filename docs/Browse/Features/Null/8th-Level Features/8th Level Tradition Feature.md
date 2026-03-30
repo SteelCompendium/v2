@@ -24,17 +24,17 @@ Your null tradition grants you a feature, as shown on the 8th-Level Tradition Fe
 
 | Tradition     | Feature                                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronokinetic | [Shared Momentum](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Shared Momentum.md)     |
-| Cryokinetic   | [Synaptic Triage](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Synaptic Triage.md)     |
-| Metakinetic   | [Inertial Dampener](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Inertial Dampener.md) |
+| Chronokinetic | [Shared Momentum](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Shared Momentum.md#haredmomentum)     |
+| Cryokinetic   | [Synaptic Triage](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Synaptic Triage.md#ynaptictriage)     |
+| Metakinetic   | [Inertial Dampener](../../../../Browse/Features/Null/8th-Level Features/8th-Level Tradition Feature/Inertial Dampener.md#inertialdampener) |
 
 ##### Inertial Dampener
 
-You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability.md) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your Null Field ability gain a bonus to [stability](../../../../Browse/Movement/Stability.md#tability) equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ##### Shared Momentum
 
-When you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action, one ally in the area of your Null Field ability can also take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free triggered action, using your distance for that move action.
 
 ##### Synaptic Triage
 

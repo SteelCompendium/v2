@@ -86,11 +86,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
-> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md) (save ends)
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) (save ends)
 >
-> **Effect:** While [bleeding](../../../../../Browse/Conditions/Bleeding.md) this way, the target takes damage equal to your Might score at the end of each of your turns.
+> **Effect:** While [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ###### 5-Ferocity Ability
 
@@ -107,9 +107,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md) and [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md) and [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md) and [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) and [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) and [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../../../../../Browse/Conditions/Bleeding.md#bleeding) and [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 >
 > **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 

@@ -18,11 +18,11 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Elementalist Abilities
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../../Browse/Abilities/Elementalist/1st-Level Features/Bifurcated Incineration.md#bifurcatedincineration), [Viscous Fire](../../../../Browse/Abilities/Elementalist/1st-Level Features/Viscous Fire.md#vi-cou-fire).)
 
 <!-- -->
 > ###### Afflict a Bountiful Decay
@@ -71,7 +71,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + R corruption damage
 > - **17+:** 9 + R corruption damage
 >
-> **Effect:** You can [teleport](../../../../Browse/Movement/Teleport.md) up to a number of squares equal to your Reason score.
+> **Effect:** You can [teleport](../../../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score.
 
 <!-- -->
 > ###### The Green Within, the Green Without
@@ -116,9 +116,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
 
 <!-- -->
 > ###### Unquiet Ground
@@ -154,7 +154,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ##### Heroic Abilities
 
-You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md).
+You channel a variety of heroic abilities, all of them fueled by your [essence](../../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#e-ence).
 
 ###### 3-Essence Ability
 
@@ -224,7 +224,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 >
 > - **≤11:** 3 damage
 > - **12-16:** 5 damage
-> - **17+:** 8 damage; M < STRONG, [prone](../../../../Browse/Conditions/Prone.md)
+> - **17+:** 8 damage; M < STRONG, [prone](../../../../Browse/Conditions/Prone.md#prone)
 >
 > **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 

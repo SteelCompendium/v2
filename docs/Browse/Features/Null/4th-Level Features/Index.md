@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](Characteristic Increase.md)
-- [Discipline Mastery Improvement](Discipline Mastery Improvement.md)
-- [Enhanced Null Field](Enhanced Null Field.md)
-- [Perk](Perk.md)
-- [Regenerative Field](Regenerative Field.md)
-- [Skill](Skill.md)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Discipline Mastery Improvement](Discipline Mastery Improvement.md#di-ciplinema-teryimprovement)
+- [Enhanced Null Field](Enhanced Null Field.md#enhancednullfield)
+- [Perk](Perk.md#perk)
+- [Regenerative Field](Regenerative Field.md#regenerativefield)
+- [Skill](Skill.md#kill)
 
 </div>

@@ -37,6 +37,6 @@ type: feature/ability/conduit/2nd-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 2 damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-- **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-- **17+:** 7 damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+- **≤11:** 2 damage; A < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+- **17+:** 7 damage; A < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)

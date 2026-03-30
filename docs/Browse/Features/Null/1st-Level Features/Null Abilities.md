@@ -22,7 +22,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md), [Inertial Step](../../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../../Browse/Abilities/Null/1st-Level Features/Faster Than the Eye.md#fa-terthantheeye), [Inertial Step](../../../../Browse/Abilities/Null/1st-Level Features/Inertial Step.md#inertial-tep).)
 
 <!-- -->
 > ###### Dance of Blows
@@ -86,9 +86,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -101,9 +101,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT)
-> - **12-16:** 5 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md#taunted) (EoT)
+> - **12-16:** 5 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md#taunted) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](../../../../Browse/Conditions/Taunted.md#taunted) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -116,9 +116,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 5 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 1
-> - **12-16:** 8 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 2
-> - **17+:** 11 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md) pull 3
+> - **≤11:** 5 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull 1
+> - **12-16:** 8 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull 2
+> - **17+:** 11 + A psychic damage; [vertical](../../../../Browse/Movement/Vertical.md#vertical) pull 3
 
 <!-- -->
 > ###### Phase Inversion Strike
@@ -135,7 +135,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](../../../../Browse/Movement/Teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../Browse/Movement/Teleport.md) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](../../../../Browse/Movement/Teleport.md#teleport) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -148,13 +148,13 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 
 ##### Heroic Abilities
 
-You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md).
+You have mastered a range of heroic abilities, all of them channeled through your [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md#di-cipline).
 
 ###### 3-Discipline Ability
 
@@ -175,7 +175,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 10 + A damage
 > - **17+:** 13 + A damage
 >
-> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+> **Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 <!-- -->
 > ###### Psychic Pulse (3 Discipline)
@@ -216,9 +216,9 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) and [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) and [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) and [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 4 + A damage; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 7 + A damage; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) and [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
 
 ###### 5-Discipline Ability
 
@@ -235,11 +235,11 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
-> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md) (save ends)
+> - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
+> - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends)
 >
-> **Effect:** While [weakened](../../../../Browse/Conditions/Weakened.md) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+> **Effect:** While [weakened](../../../../Browse/Conditions/Weakened.md#weakened) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 <!-- -->
 > ###### Impart Force (5 Discipline)
@@ -273,7 +273,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 > - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 >
-> **Effect:** A target who goes out of phase is [slowed](../../../../Browse/Conditions/Slowed.md), has their [stability](../../../../Browse/Movement/Stability.md) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+> **Effect:** A target who goes out of phase is [slowed](../../../../Browse/Conditions/Slowed.md#lowed), has their [stability](../../../../Browse/Movement/Stability.md#tability) reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 <!-- -->
 > ###### A Squad Unto Myself (5 Discipline)
@@ -290,4 +290,4 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 > - **12-16:** 9 damage
 > - **17+:** 13 damage
 >
-> **Effect:** You can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action as a free maneuver before or after you use this ability.
+> **Effect:** You can take the [Disengage](../../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action as a free maneuver before or after you use this ability.

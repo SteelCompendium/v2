@@ -38,8 +38,8 @@ type: feature/ability/fury/6th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 8 damage; M < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-- **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md)
-- **17+:** 17 damage; M < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md)
+- **≤11:** 8 damage; M < WEAK, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+- **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
+- **17+:** 17 damage; M < STRONG, [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed)
 
-**Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](../../../../Browse/Conditions/Grabbed.md) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+**Effect:** You can shift up to 4 squares, bringing the target with you. While [grabbed](../../../../Browse/Conditions/Grabbed.md#grabbed) this way, the target takes damage equal to twice your Might score at the start of each of your turns.

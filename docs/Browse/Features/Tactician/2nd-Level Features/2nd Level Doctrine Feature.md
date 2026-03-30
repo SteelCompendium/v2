@@ -18,15 +18,15 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../../../../Browse/Features/Tactician/1st-Level Features/Tactical Doctrine.md#tacticaldoctrine) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
 | Doctrine   | Feature                                                                                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Insurgent  | [Infiltration Tactics](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Infiltration Tactics.md) |
-| Mastermind | [Goaded](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Goaded.md)                               |
-| Vanguard   | [Melee Superiority](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Melee Superiority.md)       |
+| Insurgent  | [Infiltration Tactics](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Infiltration Tactics.md#infiltrationtactic) |
+| Mastermind | [Goaded](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Goaded.md#goaded)                               |
+| Vanguard   | [Melee Superiority](../../../../Browse/Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature/Melee Superiority.md#melee-uperiority)       |
 
 ##### Goaded
 
@@ -40,4 +40,4 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md), you can use a free triggered action and spend 2 focus to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike), you can use a free triggered action and spend 2 focus to make a melee [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against that creature.

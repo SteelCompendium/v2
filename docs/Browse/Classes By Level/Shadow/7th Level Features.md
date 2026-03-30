@@ -14,7 +14,7 @@ type: class/shadow/level
 
 ### 7th-Level Features
 
-As a 7th-level [shadow](../../../Browse/Classes/Shadow.md), you gain the following features.
+As a 7th-level [shadow](../../../Browse/Classes/Shadow.md#hadow), you gain the following features.
 
 #### Characteristic Increase
 
@@ -30,7 +30,7 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md#carefulob-ervation) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
 #### Ventriloquist
 

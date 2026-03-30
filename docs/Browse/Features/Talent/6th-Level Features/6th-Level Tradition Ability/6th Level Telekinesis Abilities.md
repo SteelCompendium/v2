@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 5 toward the center of the area
-> - **12-16:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 7 toward the center of the area
-> - **17+:** 13 damage; [vertical](../../../../../Browse/Movement/Vertical.md) pull 10 toward the center of the area
+> - **≤11:** 6 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) pull 5 toward the center of the area
+> - **12-16:** 9 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) pull 7 toward the center of the area
+> - **17+:** 13 damage; [vertical](../../../../../Browse/Movement/Vertical.md#vertical) pull 10 toward the center of the area
 >
 > **Effect:** Targets closest to the center of the area are pulled first.
 >
@@ -50,8 +50,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
-> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
-> - **17+:** Slide 12 + R; [prone](../../../../../Browse/Conditions/Prone.md); M < STRONG, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md)
+> - **≤11:** Slide 4 + R; M < WEAK, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md#vertical)
+> - **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md#vertical)
+> - **17+:** Slide 12 + R; [prone](../../../../../Browse/Conditions/Prone.md#prone); M < STRONG, the forced movement is [vertical](../../../../../Browse/Movement/Vertical.md#vertical)
 >
-> **Strained:** The forced movement ignores [stability](../../../../../Browse/Movement/Stability.md). You take 2d6 damage and are [weakened](../../../../../Browse/Conditions/Weakened.md) (save ends).
+> **Strained:** The forced movement ignores [stability](../../../../../Browse/Movement/Stability.md#tability). You take 2d6 damage and are [weakened](../../../../../Browse/Conditions/Weakened.md#weakened) (save ends).

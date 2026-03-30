@@ -18,19 +18,19 @@ type: feature/trait/talent/5th-level-feature
 
 #### 5th-Level Tradition Features
 
-Your [talent](../../../../Browse/Classes/Talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
 | Tradition   | Features                                                                                                                                                                                                                                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Distortion Temporal](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md), [Speed of Thought](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md) |
-| Telekinesis | [Kinetic Amplifier](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md), [Triangulate](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md)                   |
-| Telepathy   | [Compulsion](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md), [Remote Amplification](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md)               |
+| Chronopathy | [Distortion Temporal](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Distortion Temporal.md#di-tortiontemporal), [Speed of Thought](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Speed of Thought.md#peedofthought) |
+| Telekinesis | [Kinetic Amplifier](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Kinetic Amplifier.md#kineticamplifier), [Triangulate](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Triangulate.md#triangulate)                   |
+| Telepathy   | [Compulsion](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Compulsion.md#compul-ion), [Remote Amplification](../../../../Browse/Features/Talent/5th-Level Features/5th-Level Tradition Features/Remote Amplification.md#remoteamplification)               |
 
 ##### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal
 
@@ -42,7 +42,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ##### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-peech) feature increases to 1 mile.
 
 ##### Speed of Thought
 

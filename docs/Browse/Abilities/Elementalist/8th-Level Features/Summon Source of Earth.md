@@ -44,8 +44,8 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 |       Elemental       |                                        -                                        |       Level 8       |                                     BRUTE                                      |                                                    EV -                                                     |
 | :-------------------: | :-----------------------------------------------------------------------------: | :-----------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../../Browse/Movement/Stability.md) | **5**<br/> [Free Strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) |
-| **-**<br/> Immunities | **[Burrow](../../../../Browse/Movement/Burrow.md)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
+|    **2**<br/> Size    |                                **6**<br/> Speed                                 | **45**<br/> Stamina | **5**<br/> [Stability](../../../../Browse/Movement/Stability.md#tability) | **5**<br/> [Free Strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) |
+| **-**<br/> Immunities | **[Burrow](../../../../Browse/Movement/Burrow.md#burrow)**<br/> Movement |                     |                            **-**<br/> With Captain                             |                                            **-**<br/> Weaknesses                                            |
 |   **+3**<br/> Might   |                               **+1**<br/> Agility                               | **-5**<br/> Reason  |                             **-5**<br/> Intuition                              |                                            **-3**<br/> Presence                                             |
 
 <!-- -->
@@ -56,12 +56,12 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 <!-- -->
 > **Tunneler**
 >
-> When the source [burrows](../../../../Browse/Movement/Burrow.md), they create a size 2 tunnel.
+> When the source [burrows](../../../../Browse/Movement/Burrow.md#burrow), they create a size 2 tunnel.
 
 <!-- -->
 > **Earth Harness**
 >
-> A creature that has the [Earth Accepts Me](../../../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md) ability can use it as a free action to meld into the source.
+> A creature that has the [Earth Accepts Me](../../../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earthaccept-me) ability can use it as a free action to meld into the source.
 
 <!-- -->
 > **Boulder Bash**

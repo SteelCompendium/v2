@@ -18,15 +18,15 @@ type: feature/trait/fury/1st-level-feature
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../../Browse/Features/Fury/1st-Level Features/Aspect Triggered Action.md) table.
+Your [primordial aspect](../../../../Browse/Features/Fury/1st-Level Features/Primordial Aspect.md#primordiala-pect) grants you a triggered action, as shown on the [Aspect Triggered Actions](../../../../Browse/Features/Fury/1st-Level Features/Aspect Triggered Action.md#a-pecttriggeredaction) table.
 
 ###### Aspect Triggered Actions Table
 
 | Aspect     | Triggered Action                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| Berserker  | [Lines of Force](../../../../Browse/Abilities/Fury/1st-Level Features/Lines of Force.md)       |
-| Reaver     | [Unearthly Reflexes](../../../../Browse/Abilities/Fury/1st-Level Features/Unearthly Reflexes.md) |
-| Stormwight | [Furious Change](../../../../Browse/Abilities/Fury/1st-Level Features/Furious Change.md)         |
+| Berserker  | [Lines of Force](../../../../Browse/Abilities/Fury/1st-Level Features/Lines of Force.md#line-offorce)       |
+| Reaver     | [Unearthly Reflexes](../../../../Browse/Abilities/Fury/1st-Level Features/Unearthly Reflexes.md#unearthlyreflexe) |
+| Stormwight | [Furious Change](../../../../Browse/Abilities/Fury/1st-Level Features/Furious Change.md#furiou-change)         |
 
 <!-- -->
 > ###### Furious Change

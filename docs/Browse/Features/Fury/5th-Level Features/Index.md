@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Aspect Feature](5th Level Aspect Feature.md)
-    - [Bounder](5th-Level Aspect Feature/Bounder.md)
-    - [Stormborn](5th-Level Aspect Feature/Stormborn.md)
-    - [Unfettered](5th-Level Aspect Feature/Unfettered.md)
+- [5th Level Aspect Feature](5th Level Aspect Feature.md#5thlevela-pectfeature)
+    - [Bounder](5th-Level Aspect Feature/Bounder.md#bounder)
+    - [Stormborn](5th-Level Aspect Feature/Stormborn.md#tormborn)
+    - [Unfettered](5th-Level Aspect Feature/Unfettered.md#unfettered)
 
 </div>

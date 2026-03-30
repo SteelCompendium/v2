@@ -7,10 +7,10 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Ancestral Memory](Ancestral Memory.md)
-- [Cascading Strain](Cascading Strain.md)
-- [Characteristic Increase](Characteristic Increase.md)
-- [Lucid Mind](Lucid Mind.md)
-- [Skill](Skill.md)
+- [Ancestral Memory](Ancestral Memory.md#ance-tralmemory)
+- [Cascading Strain](Cascading Strain.md#ca-cading-train)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Lucid Mind](Lucid Mind.md#lucidmind)
+- [Skill](Skill.md#kill)
 
 </div>

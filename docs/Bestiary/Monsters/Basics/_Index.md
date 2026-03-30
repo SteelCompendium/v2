@@ -7,20 +7,20 @@ type: index
 
 | File Name                          |
 | ---------------------------------- |
-| [Abyssal](Keywords/Abyssal.md)     |
-| [Accursed](Keywords/Accursed.md)   |
-| [Animal](Keywords/Animal.md)       |
-| [Beast](Keywords/Beast.md)         |
-| [Construct](Keywords/Construct.md) |
-| [Dragon](Keywords/Dragon.md)       |
-| [Elemental](Keywords/Elemental.md) |
-| [Fey](Keywords/Fey.md)             |
-| [Giant](Keywords/Giant.md)         |
-| [Horror](Keywords/Horror.md)       |
-| [Humanoid](Keywords/Humanoid.md)   |
-| [Infernal](Keywords/Infernal.md)   |
-| [Ooze](Keywords/Ooze.md)           |
-| [Plant](Keywords/Plant.md)         |
-| [Soulless](Keywords/Soulless.md)   |
-| [Swarm](Keywords/Swarm.md)         |
-| [Undead](Keywords/Undead.md)       |
+| [Abyssal](Keywords/Abyssal.md#aby-al)     |
+| [Accursed](Keywords/Accursed.md#accur-ed)   |
+| [Animal](Keywords/Animal.md#animal)       |
+| [Beast](Keywords/Beast.md#bea-t)         |
+| [Construct](Keywords/Construct.md#con-truct) |
+| [Dragon](Keywords/Dragon.md#dragon)       |
+| [Elemental](Keywords/Elemental.md#elemental) |
+| [Fey](Keywords/Fey.md#fey)             |
+| [Giant](Keywords/Giant.md#giant)         |
+| [Horror](Keywords/Horror.md#horror)       |
+| [Humanoid](Keywords/Humanoid.md#humanoid)   |
+| [Infernal](Keywords/Infernal.md#infernal)   |
+| [Ooze](Keywords/Ooze.md#ooze)           |
+| [Plant](Keywords/Plant.md#plant)         |
+| [Soulless](Keywords/Soulless.md#oulle)   |
+| [Swarm](Keywords/Swarm.md#warm)         |
+| [Undead](Keywords/Undead.md#undead)       |

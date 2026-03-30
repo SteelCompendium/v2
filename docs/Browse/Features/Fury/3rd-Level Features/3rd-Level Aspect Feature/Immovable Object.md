@@ -18,6 +18,6 @@ type: feature/subtrait/fury/3rd-level-feature
 
 ##### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../../Browse/Conditions/Grabbed.md).
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be [grabbed](../../../../../Browse/Conditions/Grabbed.md#grabbed).
 
-Additionally, you have a bonus to [stability](../../../../../Browse/Movement/Stability.md) equal to your Might score.
+Additionally, you have a bonus to [stability](../../../../../Browse/Movement/Stability.md#tability) equal to your Might score.

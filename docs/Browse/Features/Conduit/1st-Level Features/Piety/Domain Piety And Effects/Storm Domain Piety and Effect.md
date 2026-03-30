@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Storm Domain Piety and Effect
 
-- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.

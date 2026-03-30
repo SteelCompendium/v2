@@ -44,4 +44,4 @@ type: feature/ability/tactician/9th-level-feature
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md) against any target marked by you.
+**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike) against any target marked by you.

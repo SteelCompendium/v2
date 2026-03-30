@@ -32,7 +32,7 @@ type: feature/ability/tactician/9th-level-feature
 
 *Nothing will stop you from reaching your foe.*
 
-| **[Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md), Melee, Strike, Weapon** |     **Main action** |
+| **[Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge), Melee, Strike, Weapon** |     **Main action** |
 | --------------------------------------------------------------------------------------------------------------- | ------------------: |
 | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 
@@ -44,4 +44,4 @@ type: feature/ability/tactician/9th-level-feature
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the [Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md).
+**Effect:** If you use this ability as part of the [Charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge).

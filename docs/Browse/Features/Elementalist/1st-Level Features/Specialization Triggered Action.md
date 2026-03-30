@@ -18,16 +18,16 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Specialization Triggered Action
 
-Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md) table.
+Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Level Features/Elemental Specialization.md#elemental-pecialization) grants you a triggered action, as shown on the [Specialization Triggered Actions](../../../../Browse/Features/Elementalist/1st-Level Features/Specialization Triggered Action.md#pecializationtriggeredaction) table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization | Triggered Action                                                                                                                             |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md)       |
-| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md)               |
-| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md) |
-| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md)                     |
+| Earth          | [Skin Like Castle Walls](../../../../Browse/Abilities/Elementalist/1st-Level Features/Skin Like Castle Walls.md#kinlikeca-tlewall)       |
+| Fire           | [Explosive Assistance](../../../../Browse/Abilities/Elementalist/1st-Level Features/Explosive Assistance.md#explo-ivea-i-tance)               |
+| Green          | [Breath of Dawn Remembered](../../../../Browse/Abilities/Elementalist/1st-Level Features/Breath of Dawn Remembered.md#breathofdawnremembered) |
+| Void           | [Subtle Relocation](../../../../Browse/Abilities/Elementalist/1st-Level Features/Subtle Relocation.md#ubtlerelocation)                     |
 
 <!-- -->
 > ###### Breath of Dawn Remembered
@@ -85,6 +85,6 @@ Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Lev
 >
 > **Trigger:** The target starts their turn, moves, or is force moved.
 >
-> **Effect:** You [teleport](../../../../Browse/Movement/Teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../Browse/Movement/Teleport.md) them at any point during the move.
+> **Effect:** You [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../Browse/Movement/Teleport.md#teleport) them at any point during the move.
 >
-> **Spend 1 Essence:** You [teleport](../../../../Browse/Movement/Teleport.md) the target up to a number of squares equal to twice your Reason score instead.
+> **Spend 1 Essence:** You [teleport](../../../../Browse/Movement/Teleport.md#teleport) the target up to a number of squares equal to twice your Reason score instead.

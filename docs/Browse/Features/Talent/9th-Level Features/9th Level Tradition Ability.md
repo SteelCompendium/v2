@@ -18,7 +18,7 @@ type: feature/trait/talent/9th-level-feature
 
 #### 9th-Level Tradition Ability
 
-Your [talent](../../../../Browse/Classes/Talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
@@ -39,9 +39,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 4 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **12-16:** 6 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-> - **17+:** 10 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+> - **≤11:** 4 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+> - **17+:** 10 corruption damage; [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
 
 <!-- -->
 > ###### Borrow From the Future (11 Clarity)
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 > | ------------------------------ | ---------------------------------------: |
 > | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../Browse/Movement/Vertical.md) pushed 6 squares. You can target only objects of size 1L or smaller.
+> **Effect:** Make a power roll to determine the area of this ability. Each target is [vertical](../../../../Browse/Movement/Vertical.md#vertical) pushed 6 squares. You can target only objects of size 1L or smaller.
 >
 > **Power Roll + Reason:**
 >
@@ -94,7 +94,7 @@ Choose one of the following abilities.
 >
 > **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 >
-> **Strained:** You are [weakened](../../../../Browse/Conditions/Weakened.md) (save ends). If you scored a critical hit with this ability, you die.
+> **Strained:** You are [weakened](../../../../Browse/Conditions/Weakened.md#weakened) (save ends). If you scored a critical hit with this ability, you die.
 
 ##### 9th-Level Telepathy Abilities
 
@@ -132,8 +132,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** R < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** R < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** R < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 >
 > **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

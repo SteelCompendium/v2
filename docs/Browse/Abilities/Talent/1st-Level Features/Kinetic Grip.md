@@ -36,6 +36,6 @@ type: feature/ability/talent/1st-level-feature
 
 - **≤11:** Slide 2 + R
 - **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; [prone](../../../../Browse/Conditions/Prone.md)
+- **17+:** Slide 6 + R; [prone](../../../../Browse/Conditions/Prone.md#prone)
 
-**Strained:** You must [vertical](../../../../Browse/Movement/Vertical.md) push the target instead of sliding them.
+**Strained:** You must [vertical](../../../../Browse/Movement/Vertical.md#vertical) push the target instead of sliding them.

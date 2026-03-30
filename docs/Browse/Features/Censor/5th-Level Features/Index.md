@@ -7,9 +7,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [5th Level Order Feature](5th Level Order Feature.md)
-    - [Evil Revealed](5th-Level Order Feature/Evil Revealed.md)
-    - [Prophecy](5th-Level Order Feature/Prophecy.md)
-    - [Stand Fast](5th-Level Order Feature/Stand Fast.md)
+- [5th Level Order Feature](5th Level Order Feature.md#5thlevelorderfeature)
+    - [Evil Revealed](5th-Level Order Feature/Evil Revealed.md#evilrevealed)
+    - [Prophecy](5th-Level Order Feature/Prophecy.md#prophecy)
+    - [Stand Fast](5th-Level Order Feature/Stand Fast.md#tandfa-t)
 
 </div>

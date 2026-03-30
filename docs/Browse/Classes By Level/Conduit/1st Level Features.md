@@ -14,7 +14,7 @@ type: class/conduit/level
 
 ### 1st-Level Features
 
-As a [conduit](../../../Browse/Classes/Conduit.md), you gain the following features.
+As a [conduit](../../../Browse/Classes/Conduit.md#conduit), you gain the following features.
 
 #### Deity and Domains
 
@@ -24,112 +24,112 @@ After choosing your deity, pick two domains from their portfolio. The two domain
 
 #### Piety
 
-Your deity grants you a Heroic Resource called [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md), letting you heal and empower your allies, and unleash holy power upon your foes.
+Your deity grants you a Heroic Resource called [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety).
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md).
+- If the roll is a 2, you gain 1 additional [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety).
 - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
 You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md#pietyout-ideofcombat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healinggrace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
 
 ##### Domain Piety and Effects
 
-Your choice of domains provides you with two additional ways to earn [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md) from both your domains.
+Your choice of domains provides you with two additional ways to earn [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) from both your domains.
 
-Additionally, whenever you activate a domain effect by praying for [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md), you can choose one of your domains and have that domain's prayer effect take effect immediately.
+Additionally, whenever you activate a domain effect by praying for [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
 ###### Creation Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
 ###### Death Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
 ###### Fate Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../../../Browse/Conditions/Prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are [prone](../../../Browse/Conditions/Prone.md#prone). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md) maneuver or an ability that targets an ally.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) maneuver or an ability that targets an ally.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md) or [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md) maneuver.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../Browse/Classes/Conduit.md) level.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../../Browse/Abilities/Common/Maneuvers/Aid Attack.md#aidattack) or [Hide](../../../Browse/Abilities/Common/Maneuvers/Hide.md#hide) maneuver.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../Browse/Classes/Conduit.md#conduit) level.
 
 ###### War Domain Piety and Effect
 
-- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../Browse/Classes/Conduit.md#conduit) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizingritual) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
 | Domain     | Feature                                                                                                                                                                     | Skill Group   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md)                                                   | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md)                                                                   | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md)                                                             | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md)                             | Exploration   |
+| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hand-ofthemaker)                                                   | Crafting      |
+| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-peech)                                                                   | Lore          |
+| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracularvi-ion)                               | Lore          |
+| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#ble-ingofcomprehen-ion)           | Lore          |
+| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizingritual)                         | Exploration   |
+| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#ble-ingofcompa-ion)                 | Interpersonal |
+| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithfulfriend)                                                             | Exploration   |
+| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle)                             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#ble-ingoffortunateweather) | Exploration   |
+| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md#innerlight)                                         | Lore          |
+| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#in-pireddeception)                           | Intrigue      |
+| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#anctifiedweapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -168,7 +168,7 @@ You have the following ability.
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../../Browse/Movement/Fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../../../Browse/Movement/Fly.md#fly), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
@@ -214,7 +214,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ##### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protectivecircle), a creature can't be targeted by strikes.
 
 ##### Revitalizing Ritual
 
@@ -243,12 +243,12 @@ You have the following ability, which you can use once on your turn.
 >
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A [prone](../../../Browse/Conditions/Prone.md) target can stand up.
+> - A [prone](../../../Browse/Conditions/Prone.md#prone) target can stand up.
 > - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md).
+You have the following ability, which can be used as a ranged [free strike](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike).
 
 <!-- -->
 > ###### Ray of Wrath
@@ -269,7 +269,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../Browse/Abilities/Conduit/1st-Level Features/Word of Guidance.md#wordofguidance).)
 
 <!-- -->
 > ###### Word of Guidance
@@ -303,7 +303,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md#prayerofdi-tance).)
 
 ##### Prayer of Destruction
 
@@ -315,21 +315,21 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 ##### Prayer of Soldier's Skill
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ##### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#di-engage) move action.
 
 ##### Prayer of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md).
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../../Browse/Movement/Stability.md#tability).
 
 #### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see [Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward/Bastion Ward.md#ba-tionward).)
 
 ##### Bastion Ward
 
@@ -353,7 +353,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### Signature Abilities
 
-Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md), [Staggering Curse](../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md).)
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../Browse/Abilities/Conduit/1st-Level Features/Blessed Light.md#ble-edlight), [Staggering Curse](../../../Browse/Abilities/Conduit/1st-Level Features/Staggering Curse.md#taggeringcur-e).)
 
 <!-- -->
 > ###### Blessed Light
@@ -400,9 +400,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md) pull 2
-> - **12-16:** 5 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md) pull 3
-> - **17+:** 8 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md) pull 4
+> - **≤11:** 3 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 3
+> - **17+:** 8 + I holy damage; [vertical](../../../Browse/Movement/Vertical.md#vertical) pull 4
 
 <!-- -->
 > ###### Lightfall
@@ -419,7 +419,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 3 holy damage
 > - **17+:** 5 holy damage
 >
-> **Effect:** You can [teleport](../../../Browse/Movement/Teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
+> **Effect:** You can [teleport](../../../Browse/Movement/Teleport.md#teleport) yourself and each ally in the area to unoccupied spaces in the area.
 
 <!-- -->
 > ###### Sacrificial Offer
@@ -508,7 +508,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 > - **12-16:** 3 sonic damage; push 2
 > - **17+:** 5 sonic damage; push 3
 >
-> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability.md).
+> **Effect:** You can push each willing ally in the area the same distance, ignoring [stability](../../../Browse/Movement/Stability.md#tability).
 
 <!-- -->
 > ###### Font of Wrath (3 Piety)
@@ -532,9 +532,9 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../Browse/Conditions/Prone.md)
-> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone.md)
-> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../Browse/Conditions/Prone.md) and can't stand (save ends)
+> - **≤11:** 3 + I holy damage; A < WEAK, [prone](../../../Browse/Conditions/Prone.md#prone)
+> - **12-16:** 6 + I holy damage; A < AVERAGE, [prone](../../../Browse/Conditions/Prone.md#prone)
+> - **17+:** 9 + I holy damage; A < STRONG, [prone](../../../Browse/Conditions/Prone.md#prone) and can't stand (save ends)
 
 <!-- -->
 > ###### Violence Will Not Aid Thee (3 Piety)
@@ -583,9 +583,9 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 
 <!-- -->
 > ###### Faith Is Our Armor (5 Piety)
@@ -613,4 +613,4 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 > | --------------- | ---------------------------: |
 > | **📏 4 burst**  | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../Browse/Conditions/Prone.md).
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../Browse/Conditions/Prone.md#prone).

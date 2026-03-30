@@ -18,7 +18,7 @@ type: feature/trait/censor/2nd-level-feature
 
 #### 2nd-Level Order Ability
 
-Your [censor](../../../../Browse/Classes/Censor.md) order grants your choice of one of two heroic abilities.
+Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -35,11 +35,11 @@ Choose one of the following abilities.
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
-> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md) (save ends)
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../../Browse/Conditions/Frightened.md#frightened) (save ends)
 >
-> **Effect:** If the target is already [frightened](../../../../Browse/Conditions/Frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+> **Effect:** If the target is already [frightened](../../../../Browse/Conditions/Frightened.md#frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 <!-- -->
 > ###### Revelator (5 Wrath)
@@ -106,8 +106,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
-> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md) (save ends)
+> - **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
+> - **17+:** 12 + P damage; P < STRONG, [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) (save ends)
 >
-> **Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md) this way, your abilities that impose forced movement can still move them.
+> **Effect:** While the target is [restrained](../../../../Browse/Conditions/Restrained.md#re-trained) this way, your abilities that impose forced movement can still move them.

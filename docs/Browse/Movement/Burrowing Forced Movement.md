@@ -14,4 +14,4 @@ type: movement
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md) is force moved by movement that isn't [vertical](../../Browse/Movement/Vertical.md), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](../../Browse/Movement/Vertical.md), the creature is moved through the dirt as if it were air.
+While a creature who is completely beneath the ground while [burrowing](../../Browse/Movement/Burrow.md#burrow) is force moved by movement that isn't [vertical](../../Browse/Movement/Vertical.md#vertical), they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is [vertical](../../Browse/Movement/Vertical.md#vertical), the creature is moved through the dirt as if it were air.

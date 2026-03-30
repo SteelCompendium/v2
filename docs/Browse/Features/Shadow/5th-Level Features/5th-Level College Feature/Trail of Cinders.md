@@ -18,6 +18,6 @@ type: feature/subtrait/shadow/5th-level-feature
 
 ##### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../../../Browse/Movement/Teleport.md) ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../../../../Browse/Movement/Teleport.md#teleport) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../../../Browse/Classes/Shadow.md) ability to [teleport](../../../../../Browse/Movement/Teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../../../Browse/Movement/Teleport.md). If no such space exists, they can't [teleport](../../../../../Browse/Movement/Teleport.md) with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../../../../Browse/Classes/Shadow.md#hadow) ability to [teleport](../../../../../Browse/Movement/Teleport.md#teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../../../../Browse/Movement/Teleport.md#teleport). If no such space exists, they can't [teleport](../../../../../Browse/Movement/Teleport.md#teleport) with you.

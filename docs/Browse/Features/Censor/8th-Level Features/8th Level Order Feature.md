@@ -18,19 +18,19 @@ type: feature/trait/censor/8th-level-feature
 
 #### 8th-Level Order Feature
 
-Your [censor](../../../../Browse/Classes/Censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../../../Browse/Classes/Censor.md#cen-or) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
 | Order    | Feature                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exorcist | [Demonologist](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md)                   |
-| Oracle   | [Their Past Revealed](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md) |
-| Paragon  | [Vow](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md)                                     |
+| Exorcist | [Demonologist](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Demonologist.md#demonologi-t)                   |
+| Oracle   | [Their Past Revealed](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Their Past Revealed.md#theirpa-trevealed) |
+| Paragon  | [Vow](../../../../Browse/Features/Censor/8th-Level Features/8th-Level Order Feature/Vow.md#vow)                                     |
 
 ##### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../../Browse/Ancestries/Devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../../Browse/Features/Censor/1st-Level Features/Judgment.md) ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../../Browse/Ancestries/Devil.md#devil), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../../Browse/Features/Censor/1st-Level Features/Judgment.md#judgment) ability against them as a free triggered action before an encounter begins.
 
 ##### Their Past Revealed
 

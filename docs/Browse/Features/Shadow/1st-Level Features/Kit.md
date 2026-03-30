@@ -18,4 +18,4 @@ type: feature/trait/shadow/1st-level-feature
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../../Browse/Kits/Cloak and Dagger.md).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Cloak and Dagger](../../../../Browse/Kits/Cloak and Dagger.md#cloakanddagger).)

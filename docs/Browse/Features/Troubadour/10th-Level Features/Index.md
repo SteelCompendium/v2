@@ -7,11 +7,11 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Applause](Applause.md)
-- [Characteristic Increase](Characteristic Increase.md)
-- [Dramaturgy](Dramaturgy.md)
-- [Greatest of All Time](Greatest of All Time.md)
-- [Perk](Perk.md)
-- [Skill](Skill.md)
+- [Applause](Applause.md#applau-e)
+- [Characteristic Increase](Characteristic Increase.md#characteri-ticincrea-e)
+- [Dramaturgy](Dramaturgy.md#dramaturgy)
+- [Greatest of All Time](Greatest of All Time.md#greate-tofalltime)
+- [Perk](Perk.md#perk)
+- [Skill](Skill.md#kill)
 
 </div>

@@ -32,6 +32,6 @@ type: kit-ability/ranger
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md) (save ends)
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../../Browse/Conditions/Slowed.md#lowed) (save ends)

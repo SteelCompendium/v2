@@ -35,8 +35,8 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** Slide 1; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md) (save ends)
+- **≤11:** Slide 1; I < WEAK, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+- **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
+- **17+:** Slide 2; I < STRONG, [dazed](../../../../Browse/Conditions/Dazed.md#dazed) (save ends)
 
 **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.

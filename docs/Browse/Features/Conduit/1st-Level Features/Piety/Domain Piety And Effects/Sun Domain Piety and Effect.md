@@ -18,5 +18,5 @@ type: feature/subtrait/conduit/1st-level-feature
 
 ###### Sun Domain Piety and Effect
 
-- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **[Piety](../../../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **[Prayer](../../../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.

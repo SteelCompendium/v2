@@ -18,4 +18,4 @@ type: feature/subtrait/fury/2nd-level-feature
 
 ##### Unstoppable Force
 
-Whenever you use the [Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md). Additionally, you can [jump](../../../../../Browse/Movement/Jump.md) as part of your [charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md).
+Whenever you use the [Charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-trike). Additionally, you can [jump](../../../../../Browse/Movement/Jump.md#jump) as part of your [charge](../../../../../Browse/Abilities/Common/Main Actions/Charge.md#charge).

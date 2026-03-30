@@ -18,4 +18,4 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../../../Browse/Kits/Panther.md).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Panther](../../../../../Browse/Kits/Panther.md#panther).)
