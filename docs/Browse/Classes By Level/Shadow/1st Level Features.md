@@ -54,11 +54,11 @@ Your [shadow](../../../Browse/Classes/Shadow.md#shadow) college grants you one o
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level Features/Black Ash Teleport.md#black-ash-teleport)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coat-the-blade), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
+| College         | Feature                                                                                                                                                                                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Black Ash Teleport.md#black-ash-teleport)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Coat the Blade.md#coat-the-blade), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                                                    |
 
 ##### Black Ash Teleport
 

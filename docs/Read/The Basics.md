@@ -28,7 +28,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md#tactician)):** *I'm going to hang out at the back of the group with my warhammer drawn. I want to be ready in case any of those skeletons we snuck by on the lower levels make their way up the stairs.*
 
-**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md#talent)):** *Linn uses her [Minor Telekinesis](../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
+**Matt (playing Linn, a [talent](../Browse/Classes/Talent.md#talent)):** *Linn uses her [Minor Telekinesis](../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis) ability to sweep up the glass on the floor and form a path free of glass that goes from the door to the dais.*
 
 **James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#shadow)):** *I'll light a torch as I step into the room. Is there anything new we can see now?*
 
@@ -242,7 +242,7 @@ Sometimes the rules tell you to divide a number in half. Whenever you divide an 
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../Browse/Ancestries/Human.md#human), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
-When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md#elementalist) can't use their [Return to Formlessness](../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md#elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
+When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../Browse/Classes/Elementalist.md#elementalist) can't use their [Return to Formlessness](../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Return to Formlessness.md#return-to-formlessness) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../Browse/Classes/Elementalist.md#elementalist) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
 #### Unattended Objects
 
@@ -391,7 +391,7 @@ Now there is only suspicion.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
-**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any dragon knight foolish enough to travel without a disguise away to the Chrysopolis.
+**The Dragon Phalanx** is broken. Ajax placed a high bounty on its warriors' heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any [dragon knight](../Browse/Ancestries/Dragon Knight.md#dragon-knight) foolish enough to travel without a disguise away to the Chrysopolis.
 
 Isolated and outnumbered, the [human](../Browse/Ancestries/Human.md#human) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 

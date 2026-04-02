@@ -18,13 +18,13 @@ As a 1st-level [null](../../../Browse/Classes/Null.md#null), you gain the follow
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your null tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -88,13 +88,13 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you spend during your turn.
+As you advance in your chosen [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition), you gain certain benefits in combat, including benefits based on the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you spend during your turn.
 
 Some [Discipline Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#discipline-mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can use the [Disengage](../../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free triggered action.
 
 Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md#chronokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -111,7 +111,7 @@ Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Featu
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -128,7 +128,7 @@ Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Featu
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md#metakinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

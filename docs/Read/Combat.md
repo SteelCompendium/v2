@@ -552,7 +552,7 @@ Many rules and abilities allow heroes to make [free strikes](../Browse/Abilities
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician](../Browse/Classes/Tactician.md#tactician)'s [Strike Now](../Browse/Abilities/Tactician/1st-Level Features/Strike Now.md#strike-now) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) instead of a granted signature ability or heroic ability.
+Some abilities, such as the [tactician](../Browse/Classes/Tactician.md#tactician)'s [Strike Now](../Browse/Features/Tactician/1st-Level Features/Strike Now.md#strike-now) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) instead of a granted signature ability or heroic ability.
 
 #### Opportunity Attacks
 

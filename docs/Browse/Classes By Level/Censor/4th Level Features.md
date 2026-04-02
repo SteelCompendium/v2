@@ -50,12 +50,12 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Protection | [Impervious Touch](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md#impervious-touch)                             |
 | Storm      | [Windwalk](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md#windwalk)                                               |
 | Sun        | [Light of Revelation](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md#light-of-revelation)                     |
-| Trickery   | [Blessing of Secrets](../../../Browse/Abilities/Conduit/4th-Level Features/Blessing of Secrets.md#blessing-of-secrets)                                                |
+| Trickery   | [Blessing of Secrets](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Secrets.md#blessing-of-secrets)                     |
 | War        | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md#improved-sanctified-weapon)       |
 
 ##### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 
 ##### Blessing of Secrets
 
@@ -80,7 +80,7 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ##### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md#hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.
 
 ##### Improved Sanctified Weapon
 

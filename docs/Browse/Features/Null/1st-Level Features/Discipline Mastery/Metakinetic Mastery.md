@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md#metakinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

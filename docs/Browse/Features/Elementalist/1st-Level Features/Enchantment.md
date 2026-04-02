@@ -18,7 +18,7 @@ type: feature/trait/elementalist/1st-level-feature
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist Ward](../../../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md#elementalist-ward) below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
 
 ##### Enchantment of Battle
 

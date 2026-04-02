@@ -22,11 +22,11 @@ Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you 
 
 ###### 1st-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                    |
-| Telepathy   | [Feedback Loop](../../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md#remote-assistance) |
+| Tradition   | Features                                                                                                                                                                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Accelerate](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                                                    |
+| Telepathy   | [Feedback Loop](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Remote Assistance.md#remote-assistance) |
 
 ##### Accelerate
 

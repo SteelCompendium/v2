@@ -36,7 +36,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -112,8 +112,8 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You [teleport](../../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) to [teleport](../../../Browse/Movement/Teleport.md#teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
@@ -124,8 +124,8 @@ Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level 
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md#motivate-earth)                                                                     |
-| Fire           | [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness)                                                   |
+| Earth          | [Motivate Earth](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Motivate Earth.md#motivate-earth)                                 |
+| Fire           | [Return to Formlessness](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Return to Formlessness.md#return-to-formlessness)               |
 | Green          | [It Is the Soul Which Hears](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md#it-is-the-soul-which-hears) |
 | Void           | [A Beyonding of Vision](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md#a-beyonding-of-vision)               |
 
@@ -144,7 +144,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md#shared-void-sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
 
 ##### It Is the Soul Which Hears
 
@@ -259,7 +259,7 @@ Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level 
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist Ward](../../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md#elementalist-ward) below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
 
 ##### Enchantment of Battle
 

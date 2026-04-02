@@ -62,7 +62,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [My Life for Yours](../../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath), it is lost. Additionally, the target of [My Life for Yours](../../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../../../../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this [wrath](../../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath), it is lost. Additionally, the target of [My Life for Yours](../../../../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) gains 10 temporary Stamina.
 
 ##### Gods' Library
 
@@ -105,7 +105,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 

@@ -25,7 +25,7 @@ Your [shadow](../../../../Browse/Classes/Shadow.md#shadow) college grants you a 
 | College         | Feature                                                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Black Ash       | [Cinder Step](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Cinder Step.md#cinder-step) |
-| Caustic Alchemy | [Time Bomb](../../../../Browse/Abilities/Shadow/8th-Level Features/Time Bomb.md#time-bomb)                                  |
+| Caustic Alchemy | [Time Bomb](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Time Bomb.md#time-bomb)     |
 | Harlequin Mask  | [Parkour](../../../../Browse/Features/Shadow/8th-Level Features/8th-Level College Feature/Parkour.md#parkour)           |
 
 ##### Cinder Step

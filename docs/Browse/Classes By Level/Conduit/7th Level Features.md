@@ -74,7 +74,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ##### Font of Grace
 
-Each time you use your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), it is lost. Additionally, you can use your [Minor Miracle](../../../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md#minor-miracle) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../Browse/Features/Conduit/1st-Level Features/Healing Grace.md#healing-grace) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), it is lost. Additionally, you can use your [Minor Miracle](../../../Browse/Features/Conduit/3rd-Level Features/Minor Miracle.md#minor-miracle) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library
 
@@ -117,7 +117,7 @@ You have the following ability.
 
 ##### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../Browse/Features/Conduit/1st-Level Features/Healing Grace.md#healing-grace) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 

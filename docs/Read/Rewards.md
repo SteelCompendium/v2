@@ -2186,7 +2186,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md#elementalist) 1st-level [Hurl Element](../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) feature, dealing the chosen damage type.
+- *Elemental Blaster:* You have the [Elementalist](../Browse/Classes/Elementalist.md#elementalist) 1st-level [Hurl Element](../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) feature, dealing the chosen damage type.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
@@ -2246,7 +2246,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
 - *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any [jump](../Browse/Movement/Jump.md#jump) you make by 1 square, both until the end of your turn.
-- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) feature from the [censor](../Browse/Classes/Censor.md#censor) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) unless you have the [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) class feature.
+- *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the [My Life for Yours](../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) feature from the [censor](../Browse/Classes/Censor.md#censor) class. When you use that ability, you can't spend [wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) unless you have the [Wrath](../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath) class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
 #### Monster Bane
@@ -2533,7 +2533,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](#page-108-0) feature [Healing Grace](../Browse/Features/Conduit/1st-Level Features/Healing Grace.md#healing-grace) as if you had spent 1 piety (see [Chapter 5: Classes](#page-83-2)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the [Deities and](#page-369-0) [Domains table](#page-369-0) in [Chapter 14: Gods and Religion](#page-367-1). From that god or saint's domains, choose a [Conduit](#page-108-0) 1st-level domain feature (see [Chapter 5: Classes](#page-83-2)).
 
@@ -2615,7 +2615,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md#shadow) college features [Coat the Blade](../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coat-the-blade) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#insight) unless you have the [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#insight) class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow](../Browse/Classes/Shadow.md#shadow) college features [Coat the Blade](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Coat the Blade.md#coat-the-blade) or [Smoke Bomb](../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) (see [Chapter 5: Classes](#page-83-2)). When you use that feature, you can't spend [insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#insight) unless you have the [Insight](../Browse/Features/Shadow/1st-Level Features/Insight.md#insight) class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ##### Boffin Properties

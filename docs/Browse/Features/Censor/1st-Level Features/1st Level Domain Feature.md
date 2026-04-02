@@ -24,13 +24,13 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 | Domain     | Feature                                                                                                                                                                    | Skill Group   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker)                                                  | Crafting      |
-| Death      | [Grave Speech](../../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-speech)                                                                  | Lore          |
+| Creation   | [Hands of the Maker](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md#hands-of-the-maker)                       | Crafting      |
+| Death      | [Grave Speech](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Grave Speech.md#grave-speech)                                       | Lore          |
 | Fate       | [Oracular Visions](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
 | Knowledge  | [Blessing of Comprehension](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
 | Life       | [Revitalizing Ritual](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
 | Love       | [Blessing of Compassion](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithful-friend)                                                            | Exploration   |
+| Nature     | [Faithful Friend](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Faithful Friend.md#faithful-friend)                                 | Exploration   |
 | Protection | [Protective Circle](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
 | Storm      | [Blessing of Fortunate Weather](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
 | Sun        | [Inner Light](../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |

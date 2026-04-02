@@ -108,7 +108,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits
 
-Time raider heroes have access to the following traits.
+[Time raider](../../Browse/Ancestries/Time Raider.md#time-raider) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 
