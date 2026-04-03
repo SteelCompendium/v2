@@ -24,13 +24,13 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th Echelon/Demigod.md#demigod)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md#human) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../Browse/Titles/4th Echelon/Demigod.md#demigod)-like status, once mortals, who [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) serve their patron god in eternity. Many [humans](../Browse/Ancestries/Human.md#human) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
 No one knows.
 
-As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon Adûn for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank Adûn or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
+As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon Adûn for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), they would almost certainly not thank Adûn or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
 
 If questioned about this-"Why did you call upon one god, but thank the saint of a completely different god?"-they would first be surprised by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "Adûn told Viras, who told her saint, Elspeth, to send a cooling breeze," but they would assume
 
@@ -57,7 +57,7 @@ There are churches dedicated to nature or knowledge or the sun, with no clear mo
 >
 > Obviously, [conduit](../Browse/Classes/Conduit.md#conduit) and [censor](../Browse/Classes/Censor.md#censor) players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
 >
-> But any player might wonder, "Does my character follow the teachings of any saint or god?" Think about the people you know in the real world who wear religious or quasi-religious talismans every day. A symbol on a necklace, a sticker on their car, a tattoo. Normal people often carry religious talismans, your character in *Draw Steel* might not be particularly religious, but they might still carry a religious talisman just because it's a family tradition or to remind themselves of the religious instruction they received in church as a child.
+> But any player might wonder, "Does my character follow the teachings of any saint or god?" Think about the people you know in the real world who wear religious or quasi-religious talismans every day. A symbol on a necklace, a sticker on their car, a tattoo. Normal people often carry religious talismans, your character in *Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)* might not be particularly religious, but they might still carry a religious talisman just because it's a family tradition or to remind themselves of the religious instruction they received in church as a child.
 >
 > We wrote a lot of words in this chapter because we wanted to give characters from all [ancestries](../Chapters/Ancestries.md#ancestries) a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
 
@@ -69,7 +69,7 @@ Elves, [dwarves](../Browse/Ancestries/Dwarf.md#dwarf), and [orcs](../Browse/Ance
 
 Each culture's pantheon reflects the mores and folkways of the people who live there. In far northern Vanigar, villains in folktales often gain their power by tricking others through clever wordplay. Riddles. Though they are villains, they are clever, and this earns them some respect even from their enemies. So the Vanigar pantheon includes Holkatya, a trickster god.
 
-Whereas Vasloria has no folk tradition of trickster figures, and so has no trickster god. Instead, villains in Vaslorian folktales tend to be people who seek quick ways to power in order to avoid honest work. So Vasloria has the dark god Cyrvis who teaches that magic can subvert fate and make you master of not only your destiny, but also the world. This also reveals the common Vaslorian's attitude toward magic.
+Whereas Vasloria has no folk tradition of trickster figures, and so has no trickster god. Instead, villains in Vaslorian folktales tend to be people who seek quick ways to power in order to avoid honest work. So Vasloria has the dark god Cyrvis who teaches that magic can subvert [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) and make you master of not only your destiny, but also the world. This also reveals the common Vaslorian's attitude toward magic.
 
 The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and saints can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated [conduit](../Browse/Classes/Conduit.md#conduit) to establish a church of their saint or hero in some distant land.
 
@@ -117,57 +117,57 @@ The prayers acolytes perform in churches are little more than magical rituals. T
 
 Should the acolyte continue in their studies and deeds and earn the rank of [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor), they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the [conduit](../Browse/Classes/Conduit.md#conduit) learns the... mood, for lack of a better term, of their saint or hero.
 
-As they gain experience, a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../Browse/Classes/Conduit.md#conduit) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
+As they gain experience, a [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../Browse/Classes/Conduit.md#conduit) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](../Browse/Classes/Conduit.md#conduit) or [censor](../Browse/Classes/Censor.md#censor) to saint is [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
 
 The Deities and Domains table and the Saints and Domains table summarize each of the gods and saints mentioned in this chapter and their available domains.
 
 ###### Deities and Domains Table
 
-| Deity                   | Domains                                       |
-| ----------------------- | --------------------------------------------- |
-| Adûn                    | Creation, Life, Love, Protection              |
-| Cavall                  | Life, Love, Protection, War                   |
-| Cyrvis                  | Death, Fate, Knowledge, Trickery              |
-| Kul                     | Knowledge, Life, Sun, Trickery, War           |
-| Nebular the Star Mother | Creation, Life, Love, Sun                     |
-| Nikros                  | Death, Fate, Storm, War                       |
-| Ord                     | Creation, Knowledge, Protection, Sun, War     |
-| OV the Wave Pilot       | Fate, Knowledge, Storm, Sun                   |
-| Salorna                 | Life, Nature, Storm, Sun                      |
-| Val                     | Creation, Knowledge, Life, Nature, Protection |
+| Deity                   | Domains                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Adûn                    | Creation, Life, Love, Protection                                                                                   |
+| Cavall                  | Life, Love, Protection, War                                                                                        |
+| Cyrvis                  | Death, [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Knowledge, Trickery |
+| Kul                     | Knowledge, Life, Sun, Trickery, War                                                                                |
+| Nebular the Star Mother | Creation, Life, Love, Sun                                                                                          |
+| Nikros                  | Death, [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Storm, War          |
+| Ord                     | Creation, Knowledge, Protection, Sun, War                                                                          |
+| OV the Wave Pilot       | [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Knowledge, Storm, Sun      |
+| Salorna                 | Life, Nature, Storm, Sun                                                                                           |
+| Val                     | Creation, Knowledge, Life, Nature, Protection                                                                      |
 
 ###### Saints and Domains Table
 
-| Saint                               | Domains                       |
-| ----------------------------------- | ----------------------------- |
-| Atossa the Shepherd                 | Fate, Protection, Trickery    |
-| Cho'kassa the Time Rider            | Storm, Sun                    |
-| Draighen the Warden                 | Nature, Sun                   |
-| Eriarwen the Wroth                  | Nature, Storm                 |
-| Eseld the Eye                       | Knowledge, Trickery           |
-| Gaed the Confessor                  | Love, Protection              |
-| Grole the One-Handed                | Life, War                     |
-| Gryffyn the Stout                   | Creation, Life                |
-| Gwenllian the Fell-Handed           | Protection, War               |
-| Illwyv li Orchiax                   | Nature, Protection            |
-| Khorvath Who Slew a Thousand        | Sun, War                      |
-| Khravila Who Ran Forty Leagues      | Knowledge, Trickery           |
-| Kyruyalka the False Principle       | Death, Trickery               |
-| Lady Magnetar                       | Life, Sun                     |
-| Llewellyn the Valiant               | Life, Protection              |
-| Mahsiti the Weaver                  | Creation, Knowledge, Trickery |
-| Pentalion the Paladin               | Death, War                    |
-| Prexaspes the Stargazer             | Nature, Protection, Sun       |
-| Ripples of Honey on a Shore of Gold | Life, Protection              |
-| A Sea of Suns                       | Creation, Life                |
-| Stakros the Engineer                | Creation, Knowledge           |
-| The Taste of Morning                | Creation, Knowledge           |
-| Thellasko the Great Designer        | Knowledge, War                |
-| Thyll Hylacae                       | Life, Nature                  |
-| Uryal the Subtle                    | Knowledge, Trickery           |
-| Valak-koth the Seeker               | Knowledge, Sun                |
-| Yllin Dyrvis                        | Knowledge, Nature             |
-| Zarok the Law-Giver                 | Protection, War               |
+| Saint                               | Domains                                                                                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Atossa the Shepherd                 | [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Protection, Trickery |
+| Cho'kassa the Time Rider            | Storm, Sun                                                                                                   |
+| Draighen the Warden                 | Nature, Sun                                                                                                  |
+| Eriarwen the Wroth                  | Nature, Storm                                                                                                |
+| Eseld the Eye                       | Knowledge, Trickery                                                                                          |
+| Gaed the Confessor                  | Love, Protection                                                                                             |
+| Grole the One-Handed                | Life, War                                                                                                    |
+| Gryffyn the Stout                   | Creation, Life                                                                                               |
+| Gwenllian the Fell-Handed           | Protection, War                                                                                              |
+| Illwyv li Orchiax                   | Nature, Protection                                                                                           |
+| Khorvath Who Slew a Thousand        | Sun, War                                                                                                     |
+| Khravila Who Ran Forty Leagues      | Knowledge, Trickery                                                                                          |
+| Kyruyalka the False Principle       | Death, Trickery                                                                                              |
+| Lady Magnetar                       | Life, Sun                                                                                                    |
+| Llewellyn the Valiant               | Life, Protection                                                                                             |
+| Mahsiti the Weaver                  | Creation, Knowledge, Trickery                                                                                |
+| Pentalion the Paladin               | Death, War                                                                                                   |
+| Prexaspes the Stargazer             | Nature, Protection, Sun                                                                                      |
+| Ripples of Honey on a Shore of Gold | Life, Protection                                                                                             |
+| A Sea of Suns                       | Creation, Life                                                                                               |
+| Stakros the Engineer                | Creation, Knowledge                                                                                          |
+| The Taste of Morning                | Creation, Knowledge                                                                                          |
+| Thellasko the Great Designer        | Knowledge, War                                                                                               |
+| Thyll Hylacae                       | Life, Nature                                                                                                 |
+| Uryal the Subtle                    | Knowledge, Trickery                                                                                          |
+| Valak-koth the Seeker               | Knowledge, Sun                                                                                               |
+| Yllin Dyrvis                        | Knowledge, Nature                                                                                            |
+| Zarok the Law-Giver                 | Protection, War                                                                                              |
 
 ### Val
 
@@ -179,7 +179,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 #### Heroes of the Elves
 
-The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
+The legendary heroes of the elves are once-mortal heroes who [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
 The [high elf](../Browse/Ancestries/High Elf.md#high-elf) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../Browse/Ancestries/Wode Elf.md#wode-elf) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
@@ -211,7 +211,7 @@ He canonized the idea that knowledge, truth, was a kind of beauty. The Library o
 
 Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was both scholar, sage, and soldier. She served as emissary between the [humans](../Browse/Ancestries/Human.md#human) and the dragons when the former sought war against the latter. For many years she brokered peace, but she could not stem the tides of war forever.
 
-In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would banish the concept of war from Orden. Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
+In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would [banish](../Browse/Abilities/Censor/9th-Level Features/Banish.md#banish) the concept of war from Orden. Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
 
 ##### Yllin Dyrvis
 
@@ -269,11 +269,11 @@ Zarok's *The Conversations* are still quoted today. There is a long legal tradit
 
 **Domains:** Knowledge, Sun
 
-Valak-koth the Seeker, the Delver, the Unquenchable Fire, Koth Who Brought Light to Darkness, said she heard voices in the rock as a child. These days this would result in a visit to the apothecary or a change in diet, but in those days the world was young and a child who heard voices might turn out to be a prophet of Ord. Her parents listened and soon none doubted.
+Valak-koth the Seeker, the Delver, the [Unquenchable Fire](../Browse/Abilities/Elementalist/8th-Level Features/Unquenchable Fire.md#unquenchable-fire), Koth Who Brought Light to Darkness, said she heard voices in the rock as a child. These days this would result in a visit to the apothecary or a change in diet, but in those days the world was young and a child who heard voices might turn out to be a prophet of Ord. Her parents listened and soon none doubted.
 
 She would run, heedless of danger, into the dark caves below and wherever she pointed, marvels were found: metals, gems, fantastic ores. Caves as big as nations. It was Valak-koth it was who first discovered aerithyst, the Sungem, a crystal mineral which glows upon contact with living things.
 
-Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) city of Kas Koriar.
+Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) lost along with the ancient stone [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) city of Kas Koriar.
 
 ##### Stakros the Engineer
 
@@ -281,7 +281,7 @@ Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, 
 
 Stakros the Engineer, the Machine Mind, the Operator, founder of the Order of Fabrication.
 
-Stakros it was—*not* a steel [dwarf](../Browse/Ancestries/Dwarf.md#dwarf)—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](../Browse/Ancestries/Dwarf.md#dwarf). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) capital.
+Stakros it was—*not* a [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) [dwarf](../Browse/Ancestries/Dwarf.md#dwarf)—who forged the first strife-engine, a great war-walker manned by thirty [dwarves](../Browse/Ancestries/Dwarf.md#dwarf). At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) capital.
 
 After the war, Stakros turned his talents to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in Orden. His design soon evolved into a variety of armored frames to suit a variety of purposes.
 
@@ -343,7 +343,7 @@ Khorvath's Thirty bought the bloodrunners the time they needed to escape through
 
 By the time they reached the eastern side of the Myr, Khorvath's name was already a legend, and many bloodrunners wore her clan fetish as their talisman. Scaling the slopes of the Myr was not easy but as the [orcs](../Browse/Ancestries/Orc.md#orc) descended down the western face, through the clouds, and saw the endless sea of green that was the Great Wode, they cried out together "Cekana! Cekana!" *The trees! The trees!*
 
-The ten thousand were not home, but they were home free. For this was territory held by their allies. The church of Khorvath Who Slew a Thousand spread quickly and now all [orcs](../Browse/Ancestries/Orc.md#orc) invoke her name whenever faced with a seemingly impossible task.
+The ten thousand were not home, but they were home free. For this was territory held by their allies. The church of Khorvath Who Slew a Thousand spread quickly and [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) all [orcs](../Browse/Ancestries/Orc.md#orc) invoke her name whenever faced with a seemingly impossible task.
 
 Khorvath, like most [orc](../Browse/Ancestries/Orc.md#orc) heroes, teaches the virtue of endurance. That great problems are often just many tiny problems in disguise and that by fighting each day as it comes, great battles can be won.
 
@@ -371,9 +371,9 @@ Khravila Who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable.
 
 On the eve of a war between elves and [humans](../Browse/Ancestries/Human.md#human) that would certainly result in the death of many [orcs](../Browse/Ancestries/Orc.md#orc) caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
 
-At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
+At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known [doubt](../Browse/Abilities/Talent/8th-Level Features/Doubt.md#doubt).
 
-She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. [Orc](../Browse/Ancestries/Orc.md#orc) children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
+She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. [Orc](../Browse/Ancestries/Orc.md#orc) children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her [epic](../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) run.
 
 Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the [humans](../Browse/Ancestries/Human.md#human), there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
 
@@ -399,7 +399,7 @@ Mahsiti the Weaver was a fresco painter and mathematician of the [hakaan](../Bro
 
 It took time to master weaving, but she took to it quickly and produced a series of essays, each a tapestry, proving correct her suspicions. The Tapestries of Mahsiti are a series of thirteen legendary artifacts of varying sizes, one as small as a napkin, one over two hundred feet long. Each has a powerful spell written into it, available for use by anyone who can read the patterns.
 
-One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) had no doubt they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
+One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) had no [doubt](../Browse/Abilities/Talent/8th-Level Features/Doubt.md#doubt) they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
 
 But this image, as Mahsiti showed, was formed out of thousands of repeating geometric patterns. The tapestry had been a gift from Mahsiti to her chieftain who hung it in their great receiving hall. Mahsiti cast the spell within the tapestry—and walked *into* the tapestry. The people were amazed and followed.
 
@@ -427,17 +427,17 @@ Prexaspes teaches that nature is a moral good and is worth defending, and that t
 
 ##### Atossa the Shepherd
 
-**Domains:** Fate, Protection, Trickery
+**Domains:** [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Protection, Trickery
 
 The great dam built by their ancestors that created Lake Tospah was going to fail, Atossa's doomsight said. The people would not listen, they said she read the signs wrong.
 
 When the rains came and would not stop, and the water in Lake Tospah rose putting more pressure on the dam, Atossa opened the gates to the sheep pen and let the tribe's herd of sheep out.
 
-The people ran after them, effectively evacuating the village. But the rains stopped, and the damn did not burst. The people returned to their homes, put the sheep back in the pen, and blamed the shepherd for worrying too much and leading them on wild goose chases.
+The people ran after them, effectively evacuating the village. But the rains stopped, and the damn did not burst. The people returned to their homes, put the sheep [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) in the pen, and blamed the shepherd for worrying too much and leading them on wild goose chases.
 
 The next year, the rains came again. And this time the lake was already near capacity. When the shepherd tried to warn the people, they reminded her that it had rained the year before and there was no danger—and so would not listen.
 
-When the first cracks appeared at the base of the dam, Atossa knew her wyrd was before her. She took a piece of the broken dam back to the village to show the elders. They frowned and wondered what Atossa was up to now, but agreed amongst themselves to go up the valley and inspect the dam in person.
+When the first cracks appeared at the base of the dam, Atossa knew her wyrd was before her. She took a piece of the broken dam [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to the village to show the elders. They frowned and wondered what Atossa was up to [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now), but agreed amongst themselves to go up the valley and inspect the dam in person.
 
 Atossa tried to warn them they were walking to their doom, and became even more agitated when the rest of the village followed. When the elders reached the cracked dam, they sounded no alarm. Instead, they argued and debated, "Chewing their beards"-*rish javid*-the [hakaan](../Browse/Ancestries/Hakaan.md#hakaan) say about elders who argue instead of acting.
 
@@ -537,7 +537,7 @@ Vasloria is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. It
 
 Some of them take it more seriously than others though. People in the most distant villages tend to believe it more literally, while people in the cities are perfectly aware than one may work and work and be a villain. And this is true of most of the beliefs presented in this chapter. Some people take it very seriously; some not so much.
 
-Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../Browse/Classes/Conduit.md#conduit) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
+Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../Browse/Classes/Conduit.md#conduit) of Saint Llewellyn the Valiant, but they would [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
 
 #### Adûn
 
@@ -621,7 +621,7 @@ The new duke yearned to imprison his mother's favored knight, but all the guards
 
 The Trials of Llewellyn, as they came to be known, passed into legend and their tale is still told in Corwell. Llewellyn and the Dragon With Seven Eyes, Llewellyn and the Witch of the Fen, Llewellyn and the Onyx Tower.
 
-When Llewellyn slew Ghruk the Trollhag, she cried out, "Follow Melianus!" as she died. These words echoed in Llewellyn's ears and his heart. He assumed she meant, "Obey him—be loyal to him." But as he rode his great destrier Silverheart back to Castle Gant, Llewellyn began to suspect what Ghruk meant.
+When Llewellyn slew Ghruk the Trollhag, she cried out, "Follow Melianus!" as she died. These words echoed in Llewellyn's ears and his heart. He assumed she meant, "Obey him—be loyal to him." But as he rode his great destrier Silverheart [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to Castle Gant, Llewellyn began to suspect what Ghruk meant.
 
 That night, Llewellyn waited in the stables and, at midnight, Melianus appeared. He mounted his great black warhorse Coalfire and rode. To where, Llewellyn could not guess. But the knight followed the duke as he rode east toward the marsh, he remembered the rumors.
 
@@ -631,15 +631,15 @@ On flaming nightmare hooves was Melianus able to cross the impassable swamp. Lle
 
 Llewellyn and Silverheart plunged into the bog and though it was night and the mud sucked at her hooves, Silverheart pushed on. In the hour before dawn, they arrived at an island with an ancient tower. "The tower of the sorcerer," Llewellyn thought. Thunder rolled, and rain began to fall.
 
-Looking to the upper window of the tower, Llewellyn saw someone performing a dark ritual. A flash of lightning illuminated the figure. It was Melianus! Melianus was the sorcerer! Llewellyn called out, and the duke descended the tower and mounted his hellsteed. On his shield now—the screaming-skull symbol of Cyrvis, the Lich, god of malice.
+Looking to the upper window of the tower, Llewellyn saw someone performing a dark ritual. A flash of lightning illuminated the figure. It was Melianus! Melianus was the sorcerer! Llewellyn called out, and the duke descended the tower and mounted his hellsteed. On his shield [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now)—the screaming-skull symbol of Cyrvis, the Lich, god of malice.
 
 Cyrvis had rewarded his loyal servant for years of cruelty, and the figure astride the nightmare was Saint Melianus the Bright. The Dark Saint charged Llewellyn, his lance gleaming with balefire. Llewellyn and Silverheart returned the charge and the two clashed together, Melianus's blow strong enough to unseat a giant. But Llewellyn was not thrown. His strength was the strength of ten, for his heart was pure.
 
-Coalfire struck with flaming hooves at Silverheart but the destrier struck back, blow for bite and bite for blow. Then the hellsteed, roared and a rotting green flame burned Silverheart's flesh and stole her breath until, choking, she fell to the ground, dead.
+Coalfire struck with flaming hooves at Silverheart but the destrier struck [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), blow for bite and bite for blow. Then the hellsteed, roared and a rotting green flame burned Silverheart's flesh and stole her breath until, choking, she fell to the ground, dead.
 
-Llewellyn's heart burst. He threw his body over the corpse of his loyal steed, and Melianus's lance pierced his armor, his back, and his heart. Knight and horse, dead. Melianus crowed as the lightning flashed again. But, in that moment, the miracle.
+Llewellyn's heart burst. He threw his body over the corpse of his loyal steed, and Melianus's lance pierced his armor, his [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), and his heart. Knight and horse, dead. Melianus crowed as the lightning flashed again. But, in that moment, the miracle.
 
-Cavall stood between the Dark Saint and loyal knight. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thy work shalt never be done."
+Cavall stood between the Dark Saint and loyal knight. Cavall pulled the lance from Llewellyn's [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back). "Rise my son, and rise thy steed. Thy work shalt never be done."
 
 Saint Llewellyn the Valiant and Silverheart his Eversteed rose, immortal, and the battle against evil renewed itself, the two armored saints clashing on barded steeds.
 
@@ -659,7 +659,7 @@ Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty
 
 The Red Sun hobgoblins seemed unstoppable. The baron began to think he might need to evacuate the entire barony, else allow his people to be slaughtered. His greatest knights perished against the Red Sun, who wielded some magic that granted them invulnerability.
 
-Then the loremaster came. Zür the wizard, [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
+Then the loremaster came. Zür the wizard, [dwarf](../Browse/Ancestries/Dwarf.md#dwarf) and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) invulnerable.
 
 Zür believed he could remove the enchantment and rob the Red Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
 
@@ -725,7 +725,7 @@ Refusing to give up on the elves, even after they chose to die with their forest
 
 When the elves remarked upon this, taking the derwic to task for their actions, Hurolathornindrascyl, derwic's chief, looked at Draighen in confusion and then pointed to the sea of uprooted trees. "They would have moved on their own if they could! We just helped them along."
 
-The elves were properly chastised and realized their shame. Though the derwic disappeared back into the wode, the elves celebrated Draighen, naming her Elf-Friend and Wode Warden. In the ceremony, Draighen was surrounded by a golden light and her brown eyes turned green. The elves knew she was Saint Draighen now.
+The elves were properly chastised and realized their shame. Though the derwic disappeared [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) into the wode, the elves celebrated Draighen, naming her Elf-Friend and Wode Warden. In the ceremony, Draighen was surrounded by a golden light and her brown eyes turned green. The elves knew she was Saint Draighen [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now).
 
 Draighen teaches solutions can always be found if people are willing to talk. That even the darkest forest is not a thing to be threatened by if you carry wisdom and an open heart with you. That the proper reaction to unknown territory is curiosity.
 
@@ -765,7 +765,7 @@ Eriarwen was a wolf made of fire, a crow made of lightning, a bear made of stone
 
 Caswyn the Chimera hurled Eriarwen the Lion to the ground and it was Caswyn the Cobra who struck. But it was Eriarwen the Elk who spit Caswyn upon her antlers, banishing the saint from the mundane world.
 
-Eriarwen returned to herself, and though she was now an immortal saint, she sensed that Salorna had given her yet more power. She saw her mother weeping over her grandmother's body. The old woman's horse, restored by Eriarwen's sting, nuzzled at her mistress's curled gray hair.
+Eriarwen returned to herself, and though she was [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) an immortal saint, she sensed that Salorna had given her yet more power. She saw her mother weeping over her grandmother's body. The old woman's horse, restored by Eriarwen's sting, nuzzled at her mistress's curled gray hair.
 
 Eriarwen smiled, and knew the task before her. She conjured lightning from her fingertip, and her grandmother was renewed. Mothers and daughters reunited.
 
@@ -777,7 +777,7 @@ Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-
 
 ##### Nikros the Tyrant
 
-**Domains:** Death, Fate, Storm, War
+**Domains:** Death, [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Storm, War
 
 Nikros is strength. He is dominance. His is the right of the strong to rule over the weak. He is the Tyrant.
 
@@ -809,9 +809,9 @@ Saint Pentalion teaches that one should bide their time and build their power be
 
 ##### Cyrvis
 
-**Domains:** Death, Fate, Knowledge, Trickery
+**Domains:** Death, [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Knowledge, Trickery
 
-Cyrvis is the enemy of fate. He is the god of those who believe they have been wronged by life, and seek revenge. Cyrvis is a god of magic, because through magic one can gain power to exert their will over others. He is brother to Nikros but because he is frail and Nikros values only strength, Nikros hates Cyrvis, and Cyrvis is happy to return the sentiment.
+Cyrvis is the enemy of [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate). He is the god of those who believe they have been wronged by life, and seek revenge. Cyrvis is a god of magic, because through magic one can gain power to exert their will over others. He is brother to Nikros but because he is frail and Nikros values only strength, Nikros hates Cyrvis, and Cyrvis is happy to return the sentiment.
 
 A person bullied, a criminal arrested, a servant dismissed—all who harbor secret hate whisper Cyrvis' name, and that whisper is a prayer. A suitor rejected by a consort who loves another finds themself walking in Cyrvis' shadow. He is the god of assassins, conspirators, and the bitterly frail.
 
@@ -865,7 +865,7 @@ The people of the timescape know and believe in their gods just like the people 
 
 But most citizens of the timescape do not carry the gods with them in their daily lives the way the people of Orden do. The gods of the timescape are powerful and reward their worshippers, but they are remote and unknowable. Most denizens of the upper worlds view a church as just another kind of shop. A place to go to renew your soul and speak the rites that your parents spoke. For many denizens of the upper worlds, religion is more of a cultural phenomenon than a way of life.
 
-The closest analog to worship in Orden to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and saint and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from Orden arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
+The closest analog to worship in Orden to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and saint and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from Orden arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) sabers sometimes cross with swords made of hard light.
 
 #### Nebular the Star Mother
 
@@ -883,13 +883,13 @@ She is the goddess of creation and for some of her followers, life itself, as he
 
 Captain Kalisdrossa was the leader of Sword Squadron an elite cadre of legendary UNISOL fighter pilots. Her crew believed unwaveringly that with Kalisdrossa as their leader, though one or two may perish in battle, the squadron would always come home.
 
-In the legendary Battle of Cassiar IV against Grotenhulk the Evolver, flagship of the protean fleet, the protean mutate-commander Oruth-phor intended to break Sword Squadron's winning streak, and from the body of PCS Grotenhulk, a giant swam of living drone-sprites, each specially evolved to seek and destroy UNISOL Arrestor-class ships, spawned.
+In the legendary Battle of Cassiar IV against Grotenhulk the Evolver, flagship of the protean fleet, the protean mutate-commander Oruth-phor intended to break Sword Squadron's winning streak, and from the body of PCS Grotenhulk, a giant swam of living drone-sprites, each specially evolved to [seek and destroy](../Browse/Abilities/Fury/6th-Level Features/Seek and Destroy.md#seek-and-destroy) UNISOL Arrestor-class ships, spawned.
 
 Sword Squadron's meson repeaters were too imprecise to target the tiny drone-sprites. Not only were the pilots unable to carry out their orders, they were being picked off one by one. Many privately believed this was the final flight of Sword Squadron.
 
 When one of her pilots dropped his countermeasures and temporarily distracted the swarm, Captain Kalisdrossa had a flash of insight. Seeing an opportunity to destroy the swarm, save her crew, and give them a fighting chance to complete their mission, she ordered Sword Squadron to ignore the drone and proceed with their attack on the protean flagship.
 
-Her wingman sent back, "The drones will kill us before we're halfway there!"
+Her wingman sent [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), "The drones will kill us before we're halfway there!"
 
 "No they won't," she responded—and then sent her last message. "Squad, you have your orders. First lieutenant Vachsimnatta is in command. Kalisdrossa out."
 
@@ -909,7 +909,7 @@ It was Kalisdrossa, still wearing the helmet that marked her captain of Sword Sq
 
 Lady Magnetar flew across the void of space at lightning speed, evaporating protean fighters as she went. Until finally she faced Grotenhulk the Evolver, his maw poised to envelop the UNISOL capital ship.
 
-She punched a hole right through the hullskin of the changeship and battled her way, deck by deck, toward the heart of the beast. Though a thousand protean soldiers stood in her way, none could touch her or slow her relentless progress.
+She punched a hole right through the hullskin of the changeship and battled her way, deck by deck, toward the heart of the beast. Though a thousand protean soldiers stood in her way, none could touch her or [slow](../Browse/Abilities/Talent/2nd-Level Features/Slow.md#slow) her relentless progress.
 
 The [memonek](../Browse/Ancestries/Memonek.md#memonek) officers and soldiers of UNISOL watched the [bleeding](../Browse/Conditions/Bleeding.md#bleeding) changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
 
@@ -917,7 +917,7 @@ Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in
 
 #### OV the Wave Pilot
 
-**Domains:** Fate, Knowledge, Storm, Sun
+**Domains:** [Fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate), Knowledge, Storm, Sun
 
 OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masculine, appears to live inside the pilot-wave. In those rare instances where a mortal is directly exposed to the energies that propel ships across the sea of stars, they occasionally report seeing a figure that matches the description of OV.
 
@@ -933,7 +933,7 @@ When a [time raider](../Browse/Ancestries/Time Raider.md#time-raider) swears, "O
 
 "*Take the helm and damn them all!!*"
 
-Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the capital of Axiom for trial on charges of piracy and insurgency. UNISOL, she deemed, made arrests first and invented whichever laws were convenient afterward.
+Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the capital of Axiom for trial on charges of piracy and insurgency. UNISOL, she deemed, made [arrests](../Browse/Abilities/Censor/1st-Level Features/Arrest.md#arrest) first and invented whichever laws were convenient afterward.
 
 Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
 
@@ -941,7 +941,7 @@ Though the rest of her captured clan believed the proteans had, for some reason,
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
-The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../Browse/Conditions/Grabbed.md#grabbed) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
+The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../Browse/Conditions/Grabbed.md#grabbed) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) sure.
 
 With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../Browse/Ancestries/Time Raider.md#time-raider) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 
@@ -959,7 +959,7 @@ Finally facing the great star-engine of the UNISOL ship, Cho'kassa punched in th
 
 Others thought this a strange way to end one's life. But Cho'kassa had seen the sign of the Wave Pilot when the navigation screens on the bridge came to life, and instinct compelled her. Some insight said that only if she joined with the ship could she save her clan. When her consciousness continued even after the engine disintegrated her body, she knew her faith proved correct.
 
-Now part of the ship itself, Cho'kassa could see the relationship between time and space. The Wave Pilot appeared before her, an enigmatic figure made of gold-green light, and conveyed without words the secret. The dark star, Procellon Beta, warped space and time around it, and that was why the plotted chart that appeared on the bridge could not be understood.
+[Now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) part of the ship itself, Cho'kassa could see the relationship between time and space. The Wave Pilot appeared before her, an enigmatic figure made of gold-green light, and conveyed without words the secret. The dark star, Procellon Beta, warped space and time around it, and that was why the plotted chart that appeared on the bridge could not be understood.
 
 The energies of the wounded star-engine ripped through the ship killing the [memonek](../Browse/Ancestries/Memonek.md#memonek) and proteans onboard, but did not breach the door to the bridge. Cho'kassa piloted her new body with her family nestled safely inside through the course the wave pilot had set.
 

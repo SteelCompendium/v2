@@ -44,7 +44,7 @@ While you are in your [umbral form](../../../Browse/Features/Shadow/6th-Level Fe
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
+You have an [epic](../../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 

@@ -18,4 +18,4 @@ type: feature/subtrait/censor/1st-level-feature
 
 ##### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../../../../Browse/Abilities/Conduit/2nd-Level Features/Morning Light.md#morning-light) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.

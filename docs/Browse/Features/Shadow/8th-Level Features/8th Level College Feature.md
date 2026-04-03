@@ -34,7 +34,7 @@ Whenever you willingly move, you can [teleport](../../../../Browse/Movement/Tele
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../../../../Browse/Abilities/Shadow/1st-Level Features/Clever Trick.md#clever-trick) ability.
 
 ##### Time Bomb
 

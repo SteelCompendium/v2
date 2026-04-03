@@ -24,7 +24,7 @@ Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As 
 
 ## Treasures
 
-You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
+You've helped save the world! Or at least a corner of that world important to you. [Now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
 Treasures are the supernatural items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.
 
@@ -63,7 +63,7 @@ Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless t
 
 Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../Browse/Ancestries/Time Raider.md#time-raider) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
-Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different look might wear an earring as a piercing anywhere else they desire.
+Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) might wear an earring as a piercing anywhere else they desire.
 
 If a wearable treasure comes as a set, such as a pair of bracers, boots, or earrings, all items in the set must be worn to gain the treasure's benefits.
 
@@ -222,7 +222,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and [Stability](../Browse/Movement/Stability.md#stability) are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina maximum and [Stability](../Browse/Movement/Stability.md#stability), and losing the potion's other benefits. Objects maintain their new size permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and [Stability](../Browse/Movement/Stability.md#stability) are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to your original size after 3 rounds, halving your current Stamina maximum and [Stability](../Browse/Movement/Stability.md#stability), and losing the potion's other benefits. Objects maintain their new size permanently.
 
 ##### Healing Potion
 
@@ -486,7 +486,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 ##### Telemagnet
 
-*A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.*
+*A short [iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) wand shaped of interlocking segments leaks greasy black oil from its joints.*
 
 **Keywords:** Psionic
 
@@ -590,7 +590,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 120
 
-**Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature back to life. The creature returns to life with Stamina equal to their winded value and 10 temporary Stamina that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
+**Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to life. The creature returns to life with Stamina equal to their winded value and 10 temporary Stamina that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
 
 ##### Stygian Liquor
 
@@ -880,11 +880,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 ##### Hellcharger Helm
 
-*A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
+*A [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** One broken contract, one ingot of steel
+**Item Prerequisite:** One broken contract, one ingot of [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)
 
 **Project Source:** Texts or lore in Anjali and Caelian
 
@@ -1230,7 +1230,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Keywords:** Arms, Psionic
 
-**Item Prerequisite:** Steel alloy, one fine-cut topaz
+**Item Prerequisite:** [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) alloy, one fine-cut topaz
 
 **Project Source:** Texts or lore in Mindspeech
 
@@ -1254,7 +1254,7 @@ Your connection with leveled treasures doesn't just make them useful. It also ma
 
 It's fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a Presence test during each respite:
 
-- **≤11:** One of your leveled treasures (chosen by the Director) grabs hold of your psyche. It forces you to sleepwalk or otherwise enter an active fugue state and discard the rest of your leveled treasures in locations you can't remember. If you want those items back, you'd better get looking before someone else finds them.
+- **≤11:** One of your leveled treasures (chosen by the Director) grabs hold of your psyche. It forces you to sleepwalk or otherwise enter an active fugue state and discard the rest of your leveled treasures in locations you can't remember. If you want those items [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), you'd better get looking before someone else finds them.
 - **12-16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
 - **17+:** Nothing happens.
 
@@ -1413,7 +1413,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Heavy Armor, Magic
 
-**Item Prerequisite:** Ten steel gears from an ancient construct
+**Item Prerequisite:** Ten [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) gears from an ancient construct
 
 **Project Source:** Texts or lore in Variac
 
@@ -1421,7 +1421,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to expand the armor on your [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while adjacent to it takes 3 damage.
 
@@ -1449,11 +1449,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 ##### Telekinetic Bulwark
 
-*An unseen force seems to draw this steel shield toward nearby creatures.*
+*An unseen force seems to draw this [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) shield toward nearby creatures.*
 
 **Keywords:** Psionic, Shield
 
-**Item Prerequisite:** Three ingots of steel, six crystals that resonate with psionic power
+**Item Prerequisite:** Three ingots of [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel), six crystals that resonate with psionic power
 
 **Project Source:** Texts or lore in Variac
 
@@ -1695,11 +1695,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 ##### Icemaker Maul
 
-*The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.*
+*The head of this [iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.*
 
 **Keywords:** Heavy Weapon, Magic
 
-**Item Prerequisite:** Eight iron bars cooled in a glacier, the branch of an ancient evergreen
+**Item Prerequisite:** Eight [iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) bars cooled in a glacier, the branch of an ancient evergreen
 
 **Project Source:** Texts in Zaliac
 
@@ -1759,7 +1759,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Keywords:** Magic, Net
 
-**Item Prerequisite:** Four iron bars coated in magma slag
+**Item Prerequisite:** Four [iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) bars coated in magma slag
 
 **Project Source:** Texts or lore in Caelian
 
@@ -1795,11 +1795,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 ##### Steeltongue
 
-*This sinuous whip reflects all light off its plated steel surfaces.*
+*This sinuous whip reflects all light off its plated [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) surfaces.*
 
 **Keywords:** Magic, Whip
 
-**Item Prerequisite:** One hundred steel arrowheads stained with blood
+**Item Prerequisite:** One hundred [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) arrowheads stained with blood
 
 **Project Source:** Texts or lore in Caelian and Kalliak
 
@@ -1893,7 +1893,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **5th Level:** The ring's bonus to Stamina increases to +12. Additionally, you have damage immunity 2.
 
-**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../Browse/Movement/Teleport.md#teleport) into their possession and ceases to be magic.
+**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../Browse/Movement/Teleport.md#teleport) into their possession and ceases to be magic.
 
 ##### Bloody Hand Wraps
 
@@ -2085,7 +2085,7 @@ Just because a hero meets the prerequisite for a title doesn't mean it is grante
 
 ### Title Benefits
 
-Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular fate reaps the reward!
+Some titles have only one benefit. These are typically earned by heroes individually instead of together as a group. Only the hero doing the studying or meeting a particular [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) [reaps](../Browse/Abilities/Conduit/2nd-Level Features/Reap.md#reap) the reward!
 
 Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a selection of three or four different options. When the party earns the title, each player decides which benefit their hero takes. For instance, if the party triumphs in a tavern fight and gains the [Brawler](../Browse/Titles/1st Echelon/Brawler.md#brawler) title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in the increased notoriety. A hero can take any of a title's benefits they qualify for, and multiple heroes can take the same benefit.
 
@@ -2111,7 +2111,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 #### Ancient Loremaster
 
-*It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
+*It's astonishing what you find in old books. [Look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
 
 **Prerequisite:** You find a trove of forgotten books.
 
@@ -2129,7 +2129,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a test using the Intimidate skill and don't make an argument that appeals to an NPC's motivation, you don't lower the NPC's patience or interest no matter the outcome of the roll.
+- *[Iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) Hand in Velvet Glove:* The first time during a negotiation that you make a test using the Intimidate skill and don't make an argument that appeals to an NPC's motivation, you don't lower the NPC's patience or interest no matter the outcome of the roll.
 - *Truce!:* You have a double edge on tests made to stop combat and start a negotiation.
 - *Warriors' Understanding:* You gain an edge on Presence tests made to interact with creatures you have fought against in combat encounters.
 
@@ -2313,7 +2313,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 **Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
 
-The Director chooses one of the following benefits, based on the fate your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, montage test, or adventure related to the benefit, as the Director determines.
+The Director chooses one of the following benefits, based on the [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, montage test, or adventure related to the benefit, as the Director determines.
 
 - *Gladiators:* You must fight to the death for your captors' amusement. Your intended opponents wield or guard a trinket or leveled treasure, which you can earn if you are victorious.
 - *Prey:* Your captors plan to release you and hunt you down, but it's no fun unless you offer a challenge. Each of you is given a medicinal draught that grants a +1 bonus to speed and increases your Recoveries by 2. This benefit lasts until the end of your next respite.
@@ -2356,11 +2356,11 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *No, You're Under [Arrest](../Browse/Abilities/Censor/1st-Level Features/Arrest.md#arrest)!:* You gain an edge on the [Escape Grab](../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
 #### Zombie Slayer
 
-*Why won't you die?! You've already done it once, you should be good at it by now!*
+*Why won't you die?! You've already done it once, you should be good at it by [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now)!*
 
 **Prerequisite:** You defeat a leader or solo creature with the Undead keyword, such as a ghost.
 
@@ -2451,14 +2451,14 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Blood Magic
 
-*Flow, blood, thou fiend's libation, and catch my foes in conflagration!*
+*Flow, blood, thou fiend's libation, and catch my foes in [conflagration](../Browse/Abilities/Elementalist/1st-Level Features/Conflagration.md#conflagration)!*
 
 **Prerequisite:** You participate in a Discover Lore project to learn forbidden knowledge.
 
 **Effect:** Choose one of the following benefits:
 
 - *Blood Mage:* When you use an area ability with the Magic or Psionic keyword, you can take damage equal to your level to increase the ability's area by 1 until the end of the encounter. If the area is a line, you increase the size of one dimension, not both. This damage can't be reduced in any way. You can use this benefit only once per use of an ability.
-- *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 Stamina by this corruption damage, the creature explodes in a shower of blood and you regain the Stamina you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
+- *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 Stamina by this corruption damage, the creature explodes in a [shower of blood](../Browse/Abilities/Fury/9th-Level Features/Shower of Blood.md#shower-of-blood) and you regain the Stamina you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
 - *I Reject This Evil Power!:* You gain corruption immunity equal to your level.
 
 #### Corsair
@@ -2487,7 +2487,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Fey Friend
 
-*Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
+*Do you enjoy the vintage? Yes, you can understand my tongue [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now). One does not drink at my table and leave unchanged.*
 
 **Prerequisite:** You eat and drink with an elf monarch or archfey.
 
@@ -2499,7 +2499,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Giant Slayer
 
-*Come back here, puny one, and let me crush you!*
+*Come [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) here, puny one, and let me crush you!*
 
 **Prerequisite:** You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.
 
@@ -2527,7 +2527,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Godsworn
 
-*He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.*
+*He seemed like he needed help! [Now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) the dead speak to me. I think maybe that old man was more than he appeared.*
 
 **Prerequisite:** You do a favor for an agent of a god or saint, or promise to do so.
 
@@ -2564,7 +2564,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Knight
 
-*Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
+*Kneel, heroes. [Arise](../Browse/Abilities/Conduit/8th-Level Features/Arise.md#arise), knights of Tor, and may your swords be ever sharp in our service.*
 
 **Prerequisite:** A noble or monarch grants you knighthood or a similar rank.
 
@@ -2608,7 +2608,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Special Agent
 
-*And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
+*And this is interesting... if you twist the third button on your overcoat no, don't do it [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now)!*
 
 **Prerequisite:** A spymaster gives you an important secret mission.
 
@@ -2653,7 +2653,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 #### Unstoppable
 
-*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
+*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
 
 **Prerequisite:** You defeat a foe while at or below 0 Stamina.
 
@@ -2773,7 +2773,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Master Crafter
 
-*The sword Vanartha has been remade, mightier now than on the day it was forged.*
+*The sword Vanartha has been remade, mightier [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) than on the day it was forged.*
 
 **Prerequisite:** You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.
 
@@ -2812,7 +2812,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Scarred
 
-*Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.*
+*Last time we fought, I gave you a little token to remember me by... [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) it appears you need another reminder of my power.*
 
 **Prerequisite:** An enemy leader or solo creature reduces you to 0 Stamina.
 
@@ -2846,7 +2846,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 #### Champion Competitor
 
-*Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!*
+*Marduk uses the Beldoit Gambit! Avanna counters with the [Iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!*
 
 **Prerequisite:** You beat the best in the world at a game or sport.
 
@@ -2922,7 +2922,7 @@ Additionally, choose one of the following benefits:
 
 *There goes Diana, [peace bringer](../Browse/Titles/4th Echelon/Peace Bringer.md#peace-bringer). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
-**Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
+**Prerequisite:** You conduct a successful negotiation on which the [fate](../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) of a nation or a world stands.
 
 **Effect:** Your choice of your Reason or Presence increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
@@ -2949,7 +2949,7 @@ Additionally, choose one of the following benefits:
 
 #### Theoretical Warrior
 
-*I've read about this tactic in books—it looks fairly straightforward.*
+*I've read about this tactic in books—it [looks](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) fairly straightforward.*
 
 **Prerequisite:** You have the [Master Librarian](../Browse/Titles/2nd Echelon/Master Librarian.md#master-librarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
@@ -2965,7 +2965,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
+- *Bounce [Back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your recovery value is half your Stamina
 - *Undying:* You can't be affected by the [bleeding](../Browse/Conditions/Bleeding.md#bleeding) condition.
 
@@ -3040,7 +3040,7 @@ When you recruit a sage, choose four skills from the lore skill group that they 
 
 ## Wealth
 
-Draw Steel isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their Wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
+Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their Wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
 
 The Hero Wealth table shows the types of items, gear, services, property, and more that you can purchase in the game. For a hero to make a purchase, the item must be available to them. Being able to afford a suit of armor or a stay at an inn doesn't do much good in the middle of a trackless forest, an empty desert, or a remote dungeon ruin. As well, the Director can also decide that a hero can afford only a limited number of purchases. For example, a hero with Wealth 3 can easily buy a small house, but that Wealth doesn't mean they can buy up every available small house in the local area to become a landlord.
 
@@ -3061,7 +3061,7 @@ As an optional rule, the Director can allow a hero to make a purchase that is on
 <!-- -->
 > **Heroes Don't Do It for Gold**
 >
-> In *Draw Steel*, being a hero isn't a transactional job—it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure—and make it about something more than gold.
+> In *Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)*, being a hero isn't a transactional job—it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure—and make it about something more than gold.
 
 ###### Hero Wealth Table
 

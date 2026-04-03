@@ -38,7 +38,7 @@ You wear light armor and wield one or two light weapons.
 
 ###### Fade
 
-*A stab, and a few quick, careful steps back.*
+*A stab, and a few quick, careful steps [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back).*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |

@@ -38,20 +38,20 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 
 ###### 4th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Improved Hands of the Maker](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md#improved-hands-of-the-maker) |
-| Death      | [Seance](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md#seance)                                                   |
-| Fate       | [Oracular Warning](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md#oracular-warning)                             |
-| Knowledge  | [Saint's Epiphany](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md#saints-epiphany)                              |
-| Life       | [Blessing of Life](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md#blessing-of-life)                           |
-| Love       | [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocation-of-the-heart)           |
-| Nature     | [Wode Road](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md#wode-road)                                           |
-| Protection | [Impervious Touch](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md#impervious-touch)                             |
-| Storm      | [Windwalk](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md#windwalk)                                               |
-| Sun        | [Light of Revelation](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md#light-of-revelation)                     |
-| Trickery   | [Blessing of Secrets](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Secrets.md#blessing-of-secrets)                     |
-| War        | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md#improved-sanctified-weapon)       |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Improved Hands of the Maker](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Hands of the Maker.md#improved-hands-of-the-maker) |
+| Death                                                                                  | [Seance](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Seance.md#seance)                                                   |
+| [Fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Oracular Warning](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Oracular Warning.md#oracular-warning)                             |
+| Knowledge                                                                              | [Saint's Epiphany](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Saints Epiphany.md#saints-epiphany)                              |
+| Life                                                                                   | [Blessing of Life](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Life.md#blessing-of-life)                           |
+| Love                                                                                   | [Invocation of the Heart](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Invocation of the Heart.md#invocation-of-the-heart)           |
+| Nature                                                                                 | [Wode Road](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Wode Road.md#wode-road)                                           |
+| Protection                                                                             | [Impervious Touch](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Impervious Touch.md#impervious-touch)                             |
+| Storm                                                                                  | [Windwalk](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Windwalk.md#windwalk)                                               |
+| Sun                                                                                    | [Light of Revelation](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Light of Revelation.md#light-of-revelation)                     |
+| Trickery                                                                               | [Blessing of Secrets](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Blessing of Secrets.md#blessing-of-secrets)                     |
+| War                                                                                    | [Improved Sanctified Weapon](../../../Browse/Features/Censor/4th-Level Features/4th-Level Domain Feature/Improved Sanctified Weapon.md#improved-sanctified-weapon)       |
 
 ##### Blessing of Life
 

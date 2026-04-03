@@ -26,17 +26,17 @@ The minds of [memonek](../../Browse/Ancestries/Memonek.md#memonek) are highly or
 
 "Now I *meant*, 'Is there anyone coming after you we need to know about?' But it's starting to *seem like* there's something wrong with *you*. That you *knew about* and *chose* not to tell me."
 
-Vithyaranu, Count of the ALAV *Revile* paced back and forth, his cloak billowing. John continued.
+Vithyaranu, Count of the ALAV *Revile* paced [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) and forth, his cloak billowing. John continued.
 
 "Listen, whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
 
-Revile stopped and turned to look at the rest of the party, recovering from their wounds. The [memonek](../../Browse/Ancestries/Memonek.md#memonek)'s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
+Revile stopped and turned to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at the rest of the party, recovering from their wounds. The [memonek](../../Browse/Ancestries/Memonek.md#memonek)'s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
 Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be... worldsick. Or world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of feeling. Emotion."
 
 "Are you going mad?" John asked, his voice quiet. He wanted to give the count a chance to answer privately.
 
-The [memonek](../../Browse/Ancestries/Memonek.md#memonek) smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
+The [memonek](../../Browse/Ancestries/Memonek.md#memonek) smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A *grasshopper* the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) called it. I thought I had never seen a thing so perfect and beautiful. That was [awe](../../Browse/Abilities/Talent/1st-Level Features/Awe.md#awe). As powerful as I have ever felt. In the battle today, anger. Just as powerful.
 
 "I thought I could resist it. When I arrived here and felt no different I thought perhaps worldsickness was a legend. But it is a slow process, this illness. These insidious emotions."
 
@@ -48,7 +48,7 @@ Count Revile shook his head. "Not like this. We are creatures of reason, we of A
 
 "At yourself ? Why? What did you...?"
 
-"John," the [memonek](../../Browse/Ancestries/Memonek.md#memonek) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
+"John," the [memonek](../../Browse/Ancestries/Memonek.md#memonek) said, and [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
 John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 

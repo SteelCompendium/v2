@@ -18,4 +18,4 @@ You might be a common bandit or an idealistic freedom fighter, but in any event,
 
 **Benefit:** You earn 1 Renown.
 
-**Drawback:** Law enforcement officials and bounty hunters who recognize you attempt to arrest you.
+**Drawback:** Law enforcement officials and bounty hunters who recognize you attempt to [arrest](../../Browse/Abilities/Censor/1st-Level Features/Arrest.md#arrest) you.

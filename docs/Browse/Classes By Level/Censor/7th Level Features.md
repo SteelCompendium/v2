@@ -26,20 +26,20 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](.
 
 ###### 7th-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Creation   | [Divine Quartermaster](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md#divine-quartermaster)                     |
-| Death      | [Word of Death Deferred](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md#word-of-death-deferred)             |
-| Fate       | [Word of Fate Denied](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md#word-of-fate-denied)                   |
-| Knowledge  | Gods' Library                                                                                                                                                            |
-| Life       | [Font of Grace](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md#font-of-grace)                                 |
-| Love       | [Covenant of the Heart](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md#covenant-of-the-heart)               |
-| Nature     | [Nature's Bounty](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md#natures-bounty)                                |
-| Protection | [Blessing of Iron](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md#blessing-of-iron)                           |
-| Storm      | [Ride the Lightning](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md#ride-the-lightning)                       |
-| Sun        | [Light of the Burning Sun](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md#light-of-the-burning-sun)       |
-| Trickery   | [Trinity of Trickery](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md#trinity-of-trickery)                     |
-| War        | [Your Triumphs Are Remembered](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md#your-triumphs-are-remembered) |
+| Domain                                                                                 | Feature                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creation                                                                               | [Divine Quartermaster](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Divine Quartermaster.md#divine-quartermaster)                     |
+| Death                                                                                  | [Word of Death Deferred](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Death Deferred.md#word-of-death-deferred)             |
+| [Fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Word of Fate Denied](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Word of Fate Denied.md#word-of-fate-denied)                   |
+| Knowledge                                                                              | Gods' Library                                                                                                                                                            |
+| Life                                                                                   | [Font of Grace](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Font of Grace.md#font-of-grace)                                 |
+| Love                                                                                   | [Covenant of the Heart](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Covenant of the Heart.md#covenant-of-the-heart)               |
+| Nature                                                                                 | [Nature's Bounty](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Natures Bounty.md#natures-bounty)                                |
+| Protection                                                                             | [Blessing of Iron](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Blessing of Iron.md#blessing-of-iron)                           |
+| Storm                                                                                  | [Ride the Lightning](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Ride the Lightning.md#ride-the-lightning)                       |
+| Sun                                                                                    | [Light of the Burning Sun](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Light of the Burning Sun.md#light-of-the-burning-sun)       |
+| Trickery                                                                               | [Trinity of Trickery](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Trinity of Trickery.md#trinity-of-trickery)                     |
+| War                                                                                    | [Your Triumphs Are Remembered](../../../Browse/Features/Censor/7th-Level Features/7th-Level Domain Feature/Your Triumphs Are Remembered.md#your-triumphs-are-remembered) |
 
 ##### Blessing of Iron
 

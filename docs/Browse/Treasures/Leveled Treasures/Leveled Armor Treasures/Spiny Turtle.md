@@ -20,7 +20,7 @@ type: treasure/leveled/armor
 
 **Keywords:** Heavy Armor, Magic
 
-**Item Prerequisite:** Ten steel gears from an ancient construct
+**Item Prerequisite:** Ten [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) gears from an ancient construct
 
 **Project Source:** Texts or lore in Variac
 
@@ -28,7 +28,7 @@ type: treasure/leveled/armor
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
+**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to expand the armor on your [back](../../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while adjacent to it takes 3 damage.
 

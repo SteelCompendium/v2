@@ -60,7 +60,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Wrath in Combat](Wrath/Wrath in Combat.md#wrath-in-combat)
     - [Wrath Outside of Combat](Wrath/Wrath Outside of Combat.md#wrath-outside-of-combat)
+    - [Wrath in Combat](Wrath/Wrath in Combat.md#wrath-in-combat)
 
 </div>

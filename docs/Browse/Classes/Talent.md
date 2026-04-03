@@ -156,7 +156,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](../../Browse/Abilities/Talent/2nd-Level Features/Slow.md#slow) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -450,7 +450,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../Browse/Abilities/Talent/1st-Level Features/Choke.md#choke).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -516,7 +516,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../Browse/Abilities/Talent/1st-Level Features/Inertia Soak.md#inertia-soak).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)
@@ -822,7 +822,7 @@ Your Reason and Presence scores each increase to 3.
 
 As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../Browse/Conditions/Prone.md#prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
+Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
 #### Mind Recovery
 
@@ -1462,7 +1462,7 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). Each time you finish a respite, you gain [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) equal to the XP you gain. You can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) on your abilities as if it were clarity.
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). Each time you finish a respite, you gain [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) equal to the XP you gain. You can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) on your abilities as if it were clarity.
 
 Additionally, you can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 

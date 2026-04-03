@@ -5,20 +5,6 @@ type: index
 
 # Shadow Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Careful Observation Improvement](10th-Level Features/Careful Observation Improvement.md#careful-observation-improvement)
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Death Pool](10th-Level Features/Death Pool.md#death-pool)
-- [Improved Umbral Form](10th-Level Features/Improved Umbral Form.md#improved-umbral-form)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-- [Subterfuge](10th-Level Features/Subterfuge.md#subterfuge)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -31,8 +17,8 @@ type: index
 - [College Triggered Action](1st-Level Features/College Triggered Action.md#college-triggered-action)
 - [Hesitation Is Weakness](1st-Level Features/Hesitation Is Weakness.md#hesitation-is-weakness)
 - [Insight](1st-Level Features/Insight.md#insight)
-    - [Insight in Combat](1st-Level Features/Insight/Insight in Combat.md#insight-in-combat)
     - [Insight Outside of Combat](1st-Level Features/Insight/Insight Outside of Combat.md#insight-outside-of-combat)
+    - [Insight in Combat](1st-Level Features/Insight/Insight in Combat.md#insight-in-combat)
 - [Kit](1st-Level Features/Kit.md#kit)
 - [Shadow Abilities](1st-Level Features/Shadow Abilities.md#shadow-abilities)
     - [Heroic Abilities](1st-Level Features/Shadow Abilities/Heroic Abilities.md#heroic-abilities)
@@ -135,5 +121,19 @@ type: index
     - [9th Level Caustic Alchemy Abilities](9th-Level Features/9th-Level College Ability/9th Level Caustic Alchemy Abilities.md#9th-level-caustic-alchemy-abilities)
     - [9th Level Harlequin Mask Abilities](9th-Level Features/9th-Level College Ability/9th Level Harlequin Mask Abilities.md#9th-level-harlequin-mask-abilities)
 - [Gloom Squad](9th-Level Features/Gloom Squad.md#gloom-squad)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Careful Observation Improvement](10th-Level Features/Careful Observation Improvement.md#careful-observation-improvement)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Death Pool](10th-Level Features/Death Pool.md#death-pool)
+- [Improved Umbral Form](10th-Level Features/Improved Umbral Form.md#improved-umbral-form)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
+- [Subterfuge](10th-Level Features/Subterfuge.md#subterfuge)
 
 </div>

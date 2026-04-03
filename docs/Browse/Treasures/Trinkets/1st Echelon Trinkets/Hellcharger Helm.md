@@ -16,11 +16,11 @@ type: treasure/trinkets/1st-echelon
 
 ##### Hellcharger Helm
 
-*A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
+*A [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** One broken contract, one ingot of steel
+**Item Prerequisite:** One broken contract, one ingot of [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)
 
 **Project Source:** Texts or lore in Anjali and Caelian
 

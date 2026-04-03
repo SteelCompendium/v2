@@ -173,7 +173,7 @@ Your [shadow](../../Browse/Classes/Shadow.md#shadow) college grants you a trigge
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) |
 | Caustic Alchemy | [Defensive Roll](../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](../../Browse/Abilities/Shadow/1st-Level Features/Clever Trick.md#clever-trick)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -321,7 +321,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../../Browse/Abilities/Shadow/1st-Level Features/Get In Get Out.md#get-in-get-out).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)
@@ -389,7 +389,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ##### 5-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../../Browse/Abilities/Shadow/1st-Level Features/Coup de Grace.md#coup-de-grace).)
 
 <!-- -->
 > ###### Coup de Grace (5 Insight)
@@ -735,19 +735,19 @@ Your [shadow](../../Browse/Classes/Shadow.md#shadow) college grants you a featur
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight). If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending [insight](../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight). If you do, while I'm No Threat is active, the creature's body is disguised to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 ##### Trail of Cinders
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash [Teleport](../../Browse/Movement/Teleport.md#teleport) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a [shadow](../../Browse/Classes/Shadow.md#shadow) ability to [teleport](../../Browse/Movement/Teleport.md#teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../Browse/Movement/Teleport.md#teleport). If no such space exists, they can't [teleport](../../Browse/Movement/Teleport.md#teleport) with you.
+Additionally, you can [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) bring an adjacent willing creature along with you whenever you use a [shadow](../../Browse/Classes/Shadow.md#shadow) ability to [teleport](../../Browse/Movement/Teleport.md#teleport). The creature appears in an unoccupied space adjacent to the space into which you [teleported](../../Browse/Movement/Teleport.md#teleport). If no such space exists, they can't [teleport](../../Browse/Movement/Teleport.md#teleport) with you.
 
 ##### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../Browse/Movement/Fly.md#fly), you fall.
+Additionally, your [Defensive Roll](../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll) ability [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not [flying](../../Browse/Movement/Fly.md#fly), you fall.
 
 #### 9-Insight Ability
 
@@ -989,7 +989,7 @@ Whenever you willingly move, you can [teleport](../../Browse/Movement/Teleport.m
 
 ##### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../../Browse/Features/Shadow/5th-Level Features/5th-Level College Feature/Harlequin Gambit.md#harlequin-gambit) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../../Browse/Abilities/Shadow/1st-Level Features/Clever Trick.md#clever-trick) ability.
 
 ##### Time Bomb
 
@@ -1226,7 +1226,7 @@ While you are in your [umbral form](../../Browse/Features/Shadow/6th-Level Featu
 
 #### Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were [insight](../../Browse/Features/Shadow/1st-Level Features/Insight.md#insight).
 
 Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
 

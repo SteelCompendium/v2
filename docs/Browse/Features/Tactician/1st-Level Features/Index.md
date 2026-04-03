@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Focus in Combat](Focus/Focus in Combat.md#focus-in-combat)
     - [Focus Outside of Combat](Focus/Focus Outside of Combat.md#focus-outside-of-combat)
+    - [Focus in Combat](Focus/Focus in Combat.md#focus-in-combat)
 
 </div>
 

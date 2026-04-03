@@ -46,11 +46,11 @@ If some players want to use the negotiation system as a means to an end by havin
 
 #### The Threat of Violence
 
-In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
+In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) at any moment.
 
-The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw steel.
+The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw [steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel).
 
-Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
+Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to their previous behavior as soon as they think they can get away with it.
 
 ### Negotiation Stats
 
@@ -210,14 +210,14 @@ An NPC with the revelry motivation just wants to have fun. They enjoy socializin
 
 An NPC with the revelry pitfall sees social encounters and hedonism as a waste of time. They take pleasure only in work or in building their own skills and character. Others who suggest immature debauchery are not worth their time.
 
-Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
+Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to reveling sooner, longer, or harder. Example arguments include the following:
 
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge... provided you extend me and my band here an invitation."
 - "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
 ##### Vengeance
 
-An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
+An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) their own suffering with embarrassment, career failure, or some other less permanent pain.
 
 An NPC with the vengeance pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
 
@@ -251,14 +251,14 @@ If a hero wishes to figure out an NPC's motivations, they can begin by simply as
 
 ###### Negotiation Starting Attitudes Table
 
-| Attitude   | Description                                                                                              | Interest | Patience |
-| ---------- | -------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| Hostile    | Openly opposed to the heroes. Barely willing to listen.                                                  | 1        | 2        |
-| Suspicious | Doubts the heroes' motives but is willing to listen.                                                     | 2        | 2        |
-| Neutral    | Doesn't feel one way or the other. Would probably rather be somewhere else, but doesn't want to be rude. | 2        | 3        |
-| Open       | Willing to listen, willing to help, as long as the heroes aren't asking too much.                        | 3        | 3        |
-| Friendly   | The heroes seem like the NPC's people. The NPC is willing to give them the benefit of the doubt.         | 3        | 4        |
-| Trusting   | The NPC has reason to take the heroes at their word and will help if the characters don't screw this up. | 3        | 5        |
+| Attitude   | Description                                                                                                                                                                         | Interest | Patience |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| Hostile    | Openly opposed to the heroes. Barely willing to listen.                                                                                                                             | 1        | 2        |
+| Suspicious | [Doubts](../Browse/Abilities/Talent/8th-Level Features/Doubt.md#doubt) the heroes' motives but is willing to listen.                                             | 2        | 2        |
+| Neutral    | Doesn't feel one way or the other. Would probably rather be somewhere else, but doesn't want to be rude.                                                                            | 2        | 3        |
+| Open       | Willing to listen, willing to help, as long as the heroes aren't asking too much.                                                                                                   | 3        | 3        |
+| Friendly   | The heroes seem like the NPC's people. The NPC is willing to give them the benefit of the [doubt](../Browse/Abilities/Talent/8th-Level Features/Doubt.md#doubt). | 3        | 4        |
+| Trusting   | The NPC has reason to take the heroes at their word and will help if the characters don't screw this up.                                                                            | 3        | 5        |
 
 NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the greed motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
 
@@ -278,7 +278,7 @@ While the heroes can discover an NPC's motivations or pitfalls through tests mad
 
 ### Making Arguments
 
-As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
+As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and [awe](../Browse/Abilities/Talent/1st-Level Features/Awe.md#awe).
 
 Arguments need a justification as to why they're true. "Helping us defeat Lord Saxton is good for you in the long run," is half an argument, but the hero also needs to explain why this is the case. "Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!" If a hero makes half an argument, the NPC might follow up with questions such as, "Why do you say that?" or "What makes you think that's true?" to get the full argument from them.
 
@@ -419,7 +419,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 ### Sample Negotiation
 
-After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
+After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) attempting to build an army that can stand against Saxton and defeat the tyrant.
 
 The heroes are engaging in a negotiation with Zola Honeycut, the [human](../Browse/Ancestries/Human.md#human) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
@@ -476,7 +476,7 @@ In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a R
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 
-**Director:** *Zola leans back on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."*
+**Director:** *Zola leans [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."*
 
 **Alyssa:** *I nod along as Zola speaks, listening before I say, "We didn't hear of your struggle until after Saxton had already hanged many of your brave people. We're here now. How can we help?"*
 
@@ -500,9 +500,9 @@ Korvo inadvertently made an argument using a pitfall by appealing to a higher au
 
 **Grace:** *I got a 17! Success.*
 
-**Director:** *Zola sits back, chuckling. "There's two things I can't stand anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that revelry also won't go over well with Zola.*
+**Director:** *Zola sits [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back), chuckling. "There's two things I can't stand anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that revelry also won't go over well with Zola.*
 
-The heroes now know both of Zola's pitfalls: higher authority and revelry.
+The heroes [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) know both of Zola's pitfalls: higher authority and revelry.
 
 **Matt:** *Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."*
 
@@ -562,7 +562,7 @@ Because Jorn appealed to a motivation, Zola's interest increases to 3, and her p
 
 **Director:** *Zola contemplates this for a moment. She nods, "I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves but could frankly use the help."*
 
-**Grace:** *We could push the Clock to do it themselves, but I can't see Val turning her back on people in need.*
+**Grace:** *We could push the Clock to do it themselves, but I can't see Val turning her [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) on people in need.*
 
 **James:** *Hear, hear. I'm done pushing my luck on this one.*
 

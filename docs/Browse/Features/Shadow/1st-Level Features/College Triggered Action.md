@@ -26,7 +26,7 @@ Your [shadow](../../../../Browse/Classes/Shadow.md#shadow) college grants you a 
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) |
 | Caustic Alchemy | [Defensive Roll](../../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](../../../../Browse/Abilities/Shadow/1st-Level Features/Clever Trick.md#clever-trick)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)

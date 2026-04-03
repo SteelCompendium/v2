@@ -38,7 +38,7 @@ While you rest in their presence, your god might also give you priority targets 
 
 #### Virtue
 
-You have an epic resource called [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue). Each time you finish a respite, you gain [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue) equal to the XP you gain. You can spend [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue) on your abilities as if it were [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath).
+You have an [epic](../../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue). Each time you finish a respite, you gain [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue) equal to the XP you gain. You can spend [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue) on your abilities as if it were [wrath](../../../Browse/Features/Censor/1st-Level Features/Wrath.md#wrath).
 
 Additionally, you can spend 3 [virtue](../../../Browse/Features/Censor/10th-Level Features/Virtue.md#virtue) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 

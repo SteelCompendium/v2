@@ -5,19 +5,6 @@ type: index
 
 # Censor Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-- [Templar](10th-Level Features/Templar.md#templar)
-- [Virtue](10th-Level Features/Virtue.md#virtue)
-- [Wrath of the Gods](10th-Level Features/Wrath of the Gods.md#wrath-of-the-gods)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -45,8 +32,8 @@ type: index
 - [Kit](1st-Level Features/Kit.md#kit)
 - [My Life for Yours](1st-Level Features/My Life for Yours.md#my-life-for-yours)
 - [Wrath](1st-Level Features/Wrath.md#wrath)
-    - [Wrath in Combat](1st-Level Features/Wrath/Wrath in Combat.md#wrath-in-combat)
     - [Wrath Outside of Combat](1st-Level Features/Wrath/Wrath Outside of Combat.md#wrath-outside-of-combat)
+    - [Wrath in Combat](1st-Level Features/Wrath/Wrath in Combat.md#wrath-in-combat)
 
 </div>
 
@@ -169,5 +156,18 @@ type: index
     - [9th Level Oracle Abilities](9th-Level Features/9th-Level Order Ability/9th Level Oracle Abilities.md#9th-level-oracle-abilities)
     - [9th Level Paragon Abilities](9th-Level Features/9th-Level Order Ability/9th Level Paragon Abilities.md#9th-level-paragon-abilities)
 - [Improved Implement of Wrath](9th-Level Features/Improved Implement of Wrath.md#improved-implement-of-wrath)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
+- [Templar](10th-Level Features/Templar.md#templar)
+- [Virtue](10th-Level Features/Virtue.md#virtue)
+- [Wrath of the Gods](10th-Level Features/Wrath of the Gods.md#wrath-of-the-gods)
 
 </div>

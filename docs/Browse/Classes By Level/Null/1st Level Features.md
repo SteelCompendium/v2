@@ -309,7 +309,7 @@ You have mastered a range of heroic abilities, all of them channeled through you
 
 ###### 3-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
+Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../../Browse/Abilities/Null/1st-Level Features/Chronal Spike.md#chronal-spike).)
 
 <!-- -->
 > ###### Chronal Spike (3 Discipline)
@@ -373,7 +373,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ###### 5-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)
+Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../../Browse/Abilities/Null/1st-Level Features/A Squad Unto Myself.md#a-squad-unto-myself).)
 
 <!-- -->
 > ###### Arcane Disruptor (5 Discipline)

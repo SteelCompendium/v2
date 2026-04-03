@@ -16,7 +16,7 @@ type: ancestry
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../../Browse/Ancestries/Human.md#human) for snatching children who wander too far into the woods. [Humans](../../Browse/Ancestries/Human.md#human) *should* fear the trees.
 
-The [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf) who dwell in cities naturally adept at urban warfare.
+The [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) into the underbrush. These traits also make the relatively few [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf) who dwell in cities naturally adept at urban warfare.
 
 ### On Wode Elves
 
@@ -32,21 +32,21 @@ The [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf)' natural ability 
 
 Then, only a few feet from them, a half-dozen figures melded out of the background, as if the trees and bushes and grass had been painted on them to perfectly match the wode. They wore light armor covered in leaves, moss, and vines, and they bristled with weapons.
 
-Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back toward them by two more [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
+Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) toward them by two more [wode elves](../../Browse/Ancestries/Wode Elf.md#wode-elf), his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
 The elves were tall, taller than an adult [human](../../Browse/Ancestries/Human.md#human), but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) saw a [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
 Meliora, who understood the words, whispered to the others. "They called that one 'consort!'"
 
-Llyander smiled, looking from Meliora to the elf who had just addressed them with a *See? I told you!* look on their face.
+Llyander smiled, looking from Meliora to the elf who had just addressed them with a *See? I told you!* [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) on their face.
 
 The tall, swashbuckling elf bowed to the children. "I am Llyander, the Lightning Strike, Consort to Queen Imyrr." They indicated the elf who had spoken. "This is my cousin, Rhythylthin."
 
-"How did you know we were here?" Jeremy asked. Dade stood just behind him, with an arrow now nocked.
+"How did you know we were here?" Jeremy asked. Dade stood just behind him, with an arrow [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) nocked.
 
 The one called Rhythylthin reached out while Dade was turned, looking at the queen's consort, and deftly plucked the arrow from the young man's bow.
 

@@ -57,10 +57,10 @@ type: index
 | [Rhodars Malice](Count Rhodar Von Glauer/Features/Rhodars Malice.md#rhodars-malice)                                          |
 | [Count Rhodar von Glauer](Count Rhodar Von Glauer/Statblocks/Count Rhodar von Glauer.md#count-rhodar-von-glauer)                  |
 | [Demons](Demons/Demons.md#demons)                                                                                            |
-| [Demon Malice Level 10 Malice Features](Demons/Features/Demon Malice Level 10 Malice Features.md#demon-malice-level-10-malice-features)           |
 | [Demon Malice Level 1 Malice Features](Demons/Features/Demon Malice Level 1 Malice Features.md#demon-malice-level-1-malice-features)             |
 | [Demon Malice Level 4 Malice Features](Demons/Features/Demon Malice Level 4 Malice Features.md#demon-malice-level-4-malice-features)             |
 | [Demon Malice Level 7 Malice Features](Demons/Features/Demon Malice Level 7 Malice Features.md#demon-malice-level-7-malice-features)             |
+| [Demon Malice Level 10 Malice Features](Demons/Features/Demon Malice Level 10 Malice Features.md#demon-malice-level-10-malice-features)           |
 | [Aurumvas](Demons/Statblocks/Aurumvas.md#aurumvas)                                                                             |
 | [Bale Eye](Demons/Statblocks/Bale Eye.md#bale-eye)                                                                           |
 | [Bendrak](Demons/Statblocks/Bendrak.md#bendrak)                                                                               |
@@ -178,10 +178,11 @@ type: index
 | [Shadow Elf Sniper](Elves Shadow/Statblocks/Shadow Elf Sniper.md#shadow-elf-sniper)                                               |
 | [Elves Wode](Elves Wode/Elves Wode.md#elves-wode)                                                                            |
 | [Wode Elf Malice](Elves Wode/Features/Wode Elf Malice.md#wode-elf-malice)                                                       |
+| [Wodenelg](Elves Wode/Statblocks/Wodenelg.md#wodenelg)                                                                       |
 | [Wode Elf Chirurgeon](Elves Wode/Statblocks/Wode Elf Chirurgeon.md#wode-elf-chirurgeon)                                             |
 | [Wode Elf Druid](Elves Wode/Statblocks/Wode Elf Druid.md#wode-elf-druid)                                                       |
-| [Wode Elf Green Seer](Elves Wode/Statblocks/Wode Elf Green Seer.md#wode-elf-green-seer)                                           |
 | [Wode Elf Greenskeeper](Elves Wode/Statblocks/Wode Elf Greenskeeper.md#wode-elf-greenskeeper)                                         |
+| [Wode Elf Green Seer](Elves Wode/Statblocks/Wode Elf Green Seer.md#wode-elf-green-seer)                                           |
 | [Wode Elf Guerrilla](Elves Wode/Statblocks/Wode Elf Guerrilla.md#wode-elf-guerrilla)                                               |
 | [Wode Elf Gweiadur](Elves Wode/Statblocks/Wode Elf Gweiadur.md#wode-elf-gweiadur)                                                 |
 | [Wode Elf Lookout](Elves Wode/Statblocks/Wode Elf Lookout.md#wode-elf-lookout)                                                   |
@@ -190,7 +191,6 @@ type: index
 | [Wode Elf Sentry](Elves Wode/Statblocks/Wode Elf Sentry.md#wode-elf-sentry)                                                     |
 | [Wode Elf Warleader](Elves Wode/Statblocks/Wode Elf Warleader.md#wode-elf-warleader)                                               |
 | [Wode Elf Yeoman](Elves Wode/Statblocks/Wode Elf Yeoman.md#wode-elf-yeoman)                                                     |
-| [Wodenelg](Elves Wode/Statblocks/Wodenelg.md#wodenelg)                                                                       |
 | [Fossil Cryptic Malice](Fossil Cryptic/Features/Fossil Cryptic Malice.md#fossil-cryptic-malice)                                       |
 | [Fossil Cryptic](Fossil Cryptic/Fossil Cryptic.md#fossil-cryptic)                                                                |
 | [Fossil Cryptic](Fossil Cryptic/Statblocks/Fossil Cryptic.md#fossil-cryptic)                                                     |
@@ -321,9 +321,9 @@ type: index
 | [Medusa](Medusas/Statblocks/Medusa.md#medusa)                                                                                |
 | [Minotaur Malice](Minotaurs/Features/Minotaur Malice.md#minotaur-malice)                                                            |
 | [Minotaurs](Minotaurs/Minotaurs.md#minotaurs)                                                                                   |
+| [Minotaur](Minotaurs/Statblocks/Minotaur.md#minotaur)                                                                          |
 | [Minotaur Bully](Minotaurs/Statblocks/Minotaur Bully.md#minotaur-bully)                                                            |
 | [Minotaur Lackey](Minotaurs/Statblocks/Minotaur Lackey.md#minotaur-lackey)                                                          |
-| [Minotaur](Minotaurs/Statblocks/Minotaur.md#minotaur)                                                                          |
 | [Minotaur Stampede](Minotaurs/Statblocks/Minotaur Stampede.md#minotaur-stampede)                                                      |
 | [Minotaur Sunderer](Minotaurs/Statblocks/Minotaur Sunderer.md#minotaur-sunderer)                                                      |
 | [Noncombatant](Noncombatant/Statblocks/Noncombatant.md#noncombatant)                                                               |
@@ -417,10 +417,10 @@ type: index
 | [Troll Ravager](Trolls/Statblocks/Troll Ravager.md#troll-ravager)                                                                 |
 | [Troll Whelp](Trolls/Statblocks/Troll Whelp.md#troll-whelp)                                                                     |
 | [Trolls](Trolls/Trolls.md#trolls)                                                                                            |
-| [Undead Malice Level 10 Malice Features](Undead/Features/Undead Malice Level 10 Malice Features.md#undead-malice-level-10-malice-features)         |
 | [Undead Malice Level 1 Malice Features](Undead/Features/Undead Malice Level 1 Malice Features.md#undead-malice-level-1-malice-features)           |
 | [Undead Malice Level 4 Malice Features](Undead/Features/Undead Malice Level 4 Malice Features.md#undead-malice-level-4-malice-features)           |
 | [Undead Malice Level 7 Malice Features](Undead/Features/Undead Malice Level 7 Malice Features.md#undead-malice-level-7-malice-features)           |
+| [Undead Malice Level 10 Malice Features](Undead/Features/Undead Malice Level 10 Malice Features.md#undead-malice-level-10-malice-features)         |
 | [Blood Starved Vampire](Undead/Statblocks/Blood Starved Vampire.md#blood-starved-vampire)                                               |
 | [Bonecage](Undead/Statblocks/Bonecage.md#bonecage)                                                                             |
 | [Crawling Claw](Undead/Statblocks/Crawling Claw.md#crawling-claw)                                                                 |
@@ -430,26 +430,26 @@ type: index
 | [Fleshflayed Shambler Zombie](Undead/Statblocks/Fleshflayed Shambler Zombie.md#fleshflayed-shambler-zombie)                                   |
 | [Flesh Mournling](Undead/Statblocks/Flesh Mournling.md#flesh-mournling)                                                             |
 | [Ghost](Undead/Statblocks/Ghost.md#ghost)                                                                                   |
-| [Ghoul Craver](Undead/Statblocks/Ghoul Craver.md#ghoul-craver)                                                                   |
 | [Ghoul](Undead/Statblocks/Ghoul.md#ghoul)                                                                                   |
+| [Ghoul Craver](Undead/Statblocks/Ghoul Craver.md#ghoul-craver)                                                                   |
 | [Giant Shambler Zombie](Undead/Statblocks/Giant Shambler Zombie.md#giant-shambler-zombie)                                               |
 | [Giant Zombie](Undead/Statblocks/Giant Zombie.md#giant-zombie)                                                                   |
 | [Haunt](Undead/Statblocks/Haunt.md#haunt)                                                                                   |
 | [Hollowbone Launcher](Undead/Statblocks/Hollowbone Launcher.md#hollowbone-launcher)                                                     |
 | [Koptourok](Undead/Statblocks/Koptourok.md#koptourok)                                                                           |
 | [Lithgekh](Undead/Statblocks/Lithgekh.md#lithgekh)                                                                             |
-| [Mummy Lord](Undead/Statblocks/Mummy Lord.md#mummy-lord)                                                                       |
 | [Mummy](Undead/Statblocks/Mummy.md#mummy)                                                                                   |
+| [Mummy Lord](Undead/Statblocks/Mummy Lord.md#mummy-lord)                                                                       |
 | [Mummy Rotwrap](Undead/Statblocks/Mummy Rotwrap.md#mummy-rotwrap)                                                                 |
 | [Rotting Zombie](Undead/Statblocks/Rotting Zombie.md#rotting-zombie)                                                               |
 | [Shade](Undead/Statblocks/Shade.md#shade)                                                                                   |
-| [Skeleton Knight](Undead/Statblocks/Skeleton Knight.md#skeleton-knight)                                                             |
 | [Skeleton](Undead/Statblocks/Skeleton.md#skeleton)                                                                             |
+| [Skeleton Knight](Undead/Statblocks/Skeleton Knight.md#skeleton-knight)                                                             |
 | [Soulwight](Undead/Statblocks/Soulwight.md#soulwight)                                                                           |
 | [Specter](Undead/Statblocks/Specter.md#specter)                                                                               |
 | [Umbral Stalker](Undead/Statblocks/Umbral Stalker.md#umbral-stalker)                                                               |
-| [Vampire Lord](Undead/Statblocks/Vampire Lord.md#vampire-lord)                                                                   |
 | [Vampire](Undead/Statblocks/Vampire.md#vampire)                                                                               |
+| [Vampire Lord](Undead/Statblocks/Vampire Lord.md#vampire-lord)                                                                   |
 | [Vampire Spawn](Undead/Statblocks/Vampire Spawn.md#vampire-spawn)                                                                 |
 | [Waxen](Undead/Statblocks/Waxen.md#waxen)                                                                                   |
 | [Wraith](Undead/Statblocks/Wraith.md#wraith)                                                                                 |
@@ -472,10 +472,10 @@ type: index
 | [Voiceless Talker Graywarper](Voiceless Talkers/Statblocks/Voiceless Talker Graywarper.md#voiceless-talker-graywarper)                      |
 | [Voiceless Talker Invader](Voiceless Talkers/Statblocks/Voiceless Talker Invader.md#voiceless-talker-invader)                            |
 | [Voiceless Talkers](Voiceless Talkers/Voiceless Talkers.md#voiceless-talkers)                                                       |
-| [War Dog Malice Level 10 Malice Features](War Dogs/Features/War Dog Malice Level 10 Malice Features.md#war-dog-malice-level-10-malice-features) |
 | [War Dog Malice Level 1 Malice Features](War Dogs/Features/War Dog Malice Level 1 Malice Features.md#war-dog-malice-level-1-malice-features)   |
 | [War Dog Malice Level 4 Malice Features](War Dogs/Features/War Dog Malice Level 4 Malice Features.md#war-dog-malice-level-4-malice-features)   |
 | [War Dog Malice Level 7 Malice Features](War Dogs/Features/War Dog Malice Level 7 Malice Features.md#war-dog-malice-level-7-malice-features)   |
+| [War Dog Malice Level 10 Malice Features](War Dogs/Features/War Dog Malice Level 10 Malice Features.md#war-dog-malice-level-10-malice-features) |
 | [Castellan Hoplon](War Dogs/Statblocks/Castellan Hoplon.md#castellan-hoplon)                                                       |
 | [Iron Champion Doru](War Dogs/Statblocks/Iron Champion Doru.md#iron-champion-doru)                                                 |
 | [Logostician Vesper](War Dogs/Statblocks/Logostician Vesper.md#logostician-vesper)                                                   |

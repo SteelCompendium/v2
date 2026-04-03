@@ -5,19 +5,6 @@ type: index
 
 # Conduit Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Avatar](10th-Level Features/Avatar.md#avatar)
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Divine Power](10th-Level Features/Divine Power.md#divine-power)
-- [Most Pious](10th-Level Features/Most Pious.md#most-pious)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -59,8 +46,8 @@ type: index
     - [Sun Domain Piety and Effect](1st-Level Features/Piety/Domain Piety And Effects/Sun Domain Piety and Effect.md#sun-domain-piety-and-effect)
     - [Trickery Domain Piety and Effect](1st-Level Features/Piety/Domain Piety And Effects/Trickery Domain Piety and Effect.md#trickery-domain-piety-and-effect)
     - [War Domain Piety and Effect](1st-Level Features/Piety/Domain Piety And Effects/War Domain Piety and Effect.md#war-domain-piety-and-effect)
-    - [Piety in Combat](1st-Level Features/Piety/Piety in Combat.md#piety-in-combat)
     - [Piety Outside of Combat](1st-Level Features/Piety/Piety Outside of Combat.md#piety-outside-of-combat)
+    - [Piety in Combat](1st-Level Features/Piety/Piety in Combat.md#piety-in-combat)
 - [Prayer](1st-Level Features/Prayer.md#prayer)
     - [Prayer of Destruction](1st-Level Features/Prayer/Prayer of Destruction.md#prayer-of-destruction)
     - [Prayer of Distance](1st-Level Features/Prayer/Prayer of Distance.md#prayer-of-distance)
@@ -172,5 +159,18 @@ type: index
 - [9th Level Domain Ability](9th-Level Features/9th Level Domain Ability.md#9th-level-domain-ability)
 - [Faiths Sword](9th-Level Features/Faiths Sword.md#faiths-sword)
 - [Ordained](9th-Level Features/Ordained.md#ordained)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Avatar](10th-Level Features/Avatar.md#avatar)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Divine Power](10th-Level Features/Divine Power.md#divine-power)
+- [Most Pious](10th-Level Features/Most Pious.md#most-pious)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
 
 </div>

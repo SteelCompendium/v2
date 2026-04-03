@@ -9,16 +9,9 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Discipline Mastery Improvement](10th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement)
-- [Manifold Body](10th-Level Features/Manifold Body.md#manifold-body)
-- [Manifold Resonance](10th-Level Features/Manifold Resonance.md#manifold-resonance)
-- [Order](10th-Level Features/Order.md#order)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
 - [Discipline](1st-Level Features/Discipline.md#discipline)
-    - [Discipline in Combat](1st-Level Features/Discipline/Discipline in Combat.md#discipline-in-combat)
     - [Discipline Outside of Combat](1st-Level Features/Discipline/Discipline Outside of Combat.md#discipline-outside-of-combat)
+    - [Discipline in Combat](1st-Level Features/Discipline/Discipline in Combat.md#discipline-in-combat)
 - [Discipline Mastery](1st-Level Features/Discipline Mastery.md#discipline-mastery)
     - [Chronokinetic Mastery](1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md#chronokinetic-mastery)
     - [Cryokinetic Mastery](1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokinetic-mastery)
@@ -75,6 +68,13 @@ type: index
     - [9th Level Cryokinetic Abilities](9th-Level Features/9th-Level Tradition Ability/9th Level Cryokinetic Abilities.md#9th-level-cryokinetic-abilities)
     - [9th Level Metakinetic Abilities](9th-Level Features/9th-Level Tradition Ability/9th Level Metakinetic Abilities.md#9th-level-metakinetic-abilities)
 - [I Am the Weapon](9th-Level Features/I Am the Weapon.md#i-am-the-weapon)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Discipline Mastery Improvement](10th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement)
+- [Manifold Body](10th-Level Features/Manifold Body.md#manifold-body)
+- [Manifold Resonance](10th-Level Features/Manifold Resonance.md#manifold-resonance)
+- [Order](10th-Level Features/Order.md#order)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
 
 </div>
 

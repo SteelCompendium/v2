@@ -14,7 +14,7 @@ type: complication
 
 #### Guilty Conscience
 
-The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. Now it's your mission to repair the damage you caused.
+The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. [Now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) it's your mission to repair the damage you caused.
 
 **Benefit:** You're determined to stay alive so you can set things right. When your Stamina reaches the negative of your winded value, you can use a free triggered action to spend a Recovery.
 

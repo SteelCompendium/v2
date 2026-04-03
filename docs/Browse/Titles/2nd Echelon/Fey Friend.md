@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Fey Friend
 
-*Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
+*Do you enjoy the vintage? Yes, you can understand my tongue [now](../../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now). One does not drink at my table and leave unchanged.*
 
 **Prerequisite:** You eat and drink with an elf monarch or archfey.
 

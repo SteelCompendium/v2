@@ -28,7 +28,7 @@ The five children stood alone in the center of a large circular courtyard open t
 
 "They seem like..." Meliora said, searching for the words.
 
-"Like the lords of all the world," Wenna said with awe and wonder. "And we are their prisoners," Jeremy said, looking at his brother Dade and Credan beside him.
+"Like the lords of all the world," Wenna said with [awe](../../Browse/Abilities/Talent/1st-Level Features/Awe.md#awe) and wonder. "And we are their prisoners," Jeremy said, looking at his brother Dade and Credan beside him.
 
 "You're not prisoners," Llyander said quietly. "You are guests. You're safer here than you would be even in your own homes."
 
@@ -36,7 +36,7 @@ The five children stood alone in the center of a large circular courtyard open t
 
 "Who are you kidding?" Dade said. "Everyone knows how much elves hate [humans](../../Browse/Ancestries/Human.md#human)."
 
-At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
+At this, Lord Tear exchanged a [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) with Llyander, consort to Queen Imyrr. It was a knowing [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look), full of sadness and melancholy. Then he broke his silence.
 
 "Show me an elf who hates [humans](../../Browse/Ancestries/Human.md#human)," he said, his voice deep and sonorous, "and I will show you an elf who loved a [human](../../Browse/Ancestries/Human.md#human) and watched them grow old and die." He looked at the children for the first time and smiled a melancholy smile. "Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us."
 
@@ -64,7 +64,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 "I'm surprised how kind he is," Jeremy said. "He seems a good king." Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventually she couldn't resist. "What?"
 
-Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) spoke, their back was to the king.
+Llyander raised an eyebrow, then walked in front of the children so that as the [wode elf](../../Browse/Ancestries/Wode Elf.md#wode-elf) spoke, their [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) was to the king.
 
 "Do you remember when my cousin's soldiers hid in the wode?" they said, their voice low. "How astonished you were?"
 
@@ -80,7 +80,7 @@ Llyander put a finger to their lips, silencing young Meliora. "It is not a thing
 
 Llyander shrugged. "What does anyone really look like?" And while the other children chalked this up to their escort's normally abstruse mode of communication, Meliora caught a glimpse of understanding somewhere in her mind.
 
-The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](../../Browse/Ancestries/Human.md#human) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
+The king turned [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](../../Browse/Ancestries/Human.md#human) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 

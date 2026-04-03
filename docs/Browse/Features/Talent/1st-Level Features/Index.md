@@ -37,8 +37,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Clarity in Combat](Clarity And Strain/Clarity in Combat.md#clarity-in-combat)
     - [Clarity Outside of Combat](Clarity And Strain/Clarity Outside of Combat.md#clarity-outside-of-combat)
+    - [Clarity in Combat](Clarity And Strain/Clarity in Combat.md#clarity-in-combat)
 
 </div>
 

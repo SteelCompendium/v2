@@ -14,7 +14,7 @@ type: class
 
 ## Fury
 
-You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
+You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now), like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
 **As a [fury](../../Browse/Classes/Fury.md#fury), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) increases. Nature has no concept of fairness—and neither do you.**
 
@@ -95,7 +95,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 Though you can't gain [ferocity outside of combat](../../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md#ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../../Browse/Abilities/Fury/1st-Level Features/To the Uttermost End.md#to-the-uttermost-end), you can use it as if you had spent an amount of [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) equal to your Victories.
 
 #### Growing Ferocity
 
@@ -300,7 +300,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 ###### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back)!)
 
 <!-- -->
 > ###### Back! (3 Ferocity)
@@ -372,7 +372,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../Browse/Abilities/Fury/1st-Level Features/Blood for Blood.md#blood-for-blood)!)
 
 <!-- -->
 > ###### Blood for Blood! (5 Ferocity)
@@ -806,7 +806,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 #### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../../Browse/Movement/Teleport.md#teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../../Browse/Movement/Teleport.md#teleport) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../../Browse/Movement/Teleport.md#teleport) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../../Browse/Movement/Teleport.md#teleport) [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -974,7 +974,7 @@ Your [primordial aspect](../../Browse/Features/Fury/1st-Level Features/Primordia
 
 ##### Menagerie
 
-You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md#natures-knight) feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all stormwight kits. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your [Nature's Knight](../../Browse/Features/Fury/3rd-Level Features/3rd-Level Aspect Feature/Natures Knight.md#natures-knight) feature [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 ##### A Step Ahead
 
@@ -1198,7 +1198,7 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power). Each time you finish a respite, you gain [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) equal to the XP you gain. You can spend [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) on your abilities as if it were [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power). Each time you finish a respite, you gain [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) equal to the XP you gain. You can spend [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) on your abilities as if it were [ferocity](../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
 
 Additionally, you can spend any amount of [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) as a free maneuver, ending one effect on you for each [primordial power](../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) spent.
 
@@ -1407,7 +1407,7 @@ Your primordial damage type is corruption.
 
 ###### Driving Pounce
 
-*Your enemies try in vain to fall back from your pouncing attack.*
+*Your enemies try in vain to fall [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) from your pouncing attack.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -1467,7 +1467,7 @@ Your primordial damage type is lightning.
 
 ###### Unbalancing Attack
 
-*A wild assault forces your foe onto their back.*
+*A wild assault forces your foe onto their [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back).*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |

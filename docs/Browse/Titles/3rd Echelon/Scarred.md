@@ -15,7 +15,7 @@ type: title/3rd-echelon
 
 #### Scarred
 
-*Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.*
+*Last time we fought, I gave you a little token to remember me by... [now](../../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) it appears you need another reminder of my power.*
 
 **Prerequisite:** An enemy leader or solo creature reduces you to 0 Stamina.
 

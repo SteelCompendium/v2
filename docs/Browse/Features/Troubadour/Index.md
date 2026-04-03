@@ -5,19 +5,6 @@ type: index
 
 # Troubadour Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Applause](10th-Level Features/Applause.md#applause)
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Dramaturgy](10th-Level Features/Dramaturgy.md#dramaturgy)
-- [Greatest of All Time](10th-Level Features/Greatest of All Time.md#greatest-of-all-time)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -31,8 +18,8 @@ type: index
     - [Virtuoso Performances](1st-Level Features/1st-Level Class Act Features/Virtuoso Performances.md#virtuoso-performances)
 - [Class Act Triggered Action](1st-Level Features/Class Act Triggered Action.md#class-act-triggered-action)
 - [Drama](1st-Level Features/Drama.md#drama)
-    - [Drama in Combat](1st-Level Features/Drama/Drama in Combat.md#drama-in-combat)
     - [Drama Outside of Combat](1st-Level Features/Drama/Drama Outside of Combat.md#drama-outside-of-combat)
+    - [Drama in Combat](1st-Level Features/Drama/Drama in Combat.md#drama-in-combat)
 - [Kit](1st-Level Features/Kit.md#kit)
 - [Routines](1st-Level Features/Routines.md#routines)
 - [Scene Partner](1st-Level Features/Scene Partner.md#scene-partner)
@@ -148,5 +135,18 @@ type: index
     - [9th Level Duelist Abilities](9th-Level Features/9th-Level Class Act Ability/9th Level Duelist Abilities.md#9th-level-duelist-abilities)
     - [9th Level Virtuoso Abilities](9th-Level Features/9th-Level Class Act Ability/9th Level Virtuoso Abilities.md#9th-level-virtuoso-abilities)
 - [Roar of the Crowd](9th-Level Features/Roar of the Crowd.md#roar-of-the-crowd)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Applause](10th-Level Features/Applause.md#applause)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Dramaturgy](10th-Level Features/Dramaturgy.md#dramaturgy)
+- [Greatest of All Time](10th-Level Features/Greatest of All Time.md#greatest-of-all-time)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
 
 </div>

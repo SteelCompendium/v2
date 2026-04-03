@@ -29,8 +29,8 @@ type: index
 - [Ive Got You](Exploration Perks/Ive Got You.md#ive-got-you)
 - [Monster Whisperer](Exploration Perks/Monster Whisperer.md#monster-whisperer)
 - [Put Your Back Into It](Exploration Perks/Put Your Back Into It.md#put-your-back-into-it)
-- [Team Leader](Exploration Perks/Team Leader.md#team-leader)
 - [Teamwork](Exploration Perks/Teamwork.md#teamwork)
+- [Team Leader](Exploration Perks/Team Leader.md#team-leader)
 - [Wood Wise](Exploration Perks/Wood Wise.md#wood-wise)
 
 </div>

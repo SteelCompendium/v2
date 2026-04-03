@@ -7,32 +7,32 @@ type: index
 
 | File Name                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Ambusher abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)   |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Ambusher abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)     |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Ambusher abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)     |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Artillery abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)  |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Ambusher abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)   |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Artillery abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)    |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Artillery abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)    |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Brute abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Artillery abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)  |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Brute abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)        |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Brute abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)        |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Controller abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability) |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Brute abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Controller abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)   |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Controller abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)   |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Defender abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)   |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Controller abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability) |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Defender abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)     |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Defender abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)     |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Harrier abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)    |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Defender abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)   |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Harrier abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)      |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Harrier abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)      |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Hexer abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Harrier abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)    |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Hexer abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)        |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Mount abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Hexer abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Mount abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)        |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Mount abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)        |
-| [Level 10 Role Advancement Ability](Role Advancement Abilities/Support abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)    |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Mount abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)      |
 | [Level 4 Role Advancement Ability](Role Advancement Abilities/Support abilities/Level 4 Role Advancement Ability.md#level-4-role-advancement-ability)      |
 | [Level 7 Role Advancement Ability](Role Advancement Abilities/Support abilities/Level 7 Role Advancement Ability.md#level-7-role-advancement-ability)      |
+| [Level 10 Role Advancement Ability](Role Advancement Abilities/Support abilities/Level 10 Role Advancement Ability.md#level-10-role-advancement-ability)    |
 | [Angulotl Hopper](Statblocks/Angulotl Hopper.md#angulotl-hopper)                                                                                      |
 | [Bugbear Commando](Statblocks/Bugbear Commando.md#bugbear-commando)                                                                                    |
 | [Devil Defector](Statblocks/Devil Defector.md#devil-defector)                                                                                        |

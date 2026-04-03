@@ -76,7 +76,7 @@ Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level Features/Tact
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
+The ring of [steel](../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) panics others but brings order to your mind, granting you a Heroic Resource called [focus](../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
 
 ##### Focus in Combat
 
@@ -270,7 +270,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 ###### 3-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike.)
+Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../Browse/Abilities/Tactician/1st-Level Features/Inspiring Strike.md#inspiring-strike).)
 
 <!-- -->
 > ###### Battle Cry (3 Focus)
@@ -330,7 +330,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 #### 5-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil.)
+Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](../../Browse/Abilities/Tactician/1st-Level Features/Hammer and Anvil.md#hammer-and-anvil).)
 
 <!-- -->
 > ###### Hammer and Anvil (5 Focus)
@@ -856,7 +856,7 @@ Your [tactical doctrine](../../Browse/Features/Tactician/1st-Level Features/Tact
 
 ##### Asymmetric Warfare
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 ##### Grand Strategy
 
@@ -1082,7 +1082,7 @@ Your Might and Reason scores each increase to 5.
 
 #### Command
 
-You have an epic resource called [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command). Each time you finish a respite, you gain [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command) equal to the XP you gain. You can spend [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command) on your abilities as if it were [focus](../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command). Each time you finish a respite, you gain [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command) equal to the XP you gain. You can spend [command](../../Browse/Features/Tactician/10th-Level Features/Command.md#command) on your abilities as if it were [focus](../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
 
 Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
 

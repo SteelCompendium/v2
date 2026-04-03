@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Special Agent
 
-*And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
+*And this is interesting... if you twist the third button on your overcoat no, don't do it [now](../../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now)!*
 
 **Prerequisite:** A spymaster gives you an important secret mission.
 

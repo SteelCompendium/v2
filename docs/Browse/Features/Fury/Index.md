@@ -9,13 +9,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Chaos Incarnate](10th-Level Features/Chaos Incarnate.md#chaos-incarnate)
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Growing Ferocity Improvement](10th-Level Features/Growing Ferocity Improvement.md#growing-ferocity-improvement)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Primordial Ferocity](10th-Level Features/Primordial Ferocity.md#primordial-ferocity)
-- [Primordial Power](10th-Level Features/Primordial Power.md#primordial-power)
-- [Skill](10th-Level Features/Skill.md#skill)
 - [1st Level Aspect Features](1st-Level Features/1st Level Aspect Features.md#1st-level-aspect-features)
     - [Beast Shape](1st-Level Features/1st-Level Aspect Features/Beast Shape.md#beast-shape)
     - [Kit](1st-Level Features/1st-Level Aspect Features/Kit.md#kit)
@@ -24,8 +17,8 @@ type: index
     - [Relentless Hunter](1st-Level Features/1st-Level Aspect Features/Relentless Hunter.md#relentless-hunter)
 - [Aspect Triggered Action](1st-Level Features/Aspect Triggered Action.md#aspect-triggered-action)
 - [Ferocity](1st-Level Features/Ferocity.md#ferocity)
-    - [Ferocity in Combat](1st-Level Features/Ferocity/Ferocity in Combat.md#ferocity-in-combat)
     - [Ferocity Outside of Combat](1st-Level Features/Ferocity/Ferocity Outside of Combat.md#ferocity-outside-of-combat)
+    - [Ferocity in Combat](1st-Level Features/Ferocity/Ferocity in Combat.md#ferocity-in-combat)
 - [Fury Abilities](1st-Level Features/Fury Abilities.md#fury-abilities)
     - [Heroic Abilities](1st-Level Features/Fury Abilities/Heroic Abilities.md#heroic-abilities)
     - [Signature Ability](1st-Level Features/Fury Abilities/Signature Ability.md#signature-ability)
@@ -77,6 +70,13 @@ type: index
     - [9th Level Reaver Abilities](9th-Level Features/9th-Level Aspect Ability/9th Level Reaver Abilities.md#9th-level-reaver-abilities)
     - [9th Level Stormwight Abilities](9th-Level Features/9th-Level Aspect Ability/9th Level Stormwight Abilities.md#9th-level-stormwight-abilities)
 - [Harbinger of the Primordial Chaos](9th-Level Features/Harbinger of the Primordial Chaos.md#harbinger-of-the-primordial-chaos)
+- [Chaos Incarnate](10th-Level Features/Chaos Incarnate.md#chaos-incarnate)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Growing Ferocity Improvement](10th-Level Features/Growing Ferocity Improvement.md#growing-ferocity-improvement)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Primordial Ferocity](10th-Level Features/Primordial Ferocity.md#primordial-ferocity)
+- [Primordial Power](10th-Level Features/Primordial Power.md#primordial-power)
+- [Skill](10th-Level Features/Skill.md#skill)
 
 </div>
 

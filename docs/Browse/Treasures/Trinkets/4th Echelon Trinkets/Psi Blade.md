@@ -20,7 +20,7 @@ type: treasure/trinkets/4th-echelon
 
 **Keywords:** Arms, Psionic
 
-**Item Prerequisite:** Steel alloy, one fine-cut topaz
+**Item Prerequisite:** [Steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) alloy, one fine-cut topaz
 
 **Project Source:** Texts or lore in Mindspeech
 

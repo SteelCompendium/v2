@@ -5,23 +5,6 @@ type: index
 
 # Elementalist Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Breath](10th-Level Features/Breath.md#breath)
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Essential Being](10th-Level Features/Essential Being.md#essential-being)
-- [One](10th-Level Features/One.md#one)
-    - [Master of Earth](10th-Level Features/One/Master of Earth.md#master-of-earth)
-    - [Master of Fire](10th-Level Features/One/Master of Fire.md#master-of-fire)
-    - [Master of Green](10th-Level Features/One/Master of Green.md#master-of-green)
-    - [Master of Void](10th-Level Features/One/Master of Void.md#master-of-void)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -51,8 +34,8 @@ type: index
     - [Enchantment of Distance](1st-Level Features/Enchantment/Enchantment of Distance.md#enchantment-of-distance)
     - [Enchantment of Permanence](1st-Level Features/Enchantment/Enchantment of Permanence.md#enchantment-of-permanence)
 - [Essence](1st-Level Features/Essence.md#essence)
-    - [Essence in Combat](1st-Level Features/Essence/Essence in Combat.md#essence-in-combat)
     - [Essence Outside of Combat](1st-Level Features/Essence/Essence Outside of Combat.md#essence-outside-of-combat)
+    - [Essence in Combat](1st-Level Features/Essence/Essence in Combat.md#essence-in-combat)
 - [Hurl Element](1st-Level Features/Hurl Element.md#hurl-element)
 - [Persistent Magic](1st-Level Features/Persistent Magic.md#persistent-magic)
 - [Practical Magic](1st-Level Features/Practical Magic.md#practical-magic)
@@ -154,5 +137,22 @@ type: index
 
 - [Grand Wyrding](9th-Level Features/Grand Wyrding.md#grand-wyrding)
 - [New 11 Essence Ability](9th-Level Features/New 11 Essence Ability.md#new-11-essence-ability)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Breath](10th-Level Features/Breath.md#breath)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Essential Being](10th-Level Features/Essential Being.md#essential-being)
+- [One](10th-Level Features/One.md#one)
+    - [Master of Earth](10th-Level Features/One/Master of Earth.md#master-of-earth)
+    - [Master of Fire](10th-Level Features/One/Master of Fire.md#master-of-fire)
+    - [Master of Green](10th-Level Features/One/Master of Green.md#master-of-green)
+    - [Master of Void](10th-Level Features/One/Master of Void.md#master-of-void)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
 
 </div>

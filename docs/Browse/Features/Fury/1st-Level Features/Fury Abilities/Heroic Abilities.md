@@ -22,7 +22,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 ###### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](../../../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back)!)
 
 <!-- -->
 > ###### Back! (3 Ferocity)
@@ -94,7 +94,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../../../../Browse/Abilities/Fury/1st-Level Features/Blood for Blood.md#blood-for-blood)!)
 
 <!-- -->
 > ###### Blood for Blood! (5 Ferocity)

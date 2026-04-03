@@ -30,7 +30,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 ###### 3-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike.)
+Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../../../Browse/Abilities/Tactician/1st-Level Features/Inspiring Strike.md#inspiring-strike).)
 
 <!-- -->
 > ###### Battle Cry (3 Focus)

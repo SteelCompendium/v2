@@ -39,20 +39,20 @@ The Director should make an agenda for a campaign's first session often called "
 
 ### Step-by-Step Hero Making
 
-Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
+Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
 
-Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class—the choices with the most potential impact on what your character can do in the game—and then going back and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to look to learn about [ancestries](../Chapters/Ancestries.md#ancestries), [classes](../Chapters/Classes.md#classes), and other options.)
+Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class—the choices with the most potential impact on what your character can do in the game—and then going [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) to learn about [ancestries](../Chapters/Ancestries.md#ancestries), [classes](../Chapters/Classes.md#classes), and other options.)
 
 You'll want a character sheet to fill out while you make your hero.
 
 Each option you can choose for your hero at 1st level includes a parenthetical selection labeled "Quick Build." This is for players who want to build a character faster without reading through all the available options, by choosing the most straightforward and archetypal option for a hero. Most quick build options don't select languages for you, because your Director knows better than us which languages will be most useful in your campaign. In addition to being called out in the text, quick build ability options within [classes](../Chapters/Classes.md#classes) are indicated by a gold icon.
 
-If this is your first time making a hero, don't stress! The first time you build a character for *Draw Steel*, it might take an hour or so. Don't rush the process. Set aside some time, enjoy digging into all the options, and if you can, make your character alongside friends who are playing in the same game. The process gets a lot faster after you've done it once.
+If this is your first time making a hero, don't stress! The first time you build a character for *Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)*, it might take an hour or so. Don't rush the process. Set aside some time, enjoy digging into all the options, and if you can, make your character alongside friends who are playing in the same game. The process gets a lot faster after you've done it once.
 
 <!-- -->
 > **Character Sheets**
 >
-> You can download and print out character sheets and other free resources for *Draw Steel* at *<https://mcdm.gg/DS-Resources>*.
+> You can download and print out character sheets and other free resources for *Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)* at *<https://mcdm.gg/DS-Resources>*.
 
 #### 1. Think
 
@@ -84,7 +84,7 @@ Choose or create your hero's culture. Although ancestry gives your hero any numb
 <!-- -->
 > **Choosing Skills**
 >
-> This game has lots of skills (as detailed in [Skills](#page-268-0) in Chapter 9: Tests), and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might choose from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
+> This game has lots of skills (as detailed in [Skills](#page-268-0) in Chapter 9: Tests), and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might choose from the different steps of the character creation process, then making your choices at the end of that process rather than flipping [back](../Browse/Abilities/Fury/1st-Level Features/Back.md#back) and forth through the book.
 
 <!-- -->
 > If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from any skill group.
@@ -140,18 +140,18 @@ See [Free Strikes](../Browse/Abilities/Common/Main Actions/Free Strike.md#free-s
 
 #### 8. Complication
 
-Complications represent those dramatic moments in a character's backstory that give them pathos, a dramatic reason to be an outsider, doubts about the meaning of life, an urge to avoid intimacy, or an unstoppable vendetta against an enemy from the past. Each complica tion grants a benefit and a drawback that make a character more three dimensional, but complications aren't necessary for making a great hero. Check with your Director as to whether your game is using them, and see Chapter 8: Complications for more information.
+Complications represent those dramatic moments in a character's backstory that give them pathos, a dramatic reason to be an outsider, [doubts](../Browse/Abilities/Talent/8th-Level Features/Doubt.md#doubt) about the meaning of life, an urge to avoid intimacy, or an unstoppable vendetta against an enemy from the past. Each complica tion grants a benefit and a drawback that make a character more three dimensional, but complications aren't necessary for making a great hero. Check with your Director as to whether your game is using them, and see Chapter 8: Complications for more information.
 
 #### 9. Determine Details
 
-Once you've created your hero, it's time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career and inciting incident, and class tie together into a cohesive narrative? What's their name? What do they look like? Do they have any cool scars? Any sweet tattoos? Do they still sleep with their teddy bear? These kinds of details can help define a well-rounded hero.
+Once you've created your hero, it's time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career and inciting incident, and class tie together into a cohesive narrative? What's their name? What do they [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) like? Do they have any cool scars? Any sweet tattoos? Do they still sleep with their teddy bear? These kinds of details can help define a well-rounded hero.
 
 #### 10. Make Connections
 
 Ask the Director if all the heroes start the campaign knowing each other. If they do, talk to the other players and build some connections between your characters. If you like, you can use the following prompts to make those connections, or to come up with prompts of your own:
 
 - When you were fighting a monster, one of the party members saved your life. What were you battling and who saved you?
-- In your group, who looks after everyone's health and well-being, and makes sure that all the characters get along? If it's not you, how do you view this other hero?
+- In your group, who [looks](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) after everyone's health and well-being, and makes sure that all the characters get along? If it's not you, how do you view this other hero?
 - Who is the grumpiest member of your party? If it isn't you, how do you react to that hero's sour nature? If it is you, how do you react to other characters teasing you or trying to cheer you up?
 - What's one thing your fellow heroes know about you that other people do not?
 - What's your favorite way to bond with your fellow heroes?
@@ -163,7 +163,7 @@ Answer these questions with the other players present, and be sure to get a play
 
 ### Adventuring Gear
 
-*Draw Steel* isn't a game about tracking gear, so you don't need to list every piece of equipment you own on your character sheet. The game assumes that heroes generally have enough to eat and drink, so the rules don't expect you to track food and water either.
+*Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)* isn't a game about tracking gear, so you don't need to list every piece of equipment you own on your character sheet. The game assumes that heroes generally have enough to eat and drink, so the rules don't expect you to track food and water either.
 
 If your character has a skill that implicitly requires gear, such as lockpicks for the Pick Lock skill or basic alchemy supplies for use with the Alchemy skill, then you have that gear. Likewise, your character is assumed to have standard useful adventuring gear, including a torch, a rope, and a backpack at minimum.
 
@@ -183,11 +183,11 @@ An optional rule the Director can include in your game is to allow heroes to cha
 
 Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your Stamina increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](../Chapters/Classes.md#classes).
 
-In the standard setup for the game, heroes gain Experience each time they finish a respite (see Building a Heroic Narrative in Chapter 1: The Basics). When you gain sufficient Experience, you gain a level during the same respite. The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
+In the standard [setup](../Browse/Abilities/Shadow/1st-Level Features/Setup.md#setup) for the game, heroes gain Experience each time they finish a respite (see Building a Heroic Narrative in Chapter 1: The Basics). When you gain sufficient Experience, you gain a level during the same respite. The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 
 #### Alternative Advancement
 
-Though many games might advance using the standard setup for heroic advancement, the Director can decide that their game uses different advancement. Check with your Director about what method of advancement they plan to use.
+Though many games might advance using the standard [setup](../Browse/Abilities/Shadow/1st-Level Features/Setup.md#setup) for heroic advancement, the Director can decide that their game uses different advancement. Check with your Director about what method of advancement they plan to use.
 
 ##### Adjusted XP Advancement
 

@@ -94,7 +94,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 ###### 5-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
+Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../../../../Browse/Abilities/Elementalist/1st-Level Features/Conflagration.md#conflagration).)
 
 <!-- -->
 > ###### Conflagration (5 Essence)

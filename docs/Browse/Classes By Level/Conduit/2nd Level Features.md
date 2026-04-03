@@ -34,20 +34,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                      |
-| ---------- | ---------------------------- |
-| Creation   | Statue of Power              |
-| Death      | Reap                         |
-| Fate       | Blessing of Fate and Destiny |
-| Knowledge  | The Gods Command You Obey    |
-| Life       | Wellspring of Grace          |
-| Love       | Our Hearts Your Strength     |
-| Nature     | Nature Judges Thee           |
-| Protection | Sacred Bond                  |
-| Storm      | Saint's Tempest              |
-| Sun        | Morning Light                |
-| Trickery   | Divine Comedy                |
-| War        | Blessing of Insight          |
+| Domain                                                                                 | Ability                                                                                                                                         |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | [Statue of Power](../../../Browse/Abilities/Conduit/2nd-Level Features/Statue of Power.md#statue-of-power)                               |
+| Death                                                                                  | [Reap](../../../Browse/Abilities/Conduit/2nd-Level Features/Reap.md#reap)                                                         |
+| [Fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Blessing of Fate and Destiny](../../../Browse/Abilities/Conduit/2nd-Level Features/Blessing of Fate and Destiny.md#blessing-of-fate-and-destiny) |
+| Knowledge                                                                              | [The Gods Command You Obey](../../../Browse/Abilities/Conduit/2nd-Level Features/The Gods Command You Obey.md#the-gods-command-you-obey)       |
+| Life                                                                                   | [Wellspring of Grace](../../../Browse/Abilities/Conduit/2nd-Level Features/Wellspring of Grace.md#wellspring-of-grace)                       |
+| Love                                                                                   | [Our Hearts Your Strength](../../../Browse/Abilities/Conduit/2nd-Level Features/Our Hearts Your Strength.md#our-hearts-your-strength)           |
+| Nature                                                                                 | [Nature Judges Thee](../../../Browse/Abilities/Conduit/2nd-Level Features/Nature Judges Thee.md#nature-judges-thee)                         |
+| Protection                                                                             | [Sacred Bond](../../../Browse/Abilities/Conduit/2nd-Level Features/Sacred Bond.md#sacred-bond)                                         |
+| Storm                                                                                  | [Saint's Tempest](../../../Browse/Abilities/Conduit/2nd-Level Features/Saints Tempest.md#saints-tempest)                                  |
+| Sun                                                                                    | [Morning Light](../../../Browse/Abilities/Conduit/2nd-Level Features/Morning Light.md#morning-light)                                     |
+| Trickery                                                                               | [Divine Comedy](../../../Browse/Abilities/Conduit/2nd-Level Features/Divine Comedy.md#divine-comedy)                                     |
+| War                                                                                    | [Blessing of Insight](../../../Browse/Abilities/Conduit/2nd-Level Features/Blessing of Insight.md#blessing-of-insight)                       |
 
 <!-- -->
 > ###### Blessing of Fate and Destiny (5 Piety)
