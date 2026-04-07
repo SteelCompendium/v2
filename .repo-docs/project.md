@@ -1,94 +1,78 @@
----
-repo: v2
-type: tool
----
+# Product Overview
 
-# Project Context
+The Steel Compendium v2 site provides a structured, searchable web reference for the Draw Steel tabletop RPG by MCDM Productions. It replaces the v1 site with improved navigation (tabbed Browse/Read/Full Book layout), deduplicated search, and custom UI enhancements for table play.
 
-## Product Overview
-
-Steel Compendium v2 is a free, community reference site for the Draw Steel tabletop RPG by MCDM Productions. It publishes the full rulebook content in three reading modes -- modular browse pages, chapter-ordered reading, and a single-page full book -- plus a bestiary section. The site is optimized for fast lookup during game sessions: instant search, shareable per-item URLs, keyboard navigation, and customizable display preferences.
-
-It replaced the v1 site to solve duplicate search results (caused by mike versioning) and to add tabbed navigation.
+Published under the DRAW STEEL Creator License as an independent fan project.
 
 ## Domain Context
 
-Draw Steel is a tactical fantasy TTRPG. The rules cover hero creation (ancestry, class, kit, career, culture, complications), combat (abilities, conditions, movement), negotiation, downtime, and rewards. The system uses a 2d10 + modifier roll against a target number, with three tiers of result. Heroes progress through four "echelons" of play.
+Draw Steel is a tactical fantasy TTRPG. The rules cover hero creation (ancestry, class, kit, career, culture), tactical combat on a grid, negotiation encounters, and downtime activities. Content is organized hierarchically: classes contain abilities at different levels, kits provide stat modifications, titles grant progression rewards.
 
-Content is published under the DRAW STEEL Creator License. This site is an independent community product, not affiliated with MCDM Productions.
+The site must present this content in two complementary ways:
+1. **Browse** -- modular lookup pages for quick reference at the table (e.g., find one ability)
+2. **Read** -- sequential chapter order for learning the rules
 
 ## Key Concepts
 
-| Concept | In the code as | Meaning |
-|---------|---------------|---------|
-| Browse | `docs/Browse/`, tab | Modular pages -- one page per rule/ability/class/etc. |
-| Read | `docs/Read/`, tab | Chapter-ordered reading of the rulebook |
-| Full Book | `docs/Full Book/`, tab | Entire rulebook on a single page |
-| Bestiary | `docs/Bestiary/`, tab | Monsters book content |
-| Search exclusion | YAML front matter `search: exclude: true` | Read + Full Book pages excluded from search to prevent duplicates |
-| Static content | `static_content/` | Hand-authored pages that override generated content |
-| Index transform | `scripts/transform_indexes.py` | Converts table-format `_Index.md` into grid card layouts |
-| Data update | `just update` | Clones upstream data, restructures into tabs, fixes links, injects front matter |
-| SCC | Steel Compendium Classification | Hierarchical ID system (`source:type:item`) used across data repos |
+| Concept | Explanation |
+|---------|-------------|
+| Browse section | Modular rules pages organized by category. Only section indexed by search. |
+| Read section | Rulebook chapters in book order. Search-excluded to avoid duplicate results. |
+| Full Book section | Single-page versions of the full rulebook. Search-excluded. |
+| Bestiary | Monster reference section with stat blocks and encounter building. |
+| Grid card layout | Index pages transformed from markdown tables into visual card grids by `transform_indexes.py`. |
+| Search exclusion | YAML front matter (`search: exclude: true`) injected into Read/Full Book pages at build time. |
+| Static content overrides | Hand-authored pages in `static_content/docs/` that replace generated pages after data pull. |
+| data-md-linked | Upstream repo containing all rules markdown with cross-reference links. Source of truth for content. |
+| SCC | Steel Compendium Classification -- hierarchical ID system used across data repos (e.g., `mcdm.heroes.v1:abilities.fury:gouge`). |
 
 ## Glossary
 
-| Term | Definition |
-|------|-----------|
+| Term | Meaning |
+|------|---------|
 | Ancestry | A hero's species/lineage (Human, Dwarf, Dragon Knight, etc.) |
-| Career | A hero's profession before adventuring (Artisan, Criminal, Sage, etc.) |
-| Class | A hero's combat role (Fury, Shadow, Tactician, etc.). 9 classes total. |
-| Complication | Optional backstory hook (100 available) |
-| Condition | Status effect in combat (Bleeding, Dazed, Grabbed, etc.) |
-| Culture | Background that shapes a hero's upbringing |
-| Echelon | Tier of play (1st through 4th), determining power level |
-| Kit | Equipment/style package that modifies stats and grants abilities |
-| Perk | Non-combat special ability (Crafting, Exploration, Lore, etc.) |
-| Title | Honorific earned at each echelon with mechanical benefits |
-| data-md-linked | Upstream repo containing all Draw Steel content as interlinked markdown |
-| data-gen | ETL pipeline repo that parses source PDFs into structured data |
-| REL_PATH_PREFIX / REL_PATH_SUFFIX | Link placeholders in upstream markdown, replaced during `just update` |
-| roamlinks | MkDocs plugin for wiki-style `[[link]]` resolution |
-| awesome-nav | MkDocs plugin for `.nav.yml`-based navigation ordering |
+| Career | A hero's professional background granting skills and a renown ability |
+| Class | A hero's combat archetype (Fury, Shadow, Tactician, etc.) with abilities gained by level |
+| Complication | A backstory element adding narrative hooks |
+| Condition | A status effect applied during combat (Bleeding, Dazed, Grabbed, etc.) |
+| Culture | A hero's upbringing and social environment |
+| Echelon | A tier of play (1st through 4th) determining power level |
+| Kit | Equipment and fighting style package that modifies stats and grants a signature ability |
+| Perk | A minor ability gained from skills (Crafting, Exploration, Interpersonal, etc.) |
+| Power Roll | The core resolution mechanic: 2d10 + modifier with three tier outcomes |
+| Roamlinks | MkDocs plugin that resolves wiki-style `[[links]]` to file paths |
+| Title | A prestige reward earned at higher echelons |
 
 ## Audiences
 
-| Audience | How they use it |
-|----------|----------------|
-| Players | Look up classes, abilities, kits during character creation and play |
-| Game Masters (Directors) | Reference monsters, conditions, rules during sessions |
-| Community builders | Link to specific rules pages in discussions, guides, homebrew |
-| Data consumers | Directed to structured data repos (JSON, YAML, MD) instead of scraping |
+| Audience | How they use the site |
+|----------|----------------------|
+| Draw Steel players | Look up abilities, conditions, and rules during sessions |
+| Draw Steel GMs | Reference monster stats, encounter rules, negotiation system |
+| Character builders | Browse ancestries, classes, kits, careers for hero creation |
+| Project contributors | Modify site UI/UX, update build pipeline, fix content display issues |
 
 ## Feature Inventory
 
 ### Shipped
 
-- Three reading modes: Browse (modular), Read (chapters), Full Book (single page)
-- Bestiary section (monsters book)
-- Full-text search (Browse + Bestiary only, no duplicates)
-- Grid card index pages for Browse categories
-- Keyboard navigation (arrow keys between pages)
-- Reading progress indicator
-- Ability card styling
-- Font/display preferences (persistent via localStorage)
-- Compact mode for information-dense display
+- Tabbed navigation (Browse / Read / Full Book / Bestiary)
+- Search limited to Browse section only (no duplicate results)
+- Grid card index pages for all Browse categories
+- Custom ability card styling
+- Keyboard navigation between pages
+- Reading progress bar
+- User-configurable font preferences (family, size, page width, compact mode)
 - Dark/light theme toggle
-- Table sorting
-- Hover preview for internal links
-- Automated data pull + restructure via justfile
-- CI/CD deployment on push to main
-- Data version stamp in footer
-
-### Known Limitations
-
-- Bestiary has unordered chapters and broken links (work in progress)
-- No test suite
-- Content depends entirely on upstream data-md-linked repo
-- Full Book page is slow to load (entire rulebook on one page)
+- Sortable tables
+- Mobile-responsive layout
+- Print stylesheet
+- Hover link previews (MkDocs Material instant preview)
+- Automatic data pull and restructuring from `data-md-linked`
 
 ## Constraints and Risks
 
-- **Licensing:** Published under DRAW STEEL Creator License. Must include attribution.
-- **Content freshness:** Site content is only as current as the last `just update` run. No automatic sync from upstream.
-- **Single maintainer:** Community project without a formal team.
+- **Content is read-only in this repo.** All rules markdown comes from `data-md-linked`. Edits to `docs/Browse/`, `docs/Read/`, `docs/Full Book/`, or `docs/Bestiary/` are overwritten by `just update`.
+- **DRAW STEEL Creator License.** Site must comply with MCDM's creator license terms.
+- **No versioning.** Single-branch deployment via `mkdocs gh-deploy` (no mike).
+- **Link fragility.** Cross-references use relative paths with `REL_PATH_PREFIX`/`REL_PATH_SUFFIX` placeholders rewritten at build time. Upstream link format changes can break navigation.

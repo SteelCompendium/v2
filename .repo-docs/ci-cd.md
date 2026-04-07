@@ -1,71 +1,82 @@
----
-repo: v2
-type: tool
----
-
 # CI/CD
 
 ## Pipeline Overview
 
-| Platform | Config | Trigger |
-|----------|--------|---------|
-| GitHub Actions | `.github/workflows/ci.yml` | Push to `main` |
+| Stage | Trigger | What it does | Config file |
+|-------|---------|-------------|-------------|
+| Deploy | Push to `main` | Build MkDocs site and deploy to GitHub Pages | `.github/workflows/ci.yml` |
 
-### Stages
-
-| Stage | What it does | Duration |
-|-------|-------------|----------|
-| Checkout | Clone repo with full history (`fetch-depth: 0`) | ~10s |
-| Setup Python | Install Python 3.x | ~15s |
-| Cache | Cache `.cache/` for MkDocs build artifacts | ~5s |
-| Install deps | `pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav` | ~30s |
-| Deploy | `mkdocs gh-deploy --force` (builds + pushes to `gh-pages` branch) | ~60s |
+Platform: GitHub Actions
 
 ## Build Process
 
-Locally, the equivalent commands are:
+The CI pipeline mirrors what you'd run locally:
 
+1. Checkout code (full history with `fetch-depth: 0`)
+2. Set up Python 3.x
+3. Restore build cache (`.cache/` directory)
+4. Install pip dependencies: `mkdocs-material`, `mkdocs-roamlinks-plugin`, `mkdocs-awesome-nav`
+5. Run `mkdocs gh-deploy --force` (builds and pushes to `gh-pages` branch)
+
+Local equivalent:
 ```bash
 pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav
-mkdocs build        # Build only
-mkdocs gh-deploy    # Build + deploy to GitHub Pages
+mkdocs gh-deploy --force
 ```
 
 ## Build Artifacts
 
-| Artifact | Location | Description |
-|----------|----------|-------------|
-| Static HTML site | `site/` (local) or `gh-pages` branch | Complete built website |
+| Artifact | Destination | Description |
+|----------|-------------|-------------|
+| Static HTML site | `gh-pages` branch | Complete built site deployed by `mkdocs gh-deploy` |
 
 ## Branch Strategy
 
 | Branch | Purpose |
 |--------|---------|
-| `main` | Production. Every push triggers deploy. |
-| `gh-pages` | Auto-managed by `mkdocs gh-deploy`. Contains built HTML. Do not edit. |
+| `main` | Production branch. Pushes trigger deployment. |
+| `gh-pages` | Auto-managed by `mkdocs gh-deploy`. Contains built site. Never edit directly. |
 
-No feature branches observed in the current workflow. Development happens directly on `main`.
+## Merge Strategy
+
+No formal merge strategy enforced. Commits go directly to `main` for most changes. The typical workflow is:
+
+1. Make changes locally
+2. Run `mkdocs serve` to verify
+3. Commit and push to `main`
+4. CI deploys automatically
 
 ## Release Process
 
-There are no versioned releases or tags. Deployment is continuous: push to `main` = deploy to production.
+No versioned releases or tags. Deployment is continuous -- every push to `main` triggers a deploy.
+
+### Content updates
+
+Content updates follow a different path than code changes:
+
+```bash
+just update   # Pulls data, commits, pushes -> triggers CI deploy
+```
 
 ### Rollback
 
-Revert the commit on `main` and push. CI will redeploy the previous state.
+To rollback a deployment:
+1. `git revert <commit>` or `git reset` to the desired state
+2. Push to `main`
+3. CI redeploys
+
+Alternatively, force-push an older build to `gh-pages`.
 
 ## Environments
 
-| Environment | URL | Deployment |
-|-------------|-----|-----------|
-| Production | https://steelcompendium.io/v2 | Auto on push to `main` |
-| Local dev | http://127.0.0.1:8000/v2/ | `mkdocs serve` |
+| Environment | URL | How to deploy |
+|-------------|-----|---------------|
+| Local dev | http://127.0.0.1:8000 | `mkdocs serve` |
+| Production | https://steelcompendium.io/v2 | Push to `main` (automatic) |
 
 ## Secrets and Configuration
 
-| Name | Where | Purpose |
-|------|-------|---------|
-| `GITHUB_TOKEN` | GitHub Actions (automatic) | Push to `gh-pages` branch |
-| Google Analytics `G-PMF9SHHXNY` | `mkdocs.yml` (public) | Site analytics tracking |
-
-No additional secrets required.
+| Name | Purpose |
+|------|---------|
+| `GITHUB_TOKEN` | Built-in GitHub Actions token. Used by `mkdocs gh-deploy` to push to `gh-pages`. No manual configuration needed. |
+| Google Analytics ID | `G-PMF9SHHXNY` hardcoded in `mkdocs.yml`. Not a secret but tracked here for reference. |

@@ -1,44 +1,86 @@
----
-repo: v2
-type: tool
----
-
 # Decision Log
 
-Decisions are logged to preserve context that doesn't survive in memory. When a choice is made -- even a small one -- recording it here prevents relitigating and helps new contributors understand why the codebase looks the way it does.
+Architectural and design decisions for the Steel Compendium v2 site.
+
+## Why Log Decisions
+
+- Context doesn't survive in memory. Recording why a choice was made prevents relitigating it later.
+- Small decisions compound. A record of what worked (and what didn't) builds a navigable history of the project's evolution.
 
 ## What to Log
 
-Every decision, including:
-- Library or tool choices
-- Format or convention changes
-- Rejected approaches
+Every decision, regardless of size:
+- Library and plugin choices
+- Content structure changes
+- UI/UX approaches tried and abandoned
+- Link format and build pipeline decisions
+- Convention choices
 - Reverted experiments
-- Architectural patterns adopted
 
 ## How to Create a Record
 
-1. Copy the template structure from an existing record
-2. Name the file: `YYYY-MM-DD-short-description.md`
-3. Fill in Context, Options Considered, Decision, Consequences
-4. Set status: `proposed`, `accepted`, `tried`, `superseded`, `deprecated`
+1. Copy the template below into a new file
+2. Name it `YYYY-MM-DD-short-description.md`
+3. Fill in all sections
+4. Set the status
+
+## Filename Convention
+
+`YYYY-MM-DD-short-description.md` -- files sort chronologically. Multiple decisions on the same date are fine.
 
 ## Status Definitions
 
 | Status | Meaning |
 |--------|---------|
-| `proposed` | Under discussion, not yet implemented |
-| `accepted` | Decided and implemented |
+| `proposed` | Under consideration, not yet implemented |
+| `accepted` | Chosen and implemented |
 | `tried` | Implemented but didn't work out |
-| `superseded` | Replaced by a newer decision |
-| `deprecated` | No longer relevant |
+| `superseded` | Replaced by a later decision |
+| `deprecated` | Being phased out |
+
+## Template
+
+```markdown
+# Title
+
+**Status:** proposed | accepted | tried | superseded | deprecated
+**Date:** YYYY-MM-DD
+
+## Context
+
+Why was this decision needed?
+
+## Options Considered
+
+### Option A
+- Pros: ...
+- Cons: ...
+
+### Option B
+- Pros: ...
+- Cons: ...
+
+## Decision
+
+What was chosen and why.
+
+## Consequences
+
+- Positive outcomes
+- Accepted tradeoffs
+
+## Outcome
+
+Leave blank if recent. Fill in once there's real experience to report.
+```
 
 ## Index
 
 | Date | Decision | Status |
 |------|----------|--------|
-| 2026-04-05 | [Tabbed navigation layout](2026-04-05-tabbed-navigation.md) | accepted |
-| 2026-04-05 | [Search deduplication via exclusion](2026-04-05-search-dedup.md) | accepted |
-| 2026-04-05 | [No mike versioning](2026-04-05-no-mike-versioning.md) | accepted |
-| 2026-04-05 | [Index page grid transformation](2026-04-05-index-grid-transform.md) | accepted |
-| 2026-04-05 | [Link placeholder system](2026-04-05-link-placeholders.md) | accepted |
+| 2025-12-01 | [Tabbed navigation layout](2025-12-01-tabbed-navigation-layout.md) | accepted |
+| 2025-12-01 | [Search exclusion for Read and Full Book](2025-12-01-search-exclusion.md) | accepted |
+| 2025-12-01 | [No mike versioning](2025-12-01-no-mike-versioning.md) | accepted |
+| 2026-03-01 | [Switch data-md-linked to v3 branch](2026-03-01-switch-to-v3-branch.md) | accepted |
+| 2026-03-15 | [Grid card index layouts](2026-03-15-grid-card-index-layouts.md) | accepted |
+| 2026-03-28 | [Hover preview with anchor fragments](2026-03-28-hover-preview-anchors.md) | accepted |
