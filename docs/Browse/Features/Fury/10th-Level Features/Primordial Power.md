@@ -18,7 +18,7 @@ type: feature/trait/fury/10th-level-feature
 
 #### Primordial Power
 
-You have an epic resource called [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power). Each time you finish a respite, you gain [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) equal to the XP you gain. You can spend [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) on your abilities as if it were [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
+You have an [epic](../../../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power). Each time you finish a respite, you gain [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) equal to the XP you gain. You can spend [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) on your abilities as if it were [ferocity](../../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity).
 
 Additionally, you can spend any amount of [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) as a free maneuver, ending one effect on you for each [primordial power](../../../../Browse/Features/Fury/10th-Level Features/Primordial Power.md#primordial-power) spent.
 

@@ -22,11 +22,11 @@ Your [talent](../../../../Browse/Classes/Talent.md#talent) tradition grants you 
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                                          |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doubling-the-hours), [Stasis Shield](../../../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#stasis-shield) |
-| Telekinesis | [Levitation Field](../../../../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md#levitation-field), [Low Gravity](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#low-gravity)          |
-| Telepathy   | [Mindlink](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#universal-connection)           |
+| Tradition   | Features                                                                                                                                                                                                                                                                                 |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doubling-the-hours), [Stasis Shield](../../../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#stasis-shield)                        |
+| Telekinesis | [Levitation Field](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Levitation Field.md#levitation-field), [Low Gravity](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#low-gravity) |
+| Telepathy   | [Mindlink](../../../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#universal-connection)                                  |
 
 ##### Doubling the Hours
 

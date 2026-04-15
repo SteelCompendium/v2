@@ -8,8 +8,8 @@ type: index
 <div class="browse-index" markdown>
 
 - [Big Versus Little](Big Versus Little.md#big-versus-little)
-- [Burrowing Forced Movement](Burrowing Forced Movement.md#burrowing-forced-movement)
 - [Burrow](Burrow.md#burrow)
+- [Burrowing Forced Movement](Burrowing Forced Movement.md#burrowing-forced-movement)
 - [Climbing Other Creatures](Climbing Other Creatures.md#climbing-other-creatures)
 - [Climb or Swim](Climb or Swim.md#climb-or-swim)
 - [Crawl](Crawl.md#crawl)
@@ -23,8 +23,8 @@ type: index
 - [Hurling Through Objects](Hurling Through Objects.md#hurling-through-objects)
 - [Jump](Jump.md#jump)
 - [Non Burrowing Creatures](Non Burrowing Creatures.md#non-burrowing-creatures)
-- [Slamming into Creatures](Slamming into Creatures.md#slamming-into-creatures)
 - [Slamming Into Objects](Slamming Into Objects.md#slamming-into-objects)
+- [Slamming into Creatures](Slamming into Creatures.md#slamming-into-creatures)
 - [Stability](Stability.md#stability)
 - [Targeting Burrowing Creatures](Targeting Burrowing Creatures.md#targeting-burrowing-creatures)
 - [Teleport](Teleport.md#teleport)

@@ -15,7 +15,7 @@ type: title/1st-echelon
 
 #### Ancient Loremaster
 
-*It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
+*It's astonishing what you find in old books. [Look](../../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
 
 **Prerequisite:** You find a trove of forgotten books.
 

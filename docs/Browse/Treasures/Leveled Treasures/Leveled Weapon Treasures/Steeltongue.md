@@ -16,11 +16,11 @@ type: treasure/leveled/weapon
 
 ##### Steeltongue
 
-*This sinuous whip reflects all light off its plated steel surfaces.*
+*This sinuous whip reflects all light off its plated [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) surfaces.*
 
 **Keywords:** Magic, Whip
 
-**Item Prerequisite:** One hundred steel arrowheads stained with blood
+**Item Prerequisite:** One hundred [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) arrowheads stained with blood
 
 **Project Source:** Texts or lore in Caelian and Kalliak
 

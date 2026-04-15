@@ -30,7 +30,7 @@ You gain one skill of your choice.
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Abilities/Shadow/3rd-Level Features/Careful Observation.md#careful-observation) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../../../Browse/Features/Shadow/3rd-Level Features/Careful Observation.md#careful-observation) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
 #### Ventriloquist
 

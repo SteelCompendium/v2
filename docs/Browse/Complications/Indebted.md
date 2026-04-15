@@ -14,7 +14,7 @@ type: complication
 
 #### Indebted
 
-A deal you made went south, or you got involved with the wrong people. Now you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you'll need to take some dangerous risks.
+A deal you made went south, or you got involved with the wrong people. [Now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you'll need to take some dangerous risks.
 
 **Benefit:** You're good with money—because you've had to be. Whenever you earn Wealth, you earn 1 more than usual.
 

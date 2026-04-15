@@ -115,20 +115,20 @@ You gain a domain feature from your domain, as shown on the 1st-Level [Censor](.
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                    | Skill Group   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker)                                                  | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-speech)                                                                  | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithful-friend)                                                            | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
+| Domain                                                                                 | Feature                                                                                                                                                                    | Skill Group   |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation                                                                               | [Hands of the Maker](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md#hands-of-the-maker)                       | Crafting      |
+| Death                                                                                  | [Grave Speech](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Grave Speech.md#grave-speech)                                       | Lore          |
+| [Fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Oracular Visions](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
+| Knowledge                                                                              | [Blessing of Comprehension](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
+| Life                                                                                   | [Revitalizing Ritual](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
+| Love                                                                                   | [Blessing of Compassion](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
+| Nature                                                                                 | [Faithful Friend](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Faithful Friend.md#faithful-friend)                                 | Exploration   |
+| Protection                                                                             | [Protective Circle](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
+| Storm                                                                                  | [Blessing of Fortunate Weather](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
+| Sun                                                                                    | [Inner Light](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
+| Trickery                                                                               | [Inspired Deception](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
+| War                                                                                    | [Sanctified Weapon](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -201,7 +201,7 @@ You have the following ability.
 
 ##### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../../Browse/Abilities/Conduit/2nd-Level Features/Morning Light.md#morning-light) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ##### Inspired Deception
 
@@ -209,7 +209,7 @@ The gods favor your thievery with magic. Whenever you make a test that uses a sk
 
 ##### Oracular Visions
 
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
+Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) points. Whenever you or a creature within 10 squares makes a test, you can spend 1 [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) points when you finish a respite.
 
 ##### Protective Circle
 
@@ -301,7 +301,7 @@ You call upon a number of heroic abilities, all of them bound to your [wrath](..
 
 ###### 3-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
+Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../../Browse/Abilities/Censor/1st-Level Features/The Gods Punish and Defend.md#the-gods-punish-and-defend).)
 
 <!-- -->
 > ###### Behold a Shield of Faith! (3 Wrath)
@@ -371,7 +371,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ###### 5-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)
+Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../../Browse/Abilities/Censor/1st-Level Features/Purifying Fire.md#purifying-fire).)
 
 <!-- -->
 > ###### Arrest (5 Wrath)

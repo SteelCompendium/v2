@@ -47,18 +47,18 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ###### Talent Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | [Talent](../../Browse/Classes/Talent.md#talent) Tradition, [Clarity and Strain](../../Browse/Features/Talent/1st-Level Features/Clarity and Strain.md#clarity-and-strain), [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike), [Psionic Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md#psionic-augmentation), Talent Ward, [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech), Tradition Features, [Talent](../../Browse/Classes/Talent.md#talent) Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../../Browse/Features/Talent/3rd-Level Features/Scan.md#scan), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../../Browse/Features/Talent/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Mind Projection](../../Browse/Features/Talent/4th-Level Features/Mind Projection.md#mind-projection), [Mind Recovery](../../Browse/Features/Talent/4th-Level Features/Mind Recovery.md#mind-recovery), Perk, Skill [Suspensor Field](../../Browse/Features/Talent/4th-Level Features/Suspensor Field.md#suspensor-field)                                                                                                                                                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, [Psi Boost](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md#psi-boost), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../../Browse/Features/Talent/7th-Level Features/Ancestral Memory.md#ancestral-memory), [Cascading Strain](../../Browse/Features/Talent/7th-Level Features/Cascading Strain.md#cascading-strain), [Characteristic Increase](../../Browse/Features/Talent/7th-Level Features/Characteristic Increase.md#characteristic-increase), [Lucid Mind](../../Browse/Features/Talent/7th-Level Features/Lucid Mind.md#lucid-mind), Skill                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [Fortress of Perfect Thought](../../Browse/Features/Talent/9th-Level Features/Fortress of Perfect Thought.md#fortress-of-perfect-thought), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../../Browse/Features/Talent/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Clear Mind](../../Browse/Features/Talent/10th-Level Features/Clear Mind.md#clear-mind), [Omnisensory](../../Browse/Features/Talent/10th-Level Features/Omnisensory.md#omnisensory), Perk, [Psion](../../Browse/Features/Talent/10th-Level Features/Psion.md#psion), Skill, [Vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision)                                                                                                            | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Abilities                     | Tradition Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Talent](../../Browse/Classes/Talent.md#talent) Tradition, [Clarity and Strain](../../Browse/Features/Talent/1st-Level Features/Clarity and Strain.md#clarity-and-strain), [Mind Spike](../../Browse/Features/Talent/1st-Level Features/Mind Spike.md#mind-spike), [Psionic Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md#psionic-augmentation), [Talent Ward](../../Browse/Features/Talent/1st-Level Features/Talent Ward.md#talent-ward), [Telepathic Speech](../../Browse/Features/Talent/1st-Level Features/Telepathic Speech.md#telepathic-speech), Tradition Features, [Talent](../../Browse/Classes/Talent.md#talent) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5           | 5                   |
+| 3rd   | [Scan](../../Browse/Features/Talent/3rd-Level Features/Scan.md#scan), 7-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../../Browse/Features/Talent/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Mind Projection](../../Browse/Features/Talent/4th-Level Features/Mind Projection.md#mind-projection), [Mind Recovery](../../Browse/Features/Talent/4th-Level Features/Mind Recovery.md#mind-recovery), Perk, Skill [Suspensor Field](../../Browse/Features/Talent/4th-Level Features/Suspensor Field.md#suspensor-field)                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, [Psi Boost](../../Browse/Features/Talent/6th-Level Features/Psi Boost.md#psi-boost), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../../Browse/Features/Talent/7th-Level Features/Ancestral Memory.md#ancestral-memory), [Cascading Strain](../../Browse/Features/Talent/7th-Level Features/Cascading Strain.md#cascading-strain), [Characteristic Increase](../../Browse/Features/Talent/7th-Level Features/Characteristic Increase.md#characteristic-increase), [Lucid Mind](../../Browse/Features/Talent/7th-Level Features/Lucid Mind.md#lucid-mind), Skill                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [Fortress of Perfect Thought](../../Browse/Features/Talent/9th-Level Features/Fortress of Perfect Thought.md#fortress-of-perfect-thought), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../../Browse/Features/Talent/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Clear Mind](../../Browse/Features/Talent/10th-Level Features/Clear Mind.md#clear-mind), [Omnisensory](../../Browse/Features/Talent/10th-Level Features/Omnisensory.md#omnisensory), Perk, [Psion](../../Browse/Features/Talent/10th-Level Features/Psion.md#psion), Skill, [Vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision)                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -66,7 +66,7 @@ As a 1st-level [talent](../../Browse/Classes/Talent.md#talent), you gain the fol
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent traditions](../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition):
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -77,7 +77,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../Browse/Classes/Talent.md#talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../Browse/Classes/Talent.md#talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../Browse/Classes/Talent.md#talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../Browse/Classes/Talent.md#talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent traditions](../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition) will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -101,7 +101,7 @@ Though you can't gain [clarity outside of combat](../../Browse/Features/Talent/1
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
@@ -126,7 +126,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md#force-augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../../Browse/Features/Talent/1st-Level Features/Talent Ward.md#talent-ward) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md#force-augmentation).)
 
 ##### Battle Augmentation
 
@@ -156,7 +156,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](../../Browse/Abilities/Talent/2nd-Level Features/Slow.md#slow) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -172,7 +172,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../Browse/Features/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -180,11 +180,11 @@ Your [talent](../../Browse/Classes/Talent.md#talent) tradition grants you two fe
 
 ###### 1st-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                    |
-| Telepathy   | [Feedback Loop](../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md#remote-assistance) |
+| Tradition   | Features                                                                                                                                                                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Accelerate](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                                                    |
+| Telepathy   | [Feedback Loop](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Remote Assistance.md#remote-assistance) |
 
 ##### Accelerate
 
@@ -292,7 +292,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent traditions](../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition) or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -450,7 +450,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../Browse/Abilities/Talent/1st-Level Features/Choke.md#choke).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -516,7 +516,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../Browse/Abilities/Talent/1st-Level Features/Inertia Soak.md#inertia-soak).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)
@@ -732,7 +732,7 @@ As a 3rd-level [talent](../../Browse/Classes/Talent.md#talent), you gain the fol
 
 #### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../Browse/Features/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability, you always have line of effect to that creature until they move beyond that distance.
 
 #### 7-Clarity Ability
 
@@ -822,7 +822,7 @@ Your Reason and Presence scores each increase to 3.
 
 As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and [prone](../../Browse/Conditions/Prone.md#prone), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
+Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
 #### Mind Recovery
 
@@ -1136,7 +1136,7 @@ Each time you finish a respite, you can choose a number of skills you have up to
 
 #### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../Browse/Features/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability to take the same damage.
 
 #### Characteristic Increase
 
@@ -1164,11 +1164,11 @@ Your [talent](../../Browse/Classes/Talent.md#talent) tradition grants you two fe
 
 ###### 8th-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                                                          |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chronopathy | [Doubling the Hours](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doubling-the-hours), [Stasis Shield](../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#stasis-shield) |
-| Telekinesis | [Levitation Field](../../Browse/Abilities/Talent/8th-Level Features/Levitation Field.md#levitation-field), [Low Gravity](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#low-gravity)          |
-| Telepathy   | [Mindlink](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#universal-connection)           |
+| Tradition   | Features                                                                                                                                                                                                                                                                                 |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Doubling the Hours](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Doubling the Hours.md#doubling-the-hours), [Stasis Shield](../../Browse/Features/Talent/8th-Level Features/Stasis Shield.md#stasis-shield)                        |
+| Telekinesis | [Levitation Field](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Levitation Field.md#levitation-field), [Low Gravity](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Low Gravity.md#low-gravity) |
+| Telepathy   | [Mindlink](../../Browse/Features/Talent/8th-Level Features/8th-Level Tradition Features/Mindlink.md#mindlink), [Universal Connection](../../Browse/Features/Talent/8th-Level Features/Universal Connection.md#universal-connection)                                  |
 
 ##### Doubling the Hours
 
@@ -1462,7 +1462,7 @@ You gain one skill of your choice.
 
 #### Vision
 
-You have an epic resource called [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). Each time you finish a respite, you gain [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) equal to the XP you gain. You can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) on your abilities as if it were clarity.
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). Each time you finish a respite, you gain [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) equal to the XP you gain. You can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) on your abilities as if it were clarity.
 
 Additionally, you can spend [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](../../Browse/Features/Talent/10th-Level Features/Vision.md#vision). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 

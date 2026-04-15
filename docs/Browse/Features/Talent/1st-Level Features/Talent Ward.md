@@ -22,7 +22,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](../../../../Browse/Abilities/Talent/2nd-Level Features/Slow.md#slow) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 

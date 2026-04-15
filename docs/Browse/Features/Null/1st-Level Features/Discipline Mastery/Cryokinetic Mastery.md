@@ -18,7 +18,7 @@ type: feature/subtrait/null/1st-level-feature
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../../../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../../../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

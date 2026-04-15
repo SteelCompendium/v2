@@ -38,8 +38,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Drama in Combat](Drama/Drama in Combat.md#drama-in-combat)
     - [Drama Outside of Combat](Drama/Drama Outside of Combat.md#drama-outside-of-combat)
+    - [Drama in Combat](Drama/Drama in Combat.md#drama-in-combat)
 
 </div>
 

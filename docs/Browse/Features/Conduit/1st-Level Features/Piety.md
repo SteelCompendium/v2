@@ -36,7 +36,7 @@ You lose any remaining piety at the end of the encounter.
 
 Though you can't gain [piety outside of combat](../../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md#piety-outside-of-combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace), you can use it as if you had spent an amount of [piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../../Browse/Features/Conduit/1st-Level Features/Healing Grace.md#healing-grace), you can use it as if you had spent an amount of [piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
 
 ##### Domain Piety and Effects
 
@@ -57,7 +57,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 ###### Fate Domain Piety and Effect
 
 - **[Piety](../../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Prayer](../../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You call on the forces of [fate](../../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 

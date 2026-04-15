@@ -22,7 +22,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -48,7 +48,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your null tradition grants your choice of one of two abilities.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 

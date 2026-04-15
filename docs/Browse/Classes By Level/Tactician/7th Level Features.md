@@ -46,7 +46,7 @@ Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/T
 
 ##### Asymmetric Warfare
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, [now](../../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 ##### Grand Strategy
 

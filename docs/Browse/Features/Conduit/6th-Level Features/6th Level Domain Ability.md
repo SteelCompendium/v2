@@ -22,20 +22,20 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 6th-Level Conduit Domain Abilities Table
 
-| Domain     | Ability                    |
-| ---------- | -------------------------- |
-| Creation   | Gods' Machine              |
-| Death      | Aura of Souls              |
-| Fate       | Your Story Ends Here       |
-| Knowledge  | Invocation of Undoing      |
-| Life       | Revitalizing Grace         |
-| Love       | Lauded by God              |
-| Nature     | Spirit Stampede            |
-| Protection | Cuirass of the Gods        |
-| Storm      | Lightning Lord             |
-| Sun        | Blessing of the Midday Sun |
-| Trickery   | Invocation of Mystery      |
-| War        | Blade of the Heavens       |
+| Domain                                                                                 | Ability                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creation                                                                               | Gods' Machine                                                                                                                               |
+| Death                                                                                  | [Aura of Souls](../../../../Browse/Abilities/Conduit/6th-Level Features/Aura of Souls.md#aura-of-souls)                               |
+| [Fate](../../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Your Story Ends Here](../../../../Browse/Abilities/Conduit/6th-Level Features/Your Story Ends Here.md#your-story-ends-here)               |
+| Knowledge                                                                              | [Invocation of Undoing](../../../../Browse/Abilities/Conduit/6th-Level Features/Invocation of Undoing.md#invocation-of-undoing)               |
+| Life                                                                                   | [Revitalizing Grace](../../../../Browse/Abilities/Conduit/6th-Level Features/Revitalizing Grace.md#revitalizing-grace)                       |
+| Love                                                                                   | [Lauded by God](../../../../Browse/Abilities/Conduit/6th-Level Features/Lauded by God.md#lauded-by-god)                               |
+| Nature                                                                                 | [Spirit Stampede](../../../../Browse/Abilities/Conduit/6th-Level Features/Spirit Stampede.md#spirit-stampede)                             |
+| Protection                                                                             | [Cuirass of the Gods](../../../../Browse/Abilities/Conduit/6th-Level Features/Cuirass of the Gods.md#cuirass-of-the-gods)                 |
+| Storm                                                                                  | [Lightning Lord](../../../../Browse/Abilities/Conduit/6th-Level Features/Lightning Lord.md#lightning-lord)                               |
+| Sun                                                                                    | [Blessing of the Midday Sun](../../../../Browse/Abilities/Conduit/6th-Level Features/Blessing of the Midday Sun.md#blessing-of-the-midday-sun) |
+| Trickery                                                                               | [Invocation of Mystery](../../../../Browse/Abilities/Conduit/6th-Level Features/Invocation of Mystery.md#invocation-of-mystery)               |
+| War                                                                                    | [Blade of the Heavens](../../../../Browse/Abilities/Conduit/6th-Level Features/Blade of the Heavens.md#blade-of-the-heavens)               |
 
 <!-- -->
 > ###### Aura of Souls (9 Piety)

@@ -16,7 +16,7 @@ type: treasure/consumable/2nd-echelon
 
 ##### Telemagnet
 
-*A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.*
+*A short [iron](../../../../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) wand shaped of interlocking segments leaks greasy black oil from its joints.*
 
 **Keywords:** Psionic
 

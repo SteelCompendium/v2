@@ -34,8 +34,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Insight in Combat](Insight/Insight in Combat.md#insight-in-combat)
     - [Insight Outside of Combat](Insight/Insight Outside of Combat.md#insight-outside-of-combat)
+    - [Insight in Combat](Insight/Insight in Combat.md#insight-in-combat)
 
 </div>
 

@@ -22,7 +22,7 @@ You create an invisible elemental ward that protects you. Choose one of the foll
 
 ##### Ward of Delightful Consequences
 
-A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
+A protective field of void magic absorbs violence aimed at you, then lets you hurl it [back](../../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) at your enemies. The first time each round that you take damage, you gain 1 surge.
 
 ##### Ward of Excellent Protection
 

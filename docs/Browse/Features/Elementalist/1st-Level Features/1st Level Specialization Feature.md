@@ -24,8 +24,8 @@ Your [elemental specialization](../../../../Browse/Features/Elementalist/1st-Lev
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../../../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md#motivate-earth)                                                                     |
-| Fire           | [Return to Formlessness](../../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness)                                                   |
+| Earth          | [Motivate Earth](../../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Motivate Earth.md#motivate-earth)                                 |
+| Fire           | [Return to Formlessness](../../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Return to Formlessness.md#return-to-formlessness)               |
 | Green          | [It Is the Soul Which Hears](../../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md#it-is-the-soul-which-hears) |
 | Void           | [A Beyonding of Vision](../../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md#a-beyonding-of-vision)               |
 
@@ -44,7 +44,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md#shared-void-sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
 
 ##### It Is the Soul Which Hears
 

@@ -22,7 +22,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 ###### 3-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
+Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../../../../Browse/Abilities/Conduit/1st-Level Features/Violence Will Not Aid Thee.md#violence-will-not-aid-thee).)
 
 <!-- -->
 > ###### Call the Thunder Down (3 Piety)
@@ -86,7 +86,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 ###### 5-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)
+Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../../../../Browse/Abilities/Conduit/1st-Level Features/Curse of Terror.md#curse-of-terror).)
 
 <!-- -->
 > ###### Corruption's Curse (5 Piety)

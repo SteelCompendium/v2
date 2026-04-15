@@ -18,4 +18,4 @@ type: feature/subtrait/conduit/4th-level-feature
 
 ###### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md#hands-of-the-maker) ability, you can create a mundane object that is size 2 or smaller.

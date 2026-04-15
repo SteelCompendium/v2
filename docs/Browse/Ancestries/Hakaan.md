@@ -24,15 +24,15 @@ The Doomsight can happen at any moment. It does not come for all or even most [h
 
 But the only [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) the average [human](../../Browse/Ancestries/Human.md#human) meets is one trying to fulfill their doom. The [human](../../Browse/Ancestries/Human.md#human) superstition—that the arrival of one or more [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) in [human](../../Browse/Ancestries/Human.md#human) lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-[Humans](../../Browse/Ancestries/Human.md#human) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) sometimes refer to the Doomsight as "wyrdken."
+[Humans](../../Browse/Ancestries/Human.md#human) in Vanigar have their own word for this concept of a personal [fate](../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate). "Wyrd." Traditional [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) sometimes refer to the Doomsight as "wyrdken."
 
 ### On Hakaan
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
-"Embers!" John called out, but the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
+"Embers!" John called out, but the [high elf](../../Browse/Ancestries/High Elf.md#high-elf) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back). And a giant stood before the lumbering egress.
 
-Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
+Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get [out of the way](../../Browse/Abilities/Fury/1st-Level Features/Out of the Way.md#out-of-the-way) fast enough, tortured by the pressure of his speed.
 
 The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense size.
 
@@ -44,9 +44,9 @@ John knew what the giant did not—the tendrils drained life, sapped energy. The
 
 But the arrival of the giant changed the equation. John saw a new solution. The [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
 
-Kicking the styrich back gave John room to move, and he dashed toward Embers. A shout, and a thrust into the soulraker's back, and the demons surrounding Embers turned to face Sir John.
+Kicking the styrich [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) gave John room to move, and he dashed toward Embers. A shout, and a thrust into the soulraker's [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back), and the demons surrounding Embers turned to face Sir John.
 
-He had to focus so intently on the demons who now surrounded him, he wasn't even sure Embers knew what to do. But he needn't have worried. When he risked a glance, she was already gone. A light fall of starstuff the only evidence she had translated into void.
+He had to focus so intently on the demons who [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) surrounded him, he wasn't even sure Embers knew what to do. But he needn't have worried. When he risked a glance, she was already gone. A light fall of starstuff the only evidence she had translated into void.
 
 Dispatching a chimeron, John saw Embers emerge from the other side of the egress demon with Dazar in her arms. John couldn't tell if Dazar was conscious. He might even be dead. Who knew what lurked on the other side of that living portal to the Abyssal Waste?
 
@@ -66,7 +66,7 @@ The demons in midstride all turned inside out, leaving bubbling, steaming pools 
 
 "I told you..." Dazar said, hands on his knees. "Not to open! That book!"
 
-"You didn't say 'Don't open that,'" John said, leaning back and gulping air. "You just said it was dangerous. I knew it was dangerous!"
+"You didn't say 'Don't open that,'" John said, leaning [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) and gulping air. "You just said it was dangerous. I knew it was dangerous!"
 
 "Well met!" The giant laughed at the two friends squabbling.
 

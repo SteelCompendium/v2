@@ -48,9 +48,9 @@ Choose one of the following abilities.
 > | ---------------------- | -----------------: |
 > | **📏 Self; see below** |        **🎯 Self** |
 >
-> **Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability.
+> **Trigger:** You use your In All This Confusion ability.
 >
-> **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion). After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 

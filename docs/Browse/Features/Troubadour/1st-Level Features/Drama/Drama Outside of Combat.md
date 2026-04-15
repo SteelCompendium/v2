@@ -25,9 +25,9 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 <!-- -->
 > **The Auteur [Troubadour](../../../../../Browse/Classes/Troubadour.md#troubadour)**
 >
-> Abilities like Guest Star, [Missed Cue](../../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue), and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
+> Abilities like [Guest Star](../../../../../Browse/Abilities/Troubadour/2nd-Level Features/Guest Star.md#guest-star), [Missed Cue](../../../../../Browse/Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature/Missed Cue.md#missed-cue), and [Twist at the End](../../../../../Browse/Abilities/Troubadour/2nd-Level Features/Twist at the End.md#twist-at-the-end) allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people [back](../../../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
-> This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
+> This is because, uniquely among all the subclasses in *Draw [Steel](../../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
 >
 > When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don't agree on exactly what took place. How people *remember* it is what's important!
 >

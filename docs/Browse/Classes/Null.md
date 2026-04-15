@@ -47,18 +47,18 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ###### Null Advancement Table
 
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Abilities                     | Tradition Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, [Discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline), Null Field, [Inertial Shield](../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield), [Discipline Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#discipline-mastery), Null Speed, [Psionic Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md#psionic-augmentation), [Psionic Martial Arts](../../Browse/Features/Null/1st-Level Features/Psionic Martial Arts.md#psionic-martial-arts), Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5           | 5                   |
-| 3rd   | [Psionic Leap](../../Browse/Features/Null/3rd-Level Features/Psionic Leap.md#psionic-leap), [Reorder](../../Browse/Features/Null/3rd-Level Features/Reorder.md#reorder), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../../Browse/Features/Null/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), Enhanced Null Field, Perk, [Regenerative Field](../../Browse/Features/Null/4th-Level Features/Regenerative Field.md#regenerative-field), Skill                                                                                                                                                                                                              | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Elemental Absorption](../../Browse/Features/Null/6th-Level Features/Elemental Absorption.md#elemental-absorption), [Elemental Buffer](../../Browse/Features/Null/6th-Level Features/Elemental Buffer.md#elemental-buffer), Perk, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../../Browse/Features/Null/7th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), [Psi Boost](../../Browse/Features/Null/7th-Level Features/Psi Boost.md#psi-boost), [Improved Body](../../Browse/Features/Null/7th-Level Features/Improved Body.md#improved-body), Skill                                                                                                                                                  | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [I Am the Weapon](../../Browse/Features/Null/9th-Level Features/I Am the Weapon.md#i-am-the-weapon), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../../Browse/Features/Null/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), [Manifold Body](../../Browse/Features/Null/10th-Level Features/Manifold Body.md#manifold-body), [Manifold Resonance](../../Browse/Features/Null/10th-Level Features/Manifold Resonance.md#manifold-resonance), [Order](../../Browse/Features/Null/10th-Level Features/Order.md#order), Perk, Skill                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Abilities                     | Tradition Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | [Null Tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition), [Discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline), Null Field, [Inertial Shield](../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield), [Discipline Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#discipline-mastery), [Null Speed](../../Browse/Features/Null/1st-Level Features/Null Speed.md#null-speed), [Psionic Augmentation](../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation.md#psionic-augmentation), [Psionic Martial Arts](../../Browse/Features/Null/1st-Level Features/Psionic Martial Arts.md#psionic-martial-arts), [Null Abilities](../../Browse/Features/Null/1st-Level Features/Null Abilities.md#null-abilities) | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Two signature, 3, 5           | 5                   |
+| 3rd   | [Psionic Leap](../../Browse/Features/Null/3rd-Level Features/Psionic Leap.md#psionic-leap), [Reorder](../../Browse/Features/Null/3rd-Level Features/Reorder.md#reorder), 7-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../../Browse/Features/Null/4th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), [Enhanced Null Field](../../Browse/Features/Null/4th-Level Features/Enhanced Null Field.md#enhanced-null-field), Perk, [Regenerative Field](../../Browse/Features/Null/4th-Level Features/Regenerative Field.md#regenerative-field), Skill                                                                                                                                                                                                                                                                                                                                                                                        | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | [Elemental Absorption](../../Browse/Features/Null/6th-Level Features/Elemental Absorption.md#elemental-absorption), [Elemental Buffer](../../Browse/Features/Null/6th-Level Features/Elemental Buffer.md#elemental-buffer), Perk, Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../../Browse/Features/Null/7th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), [Psi Boost](../../Browse/Features/Null/7th-Level Features/Psi Boost.md#psi-boost), [Improved Body](../../Browse/Features/Null/7th-Level Features/Improved Body.md#improved-body), Skill                                                                                                                                                                                                                                                                                                                                                                                                                              | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [I Am the Weapon](../../Browse/Features/Null/9th-Level Features/I Am the Weapon.md#i-am-the-weapon), Tradition Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../../Browse/Features/Null/10th-Level Features/Characteristic Increase.md#characteristic-increase), [Discipline Mastery Improvement](../../Browse/Features/Null/7th-Level Features/Discipline Mastery Improvement.md#discipline-mastery-improvement), [Manifold Body](../../Browse/Features/Null/10th-Level Features/Manifold Body.md#manifold-body), [Manifold Resonance](../../Browse/Features/Null/10th-Level Features/Manifold Resonance.md#manifold-resonance), [Order](../../Browse/Features/Null/10th-Level Features/Order.md#order), Perk, Skill                                                                                                                                                                                                                                                                                                           | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ### 1st-Level Features
 
@@ -66,13 +66,13 @@ As a 1st-level [null](../../Browse/Classes/Null.md#null), you gain the following
 
 #### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your null tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 #### Discipline
 
@@ -136,13 +136,13 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery
 
-As you advance in your chosen null tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you spend during your turn.
+As you advance in your chosen [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition), you gain certain benefits in combat, including benefits based on the amount of [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) you spend during your turn.
 
 Some [Discipline Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery.md#discipline-mastery) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ##### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can use the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can use the [Disengage](../../Browse/Abilities/Common/Move Actions/Disengage.md#disengage) move action as a free triggered action.
 
 Additionally, as your [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Chronokinetic Mastery.md#chronokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -159,7 +159,7 @@ Additionally, as your [discipline](../../Browse/Features/Null/1st-Level Features
 
 ##### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Cryokinetic Mastery.md#cryokinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -176,7 +176,7 @@ Additionally, as your [discipline](../../Browse/Features/Null/1st-Level Features
 
 ##### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) ability, you can then use the [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver as a free triggered action.
 
 Additionally, as your [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../../Browse/Features/Null/1st-Level Features/Discipline Mastery/Metakinetic Mastery.md#metakinetic-mastery) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -357,7 +357,7 @@ You have mastered a range of heroic abilities, all of them channeled through you
 
 ###### 3-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)
+Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../Browse/Abilities/Null/1st-Level Features/Chronal Spike.md#chronal-spike).)
 
 <!-- -->
 > ###### Chronal Spike (3 Discipline)
@@ -421,7 +421,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ###### 5-Discipline Ability
 
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)
+Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../Browse/Abilities/Null/1st-Level Features/A Squad Unto Myself.md#a-squad-unto-myself).)
 
 <!-- -->
 > ###### Arcane Disruptor (5 Discipline)
@@ -501,7 +501,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 #### 2nd-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -527,7 +527,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 #### 2nd-Level Tradition Ability
 
-Your null tradition grants your choice of one of two abilities.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 
@@ -719,7 +719,7 @@ As a 5th-level [null](../../Browse/Classes/Null.md#null), you gain the following
 
 #### 5th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -731,7 +731,7 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 #### Chilling Readiness
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You [steel](../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
 
 #### Inertial Fulcrum
 
@@ -809,7 +809,7 @@ As a 6th-level [null](../../Browse/Classes/Null.md#null), you gain the following
 
 #### Elemental Absorption
 
-Whenever you use your [Inertial Shield](../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
 #### Elemental Buffer
 
@@ -821,7 +821,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 
@@ -981,7 +981,7 @@ You gain one perk of your choice.
 
 #### 8th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -1079,7 +1079,7 @@ Your Stamina increases by 21 and you can't be made [bleeding](../../Browse/Condi
 
 #### 9th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null tradition](../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 
@@ -1213,7 +1213,7 @@ Whenever you use an ability, you gain 1 discipline that can be used only to appl
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
+You have an [epic](../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 

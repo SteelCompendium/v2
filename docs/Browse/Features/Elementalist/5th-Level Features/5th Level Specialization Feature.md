@@ -39,7 +39,7 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your [stability](../../../../Browse/Movement/Stability.md#stability) increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../Browse/Movement/Stability.md#stability) down to a minimum of 0, then increase the ally's [stability](../../../../Browse/Movement/Stability.md#stability) by an amount equal to the [stability](../../../../Browse/Movement/Stability.md#stability) you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability is force moved, you can use a free triggered action to decrease your [stability](../../../../Browse/Movement/Stability.md#stability) down to a minimum of 0, then increase the ally's [stability](../../../../Browse/Movement/Stability.md#stability) by an amount equal to the [stability](../../../../Browse/Movement/Stability.md#stability) you lost. This change lasts until the end of the round.
 
 ##### Pierce the Veil of Substance
 

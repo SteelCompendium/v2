@@ -18,7 +18,7 @@ As a 6th-level [null](../../../Browse/Classes/Null.md#null), you gain the follow
 
 #### Elemental Absorption
 
-Whenever you use your [Inertial Shield](../../../Browse/Abilities/Null/1st-Level Features/Inertial Shield.md#inertial-shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../../../Browse/Features/Null/1st-Level Features/Inertial Shield.md#inertial-shield) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
 #### Elemental Buffer
 
@@ -30,7 +30,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 #### 6th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 

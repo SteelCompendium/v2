@@ -38,4 +38,4 @@ Though you can't gain [clarity outside of combat](../../../../Browse/Features/Ta
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.

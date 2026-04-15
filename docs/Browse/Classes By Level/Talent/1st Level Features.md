@@ -18,7 +18,7 @@ As a 1st-level [talent](../../../Browse/Classes/Talent.md#talent), you gain the 
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent traditions](../../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition):
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -29,7 +29,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../Browse/Classes/Talent.md#talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../Browse/Classes/Talent.md#talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](../../../Browse/Classes/Talent.md#talent) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../Browse/Classes/Talent.md#talent) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent traditions](../../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition) will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 #### Clarity and Strain
 
@@ -53,7 +53,7 @@ Though you can't gain [clarity outside of combat](../../../Browse/Features/Talen
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 #### Mind Spike
 
@@ -78,7 +78,7 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md#force-augmentation).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../../../Browse/Features/Talent/1st-Level Features/Talent Ward.md#talent-ward) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Force Augmentation](../../../Browse/Features/Talent/1st-Level Features/Psionic Augmentation/Force Augmentation.md#force-augmentation).)
 
 ##### Battle Augmentation
 
@@ -108,7 +108,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
+Your ward [slows](../../../Browse/Abilities/Talent/2nd-Level Features/Slow.md#slow) time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
 ##### Repulsive Ward
 
@@ -124,7 +124,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 #### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../Browse/Abilities/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in [Chapter 4: Background](../../../Chapters/Background.md#background)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../Browse/Features/Talent/1st-Level Features/Mind Spike.md#mind-spike) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 #### 1st-Level Tradition Features
 
@@ -132,11 +132,11 @@ Your [talent](../../../Browse/Classes/Talent.md#talent) tradition grants you two
 
 ###### 1st-Level Tradition Features Table
 
-| Tradition   | Features                                                                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | [Accelerate](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                      |
-| Telekinesis | [Minor Telekinesis](../../../Browse/Abilities/Talent/1st-Level Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                    |
-| Telepathy   | [Feedback Loop](../../../Browse/Abilities/Talent/1st-Level Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../../Browse/Abilities/Talent/1st-Level Features/Remote Assistance.md#remote-assistance) |
+| Tradition   | Features                                                                                                                                                                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chronopathy | [Accelerate](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate), Again                                                                                                                                                      |
+| Telekinesis | [Minor Telekinesis](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis), [Repel](../../../Browse/Features/Talent/1st-Level Features/Repel.md#repel)                                                    |
+| Telepathy   | [Feedback Loop](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Feedback Loop.md#feedback-loop), [Remote Assistance](../../../Browse/Features/Talent/1st-Level Features/1st-Level Tradition Features/Remote Assistance.md#remote-assistance) |
 
 ##### Accelerate
 
@@ -244,7 +244,7 @@ You have the following ability.
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent traditions](../../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition) or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -402,7 +402,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../../Browse/Abilities/Talent/1st-Level Features/Choke.md#choke).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -468,7 +468,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../../Browse/Abilities/Talent/1st-Level Features/Inertia Soak.md#inertia-soak).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)

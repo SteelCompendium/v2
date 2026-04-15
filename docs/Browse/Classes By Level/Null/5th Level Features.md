@@ -18,7 +18,7 @@ As a 5th-level [null](../../../Browse/Classes/Null.md#null), you gain the follow
 
 #### 5th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -30,7 +30,7 @@ Your null tradition grants you a feature, as shown on the 5th-Level Tradition Fe
 
 #### Chilling Readiness
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You [steel](../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
 
 #### Inertial Fulcrum
 

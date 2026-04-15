@@ -18,7 +18,7 @@ type: feature/trait/null/10th-level-feature
 
 #### Order
 
-You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
+You have an [epic](../../../../Browse/Abilities/Troubadour/9th-Level Features/Epic.md#epic) resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were [discipline](../../../../Browse/Features/Null/1st-Level Features/Discipline.md#discipline).
 
 At the start of a combat encounter, you can spend 1 order to increase the size of your Null Field by 1 until the end of the encounter.
 

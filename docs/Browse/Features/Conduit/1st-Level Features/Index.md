@@ -77,8 +77,8 @@ type: index
     - [Sun Domain Piety and Effect](Piety/Domain Piety And Effects/Sun Domain Piety and Effect.md#sun-domain-piety-and-effect)
     - [Trickery Domain Piety and Effect](Piety/Domain Piety And Effects/Trickery Domain Piety and Effect.md#trickery-domain-piety-and-effect)
     - [War Domain Piety and Effect](Piety/Domain Piety And Effects/War Domain Piety and Effect.md#war-domain-piety-and-effect)
-    - [Piety in Combat](Piety/Piety in Combat.md#piety-in-combat)
     - [Piety Outside of Combat](Piety/Piety Outside of Combat.md#piety-outside-of-combat)
+    - [Piety in Combat](Piety/Piety in Combat.md#piety-in-combat)
 
 </div>
 

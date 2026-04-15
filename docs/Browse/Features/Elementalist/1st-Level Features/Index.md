@@ -80,7 +80,7 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Essence in Combat](Essence/Essence in Combat.md#essence-in-combat)
     - [Essence Outside of Combat](Essence/Essence Outside of Combat.md#essence-outside-of-combat)
+    - [Essence in Combat](Essence/Essence in Combat.md#essence-in-combat)
 
 </div>

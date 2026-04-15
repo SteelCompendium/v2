@@ -20,7 +20,7 @@ type: treasure/leveled/weapon
 
 **Keywords:** Magic, Net
 
-**Item Prerequisite:** Four iron bars coated in magma slag
+**Item Prerequisite:** Four [iron](../../../../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) bars coated in magma slag
 
 **Project Source:** Texts or lore in Caelian
 

@@ -9,13 +9,6 @@ type: index
 
 <div class="browse-index" markdown>
 
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Clear Mind](10th-Level Features/Clear Mind.md#clear-mind)
-- [Omnisensory](10th-Level Features/Omnisensory.md#omnisensory)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Psion](10th-Level Features/Psion.md#psion)
-- [Skill](10th-Level Features/Skill.md#skill)
-- [Vision](10th-Level Features/Vision.md#vision)
 - [1st Level Tradition Features](1st-Level Features/1st Level Tradition Features.md#1st-level-tradition-features)
     - [Accelerate](1st-Level Features/1st-Level Tradition Features/Accelerate.md#accelerate)
     - [Again](1st-Level Features/1st-Level Tradition Features/Again.md#again)
@@ -23,8 +16,8 @@ type: index
     - [Minor Telekinesis](1st-Level Features/1st-Level Tradition Features/Minor Telekinesis.md#minor-telekinesis)
     - [Remote Assistance](1st-Level Features/1st-Level Tradition Features/Remote Assistance.md#remote-assistance)
 - [Clarity and Strain](1st-Level Features/Clarity and Strain.md#clarity-and-strain)
-    - [Clarity in Combat](1st-Level Features/Clarity And Strain/Clarity in Combat.md#clarity-in-combat)
     - [Clarity Outside of Combat](1st-Level Features/Clarity And Strain/Clarity Outside of Combat.md#clarity-outside-of-combat)
+    - [Clarity in Combat](1st-Level Features/Clarity And Strain/Clarity in Combat.md#clarity-in-combat)
 - [Mind Spike](1st-Level Features/Mind Spike.md#mind-spike)
 - [Psionic Augmentation](1st-Level Features/Psionic Augmentation.md#psionic-augmentation)
     - [Battle Augmentation](1st-Level Features/Psionic Augmentation/Battle Augmentation.md#battle-augmentation)
@@ -48,8 +41,8 @@ type: index
     - [2nd Level Telekinesis Ability](2nd-Level Features/2nd-Level Tradition Ability/2nd Level Telekinesis Ability.md#2nd-level-telekinesis-ability)
     - [2nd Level Telepathy Ability](2nd-Level Features/2nd-Level Tradition Ability/2nd Level Telepathy Ability.md#2nd-level-telepathy-ability)
 - [2nd Level Tradition Feature](2nd-Level Features/2nd Level Tradition Feature.md#2nd-level-tradition-feature)
-    - [Ease the Hours](2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)
     - [Ease Their Fall](2nd-Level Features/2nd-Level Tradition Feature/Ease Their Fall.md#ease-their-fall)
+    - [Ease the Hours](2nd-Level Features/2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)
     - [Ease the Mind](2nd-Level Features/2nd-Level Tradition Feature/Ease the Mind.md#ease-the-mind)
 - [Perk](2nd-Level Features/Perk.md#perk)
 - [Scan](3rd-Level Features/Scan.md#scan)
@@ -89,6 +82,13 @@ type: index
     - [9th Level Telekinesis Abilities](9th-Level Features/9th-Level Tradition Ability/9th Level Telekinesis Abilities.md#9th-level-telekinesis-abilities)
     - [9th Level Telepathy Abilities](9th-Level Features/9th-Level Tradition Ability/9th Level Telepathy Abilities.md#9th-level-telepathy-abilities)
 - [Fortress of Perfect Thought](9th-Level Features/Fortress of Perfect Thought.md#fortress-of-perfect-thought)
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Clear Mind](10th-Level Features/Clear Mind.md#clear-mind)
+- [Omnisensory](10th-Level Features/Omnisensory.md#omnisensory)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Psion](10th-Level Features/Psion.md#psion)
+- [Skill](10th-Level Features/Skill.md#skill)
+- [Vision](10th-Level Features/Vision.md#vision)
 
 </div>
 

@@ -29,8 +29,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Ease the Hours](2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)
     - [Ease Their Fall](2nd-Level Tradition Feature/Ease Their Fall.md#ease-their-fall)
+    - [Ease the Hours](2nd-Level Tradition Feature/Ease the Hours.md#ease-the-hours)
     - [Ease the Mind](2nd-Level Tradition Feature/Ease the Mind.md#ease-the-mind)
 
 </div>

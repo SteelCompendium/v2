@@ -24,21 +24,21 @@ Then Ajax came.
 
 ### On Dragon Knights
 
-The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
+The cloaked figure at the [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
-A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
+A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) was more terrifying than any threatening glower.
 
-The three [human](../../Browse/Ancestries/Human.md#human) bandits took a step back. One of the [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) just sneered—then, sensing his [human](../../Browse/Ancestries/Human.md#human) compatriots' reluctance, turned to look at them. "What's this?" the lead [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) growled.
+The three [human](../../Browse/Ancestries/Human.md#human) bandits took a step [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back). One of the [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) just sneered—then, sensing his [human](../../Browse/Ancestries/Human.md#human) compatriots' reluctance, turned to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at them. "What's this?" the lead [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) growled.
 
 Looking at the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight), another bandit added quickly, "We didn't know there was one of you here."
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf). "Think of the *bounty*," the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) hissed to the [humans](../../Browse/Ancestries/Human.md#human), but he kept his eye on the draconian. "We'll all be *rich*."
 
-The two [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) surveyed the tavern. The people were [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) all facing them. A few had stood up. They weren't afraid anymore.
 
 "We'll be *back*," the lead [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) said, and the group of them backed out of the inn, sheathing their shortswords before they turned and left.
 
-As one, the people in the tavern turned to look with undisguised awe at the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
+As one, the people in the tavern turned to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) with undisguised [awe](../../Browse/Abilities/Talent/1st-Level Features/Awe.md#awe) at the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight). He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to his seat in the rear.
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) walked past their table.
 
@@ -54,11 +54,11 @@ The knight bared his impressive teeth, ready to scare Jago and the other two awa
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
-The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) turned sharply to look at the man who'd spoken. His back was to the draconian, but the voice gave him away.
+The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) turned sharply to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at the man who'd spoken. His [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) was to the draconian, but the voice gave him away.
 
 "John?"
 
-The man turned to look up.
+The man turned to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) up.
 
 "Hi Vaant," he said, smiling. He rose from the table. He was middleaged, fit. Black hair hung down to his shoulders. He was armed with many weapons. "Folks," he said, "this is Vaantikalisax, knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
 
@@ -74,7 +74,7 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 "Yeah." Sir John smiled. "The hero game."
 
-The inn had mostly gone back to its business but the three peasants watched intently. Eventually the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) spoke again, his voice low.
+The inn had mostly gone [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to its business but the three peasants watched intently. Eventually the [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) spoke again, his voice low.
 
 "I owe you a lot, John—but not everything."
 
@@ -94,7 +94,7 @@ Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and
 
 "Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
 
-The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
+The [dragon knight](../../Browse/Ancestries/Dragon Knight.md#dragon-knight) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 

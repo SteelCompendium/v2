@@ -96,7 +96,7 @@ You master a range of heroic abilities, all of which cost drama to empower them.
 
 ###### 3-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)
+Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](../../../../Browse/Abilities/Troubadour/1st-Level Features/Harsh Critic.md#harsh-critic).)
 
 <!-- -->
 > ###### Harsh Critic (3 Drama)
@@ -168,7 +168,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ###### 5-Drama Ability
 
-Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)
+Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](../../../../Browse/Abilities/Troubadour/1st-Level Features/Dramatic Reversal.md#dramatic-reversal).)
 
 <!-- -->
 > ###### Dramatic Reversal (5 Drama)

@@ -28,7 +28,7 @@ The [orc](../../Browse/Ancestries/Orc.md#orc) pulled her greataxe from the split
 
 The [orc](../../Browse/Ancestries/Orc.md#orc) hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre..." She indicated the mutated ogre. "You weren't to know."
 
-"Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The [orc](../../Browse/Ancestries/Orc.md#orc) said. She seemed distant. She gave John a look. "I speak the language of your conquerors."
+"Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The [orc](../../Browse/Ancestries/Orc.md#orc) said. She seemed distant. She gave John a [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look). "I speak the language of your conquerors."
 
 John smiled. He liked this [orc](../../Browse/Ancestries/Orc.md#orc) already.
 
@@ -46,7 +46,7 @@ Khorva looked at the assembled heroes. A motley band. "You did most of the work,
 
 "Of the Howling," John said.
 
-"*Late* of the Howling," Khorva said, and looked into the forest with apparent disinterest. *Already on the back foot,* John thought. *Well if it was easy, it wouldn't be called a job.*
+"*Late* of the Howling," Khorva said, and looked into the forest with apparent disinterest. *Already on the [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) foot,* John thought. *Well if it was easy, it wouldn't be called a job.*
 
 "We've been looking for you," Dazar said.
 
@@ -76,7 +76,7 @@ Khorva frowned. "I thought the Dragon Phalanx were dead."
 
 Khorva nodded once, impressed.
 
-"We need the Howling," John said. "If we get you your tribe back...?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to look at John.
+"We need the Howling," John said. "If we get you your tribe back...?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at John.
 
 "I'd rather go fishing."
 
@@ -108,7 +108,7 @@ Khorva looked up to watch three crows idly circling, rising, riding a heat haze 
 
 "Saxton has no regulars. Just some knights, we can take care of them. But he has the Whitewater. Led by Bonebreaker Dorokor. That's three companies of elite light [orc](../../Browse/Ancestries/Orc.md#orc) foot against a handful of peasant levies. We need the Howling."
 
-"Perhaps," Khorva said, and turned away from the crows to look out over the heroes. "I know Dorokor, she is not like my brother. A head of meat and muscle. Dorokor is a thinker. You seek the Howling because you seek a counter to the Whitewater." She looked at John. "But even better, *talk* to Dorokor. Deny Saxton his pet [orc](../../Browse/Ancestries/Orc.md#orc) clan, and *earn* the allegiance of the Whitewater."
+"Perhaps," Khorva said, and turned away from the crows to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) out over the heroes. "I know Dorokor, she is not like my brother. A head of meat and muscle. Dorokor is a thinker. You seek the Howling because you seek a counter to the Whitewater." She looked at John. "But even better, *talk* to Dorokor. Deny Saxton his pet [orc](../../Browse/Ancestries/Orc.md#orc) clan, and *earn* the allegiance of the Whitewater."
 
 "Is such a thing possible?" Embers asked.
 

@@ -16,11 +16,11 @@ type: treasure/leveled/armor
 
 ##### Telekinetic Bulwark
 
-*An unseen force seems to draw this steel shield toward nearby creatures.*
+*An unseen force seems to draw this [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) shield toward nearby creatures.*
 
 **Keywords:** Psionic, Shield
 
-**Item Prerequisite:** Three ingots of steel, six crystals that resonate with psionic power
+**Item Prerequisite:** Three ingots of [steel](../../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel), six crystals that resonate with psionic power
 
 **Project Source:** Texts or lore in Variac
 

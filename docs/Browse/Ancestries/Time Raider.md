@@ -32,13 +32,13 @@ Up close, she could see the fine stitching along Lycaon's cheeks and forehead, t
 
 "You seem to be made of *bits*," the alien said as she peered at Lycaon, her crystalline eyes catching and reflecting prismatic light. "And not the best bits. Leftovers? Is that what you are? A walking assemblage of castoff *scraps*? Hahah, I thought the proteans were hideous. Someone should let them know! There are creatures even more foul-seeming and *useless* in the timescape."
 
-The taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his back. Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blond.
+The taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back). Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blond.
 
 He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [human](../../Browse/Ancestries/Human.md#human). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me* to your vessel, I will let you go free."
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
-Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [dazed](../../Browse/Conditions/Dazed.md#dazed) but she shook it off and laughed.
+Her taunts worked. Lycaon hauled [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) and punched the alien in the jaw. Her head smashed into the ruined column. She was [dazed](../../Browse/Conditions/Dazed.md#dazed) but she shook it off and laughed.
 
 "Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these... *bits*? Bits of people kludged together? Even the least of you is worth more than these."
 
@@ -48,7 +48,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 "They may pull you apart," he said to her, and at this his squadron of soldiers, all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
-"Or I may let my crucibite melt the skin from your bones." At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
+"Or I may let my crucibite melt the skin from your bones." At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back).
 
 "Shall I let you choose?" the taxiarch said, and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out *then*..."
 
@@ -64,7 +64,7 @@ The war dogs scrambled. For a moment, it seemed they might flee at this sudden i
 
 The [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) looked around and saw a clump of villagers watching the scene from a distance, gathered around what looked like some stables. He waved. "Hello!" he said, smiling.
 
-One of the villagers waved back before being shushed.
+One of the villagers waved [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
@@ -84,7 +84,7 @@ He could see the shape of the next moments play out. All he had to do was take t
 
 John knew what came next, but he wasn't an assassin. He had his own part to play. He took a step forward, away from his teammates, and noted the taxiarch didn't react. That spoke volumes. He locked eyes with his enemy.
 
-"She goes free," John commanded, his voice steel, "or you die here." He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
+"She goes free," John commanded, his voice [steel](../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel), "or you die here." He could feel the muscles tightening in his comrades, the whole company like a [steel](../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) spring wound tight.
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the [tactician](../../Browse/Classes/Tactician.md#tactician). He was just out of reach. But close enough.
 
@@ -98,7 +98,7 @@ The [time raider](../../Browse/Ancestries/Time Raider.md#time-raider)'s right up
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](../../Browse/Ancestries/Polder.md#polder) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
-The [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) burst into action and sped past him like a blur.
+The [hakaan](../../Browse/Ancestries/Hakaan.md#hakaan) burst into action and sped past him like a [blur](../../Browse/Abilities/Null/2nd-Level Features/Blur.md#blur).
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
@@ -108,7 +108,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits
 
-Time raider heroes have access to the following traits.
+[Time raider](../../Browse/Ancestries/Time Raider.md#time-raider) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 

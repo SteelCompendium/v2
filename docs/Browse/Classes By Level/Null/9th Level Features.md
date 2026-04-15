@@ -22,7 +22,7 @@ Your Stamina increases by 21 and you can't be made [bleeding](../../../Browse/Co
 
 #### 9th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null tradition](../../../Browse/Features/Null/1st-Level Features/Null Tradition.md#null-tradition) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 

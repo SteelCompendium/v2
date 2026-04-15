@@ -18,7 +18,7 @@ type: feature/subtrait/fury/1st-level-feature
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../../../Browse/Abilities/Fury/1st-Level Features/To the Death.md#to-the-death)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)
 
 <!-- -->
 > ###### Brutal Slam

@@ -35,8 +35,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Ferocity in Combat](Ferocity/Ferocity in Combat.md#ferocity-in-combat)
     - [Ferocity Outside of Combat](Ferocity/Ferocity Outside of Combat.md#ferocity-outside-of-combat)
+    - [Ferocity in Combat](Ferocity/Ferocity in Combat.md#ferocity-in-combat)
 
 </div>
 

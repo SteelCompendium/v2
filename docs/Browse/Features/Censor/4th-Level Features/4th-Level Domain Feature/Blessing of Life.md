@@ -18,4 +18,4 @@ type: feature/subtrait/censor/4th-level-feature
 
 ##### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../../../Browse/Abilities/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../../../Browse/Features/Censor/1st-Level Features/My Life for Yours.md#my-life-for-yours) ability regains Stamina, they regain additional Stamina equal to your Presence score.

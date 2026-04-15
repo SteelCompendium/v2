@@ -52,7 +52,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 "What is *that* gonna do? *She's already dead!*" Another knock at the hidden door. "Forget it. Let her knock. Grab as many as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
 She clenched her hand into a fist and the *judgment* she had placed on the head cutpurse detonated, hurling him backward. He sprawled across the floor, conscious but stunned.
 

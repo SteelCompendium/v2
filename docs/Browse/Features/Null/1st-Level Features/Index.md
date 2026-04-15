@@ -25,8 +25,8 @@ type: index
 
 <div class="browse-index" markdown>
 
-    - [Discipline in Combat](Discipline/Discipline in Combat.md#discipline-in-combat)
     - [Discipline Outside of Combat](Discipline/Discipline Outside of Combat.md#discipline-outside-of-combat)
+    - [Discipline in Combat](Discipline/Discipline in Combat.md#discipline-in-combat)
 
 </div>
 

@@ -136,7 +136,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../Browse/Conditions/Prone.md#prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](../Browse/Titles/4th Echelon/Monarch.md#monarch) is deathly allergic.
+For instance, if a hero suffers a consequence while trying to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../Browse/Conditions/Prone.md#prone). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to [arrest](../Browse/Abilities/Censor/1st-Level Features/Arrest.md#arrest) the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [monarch](../Browse/Titles/4th Echelon/Monarch.md#monarch) is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -155,7 +155,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
-On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
+On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. [Now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
 When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 Stamina from being injured in the effort.
 
@@ -245,7 +245,7 @@ Since opposed power rolls don't use tiers, when you make an opposed power roll, 
 
 ### Reactive Tests
 
-At certain times when a hero isn't engaged in overcoming a task, the Director might ask the player of the hero to make a test without context, explaining the test only after the power roll is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn't know to look for or ask about.
+At certain times when a hero isn't engaged in overcoming a task, the Director might ask the player of the hero to make a test without context, explaining the test only after the power roll is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn't know to [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) for or ask about.
 
 Reactive tests are typically made in the following circumstances, though the Director can call for them in any appropriate scenario:
 
@@ -289,7 +289,7 @@ For example, intimidating someone with a purely verbal threat is a Presence test
 
 #### Many Specific Skills
 
-*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](../Browse/Movement/Climb or Swim.md#climb-or-swim), [jumping](../Browse/Movement/Jump.md#jump), [swimming](../Browse/Movement/Climb or Swim.md#climb-or-swim), and lifting heavy objects, your character might use separate [Climb](../Browse/Movement/Climb or Swim.md#climb-or-swim), [Jump](../Browse/Movement/Jump.md#jump), Lift, and [Swim](../Browse/Movement/Climb or Swim.md#climb-or-swim) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+*Draw [Steel](../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel)* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers [climbing](../Browse/Movement/Climb or Swim.md#climb-or-swim), [jumping](../Browse/Movement/Jump.md#jump), [swimming](../Browse/Movement/Climb or Swim.md#climb-or-swim), and lifting heavy objects, your character might use separate [Climb](../Browse/Movement/Climb or Swim.md#climb-or-swim), [Jump](../Browse/Movement/Jump.md#jump), Lift, and [Swim](../Browse/Movement/Climb or Swim.md#climb-or-swim) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
 Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
@@ -367,21 +367,21 @@ Consequences for tests made with [interpersonal skills](../Browse/Skills/Interpe
 
 ###### Interpersonal Skills Table
 
-| Skill          | Use                                                                     |
-| -------------- | ----------------------------------------------------------------------- |
-| Brag           | Impress others with stories of your deeds                               |
-| Empathize      | Relate to someone on a personal level                                   |
-| Flirt          | Attract romantic attention from someone                                 |
-| Gamble         | Make bets with others                                                   |
-| Handle Animals | Interact with nonsapient animal wildlife                                |
-| Interrogate    | Obtain information from a creature withholding it                       |
-| Intimidate     | Awe or scare a creature                                                 |
-| Lead           | Inspire people to action                                                |
-| Lie            | Convince someone that a falsehood is true                               |
-| Music          | Perform music vocally or with an instrument                             |
-| Perform        | Engage in dance, oratory, acting, or some other physical performance    |
-| Persuade       | Convince someone to agree with you through use of your charms and grace |
-| Read Person    | Read the emotions and body language of other creatures                  |
+| Skill          | Use                                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Brag           | Impress others with stories of your deeds                                                                |
+| Empathize      | Relate to someone on a personal level                                                                    |
+| Flirt          | Attract romantic attention from someone                                                                  |
+| Gamble         | Make bets with others                                                                                    |
+| Handle Animals | Interact with nonsapient animal wildlife                                                                 |
+| Interrogate    | Obtain information from a creature withholding it                                                        |
+| Intimidate     | [Awe](../Browse/Abilities/Talent/1st-Level Features/Awe.md#awe) or scare a creature |
+| Lead           | Inspire people to action                                                                                 |
+| Lie            | Convince someone that a falsehood is true                                                                |
+| Music          | Perform music vocally or with an instrument                                                              |
+| Perform        | Engage in dance, oratory, acting, or some other physical performance                                     |
+| Persuade       | Convince someone to agree with you through use of your charms and grace                                  |
+| Read Person    | Read the emotions and body language of other creatures                                                   |
 
 ##### Intrigue Skills
 
@@ -393,20 +393,20 @@ Consequences for tests made with [intrigue skills](../Browse/Skills/Intrigue Ski
 
 ###### Intrigue Skills Table
 
-| Skill          | Use                                                                                                |
-| -------------- | -------------------------------------------------------------------------------------------------- |
-| Alertness      | Intuitively sense the details of your surroundings                                                 |
-| Conceal Object | Hide an object on your person or in your environment                                               |
-| Disguise       | Change your appearance to look like a different person                                             |
-| Eavesdrop      | Actively listen to something that is hard to hear, such as a whispered conversation through a door |
-| Escape Artist  | Escape from bonds such as rope or manacles                                                         |
-| Hide           | Conceal yourself from others' observation                                                          |
-| Pick Lock      | Open a lock without using the key                                                                  |
-| Pick Pocket    | Steal an item that another person wears or carries without them noticing                           |
-| Sabotage       | Disable a mechanical device such as a trap                                                         |
-| Search         | Actively search an environment for important details and items                                     |
-| Sneak          | Move silently                                                                                      |
-| Track          | Follow a trail that another creature has left behind                                               |
+| Skill          | Use                                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Alertness      | Intuitively sense the details of your surroundings                                                                                       |
+| Conceal Object | Hide an object on your person or in your environment                                                                                     |
+| Disguise       | Change your appearance to [look](../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) like a different person |
+| Eavesdrop      | Actively listen to something that is hard to hear, such as a whispered conversation through a door                                       |
+| Escape Artist  | Escape from bonds such as rope or manacles                                                                                               |
+| Hide           | Conceal yourself from others' observation                                                                                                |
+| Pick Lock      | Open a lock without using the key                                                                                                        |
+| Pick Pocket    | Steal an item that another person wears or carries without them noticing                                                                 |
+| Sabotage       | Disable a mechanical device such as a trap                                                                                               |
+| Search         | Actively search an environment for important details and items                                                                           |
+| Sneak          | Move silently                                                                                                                            |
+| Track          | Follow a trail that another creature has left behind                                                                                     |
 
 ##### Lore Skills
 
@@ -442,7 +442,7 @@ Consequences for tests made with [lore skills](../Browse/Skills/Lore Skills.md#l
 
 In this scenario, a trio of adventurers want to scale the 40-foot-high walls surrounding a castle known as the Star Chamber, hoping to covertly obtain information about their enemy, Lady Morgant.
 
-**Director (Matt):** *The towering walls that surround the Star Chamber stand before you, the single iron gate closed and locked, with a platoon of armed guards outside.*
+**Director (Matt):** *The towering walls that surround the Star Chamber stand before you, the single [iron](../Browse/Abilities/Talent/1st-Level Features/Iron.md#iron) gate closed and locked, with a platoon of armed guards outside.*
 
 **James (playing Korvo, a [shadow](../Browse/Classes/Shadow.md#shadow)):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
 
@@ -450,7 +450,7 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
 
-The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim), designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now).
 
 **Alyssa (playing Jorn, a [tactician](../Browse/Classes/Tactician.md#tactician)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) skill.*
 
@@ -462,7 +462,7 @@ Alyssa rolls 2d10 and gets a 13. She then adds her Might score of 2 and her +2 b
 
 The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 outcome is a success on a hard test.
 
-**Director:** *Okay, you're on top of the wall. You notice a few guards patrolling atop the opposite side of the wall in the distance, but they're looking out at the city right now.*
+**Director:** *Okay, you're on top of the wall. You notice a few guards patrolling atop the opposite side of the wall in the distance, but they're looking out at the city right [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now).*
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
@@ -688,7 +688,7 @@ Urdoncara, a [fury](../Browse/Classes/Fury.md#fury), starts things off by asking
 
 Jorn, a [tactician](../Browse/Classes/Tactician.md#tactician), wants to make a Reason test using the [Climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to [climb](../Browse/Movement/Climb or Swim.md#climb-or-swim) than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
-Karrel, an [elementalist](../Browse/Classes/Elementalist.md#elementalist), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+Karrel, an [elementalist](../Browse/Classes/Elementalist.md#elementalist), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group [now](../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) has 2 successes and 1 failure on the montage test.
 
 Val, a [conduit](../Browse/Classes/Conduit.md#conduit), offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 

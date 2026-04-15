@@ -54,11 +54,11 @@ Your [shadow](../../../Browse/Classes/Shadow.md#shadow) college grants you one o
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](../../../Browse/Abilities/Shadow/1st-Level Features/Black Ash Teleport.md#black-ash-teleport)                                                                                                                             |
-| Caustic Alchemy | [Coat the Blade](../../../Browse/Abilities/Shadow/1st-Level Features/Coat the Blade.md#coat-the-blade), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                      |
+| College         | Feature                                                                                                                                                                                                                                                                          |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Black Ash Teleport.md#black-ash-teleport)                                                                                                                             |
+| Caustic Alchemy | [Coat the Blade](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Coat the Blade.md#coat-the-blade), [Smoke Bomb](../../../Browse/Features/Shadow/1st-Level Features/1st-Level College Features/Smoke Bomb.md#smoke-bomb) |
+| Harlequin Mask  | I'm No Threat                                                                                                                                                                                                                                                                    |
 
 ##### Black Ash Teleport
 
@@ -127,7 +127,7 @@ Your [shadow](../../../Browse/Classes/Shadow.md#shadow) college grants you a tri
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) |
 | Caustic Alchemy | [Defensive Roll](../../../Browse/Abilities/Shadow/1st-Level Features/Defensive Roll.md#defensive-roll)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](../../../Browse/Abilities/Shadow/1st-Level Features/Clever Trick.md#clever-trick)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)
@@ -275,7 +275,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../../../Browse/Abilities/Shadow/1st-Level Features/Get In Get Out.md#get-in-get-out).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)
@@ -343,7 +343,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ##### 5-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../../../Browse/Abilities/Shadow/1st-Level Features/Coup de Grace.md#coup-de-grace).)
 
 <!-- -->
 > ###### Coup de Grace (5 Insight)

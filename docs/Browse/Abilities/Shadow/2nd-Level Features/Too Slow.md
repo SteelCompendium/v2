@@ -16,7 +16,7 @@ keywords:
   - '-'
 level: 2
 scc:
-  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:too-slow-5-insight
+  - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:too-slow
 scdc:
   - 1.1.1:11.3.2.5:03
 source: mcdm.heroes.v1
@@ -33,6 +33,6 @@ type: feature/ability/shadow/2nd-level-feature
 | ---------------------- | -----------------: |
 | **📏 Self; see below** |        **🎯 Self** |
 
-**Trigger:** You use your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability.
+**Trigger:** You use your In All This Confusion ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion) ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature who damaged you to trigger [In All This Confusion](../../../../Browse/Abilities/Shadow/1st-Level Features/In All This Confusion.md#in-all-this-confusion). After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can make a [free strike](../../../../Browse/Abilities/Common/Main Actions/Free Strike.md#free-strike) against a creature who damaged you to trigger In All This Confusion. After you [teleport](../../../../Browse/Movement/Teleport.md#teleport), you can spend a Recovery.

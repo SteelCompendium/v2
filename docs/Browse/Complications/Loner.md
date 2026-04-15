@@ -18,4 +18,4 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](../../Browse/Conditions/Taunted.md#taunted) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](../../Browse/Conditions/Taunted.md#taunted), or the end of the encounter.
+**Drawback:** [Now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](../../Browse/Conditions/Taunted.md#taunted) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](../../Browse/Conditions/Taunted.md#taunted), or the end of the encounter.

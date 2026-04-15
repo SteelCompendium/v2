@@ -14,7 +14,7 @@ type: complication
 
 #### Chaos Touched
 
-You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
+You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. [Now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
 **Benefit:** You gain an edge on the [Escape Grab](../../Browse/Abilities/Common/Maneuvers/Escape Grab.md#escape-grab), [Grab](../../Browse/Abilities/Common/Maneuvers/Grab.md#grab), and [Knockback](../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 

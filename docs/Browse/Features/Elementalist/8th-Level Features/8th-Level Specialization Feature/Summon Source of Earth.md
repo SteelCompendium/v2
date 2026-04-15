@@ -55,7 +55,7 @@ You have the following ability.
 >
 > > **Earth Harness**
 > >
-> > A creature that has the [Earth Accepts Me](../../../../../Browse/Abilities/Elementalist/3rd-Level Features/Earth Accepts Me.md#earth-accepts-me) ability can use it as a free action to meld into the source.
+> > A creature that has the [Earth Accepts Me](../../../../../Browse/Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature/Earth Accepts Me.md#earth-accepts-me) ability can use it as a free action to meld into the source.
 >
 > > **Boulder Bash**
 > >

@@ -47,7 +47,7 @@ You lose any remaining ferocity at the end of the encounter.
 
 Though you can't gain [ferocity outside of combat](../../../Browse/Features/Fury/1st-Level Features/Ferocity/Ferocity Outside of Combat.md#ferocity-outside-of-combat), you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../../../Browse/Abilities/Fury/1st-Level Features/To the Uttermost End.md#to-the-uttermost-end), you can use it as if you had spent an amount of [ferocity](../../../Browse/Features/Fury/1st-Level Features/Ferocity.md#ferocity) equal to your Victories.
 
 #### Growing Ferocity
 
@@ -180,7 +180,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 ##### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../Browse/Abilities/Fury/1st-Level Features/To the Death.md#to-the-death)!)
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)
 
 <!-- -->
 > ###### Brutal Slam
@@ -252,7 +252,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 ###### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* [Back](../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back)!)
 
 <!-- -->
 > ###### Back! (3 Ferocity)
@@ -324,7 +324,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../../Browse/Abilities/Fury/1st-Level Features/Blood for Blood.md#blood-for-blood)!)
 
 <!-- -->
 > ###### Blood for Blood! (5 Ferocity)

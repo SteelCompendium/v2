@@ -42,7 +42,7 @@ You lose any remaining piety at the end of the encounter.
 
 Though you can't gain [piety outside of combat](../../../Browse/Features/Conduit/1st-Level Features/Piety/Piety Outside of Combat.md#piety-outside-of-combat), you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Abilities/Conduit/1st-Level Features/Healing Grace.md#healing-grace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../Browse/Features/Conduit/1st-Level Features/Healing Grace.md#healing-grace), you can use it as if you had spent an amount of [piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety) equal to your Victories.
 
 ##### Domain Piety and Effects
 
@@ -63,7 +63,7 @@ Additionally, whenever you activate a domain effect by praying for [piety](../..
 ###### Fate Domain Piety and Effect
 
 - **[Piety](../../../Browse/Features/Conduit/1st-Level Features/Piety.md#piety):** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **[Prayer](../../../Browse/Features/Conduit/1st-Level Features/Prayer.md#prayer) Effect:** You call on the forces of [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
@@ -116,20 +116,20 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                                                                                                                                                                     | Skill Group   |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Creation   | [Hands of the Maker](../../../Browse/Abilities/Conduit/1st-Level Features/Hands of the Maker.md#hands-of-the-maker)                                                   | Crafting      |
-| Death      | [Grave Speech](../../../Browse/Abilities/Conduit/1st-Level Features/Grave Speech.md#grave-speech)                                                                   | Lore          |
-| Fate       | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
-| Life       | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
-| Love       | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
-| Nature     | [Faithful Friend](../../../Browse/Abilities/Conduit/1st-Level Features/Faithful Friend.md#faithful-friend)                                                             | Exploration   |
-| Protection | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
-| Sun        | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
-| Trickery   | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
-| War        | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
+| Domain                                                                                 | Feature                                                                                                                                                                     | Skill Group   |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Creation                                                                               | [Hands of the Maker](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Hands of the Maker.md#hands-of-the-maker)                        | Crafting      |
+| Death                                                                                  | [Grave Speech](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Grave Speech.md#grave-speech)                                        | Lore          |
+| [Fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) | [Oracular Visions](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Oracular Visions.md#oracular-visions)                               | Lore          |
+| Knowledge                                                                              | [Blessing of Comprehension](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Comprehension.md#blessing-of-comprehension)           | Lore          |
+| Life                                                                                   | [Revitalizing Ritual](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Revitalizing Ritual.md#revitalizing-ritual)                         | Exploration   |
+| Love                                                                                   | [Blessing of Compassion](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Compassion.md#blessing-of-compassion)                 | Interpersonal |
+| Nature                                                                                 | [Faithful Friend](../../../Browse/Features/Censor/1st-Level Features/1st-Level Domain Feature/Faithful Friend.md#faithful-friend)                                  | Exploration   |
+| Protection                                                                             | [Protective Circle](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Protective Circle.md#protective-circle)                             | Exploration   |
+| Storm                                                                                  | [Blessing of Fortunate Weather](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Blessing of Fortunate Weather.md#blessing-of-fortunate-weather) | Exploration   |
+| Sun                                                                                    | [Inner Light](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inner Light.md#inner-light)                                         | Lore          |
+| Trickery                                                                               | [Inspired Deception](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Inspired Deception.md#inspired-deception)                           | Intrigue      |
+| War                                                                                    | [Sanctified Weapon](../../../Browse/Features/Conduit/1st-Level Features/1st-Level Domain Feature/Sanctified Weapon.md#sanctified-weapon)                             | Exploration   |
 
 ##### Blessing of Compassion
 
@@ -202,7 +202,7 @@ You have the following ability.
 
 ##### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../../Browse/Abilities/Conduit/2nd-Level Features/Morning Light.md#morning-light) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ##### Inspired Deception
 
@@ -210,7 +210,7 @@ The gods favor your thievery with magic. Whenever you make a test that uses a sk
 
 ##### Oracular Visions
 
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
+Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) points. Whenever you or a creature within 10 squares makes a test, you can spend 1 [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining [fate](../../../Browse/Abilities/Talent/6th-Level Features/Fate.md#fate) points when you finish a respite.
 
 ##### Protective Circle
 
@@ -303,7 +303,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md#prayer-of-distance).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../../../Browse/Features/Conduit/1st-Level Features/Conduit Ward.md#conduit-ward) below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../../../Browse/Features/Conduit/1st-Level Features/Prayer/Prayer of Distance.md#prayer-of-distance).)
 
 ##### Prayer of Destruction
 
@@ -491,7 +491,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 ###### 3-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
+Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../../Browse/Abilities/Conduit/1st-Level Features/Violence Will Not Aid Thee.md#violence-will-not-aid-thee).)
 
 <!-- -->
 > ###### Call the Thunder Down (3 Piety)
@@ -555,7 +555,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 ###### 5-Piety Ability
 
-Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)
+Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../../Browse/Abilities/Conduit/1st-Level Features/Curse of Terror.md#curse-of-terror).)
 
 <!-- -->
 > ###### Corruption's Curse (5 Piety)

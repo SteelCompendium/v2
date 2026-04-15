@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent traditions](../../../../Browse/Features/Talent/1st-Level Features/Talent Tradition.md#talent-tradition) or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -176,7 +176,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../../../Browse/Abilities/Talent/1st-Level Features/Choke.md#choke).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -242,7 +242,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../../../Browse/Abilities/Talent/1st-Level Features/Inertia Soak.md#inertia-soak).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)

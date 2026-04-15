@@ -36,7 +36,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 ##### Fire: Acolyte of Fire
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability (see below) also gains this bonus when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green
 
@@ -89,13 +89,13 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the [Instantaneous Excavation](../../../Browse/Abilities/Elementalist/1st-Level Features/Instantaneous Excavation.md#instantaneous-excavation) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
 You can't maintain any abilities that would make you earn a negative amount of [essence](../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining Instantaneous Excavation, taking 10 or more damage in one turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](../../../Browse/Abilities/Elementalist/1st-Level Features/Instantaneous Excavation.md#instantaneous-excavation), taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
 #### Practical Magic
 
@@ -112,8 +112,8 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your [Hurl Element](../../../Browse/Abilities/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You use the [Knockback](../../../Browse/Abilities/Common/Maneuvers/Knockback.md#knockback) maneuver (see Chapter 10: Combat), but its distance becomes the range of your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../../../Browse/Features/Elementalist/1st-Level Features/Hurl Element.md#hurl-element) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You [teleport](../../../Browse/Movement/Teleport.md#teleport) up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../../../Browse/Features/Elementalist/1st-Level Features/Essence.md#essence) to [teleport](../../../Browse/Movement/Teleport.md#teleport) 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
@@ -124,8 +124,8 @@ Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level 
 
 | Specialization | Feature                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Earth          | [Motivate Earth](../../../Browse/Abilities/Elementalist/1st-Level Features/Motivate Earth.md#motivate-earth)                                                                     |
-| Fire           | [Return to Formlessness](../../../Browse/Abilities/Elementalist/1st-Level Features/Return to Formlessness.md#return-to-formlessness)                                                   |
+| Earth          | [Motivate Earth](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Motivate Earth.md#motivate-earth)                                 |
+| Fire           | [Return to Formlessness](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/Return to Formlessness.md#return-to-formlessness)               |
 | Green          | [It Is the Soul Which Hears](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/It Is the Soul Which Hears.md#it-is-the-soul-which-hears) |
 | Void           | [A Beyonding of Vision](../../../Browse/Features/Elementalist/1st-Level Features/1st-Level Specialization Feature/A Beyonding of Vision.md#a-beyonding-of-vision)               |
 
@@ -144,7 +144,7 @@ You also gain the following ability.
 > | ----------------------- | -------------: |
 > | **📏 Ranged 10**        | **🎯 Special** |
 >
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../Browse/Abilities/Elementalist/1st-Level Features/Shared Void Sense.md#shared-void-sense) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
 
 ##### It Is the Soul Which Hears
 
@@ -259,7 +259,7 @@ Your [elemental specialization](../../../Browse/Features/Elementalist/1st-Level 
 
 #### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist Ward](../../../Browse/Features/Elementalist/1st-Level Features/Elementalist Ward.md#elementalist-ward) below) by performing a complex ritual as a respite activity. (*Quick Build:* [Enchantment of Destruction](../../../Browse/Features/Elementalist/1st-Level Features/Enchantment/Enchantment of Destruction.md#enchantment-of-destruction).)
 
 ##### Enchantment of Battle
 
@@ -289,7 +289,7 @@ You create an invisible elemental ward that protects you. Choose one of the foll
 
 ##### Ward of Delightful Consequences
 
-A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
+A protective field of void magic absorbs violence aimed at you, then lets you hurl it [back](../../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) at your enemies. The first time each round that you take damage, you gain 1 surge.
 
 ##### Ward of Excellent Protection
 
@@ -517,7 +517,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 ###### 5-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
+Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../../Browse/Abilities/Elementalist/1st-Level Features/Conflagration.md#conflagration).)
 
 <!-- -->
 > ###### Conflagration (5 Essence)

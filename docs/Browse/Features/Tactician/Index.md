@@ -5,19 +5,6 @@ type: index
 
 # Tactician Index
 
-## 10th-Level Features
-
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
-- [Command](10th-Level Features/Command.md#command)
-- [Perk](10th-Level Features/Perk.md#perk)
-- [Skill](10th-Level Features/Skill.md#skill)
-- [True Focus](10th-Level Features/True Focus.md#true-focus)
-- [Warmaster](10th-Level Features/Warmaster.md#warmaster)
-
-</div>
-
 ## 1st-Level Features
 
 <div class="browse-index" markdown>
@@ -29,8 +16,8 @@ type: index
 - [Doctrine Triggered Action](1st-Level Features/Doctrine Triggered Action.md#doctrine-triggered-action)
 - [Field Arsenal](1st-Level Features/Field Arsenal.md#field-arsenal)
 - [Focus](1st-Level Features/Focus.md#focus)
-    - [Focus in Combat](1st-Level Features/Focus/Focus in Combat.md#focus-in-combat)
     - [Focus Outside of Combat](1st-Level Features/Focus/Focus Outside of Combat.md#focus-outside-of-combat)
+    - [Focus in Combat](1st-Level Features/Focus/Focus in Combat.md#focus-in-combat)
 - [Mark](1st-Level Features/Mark.md#mark)
 - [Strike Now](1st-Level Features/Strike Now.md#strike-now)
 - [Tactical Doctrine](1st-Level Features/Tactical Doctrine.md#tactical-doctrine)
@@ -139,5 +126,18 @@ type: index
     - [9th Level Mastermind Abilities](9th-Level Features/9th-Level Doctrine Ability/9th Level Mastermind Abilities.md#9th-level-mastermind-abilities)
     - [9th Level Vanguard Abilities](9th-Level Features/9th-Level Doctrine Ability/9th Level Vanguard Abilities.md#9th-level-vanguard-abilities)
 - [Grandmaster of Arms](9th-Level Features/Grandmaster of Arms.md#grandmaster-of-arms)
+
+</div>
+
+## 10th-Level Features
+
+<div class="browse-index" markdown>
+
+- [Characteristic Increase](10th-Level Features/Characteristic Increase.md#characteristic-increase)
+- [Command](10th-Level Features/Command.md#command)
+- [Perk](10th-Level Features/Perk.md#perk)
+- [Skill](10th-Level Features/Skill.md#skill)
+- [True Focus](10th-Level Features/True Focus.md#true-focus)
+- [Warmaster](10th-Level Features/Warmaster.md#warmaster)
 
 </div>

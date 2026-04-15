@@ -14,7 +14,7 @@ type: ancestry
 
 ## Dwarf
 
-Possessed of a strength that belies their size, [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf).
+Possessed of a strength that belies their size, [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct [steel](../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf).
 
 [Dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) are the children of the elder god Ord, and a common phrase among [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) leave their homes to see the world and seek glory in Ord's name.
 
@@ -22,7 +22,7 @@ Possessed of a strength that belies their size, [dwarves](../../Browse/Ancestrie
 
 "They can be stubborn," Embers said.
 
-John smiled and gave her a look as they walked around the barn. "Yeah not like elves and [humans](../../Browse/Ancestries/Human.md#human), right?"
+John smiled and gave her a [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) as they walked around the barn. "Yeah not like elves and [humans](../../Browse/Ancestries/Human.md#human), right?"
 
 Embers grinned.
 
@@ -34,9 +34,9 @@ They found the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) at the edge of th
 
 John and Embers watched silently as the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) hefted another massive stone onto the cutting block.
 
-The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked back to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
+The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) spit into his hands and noticed the two out of the corner of his eye. He paused, walked over to grab his battle staff with the hourglass symbol of Zarok, Law-Giver at the tip. He walked [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to the stone and leaned his staff against a tree stump within easy reach should he need to use it.
 
-He went back to work.
+He went [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to work.
 
 "Good morning," John said.
 
@@ -44,13 +44,13 @@ The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) ignored them.
 
 "I'm a friend of Morag the Wise Woman," John said. "She said there was a high theochron of Zarok, Law-Giver around here working to earn his keep."
 
-The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
+The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to work and a moment later there were two more smoking blocks. He cleared them away.
 
 "There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
 "Mm. I have heard of this one," the [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
-"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) appeared to notice her for the first time, peered at her, took in her raiment, and went back to work. "Nine against Saxton." The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
+"No people *deserve* tyranny," Embers said, an edge in her voice. The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) appeared to notice her for the first time, peered at her, took in her raiment, and went [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) to work. "Nine against Saxton." The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) carried the massive block over his head to the cutting stone. He shook his head in disbelief at what was being asked. "How great the opposition?"
 
 John told him.
 
@@ -62,7 +62,7 @@ The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) dropped the stone in astonis
 
 "I see no reason to choose," Embers said smoothly. "In my case, as well as the case of these villagers, justice would *be* revenge."
 
-The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf)'s head snapped to look at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
+The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf)'s head snapped to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at Sir John. "She speaks my language as well it seems. You are of a kind, you two."
 
 "Three," John dared.
 
@@ -84,7 +84,7 @@ The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) said nothing. He looked at t
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
-The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) looked up at Embers, "Her I know by reputation." He turned to look at John.
+The [dwarf](../../Browse/Ancestries/Dwarf.md#dwarf) looked up at Embers, "Her I know by reputation." He turned to [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) at John.
 
 John bowed slightly. "John," he said.
 

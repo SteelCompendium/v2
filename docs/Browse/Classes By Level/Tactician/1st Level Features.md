@@ -28,7 +28,7 @@ Your [tactical doctrine](../../../Browse/Features/Tactician/1st-Level Features/T
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
+The ring of [steel](../../../Browse/Abilities/Talent/8th-Level Features/Steel.md#steel) panics others but brings order to your mind, granting you a Heroic Resource called [focus](../../../Browse/Features/Tactician/1st-Level Features/Focus.md#focus).
 
 ##### Focus in Combat
 
@@ -222,7 +222,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 ###### 3-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike.)
+Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../../Browse/Abilities/Tactician/1st-Level Features/Inspiring Strike.md#inspiring-strike).)
 
 <!-- -->
 > ###### Battle Cry (3 Focus)
@@ -282,7 +282,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 #### 5-Focus Ability
 
-Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil.)
+Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](../../../Browse/Abilities/Tactician/1st-Level Features/Hammer and Anvil.md#hammer-and-anvil).)
 
 <!-- -->
 > ###### Hammer and Anvil (5 Focus)

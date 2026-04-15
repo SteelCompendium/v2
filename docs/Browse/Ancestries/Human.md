@@ -14,15 +14,15 @@ type: ancestry
 
 ## Human
 
-[Humans](../../Browse/Ancestries/Human.md#human) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+[Humans](../../Browse/Ancestries/Human.md#human) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the [back](../../Browse/Abilities/Fury/1st-Level Features/Back.md#back) of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 "No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](../../Browse/Ancestries/Dwarf.md#dwarf) and the [orcs](../../Browse/Ancestries/Orc.md#orc) as you say. What is it that sets [humans](../../Browse/Ancestries/Human.md#human) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
 ### On Humans
 
-So, we arrive here at the end of your first semester of [Human](../../Browse/Ancestries/Human.md#human) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
+So, we arrive here at the end of your first semester of [Human](../../Browse/Ancestries/Human.md#human) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now), I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
-I will now answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../../Browse/Ancestries/Human.md#human)?
+I will [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) answer the one question I am asked most often, and which I save answering until the last day of class. What do I think of [humans](../../Browse/Ancestries/Human.md#human)?
 
 I am a [high elf](../../Browse/Ancestries/High Elf.md#high-elf), as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [humans](../../Browse/Ancestries/Human.md#human), for thirteen centuries. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
@@ -38,11 +38,11 @@ That refusal to yield to death... to *death*... is what drives you, I think. Dri
 
 We studied [human](../../Browse/Ancestries/Human.md#human) history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each [human](../../Browse/Ancestries/Human.md#human) generation greater than the last—more courageous, more generous. Quicker to forgive.
 
-Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
+Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now) rules the Necropolitan Ruin in the Abyssal Waste.
 
 We watched Cthrion Uroniziir try to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.1
 
-Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](../../Browse/Ancestries/Human.md#human). That's a fact. That's history. You can look it up.
+Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led... by [humans](../../Browse/Ancestries/Human.md#human). That's a fact. That's history. You can [look](../../Browse/Abilities/Shadow/6th-Level Features/Look.md#look) it up.
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think... there must be.
 
@@ -50,7 +50,7 @@ Those great [humans](../../Browse/Ancestries/Human.md#human), your ancestors, di
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../../Browse/Classes/Conduit.md#conduit) of saints, warmasters of great armies. [Censors](../../Browse/Classes/Censor.md#censor) and [shadows](../../Browse/Classes/Shadow.md#shadow). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../../Browse/Classes/Conduit.md#conduit) of saints, warmasters of great armies. [Censors](../../Browse/Classes/Censor.md#censor) and [shadows](../../Browse/Classes/Shadow.md#shadow). That may seem unlikely [now](../../Browse/Abilities/Tactician/1st-Level Features/Now.md#now), but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
