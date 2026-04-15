@@ -1,0 +1,48 @@
+# steel-etl site configuration for the v2 MkDocs website
+# Usage: steel-etl site --config v2/site.yaml
+
+# Source: steel-etl md-linked output
+source_dir: ../steel-etl/output/en/md-linked
+
+# MkDocs docs directory
+docs_dir: ./docs
+
+# Site sections (mapped to MkDocs tabs)
+sections:
+  # Browse: modular pages by type (classes, abilities, conditions, etc.)
+  - name: Browse
+    include:
+      - class/
+      - feature/
+      - condition/
+      - complication/
+      - kit/
+      - ancestry/
+      - culture/
+      - career/
+      - perk/
+      - title/
+      - treasure/
+      - skill/
+    sort: natural
+
+  # Read: chapters in book order
+  - name: Read
+    title: Rulebook Chapters
+    include:
+      - chapter/
+    sort: natural
+
+  # Bestiary (when monsters are added)
+  # - name: Bestiary
+  #   include:
+  #     - monster/
+  #     - statblock/
+  #   sort: natural
+
+# Exclude these sections from search (avoids duplicate results)
+search_exclude:
+  - Read
+
+# Static content overrides (copied last, takes precedence)
+static_content: ./static_content/docs
