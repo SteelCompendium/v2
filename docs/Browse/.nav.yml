@@ -1,6 +1,3 @@
-nav:
-  - index.md
-  - glob: "*"
-    sort:
-      type: natural
-      by: title
+sort:
+    by: title
+    type: natural

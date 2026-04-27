@@ -2,7 +2,7 @@
 # Usage: steel-etl site --config v2/site.yaml
 
 # Source: steel-etl md-linked output
-source_dir: ../steel-etl/output/en/md-linked
+source_dir: ../data/data-rules/en/md-linked
 
 # MkDocs docs directory
 docs_dir: ./docs
