@@ -22,7 +22,3 @@ type: ability
 | **📏 2 burst** | **🎯 Self and each ally in the area** |
 
 **Effect:** You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.
-
-##### 6th-Level Vanguard Abilities
-
-Choose one of the following abilities.

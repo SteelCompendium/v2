@@ -34,7 +34,3 @@ type: ability
 - **17+:** 16 + **A** damage
 
 **Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
-
-##### 2nd-Level Virtuoso Ability
-
-Choose one of the following abilities.

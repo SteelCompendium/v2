@@ -34,7 +34,3 @@ type: ability
 - **≤11:** 6 damage; M < WEAK, dazed
 - **12-16:** 8 damage; M < AVERAGE, dazed
 - **17+:** 12 damage; M < STRONG, dazed
-
-##### 6th-Level Cryokinetic Abilities
-
-Choose one of the following abilities.

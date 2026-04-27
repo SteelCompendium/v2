@@ -35,7 +35,3 @@ type: ability
 - **17+:** 8 damage; vertical pull 7
 
 **Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
-
-##### 9th-Level Reaver Abilities
-
-Choose one of the following abilities.

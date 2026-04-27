@@ -27,7 +27,3 @@ type: ability
 **Trigger:** The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
 
 **Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
-
-##### 6th-Level Oracle Abilities
-
-Choose one of the following abilities.

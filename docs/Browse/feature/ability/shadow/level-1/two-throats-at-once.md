@@ -32,7 +32,3 @@ type: ability
 - **≤11:** 4 damage
 - **12-16:** 6 damage
 - **17+:** 10 damage
-
-##### 5-Insight Ability
-
-Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)

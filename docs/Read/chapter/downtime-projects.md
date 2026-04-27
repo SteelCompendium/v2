@@ -546,7 +546,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Chargebreaker:** While you wield this weapon, you have the following ability.
 
-#### Stop Right There
+###### Stop Right There
 
 >
 > *Their momentum, your impact.*
@@ -613,7 +613,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
 
-#### Nova
+###### Nova
 
 >
 > *I am an eternal flame, baby!*

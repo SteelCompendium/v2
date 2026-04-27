@@ -34,7 +34,3 @@ type: ability
 - **17+:** 14 + R damage; M < STRONG, prone and can't stand (save ends)
 
 **Strained:** You take half the damage the target takes.
-
-##### 2nd-Level Telepathy Ability
-
-Choose one of the following abilities.

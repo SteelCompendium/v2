@@ -6,3 +6,7 @@ type: trait
 ---
 
 All stormwight kits have the following features in common.
+
+##### Signature Ability
+
+You gain a new signature ability from your kit.

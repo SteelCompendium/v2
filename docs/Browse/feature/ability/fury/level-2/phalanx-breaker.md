@@ -33,7 +33,3 @@ type: ability
 - **≤11:** 2 damage; A < WEAK, dazed (save ends)
 - **12-16:** 4 damage; A < AVERAGE, dazed (save ends)
 - **17+:** 6 damage; A < STRONG, dazed (save ends)
-
-##### 2nd-Level Stormwight Ability
-
-Choose one of the following abilities.

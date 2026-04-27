@@ -34,7 +34,3 @@ type: ability
 - **17+:** 24 + M damage
 
 **Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.
-
-##### 9th-Level Stormwight Abilities
-
-Choose one of the following abilities.

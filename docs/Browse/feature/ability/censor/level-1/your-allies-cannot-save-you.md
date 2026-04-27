@@ -34,11 +34,3 @@ type: ability
 - **17+:** 8 + M holy damage
 
 **Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
-
-##### Heroic Abilities
-
-You call upon a number of heroic abilities, all of them bound to your wrath.
-
-###### 3-Wrath Ability
-
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)

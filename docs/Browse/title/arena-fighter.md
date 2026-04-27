@@ -16,3 +16,18 @@ type: title
 - *Foes as Weapons:* Whenever you have a creature of your size or smaller grabbed, you can use them as a weapon when you make a melee weapon free strike. Both the target and the grabbed enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+
+##### Showstopper (5 Heroic Resource)
+
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 6 damage; I < WEAK, slowed (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, frightened (save ends)
+> - **17+:** 14 damage; I < STRONG, dazed (save ends)
+>
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is frightened (save ends).

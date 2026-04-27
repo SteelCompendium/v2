@@ -34,7 +34,3 @@ type: ability
 - **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
 - **17+:** 4 + R damage; R < STRONG, frightened (save ends)
-
-##### 2nd-Level Mastermind Ability
-
-Choose one of the following abilities.

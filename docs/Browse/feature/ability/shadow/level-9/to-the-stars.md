@@ -34,7 +34,3 @@ type: ability
 - **17+:** 11 + A fire damage; vertical push 15
 
 **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
-
-##### 9th-Level Harlequin Mask Abilities
-
-Choose one of the following abilities.

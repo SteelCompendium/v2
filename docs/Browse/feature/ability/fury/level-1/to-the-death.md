@@ -34,11 +34,3 @@ type: ability
 - **17+:** 9 + M damage
 
 **Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
-
-##### Heroic Abilities
-
-You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
-
-###### 3-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)

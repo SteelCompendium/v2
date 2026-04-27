@@ -35,7 +35,3 @@ Additionally, you make one power roll that targets each enemy you move adjacent 
 - **≤11:** Push 1
 - **12-16:** Push 2
 - **17+:** Push 3
-
-##### 2nd-Level Reaver Ability
-
-Choose one of the following abilities.

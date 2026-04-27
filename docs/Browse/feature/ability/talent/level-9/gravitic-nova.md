@@ -36,7 +36,3 @@ type: ability
 **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 
 **Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
-
-##### 9th-Level Telepathy Abilities
-
-Choose one of the following abilities.

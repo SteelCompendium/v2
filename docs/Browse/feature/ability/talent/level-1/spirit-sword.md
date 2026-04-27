@@ -37,11 +37,3 @@ type: ability
 **Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
-
-##### Heroic Abilities
-
-You know a range of heroic abilities, all of which cost clarity to fuel them.
-
-###### 3-Clarity Ability
-
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)

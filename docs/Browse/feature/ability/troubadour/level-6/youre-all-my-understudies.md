@@ -23,7 +23,3 @@ type: ability
 | **📏 5 burst**  | **🎯 Each ally in the area** |
 
 **Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
-
-##### 6th-Level Duelist Abilities
-
-Choose one of the following abilities.

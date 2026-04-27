@@ -34,7 +34,3 @@ type: ability
 - **17+:** 15 + I cold damage; M < STRONG, restrained (save ends)
 
 **Effect:** While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2.
-
-##### 9th-Level Metakinetic Abilities
-
-Choose one of the following abilities.

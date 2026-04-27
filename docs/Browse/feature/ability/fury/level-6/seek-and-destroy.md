@@ -36,7 +36,3 @@ type: ability
 - **17+:** 10 + M damage; P < STRONG, frightened (save ends)
 
 **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are frightened of you (save ends).
-
-##### 6th-Level Stormwight Abilities
-
-Choose one of the following abilities.

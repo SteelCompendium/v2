@@ -34,7 +34,3 @@ type: ability
 - **≤11:** You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
 - **12-16:** You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.
 - **17+:** You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
-
-##### 9th-Level Virtuoso Abilities
-
-Choose one of the following abilities.

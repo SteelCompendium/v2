@@ -24,7 +24,3 @@ type: ability
 | **📏 2 burst**                 | **🎯 Each ally in the area** |
 
 **Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
-
-##### 9th-Level Telekinesis Abilities
-
-Choose one of the following abilities.

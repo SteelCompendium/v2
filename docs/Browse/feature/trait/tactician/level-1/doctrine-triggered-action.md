@@ -15,3 +15,18 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 | Insurgent  | Advanced Tactics |
 | Mastermind | Overwatch        |
 | Vanguard   | Parry            |
+
+###### Advanced Tactics
+
+>
+> *Your leadership aids an ally.*
+>
+> | **Ranged**       |   **Triggered** |
+> |------------------|----------------:|
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Trigger:** The target deals damage to another creature.
+>
+> **Effect:** The target gains 2 surges, which they can use on the triggering damage.
+>
+> **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.

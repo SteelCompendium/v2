@@ -23,7 +23,3 @@ type: ability
 | **📏 3 burst**  | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.
-
-##### 2nd-Level Oracle Ability
-
-Choose one of the following abilities.

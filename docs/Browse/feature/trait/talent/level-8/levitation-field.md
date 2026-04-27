@@ -7,3 +7,16 @@ type: trait
 ---
 
 You have the following ability.
+
+###### Levitation Field
+
+>
+> *You manipulate the air around your allies so they can move as freely through the sky as you can.*
+>
+> | **Area, Psionic** |                 **Maneuver** |
+> |-------------------|-----------------------------:|
+> | **📏 3 burst**    | **🎯 Each ally in the area** |
+>
+> **Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+>
+> **Spend 5 Clarity:** The effects last for 1 hour instead.

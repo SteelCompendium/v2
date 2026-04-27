@@ -34,7 +34,3 @@ type: ability
 - **17+:** 8 + M damage; M < STRONG, bleeding (save ends)
 
 **Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
-
-###### 5-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)

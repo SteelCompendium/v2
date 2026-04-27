@@ -32,7 +32,3 @@ type: ability
 - **≤11:** 4 + A damage; I < WEAK, dazed and slowed (save ends)
 - **12-16:** 5 + A damage; I < AVERAGE, dazed and slowed (save ends)
 - **17+:** 7 + A damage; I < STRONG, dazed and slowed (save ends)
-
-###### 5-Discipline Ability
-
-Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)

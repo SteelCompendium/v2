@@ -62,68 +62,6 @@ Trinkets are treasures that can be used at will without a reduction in their pot
 
 Like consumables, trinket treasures are organized by echelon. You can carry any number of trinkets.
 
-#### Hallucination Field
-
->
-> *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
->
-> | **Psionic, Ranged** |             **Maneuver** |
-> |---------------------|-------------------------:|
-> | **📏 Ranged 10**    | **🎯 Self and any ally** |
->
-> **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the distance of this ability away from you.
-
-##### Nullfield Resonator Ring
-
-*This simple band of copper vibrates slightly when handled.*
-
-**Keywords:** Psionic, Ring
-
-**Item Prerequisite:** A wafer of gallium arsenide
-
-**Project Source:** Texts or lore in Mindspeech
-
-**Project Roll Characteristic:** Reason or Intuition
-
-**Project Goal:** 450
-
-**Effect:** You must be a null to wear this ring. While you do so, the area of your Null Field ability increases by 1.
-
-Additionally, you have the following ability.
-
-#### Nullring Strike
-
->
-> *Your punch delivers a devastating burst of psionic energy.*
->
-> | **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
-> |----------------------------------------|------------------------------:|
-> | **📏 Melee 1**                         | **🎯 One creature or object** |
->
-> **Power Roll + Might or Agility:**
->
-> - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
-> - **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
->
-> **Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.
-
-##### Shifting Ring
-
-*This silvery metal ring seems to momentarily vanish when observed from certain angles.*
-
-**Keywords:** Psionic, Ring
-
-**Item Prerequisite:** One-third of a pound of diamond dust, one nugget of pure silver
-
-**Project Source:** Texts or lore in Khelt
-
-**Project Roll Characteristic:** Agility or Intuition
-
-**Project Goal:** 450
-
-**Effect:** Once per turn, you can use a maneuver to teleport up to 3 squares. Additionally, when targeted by any other effect that causes you to teleport, you can teleport up to 3 additional squares.
-
 ### Leveled Treasures
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap into their wielder's will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you gain new levels.

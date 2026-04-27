@@ -15,3 +15,14 @@ Once on each of your turns, you can use a free maneuver to change one condition 
 ###### Take Two!
 
 You have the following performance ability, which is usable with your Routines feature.
+
+###### Take Two!
+
+>
+> *One more, and this time make it interesting.*
+>
+> | **Area, Magic, Performance** |                         **No action** |
+> |------------------------------|--------------------------------------:|
+> | **📏 5 aura**                | **🎯 Self and each ally in the area** |
+>
+> **Effect:** While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.

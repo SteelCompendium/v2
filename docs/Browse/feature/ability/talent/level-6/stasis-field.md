@@ -39,7 +39,3 @@ Make a power roll that targets each enemy in the area.
 - **17+:** P < STRONG, the target is restrained until the effect ends
 
 **Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects restrained in the area can be force moved. You are restrained until the effect ends.
-
-##### 6th-Level Telekinesis Abilities
-
-Choose one of the following abilities.

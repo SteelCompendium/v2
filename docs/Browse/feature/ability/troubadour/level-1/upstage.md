@@ -30,7 +30,3 @@ type: ability
 - **≤11:** Taunted (EoT); A < WEAK, prone
 - **12-16:** Taunted (EoT); A < AVERAGE, prone
 - **17+:** Taunted (EoT); A < STRONG, prone and can't stand (EoT)
-
-###### 5-Drama Ability
-
-Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)

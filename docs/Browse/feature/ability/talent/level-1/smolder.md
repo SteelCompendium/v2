@@ -35,7 +35,3 @@ type: ability
 - **≤11:** 3 + R damage; R < WEAK, the target has weakness 5 (save ends)
 - **12-16:** 6 + R damage; R < AVERAGE, the target has weakness 5 (save ends)
 - **17+:** 9 + R damage; R < STRONG, the target has weakness equal to 5 + your Reason score (save ends)
-
-###### 5-Clarity Ability
-
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)

@@ -35,7 +35,3 @@ type: ability
 - **17+:** 13 + M damage; slide 5
 
 **Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
-
-##### 6th-Level Mastermind Abilities
-
-Choose one of the following abilities.

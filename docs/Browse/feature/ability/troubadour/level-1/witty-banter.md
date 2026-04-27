@@ -38,11 +38,3 @@ type: ability
 **Effect:** One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
 **Spend 1 Drama:** The chosen ally can spend a Recovery.
-
-##### Heroic Abilities
-
-You master a range of heroic abilities, all of which cost drama to empower them.
-
-###### 3-Drama Ability
-
-Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)

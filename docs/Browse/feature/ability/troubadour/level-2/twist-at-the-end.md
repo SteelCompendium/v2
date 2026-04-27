@@ -23,7 +23,3 @@ type: ability
 | **📏 Ranged 10**  | **🎯 One dead enemy** |
 
 **Effect:** A target who is not a leader or solo creature comes back to life with half their Stamina and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
-
-##### 2nd-Level Duelist Ability
-
-Choose one of the following abilities.

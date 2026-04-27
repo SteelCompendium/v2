@@ -34,7 +34,3 @@ A creature who drinks the potion receives benefits based on your power roll.
 - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
 - **12-16:** The creature can fly until the end of the encounter.
 - **17+:** The creature turns invisible until the end of their next turn.
-
-##### 6th-Level Harlequin Mask Abilities
-
-Choose one of the following abilities.

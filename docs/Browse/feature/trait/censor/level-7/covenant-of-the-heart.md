@@ -7,3 +7,14 @@ type: trait
 ---
 
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
+
+###### Guided to Your Side
+
+> 
+> *You concentrate on a friend and teleport to them.*
+> 
+> | **Magic, Ranged** |           **Main action** |
+> |-------------------|--------------------------:|
+> | **📏 Ranged 10**  | **🎯 Self and each ally** |
+> 
+> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.

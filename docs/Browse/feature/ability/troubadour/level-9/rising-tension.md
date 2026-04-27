@@ -23,7 +23,3 @@ type: ability
 | **📏 Ranged 10**  | **🎯 One ally** |
 
 **Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
-
-##### 9th-Level Duelist Abilities
-
-Choose one of the following abilities.

@@ -23,7 +23,3 @@ type: ability
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
 **Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
-
-##### 2nd-Level Paragon Ability
-
-Choose one of the following abilities.

@@ -34,7 +34,3 @@ type: ability
 - **17+:** Slide 12 + R; prone; M < STRONG, the forced movement is vertical
 
 **Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
-
-##### 6th-Level Telepathy Abilities
-
-Choose one of the following abilities.

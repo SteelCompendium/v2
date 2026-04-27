@@ -34,7 +34,3 @@ type: ability
 - **17+:** 16 + M damage; push 7
 
 **Effect:** When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.
-
-##### 6th-Level Reaver Abilities
-
-Choose one of the following abilities.

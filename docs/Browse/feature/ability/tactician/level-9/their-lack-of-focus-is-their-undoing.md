@@ -34,7 +34,3 @@ type: ability
 - **≤11:** R < WEAK, dazed (save ends)
 - **12-16:** R < AVERAGE, dazed (save ends)
 - **17+:** R < STRONG, dazed (save ends)
-
-##### 9th-Level Mastermind Abilities
-
-Choose one of the following abilities.

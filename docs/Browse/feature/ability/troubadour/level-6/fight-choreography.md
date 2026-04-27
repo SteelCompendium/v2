@@ -24,7 +24,3 @@ type: ability
 | **📏 Melee 1**            | **🎯 One creature** |
 
 **Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
-
-##### 6th-Level Virtuoso Abilities
-
-Choose one of the following abilities.

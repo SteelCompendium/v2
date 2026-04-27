@@ -23,7 +23,3 @@ type: ability
 | **📏 3 aura**   | **🎯 Each enemy in the area** |
 
 **Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
-
-##### 6th-Level Paragon Abilities
-
-Choose one of the following abilities.

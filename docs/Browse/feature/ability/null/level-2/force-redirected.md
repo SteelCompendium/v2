@@ -32,7 +32,3 @@ type: ability
 - **≤11:** 8 + A damage; slide 1
 - **12-16:** 12 + A damage; slide 3
 - **17+:** 16 + A damage; slide 5
-
-##### 2nd-Level Cryokinetic Ability
-
-Choose one of the following heroic abilities.

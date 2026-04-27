@@ -36,7 +36,3 @@ type: ability
 **Effect:** A target can't use triggered actions while their speed is reduced this way.
 
 **Strained:** The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
-
-##### 2nd-Level Telekinesis Ability
-
-Choose one of the following abilities.

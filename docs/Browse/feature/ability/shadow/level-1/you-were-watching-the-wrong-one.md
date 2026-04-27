@@ -34,11 +34,3 @@ type: ability
 - **17+:** 8 + A damage
 
 **Effect:** As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.
-
-##### Heroic Abilities
-
-A range of heroic abilities define your combat prowess, all of which make use of your insight.
-
-###### 3-Insight Ability
-
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)

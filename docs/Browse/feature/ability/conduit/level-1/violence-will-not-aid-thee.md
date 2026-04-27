@@ -34,7 +34,3 @@ type: ability
 - **17+:** 9 + I lightning damage
 
 **Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
-
-###### 5-Piety Ability
-
-Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)
