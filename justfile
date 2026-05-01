@@ -21,8 +21,8 @@ update push="true":
     cd "$v2_dir"
 
     # 2. Embed version info in mkdocs.yml
-    data_version="steel-etl <a href=\"https://github.com/SteelCompendium/steel-etl/commit/${etl_sha}\">${etl_sha}</a> (${etl_date})"
-    sed -i "s|DATA_VERSION|${data_version}|g" mkdocs.yml
+    copyright="The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl<a href=\"https://github.com/SteelCompendium/steel-etl/commit/${etl_sha}\">${etl_sha}</a> (${etl_date})</small>"
+    VAL="$copyright" yq -i '.copyright = env(VAL)' mkdocs.yml
 
     # 3. Build MkDocs docs directory from steel-etl output
     echo >&2 "[INFO] Running steel-etl site..."

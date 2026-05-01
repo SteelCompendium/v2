@@ -1,101 +1,92 @@
 site_name: "Steel Compendium: Draw Steel Rules"
 site_url: https://steelcompendium.io/v2
-
-copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl <a href="https://github.com/SteelCompendium/steel-etl/commit/46a015d">46a015d</a> (2026-04-30)</small>'
-
+copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl<a href="https://github.com/SteelCompendium/steel-etl/commit/46a015d">46a015d</a> (2026-04-30)</small>'
 theme:
-   name: "material"
-   palette:
-   # dark mode
-   - media: "(prefers-color-scheme: dark)"
-     scheme: slate
-     primary: custom
-     accent: custom
-     toggle:
+  name: "material"
+  palette:
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-   # Light mode
-   - media: "(prefers-color-scheme: light)"
-     scheme: default
-     primary: custom
-     accent: custom
-     toggle:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
-   logo: Media/favicon.ico
-   favicon: Media/favicon.ico
-   custom_dir: overrides
-
-   features:
-      - navigation.tabs
-      - navigation.tabs.sticky
-      - navigation.top
-      - search.suggest
-      - search.highlight
-      - navigation.instant
-      - navigation.instant.preview
-
+  logo: Media/favicon.ico
+  favicon: Media/favicon.ico
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.instant
+    - navigation.instant.preview
 # Extensions
 markdown_extensions:
-   - footnotes
-   - attr_list
-   - md_in_html
-   - pymdownx.arithmatex:
-        generic: true
-   - pymdownx.tasklist:
-        custom_checkbox: true
-   - def_list
-   - pymdownx.critic
-   - pymdownx.caret
-   - pymdownx.keys
-   - pymdownx.mark
-   - pymdownx.tilde
-   - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
-   - pymdownx.superfences:
-        custom_fences:
-           - name: mermaid
-             class: mermaid
-             format: !!python/name:pymdownx.superfences.fence_code_format
-   - toc:
-        permalink: true
-        toc_depth: 1-8
-   - material.extensions.preview:
-       configurations:
-         - targets:
-             include:
-               - Browse/*
-               - Read/*
-               - Bestiary/*
-
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: true
+      toc_depth: 1-8
+  - material.extensions.preview:
+      configurations:
+        - targets:
+            include:
+              - Browse/*
+              - Read/*
+              - Bestiary/*
 extra:
-   homepage: https://steelcompendium.io/v2
-   analytics:
-      provider: google
-      property: G-PMF9SHHXNY
-
+  homepage: https://steelcompendium.io/v2
+  analytics:
+    provider: google
+    property: G-PMF9SHHXNY
 plugins:
-   - search
-   - roamlinks
-   - awesome-nav
-
+  - search
+  - roamlinks
+  - awesome-nav
 extra_css:
-   - stylesheets/palette.css
-   - stylesheets/extra.css
-   - stylesheets/custom_font.css
-   - stylesheets/tables.css
-   - stylesheets/mobile.css
-   - stylesheets/print.css
-
+  - stylesheets/palette.css
+  - stylesheets/extra.css
+  - stylesheets/custom_font.css
+  - stylesheets/tables.css
+  - stylesheets/mobile.css
+  - stylesheets/print.css
 extra_javascript:
-   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-   - https://unpkg.com/mermaid/dist/mermaid.min.js
-   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-   - javascripts/tablesort.js
-   - javascripts/preferences.js
-   - javascripts/ability-cards.js
-   - javascripts/browse-enhancements.js
-   - javascripts/reading-progress.js
-   - javascripts/keyboard-nav.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/preferences.js
+  - javascripts/ability-cards.js
+  - javascripts/browse-enhancements.js
+  - javascripts/reading-progress.js
+  - javascripts/keyboard-nav.js
