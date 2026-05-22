@@ -20,6 +20,7 @@ tier3: 8 damage; M < STRONG, prone
 type: ability
 ---
 
+# Ripples in the Earth
 
 *Like a stone was dropped into a pond, waves in the earth radiate from you.*
 

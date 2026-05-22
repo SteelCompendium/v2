@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Earth Accepts Me
 
 *You can slip into the stone.*
 

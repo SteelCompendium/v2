@@ -15,6 +15,7 @@ target: Each ally in the area
 type: ability
 ---
 
+# Moonlight Sonata
 
 *Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
 

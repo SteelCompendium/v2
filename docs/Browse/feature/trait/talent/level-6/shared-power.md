@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-6/shared-power
 type: trait
 ---
 
+# Shared Power
+
 If the ability targets individual creatures or objects, you target one additional creature or object within distance.

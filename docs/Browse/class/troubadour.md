@@ -9,6 +9,8 @@ type: class
 weak_potency: Presence − 2
 ---
 
+# Troubadour
+
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the troubadour. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
 **As a troubadour, you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**

@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Black Ash Teleport
 
 *In a swirl of black ash, you step from one place to another.*
 

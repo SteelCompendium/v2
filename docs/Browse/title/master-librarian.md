@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/master-librarian
 type: title
 ---
 
+# Master Librarian
+
 *You want to know the exact coordinates of the **Gem of the Waves** shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.*
 
 **Prerequisite:** You have the Ancient Loremaster title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.

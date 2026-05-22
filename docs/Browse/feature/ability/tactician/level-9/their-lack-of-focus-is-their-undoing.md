@@ -20,6 +20,7 @@ tier3: R < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Their Lack of Focus Is Their Undoing
 
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
 

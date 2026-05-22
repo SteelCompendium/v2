@@ -16,6 +16,7 @@ target: Three creatures
 type: ability
 ---
 
+# Cuirass of the Gods
 
 *Your allies are covered in spiritual armor.*
 

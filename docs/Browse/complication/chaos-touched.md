@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/chaos-touched
 type: complication
 ---
 
+# Chaos Touched
+
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
 **Benefit:** You gain an edge on the Escape Grab, Grab, and Knockback maneuvers. Additionally, you can hold an additional item even when your hands are full.

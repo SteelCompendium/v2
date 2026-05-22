@@ -20,6 +20,7 @@ tier3: 21 + I damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Thorn Cage
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
 

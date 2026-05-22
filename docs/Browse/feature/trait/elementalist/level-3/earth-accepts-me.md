@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-3/earth-accepts-me
 type: trait
 ---
 
+# Earth Accepts Me
+
 You have the following ability.
 
 ###### Earth Accepts Me

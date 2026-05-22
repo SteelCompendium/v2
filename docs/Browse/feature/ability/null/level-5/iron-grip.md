@@ -21,6 +21,7 @@ tier3: 18 + A damage; A < STRONG, grabbed
 type: ability
 ---
 
+# Iron Grip
 
 *You grab the target with supernatural force.*
 

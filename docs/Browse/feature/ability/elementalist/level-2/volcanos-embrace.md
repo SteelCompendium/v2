@@ -21,6 +21,7 @@ tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Volcano's Embrace
 
 *Wrap them up in fire and melting stone.*
 

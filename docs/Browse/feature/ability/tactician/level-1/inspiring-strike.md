@@ -20,6 +20,7 @@ tier3: 8 + M damage; you and one ally within 10 squares of you can spend a Recov
 type: ability
 ---
 
+# Inspiring Strike
 
 *Your attack gives an ally hope.*
 

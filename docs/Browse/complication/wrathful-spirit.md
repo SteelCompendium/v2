@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/wrathful-spirit
 type: complication
 ---
 
+# Wrathful Spirit
+
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
 **Benefit:** While you are taunted by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.

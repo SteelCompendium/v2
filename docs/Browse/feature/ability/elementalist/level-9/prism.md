@@ -15,6 +15,7 @@ target: Self
 type: ability
 ---
 
+# Prism
 
 *You split your essence, allowing you to cast multiple effects at once.*
 

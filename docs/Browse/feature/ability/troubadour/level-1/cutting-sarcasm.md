@@ -20,6 +20,7 @@ tier3: 7 + P psychic damage; P < STRONG, bleeding (save ends)
 type: ability
 ---
 
+# Cutting Sarcasm
 
 *There you are, radiating your usual charisma.*
 

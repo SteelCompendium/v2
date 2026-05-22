@@ -21,6 +21,7 @@ tier3: 28 + A damage; M < STRONG, bleeding (save ends)
 type: ability
 ---
 
+# Expert Fencer
 
 *If you can land the strike, the crowd goes wild.*
 

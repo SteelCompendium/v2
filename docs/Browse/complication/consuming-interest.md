@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/consuming-interest
 type: complication
 ---
 
+# Consuming Interest
+
 Ever since you were a kid, you've been obsessed with a certain topic. During your travels, you spend your free time gleaning all the information you can on that obsession. You might not be the world's leading expert quite yet, but people should certainly trust your opinion on the topic.
 
 **Benefit:** You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different project source, and the project goal increases. (See [Chapter 12: Downtime Projects](#page-307-2).)

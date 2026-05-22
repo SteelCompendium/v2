@@ -20,6 +20,7 @@ tier3: 13 damage; push 15
 type: ability
 ---
 
+# Gravitic Nova
 
 *Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
 

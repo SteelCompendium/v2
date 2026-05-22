@@ -17,6 +17,7 @@ trigger: The target uses an ability that targets only one enemy and costs 3 or f
 type: ability
 ---
 
+# Harmonize
 
 *Give the chorus a little punch.*
 

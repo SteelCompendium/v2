@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-7/7th-level-doctrine-feature
 type: trait
 ---
 
+# 7th-Level Doctrine Feature
+
 Your tactical doctrine grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table

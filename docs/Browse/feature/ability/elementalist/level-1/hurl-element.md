@@ -19,6 +19,7 @@ tier3: 6 + R damage
 type: ability
 ---
 
+# Hurl Element
 
 *You cast a ball of elemental energy at a foe.*
 

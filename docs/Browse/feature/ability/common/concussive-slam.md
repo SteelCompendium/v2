@@ -13,6 +13,8 @@ target: One creature or object
 type: ability
 ---
 
+# Concussive Slam
+
 *You slam an invisible force down upon the target.*
 
 | **Psionic, Ranged, Strike**  | Main action                   |

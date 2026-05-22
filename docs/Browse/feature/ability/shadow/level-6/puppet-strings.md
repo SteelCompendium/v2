@@ -21,6 +21,7 @@ tier3: 7 damage; if the target has R < STRONG, before the damage is resolved, th
 type: ability
 ---
 
+# Puppet Strings
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
 

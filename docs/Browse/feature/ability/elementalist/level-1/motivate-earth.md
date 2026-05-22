@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Motivate Earth
 
 *The earth rises, falls, or opens up at your command.*
 

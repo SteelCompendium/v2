@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-6/perk
 type: trait
 ---
 
+# Perk
+
 You gain one crafting, exploration, or intrigue perk of your choice.

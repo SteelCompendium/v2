@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Stabilizing Field
 
 *You project order, making it harder for your enemies to interfere with you and your allies.*
 

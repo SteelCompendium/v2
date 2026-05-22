@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-1/ferocity
 type: trait
 ---
 
+# Ferocity
+
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
 > **Where's My Maneuver?**

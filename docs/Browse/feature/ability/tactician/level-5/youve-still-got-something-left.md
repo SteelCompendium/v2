@@ -14,6 +14,7 @@ target: One ally
 type: ability
 ---
 
+# You've Still Got Something Left
 
 *You push an ally to use a heroic ability sooner than they otherwise would.*
 

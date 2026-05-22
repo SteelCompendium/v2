@@ -15,6 +15,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Bend Fate
 
 *The gods know you must prevail, and they bless your fate.*
 

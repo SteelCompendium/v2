@@ -21,6 +21,7 @@ tier3: 24 + A damage; M < STRONG, the target is suppressed (save ends)
 type: ability
 ---
 
+# Arcane Purge
 
 *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
 

@@ -20,6 +20,7 @@ tier3: 12 damage; M < STRONG, dazed
 type: ability
 ---
 
+# Phase Step
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 

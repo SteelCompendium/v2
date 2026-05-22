@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Coat the Blade
 
 *A little poison goes a long way.*
 

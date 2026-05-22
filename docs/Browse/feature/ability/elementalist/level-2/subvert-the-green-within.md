@@ -22,6 +22,7 @@ tier3: 12 + R poison damage
 type: ability
 ---
 
+# Subvert the Green Within
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 

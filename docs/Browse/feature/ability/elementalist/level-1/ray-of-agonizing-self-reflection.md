@@ -20,6 +20,7 @@ tier3: 6 + R corruption damage; R < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Ray of Agonizing Self-Reflection
 
 *You inflict pain and doubt in equal measure.*
 

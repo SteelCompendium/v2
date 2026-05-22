@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-2/there-is-no-space-between
 type: trait
 ---
 
+# There Is No Space Between
+
 You have the following ability.
 
 ###### There Is No Space Between

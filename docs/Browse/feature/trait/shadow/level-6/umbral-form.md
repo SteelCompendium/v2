@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-6/umbral-form
 type: trait
 ---
 
+# Umbral Form
+
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically climb at full speed while moving.

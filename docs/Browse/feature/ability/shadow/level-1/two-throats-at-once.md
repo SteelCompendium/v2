@@ -20,6 +20,7 @@ tier3: 10 damage
 type: ability
 ---
 
+# Two Throats at Once
 
 *A bargain.*
 

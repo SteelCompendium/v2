@@ -22,6 +22,7 @@ tier3: 7 + P psychic damage
 type: ability
 ---
 
+# Witty Banter
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 

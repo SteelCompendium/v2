@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Synaptic Reset
 
 *You expand your nullifying power to mitigate harmful effects.*
 

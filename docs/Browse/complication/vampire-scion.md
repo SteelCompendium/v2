@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/vampire-scion
 type: complication
 ---
 
+# Vampire Scion
+
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
 **Benefit:** Whenever you make a melee free strike against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the free strike, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.

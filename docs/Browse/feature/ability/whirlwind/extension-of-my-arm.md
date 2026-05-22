@@ -14,6 +14,8 @@ target: One creature
 type: ability
 ---
 
+# Extension of My Arm
+
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

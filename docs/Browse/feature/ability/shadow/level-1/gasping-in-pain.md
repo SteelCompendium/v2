@@ -20,6 +20,7 @@ tier3: 8 + A damage; I < STRONG, prone
 type: ability
 ---
 
+# Gasping in Pain
 
 *Your precise strikes let your allies take advantage of a target's agony.*
 

@@ -21,6 +21,7 @@ tier3: 9 + P psychic damage; I < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Awe
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 

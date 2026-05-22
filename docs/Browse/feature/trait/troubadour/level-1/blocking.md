@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/blocking
 type: trait
 ---
 
+# Blocking
+
 You have the following performance ability, which is usable with your Routines feature.
 
 ###### Blocking

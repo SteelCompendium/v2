@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-5/auteur-features
 type: trait
 ---
 
+# Auteur Features
+
 Choose one of the following features.
 
 ###### Fix It in Post

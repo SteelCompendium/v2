@@ -21,6 +21,7 @@ tier3: 17 + R fire damage
 type: ability
 ---
 
+# Combustion Deferred
 
 *Your flames dance from kindling to kindling to kindling.*
 

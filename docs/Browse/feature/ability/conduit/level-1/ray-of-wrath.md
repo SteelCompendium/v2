@@ -19,6 +19,7 @@ tier3: 6 + I damage
 type: ability
 ---
 
+# Ray of Wrath
 
 *You unleash a blast of holy light upon your foe.*
 

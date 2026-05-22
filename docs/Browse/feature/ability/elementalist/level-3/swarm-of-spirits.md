@@ -20,6 +20,7 @@ tier3: 9 damage
 type: ability
 ---
 
+# Swarm of Spirits
 
 *Guardian animal spirits surround you to harry your foes and bolster your allies.*
 

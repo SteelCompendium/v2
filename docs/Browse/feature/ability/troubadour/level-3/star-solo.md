@@ -22,6 +22,7 @@ tier3: 11 + P damage; push 5
 type: ability
 ---
 
+# Star Solo
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 

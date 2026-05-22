@@ -21,6 +21,7 @@ tier3: Push 7
 type: ability
 ---
 
+# Impart Force
 
 *A single touch from you, and your enemy flies backward.*
 

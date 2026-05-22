@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/enlightened
 type: title
 ---
 
+# Enlightened
+
 *Don't you see? This world that seems so real to you is nothing but a game, and all the people merely pieces!*
 
 **Prerequisite:** You learn a cosmic truth that alters your understanding of reality.

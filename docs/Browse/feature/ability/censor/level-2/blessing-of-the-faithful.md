@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Blessing of the Faithful
 
 *The gods reward your faith.*
 

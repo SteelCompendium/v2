@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/fallen-immortal
 type: complication
 ---
 
+# Fallen Immortal
+
 You used to be an immortal creature, dispensing justice and doing the bidding of the gods. Now, whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, but living alongside your fellow mortals gives your life new meaning.
 
 **Benefit:** You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.

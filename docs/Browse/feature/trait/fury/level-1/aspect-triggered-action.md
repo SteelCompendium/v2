@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-1/aspect-triggered-action
 type: trait
 ---
 
+# Aspect Triggered Action
+
 Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.
 
 ###### Aspect Triggered Actions Table

@@ -13,6 +13,7 @@ target: Self
 type: ability
 ---
 
+# Practical Magic
 
 *Your mastery of elemental power lets you customize your conjurations.*
 

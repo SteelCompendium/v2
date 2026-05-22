@@ -19,6 +19,7 @@ tier3: 5 damage
 type: ability
 ---
 
+# Tide of Death
 
 *Teach them the folly of lining up for you.*
 

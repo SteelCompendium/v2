@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Demon Unleashed
 
 *Foes tremble at the sight of you.*
 

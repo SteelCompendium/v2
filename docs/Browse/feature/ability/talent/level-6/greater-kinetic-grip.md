@@ -20,6 +20,7 @@ tier3: Slide 12 + R; prone; M < STRONG, the forced movement is vertical
 type: ability
 ---
 
+# Greater Kinetic Grip
 
 *You raise the target into the air without breaking a sweat.*
 

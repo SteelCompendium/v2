@@ -20,6 +20,7 @@ tier3: 8 + M damage; M < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Concussive Strike
 
 *Your precise strike leaves your foe struggling to respond.*
 

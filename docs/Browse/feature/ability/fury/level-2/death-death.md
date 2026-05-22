@@ -19,6 +19,7 @@ tier3: 8 + M damage; P < STRONG, dazed and frightened (save ends)
 type: ability
 ---
 
+# Death... Death!
 
 *Your unbridled rage strikes terror in their hearts.*
 

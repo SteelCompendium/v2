@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-1/hands-of-the-maker
 type: trait
 ---
 
+# Hands of the Maker
+
 You have the following ability.
 
 ###### Hands of the Maker

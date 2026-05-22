@@ -16,6 +16,7 @@ target: Each ally in the area
 type: ability
 ---
 
+# Borrow From the Future
 
 *You lean on future heroism to assist you in the now.*
 

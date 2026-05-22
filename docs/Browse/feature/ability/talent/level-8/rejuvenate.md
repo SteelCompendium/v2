@@ -16,6 +16,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Rejuvenate
 
 *You reshape the flow of time in the target's body to return it to an earlier state.*
 

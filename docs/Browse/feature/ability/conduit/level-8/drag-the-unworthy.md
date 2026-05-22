@@ -20,6 +20,7 @@ tier3: 18 + I holy damage; slide 6
 type: ability
 ---
 
+# Drag the Unworthy
 
 *You conjure an angel who moves a foe and heals your allies.*
 

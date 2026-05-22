@@ -18,6 +18,7 @@ tier3: 8 psychic damage; slide 7
 type: ability
 ---
 
+# Begone!
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
 

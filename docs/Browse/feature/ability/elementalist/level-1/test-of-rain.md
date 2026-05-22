@@ -21,6 +21,7 @@ tier3: 10 acid damage
 type: ability
 ---
 
+# Test of Rain
 
 *You call down a rain that burns your enemies and restores your allies.*
 

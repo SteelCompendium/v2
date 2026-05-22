@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/heist-hero
 type: title
 ---
 
+# Heist Hero
+
 *Everybody know their assignments? All right, let's go.*
 
 **Prerequisite:** You have the Troupe Leading Player title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.

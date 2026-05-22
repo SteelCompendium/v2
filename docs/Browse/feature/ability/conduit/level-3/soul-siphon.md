@@ -20,6 +20,7 @@ tier3: 15 + I corruption damage
 type: ability
 ---
 
+# Soul Siphon
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 

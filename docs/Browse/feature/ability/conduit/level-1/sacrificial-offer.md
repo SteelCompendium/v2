@@ -20,6 +20,7 @@ tier3: 6 + I corruption damage
 type: ability
 ---
 
+# Sacrificial Offer
 
 *Divine magic tears at your foe and defends a nearby friend.*
 

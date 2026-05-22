@@ -12,6 +12,8 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Draconian Pride
+
 *You let loose a mighty roar to shake your foes' spirits.*
 
 | **Area, Magic** |               **Main action** |

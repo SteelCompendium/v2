@@ -15,6 +15,7 @@ target: Self or one size 1 creature or object
 type: ability
 ---
 
+# Minor Telekinesis
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 

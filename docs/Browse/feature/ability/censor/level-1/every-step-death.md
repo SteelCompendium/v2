@@ -20,6 +20,7 @@ tier3: 10 + P psychic damage
 type: ability
 ---
 
+# Every Step... Death!
 
 *You show your foe a glimpse of their fate after death.*
 

@@ -15,6 +15,8 @@ target: One creature
 type: ability
 ---
 
+# Patient Shot
+
 *Breathe... aim... wait... then strike!*
 
 | **Ranged, Strike, Weapon** |     **Main action** |

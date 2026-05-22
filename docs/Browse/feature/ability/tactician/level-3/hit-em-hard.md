@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Hit 'Em Hard!
 
 *Your allies see the advantages in attacking the targets you select.*
 

@@ -17,6 +17,7 @@ trigger: The target would take damage from an ability that uses a power roll.
 type: ability
 ---
 
+# Word of Judgment
 
 *Your holy word saps an attacking enemy's strength.*
 

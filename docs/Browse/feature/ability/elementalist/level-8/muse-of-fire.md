@@ -21,6 +21,7 @@ tier3: 15 fire damage; the Director loses 4 Malice
 type: ability
 ---
 
+# Muse of Fire
 
 *The fire burns hot enough to sear the face of any god watching.*
 

@@ -20,6 +20,7 @@ tier3: 9 + M holy damage
 type: ability
 ---
 
+# Behold a Shield of Faith!
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 

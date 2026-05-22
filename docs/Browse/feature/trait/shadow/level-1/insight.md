@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-1/insight
 type: trait
 ---
 
+# Insight
+
 By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
 
 ##### Insight in Combat

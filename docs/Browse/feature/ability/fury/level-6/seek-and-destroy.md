@@ -20,6 +20,7 @@ tier3: 10 + M damage; P < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Seek and Destroy
 
 *You break through the enemy lines to make an example.*
 

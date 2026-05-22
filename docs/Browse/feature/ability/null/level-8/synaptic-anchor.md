@@ -16,6 +16,7 @@ trigger: The target takes damage from another creature's ability while in the ar
 type: ability
 ---
 
+# Synaptic Anchor
 
 *You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
 

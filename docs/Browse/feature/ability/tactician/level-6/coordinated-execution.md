@@ -16,6 +16,7 @@ trigger: The target uses an ability to deal rolled damage to a creature while hi
 type: ability
 ---
 
+# Coordinated Execution
 
 *You direct your ally to make a killing blow.*
 

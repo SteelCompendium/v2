@@ -15,6 +15,7 @@ target: Self or one ally
 type: ability
 ---
 
+# With My Blessing
 
 *A word in prayer, and the gods show the way.*
 

@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Edict of Perfect Order
 
 *Within the area of your divine presence, your enemies will regret using their fell abilities.*
 

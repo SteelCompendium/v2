@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Dramatic Reveal
 
 *A little stage trickery, and where once stood a foe, now stands a friend!*
 

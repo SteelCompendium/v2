@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/ancestries
 type: chapter
 ---
 
+# Ancestries
+
 Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders—and of course humans, whose culture and history dominates many worlds.
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.

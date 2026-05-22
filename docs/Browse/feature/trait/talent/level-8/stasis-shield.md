@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-8/stasis-shield
 type: trait
 ---
 
+# Stasis Shield
+
 You have the following ability.
 
 ##### Stasis Shield (3 Clarity)

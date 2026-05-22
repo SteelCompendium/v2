@@ -20,6 +20,7 @@ tier3: 10 fire damage
 type: ability
 ---
 
+# Conflagration
 
 *A storm of fire descends upon your enemies.*
 

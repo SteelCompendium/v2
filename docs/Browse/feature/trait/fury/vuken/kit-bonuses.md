@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.vuken/kit-bonuses
 type: trait
 ---
 
+# Kit Bonuses
+
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2

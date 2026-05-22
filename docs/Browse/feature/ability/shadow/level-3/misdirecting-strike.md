@@ -21,6 +21,7 @@ tier3: 18 + A damage
 type: ability
 ---
 
+# Misdirecting Strike
 
 *"Why are you looking at ME?!"*
 

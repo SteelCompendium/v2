@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-3/careful-observation
 type: trait
 ---
 
+# Careful Observation
+
 You have the following ability.
 
 ##### Careful Observation

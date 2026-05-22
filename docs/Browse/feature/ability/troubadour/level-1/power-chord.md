@@ -17,6 +17,7 @@ tier3: Push 3
 type: ability
 ---
 
+# Power Chord
 
 *Your instrument rings true and your music blows everyone away.*
 

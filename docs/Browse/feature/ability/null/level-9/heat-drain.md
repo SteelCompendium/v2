@@ -20,6 +20,7 @@ tier3: 15 + I cold damage; M < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Heat Drain
 
 *You drain all the heat from the target.*
 

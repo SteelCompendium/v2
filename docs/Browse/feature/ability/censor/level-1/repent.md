@@ -19,6 +19,7 @@ tier3: 11 + P holy damage; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Repent!
 
 *You conjure memories of their sins to harry your foes.*
 

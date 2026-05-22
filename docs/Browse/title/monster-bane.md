@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/monster-bane
 type: title
 ---
 
+# Monster Bane
+
 *You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!*
 
 **Prerequisite:** You defeat a leader or solo creature with a Reason score of −2 or lower, such as an arixx.

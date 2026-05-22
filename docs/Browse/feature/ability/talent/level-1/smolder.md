@@ -21,6 +21,7 @@ tier3: 9 + R damage; R < STRONG, the target has weakness equal to 5 + your Reaso
 type: ability
 ---
 
+# Smolder
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 

@@ -21,6 +21,7 @@ tier3: P < STRONG, the target is restrained until the effect ends
 type: ability
 ---
 
+# Stasis Field
 
 *Keep everything as it was. Ignore everything that will be.*
 

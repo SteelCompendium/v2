@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Blur
 
 *You release stored time, allowing you to act twice.*
 

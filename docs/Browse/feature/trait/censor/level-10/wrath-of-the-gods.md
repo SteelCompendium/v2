@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-10/wrath-of-the-gods
 type: trait
 ---
 
+# Wrath of the Gods
+
 When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.

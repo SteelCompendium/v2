@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Revelator
 
 *You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
 

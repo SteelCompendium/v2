@@ -16,6 +16,7 @@ target: One creature
 type: ability
 ---
 
+# You Are Already Dead
 
 *Slash. Walk away.*
 

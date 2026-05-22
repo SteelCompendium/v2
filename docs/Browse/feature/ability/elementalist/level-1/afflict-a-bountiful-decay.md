@@ -22,6 +22,7 @@ tier3: 6 + R corruption damage
 type: ability
 ---
 
+# Afflict a Bountiful Decay
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 

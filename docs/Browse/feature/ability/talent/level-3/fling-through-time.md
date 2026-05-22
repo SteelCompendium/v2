@@ -21,6 +21,7 @@ tier3: 8 + P corruption damage; the target is flung through time, and if P < STR
 type: ability
 ---
 
+# Fling Through Time
 
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 

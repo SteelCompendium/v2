@@ -7,6 +7,8 @@ scc: mcdm.heroes.v1/treasure/1st-echelon-consumables
 type: treasure
 ---
 
+# 1st-Echelon Consumables
+
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
 ##### Black Ash Dart

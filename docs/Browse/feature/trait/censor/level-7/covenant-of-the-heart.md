@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-7/covenant-of-the-heart
 type: trait
 ---
 
+# Covenant of the Heart
+
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
 ###### Guided to Your Side

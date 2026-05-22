@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-4/blessing-of-secrets
 type: trait
 ---
 
+# Blessing of Secrets
+
 You have the following ability.
 
 ###### Blessing of Secrets

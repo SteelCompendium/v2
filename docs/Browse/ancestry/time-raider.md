@@ -5,6 +5,8 @@ signature_trait_name: Psychic Scar
 type: ancestry
 ---
 
+# Time Raider
+
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.

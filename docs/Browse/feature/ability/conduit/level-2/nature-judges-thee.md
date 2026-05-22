@@ -19,6 +19,7 @@ tier3: 7 damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Nature Judges Thee
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
 

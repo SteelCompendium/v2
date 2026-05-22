@@ -21,6 +21,7 @@ tier3: 13 damage; vertical pull 10 toward the center of the area
 type: ability
 ---
 
+# Gravitic Well
 
 *You bend gravity into a fine point and pull your foes toward it.*
 

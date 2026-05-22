@@ -21,6 +21,7 @@ trigger: The triggering creature starts their turn.
 type: ability
 ---
 
+# Arrestor Cycle
 
 *You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*
 

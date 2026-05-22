@@ -19,6 +19,7 @@ tier3: 11 damage; M < STRONG, prone and can't stand (save ends)
 type: ability
 ---
 
+# Spirit Stampede
 
 *Animal spirits run through the battlefield, trampling your foes.*
 

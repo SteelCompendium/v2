@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/minor-telekinesis
 type: trait
 ---
 
+# Minor Telekinesis
+
 You have the following ability.
 
 ###### Minor Telekinesis

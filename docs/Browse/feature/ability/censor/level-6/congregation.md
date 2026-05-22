@@ -20,6 +20,7 @@ tier3: 16 + M damage; as a free triggered action, two allies within 10 squares o
 type: ability
 ---
 
+# Congregation
 
 *You focus your allies' wrath on a chosen foe.*
 

@@ -20,6 +20,7 @@ tier3: 5 lightning damage, 5 sonic damage
 type: ability
 ---
 
+# Godstorm
 
 *You summon a divine storm that remains under your control.*
 

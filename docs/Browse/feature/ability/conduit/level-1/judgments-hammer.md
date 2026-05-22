@@ -19,6 +19,7 @@ tier3: 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
 type: ability
 ---
 
+# Judgment's Hammer
 
 *Your divine fury is a hammer that crashes down upon the unrighteous.*
 

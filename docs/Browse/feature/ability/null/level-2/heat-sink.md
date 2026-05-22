@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Heat Sink
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*
 

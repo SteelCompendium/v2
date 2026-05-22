@@ -22,6 +22,7 @@ tier3: You teleport the target up to 8 squares.
 type: ability
 ---
 
+# Meteor
 
 *You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
 

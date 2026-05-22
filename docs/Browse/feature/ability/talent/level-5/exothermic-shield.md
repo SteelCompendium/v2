@@ -16,6 +16,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Exothermic Shield
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
 

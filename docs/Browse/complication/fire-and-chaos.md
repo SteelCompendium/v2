@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/fire-and-chaos
 type: complication
 ---
 
+# Fire and Chaos
+
 A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.
 
 **Benefit:** You have fire immunity 5.

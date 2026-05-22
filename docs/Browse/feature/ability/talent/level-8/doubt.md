@@ -21,6 +21,7 @@ tier3: 20 + P damage; P < STRONG, weakened and slowed (save ends)
 type: ability
 ---
 
+# Doubt
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 

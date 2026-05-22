@@ -20,6 +20,7 @@ tier3: 21 + M damage
 type: ability
 ---
 
+# Hand of the Gods
 
 *You use your foe as a tool against your enemies.*
 

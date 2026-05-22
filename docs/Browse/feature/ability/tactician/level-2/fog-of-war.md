@@ -14,6 +14,7 @@ target: Two creatures
 type: ability
 ---
 
+# Fog of War
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
 

@@ -20,6 +20,7 @@ tier3: 7 + A damage; I < STRONG, dazed and slowed (save ends)
 type: ability
 ---
 
+# Stunning Blow
 
 *You focus your psionic technique into a concussive punch.*
 

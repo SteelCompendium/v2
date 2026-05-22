@@ -20,6 +20,7 @@ tier3: 12 corruption damage; M < STRONG, pull 3 toward the center of the area
 type: ability
 ---
 
+# Tough Crowd
 
 *Your fans don't seem to like the opening act...*
 

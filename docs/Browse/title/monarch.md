@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/monarch
 type: title
 ---
 
+# Monarch
+
 *The tyrant is dead! Long live the new king!*
 
 **Prerequisite:** You or a member of your party becomes the monarch of a nation.

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/wanted-dead-or-alive
 type: title
 ---
 
+# Wanted Dead or Alive
+
 *A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!*
 
 **Prerequisite:** You are declared an outlaw by a governmental authority.

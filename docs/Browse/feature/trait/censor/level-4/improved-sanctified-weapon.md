@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-4/improved-sanctified-weapon
 type: trait
 ---
 
+# Improved Sanctified Weapon
+
 The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.

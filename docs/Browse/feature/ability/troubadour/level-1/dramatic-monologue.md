@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Dramatic Monologue
 
 *It doesn't need to make sense. Just say it with emotion.*
 

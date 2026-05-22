@@ -16,6 +16,7 @@ trigger: The target deals damage to an ally.
 type: ability
 ---
 
+# Feedback Loop
 
 *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
 

@@ -17,6 +17,7 @@ trigger: A creature makes a strike against the target.
 type: ability
 ---
 
+# Intercede
 
 *You take your ally's place.*
 

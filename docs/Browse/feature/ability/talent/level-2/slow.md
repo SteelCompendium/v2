@@ -20,6 +20,7 @@ tier3: The target is slowed (save ends), or if P < STRONG, the target's speed is
 type: ability
 ---
 
+# Slow
 
 *Perhaps they wonder why everyone else is moving so quickly?*
 

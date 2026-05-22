@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/teacher
 type: title
 ---
 
+# Teacher
+
 *Someday, I'll understand how peeling these carrots for dinner relates to my elementalist training.*
 
 **Prerequisite:** You train or command at least three lower-level members of your class.

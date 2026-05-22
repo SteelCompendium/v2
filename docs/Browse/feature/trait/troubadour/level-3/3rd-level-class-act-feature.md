@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-3/3rd-level-class-act-feature
 type: trait
 ---
 
+# 3rd-Level Class Act Feature
+
 Your troubadour class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table

@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Statue of Power
 
 *A marble statue of your deity rises from the earth.*
 

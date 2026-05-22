@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-7/focused-wrath
 type: trait
 ---
 
+# Focused Wrath
+
 When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.

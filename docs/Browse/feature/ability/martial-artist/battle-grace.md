@@ -15,6 +15,8 @@ target: One creature
 type: ability
 ---
 
+# Battle Grace
+
 *You feint to move your enemies into perfect position.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

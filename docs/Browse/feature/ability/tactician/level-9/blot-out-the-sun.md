@@ -14,6 +14,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Blot Out the Sun!
 
 *What makes a good soldier? The ability to fire four shots a minute in any weather.*
 

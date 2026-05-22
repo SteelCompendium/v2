@@ -20,6 +20,7 @@ tier3: 6 + A damage; taunted (EoT), slide 2
 type: ability
 ---
 
+# Kinetic Strike
 
 *Your opponent staggers. They cannot ignore you.*
 

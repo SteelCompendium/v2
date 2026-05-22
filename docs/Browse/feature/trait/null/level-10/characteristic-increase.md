@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.null.level-10/characteristic-increase
 type: trait
 ---
 
+# Characteristic Increase
+
 Your Agility and Intuition scores each increase to 5.

@@ -4,4 +4,6 @@ scc: mcdm.heroes.v1/perk/power-player
 type: perk
 ---
 
+# Power Player
+
 Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.

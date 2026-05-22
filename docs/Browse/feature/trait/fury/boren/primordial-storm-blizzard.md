@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.boren/primordial-storm-blizzard
 type: trait
 ---
 
+# Primordial Storm: Blizzard
+
 Your primordial damage type is cold.

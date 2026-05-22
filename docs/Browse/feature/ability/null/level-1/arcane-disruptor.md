@@ -21,6 +21,7 @@ tier3: 16 + **A** psychic damage; M < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Arcane Disruptor
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 

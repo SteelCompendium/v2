@@ -20,6 +20,7 @@ tier3: 11 + A psychic damage; vertical pull 3
 type: ability
 ---
 
+# Magnetic Strike
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 

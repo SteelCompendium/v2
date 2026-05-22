@@ -21,6 +21,7 @@ tier3: 9 + P damage
 type: ability
 ---
 
+# Spirit Sword
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 

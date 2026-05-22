@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/champion-competitor
 type: title
 ---
 
+# Champion Competitor
+
 *Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!*
 
 **Prerequisite:** You beat the best in the world at a game or sport.

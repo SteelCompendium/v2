@@ -21,6 +21,7 @@ tier3: 14 + A damage; you can teleport the target up to 5 squares
 type: ability
 ---
 
+# In a Puff of Ash
 
 *You enchant a strike with your teleportation magic.*
 

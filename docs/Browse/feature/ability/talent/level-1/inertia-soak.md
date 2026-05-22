@@ -16,6 +16,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Inertia Soak
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 

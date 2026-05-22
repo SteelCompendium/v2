@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/giant-slayer
 type: title
 ---
 
+# Giant Slayer
+
 *Come back here, puny one, and let me crush you!*
 
 **Prerequisite:** You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.

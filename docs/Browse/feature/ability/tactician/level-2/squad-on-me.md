@@ -14,6 +14,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Squad! On Me!
 
 *Together we are invincible!*
 

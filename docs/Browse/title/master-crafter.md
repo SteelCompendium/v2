@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/master-crafter
 type: title
 ---
 
+# Master Crafter
+
 *The sword Vanartha has been remade, mightier now than on the day it was forged.*
 
 **Prerequisite:** You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.

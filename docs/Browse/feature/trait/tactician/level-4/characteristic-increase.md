@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-4/characteristic-increase
 type: trait
 ---
 
+# Characteristic Increase
+
 Your Might and Reason scores each increase to 3.

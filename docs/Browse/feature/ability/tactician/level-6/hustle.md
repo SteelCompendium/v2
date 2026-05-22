@@ -14,6 +14,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Hustle!
 
 *You and your allies coordinate to form a new battle line.*
 

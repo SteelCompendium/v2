@@ -20,6 +20,7 @@ tier3: 6 damage; P < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Quick Rewrite
 
 *You write something unexpected into the scene that hinders your enemy.*
 

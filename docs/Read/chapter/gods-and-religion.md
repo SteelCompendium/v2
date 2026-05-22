@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/gods-and-religion
 type: chapter
 ---
 
+# Gods and Religion
+
 Orden is a fantasy world in which the gods are objectively real. In spite of this the people of Orden, regardless of ancestry, do not believe the gods control everything that happens in the world. They believe the gods created a natural world with its own cycles that are sometimes predictable, but which cannot be understood. It rained last Lyleth, and the Lyleth before that, so it'll probably rain this Lyleth—but maybe not! And if not, that may be because the gods are displeased. But it might just as easily be because the gods are bored, or fickle or—even more likely, it has nothing to do with the gods, and there's no way to know which.
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"

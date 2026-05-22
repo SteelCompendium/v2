@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-1/hesitation-is-weakness
 type: trait
 ---
 
+# Hesitation Is Weakness
+
 You have the following ability.
 
 ##### Hesitation Is Weakness (1 Insight)

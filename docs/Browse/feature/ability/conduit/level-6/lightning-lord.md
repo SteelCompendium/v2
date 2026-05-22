@@ -19,6 +19,7 @@ tier3: 13 lightning damage; push 3
 type: ability
 ---
 
+# Lightning Lord
 
 *Lightning bursts forth from your body in several directions.*
 

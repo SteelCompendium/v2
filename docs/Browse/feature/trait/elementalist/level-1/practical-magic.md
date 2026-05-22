@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/practical-magic
 type: trait
 ---
 
+# Practical Magic
+
 You have the following ability.
 
 ##### Practical Magic

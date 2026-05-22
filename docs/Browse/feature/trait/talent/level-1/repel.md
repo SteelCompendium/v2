@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/repel
 type: trait
 ---
 
+# Repel
+
 You have the following ability.
 
 ##### Repel

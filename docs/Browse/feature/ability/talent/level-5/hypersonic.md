@@ -21,6 +21,7 @@ tier3: 24 sonic damage
 type: ability
 ---
 
+# Hypersonic
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 

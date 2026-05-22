@@ -9,6 +9,8 @@ skills:
 type: career
 ---
 
+# Warden
+
 You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
 - What environment did you protect?

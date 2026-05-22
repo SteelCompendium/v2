@@ -19,6 +19,7 @@ tier3: 7 psychic damage; push 2
 type: ability
 ---
 
+# Kinetic Pulse
 
 *The force of your mind hurls enemies backward.*
 

@@ -16,6 +16,7 @@ target: Self
 type: ability
 ---
 
+# Shadowstrike
 
 *They have no idea what the college taught you.*
 

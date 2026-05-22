@@ -20,6 +20,7 @@ tier3: 8 + A damage
 type: ability
 ---
 
+# You Were Watching the Wrong One
 
 *They can't watch both of you at once.*
 

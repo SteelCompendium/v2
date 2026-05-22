@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-1/kit-signature-ability
 type: trait
 ---
 
+# Kit Signature Ability
+
 Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.

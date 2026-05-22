@@ -15,6 +15,7 @@ target: Each creature in the area
 type: ability
 ---
 
+# Aura of Souls
 
 *A whirlwind of souls of the dead flies around you at your command.*
 

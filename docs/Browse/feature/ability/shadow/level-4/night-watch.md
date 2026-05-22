@@ -16,6 +16,7 @@ trigger: The target takes damage from another creature's ability while you are h
 type: ability
 ---
 
+# Night Watch
 
 *A steely dagger from out of the blue knocks another weapon off course.*
 

@@ -15,6 +15,8 @@ target: Two creatures or objects
 type: ability
 ---
 
+# Double Strike
+
 *Why strike once when you could do it twice?*
 
 | **Melee, Strike, Weapon** |                 **Main action** |

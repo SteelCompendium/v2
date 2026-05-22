@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Choreography
 
 *Taps, kicks, steps. It's all "choreography."*
 

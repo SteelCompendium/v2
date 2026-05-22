@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-5/5th-level-specialization-
 type: trait
 ---
 
+# 5th-Level Specialization Feature
+
 Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.
 
 ###### 5th-Level Elemental Specialization Features Table

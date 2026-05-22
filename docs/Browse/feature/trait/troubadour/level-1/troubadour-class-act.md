@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-class-act
 type: trait
 ---
 
+# Troubadour Class Act
+
 Panache, melody, and depiction. Some troubadours have it all, but everyone starts somewhere. Your troubadour class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a troubadour class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.

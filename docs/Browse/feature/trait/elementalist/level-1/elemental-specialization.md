@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization
 type: trait
 ---
 
+# Elemental Specialization
+
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
 - **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.

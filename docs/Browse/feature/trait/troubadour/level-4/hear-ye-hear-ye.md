@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-4/hear-ye-hear-ye
 type: trait
 ---
 
+# Hear Ye, Hear Ye!
+
 By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:
 
 - **≤11:** Your information reaches no one.

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/owed-a-favor
 type: title
 ---
 
+# Owed a Favor
+
 *The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.*
 
 **Prerequisite:** You successfully perform a service for a powerful faction.

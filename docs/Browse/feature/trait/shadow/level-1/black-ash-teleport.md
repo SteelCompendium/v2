@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-1/black-ash-teleport
 type: trait
 ---
 
+# Black Ash Teleport
+
 You have the following ability.
 
 ###### Black Ash Teleport

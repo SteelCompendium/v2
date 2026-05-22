@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/elemental-dabbler
 type: title
 ---
 
+# Elemental Dabbler
+
 *Spirit of fire, I command you!*
 
 **Prerequisite:** You defeat a creature with the Elemental keyword, such as a crux of fire.

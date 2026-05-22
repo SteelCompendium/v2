@@ -17,6 +17,7 @@ trigger: The target takes damage.
 type: ability
 ---
 
+# Stasis Shield
 
 *You freeze time just long enough to bring the victim to safety!*
 

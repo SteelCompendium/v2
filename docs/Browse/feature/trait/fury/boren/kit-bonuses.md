@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.boren/kit-bonuses
 type: trait
 ---
 
+# Kit Bonuses
+
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2
 - **Melee Damage Bonus:** +0/+0/+4

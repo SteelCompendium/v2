@@ -20,6 +20,7 @@ tier3: 21 + I corruption damage; A < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Word of Weakening
 
 *You utter a divine word that makes a foe brittle.*
 

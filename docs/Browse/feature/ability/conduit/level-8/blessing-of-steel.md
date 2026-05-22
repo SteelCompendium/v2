@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Blessing of Steel
 
 *A protective aura defends your allies from harm.*
 

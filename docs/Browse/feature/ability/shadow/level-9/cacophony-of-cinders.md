@@ -20,6 +20,7 @@ tier3: An enemy takes 14 damage; an ally can teleport up to 7 squares.
 type: ability
 ---
 
+# Cacophony of Cinders
 
 *You tumble through the battle, stabbing foes and teleporting allies.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-1/faithful-friend
 type: trait
 ---
 
+# Faithful Friend
+
 You have the following ability.
 
 ###### Faithful Friend

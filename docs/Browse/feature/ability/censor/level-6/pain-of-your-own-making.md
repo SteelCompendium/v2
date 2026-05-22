@@ -17,6 +17,7 @@ trigger: The target gains a condition or effect that is ended by a saving throw 
 type: ability
 ---
 
+# Pain of Your Own Making
 
 *You reverse the effects from an evildoer.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/gnoll-mauled
 type: complication
 ---
 
+# Gnoll-Mauled
+
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
 **Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a free strike.

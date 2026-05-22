@@ -16,6 +16,7 @@ trigger: The target makes an ability roll that has an edge, a double edge, a ban
 type: ability
 ---
 
+# Turnabout Is Fair Play
 
 *All's fair in love and whatever.*
 

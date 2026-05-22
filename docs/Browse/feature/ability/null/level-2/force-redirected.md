@@ -20,6 +20,7 @@ tier3: 16 + A damage; slide 5
 type: ability
 ---
 
+# Force Redirected
 
 *The force of your strike moves your target in a surprising direction.*
 

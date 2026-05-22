@@ -20,6 +20,7 @@ tier3: 12 + P damage; I < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Your Allies Turn on You!
 
 *You turn your enemies' ire to the target.*
 

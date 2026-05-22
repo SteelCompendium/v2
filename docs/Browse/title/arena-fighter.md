@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/arena-fighter
 type: title
 ---
 
+# Arena Fighter
+
 *You've never seen the showstopper? The move so brutal it was banned in the arena? Come closer and I'll show it to you.*
 
 **Prerequisite:** You are victorious in battle in an arena or some other public contest of combat.

@@ -14,6 +14,8 @@ target: Two creatures or objects
 type: ability
 ---
 
+# Two Shot
+
 *When you fire two arrows back-to-back, both hit their mark.*
 
 | **Ranged, Strike, Weapon** |                 **Main action** |

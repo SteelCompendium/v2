@@ -22,6 +22,7 @@ trigger: The target deals damage to an ally.
 type: ability
 ---
 
+# No Dying on My Watch
 
 *You prioritize saving an ally over your own safety.*
 

@@ -16,6 +16,7 @@ trigger: Another creature on the encounter map ends their turn.
 type: ability
 ---
 
+# Time Loop
 
 *You show shadows what true speed is.*
 

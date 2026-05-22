@@ -19,6 +19,7 @@ tier3: Push 3
 type: ability
 ---
 
+# Wrecking Ball
 
 *It's easier to destroy than to create. Much easier, in fact!*
 

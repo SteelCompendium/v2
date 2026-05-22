@@ -13,6 +13,8 @@ tier3: You can move 1 square into, out of, or through ground you are touching th
 type: ability
 ---
 
+# Claw Dirt
+
 | **-**       | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |

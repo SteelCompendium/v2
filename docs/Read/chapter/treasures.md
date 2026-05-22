@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/treasures
 type: chapter
 ---
 
+# Treasures
+
 You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
 Treasures are the supernatural items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.

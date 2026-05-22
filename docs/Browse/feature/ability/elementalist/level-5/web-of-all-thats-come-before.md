@@ -21,6 +21,7 @@ tier3: 5 corruption damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Web of All That's Come Before
 
 *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
 

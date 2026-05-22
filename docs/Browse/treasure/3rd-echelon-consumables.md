@@ -7,6 +7,8 @@ scc: mcdm.heroes.v1/treasure/3rd-echelon-consumables
 type: treasure
 ---
 
+# 3rd-Echelon Consumables
+
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 ##### Anamorphic Larva

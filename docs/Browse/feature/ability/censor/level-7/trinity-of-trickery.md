@@ -15,6 +15,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Trinity of Trickery
 
 *Hey! I'm over here. No, here, numbskull.*
 

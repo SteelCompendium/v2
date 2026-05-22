@@ -21,6 +21,7 @@ tier3: 12 + A damage
 type: ability
 ---
 
+# Relentless Nemesis
 
 *You strike, and for the next few moments, your enemy can't escape you.*
 

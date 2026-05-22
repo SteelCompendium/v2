@@ -7,6 +7,8 @@ scc: mcdm.heroes.v1/treasure/2nd-echelon-consumables
 type: treasure
 ---
 
+# 2nd-Echelon Consumables
+
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 ##### Breath of Dawn

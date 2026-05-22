@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-4/growing-ferocity-improvement
 type: trait
 ---
 
+# Growing Ferocity Improvement
+
 Your Growing Ferocity feature provides additional benefits when you have 8 or more ferocity.

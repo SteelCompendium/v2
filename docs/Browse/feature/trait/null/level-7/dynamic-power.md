@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.null.level-7/dynamic-power
 type: trait
 ---
 
+# Dynamic Power
+
 If the ability force moves a target, the forced movement distance gains a bonus equal to your Intuition score.

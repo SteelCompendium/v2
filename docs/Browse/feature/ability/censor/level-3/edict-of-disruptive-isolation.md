@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Edict of Disruptive Isolation
 
 *The evil within your foes detonates with holy fire that burns only the guilty.*
 

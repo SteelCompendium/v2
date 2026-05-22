@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Edict of Peace
 
 *You anticipate your foes' moves and deny them.*
 

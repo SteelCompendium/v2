@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Elemental Ferocity
 
 *Your primordial energy makes for instant retribution.*
 

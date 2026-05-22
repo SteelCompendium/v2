@@ -13,6 +13,7 @@ target: One dead creature
 type: ability
 ---
 
+# Grave Speech
 
 *You commune with the lingering soul of the recently dead.*
 

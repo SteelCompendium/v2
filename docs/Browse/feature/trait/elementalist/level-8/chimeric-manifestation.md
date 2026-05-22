@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-8/chimeric-manifestation
 type: trait
 ---
 
+# Chimeric Manifestation
+
 Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
 Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.

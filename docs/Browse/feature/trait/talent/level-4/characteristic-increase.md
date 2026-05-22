@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-4/characteristic-increase
 type: trait
 ---
 
+# Characteristic Increase
+
 Your Reason and Presence scores each increase to 3.

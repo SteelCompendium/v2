@@ -19,6 +19,7 @@ tier3: 8 + I holy damage; vertical pull 4
 type: ability
 ---
 
+# Holy Lash
 
 *A tendril of divine energy shoots forth to draw in your foe.*
 

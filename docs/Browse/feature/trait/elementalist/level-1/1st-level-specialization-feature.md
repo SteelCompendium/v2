@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/1st-level-specialization-
 type: trait
 ---
 
+# 1st-Level Specialization Feature
+
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
 
 ###### 1st-Level Elemental Specialization Features Table

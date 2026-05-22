@@ -21,6 +21,7 @@ tier3: 8 + A damage; push 6
 type: ability
 ---
 
+# Phase Inversion Strike
 
 *You step momentarily out of phase as you pull an enemy through you.*
 

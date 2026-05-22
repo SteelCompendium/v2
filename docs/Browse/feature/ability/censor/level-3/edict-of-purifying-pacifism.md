@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Edict of Purifying Pacifism
 
 *You shed a righteous energy that punishes enemies who would harm you or your allies.*
 

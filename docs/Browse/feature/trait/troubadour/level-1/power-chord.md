@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/power-chord
 type: trait
 ---
 
+# Power Chord
+
 You have the following ability.
 
 ###### Power Chord

@@ -21,6 +21,7 @@ tier3: 21 + A damage; P < STRONG, dazed (save ends)
 type: ability
 ---
 
+# You Talk Too Much
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 

@@ -15,6 +15,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Healing Grace
 
 *Your divine energy restores the righteous.*
 

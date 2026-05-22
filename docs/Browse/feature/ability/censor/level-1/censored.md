@@ -20,6 +20,7 @@ tier3: 5 + M holy damage
 type: ability
 ---
 
+# Censored
 
 *Judged and sentenced.*
 

@@ -20,6 +20,7 @@ tier3: 9 + I holy damage
 type: ability
 ---
 
+# Warrior's Prayer
 
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
 

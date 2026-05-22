@@ -21,6 +21,7 @@ tier3: 20 + R psychic damage; R < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Mind Snare
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 

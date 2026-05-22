@@ -16,6 +16,7 @@ trigger: The target takes damage or is force moved.
 type: ability
 ---
 
+# Repel
 
 *They aren't going anywhere, but you might!*
 

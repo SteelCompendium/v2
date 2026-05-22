@@ -21,6 +21,7 @@ tier3: 14 + P damage; P < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Soul Burn
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 

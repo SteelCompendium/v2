@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/grifter
 type: complication
 ---
 
+# Grifter
+
 You used to be a con artist, but those days are pretty much behind you. Being a hero is an even better racket. After all, if you're saving the world, who can be mad at you for stealing a few coins along the way?
 
 **Benefit:** You have one skill of your choice from the intrigue skill group.

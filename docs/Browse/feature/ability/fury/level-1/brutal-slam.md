@@ -19,6 +19,7 @@ tier3: 9 + M damage; push 4
 type: ability
 ---
 
+# Brutal Slam
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-1/im-no-threat
 type: trait
 ---
 
+# I'm No Threat
+
 You have the following ability.
 
 ###### I'm No Threat

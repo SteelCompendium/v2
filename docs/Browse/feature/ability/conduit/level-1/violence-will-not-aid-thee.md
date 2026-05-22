@@ -20,6 +20,7 @@ tier3: 9 + I lightning damage
 type: ability
 ---
 
+# Violence Will Not Aid Thee
 
 *After some holy lightning, your enemy will think twice about their next attack.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-5/5th-level-college-feature
 type: trait
 ---
 
+# 5th-Level College Feature
+
 Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table

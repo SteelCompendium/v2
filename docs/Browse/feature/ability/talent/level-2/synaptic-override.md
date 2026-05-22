@@ -20,6 +20,7 @@ tier3: The target moves up to their speed and uses their signature ability again
 type: ability
 ---
 
+# Synaptic Override
 
 *You control an enemy's nervous system. How pleasant for them.*
 

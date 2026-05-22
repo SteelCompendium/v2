@@ -15,6 +15,8 @@ target: One creature
 type: ability
 ---
 
+# Pain for Pain
+
 *An enemy who tagged you will pay for that.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

@@ -20,6 +20,7 @@ tier3: 6 holy damage; push 3
 type: ability
 ---
 
+# Back Blasphemer!
 
 *You channel power through your weapon to repel foes.*
 

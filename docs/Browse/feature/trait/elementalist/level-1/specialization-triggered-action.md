@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/specialization-triggered-
 type: trait
 ---
 
+# Specialization Triggered Action
+
 Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.
 
 ###### Elemental Specialization Triggered Actions Table

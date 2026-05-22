@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# We Can't Be Upstaged!
 
 *Swordplay so graceful it looks like you all practiced this.*
 

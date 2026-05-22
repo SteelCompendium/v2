@@ -9,6 +9,8 @@ skills:
 type: career
 ---
 
+# Mage's Apprentice
+
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
 - Who did you study under, and what kind of person were they?

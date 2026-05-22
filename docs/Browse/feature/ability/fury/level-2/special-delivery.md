@@ -15,6 +15,7 @@ target: One willing ally
 type: ability
 ---
 
+# Special Delivery
 
 *You ready?*
 

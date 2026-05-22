@@ -21,6 +21,7 @@ tier3: 9 + A damage
 type: ability
 ---
 
+# Teamwork Has Its Place
 
 *You attack an enemy as an ally exposes their weakness.*
 

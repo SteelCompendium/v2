@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/talent-tradition
 type: trait
 ---
 
+# Talent Tradition
+
 Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.

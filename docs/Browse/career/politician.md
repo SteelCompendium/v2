@@ -10,6 +10,8 @@ type: career
 wealth: "+1"
 ---
 
+# Politician
+
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
 
 - Who were you responsible for ruling or representing?

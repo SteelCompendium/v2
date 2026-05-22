@@ -17,6 +17,7 @@ trigger: The target makes a power roll.
 type: ability
 ---
 
+# Blessing and a Curse
 
 *The gods bless and damn in equal measure.*
 

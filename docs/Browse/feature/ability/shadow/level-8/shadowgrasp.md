@@ -18,6 +18,7 @@ tier3: 21 corruption damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Shadowgrasp
 
 *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
 

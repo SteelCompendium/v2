@@ -17,6 +17,7 @@ trigger: You or another hero ends their turn.
 type: ability
 ---
 
+# Fulfill Your Destiny
 
 *You have looked at various futures, and only this one works.*
 

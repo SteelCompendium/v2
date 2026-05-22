@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Synapse Field
 
 *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
 

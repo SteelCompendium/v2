@@ -18,6 +18,7 @@ tier3: You gain 40 temporary Stamina.
 type: ability
 ---
 
+# Absolute Zero
 
 *You become the coldest thing in the timescape.*
 

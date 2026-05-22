@@ -21,6 +21,7 @@ tier3: 10 + A damage
 type: ability
 ---
 
+# Inertial Step
 
 *You flit about the battlefield and take an opportunistic strike.*
 

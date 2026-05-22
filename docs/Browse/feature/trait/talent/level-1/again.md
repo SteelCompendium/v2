@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/again
 type: trait
 ---
 
+# Again
+
 You have the following ability.
 
 ###### Again

@@ -20,6 +20,7 @@ tier3: 8 + M damage; slide 5
 type: ability
 ---
 
+# Out of the Way!
 
 *Your enemies will clear your path—whether they want to or not.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/dwarven-legionnaire
 type: title
 ---
 
+# Dwarven Legionnaire
+
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, stand fast, and do not yield.*
 
 **Prerequisite:** You fight alongside three or more dwarves.

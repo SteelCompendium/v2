@@ -15,6 +15,7 @@ target: One ally
 type: ability
 ---
 
+# Alacrity of the Heart
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
 

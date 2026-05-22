@@ -16,6 +16,7 @@ trigger: Another hero ends their turn. That hero can't have used this ability to
 type: ability
 ---
 
+# Hesitation Is Weakness
 
 *Keep up the attack. Never give them a moment's grace.*
 

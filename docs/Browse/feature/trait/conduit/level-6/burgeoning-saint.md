@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-6/burgeoning-saint
 type: trait
 ---
 
+# Burgeoning Saint
+
 You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:
 
 - You gain an edge on Presence tests made to interact with other creatures.

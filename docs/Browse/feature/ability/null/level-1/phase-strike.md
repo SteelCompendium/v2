@@ -21,6 +21,7 @@ tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends
 type: ability
 ---
 
+# Phase Strike
 
 *For a moment, your foe slips out of phase with this manifold.*
 

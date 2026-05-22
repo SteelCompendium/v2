@@ -7,6 +7,8 @@ scc: mcdm.heroes.v1/treasure/4th-echelon-consumables
 type: treasure
 ---
 
+# 4th-Echelon Consumables
+
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
 ##### Breath of Creation

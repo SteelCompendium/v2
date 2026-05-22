@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-1/grave-speech
 type: trait
 ---
 
+# Grave Speech
+
 You have the following ability.
 
 ###### Grave Speech

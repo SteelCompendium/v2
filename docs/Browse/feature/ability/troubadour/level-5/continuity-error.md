@@ -15,6 +15,7 @@ target: One enemy or object
 type: ability
 ---
 
+# Continuity Error
 
 *Your subject is written into two places at once.*
 

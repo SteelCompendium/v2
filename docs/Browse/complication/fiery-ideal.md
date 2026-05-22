@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/fiery-ideal
 type: complication
 ---
 
+# Fiery Ideal
+
 A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that now burns in your soul can sear your enemies—or you if you fall short of expectations.
 
 **Benefit:** While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a damage-dealing ability, the ability deals extra fire damage equal to your highest characteristic score.

@@ -5,6 +5,8 @@ signature_trait_name: Silver Tongue
 type: ancestry
 ---
 
+# Devil
+
 The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.

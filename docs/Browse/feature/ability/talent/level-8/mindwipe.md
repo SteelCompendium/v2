@@ -21,6 +21,7 @@ tier3: 23 + R damage; R < STRONG, the target has a double bane on power rolls (s
 type: ability
 ---
 
+# Mindwipe
 
 *You attempt to make them forget all their training.*
 

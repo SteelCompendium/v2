@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/dramatic-monologue
 type: trait
 ---
 
+# Dramatic Monologue
+
 You have the following ability.
 
 ###### Dramatic Monologue

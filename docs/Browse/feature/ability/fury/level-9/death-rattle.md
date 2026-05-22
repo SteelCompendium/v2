@@ -18,6 +18,7 @@ tier3: 10 psychic damage; each target who is not a leader or solo creature is wi
 type: ability
 ---
 
+# Death Rattle
 
 *You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*
 

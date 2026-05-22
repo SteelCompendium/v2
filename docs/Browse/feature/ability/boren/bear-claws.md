@@ -18,6 +18,8 @@ tier3: 11 + M damage; M < STRONG, grabbed
 type: ability
 ---
 
+# Bear Claws
+
 *Attacks with your sharp and deadly claws grab the weak.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

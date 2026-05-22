@@ -20,6 +20,7 @@ tier3: 6 fire damage
 type: ability
 ---
 
+# Bifurcated Incineration
 
 *Two jets of flame lance out at your command.*
 

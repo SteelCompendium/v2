@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/return-to-formlessness
 type: trait
 ---
 
+# Return to Formlessness
+
 You have the following ability.
 
 ###### Return to Formlessness

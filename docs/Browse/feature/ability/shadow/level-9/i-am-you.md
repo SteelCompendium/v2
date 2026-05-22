@@ -15,6 +15,7 @@ target: One creature
 type: ability
 ---
 
+# I Am You
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
 

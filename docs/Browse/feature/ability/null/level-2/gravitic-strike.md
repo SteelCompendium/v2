@@ -20,6 +20,7 @@ tier3: 16 + A psychic damage; vertical pull 7
 type: ability
 ---
 
+# Gravitic Strike
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 

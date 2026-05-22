@@ -21,6 +21,7 @@ tier3: 17 + A corruption damage
 type: ability
 ---
 
+# Into the Shadows
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 

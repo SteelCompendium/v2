@@ -19,6 +19,7 @@ tier3: 7 poison damage
 type: ability
 ---
 
+# Stink Bomb
 
 *Putrid yellow gas explodes from a bomb you toss.*
 

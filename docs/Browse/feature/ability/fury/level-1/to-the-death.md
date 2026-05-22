@@ -20,6 +20,7 @@ tier3: 9 + M damage
 type: ability
 ---
 
+# To the Death!
 
 *Your reckless assault leaves you tactically vulnerable.*
 

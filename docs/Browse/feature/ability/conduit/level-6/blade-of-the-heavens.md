@@ -19,6 +19,7 @@ tier3: 16 + I damage; A < STRONG, prone and restrained (save ends)
 type: ability
 ---
 
+# Blade of the Heavens
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 

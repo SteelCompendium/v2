@@ -22,6 +22,7 @@ tier3: 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squa
 type: ability
 ---
 
+# Behold the Face of Justice!
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 

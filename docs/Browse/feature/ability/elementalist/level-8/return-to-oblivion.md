@@ -17,6 +17,7 @@ target: Special
 type: ability
 ---
 
+# Return to Oblivion
 
 *You create a tear in reality that could consume everything.*
 

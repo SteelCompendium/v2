@@ -20,6 +20,7 @@ tier3: 9 + A damage; A < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Pressure Points
 
 *You strike at key nerve clusters to leave your foe staggered.*
 

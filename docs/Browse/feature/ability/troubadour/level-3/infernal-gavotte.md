@@ -21,6 +21,7 @@ tier3: 10 fire damage; A < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Infernal Gavotte
 
 *A spicy performance lights a fire under your allies' feet.*
 

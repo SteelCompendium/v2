@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-3/3rd-level-specialization-
 type: trait
 ---
 
+# 3rd-Level Specialization Feature
+
 Your elemental specialization grants you a feature, as shown on the 3rd-Level Elemental Specialization Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table

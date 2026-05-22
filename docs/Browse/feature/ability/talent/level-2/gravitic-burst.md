@@ -19,6 +19,7 @@ tier3: 9 damage; vertical push 6
 type: ability
 ---
 
+# Gravitic Burst
 
 *Everyone get away from me!*
 

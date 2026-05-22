@@ -19,6 +19,7 @@ tier3: Slide 7; P < STRONG, this slide ignores the target's stability
 type: ability
 ---
 
+# Extensive Rewrites
 
 *No, this isn't right. That foe was over there!*
 

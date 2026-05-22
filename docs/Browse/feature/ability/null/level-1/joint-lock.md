@@ -20,6 +20,7 @@ tier3: 9 + A damage; A < STRONG, grabbed
 type: ability
 ---
 
+# Joint Lock
 
 *You contort your enemy's body into a stance they struggle to escape from.*
 

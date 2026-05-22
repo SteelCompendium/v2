@@ -20,6 +20,7 @@ tier3: The target falls into the hole and can't reduce the height of the fall.
 type: ability
 ---
 
+# Instantaneous Excavation
 
 *The surface of the world around you opens up to swallow foes.*
 

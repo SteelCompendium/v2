@@ -20,6 +20,7 @@ tier3: M < STRONG, prone
 type: ability
 ---
 
+# World Torn Asunder
 
 *You stomp your foot and quake the whole world over.*
 

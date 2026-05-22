@@ -21,6 +21,7 @@ tier3: 7 damage
 type: ability
 ---
 
+# Faster Than the Eye
 
 *You strike so quickly that your hands become a blur.*
 

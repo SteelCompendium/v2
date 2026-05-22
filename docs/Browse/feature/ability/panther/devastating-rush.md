@@ -15,6 +15,8 @@ target: One creature or object
 type: ability
 ---
 
+# Devastating Rush
+
 *The faster you move, the harder you hit.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

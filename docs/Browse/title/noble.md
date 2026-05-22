@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/noble
 type: title
 ---
 
+# Noble
+
 *Technically, I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.*
 
 **Prerequisite:** A monarch or important noble grants you a noble rank.

@@ -19,6 +19,7 @@ tier3: 24 + A damage; bleeding (EoT), or if M < STRONG, bleeding (save ends)
 type: ability
 ---
 
+# Blood on the Stage
 
 *It's love and blood or drama and blood. Either way, there's always blood.*
 

@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.corven/primordial-storm-anabatic-wind
 type: trait
 ---
 
+# Primordial Storm: Anabatic Wind
+
 Your primordial damage type is fire.

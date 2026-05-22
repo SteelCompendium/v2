@@ -19,6 +19,7 @@ tier3: 7 + M damage; M < STRONG, grabbed
 type: ability
 ---
 
+# Impaled!
 
 *You skewer your enemy like a boar upon a spit.*
 

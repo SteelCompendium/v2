@@ -16,6 +16,8 @@ target: One creature
 type: ability
 ---
 
+# Raider's Awe
+
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

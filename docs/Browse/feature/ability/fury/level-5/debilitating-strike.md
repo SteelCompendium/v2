@@ -20,6 +20,7 @@ tier3: 20 + M damage; M < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Debilitating Strike
 
 *You need just one blow to sabotage your target.*
 

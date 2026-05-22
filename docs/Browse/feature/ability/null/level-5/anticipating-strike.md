@@ -23,6 +23,7 @@ trigger: The target moves or uses a main action.
 type: ability
 ---
 
+# Anticipating Strike
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 

@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# There Is No Space Between
 
 *Knowledge of the mystery reveals that two spaces are the same space.*
 

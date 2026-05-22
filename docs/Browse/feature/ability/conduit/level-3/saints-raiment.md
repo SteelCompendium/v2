@@ -15,6 +15,7 @@ target: One ally
 type: ability
 ---
 
+# Saint's Raiment
 
 *An ally becomes the wearer of an empowered golden cloak.*
 

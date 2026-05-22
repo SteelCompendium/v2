@@ -20,6 +20,7 @@ tier3: 14 + R damage; M < STRONG, prone and can't stand (save ends)
 type: ability
 ---
 
+# Levity and Gravity
 
 *You raise the target slightly into the air, then smother them against the ground.*
 

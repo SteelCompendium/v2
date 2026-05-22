@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/knight
 type: title
 ---
 
+# Knight
+
 *Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
 
 **Prerequisite:** A noble or monarch grants you knighthood or a similar rank.

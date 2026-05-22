@@ -19,6 +19,7 @@ tier3: 16 + A damage; A < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Pinning Shot
 
 *One missile—placed well and placed hard.*
 

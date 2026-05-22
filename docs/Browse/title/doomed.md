@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/doomed
 type: title
 ---
 
+# Doomed
+
 *I don't know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?*
 
 **Prerequisite:** You aren't a hakaan but have witnessed the death of a hakaan.

@@ -19,6 +19,7 @@ tier3: 12 fire damage
 type: ability
 ---
 
+# Divine Dragon
 
 *From nothing but divine will, you create a powerful ally.*
 

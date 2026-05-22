@@ -20,6 +20,7 @@ tier3: 14 + A damage; P < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Method Acting
 
 *They're so hurt by your performance, you start to believe it yourself.*
 

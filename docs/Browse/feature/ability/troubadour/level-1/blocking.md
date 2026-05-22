@@ -15,6 +15,7 @@ target: Each creature in the area
 type: ability
 ---
 
+# Blocking
 
 *No, no, no, you lose the audience that way. Try it like this...*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-1/my-life-for-yours
 type: trait
 ---
 
+# My Life for Yours
+
 You channel your will to mend your wounds or the wounds of your allies. You have the following ability.
 
 ##### My Life for Yours

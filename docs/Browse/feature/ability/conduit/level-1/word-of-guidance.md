@@ -17,6 +17,7 @@ trigger: The target makes an ability roll for a damage-dealing ability.
 type: ability
 ---
 
+# Word of Guidance
 
 *You invigorate an attacking ally with divine energy.*
 

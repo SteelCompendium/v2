@@ -8,6 +8,8 @@ stamina_bonus: +12 per echelon
 type: kit
 ---
 
+# Shining Armor
+
 The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment

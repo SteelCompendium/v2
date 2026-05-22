@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Take Two!
 
 *One more, and this time make it interesting.*
 

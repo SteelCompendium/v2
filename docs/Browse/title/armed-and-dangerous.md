@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/armed-and-dangerous
 type: title
 ---
 
+# Armed and Dangerous
+
 *I'm not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.*
 
 **Prerequisite:** You can't use kits, and you defeat five non-minion enemies using weapon abilities that don't have the Magic or Psionic keyword.

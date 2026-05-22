@@ -16,6 +16,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Perfect Clarity
 
 *You clear the mind of nothing but the goal.*
 

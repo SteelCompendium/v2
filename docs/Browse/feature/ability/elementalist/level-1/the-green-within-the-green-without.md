@@ -21,6 +21,7 @@ tier3: 7 + R damage
 type: ability
 ---
 
+# The Green Within, the Green Without
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 

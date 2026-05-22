@@ -20,6 +20,7 @@ tier3: 28 + A damage
 type: ability
 ---
 
+# It Was Me All Along
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 

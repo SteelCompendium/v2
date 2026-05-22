@@ -20,6 +20,7 @@ tier3: 16 + M damage
 type: ability
 ---
 
+# To the Uttermost End
 
 *You gut your life force to ensure a foe's demise.*
 

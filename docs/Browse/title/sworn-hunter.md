@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/sworn-hunter
 type: title
 ---
 
+# Sworn Hunter
+
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
 **Prerequisite:** You have the Marshal title, and you take down an entire criminal organization.

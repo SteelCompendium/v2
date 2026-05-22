@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.null.level-8/8th-level-tradition-feature
 type: trait
 ---
 
+# 8th-Level Tradition Feature
+
 Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table

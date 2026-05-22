@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/unchained
 type: title
 ---
 
+# Unchained
+
 *I'll never get away with it? My dear, I already have.*
 
 **Prerequisite:** You have the Heist Hero title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.

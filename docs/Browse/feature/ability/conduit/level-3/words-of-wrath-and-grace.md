@@ -19,6 +19,7 @@ tier3: 7 holy damage
 type: ability
 ---
 
+# Words of Wrath and Grace
 
 *Your saint grants your enemies a vision of pain and fills your allies with healing energy.*
 

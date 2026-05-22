@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-7/lucid-mind
 type: trait
 ---
 
+# Lucid Mind
+
 At the start of each of your turns during combat, you gain 1d3 + 1 clarity instead of 1d3.

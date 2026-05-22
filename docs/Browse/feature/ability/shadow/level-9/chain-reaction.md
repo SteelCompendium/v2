@@ -18,6 +18,7 @@ tier3: 15 damage
 type: ability
 ---
 
+# Chain Reaction
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
 

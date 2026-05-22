@@ -5,6 +5,8 @@ scc: mcdm.heroes.v1/feature.trait.fury/kit-features
 type: trait
 ---
 
+# Kit Features
+
 All stormwight kits have the following features in common.
 
 ##### Signature Ability

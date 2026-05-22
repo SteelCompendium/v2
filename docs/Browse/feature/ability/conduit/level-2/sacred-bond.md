@@ -15,6 +15,7 @@ target: Self and one ally
 type: ability
 ---
 
+# Sacred Bond
 
 *You forge a divine connection between two creatures.*
 

@@ -19,6 +19,7 @@ tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamin
 type: ability
 ---
 
+# Shield of the Righteous
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 

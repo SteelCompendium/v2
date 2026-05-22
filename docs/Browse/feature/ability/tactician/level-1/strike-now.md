@@ -14,6 +14,7 @@ target: One ally
 type: ability
 ---
 
+# Strike Now!
 
 *Your foe left an opening. You point this out to an ally!*
 

@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Revitalizing Grace
 
 *With a gesture, you restore your health and that of your allies.*
 

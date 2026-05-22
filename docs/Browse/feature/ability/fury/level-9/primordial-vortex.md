@@ -21,6 +21,7 @@ tier3: 8 damage; vertical pull 7
 type: ability
 ---
 
+# Primordial Vortex
 
 *You channel the power of the Primordial Chaos to pull foes to you.*
 

@@ -21,6 +21,7 @@ tier3: 18 + A damage; push 10; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Phase Hurl
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 

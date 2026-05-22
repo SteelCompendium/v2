@@ -19,6 +19,7 @@ tier3: 13 sonic damage; P < STRONG, prone
 type: ability
 ---
 
+# Feedback
 
 *Your music pounds the crowd to the beat until their hearts can't stand it anymore.*
 

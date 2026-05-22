@@ -20,6 +20,7 @@ tier3: 18 + M damage; I < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Excommunication
 
 *You curse your foe to become a bane to their allies.*
 

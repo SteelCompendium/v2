@@ -16,6 +16,7 @@ trigger: You lose Stamina and are not dying.
 type: ability
 ---
 
+# Furious Change
 
 *In your anger, you revert to a more bestial form.*
 

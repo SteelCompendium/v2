@@ -18,6 +18,7 @@ tier3: Three allies within distance can take their turns immediately after yours
 type: ability
 ---
 
+# Patter Song
 
 *Dazzle them with your fancy patter and they forget where they were.*
 

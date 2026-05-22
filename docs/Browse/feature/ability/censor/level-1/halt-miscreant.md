@@ -19,6 +19,7 @@ tier3: 7 + M holy damage; P < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Halt Miscreant!
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 

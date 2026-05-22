@@ -4,6 +4,8 @@ scc: mcdm.heroes.v1/perk/psychic-whisper
 type: perk
 ---
 
+# Psychic Whisper
+
 You have the following ability.
 
 ##### Psychic Whisper

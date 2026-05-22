@@ -20,6 +20,7 @@ tier3: 7 + I corruption damage
 type: ability
 ---
 
+# Drain
 
 *You drain the energy from your target to revitalize yourself or an ally.*
 

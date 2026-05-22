@@ -11,6 +11,8 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Dragon's Fire
+
 *You open your maw and unleash hell.*
 
 | **Area, Magic**            |               **Main action** |

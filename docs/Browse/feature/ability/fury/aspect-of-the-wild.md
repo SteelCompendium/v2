@@ -13,6 +13,7 @@ target: Self
 type: ability
 ---
 
+# Aspect of the Wild
 
 *You assume the form of the animal who channels your ferocity.*
 

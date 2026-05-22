@@ -19,6 +19,7 @@ tier3: 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
 type: ability
 ---
 
+# Corruption's Curse
 
 *Cursed by you, your enemy takes more damage from your allies.*
 

@@ -19,6 +19,7 @@ tier3: 10 fire damage
 type: ability
 ---
 
+# Morning Light
 
 *Light shines at your command, burning your foes and blessing your allies.*
 

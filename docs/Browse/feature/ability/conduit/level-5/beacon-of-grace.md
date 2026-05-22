@@ -20,6 +20,7 @@ tier3: 17 + I holy damage
 type: ability
 ---
 
+# Beacon of Grace
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-3/remember-growth-and-sun-a
 type: trait
 ---
 
+# Remember Growth and Sun and Rain
+
 You have the following ability.
 
 ###### Remember Growth and Sun and Rain

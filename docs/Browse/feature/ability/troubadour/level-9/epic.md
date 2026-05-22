@@ -20,6 +20,7 @@ tier3: The target has a double bane on power rolls (save ends).
 type: ability
 ---
 
+# Epic
 
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 

@@ -19,6 +19,7 @@ tier3: 8 + I holy damage; slide 3
 type: ability
 ---
 
+# Staggering Curse
 
 *A blast of judgment disorients your foe.*
 

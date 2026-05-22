@@ -22,6 +22,7 @@ tier3: 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends
 type: ability
 ---
 
+# Purifying Fire
 
 *The gods judge, fire cleanses.*
 

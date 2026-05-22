@@ -14,6 +14,7 @@ target: One enemy
 type: ability
 ---
 
+# Judgment
 
 *You utter a prayer that outlines your foe in holy energy.*
 

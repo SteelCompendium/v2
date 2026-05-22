@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/vow-of-duty
 type: complication
 ---
 
+# Vow of Duty
+
 You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.
 
 **Benefit:** You gain a +1 bonus to stability.

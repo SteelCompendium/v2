@@ -19,6 +19,7 @@ tier3: 9 damage
 type: ability
 ---
 
+# One Hundred Throats
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
 

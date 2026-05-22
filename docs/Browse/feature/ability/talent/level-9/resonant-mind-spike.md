@@ -21,6 +21,7 @@ tier3: 28 + R psychic damage
 type: ability
 ---
 
+# Resonant Mind Spike
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 

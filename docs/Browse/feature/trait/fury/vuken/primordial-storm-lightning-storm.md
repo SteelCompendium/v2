@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.vuken/primordial-storm-lightning-storm
 type: trait
 ---
 
+# Primordial Storm: Lightning Storm
+
 Your primordial damage type is lightning.

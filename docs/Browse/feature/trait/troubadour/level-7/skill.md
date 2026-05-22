@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-7/skill
 type: trait
 ---
 
+# Skill
+
 You gain one skill of your choice.

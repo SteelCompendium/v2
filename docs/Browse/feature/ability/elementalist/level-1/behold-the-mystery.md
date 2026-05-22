@@ -20,6 +20,7 @@ tier3: 6 psychic damage
 type: ability
 ---
 
+# Behold the Mystery
 
 *You open a rift into the void to harry your foes.*
 

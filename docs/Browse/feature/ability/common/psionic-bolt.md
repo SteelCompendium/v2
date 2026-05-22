@@ -13,6 +13,8 @@ target: One creature or object
 type: ability
 ---
 
+# Psionic Bolt
+
 *You shoot forth a purple beam of psychic force that moves your target.*
 
 | **Psionic, Ranged, Strike**  | Main action                   |

@@ -15,6 +15,7 @@ target: Each ally
 type: ability
 ---
 
+# Reap
 
 *The gods reward those who smite their foes.*
 

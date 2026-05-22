@@ -20,6 +20,7 @@ tier3: 15 + R corruption damage; the target has line of effect only to adjacent 
 type: ability
 ---
 
+# Subverted Perception of Space
 
 *You rip an enemy's world in twain.*
 

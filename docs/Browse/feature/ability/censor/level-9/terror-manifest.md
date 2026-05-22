@@ -20,6 +20,7 @@ tier3: 13 + P psychic damage; P < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Terror Manifest
 
 *"I know what you fear."*
 

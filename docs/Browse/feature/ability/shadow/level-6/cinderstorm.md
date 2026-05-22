@@ -14,6 +14,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Cinderstorm
 
 *You teleport your friends in a burst of ash and fire.*
 

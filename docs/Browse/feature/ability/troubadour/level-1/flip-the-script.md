@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Flip the Script
 
 *You try a different take on events, justifying the new locations everyone ended up in.*
 

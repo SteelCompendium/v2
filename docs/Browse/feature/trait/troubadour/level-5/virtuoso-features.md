@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-5/virtuoso-features
 type: trait
 ---
 
+# Virtuoso Features
+
 Choose one of the following features.
 
 ###### Bolstering Banter

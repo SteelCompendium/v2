@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/ivory-tower
 type: complication
 ---
 
+# Ivory Tower
+
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
 **Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/faction-member
 type: title
 ---
 
+# Faction Member
+
 *In six months, I'll be running this place.*
 
 **Prerequisite:** You join an army, guild, or similar organization.

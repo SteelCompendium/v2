@@ -17,6 +17,7 @@ trigger: The target would be force moved.
 type: ability
 ---
 
+# Lines of Force
 
 *You redirect the energy of motion.*
 

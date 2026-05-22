@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/perks
 type: chapter
 ---
 
+# Perks
+
 Heroes don't just fight monsters. They engage in exploration, investigation, negotiation, and more. Perks are features you can use to customize your hero and give them heroic moments outside of combat. Along with skills and many class features, perks make your character more than just a monster fighter. But although these features are designed to be used outside of combat, many are versatile enough that they can also be used in battle.
 
 You are granted one perk from your career and can choose other perks from your class as your level increases.

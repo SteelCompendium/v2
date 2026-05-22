@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-1/piety
 type: trait
 ---
 
+# Piety
+
 Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat

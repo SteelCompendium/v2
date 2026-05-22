@@ -17,6 +17,7 @@ trigger: A creature deals damage to the target.
 type: ability
 ---
 
+# Parry
 
 *Your quick reflexes cost an enemy the precision they seek.*
 

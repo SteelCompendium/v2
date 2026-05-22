@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/troupe-leading-player
 type: title
 ---
 
+# Troupe Leading Player
+
 *We're actors! We're the opposite of people!*
 
 **Prerequisite:** The party has successfully performed as a troupe of actors, circus performers, or other entertainers.

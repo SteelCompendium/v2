@@ -18,6 +18,7 @@ tier3: 7 psychic damage; P < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Here's How Your Story Ends
 
 *You give away the ending of this battle, and it's not great for them.*
 

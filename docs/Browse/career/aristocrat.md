@@ -10,6 +10,8 @@ type: career
 wealth: "+1"
 ---
 
+# Aristocrat
+
 Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth. In defining your career, think about the following questions:
 
 - How did you become an aristocrat?

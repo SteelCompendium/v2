@@ -14,6 +14,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Blessing of Secrets
 
 *You project an illusory aura that makes you and allies harder to notice.*
 

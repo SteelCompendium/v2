@@ -16,6 +16,7 @@ target: Self and one willing ally
 type: ability
 ---
 
+# Classic Chandelier Stunt
 
 *Audiences love this bit.*
 

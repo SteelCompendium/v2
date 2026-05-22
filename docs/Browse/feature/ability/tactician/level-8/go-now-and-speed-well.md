@@ -14,6 +14,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Go Now and Speed Well
 
 *You direct an attack to strike true.*
 

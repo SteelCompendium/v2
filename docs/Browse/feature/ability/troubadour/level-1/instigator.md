@@ -20,6 +20,7 @@ tier3: 9 + P damage
 type: ability
 ---
 
+# Instigator
 
 *I didn't do it! What?*
 

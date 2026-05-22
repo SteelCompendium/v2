@@ -16,6 +16,7 @@ trigger: The target deals damage to another creature.
 type: ability
 ---
 
+# Advanced Tactics
 
 *Your leadership aids an ally.*
 

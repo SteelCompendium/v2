@@ -15,6 +15,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Arise!
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 

@@ -9,6 +9,8 @@ speed_bonus: "+1"
 type: kit
 ---
 
+# Arcane Archer
+
 The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment

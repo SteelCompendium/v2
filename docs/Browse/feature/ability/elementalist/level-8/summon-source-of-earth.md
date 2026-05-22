@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Summon Source of Earth
 
 *The ground rumbles as an elemental bursts forth, ready to serve.*
 

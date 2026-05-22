@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/remote-assistance
 type: trait
 ---
 
+# Remote Assistance
+
 You have the following ability.
 
 ###### Remote Assistance

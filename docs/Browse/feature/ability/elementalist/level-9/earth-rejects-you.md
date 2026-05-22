@@ -20,6 +20,7 @@ tier3: 13 damage
 type: ability
 ---
 
+# Earth Rejects You
 
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 

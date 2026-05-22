@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/acrobatics
 type: trait
 ---
 
+# Acrobatics
+
 You have the following performance ability, which is usable with your Routines feature.
 
 ###### Acrobatics

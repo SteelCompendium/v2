@@ -20,6 +20,7 @@ tier3: 4 + R damage; R < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Try Me Instead
 
 *"Try picking on someone my size."*
 

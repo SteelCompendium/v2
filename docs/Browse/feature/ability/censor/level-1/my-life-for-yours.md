@@ -17,6 +17,7 @@ trigger: The target starts their turn or takes damage.
 type: ability
 ---
 
+# My Life for Yours
 
 *You channel some of your vitality into more resilience for you or an ally.*
 

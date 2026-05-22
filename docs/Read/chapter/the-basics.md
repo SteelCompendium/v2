@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/the-basics
 type: chapter
 ---
 
+# The Basics
+
 The flow of playing *Draw Steel* is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
 
 **Director (Willy):** *You stand in the doorway of the top level of the ruined necromancer's tower. The air is stale and reeks of death. A pale full moon shines through a broken ceiling, illuminating six sarcophagi upon a raised dais, each with a lid carved in the likeness of a devil. Broken flasks, beakers, and other laboratory glass covers the floor.*

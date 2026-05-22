@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/feedback-loop
 type: trait
 ---
 
+# Feedback Loop
+
 You have the following ability.
 
 ###### Feedback Loop

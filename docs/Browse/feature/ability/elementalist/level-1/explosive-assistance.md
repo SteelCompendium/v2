@@ -18,6 +18,7 @@ trigger: The target force moves a creature or object.
 type: ability
 ---
 
+# Explosive Assistance
 
 *You add a little magic to an ally's aggression at just the right time.*
 

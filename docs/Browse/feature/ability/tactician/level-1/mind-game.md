@@ -21,6 +21,7 @@ tier3: 10 + M damage; R < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Mind Game
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 

@@ -8,6 +8,8 @@ skills:
 type: career
 ---
 
+# Performer
+
 You can sing, act, or dance well enough that people actually pay you to do it. Imagine that! In defining your career, think about the following questions:
 
 - What is the tone of your performances?

@@ -20,6 +20,7 @@ tier3: 4 burst
 type: ability
 ---
 
+# Fulcrum
 
 *You precisely manipulate the creatures around you.*
 

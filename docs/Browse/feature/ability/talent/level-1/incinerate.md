@@ -22,6 +22,7 @@ tier3: 6 fire damage
 type: ability
 ---
 
+# Incinerate
 
 *The air erupts into a column of smokeless flame.*
 

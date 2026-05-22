@@ -20,6 +20,7 @@ tier3: 8 + M holy damage
 type: ability
 ---
 
+# Your Allies Cannot Save You!
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
 

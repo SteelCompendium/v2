@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-4/surge-of-insight
 type: trait
 ---
 
+# Surge of Insight
+
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.

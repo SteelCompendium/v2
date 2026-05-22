@@ -20,6 +20,7 @@ tier3: 13 psychic damage; I < STRONG, frightened (save ends)
 type: ability
 ---
 
+# Fear of the Gods
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
 

@@ -14,6 +14,7 @@ target: Three creatures
 type: ability
 ---
 
+# Battle Plan
 
 *With new understanding of your foes, you create the perfect plan to win the battle.*
 

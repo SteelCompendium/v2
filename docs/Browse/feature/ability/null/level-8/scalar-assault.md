@@ -18,6 +18,7 @@ tier3: 23 psychic damage; push 7
 type: ability
 ---
 
+# Scalar Assault
 
 *You warp reality to grow a limb for just a moment and make a single devastating attack.*
 

@@ -20,6 +20,7 @@ tier3: 10 + A damage; slide 5
 type: ability
 ---
 
+# Disorienting Strike
 
 *Your attack leaves them reeling, allowing you to follow up.*
 

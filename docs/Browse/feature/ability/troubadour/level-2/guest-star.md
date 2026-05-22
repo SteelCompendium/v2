@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Guest Star
 
 *We offered them a percentage of the gross. So they're working for free!*
 

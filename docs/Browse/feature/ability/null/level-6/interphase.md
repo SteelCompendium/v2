@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# Interphase
 
 *You slip into a faster timestream to act more quickly.*
 

@@ -19,6 +19,7 @@ tier3: Vertical slide 10
 type: ability
 ---
 
+# Ice Pillars
 
 *Pillars of ice erupt from the ground and launch your foes into the air.*
 

@@ -18,6 +18,7 @@ tier3: 9 sonic damage; push 7
 type: ability
 ---
 
+# Invocation of Undoing
 
 *You utter a secret word of destruction known only to deities.*
 

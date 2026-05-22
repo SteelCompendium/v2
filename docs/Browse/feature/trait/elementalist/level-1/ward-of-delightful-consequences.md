@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-delightful-conseq
 type: trait
 ---
 
+# Ward of Delightful Consequences
+
 A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.

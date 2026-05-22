@@ -20,6 +20,7 @@ tier3: 26 + M holy damage
 type: ability
 ---
 
+# Apostate
 
 *You channel holy energy to seal an enemy's fate.*
 

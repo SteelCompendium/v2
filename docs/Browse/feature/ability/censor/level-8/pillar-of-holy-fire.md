@@ -20,6 +20,7 @@ tier3: 18 + M damage; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Pillar of Holy Fire
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 

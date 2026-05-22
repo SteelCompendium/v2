@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/forsaken
 type: title
 ---
 
+# Forsaken
+
 *The quest is done, the enemy is defeated, and the Blade of a Thousand Years has passed from our hands. What do we do with the rest of our lives?*
 
 **Prerequisite:** Your party loses, destroys, or otherwise parts with an artifact.

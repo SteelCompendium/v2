@@ -18,6 +18,7 @@ tier3: Each target gains 3 surges.
 type: ability
 ---
 
+# Orison of Victory
 
 *You channel your god's will to overcome hardship and inflict pain.*
 

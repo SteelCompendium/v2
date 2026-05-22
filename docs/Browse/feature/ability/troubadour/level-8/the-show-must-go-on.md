@@ -20,6 +20,7 @@ tier3: 12 damage; the target can't willingly leave the area (EoT); if P < STRONG
 type: ability
 ---
 
+# The Show Must Go On
 
 *You shine a bright light on the players on the stage and compel them to finish the performance.*
 

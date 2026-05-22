@@ -19,6 +19,7 @@ tier3: Slide 7; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Burden of Evil
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 

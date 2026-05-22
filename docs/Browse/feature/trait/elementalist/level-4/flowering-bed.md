@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-4/flowering-bed
 type: trait
 ---
 
+# Flowering Bed
+
 At the end of each of your turns, each ally in the area gains temporary Stamina equal to your Reason score.

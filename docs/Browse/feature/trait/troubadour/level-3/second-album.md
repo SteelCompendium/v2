@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-3/second-album
 type: trait
 ---
 
+# Second Album
+
 You have the following performance abilities, which are usable with your Routines feature.
 
 ###### "Fire Up the Night"

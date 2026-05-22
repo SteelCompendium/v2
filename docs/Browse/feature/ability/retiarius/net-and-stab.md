@@ -14,6 +14,8 @@ target: One creature
 type: ability
 ---
 
+# Net and Stab
+
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

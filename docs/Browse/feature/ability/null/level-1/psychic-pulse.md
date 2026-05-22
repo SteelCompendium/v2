@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Psychic Pulse
 
 *A burst of psionic energy interferes with your enemy's synapses.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.troubadour.level-1/star-power
 type: trait
 ---
 
+# Star Power
+
 You have the following ability.
 
 ###### Star Power (1 Drama)

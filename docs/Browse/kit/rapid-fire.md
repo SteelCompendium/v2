@@ -10,6 +10,8 @@ stamina_bonus: +3 per echelon
 type: kit
 ---
 
+# Rapid-Fire
+
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.
 
 ##### Equipment

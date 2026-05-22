@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Edict of Unyielding Resolve
 
 *You and your allies are clad in shimmering armor.*
 

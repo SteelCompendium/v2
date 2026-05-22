@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action
 type: trait
 ---
 
+# Triggered Action
+
 Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.)
 
 ##### Word of Guidance

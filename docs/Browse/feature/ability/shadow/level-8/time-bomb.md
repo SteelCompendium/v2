@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Time Bomb
 
 *The longer it cooks, the bigger the boom.*
 

@@ -21,6 +21,7 @@ tier3: 22 + P sonic damage; push 15
 type: ability
 ---
 
+# Melt Their Faces
 
 *The power of music rips through the reality around the target and blows them away.*
 

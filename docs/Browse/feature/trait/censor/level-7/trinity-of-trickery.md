@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.censor.level-7/trinity-of-trickery
 type: trait
 ---
 
+# Trinity of Trickery
+
 You have the following ability.
 
 ###### Trinity of Trickery (9 Wrath)

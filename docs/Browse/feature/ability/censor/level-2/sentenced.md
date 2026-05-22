@@ -21,6 +21,7 @@ tier3: 12 + P damage; P < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Sentenced
 
 *The shock of your condemnation freezes your enemy in their boots.*
 

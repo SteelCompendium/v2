@@ -21,6 +21,7 @@ tier3: 21 + M damage
 type: ability
 ---
 
+# Primordial Bane
 
 *You attune the target to be weaker to a specific element.*
 

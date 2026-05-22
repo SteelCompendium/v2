@@ -20,6 +20,7 @@ tier3: You can choose any of the current effects on you and the target that are 
 type: ability
 ---
 
+# Renegotiated Contract
 
 *No, no. You don't die until the sequel.*
 

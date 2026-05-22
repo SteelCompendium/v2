@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/local-hero
 type: title
 ---
 
+# Local Hero
+
 *Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!*
 
 **Prerequisite:** You save a community from certain destruction.

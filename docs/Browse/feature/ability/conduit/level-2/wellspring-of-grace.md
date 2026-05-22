@@ -15,6 +15,7 @@ target: Each ally in the area
 type: ability
 ---
 
+# Wellspring of Grace
 
 *A holy light is emitted from your body, healing your allies.*
 

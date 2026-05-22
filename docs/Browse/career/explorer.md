@@ -8,6 +8,8 @@ skills:
 type: career
 ---
 
+# Explorer
+
 You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter. In defining your career, think about the following questions:
 
 - For what purpose did you explore the unknown?

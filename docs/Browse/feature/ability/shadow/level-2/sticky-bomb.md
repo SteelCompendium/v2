@@ -18,6 +18,7 @@ tier3: 11 + A fire damage
 type: ability
 ---
 
+# Sticky Bomb
 
 *Explosives are best when they're attached to an enemy.*
 

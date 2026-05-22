@@ -19,6 +19,7 @@ tier3: 5 holy damage
 type: ability
 ---
 
+# Lightfall
 
 *A rain of holy light scours your enemies and repositions your allies.*
 

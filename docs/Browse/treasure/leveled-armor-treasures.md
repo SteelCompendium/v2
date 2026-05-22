@@ -7,6 +7,8 @@ scc: mcdm.heroes.v1/treasure/leveled-armor-treasures
 type: treasure
 ---
 
+# Leveled Armor Treasures
+
 Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents leveled armor treasures in alphabetical order.
 
 ##### Adaptive Second Skin of Toxins

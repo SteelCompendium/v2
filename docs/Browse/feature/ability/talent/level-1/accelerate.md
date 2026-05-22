@@ -15,6 +15,7 @@ target: Self or one creature
 type: ability
 ---
 
+# Accelerate
 
 *To your ally, it seems as though the world has slowed down.*
 

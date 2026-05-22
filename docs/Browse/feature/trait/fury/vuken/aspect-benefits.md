@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.fury.vuken/aspect-benefits
 type: trait
 ---
 
+# Aspect Benefits
+
 Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.

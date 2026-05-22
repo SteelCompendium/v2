@@ -16,6 +16,7 @@ trigger: Another creature damages you using an ability.
 type: ability
 ---
 
+# Inertial Absorption
 
 *You absorb an attack to empower your body.*
 

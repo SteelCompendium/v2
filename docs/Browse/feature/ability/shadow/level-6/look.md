@@ -15,6 +15,7 @@ target: Each enemy in the area
 type: ability
 ---
 
+# Look!
 
 *You distract your foes, allowing your allies to take advantage of that distraction.*
 

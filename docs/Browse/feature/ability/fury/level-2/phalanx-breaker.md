@@ -19,6 +19,7 @@ tier3: 6 damage; A < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Phalanx-Breaker
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
 

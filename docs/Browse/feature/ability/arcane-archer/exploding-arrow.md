@@ -16,6 +16,8 @@ target: One creature or object
 type: ability
 ---
 
+# Exploding Arrow
+
 *Your ammunition explodes with magical energy.*
 
 | **Magic, Ranged, Strike, Weapon** |               **Main action** |

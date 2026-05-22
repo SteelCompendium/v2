@@ -21,6 +21,7 @@ tier3: 13 + M damage; slide 5
 type: ability
 ---
 
+# Panic in Their Lines
 
 *You confuse your foes, causing them to turn on each other.*
 

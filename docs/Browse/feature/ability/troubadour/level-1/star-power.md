@@ -15,6 +15,7 @@ target: Self
 type: ability
 ---
 
+# Star Power
 
 *Your years of practicing fencing and dancing pay off on the battlefield.*
 

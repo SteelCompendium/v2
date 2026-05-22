@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-8/summon-source-of-earth
 type: trait
 ---
 
+# Summon Source of Earth
+
 You have the following ability.
 
 ###### Source of Earth Statblock

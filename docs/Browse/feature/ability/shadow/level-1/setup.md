@@ -19,6 +19,7 @@ tier3: 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
 type: ability
 ---
 
+# Setup
 
 *Your friends will thank you.*
 

@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.talent.level-1/accelerate
 type: trait
 ---
 
+# Accelerate
+
 You have the following ability.
 
 ###### Accelerate

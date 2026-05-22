@@ -20,6 +20,7 @@ tier3: 20 psychic damage; the target considers you and your allies to be their a
 type: ability
 ---
 
+# Synaptic Conditioning
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 

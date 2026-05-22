@@ -15,6 +15,7 @@ target: One creature or object
 type: ability
 ---
 
+# Love Song
 
 *You play a small ditty that plants you inside your target's heart.*
 

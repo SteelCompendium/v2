@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Ballad of the Beast
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 

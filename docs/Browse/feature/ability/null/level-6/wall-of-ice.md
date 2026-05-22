@@ -16,6 +16,7 @@ target: Special
 type: ability
 ---
 
+# Wall of Ice
 
 *You create a wall of ice.*
 

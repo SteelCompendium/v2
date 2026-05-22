@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Shared Void Sense
 
 *You grant allies a taste of your unearthly vision.*
 

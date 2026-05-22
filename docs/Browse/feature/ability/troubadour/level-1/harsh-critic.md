@@ -21,6 +21,7 @@ tier3: 13 + P sonic damage
 type: ability
 ---
 
+# Harsh Critic
 
 *Just one bad review will ruin their day.*
 

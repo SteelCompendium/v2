@@ -20,6 +20,7 @@ tier3: 11 + M damage; P < STRONG, the target is banished (save ends)
 type: ability
 ---
 
+# Banish
 
 *You sever the target's tenuous connection to the world.*
 

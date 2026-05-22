@@ -19,6 +19,7 @@ tier3: 6 + R psychic damage
 type: ability
 ---
 
+# Mind Spike
 
 *A telepathic bolt instantly zaps a creature's brain.*
 

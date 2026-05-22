@@ -20,6 +20,7 @@ tier3: 2d6 + 16 + A damage
 type: ability
 ---
 
+# Coup de Grace
 
 *Your blade might be the last thing they see.*
 

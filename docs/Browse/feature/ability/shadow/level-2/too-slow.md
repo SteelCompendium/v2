@@ -16,6 +16,7 @@ trigger: You use your In All This Confusion ability.
 type: ability
 ---
 
+# Too Slow
 
 *Your foe made a big mistake.*
 

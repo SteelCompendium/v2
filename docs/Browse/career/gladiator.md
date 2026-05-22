@@ -9,6 +9,8 @@ skills:
 type: career
 ---
 
+# Gladiator
+
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
 - What led you to this life of violent entertainment?

@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Fire Up the Night
 
 *Maybe you and I ♪ We can still bring the light!♪*
 

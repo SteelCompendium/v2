@@ -18,6 +18,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Magma Titan
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
 

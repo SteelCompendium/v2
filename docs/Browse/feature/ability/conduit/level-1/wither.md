@@ -19,6 +19,7 @@ tier3: 8 + I corruption damage; P < STRONG, the target takes a bane on their nex
 type: ability
 ---
 
+# Wither
 
 *A bolt of holy energy saps the life from a foe.*
 

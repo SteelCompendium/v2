@@ -20,6 +20,7 @@ tier3: 15 + M holy damage; P < STRONG, frightened (save ends)
 type: ability
 ---
 
+# It Is Justice You Fear
 
 *I am but a vessel. Your own deeds weigh upon you.*
 

@@ -21,6 +21,7 @@ tier3: 13 + A psychic damage; I < STRONG, dazed
 type: ability
 ---
 
+# Realitas
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
 

@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-destructio
 type: trait
 ---
 
+# Enchantment of Destruction
+
 You gain a +1 bonus to rolled damage with magic abilities.

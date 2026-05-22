@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/title/fleet-admiral
 type: title
 ---
 
+# Fleet Admiral
+
 *All hail the Pirate Queen!*
 
 **Prerequisite:** You have the Corsair title, and you lead a fleet of at least three ships.

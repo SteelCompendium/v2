@@ -15,6 +15,7 @@ target: Special
 type: ability
 ---
 
+# Encore
 
 *Again! Again!*
 

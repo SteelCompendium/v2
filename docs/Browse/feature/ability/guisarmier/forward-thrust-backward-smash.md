@@ -14,6 +14,8 @@ target: Two creatures or objects
 type: ability
 ---
 
+# Forward Thrust, Backward Smash
+
 *In your hands, the haft is as good as the head.*
 
 | **Melee, Strike, Weapon** |                 **Main action** |

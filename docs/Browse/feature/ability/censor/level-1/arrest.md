@@ -21,6 +21,7 @@ tier3: 13 + M holy damage; grabbed
 type: ability
 ---
 
+# Arrest
 
 *"I got you, you son of a bitch."*
 

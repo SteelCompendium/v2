@@ -15,6 +15,7 @@ target: Self and each ally
 type: ability
 ---
 
+# Blessing of Insight
 
 *The gods grant insight revealing where best to strike your enemies.*
 

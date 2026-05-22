@@ -19,6 +19,7 @@ tier3: 11 corruption damage; I < STRONG, prone and can't stand (save ends)
 type: ability
 ---
 
+# Penance
 
 *"If you won't kneel, the gods will make you."*
 

@@ -20,6 +20,7 @@ tier3: 10 + M damage; M < STRONG, bleeding and weakened (save ends)
 type: ability
 ---
 
+# Blood for Blood!
 
 *See how well they fight after you've bled them dry.*
 

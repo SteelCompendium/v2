@@ -16,6 +16,7 @@ trigger: Another creature targets you with a strike.
 type: ability
 ---
 
+# So Gullible
 
 *When your enemy strikes, you reveal you were in a different place all along.*
 

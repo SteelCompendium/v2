@@ -15,6 +15,8 @@ target: One creature
 type: ability
 ---
 
+# Fancy Footwork
+
 *All combat is a dance—and you'll be the one leading.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

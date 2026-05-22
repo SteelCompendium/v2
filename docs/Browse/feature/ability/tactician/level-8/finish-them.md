@@ -16,6 +16,7 @@ trigger: The target is not a leader or solo creature, and becomes winded.
 type: ability
 ---
 
+# Finish Them!
 
 *You point out an opening to your ally so they can land a killing blow.*
 

@@ -16,6 +16,7 @@ target: Special
 type: ability
 ---
 
+# Righteous Phalanx
 
 *A wall of spinning swords and knives appears where you wish.*
 

@@ -21,6 +21,7 @@ tier3: 13 + A damage
 type: ability
 ---
 
+# Chronal Spike
 
 *You foresee the best moment to strike, then exploit it.*
 

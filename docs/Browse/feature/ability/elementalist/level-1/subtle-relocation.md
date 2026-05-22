@@ -18,6 +18,7 @@ trigger: The target starts their turn, moves, or is force moved.
 type: ability
 ---
 
+# Subtle Relocation
 
 *You call on the void to swallow and spit out an ally.*
 

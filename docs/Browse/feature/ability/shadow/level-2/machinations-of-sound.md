@@ -20,6 +20,7 @@ tier3: Slide 7
 type: ability
 ---
 
+# Machinations of Sound
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
 

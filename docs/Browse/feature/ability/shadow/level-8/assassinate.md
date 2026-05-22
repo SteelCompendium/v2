@@ -20,6 +20,7 @@ tier3: 24 + A damage
 type: ability
 ---
 
+# Assassinate
 
 *A practiced attack will instantly kill an already weakened foe.*
 

@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-destruction
 type: trait
 ---
 
+# Prayer of Destruction
+
 Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.

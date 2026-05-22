@@ -21,6 +21,7 @@ tier3: 7 damage
 type: ability
 ---
 
+# Artful Flourish
 
 *And they said practicing fencing was a waste!*
 

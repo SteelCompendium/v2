@@ -15,6 +15,7 @@ target: Self and each creature in the area
 type: ability
 ---
 
+# Blessing of the Midday Sun
 
 *Your body emits a heat that bakes your enemies and inspires your allies.*
 

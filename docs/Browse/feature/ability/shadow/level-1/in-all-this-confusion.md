@@ -16,6 +16,7 @@ trigger: You take damage.
 type: ability
 ---
 
+# In All This Confusion
 
 *You vanish in a plume of black smoke to avoid danger.*
 

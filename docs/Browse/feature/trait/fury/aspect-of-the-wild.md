@@ -5,6 +5,8 @@ scc: mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild
 type: trait
 ---
 
+# Aspect of the Wild
+
 You have the following ability.
 
 ###### Aspect of the Wild

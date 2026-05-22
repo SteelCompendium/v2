@@ -20,6 +20,7 @@ tier3: 13 damage; push 6
 type: ability
 ---
 
+# Thunder Roar
 
 *You unleash a howl that hurls your enemies back.*
 

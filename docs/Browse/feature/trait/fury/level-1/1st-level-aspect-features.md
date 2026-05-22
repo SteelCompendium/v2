@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-1/1st-level-aspect-features
 type: trait
 ---
 
+# 1st-Level Aspect Features
+
 Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table

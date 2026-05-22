@@ -16,6 +16,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Precognition
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 

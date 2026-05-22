@@ -18,6 +18,7 @@ target: Self or one ally
 type: ability
 ---
 
+# Luminous Champion Aloft
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
 

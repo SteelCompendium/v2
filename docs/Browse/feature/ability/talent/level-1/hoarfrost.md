@@ -20,6 +20,7 @@ tier3: 6 + R cold damage; M < STRONG, slowed (EoT)
 type: ability
 ---
 
+# Hoarfrost
 
 *You blast a foe with a pulse of cold energy.*
 

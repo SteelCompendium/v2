@@ -19,6 +19,7 @@ tier3: Slide 6 + R; prone
 type: ability
 ---
 
+# Kinetic Grip
 
 *You lift and hurl your foe away from you.*
 

@@ -16,6 +16,7 @@ target: Self
 type: ability
 ---
 
+# Upstage
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 

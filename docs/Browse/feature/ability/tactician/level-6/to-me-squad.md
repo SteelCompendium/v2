@@ -21,6 +21,7 @@ tier3: 13 + M damage; two allies within 10 squares can use the Charge main actio
 type: ability
 ---
 
+# To Me Squad!
 
 *You lead your allies in a charge.*
 

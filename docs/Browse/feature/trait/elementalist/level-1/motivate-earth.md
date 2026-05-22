@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/motivate-earth
 type: trait
 ---
 
+# Motivate Earth
+
 You have the following ability.
 
 ###### Motivate Earth

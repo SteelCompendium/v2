@@ -20,6 +20,7 @@ tier3: 14 + R psychic damage; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Overwhelm
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 

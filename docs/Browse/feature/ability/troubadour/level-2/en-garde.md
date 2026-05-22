@@ -20,6 +20,7 @@ tier3: 16 + **A** damage
 type: ability
 ---
 
+# En Garde!
 
 *Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 

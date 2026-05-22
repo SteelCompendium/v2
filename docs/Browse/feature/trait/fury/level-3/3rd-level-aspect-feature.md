@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.level-3/3rd-level-aspect-feature
 type: trait
 ---
 
+# 3rd-Level Aspect Feature
+
 Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table

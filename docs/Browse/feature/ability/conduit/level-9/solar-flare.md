@@ -19,6 +19,7 @@ tier3: 19 fire damage
 type: ability
 ---
 
+# Solar Flare
 
 *You call down a sphere of fire that burns your foes to ash.*
 

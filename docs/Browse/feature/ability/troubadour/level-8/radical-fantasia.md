@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Radical Fantasia
 
 *𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
 

@@ -21,6 +21,7 @@ tier3: 9 + A damage; vertical push 15
 type: ability
 ---
 
+# Black Ash Eruption
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 

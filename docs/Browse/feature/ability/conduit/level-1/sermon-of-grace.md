@@ -15,6 +15,7 @@ target: Each ally in the area
 type: ability
 ---
 
+# Sermon of Grace
 
 *You inspire your allies with tales of your saint's great deeds.*
 

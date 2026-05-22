@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-7/skill
 type: trait
 ---
 
+# Skill
+
 You gain one skill of your choice.

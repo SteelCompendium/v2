@@ -20,6 +20,7 @@ tier3: Lightning damage equal to 10 + your level
 type: ability
 ---
 
+# Thunder Mother
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 

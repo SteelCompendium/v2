@@ -14,6 +14,7 @@ target: Self
 type: ability
 ---
 
+# I'm No Threat
 
 *Taking on an illusory countenance gives you an advantage on subterfuge.*
 

@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Invocation of Mystery
 
 *"Now you see us..."*
 

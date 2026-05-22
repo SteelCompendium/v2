@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-6/wyrding
 type: trait
 ---
 
+# Wyrding
+
 You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose one of the following magical effects:
 
 - You create a mundane object of a size equal to your Reason score or smaller.

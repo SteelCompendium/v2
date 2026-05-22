@@ -20,6 +20,7 @@ tier3: 19 + I corruption damage; R < STRONG, weakened (save ends)
 type: ability
 ---
 
+# Your Story Ends Here
 
 *You bend the fate of a foe, willing them to die.*
 

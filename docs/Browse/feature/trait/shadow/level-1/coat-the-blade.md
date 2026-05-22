@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.shadow.level-1/coat-the-blade
 type: trait
 ---
 
+# Coat the Blade
+
 You have the following ability.
 
 ###### Coat the Blade

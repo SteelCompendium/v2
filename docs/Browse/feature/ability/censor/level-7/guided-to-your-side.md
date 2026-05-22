@@ -14,6 +14,7 @@ target: Self and each ally
 type: ability
 ---
 
+# Guided to Your Side
 
 *You concentrate on a friend and teleport to them.*
 

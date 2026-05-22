@@ -20,6 +20,7 @@ tier3: 18 + M damage
 type: ability
 ---
 
+# Squad! Gear Check!
 
 *You distract a foe while your allies secure their defensive gear.*
 

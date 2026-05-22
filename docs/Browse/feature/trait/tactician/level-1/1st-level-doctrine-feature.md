@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-1/1st-level-doctrine-feature
 type: trait
 ---
 
+# 1st-Level Doctrine Feature
+
 Your tactical doctrine grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table

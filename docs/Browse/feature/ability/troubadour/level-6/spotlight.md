@@ -15,6 +15,7 @@ target: Self and each ally in the area
 type: ability
 ---
 
+# Spotlight
 
 *The audience is watching, so you'd better give them a show.*
 

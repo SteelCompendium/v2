@@ -20,6 +20,7 @@ tier3: 13 damage
 type: ability
 ---
 
+# A Squad Unto Myself
 
 *You move so quickly, it seems as though an army assaulted your foes.*
 

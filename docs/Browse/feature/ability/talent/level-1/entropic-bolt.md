@@ -21,6 +21,7 @@ tier3: 5 + P corruption damage; P < STRONG, slowed (save ends)
 type: ability
 ---
 
+# Entropic Bolt
 
 *You advance an enemy's age for a moment.*
 

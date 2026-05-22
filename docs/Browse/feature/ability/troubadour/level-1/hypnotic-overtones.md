@@ -19,6 +19,7 @@ tier3: Slide 2; I < STRONG, dazed (save ends)
 type: ability
 ---
 
+# Hypnotic Overtones
 
 *You produce an entrancing note that twists the senses in a spectacular fashion.*
 

@@ -20,6 +20,7 @@ tier3: 20 + M damage
 type: ability
 ---
 
+# Righteous Judgment
 
 *You amplify the power of your judgment.*
 

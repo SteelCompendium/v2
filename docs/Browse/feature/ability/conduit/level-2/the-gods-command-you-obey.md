@@ -19,6 +19,7 @@ tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts u
 type: ability
 ---
 
+# The Gods Command You Obey
 
 *You speak with the voice of your saint, commanding your enemies.*
 

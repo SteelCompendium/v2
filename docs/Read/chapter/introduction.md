@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/chapter/introduction
 type: chapter
 ---
 
+# Introduction
+
 ## What is This Game?
 
 This is a game about fighting monsters. About larger-than-life, extraordinary heroes plunging into battle against terrifying, monstrous enemies.

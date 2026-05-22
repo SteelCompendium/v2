@@ -15,6 +15,8 @@ target: One creature
 type: ability
 ---
 
+# Protective Attack
+
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

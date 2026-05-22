@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.null.level-1/force-augmentation
 type: trait
 ---
 
+# Force Augmentation
+
 Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.

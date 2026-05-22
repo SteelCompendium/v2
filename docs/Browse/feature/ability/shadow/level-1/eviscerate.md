@@ -20,6 +20,7 @@ tier3: 10 + A damage; A < STRONG, bleeding (save ends)
 type: ability
 ---
 
+# Eviscerate
 
 *You leave your foe bleeding out after a devastating attack.*
 

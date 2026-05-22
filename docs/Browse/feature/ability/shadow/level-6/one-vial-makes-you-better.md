@@ -14,6 +14,7 @@ target: Three creatures
 type: ability
 ---
 
+# One Vial Makes You Better
 
 *A well-timed throw of a potion will keep your allies in the fight.*
 

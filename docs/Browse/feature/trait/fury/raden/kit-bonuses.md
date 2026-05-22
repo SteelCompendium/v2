@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.fury.raden/kit-bonuses
 type: trait
 ---
 
+# Kit Bonuses
+
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2

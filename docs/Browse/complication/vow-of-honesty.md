@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/complication/vow-of-honesty
 type: complication
 ---
 
+# Vow of Honesty
+
 You were brought up to a strict standard of behavior. You cannot tell a lie.
 
 **Benefit:** If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have a double edge on any test made to persuade a creature of some specific fact.

@@ -17,6 +17,7 @@ tier3: Each target gains 3 surges.
 type: ability
 ---
 
+# Battle Cry
 
 *You shout a phrase that galvanizes your team.*
 

@@ -21,6 +21,7 @@ tier3: 17 damage; A < STRONG, the target is stitched to the other target (save e
 type: ability
 ---
 
+# Soulbound
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 

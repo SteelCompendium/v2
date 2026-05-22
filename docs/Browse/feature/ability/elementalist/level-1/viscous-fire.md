@@ -20,6 +20,7 @@ tier3: 7 + R fire damage; push 4
 type: ability
 ---
 
+# Viscous Fire
 
 *A jet of heavy fire erupts where you strike.*
 

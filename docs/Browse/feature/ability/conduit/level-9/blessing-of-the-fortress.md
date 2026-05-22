@@ -15,6 +15,7 @@ target: Self
 type: ability
 ---
 
+# Blessing of the Fortress
 
 *A magic circle extends out from you, barring foes from getting close.*
 

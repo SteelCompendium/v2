@@ -18,6 +18,7 @@ trigger: The target takes damage.
 type: ability
 ---
 
+# Skin Like Castle Walls
 
 *You cover yourself or an ally in protective stone.*
 

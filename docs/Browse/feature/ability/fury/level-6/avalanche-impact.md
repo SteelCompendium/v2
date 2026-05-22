@@ -18,6 +18,7 @@ tier3: 11 damage; push 3
 type: ability
 ---
 
+# Avalanche Impact
 
 *You leap and crash down, causing a shockwave that devastates foes.*
 

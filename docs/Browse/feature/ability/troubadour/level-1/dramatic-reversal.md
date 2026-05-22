@@ -18,6 +18,7 @@ tier3: The target can shift up to 3 squares and make a free strike that gains an
 type: ability
 ---
 
+# Dramatic Reversal
 
 *Give the audience a surprise.*
 

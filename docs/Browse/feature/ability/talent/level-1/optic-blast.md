@@ -21,6 +21,7 @@ tier3: 6 + R damage; M < STRONG, prone
 type: ability
 ---
 
+# Optic Blast
 
 *Your eyes emit rays of powerful enervating force.*
 

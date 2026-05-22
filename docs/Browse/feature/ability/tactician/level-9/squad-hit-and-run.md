@@ -14,6 +14,7 @@ target: Self and two allies
 type: ability
 ---
 
+# Squad! Hit and Run!
 
 *I had to pry this secret from the shadow colleges.*
 

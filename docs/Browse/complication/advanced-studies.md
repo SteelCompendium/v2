@@ -4,6 +4,8 @@ scc: mcdm.heroes.v1/complication/advanced-studies
 type: complication
 ---
 
+# Advanced Studies
+
 You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.
 
 **Benefit and Drawback:** As a respite activity, you can study the notebook. Make a test using your highest characteristic score:

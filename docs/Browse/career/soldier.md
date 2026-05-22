@@ -9,6 +9,8 @@ skills:
 type: career
 ---
 
+# Soldier
+
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
 - In which army and company did you serve?

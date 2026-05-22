@@ -21,6 +21,7 @@ tier3: Three creatures
 type: ability
 ---
 
+# Erase
 
 *With a flick of the wrist, you phase creatures out of existence.*
 

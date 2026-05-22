@@ -21,6 +21,7 @@ trigger: A creature deals damage to the target.
 type: ability
 ---
 
+# Instant Retaliation
 
 *You parry with almost supernatural speed.*
 

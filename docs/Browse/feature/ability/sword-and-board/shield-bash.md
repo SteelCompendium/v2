@@ -14,6 +14,8 @@ target: One creature
 type: ability
 ---
 
+# Shield Bash
+
 *In your hands, a shield isn't just for protection.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

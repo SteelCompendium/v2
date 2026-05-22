@@ -21,6 +21,7 @@ tier3: 8 + R damage; M < STRONG, restrained (save ends)
 type: ability
 ---
 
+# Choke
 
 *You crush a foe in a telekinetic grip.*
 

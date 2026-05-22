@@ -6,6 +6,8 @@ scc: mcdm.heroes.v1/feature.trait.tactician.level-1/strike-now
 type: trait
 ---
 
+# Strike Now
+
 You have the following ability.
 
 ##### "Strike Now!"

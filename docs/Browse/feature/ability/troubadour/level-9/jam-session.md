@@ -19,6 +19,7 @@ tier3: 15 sonic damage
 type: ability
 ---
 
+# Jam Session
 
 *Your jam session creates new genres that compel everyone to get up and move.*
 

@@ -21,6 +21,7 @@ tier3: 8 fire damage
 type: ability
 ---
 
+# Translated Through Flame
 
 *Your ally disappears, then reappears in a burst of fire.*
 

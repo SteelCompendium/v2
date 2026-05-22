@@ -19,6 +19,7 @@ tier3: The target gains 15 temporary Stamina.
 type: ability
 ---
 
+# Faith Is Our Armor
 
 *The heroes' armor glows with golden light, granting divine protection.*
 

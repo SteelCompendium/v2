@@ -18,6 +18,7 @@ target: Special
 type: ability
 ---
 
+# O Flower Aid, O Earth Defend
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 

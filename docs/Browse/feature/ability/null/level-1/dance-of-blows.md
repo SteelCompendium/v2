@@ -20,6 +20,7 @@ tier3: 5 damage
 type: ability
 ---
 
+# Dance of Blows
 
 *You strike everywhere at once, tricking an enemy into moving out of position.*
 

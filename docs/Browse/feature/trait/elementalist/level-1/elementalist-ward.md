@@ -6,4 +6,6 @@ scc: mcdm.heroes.v1/feature.trait.elementalist.level-1/elementalist-ward
 type: trait
 ---
 
+# Elementalist Ward
+
 You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  Ward of Surprising Reactivity.)
