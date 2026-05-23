@@ -7,6 +7,6 @@
 - [Skill](skill.md)
 - [Templar](templar.md)
 - [Virtue](virtue.md)
-- [Wrath Of The Gods](wrath-of-the-gods.md)
+- [Wrath of the Gods](wrath-of-the-gods.md)
 
 </div>

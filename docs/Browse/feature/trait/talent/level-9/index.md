@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [Fortress Of Perfect Thought](fortress-of-perfect-thought.md)
+- [Fortress of Perfect Thought](fortress-of-perfect-thought.md)
 
 </div>

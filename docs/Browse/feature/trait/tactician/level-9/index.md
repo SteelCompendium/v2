@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [Grandmaster Of Arms](grandmaster-of-arms.md)
+- [Grandmaster of Arms](grandmaster-of-arms.md)
 
 </div>

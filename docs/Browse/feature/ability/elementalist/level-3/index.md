@@ -4,9 +4,9 @@
 
 - [Earth Accepts Me](earth-accepts-me.md)
 - [Erase](erase.md)
-- [Maw Of Earth](maw-of-earth.md)
-- [Remember Growth And Sun And Rain](remember-growth-and-sun-and-rain.md)
-- [Swarm Of Spirits](swarm-of-spirits.md)
-- [Wall Of Fire](wall-of-fire.md)
+- [Maw of Earth](maw-of-earth.md)
+- [Remember Growth and Sun and Rain](remember-growth-and-sun-and-rain.md)
+- [Swarm of Spirits](swarm-of-spirits.md)
+- [Wall of Fire](wall-of-fire.md)
 
 </div>

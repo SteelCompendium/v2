@@ -7,6 +7,6 @@
 - [Night Watch](night-watch.md)
 - [Perk](perk.md)
 - [Skill](skill.md)
-- [Surge Of Insight](surge-of-insight.md)
+- [Surge of Insight](surge-of-insight.md)
 
 </div>

@@ -2,9 +2,9 @@
 
 <div class="browse-index" markdown>
 
-- [Edict Of Disruptive Isolation](edict-of-disruptive-isolation.md)
-- [Edict Of Perfect Order](edict-of-perfect-order.md)
-- [Edict Of Purifying Pacifism](edict-of-purifying-pacifism.md)
-- [Edict Of Stillness](edict-of-stillness.md)
+- [Edict of Disruptive Isolation](edict-of-disruptive-isolation.md)
+- [Edict of Perfect Order](edict-of-perfect-order.md)
+- [Edict of Purifying Pacifism](edict-of-purifying-pacifism.md)
+- [Edict of Stillness](edict-of-stillness.md)
 
 </div>

@@ -2,10 +2,10 @@
 
 <div class="browse-index" markdown>
 
-- [O Flower Aid O Earth Defend](o-flower-aid-o-earth-defend.md)
-- [Subvert The Green Within](subvert-the-green-within.md)
+- [O Flower Aid, O Earth Defend](o-flower-aid-o-earth-defend.md)
+- [Subvert the Green Within](subvert-the-green-within.md)
 - [There Is No Space Between](there-is-no-space-between.md)
 - [Translated Through Flame](translated-through-flame.md)
-- [Volcanos Embrace](volcanos-embrace.md)
+- [Volcano's Embrace](volcanos-embrace.md)
 
 </div>

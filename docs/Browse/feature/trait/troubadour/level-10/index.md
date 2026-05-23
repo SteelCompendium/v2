@@ -5,7 +5,7 @@
 - [Applause](applause.md)
 - [Characteristic Increase](characteristic-increase.md)
 - [Dramaturgy](dramaturgy.md)
-- [Greatest Of All Time](greatest-of-all-time.md)
+- [Greatest of All Time](greatest-of-all-time.md)
 - [Perk](perk.md)
 - [Skill](skill.md)
 

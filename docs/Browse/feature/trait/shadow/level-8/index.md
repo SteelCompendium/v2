@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [8th Level College Feature](8th-level-college-feature.md)
+- [8th-Level College Feature](8th-level-college-feature.md)
 - [Cinder Step](cinder-step.md)
 - [Parkour](parkour.md)
 - [Perk](perk.md)

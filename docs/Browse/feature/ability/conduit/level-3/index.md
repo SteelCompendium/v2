@@ -2,9 +2,9 @@
 
 <div class="browse-index" markdown>
 
-- [Fear Of The Gods](fear-of-the-gods.md)
-- [Saints Raiment](saints-raiment.md)
+- [Fear of the Gods](fear-of-the-gods.md)
+- [Saint's Raiment](saints-raiment.md)
 - [Soul Siphon](soul-siphon.md)
-- [Words Of Wrath And Grace](words-of-wrath-and-grace.md)
+- [Words of Wrath and Grace](words-of-wrath-and-grace.md)
 
 </div>

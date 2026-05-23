@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [Blessing Of Secrets](blessing-of-secrets.md)
+- [Blessing of Secrets](blessing-of-secrets.md)
 
 </div>

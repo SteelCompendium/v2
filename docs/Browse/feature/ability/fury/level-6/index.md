@@ -4,9 +4,9 @@
 
 - [Avalanche Impact](avalanche-impact.md)
 - [Death Strike](death-strike.md)
-- [Force Of Storms](force-of-storms.md)
+- [Force of Storms](force-of-storms.md)
 - [Pounce](pounce.md)
-- [Riders On The Storm](riders-on-the-storm.md)
-- [Seek And Destroy](seek-and-destroy.md)
+- [Riders on the Storm](riders-on-the-storm.md)
+- [Seek and Destroy](seek-and-destroy.md)
 
 </div>

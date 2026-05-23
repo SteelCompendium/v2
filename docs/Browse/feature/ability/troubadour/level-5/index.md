@@ -6,7 +6,7 @@
 - [Continuity Error](continuity-error.md)
 - [Love Song](love-song.md)
 - [Patter Song](patter-song.md)
-- [Take Two](take-two.md)
-- [We Cant Be Upstaged](we-cant-be-upstaged.md)
+- [Take Two!](take-two.md)
+- [We Can't Be Upstaged!](we-cant-be-upstaged.md)
 
 </div>

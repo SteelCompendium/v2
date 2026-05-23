@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [1st Level Aspect Features](1st-level-aspect-features.md)
+- [1st-Level Aspect Features](1st-level-aspect-features.md)
 - [Aspect Triggered Action](aspect-triggered-action.md)
 - [Beast Shape](beast-shape.md)
 - [Ferocity](ferocity.md)

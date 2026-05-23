@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [1st Level Class Act Features](1st-level-class-act-features.md)
+- [1st-Level Class Act Features](1st-level-class-act-features.md)
 - [Acrobatics](acrobatics.md)
 - [Blocking](blocking.md)
 - [Class Act Triggered Action](class-act-triggered-action.md)

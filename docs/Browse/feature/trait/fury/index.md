@@ -17,8 +17,8 @@
 
 <div class="browse-index" markdown>
 
-- [Aspect Benefits And Animal Form](aspect-benefits-and-animal-form.md)
-- [Aspect Of The Wild](aspect-of-the-wild.md)
+- [Aspect Benefits and Animal Form](aspect-benefits-and-animal-form.md)
+- [Aspect of the Wild](aspect-of-the-wild.md)
 - [Equipment](equipment.md)
 - [Growing Ferocity](growing-ferocity.md)
 - [Kit Bonuses](kit-bonuses.md)

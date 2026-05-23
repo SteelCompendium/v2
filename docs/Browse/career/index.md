@@ -12,7 +12,7 @@
 - [Farmer](farmer.md)
 - [Gladiator](gladiator.md)
 - [Laborer](laborer.md)
-- [Mages Apprentice](mages-apprentice.md)
+- [Mage's Apprentice](mages-apprentice.md)
 - [Performer](performer.md)
 - [Politician](politician.md)
 - [Sage](sage.md)

@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [1st Level Doctrine Feature](1st-level-doctrine-feature.md)
+- [1st-Level Doctrine Feature](1st-level-doctrine-feature.md)
 - [Commanding Presence](commanding-presence.md)
 - [Covert Operations](covert-operations.md)
 - [Doctrine Triggered Action](doctrine-triggered-action.md)

@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [Faiths Sword](faiths-sword.md)
+- [Faith's Sword](faiths-sword.md)
 - [Ordained](ordained.md)
 
 </div>

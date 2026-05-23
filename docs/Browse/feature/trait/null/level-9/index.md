@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [I Am The Weapon](i-am-the-weapon.md)
+- [I Am the Weapon](i-am-the-weapon.md)
 
 </div>

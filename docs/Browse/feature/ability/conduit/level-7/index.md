@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [Guided To Your Side](guided-to-your-side.md)
-- [Trinity Of Trickery](trinity-of-trickery.md)
+- [Guided to Your Side](guided-to-your-side.md)
+- [Trinity of Trickery](trinity-of-trickery.md)
 
 </div>

@@ -6,7 +6,7 @@
 - [Moonlight Sonata](moonlight-sonata.md)
 - [Power Ballad](power-ballad.md)
 - [Radical Fantasia](radical-fantasia.md)
-- [Saved In The Edit](saved-in-the-edit.md)
+- [Saved in the Edit](saved-in-the-edit.md)
 - [The Show Must Go On](the-show-must-go-on.md)
 
 </div>

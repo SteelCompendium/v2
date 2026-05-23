@@ -10,6 +10,6 @@
 
 <div class="browse-index" markdown>
 
-- [Aspect Of The Wild](aspect-of-the-wild.md)
+- [Aspect of the Wild](aspect-of-the-wild.md)
 
 </div>

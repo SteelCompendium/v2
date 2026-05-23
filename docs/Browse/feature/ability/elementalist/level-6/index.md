@@ -5,6 +5,6 @@
 - [Luminous Champion Aloft](luminous-champion-aloft.md)
 - [Magma Titan](magma-titan.md)
 - [Meteor](meteor.md)
-- [The Wode Remembers And Returns](the-wode-remembers-and-returns.md)
+- [The Wode Remembers and Returns](the-wode-remembers-and-returns.md)
 
 </div>

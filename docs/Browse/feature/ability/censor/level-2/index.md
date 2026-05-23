@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [Blessing Of The Faithful](blessing-of-the-faithful.md)
+- [Blessing of the Faithful](blessing-of-the-faithful.md)
 - [It Is Justice You Fear](it-is-justice-you-fear.md)
 - [Prescient Grace](prescient-grace.md)
 - [Revelator](revelator.md)

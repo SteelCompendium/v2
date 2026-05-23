@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [5th Level Doctrine Features](5th-level-doctrine-features.md)
+- [5th-Level Doctrine Features](5th-level-doctrine-features.md)
 - [Anticipation](anticipation.md)
 - [Distracted](distracted.md)
 - [I Predicted That](i-predicted-that.md)

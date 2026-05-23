@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [Harbinger Of The Primordial Chaos](harbinger-of-the-primordial-chaos.md)
+- [Harbinger of the Primordial Chaos](harbinger-of-the-primordial-chaos.md)
 
 </div>

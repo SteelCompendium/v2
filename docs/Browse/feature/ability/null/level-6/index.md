@@ -7,6 +7,6 @@
 - [Interphase](interphase.md)
 - [Iron Body](iron-body.md)
 - [Phase Step](phase-step.md)
-- [Wall Of Ice](wall-of-ice.md)
+- [Wall of Ice](wall-of-ice.md)
 
 </div>

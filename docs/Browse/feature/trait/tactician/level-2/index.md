@@ -2,7 +2,7 @@
 
 <div class="browse-index" markdown>
 
-- [2nd Level Doctrine Feature](2nd-level-doctrine-feature.md)
+- [2nd-Level Doctrine Feature](2nd-level-doctrine-feature.md)
 - [Goaded](goaded.md)
 - [Infiltration Tactics](infiltration-tactics.md)
 - [Melee Superiority](melee-superiority.md)

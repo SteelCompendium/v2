@@ -4,7 +4,7 @@
 
 - [Characteristic Increase](characteristic-increase.md)
 - [Foreshadowing](foreshadowing.md)
-- [Hear Ye Hear Ye](hear-ye-hear-ye.md)
+- [Hear Ye, Hear Ye!](hear-ye-hear-ye.md)
 - [Latest Goss](latest-goss.md)
 - [Melodrama](melodrama.md)
 - [Perk](perk.md)

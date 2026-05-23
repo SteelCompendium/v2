@@ -2,6 +2,6 @@
 
 <div class="browse-index" markdown>
 
-- [Roar Of The Crowd](roar-of-the-crowd.md)
+- [Roar of the Crowd](roar-of-the-crowd.md)
 
 </div>
