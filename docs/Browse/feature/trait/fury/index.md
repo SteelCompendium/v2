@@ -1,19 +1,19 @@
 # Fury
 
-- [Boren](boren/)
-- [Corven](corven/)
-- [Level 1](level-1/)
-- [Level 2](level-2/)
-- [Level 3](level-3/)
-- [Level 4](level-4/)
-- [Level 5](level-5/)
-- [Level 6](level-6/)
-- [Level 7](level-7/)
-- [Level 8](level-8/)
-- [Level 9](level-9/)
-- [Level 10](level-10/)
-- [Raden](raden/)
-- [Vuken](vuken/)
+- [Boren](boren/index.md)
+- [Corven](corven/index.md)
+- [Level 1](level-1/index.md)
+- [Level 2](level-2/index.md)
+- [Level 3](level-3/index.md)
+- [Level 4](level-4/index.md)
+- [Level 5](level-5/index.md)
+- [Level 6](level-6/index.md)
+- [Level 7](level-7/index.md)
+- [Level 8](level-8/index.md)
+- [Level 9](level-9/index.md)
+- [Level 10](level-10/index.md)
+- [Raden](raden/index.md)
+- [Vuken](vuken/index.md)
 
 <div class="browse-index" markdown>
 

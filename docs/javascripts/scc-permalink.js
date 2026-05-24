@@ -44,4 +44,9 @@
   } else {
     document.addEventListener("DOMContentLoaded", applyPermalink);
   }
+
+  // Re-apply after anchor clicks (TOC permalinks, in-page jumps). If material's
+  // instant nav or any other handler restored the friendly path while updating
+  // the hash, this puts us back on the SCC permalink.
+  window.addEventListener("hashchange", applyPermalink);
 })();

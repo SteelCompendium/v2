@@ -15,7 +15,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Censor, Conduit, Elementalist, Fury, Null, Shadow, Tactician, Talent, Troubadour
 
-    [:octicons-arrow-right-24: View Classes](class/)
+    [:octicons-arrow-right-24: View Classes](class/index.md)
 
 -   ### Ancestries
 
@@ -23,7 +23,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Devil, Dragon Knight, Dwarf, Hakaan, High Elf, Human, Memonek, Orc, Polder, Revenant, Time Raider, Wode Elf
 
-    [:octicons-arrow-right-24: View Ancestries](ancestry/)
+    [:octicons-arrow-right-24: View Ancestries](ancestry/index.md)
 
 -   ### Abilities
 
@@ -31,7 +31,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     All class abilities organized by class and level, plus kit abilities
 
-    [:octicons-arrow-right-24: View Abilities](feature/ability/)
+    [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
 
 -   ### Kits
 
@@ -39,7 +39,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Martial, caster, and hybrid kits -- Arcane Archer, Battlemind, Cloak and Dagger, Mountain, Panther, Spellsword, and more
 
-    [:octicons-arrow-right-24: View Kits](kit/)
+    [:octicons-arrow-right-24: View Kits](kit/index.md)
 
 -   ### Careers
 
@@ -47,7 +47,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Agent, Aristocrat, Artisan, Criminal, Gladiator, Sage, Soldier, and more
 
-    [:octicons-arrow-right-24: View Careers](career/)
+    [:octicons-arrow-right-24: View Careers](career/index.md)
 
 -   ### Complications
 
@@ -55,7 +55,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     100 complications to add depth to your hero's backstory
 
-    [:octicons-arrow-right-24: View Complications](complication/)
+    [:octicons-arrow-right-24: View Complications](complication/index.md)
 
 -   ### Features
 
@@ -63,7 +63,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Class features, ancestry features, traits, and more -- organized by source
 
-    [:octicons-arrow-right-24: View Features](feature/)
+    [:octicons-arrow-right-24: View Features](feature/index.md)
 
 -   ### Perks
 
@@ -71,7 +71,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Crafting, exploration, interpersonal, intrigue, lore, and supernatural perks
 
-    [:octicons-arrow-right-24: View Perks](perk/)
+    [:octicons-arrow-right-24: View Perks](perk/index.md)
 
 -   ### Titles
 
@@ -79,7 +79,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Titles earned across all four echelons of play
 
-    [:octicons-arrow-right-24: View Titles](title/)
+    [:octicons-arrow-right-24: View Titles](title/index.md)
 
 -   ### Treasures
 
@@ -87,6 +87,6 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Artifacts, consumables, leveled treasures, and trinkets
 
-    [:octicons-arrow-right-24: View Treasures](treasure/)
+    [:octicons-arrow-right-24: View Treasures](treasure/index.md)
 
 </div>

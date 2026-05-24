@@ -1,4 +1,4 @@
 # Features
 
-- [Abilities](ability/)
-- [Traits](trait/)
+- [Abilities](ability/index.md)
+- [Traits](trait/index.md)
