@@ -15,7 +15,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Censor, Conduit, Elementalist, Fury, Null, Shadow, Tactician, Talent, Troubadour
 
-    [:octicons-arrow-right-24: View Classes](Classes/_Index.md)
+    [:octicons-arrow-right-24: View Classes](class/index.md)
 
 -   ### Ancestries
 
@@ -23,15 +23,15 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Devil, Dragon Knight, Dwarf, Hakaan, High Elf, Human, Memonek, Orc, Polder, Revenant, Time Raider, Wode Elf
 
-    [:octicons-arrow-right-24: View Ancestries](Ancestries/_Index.md)
+    [:octicons-arrow-right-24: View Ancestries](ancestry/index.md)
 
 -   ### Abilities
 
     ---
 
-    All class abilities organized by class and level, plus common and kit abilities
+    All class abilities organized by class and level, plus kit abilities
 
-    [:octicons-arrow-right-24: View Abilities](Abilities/Censor/1st-Level Features/)
+    [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
 
 -   ### Kits
 
@@ -39,15 +39,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Martial, caster, and hybrid kits -- Arcane Archer, Battlemind, Cloak and Dagger, Mountain, Panther, Spellsword, and more
 
-    [:octicons-arrow-right-24: View Kits](Kits/_Index.md)
-
--   ### Cultures
-
-    ---
-
-    Upbringings, organizations, and environments that shape your hero
-
-    [:octicons-arrow-right-24: View Cultures](Cultures/_Index.md)
+    [:octicons-arrow-right-24: View Kits](kit/index.md)
 
 -   ### Careers
 
@@ -55,7 +47,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Agent, Aristocrat, Artisan, Criminal, Gladiator, Sage, Soldier, and more
 
-    [:octicons-arrow-right-24: View Careers](Careers/_Index.md)
+    [:octicons-arrow-right-24: View Careers](career/index.md)
 
 -   ### Complications
 
@@ -63,23 +55,15 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     100 complications to add depth to your hero's backstory
 
-    [:octicons-arrow-right-24: View Complications](Complications/_Index.md)
-
--   ### Conditions
-
-    ---
-
-    Bleeding, Dazed, Frightened, Grabbed, Prone, Restrained, Slowed, Taunted, Weakened
-
-    [:octicons-arrow-right-24: View Conditions](Conditions/_Index.md)
+    [:octicons-arrow-right-24: View Complications](complication/index.md)
 
 -   ### Features
 
     ---
 
-    Class features, ancestry features, and more -- organized by source
+    Class features, ancestry features, traits, and more -- organized by source
 
-    [:octicons-arrow-right-24: View Features](Features/_Index.md)
+    [:octicons-arrow-right-24: View Features](feature/index.md)
 
 -   ### Perks
 
@@ -87,7 +71,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Crafting, exploration, interpersonal, intrigue, lore, and supernatural perks
 
-    [:octicons-arrow-right-24: View Perks](Perks/_Index.md)
+    [:octicons-arrow-right-24: View Perks](perk/index.md)
 
 -   ### Titles
 
@@ -95,7 +79,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Titles earned across all four echelons of play
 
-    [:octicons-arrow-right-24: View Titles](Titles/_Index.md)
+    [:octicons-arrow-right-24: View Titles](title/index.md)
 
 -   ### Treasures
 
@@ -103,38 +87,6 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Artifacts, consumables, leveled treasures, and trinkets
 
-    [:octicons-arrow-right-24: View Treasures](Treasures/_Index.md)
-
--   ### Skills
-
-    ---
-
-    Crafting, exploration, interpersonal, intrigue, and lore skills
-
-    [:octicons-arrow-right-24: View Skills](Skills/_Index.md)
-
--   ### Movement
-
-    ---
-
-    Walk, climb, fly, teleport, forced movement, stability, and more
-
-    [:octicons-arrow-right-24: View Movement](Movement/_Index.md)
-
--   ### Negotiation
-
-    ---
-
-    Motivations, pitfalls, and the negotiation system
-
-    [:octicons-arrow-right-24: View Negotiation](Negotiation/Motivations and Pitfalls/)
-
--   ### Classes By Level
-
-    ---
-
-    Browse class options organized by level for quick reference at the table
-
-    [:octicons-arrow-right-24: View Classes By Level](Classes By Level/_Index.md)
+    [:octicons-arrow-right-24: View Treasures](treasure/index.md)
 
 </div>

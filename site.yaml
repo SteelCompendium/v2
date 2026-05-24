@@ -24,7 +24,26 @@ sections:
       - title/
       - treasure/
       - skill/
+    exclude:
+      - feature/trait/ancestry-traits
     sort: natural
+    groups:
+      - match_type: kit
+        from: feature/ability
+        label: Kits
+        # Each kit has exactly one ability, so collapse
+        # feature/ability/{kit}/{ability}.md → feature/ability/Kits/{kit}-{ability}.md
+        # and rewrite the page name to "Kit (Ability)" for the heading + nav.
+        flatten: true
+    composites:
+      - base: class
+        include:
+          - feature/trait/{name}
+          - feature/ability/{name}
+      - base: ancestry
+        include:
+          - feature/trait/{name}-traits
+        remove_sources: true
 
   # Read: chapters in book order
   - name: Read
