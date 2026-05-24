@@ -36,13 +36,23 @@ updated: 2026-05-23
 
 **Fix:** `scc-permalink.js` includes a `hashchange` event listener that re-applies the SCC permalink after anchor navigation.
 
-### Slow URL rewrite on page load
+### URL flash on initial page load
 
-**Symptom:** The Browse URL flashes briefly before being replaced by the SCC URL.
+**Symptom:** On the first navigation to a page, the Browse URL appears briefly before being replaced by the SCC URL.
 
 **Cause:** If `scc-permalink.js` is the only rewrite mechanism, it loads at the end of `<body>`, so `replaceState` fires after full page render.
 
 **Fix:** `overrides/main.html` includes an inline `<script>` in `<head>` right after the `<meta name="scc-permalink">` tag. This runs synchronously during HTML parse, before the body renders.
+
+### URL flash during instant-nav between pages
+
+**Symptom:** Clicking a link from one page to another briefly shows the friendly Browse URL before flipping to the SCC URL.
+
+**Cause:** mkdocs-material's `navigation.instant` calls `history.pushState` with the friendly URL at click time, then fetches and swaps the DOM, then fires `document$`. Without intervention, the friendly URL is visible for the duration of the fetch+swap. The inline `<head>` script from the initial-load case does not help here — mkdocs-material parses fetched HTML via `DOMParser`, which does not execute its scripts.
+
+**Fix:** `scc-permalink.js` monkey-patches `history.pushState` to immediately call `replaceState` with the SCC URL in the same synchronous task. Two synchronous history calls do not trigger a paint between them, so the address bar shows only the SCC URL. The lookup uses `window.__SCC_PERMALINK_MAP__`, populated by `scc-manifest.js` (generated at build time). If the manifest is missing the destination (e.g., a new page added post-deploy), the existing `document$` fallback still fires and rewrites the URL after the DOM swap.
+
+**Check:** Verify `scc-manifest.js` is listed in `mkdocs.yml` `extra_javascript` BEFORE `scc-permalink.js`. Verify the manifest file exists at `docs/javascripts/scc-manifest.js` after a build.
 
 ### Content changes not appearing
 

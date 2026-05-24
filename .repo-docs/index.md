@@ -75,9 +75,9 @@ v2/
 ## Current Status
 
 - **Health:** active development
-- **Last significant change:** SCC permalink system (2026-05-23) -- stable URLs via redirect stubs + address-bar rewriting
+- **Last significant change:** SCC permalink system (2026-05-23) -- stable URLs via redirect stubs + address-bar rewriting; instant-nav flash eliminated via `scc-manifest.js` + `pushState` monkey-patch
 - **Known blockers:** None
-- **Known issues:** Brief URL flash during instant-nav between pages (cosmetic, tracked in `workspace/FOLLOWUPS.md`)
+- **Known issues:** None
 
 ## Documents in This Directory
 
