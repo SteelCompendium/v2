@@ -1,131 +1,78 @@
+---
+repo: v2
+doc: development
+updated: 2026-05-23
+---
+
 # Development
 
 ## Prerequisites
 
-| Tool | Version | Install |
-|------|---------|---------|
-| devbox | latest | https://www.jetify.com/devbox/docs/installing_devbox/ |
-| Python 3 | latest (managed by devbox) | Provided by devbox |
-| git | any | System package manager |
-| just | any | System package manager or `cargo install just` |
-
-Devbox automatically provisions Python and GitHub CLI. The shell init hook creates a `.venv` and installs pip dependencies.
+- Python 3.x with pip
+- Go toolchain (via devbox -- see workspace CLAUDE.md)
+- `just` command runner (via devbox)
 
 ## Setup
 
-1. Clone the repo:
-   ```bash
-   git clone git@github.com:SteelCompendium/v2.git
-   cd v2
-   ```
-
-2. Enter the devbox shell (creates venv, installs deps):
-   ```bash
-   devbox shell
-   ```
-
-3. Pull content and build locally:
-   ```bash
-   just update push=false
-   ```
-
-4. Serve locally:
-   ```bash
-   devbox run serve
-   # or
-   mkdocs serve
-   ```
-
-5. Open http://127.0.0.1:8000 in your browser.
-
-## Common Workflows
-
-### Pull latest content without pushing
-
 ```bash
+# From workspace root, activate devbox
+devbox run --
+
+# Install Python dependencies
+pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav-plugin
+
+# Generate content and build docs/
+cd v2
 just update push=false
+
+# Preview locally
+just serve
 ```
 
-This clones `data-md-linked` (branch v3), restructures content into Browse/Read/Full Book/Bestiary, fixes links, and transforms index pages. Does not commit or push.
+## Development Workflow
 
-### Pull latest content and deploy
+### Editing presentation (CSS, JS, templates)
 
-```bash
-just update
-```
+1. Run `just serve` for live preview
+2. Edit files in `docs/javascripts/`, `docs/stylesheets/`, or `overrides/`
+3. MkDocs auto-reloads on save
 
-Same as above but also commits the updated `docs/` and pushes to `main`. CI then deploys to GitHub Pages.
+### Overriding generated content
 
-### Clean generated docs
+1. Find the generated file under `docs/` (e.g., `docs/Browse/index.md`)
+2. Copy it to the same path under `static_content/docs/`
+3. Edit the copy -- `steel-etl site` copies `static_content/` last, so your version wins
+4. Run `just update push=false` to verify
 
-```bash
-just clean_docs
-```
+### Modifying site structure
 
-Removes all generated content from `docs/` while preserving `javascripts/`, `stylesheets/`, `Media/`, `index.md`, `preferences.md`, and `.nav.yml`. Also resets the data version placeholder in `mkdocs.yml`.
+Site structure is controlled by `site.yaml`, not by moving files. To change which content appears in which section, edit `site.yaml` and re-run `just update push=false`.
 
-### Modify CSS or JavaScript
+### Modifying the content pipeline
 
-1. Edit files in `docs/stylesheets/` or `docs/javascripts/`
-2. If adding a new file, register it in `mkdocs.yml` under `extra_css` or `extra_javascript`
-3. Run `mkdocs serve` to preview changes with live reload
-4. Commit the changes directly (these files are not generated)
+Content generation is handled by `steel-etl`. See `steel-etl/CLAUDE.md` for that workflow.
 
-### Override a generated page
+## Build Process
 
-1. Create the file at the same relative path under `static_content/docs/`
-2. Run `just update push=false` to verify the override applies correctly
-3. Commit both the static content file and the generated result
+`just update` runs these steps:
 
-### Build without serving
-
-```bash
-devbox run build
-# or
-mkdocs build
-```
-
-Output goes to `site/` (gitignored).
-
-## Custom JavaScript Files
-
-| File | Purpose |
-|------|---------|
-| `ability-cards.js` | Styles ability descriptions as visual cards |
-| `browse-enhancements.js` | Enhances Browse section navigation and layout |
-| `keyboard-nav.js` | Arrow key navigation between pages |
-| `preferences.js` | Font family, size, page width, and compact mode preferences (persisted to localStorage) |
-| `reading-progress.js` | Progress bar showing scroll position in long pages |
-| `tablesort.js` | Initializes tablesort on all markdown tables |
-
-## Custom CSS Files
-
-| File | Purpose |
-|------|---------|
-| `palette.css` | Color palette and CSS custom property definitions |
-| `extra.css` | General layout and typography overrides |
-| `custom_font.css` | Font-face declarations and font variable defaults |
-| `tables.css` | Table styling and responsive table layout |
-| `mobile.css` | Mobile-specific responsive adjustments |
-| `print.css` | Print stylesheet for clean printouts |
+1. `steel-etl gen` -- full ETL pipeline (parse, classify, output)
+2. Embed steel-etl version into `mkdocs.yml` copyright
+3. `steel-etl site` -- map output into MkDocs structure, generate SCC stubs
+4. `transform_indexes.py` -- convert Browse index pages to grid card layouts
+5. (Optional) commit and push
 
 ## Testing
 
-No automated test suite exists. Manual verification:
+No automated test suite for the site itself. Verification is manual:
 
-1. Run `mkdocs serve` and check key pages:
-   - Browse landing page and category grids
-   - Individual ability pages with card styling
-   - Read chapter pages (verify search exclusion)
-   - Preferences page (change fonts, verify persistence)
-2. Test search to confirm only Browse results appear
-3. Test keyboard navigation (arrow keys between pages)
-4. Test dark/light mode toggle
-5. Check mobile layout at various breakpoints
+- `mkdocs build` should exit 0 with no warnings
+- Check SCC permalink rewriting works (navigate to a page, verify URL bar shows `/scc/...`)
+- Check anchor links preserve SCC URL
+- Check redirect stubs work (visit `/v2/scc/{any-code}/` directly)
 
-## Debugging
+The steel-etl side has Go tests covering SCC stub generation (`internal/site/permalinks_test.go`).
 
-- MkDocs build warnings appear in terminal during `mkdocs serve` or `mkdocs build`
-- Broken links show as build warnings with file path and line number
-- Browser DevTools console for JavaScript errors
-- `mkdocs serve --dirtyreload` (`devbox run just_serve`) for faster rebuilds during development
+## Troubleshooting
+
+See [troubleshooting.md](troubleshooting.md).

@@ -1,98 +1,157 @@
+---
+repo: v2
+doc: architecture
+updated: 2026-05-23
+---
+
 # Architecture
 
 ## System Overview
 
+The v2 site is a static MkDocs Material site. Content flows through a pipeline:
+
 ```
-┌─────────────────────┐
-│  data-md-linked      │  Upstream: structured markdown with
-│  (GitHub, branch v3) │  REL_PATH_PREFIX/SUFFIX link placeholders
-└─────────┬───────────┘
-          │ git clone (just update)
-          ▼
-┌─────────────────────┐
-│  justfile pipeline   │  Restructure → fix links → inject
-│  (bash + python)     │  search exclusion → transform indexes
-└─────────┬───────────┘
-          │ writes to docs/
-          ▼
-┌─────────────────────┐
-│  docs/               │  MkDocs source: Browse, Read,
-│  + overrides/        │  Full Book, Bestiary, JS, CSS
-│  + static_content/   │  Static overrides applied last
-└─────────┬───────────┘
-          │ mkdocs build / gh-deploy
-          ▼
-┌─────────────────────┐
-│  GitHub Pages        │  steelcompendium.io/v2
-│  (gh-pages branch)   │  Served as static HTML
-└─────────────────────┘
+annotated markdown (data-rules/)
+  -> steel-etl gen (parse, classify, output)
+  -> steel-etl site (map to MkDocs structure)
+  -> transform_indexes.py (grid card layouts)
+  -> mkdocs build (static HTML)
+  -> GitHub Pages (steelcompendium.io/v2)
 ```
 
-## Components
+The site has no server-side routing. All dynamic behavior is client-side JavaScript.
 
-| Component | Location | Responsibility | Depends on |
-|-----------|----------|---------------|------------|
-| Build pipeline | `justfile` | Clone data, restructure into tabs, fix links, inject search exclusion, apply static overrides | `data-md-linked` repo, `scripts/transform_indexes.py` |
-| Index transformer | `scripts/transform_indexes.py` | Convert `_Index.md` tables into grid card layouts | Python 3 stdlib |
-| MkDocs config | `mkdocs.yml` | Site metadata, theme, plugins, extensions, CSS/JS includes | mkdocs-material, mkdocs-roamlinks-plugin, mkdocs-awesome-nav |
-| Template overrides | `overrides/` | Font preference injection (`main.html`), content/TOC layout tweaks | MkDocs Material theme |
-| Custom JavaScript | `docs/javascripts/` | Ability card styling, keyboard nav, reading progress, font preferences, sortable tables, browse enhancements | Browser APIs, tablesort library |
-| Custom CSS | `docs/stylesheets/` | Color palette, typography, table styles, mobile layout, print styles | MkDocs Material CSS variables |
-| Static content | `static_content/docs/` | Hand-authored pages that override generated content (Browse landing, Bestiary README) | Copied after data pull |
-| CI pipeline | `.github/workflows/ci.yml` | Build and deploy to GitHub Pages on push to main | GitHub Actions, Python, pip |
+## Content Pipeline
 
-## Data Flow
+### steel-etl site
 
-1. `just update` clones `data-md-linked` (branch `v3`) into a temp directory
-2. Extracts commit SHA and date, embeds version string into `mkdocs.yml` copyright
-3. Copies content into staging, strips repo metadata (LICENSE, README, .github)
-4. Restructures into tabbed layout:
-   - `Rules/*` (except Chapters) -> `docs/Browse/`
-   - `Rules/Chapters/*` -> `docs/Read/`
-   - `Rules/Draw Steel Heroes*.md` -> `docs/Full Book/`
-   - `Bestiary/` -> `docs/Bestiary/`
-5. Fixes links: rewrites `REL_PATH_PREFIX`/`REL_PATH_SUFFIX` placeholders to relative paths, decodes `%20` in URLs, appends `#anchor` fragments for hover previews
-6. Injects `search: exclude: true` front matter into Read and Full Book pages
-7. Creates `.nav.yml` files for tab titles and sort order
-8. Runs `transform_indexes.py` to convert `_Index.md` tables into card grids
-9. Copies `static_content/docs/` over generated docs (overrides take precedence)
-10. Optionally commits and pushes
+Configured by `site.yaml`. Reads ETL md-linked output and maps it into `docs/`:
 
-## Key Design Decisions
+- **Section mapping**: `Browse/` (modular by type), `Read/` (book order chapters)
+- **Composites**: merge class traits + abilities into one class page; merge ancestry traits into ancestry pages
+- **Groups**: nest kit signature abilities under `Kits/` subdirectory
+- **SCC stubs**: generate `scc/{code}/index.html` redirect files (see below)
+- **Static overrides**: `static_content/docs/` files are copied last, overriding generated content
 
-| Decision | Rationale |
-|----------|-----------|
-| Search-excluded Read/Full Book | Prevents duplicate search results since Browse and Read contain the same content in different structures |
-| Static content overrides | Allows hand-crafted landing pages without modifying the upstream data pipeline |
-| Relative path link rewriting | Enables content to work in both the data repo structure and the restructured MkDocs layout |
-| No mike versioning | Simplifies deployment; single branch (`gh-pages`) via `mkdocs gh-deploy --force` |
-| Grid card index pages | Improves Browse UX over raw markdown tables; Python script transforms at build time |
+### Generated vs hand-authored
 
-## Dependencies
+Everything under `docs/Browse/`, `docs/Read/`, and `docs/scc/` is wiped and regenerated on each build. Do not edit these directly -- changes will be lost. To override a generated page, place your version at the same relative path under `static_content/docs/`.
 
-| Dependency | Version | Why |
-|------------|---------|-----|
-| mkdocs-material | latest (pip) | Feature-rich MkDocs theme with dark mode, tabs, search, instant preview |
-| mkdocs-roamlinks-plugin | latest (pip) | Resolves wiki-style `[[links]]` in upstream markdown |
-| mkdocs-awesome-nav | latest (pip) | Auto-generates navigation from `.nav.yml` files and directory structure |
-| tablesort | 5.3.0 (CDN) | Client-side sortable tables |
-| MathJax | 3.x (CDN) | Renders mathematical notation (used in some rules) |
-| Mermaid | latest (CDN) | Renders diagrams in markdown |
-| Python 3 | latest (devbox) | MkDocs runtime and build scripts |
-| GitHub CLI | latest (devbox) | Used in workspace-level operations |
+Safe to edit: `docs/javascripts/`, `docs/stylesheets/`, `overrides/`, `scripts/`, `static_content/`, `mkdocs.yml`, `site.yaml`.
 
-## Extension Points
+## SCC Permalink System
 
-| What | Where | How |
-|------|-------|-----|
-| New JS enhancement | `docs/javascripts/` | Create new `.js` file, add to `extra_javascript` in `mkdocs.yml` |
-| New CSS customization | `docs/stylesheets/` | Create new `.css` file, add to `extra_css` in `mkdocs.yml` |
-| Override a generated page | `static_content/docs/` | Place file at same relative path; it replaces the generated version after `just update` |
-| New MkDocs plugin | `mkdocs.yml` | Add to `plugins` list, install via pip in `devbox.json` init hook |
-| Template customization | `overrides/` | Follow MkDocs Material custom overrides convention |
+SCC (Steel Compendium Classification) codes are permanent identifiers for every piece of content. The permalink system ensures URLs survive site restructuring.
 
-## Constraints
+### Goals
 
-- **No direct content editing.** The `docs/Browse/`, `docs/Read/`, `docs/Full Book/`, and `docs/Bestiary/` directories are wiped and regenerated by `just update`. Use `static_content/` for overrides.
-- **Link format coupling.** The justfile's sed/perl transformations assume specific placeholder formats from `data-md-linked`. Changes upstream require corresponding justfile updates.
-- **Single Python environment.** All pip dependencies share one venv managed by devbox.
+1. Stable `/v2/scc/{scc-code}/` URLs that work even if Browse hierarchy changes
+2. When users copy the URL from the address bar, they get the SCC permalink, not the friendly Browse path
+
+### Architecture (4 layers)
+
+**Layer 1: Redirect stubs** (Go, `steel-etl/internal/site/permalinks.go`)
+
+For every page with an `scc` frontmatter field, generates `docs/scc/{scc-code}/index.html` containing:
+- `<meta http-equiv="refresh" content="0; url=...">` for JS-off redirect
+- `<script>location.replace(...)</script>` for JS-on redirect (preserves hash + query)
+- `<meta name="robots" content="noindex">` to keep stubs out of search
+- `<link rel="canonical" href="...">` pointing to the friendly page
+- All redirect URLs are relative, so stubs work under any deploy prefix
+
+**Layer 2: Canonical tags** (Jinja2, `overrides/main.html`)
+
+Overrides mkdocs-material's `{% block site_meta %}` to emit `<link rel="canonical">` pointing to the SCC permalink URL when the page has `scc` in its frontmatter. Pages without SCC fall back to `page.canonical_url`.
+
+**Layer 3: Address-bar rewrite** (JavaScript, two parts)
+
+*Inline early rewrite* (`overrides/main.html`, `{% block extrahead %}`):
+- Emits `<meta name="scc-permalink">` with the SCC URL
+- Inline `<script>` in `<head>` calls `history.replaceState` synchronously during HTML parse
+- Runs before body renders, so the user never sees the friendly URL on initial load
+
+*Deferred handlers* (`docs/javascripts/scc-permalink.js`):
+- Monkey-patches `history.pushState` to intercept mkdocs-material instant-nav clicks and immediately `replaceState` to the SCC URL in the same synchronous task
+- `document$.subscribe` fallback for instant-nav pages not in the manifest
+- `hashchange` listener re-applies the SCC permalink after anchor clicks
+
+**Layer 4: SCC manifest** (`docs/javascripts/scc-manifest.js`)
+
+Generated at build time by steel-etl. Maps friendly URL paths to SCC permalink paths:
+```javascript
+window.__SCC_PERMALINK_MAP__ = {
+  "Browse/class/fury/": "scc/mcdm.heroes.v1/class/fury/",
+  ...
+};
+```
+Used by the `pushState` monkey-patch for instant-nav URL rewriting (lookup is synchronous, no network request).
+
+### URL flow
+
+```
+Initial page load:
+  browser requests /v2/Browse/class/fury/
+  -> server returns friendly page HTML
+  -> inline <head> script rewrites URL to /v2/scc/mcdm.heroes.v1/class/fury/
+  -> user sees SCC URL in address bar
+
+SCC permalink visit:
+  browser requests /v2/scc/mcdm.heroes.v1/class/fury/
+  -> server returns redirect stub HTML
+  -> meta-refresh + JS redirects to /v2/Browse/class/fury/
+  -> inline <head> script rewrites URL back to /v2/scc/mcdm.heroes.v1/class/fury/
+
+Instant navigation (clicking links within site):
+  user clicks link to another page
+  -> material calls pushState with friendly URL
+  -> monkey-patched pushState immediately replaceState to SCC URL
+  -> browser never paints the friendly URL
+```
+
+## MkDocs Material Customization
+
+### Theme overrides (`overrides/`)
+
+- `main.html`: extends `base.html` -- owns `site_meta` block (canonical link), `extrahead` block (SCC permalink rewrite, font preference restoration)
+- `partials/content.html`: content area layout
+- `partials/toc.html`: table of contents layout
+
+Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shape.
+
+### Client-side features (`docs/javascripts/`)
+
+| File | Purpose |
+|------|---------|
+| `scc-permalink.js` | Address-bar URL rewriting to SCC permalinks |
+| `scc-manifest.js` | Generated map of friendly -> SCC paths |
+| `ability-cards.js` | Ability card rendering enhancements |
+| `browse-enhancements.js` | Browse section UX improvements |
+| `keyboard-nav.js` | Keyboard navigation support |
+| `preferences.js` | User font/layout preferences |
+| `reading-progress.js` | Reading progress indicator |
+| `tablesort.js` | Sortable tables integration |
+
+### Styling (`docs/stylesheets/`)
+
+| File | Purpose |
+|------|---------|
+| `palette.css` | Color scheme (custom primary/accent) |
+| `extra.css` | General style overrides |
+| `custom_font.css` | Font customization |
+| `tables.css` | Table styling |
+| `mobile.css` | Mobile responsive tweaks |
+| `print.css` | Print stylesheet |
+
+## MkDocs Plugins
+
+- `search`: built-in search
+- `roamlinks`: Obsidian-style `[[wikilink]]` support
+- `awesome-nav`: `.nav.yml` based navigation ordering
+
+## Key Features
+
+- `navigation.instant` + `navigation.instant.preview`: SPA-like navigation
+- `navigation.tabs` + `navigation.tabs.sticky`: top-level tab navigation (Browse, Read)
+- `toc.permalink`: heading anchor links
+- `material.extensions.preview`: link preview popups for Browse and Read sections
+- Google Analytics (`G-PMF9SHHXNY`)
