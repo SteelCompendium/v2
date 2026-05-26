@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:
-    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
+    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -11,9 +11,9 @@ weak_potency: Reason − 2
 
 # Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent's](class/talent.md) abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
-**As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
+**As a [talent](class/talent.md), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](class/talent.md) who use too much power too quickly pay a deadly price.**
 
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
@@ -39,13 +39,13 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
+**Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
 
 ###### Talent Advancement Table
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Talent](class/talent.md) Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, [Talent](class/talent.md) Ward, Telepathic Speech, Tradition Features, [Talent](class/talent.md) Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
@@ -63,7 +63,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### 1st-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
@@ -212,7 +212,7 @@ You have the following ability.
 
 ### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  Force Augmentation.)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](class/talent.md) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  Force Augmentation.)
 
 ### Remote Assistance
 
@@ -263,7 +263,7 @@ Your ward reacts to danger, protecting you from future harm. Whenever you take d
 
 ### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many talent traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](class/talent.md) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -274,7 +274,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a talent tradition from the following options: chronopathy, telekinesis, or telepathy. Your talent tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other talent traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](class/talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](class/talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](class/talent.md) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 ### Talent Ward
 
@@ -282,7 +282,7 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: Background). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 ### Vanishing Ward
 
@@ -629,7 +629,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### 2nd-Level Tradition Feature
 
-Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -653,7 +653,7 @@ You gain an edge on tests made to stop combat and start a negotiation. Additiona
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: Perks.
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -763,7 +763,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 ### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your Mind Spike ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your Mind Spike ability, you always have line of effect to that creature until they move beyond that distance.
 
 ## 3rd-Level Abilities
 
@@ -783,7 +783,7 @@ You can extend your psionic senses beyond their usual range. Once on each of you
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 ### Force Orbs
 
@@ -859,7 +859,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ### Suspensor Field
 
@@ -871,7 +871,7 @@ If you are strained while flying and are force moved, the forced movement distan
 
 ### 5th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -1145,7 +1145,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -1227,7 +1227,7 @@ The range of your Telepathic Speech feature increases to anywhere on the same wo
 - **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
 - **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
 
-**Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
+**Effect:** This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 
 **Strained:** You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).
 
@@ -1275,7 +1275,7 @@ The range of your Telepathic Speech feature increases to anywhere on the same wo
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
 
 ### Stasis Shield
 

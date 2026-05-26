@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see [Skills](#page-268-0) in Chapter 9: Tests). (*Quick Build:* Intimidate, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Intimidate, Religion.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -13,7 +13,7 @@ weak_potency: Presence − 2
 
 Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
 
-As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
+As a [censor](class/censor.md), you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
 > "We FIGHT!
 >
@@ -43,13 +43,13 @@ As a censor, you're at your best against the strongest foes. Your judgment terri
 
 **Recoveries:** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see [Skills](#page-268-0) in Chapter 9: Tests). (*Quick Build:* Intimidate, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
 
 ###### Censor Advancement Table
 
 | Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
 |-------|------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
-| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                  |
+| 1st   | [Censor](class/censor.md) Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, [Censor](class/censor.md) Abilities | Signature, 3, 5           | -                  |
 | 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
 | 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
 | 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
@@ -67,7 +67,7 @@ As a censor, you're at your best against the strongest foes. Your judgment terri
 
 ### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](class/censor.md) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
@@ -94,7 +94,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 ### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see [Chapter 12: Downtime Projects](#page-307-2)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](chapter/downtime-projects.md)).
 
 ### Blessing of Fortunate Weather
 
@@ -112,17 +112,17 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 ### Censor Order
 
-Censors are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a censor order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](class/censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
-Your censor order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor](class/censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: Gods and Religion, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
 
@@ -192,7 +192,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > |-------------------|-----------------:|
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 > 
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](class/censor.md) judges the target.
 > 
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 > 
@@ -217,7 +217,7 @@ The first time on a turn that you use your Judgment ability to judge a creature,
 
 ### Kit
 
-You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) for more information. (*Quick Build:* Warrior Priest.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Warrior Priest.)
 
 ### My Life for Yours
 
@@ -256,13 +256,13 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 ### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you censor those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](class/censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each combat round that a creature judged by you (see Judgment below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
 
 You lose any remaining wrath at the end of the encounter.
 
@@ -270,7 +270,7 @@ You lose any remaining wrath at the end of the encounter.
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the censor, but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](class/censor.md), but they might appear in future products.)
 
 ## 1st-Level Abilities
 
@@ -436,7 +436,7 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 |-------------------|-----------------:|
 | **📏 Ranged 10**  | **🎯 One enemy** |
 
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](class/censor.md) judges the target.
 
 Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 
@@ -531,7 +531,7 @@ You can choose only one free triggered action option at a time, even if multiple
 
 ### 2nd-Level Order Features
 
-Your censor order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](class/censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -559,7 +559,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See [Chapter 7: Perks](#page-241-0).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ### Saint's Vigilance
 
@@ -671,7 +671,7 @@ Your judgment has grown in divine power, instilling fear in those you condemn. W
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
+**Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
 ### Edict of Purifying Pacifism
 
@@ -697,7 +697,7 @@ Your judgment has grown in divine power, instilling fear in those you condemn. W
 
 ### 4th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.
+You gain a domain feature from your domain, as shown on the 4th-Level [Censor](class/censor.md) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table
 
@@ -779,7 +779,7 @@ You can commune with a network of spirits. As a respite activity, you speak the 
 
 ### Skill
 
-You gain one skill of your choice. See [Skills](#page-268-0) in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ### Windwalk
 
@@ -809,7 +809,7 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 ### 5th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
@@ -990,7 +990,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level Censor Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](class/censor.md) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
@@ -1046,7 +1046,7 @@ Each time you use your My Life for Yours ability, you gain 1 wrath that can be s
 
 ### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see [Chapter 12: Downtime Projects](#page-307-2)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -1127,7 +1127,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### 8th-Level Order Feature
 
-Your censor order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](class/censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -1139,7 +1139,7 @@ Your censor order grants you a feature, as shown on the 8th-Level Order Features
 
 ### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, devils, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](ancestry/devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your Judgment ability against them as a free triggered action before an encounter begins.
 
 ### Perk
 
@@ -1261,7 +1261,7 @@ The weapon you target with your Implement of Wrath feature gains the following a
 - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 
-**Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+**Effect:** This ability gains an edge against demons, [devils](ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 ### Blessing and a Curse
 
@@ -1329,7 +1329,7 @@ You gain one skill of your choice.
 
 ### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a conduit domain effect (see [Domain Piety and Effects](#page-110-0) in the [Conduit](#page-108-0) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your conduit level, use your censor level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your Judgment ability, you can use a free triggered action to use a [conduit](class/conduit.md) domain effect (see Domain Piety and Effects in the [Conduit](class/conduit.md) section) associated with your chosen domain, or a domain you access with virtue (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](class/conduit.md) level, use your [censor](class/censor.md) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 

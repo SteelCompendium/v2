@@ -16,15 +16,15 @@ That covers a lot! So let's get specific and talk about what this game is, and w
 
 This game will absolutely feature dungeons. Ancient underground complexes filled with ravenous undead or creeping oozes. But it isn't a dungeon crawler. It's not about "clearing rooms." It's not a survival horror game where you must track light and food and the weight of every object you carry.
 
-You can fight monsters in a dungeon, but the game is not *about* dungeons. Lots of games focus on that gameplay and do it really well! Like *[Shadowdark](https://mcdm.gg/ShadowDark)*.
+You can fight monsters in a dungeon, but the game is not *about* dungeons. Lots of games focus on that gameplay and do it really well! Like *Shadowdark*.
 
 It's not a wilderness exploration game, aka a hex crawl. It's not about surviving in extreme weather, getting lost, or trying to navigate your way back to safety.
 
-You can fight monsters in the wilderness, even run a whole campaign in the wilderness, but this game is not about the wilderness. We love games that focus on that fantasy, like *[Forbidden Lands](https://mcdm.gg/ForbiddenLands)*.
+You can fight monsters in the wilderness, even run a whole campaign in the wilderness, but this game is not about the wilderness. We love games that focus on that fantasy, like *Forbidden Lands*.
 
-You can run adventures with horror themes, but this is not a horror roleplaying game like *[Call of Cthulhu](https://mcdm.gg/CallOfCthulhu)*. Your sessions can and will feature comedy, but this isn't a comedy RPG like *[Paranoia](https://mcdm.gg/Paranoia)*.
+You can run adventures with horror themes, but this is not a horror roleplaying game like *Call of Cthulhu*. Your sessions can and will feature comedy, but this isn't a comedy RPG like *Paranoia*.
 
-*Draw Steel* is definitely a game about creating amazing stories in which the heroes fight monsters and villains using strategy and tactics. *Draw Steel* has a lot of other tools! But fighting monsters is sort of non-negotiable. If you're looking for a game featuring extraordinary heroes overcoming dramatic villains without the focus on tactical combat, maybe check out *[Daggerheart](https://mcdm.gg/DaggerHeart)*! Just right next door alphabet-wise!
+*Draw Steel* is definitely a game about creating amazing stories in which the heroes fight monsters and villains using strategy and tactics. *Draw Steel* has a lot of other tools! But fighting monsters is sort of non-negotiable. If you're looking for a game featuring extraordinary heroes overcoming dramatic villains without the focus on tactical combat, maybe check out *Daggerheart*! Just right next door alphabet-wise!
 
 We genuinely love all those games. But we love them because they focus on specific genres of gameplay and deliver on them really well.
 
@@ -42,7 +42,7 @@ Strategy is: "What are we trying to do?" Break a siege, free a prisoner, rescue 
 
 Tactics is about: "How are we going to do that?" We're going to... surround them! Sneak around them! Pick them off one by one! Kill their leader first. Kill their priest first! "No resurrections!"
 
-In a tactical game, *positioning matters*. So our game is played on a grid. Effects and distances are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our tactician and fury from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
+In a tactical game, *positioning matters*. So our game is played on a grid. Effects and distances are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our [tactician](class/tactician.md) and [fury](class/fury.md) from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
 
 That means *teamwork matters*. That's why the order of combat works the way it does—to encourage the players to plan! "Okay, you use Concussive Slam on that trooper, it'll push him back, and on my turn, I can use Squad! Forward! to get us all into melee with the death captain." We think focusing on teamwork also makes the game more heroic!
 
@@ -50,13 +50,13 @@ In a tactical game, you have many choices each combat round. You are never reduc
 
 As you play with the same group of characters, you learn what they can all do. You discover synergies, "combos." Some of them intended by the designers, some not! You start to learn these unique characters, and to rely on them to do their cool things. It's a great feeling when another player comes up with a cool plan that relies on your unique abilities.
 
-You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our fury. She's happier with 3 Stamina." Our game is not *about* tactics. It's not a wargame. But it is tactical.
+You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our [fury](class/fury.md). She's happier with 3 Stamina." Our game is not *about* tactics. It's not a wargame. But it is tactical.
 
 ### Heroic
 
 Our game is *definitely* about heroism! For us, this means a couple of things. It means we don't assume your character is primarily motivated by greed. They might be! But we don't *assume* that. Instead we assume you're going to do the right thing. It might take some convincing, and there might be some reluctant heroes in your party, but that's part of the fun!
 
-You should absolutely be able to run a *[Chain of Acheron](https://mcdm.gg/TheChainPlaylist)*-style campaign where the heroes are hard-bitten mercenaries in a morally ambiguous world. But that's not the baseline assumption. The fiction and adventures that inspire us feature epic villains trying to remake the world in their image, and the dashing, unyielding heroes who strive against them even in the face of impossible odds.
+You should absolutely be able to run a *Chain of Acheron*-style campaign where the heroes are hard-bitten mercenaries in a morally ambiguous world. But that's not the baseline assumption. The fiction and adventures that inspire us feature epic villains trying to remake the world in their image, and the dashing, unyielding heroes who strive against them even in the face of impossible odds.
 
 So that's one component of the heroic keyword. But another component, equally important, is what kinds of things happen "onscreen," so to speak. This is closely related to the cinematic keyword.
 
@@ -72,17 +72,17 @@ Basically, we worry only about those things you'd see your characters doing in a
 
 ### Cinematic
 
-Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the shadow's ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
+Closely tied to the heroic keyword, the cinematic keyword is about how we like abilities and features to be strongly evocative. You can imagine your character doing or saying these things. "In All This Confusion" is a good name for the [shadow's](class/shadow.md) ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates an awareness that explains *how* it's working.
 
-When Sir Vanazor the dragon knight fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [dragon knight](ancestry/dragon-knight.md) [fury](class/fury.md) leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you *experience* that action in your mind. It feels like a movie. It doesn't feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
-You should imagine your tactician character leading the battle, granting your allies free strikes, extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
+You should imagine your [tactician](class/tactician.md) character leading the battle, granting your allies free strikes, extra maneuvers. *Coordinating* the battle. That's what the name implies. And if we've done a good job, when you read through your character's abilities, you think, "Yes! This is what I was imagining! I can't wait to do this!"
 
 ### Fantasy
 
 Just... you know... it's got dragons and stuff.
 
-It's worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City in This or Any Age. Vasloria is mostly humans and elves and orcs and dwarves, but Capital has dozens, *hundreds* of different ancestries in it.
+It's worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City in This or Any Age. Vasloria is mostly [humans](ancestry/human.md) and elves and [orcs](ancestry/orc.md) and [dwarves](ancestry/dwarf.md), but Capital has dozens, *hundreds* of different ancestries in it.
 
 Looking back at movies like *Star Wars* and the work of artists like Chris Foss, that '70s stuff now seems explicitly fantastical. There's nothing scientific or even plausible about a lightsaber or a John Berkey spaceship. But damn, they look cool!
 
@@ -96,12 +96,12 @@ For us, fantasy includes magic, like wizards casting spells, and psionics, the n
 
 We know that many folks are coming to this game having only experienced d20 fantasy RPGs. This section details a few key distinctions between this game and typical d20 fantasy that you'll notice right away. These aren't the only distinctions, but they're the most obvious.
 
-- **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the conduit is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're dying to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the [Ancestries](scc:mcdm.heroes.v1:chapter:ancestries) and [Classes](scc:mcdm.heroes.v1:chapter:classes) sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
+- **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the [conduit](class/conduit.md) is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're dying to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the [Ancestries](chapter/ancestries.md) and [Classes](chapter/classes.md) sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
 - **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
 - **Abilities automatically deal damage.** When you use an ability—one of the unique combat features that defines your character—you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
 - **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and Recoveries—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
-- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the Tests chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
-- **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *[MCDM Discord](https://mcdm.gg/Discord)* and ask. We've got tons of awesome community members ready to help!
+- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the [Tests](chapter/tests.md) chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
+- **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *MCDM Discord* and ask. We've got tons of awesome community members ready to help!
 - **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
 
 ## Glossary Index
@@ -156,7 +156,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Catch Breath Maneuver:** A maneuver that allows a hero to spend a Recovery and regain Stamina equal to their recovery value.
 
-**Censor:** A class for a hero who is a trained warrior devoted to a saint or god.
+**[Censor](class/censor.md):** A class for a hero who is a trained warrior devoted to a saint or god.
 
 **Characteristics:** Statistics used to represent a creature's mental and physical prowess, broken out as Might, Agility, Reason, Intuition, and Presence. Each characteristic has a score that ranges from −5 to +5.
 
@@ -164,7 +164,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Ceiling:** Any solid surface above a creature.
 
-**Clarity:** The talent's Heroic Resource. Unlike other Heroic Resources, clarity can go below 0, leaving a talent strained.
+**Clarity:** The [talent's](class/talent.md) Heroic Resource. Unlike other Heroic Resources, clarity can go below 0, leaving a [talent](class/talent.md) strained.
 
 **Class:** A hero's current role, which largely determines how they interact with the game's rules.
 
@@ -180,7 +180,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Condition:** A negative effect that applies to a creature and uses a universal shorthand name. Bleeding, dazed, frightened, grabbed, prone,  restrained, slowed, taunted, and weakened are conditions in *Draw Steel*.
 
-**Conduit:** A class for a hero who is the devoted spellcasting priest of a saint or god.
+**[Conduit](class/conduit.md):** A class for a hero who is the devoted spellcasting priest of a saint or god.
 
 **Consequence:** An impactful setback suffered by a creature when they make a test. A consequence can occur whether or not the creature making the test succeeds or fails.
 
@@ -222,7 +222,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Defend Main Action:** A main action that allows a creature to impose a double bane on all ability rolls made against them until the start of their next turn. Additionally, the creature has a double edge on tests when called for to resist environmental effects or a creature's traits or abilities.
 
-**Devil:** An ancestry from the Seven Cities of Hell.
+**[Devil](ancestry/devil.md):** An ancestry from the Seven Cities of Hell.
 
 **Difficult Terrain:** An area of obstacles that are difficult to move through. It costs 1 additional square of movement to enter a square of difficult terrain. A creature can't shift into or out of difficult terrain, and can't jump out of difficult terrain.
 
@@ -230,7 +230,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Director:** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
-**Discipline:** The null's Heroic Resource.
+**Discipline:** The [null's](class/null.md) Heroic Resource.
 
 **Disengage Move Action:** A move action that allows a creature to shift 1 square.
 
@@ -242,11 +242,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
-**Dragon Knight:** An ancestry with a draconic heritage.
+**[Dragon Knight](ancestry/dragon-knight.md):** An ancestry with a draconic heritage.
 
-**Drama:** The troubadour's Heroic Resource.
+**Drama:** The [troubadour's](class/troubadour.md) Heroic Resource.
 
-**Dwarf:** An ancestry with stone skin and short stature.
+**[Dwarf](ancestry/dwarf.md):** An ancestry with stone skin and short stature.
 
 **Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is bleeding and they can't use the Catch Breath maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
 
@@ -254,7 +254,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Edge:** A situational advantage that grants a creature a +2 bonus to a power roll.
 
-**Elementalist:** A class for a hero mage who wields the elemental forces of the timescape—earth, green, fire, the void, and more.
+**[Elementalist](class/elementalist.md):** A class for a hero mage who wields the elemental forces of the timescape—earth, green, fire, the void, and more.
 
 **EoT:** An abbreviation used in an ability tier outcome for an effect that lasts until the end of the affected creature's next turn.
 
@@ -264,19 +264,19 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Escape Grab Maneuver:** A maneuver that allows a grabbed creature to make an ability roll to escape.
 
-**Essence:** The elementalist's Heroic Resource.
+**Essence:** The [elementalist's](class/elementalist.md) Heroic Resource.
 
 **Experience (XP):** A hero's Victories convert to Experience when they finish a respite. Experience permanently increases a hero's capabilities by allowing them to increase in level.
 
 **Falling:** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land prone. A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
 
-**Ferocity:** The fury's Heroic Resource.
+**Ferocity:** The [fury's](class/fury.md) Heroic Resource.
 
 **Flanking:** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
 **Fly:** A movement mode available to creatures with "fly" in their speed entry, or who gain the capability to temporarily fly. Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made prone or has their speed reduced to 0, they fall.
 
-**Focus:** The tactician's Heroic Resource.
+**Focus:** The [tactician's](class/tactician.md) Heroic Resource.
 
 **Forced Movement:** When an ability or effect compels a creature to move, usually against their will. There are three types of forced movement: a pull, a push, and a slide. Forced movement is always along the ground unless noted as vertical. Forced movement can be reduced by stability.
 
@@ -290,7 +290,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Frightened:** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
 
-**Fury:** A class for a hero warrior who courses with the ferocity of the Primordial Chaos.
+**[Fury](class/fury.md):** A class for a hero warrior who courses with the ferocity of the Primordial Chaos.
 
 **God:** A deity who grants power to their most devout worshipers through saint intermediaries.
 
@@ -304,7 +304,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Guide:** A manual that gives a downtime project a specific number of project points without requiring a project roll.
 
-**Hakaan:** An ancestry with stone giant blood.
+**[Hakaan](ancestry/hakaan.md):** An ancestry with stone giant blood.
 
 **Heal Main Action:** A main action that allows a creature to target an adjacent creature to make them feel better. The target can spend a Recovery to regain Stamina, or can make a saving throw against one effect.
 
@@ -318,19 +318,19 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Hide Maneuver:** A maneuver that allows a creature to hide from other creatures who aren't observing them.
 
-**High Elves:** A fey ancestry in tune with innate magic that affects how others interact with them.
+**[High Elves](ancestry/high-elf.md):** A fey ancestry in tune with innate magic that affects how others interact with them.
 
 **High Ground:** A creature has the advantage of high ground when they use an ability against a target while standing on the ground and occupying a space that is fully above the target's space. This advantage grants the creature an edge on the ability roll.
 
 **Hover:** A creature who has "hover" in their speed entry (commonly alongside "fly" or "teleport"), or who gains the ability to temporarily hover, can remain motionless in midair. They don't fall even if they are knocked prone or their speed is reduced to 0.
 
-**Human:** An ancestry much like humans in the real world, except that they can sense magic.
+**[Human](ancestry/human.md):** An ancestry much like [humans](ancestry/human.md) in the real world, except that they can sense magic.
 
-**Humanoid:** Creatures who are of similar size to, have similar limb arrangements as, and have sapience on par with humans.
+**Humanoid:** Creatures who are of similar size to, have similar limb arrangements as, and have sapience on par with [humans](ancestry/human.md).
 
 **Implement:** A piece of jewelry, a staff, an orb, a wand, or some other object used by a creature to channel supernatural power.
 
-**Insight:** The shadow's Heroic Resource.
+**Insight:** The [shadow's](class/shadow.md) Heroic Resource.
 
 **Interest:** A negotiation statistic that determines how interested an NPC is in helping out the heroes.
 
@@ -354,7 +354,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Main Action:** An activity used to accomplish the most impactful endeavors a creature can accomplish during combat. A creature can also use their main action to use a maneuver or move action instead.
 
-**Malice:** A combat resource the Director can spend to activate specific monster features. See *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*
+**Malice:** A combat resource the Director can spend to activate specific monster features. See *Draw Steel: Monsters*
 
 **Maneuver:** An activity that requires less focus and exertion during combat than a main action.
 
@@ -364,7 +364,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Melee Free Strike:** A free strike made using a melee ability.
 
-**Memonek:** An ancestry of machine people.
+**[Memonek](ancestry/memonek.md):** An ancestry of machine people.
 
 **Might:** A characteristic that represents a creature's strength and brawn.
 
@@ -390,7 +390,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **NPC:** A nonplayer character, usually created and run by the Director.
 
-**Null:** A class for a hero who is an unarmed psionic warrior with the ability to dampen supernatural effects.
+**[Null](class/null.md):** A class for a hero who is an unarmed psionic warrior with the ability to dampen supernatural effects.
 
 **Object:** Inanimate matter, including walls, rocks, vehicles, and corpses (the kind that can't move around and bite you), as well as living non-creatures such as plants.
 
@@ -400,9 +400,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
-**Orc:** An ancestry of people with magic blood in their glowing veins.
+**[Orc](ancestry/orc.md):** An ancestry of people with magic blood in their glowing veins.
 
-**Orden:** The prime manifold, where humans, elves, dwarves, and orcs share a world with dragons, goblins, kobolds, and dozens of other speaking peoples.
+**Orden:** The prime manifold, where [humans](ancestry/human.md), elves, [dwarves](ancestry/dwarf.md), and [orcs](ancestry/orc.md) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples.
 
 **Patience:** A negotiation statistic that determines how much time and effort an NPC is willing to expend listening to and arguing with the heroes.
 
@@ -410,11 +410,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Perk:** A feature available to all heroes that helps with exploration, investigation, negotiation, and more.
 
-**Piety:** The conduit's Heroic Resource.
+**Piety:** The [conduit's](class/conduit.md) Heroic Resource.
 
 **Pitfall:** A negotiation trait an NPC has that determines what type of arguments will not work on them.
 
-**Polder:** An ancestry of short folk who can slip into shadows to hide.
+**[Polder](ancestry/polder.md):** An ancestry of short folk who can slip into shadows to hide.
 
 **Potency:** A value that determines if a target has a characteristic low enough to be affected by an effect.
 
@@ -462,7 +462,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Retainer:** A follower who adventures alongside a hero.
 
-**Revenant:** An undead ancestry. Revenants return to the mortal world to complete unfinished business they had in life.
+**[Revenant](ancestry/revenant.md):** An undead ancestry. [Revenants](ancestry/revenant.md) return to the mortal world to complete unfinished business they had in life.
 
 **Reward:** A helpful boon granted by succeeding on a test, gained in addition to the creature making the test accomplishing what they set out to do. A creature always gains a reward on a test that is a natural 19 or 20.
 
@@ -480,7 +480,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Search for Hidden Creatures Maneuver:** A maneuver that allows a creature to make a test to locate nearby creatures who are hidden from them.
 
-**Shadow:** A class for a hero who is an expert infiltrator and thief utilizing magic.
+**[Shadow](class/shadow.md):** A class for a hero who is an expert infiltrator and thief utilizing magic.
 
 **Shift:** A movement mode that doesn't provoke opportunity attacks. Whenever a rule allows a creature to shift, they can choose to make a regular move of the same number of squares instead.
 
@@ -508,7 +508,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Stand Up Maneuver:** A maneuver that a prone creature can use to end the prone condition on themself. Alternatively, a creature can use this maneuver on a willing adjacent prone creature to end the prone condition on them.
 
-**Strained:** A state the talent enters when they have clarity below 0, and which effects their abilities.
+**Strained:** A state the [talent](class/talent.md) enters when they have clarity below 0, and which effects their abilities.
 
 **Strike:** An ability that deals damage to or imposes an effect on specific chosen targets. (A strike is different this way than an ability that produces an area of effect.)
 
@@ -524,9 +524,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Swim:** A movement mode that allows a creature to swim without using additional squares of movement. A creature without "swim" in their speed entry or the temporary ability to swim must use 2 squares of movement to swim 1 square.
 
-**Tactician:** A class for a hero who is a brilliant strategist and weapons expert.
+**[Tactician](class/tactician.md):** A class for a hero who is a brilliant strategist and weapons expert.
 
-**Talent:** A class for a hero who is a master of psionics.
+**[Talent](class/talent.md):** A class for a hero who is a master of psionics.
 
 **Taunted:** A condition that causes a creature to have a double bane on ability rolls that don't target the creature or effect that taunted them.
 
@@ -548,7 +548,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Title:** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
-**Time Raider:** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
+**[Time Raider](ancestry/time-raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
@@ -558,7 +558,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Trinket:** A treasure that can be used at will without any reduction in its power.
 
-**Troubadour:** A class for a hero who is a storytelling swashbuckler.
+**[Troubadour](class/troubadour.md):** A class for a hero who is a storytelling swashbuckler.
 
 **Turn:** A creature's turn in combat consists of a main action, a maneuver, and a move action.
 
@@ -584,6 +584,6 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Winded:** A state a creature enters when their Stamina is equal to or less than their winded value (half their Stamina maximum).
 
-**Wode Elf:** A fey ancestry in tune with magical forests.
+**[Wode Elf](ancestry/wode-elf.md):** A fey ancestry in tune with magical forests.
 
-**Wrath:** The censor's Heroic Resource.
+**Wrath:** The [censor's](class/censor.md) Heroic Resource.

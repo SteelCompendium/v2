@@ -8,7 +8,7 @@ type: trait
 
 # 8th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 

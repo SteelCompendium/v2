@@ -8,11 +8,11 @@ type: chapter
 
 # Kits
 
-The knight in shining armor. The warrior priest. The sniper. Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in shining armor. The warrior priest. The sniper. [Censors](class/censor.md), [furies](class/fury.md), [shadows](class/shadow.md), [tacticians](class/tactician.md), and [troubadours](class/troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
-Your choice of kit is always flexible, and your hero is never locked into a specific kit. If you want to change your kit, you can do so as a respite activity (see [Respite](#page-21-4) in [Chapter 1: The Basics](#page-17-3)).
+Your choice of kit is always flexible, and your hero is never locked into a specific kit. If you want to change your kit, you can do so as a respite activity (see Respite in Chapter 1: [The Basics](chapter/the-basics.md)).
 
 ### Kit Equipment
 
@@ -96,7 +96,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. (Abilities in Chapter 5: [Classes](chapter/classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -128,13 +128,13 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
-A kit that has a disengage bonus increases the number of squares you can shift when you take the Disengage move action (see [Chapter 10: Combat](#page-288-0)).
+A kit that has a disengage bonus increases the number of squares you can shift when you take the Disengage move action (see Chapter 10: [Combat](chapter/combat.md)).
 
 ### Kit Signature Ability
 
 Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the Guisarmier kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
 
-For details on the ability format, see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2).
+For details on the ability format, see Abilities in Chapter 5: [Classes](chapter/classes.md).
 
 ### Kits A to Z
 

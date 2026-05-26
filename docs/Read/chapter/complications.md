@@ -20,7 +20,7 @@ Not all complication benefits and drawbacks carry equal weight, but each benefit
 
 ### Modifying the Story
 
-In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose Infernal Contract as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a devil!
+In consultation with the Director, you can modify the narrative of a complication to better fit your vision of your character's backstory—or change it entirely. For instance, if you choose Infernal Contract as a complication, you might have your hero strike a deal with an archfey or an undead general instead of a [devil](ancestry/devil.md)!
 
 Many of the details of each complication are purposefully left vague, so that you can connect the complication to the rest of your backstory. If your complication took place during an attack, accident, or other event, you decide the specific details of those events and any other creatures involved.
 
@@ -54,14 +54,14 @@ Complications are presented in alphabetical order.
 | 18   | Curse of Poverty                   | 68   | Raised by Beasts           |
 | 19   | Curse of Punishment                | 69   | Refugee                    |
 | 20   | Curse of Stone                     | 70   | Rival                      |
-| 21   | Cursed Weapon                      | 71   | Rogue Talent               |
+| 21   | Cursed Weapon                      | 71   | Rogue [Talent](class/talent.md)               |
 | 22   | Disgraced                          | 72   | Runaway                    |
 | 23   | Dragon Dreams                      | 73   | Searching for a Cure       |
 | 24   | Elemental Inside                   | 74   | Secret Identity            |
 | 25   | Evanesceria                        | 75   | Secret Twin                |
 | 26   | Exile                              | 76   | Self-Taught                |
 | 27   | Fallen Immortal                    | 77   | Sewer Folk                 |
-| 28   | Famous Relative                    | 78   | Shadow Born                |
+| 28   | Famous Relative                    | 78   | [Shadow](class/shadow.md) Born                |
 | 29   | Feytouched                         | 79   | Shared Spirit              |
 | 30   | Fiery Ideal                        | 80   | Shattered Legacy           |
 | 31   | Fire and Chaos                     | 81   | Shipwrecked                |
@@ -159,14 +159,14 @@ Complications are presented in alphabetical order.
 | 68   | Raised by Beasts                   |
 | 69   | Refugee                            |
 | 70   | Rival                              |
-| 71   | Rogue Talent                       |
+| 71   | Rogue [Talent](class/talent.md)                       |
 | 72   | Runaway                            |
 | 73   | Searching for a Cure               |
 | 74   | Secret Identity                    |
 | 75   | Secret Twin                        |
 | 76   | Self-Taught                        |
 | 77   | Sewer Folk                         |
-| 78   | Shadow Born                        |
+| 78   | [Shadow](class/shadow.md) Born                        |
 | 79   | Shared Spirit                      |
 | 80   | Shattered Legacy                   |
 | 81   | Shipwrecked                        |

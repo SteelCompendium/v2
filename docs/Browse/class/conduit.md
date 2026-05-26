@@ -3,7 +3,7 @@ average_potency: Intuition - 1
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Read Person, Religion.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition - 2
@@ -13,7 +13,7 @@ weak_potency: Intuition - 2
 
 The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-**As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
+**As a [conduit](class/conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
 > "The gods judge our actions, and our inaction."
 >
@@ -40,13 +40,13 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
 
 ###### Conduit Advancement Table
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities     | Two signature, 3, 5           | -                 |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, [Conduit](class/conduit.md) Ward, [Conduit](class/conduit.md) Abilities     | Two signature, 3, 5           | -                 |
 | 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
 | 3rd   | Minor Miracle, 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
@@ -64,7 +64,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 ### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -95,7 +95,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 ### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: Downtime Projects).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](chapter/downtime-projects.md)).
 
 ### Blessing of Fortunate Weather
 
@@ -115,7 +115,7 @@ Your god grants you a ward that protects you from the faithless. Choose one of t
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: Gods and Religion, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* Adûn for deity, and Life and Protection as domains.)
 
@@ -142,7 +142,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Knowledge Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *Draw Steel: Monsters*).
 - **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
@@ -178,7 +178,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](class/conduit.md) level.
 
 ###### War Domain Piety and Effect
 
@@ -288,7 +288,7 @@ When you use an ability outside of combat that lets you spend unlimited piety on
 
 ### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](class/conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
 
 ### Prayer of Destruction
 
@@ -543,7 +543,7 @@ Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.
 
 ### Judgment's Hammer
 
-*Your divine fury is a hammer that crashes down upon the unrighteous.*
+*Your divine [fury](class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |
 |----------------------------|------------------------------:|
@@ -709,7 +709,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 ### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: Perks.
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ### The Lists of Heaven
 
@@ -930,7 +930,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 ### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](class/conduit.md) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
@@ -1024,7 +1024,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ## 4th-Level Abilities
 
@@ -1271,7 +1271,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 ### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](class/conduit.md) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
@@ -1327,7 +1327,7 @@ Each time you use your Healing Grace ability, you gain 1 piety that can be spent
 
 ### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: Downtime Projects). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -1650,7 +1650,7 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 You have an epic resource called divine power. Each time you finish a respite, you gain divine power equal to the XP you gain. You can spend divine power on your abilities as if it were piety.
 
-Additionally, you can spend divine power as if it were piety to use any conduit abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a conduit ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
+Additionally, you can spend divine power as if it were piety to use any [conduit](class/conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](class/conduit.md) ability you don't have that usually costs no piety, you must spend 1 divine power to use it.
 
 Divine power remains until you spend it.
 

@@ -19,7 +19,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > |-------------------|-----------------:|
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 > 
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](class/censor.md) judges the target.
 > 
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 > 

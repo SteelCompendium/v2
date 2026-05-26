@@ -3,7 +3,7 @@ average_potency: Might − 1
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+    - 'You gain the Nature skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 strong_potency: Might
 type: class
 weak_potency: Might − 2
@@ -13,7 +13,7 @@ weak_potency: Might − 2
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
+**As a [fury](class/fury.md), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 > "DEATH!"
 >
@@ -39,13 +39,13 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the Nature skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ###### Fury Advancement Table
 
 | Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------|
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities           | Signature, 3, 5           | -                |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, [Fury](class/fury.md) Abilities           | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
 | 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill | Signature, 3, 5, 7        | 5                |
@@ -200,7 +200,7 @@ While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed
 
 ### Kit Bonuses
 
-These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.
+These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: [Kits](chapter/kits.md) for information on kit bonuses.
 
 ### Kit Bonuses
 
@@ -259,7 +259,7 @@ Your primordial damage type is corruption.
 
 ### Stormwight Kits
 
-The stormwight primordial aspect lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: Kits).
+The stormwight primordial aspect lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional stormwight kits through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](chapter/kits.md)).
 
 ## Abilities
 
@@ -326,7 +326,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 
 > **Where's My Maneuver?**
 >
-> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](class/fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](class/fury.md) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 ##### Ferocity in Combat
 
@@ -372,11 +372,11 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Panther.)
 
 ### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).
+You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](chapter/combat.md)).
 
 ### Primordial Aspect
 
@@ -650,7 +650,7 @@ You have a bonus to speed equal to your Agility score, and you ignore difficult 
 
 ### Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link).
+You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ### Tooth and Claw
 
@@ -852,7 +852,7 @@ You can manifest your ferocity directly as an elemental force created by the Pri
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ## 5th-Level Features
 
@@ -870,11 +870,11 @@ Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Fe
 
 ### Bounder
 
-Your jump distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.
+Your jump distance and height double (see Movement Types in Chapter 10: [Combat](chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.
 
 ### Stormborn
 
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level conduit (see 1st-Level Domain Feature in the Conduit section).
+You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](class/conduit.md) (see 1st-Level Domain Feature in the [Conduit](class/conduit.md) section).
 
 ### Unfettered
 

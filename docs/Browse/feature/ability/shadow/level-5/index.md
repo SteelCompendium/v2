@@ -3,6 +3,7 @@
 <div class="browse-index" markdown>
 
 - [Blackout](blackout.md)
+- [Into the [Shadows](scc:mcdm.heroes.v1/class/shadow)](into-the-shadows-scc-mcdm-heroes-v1-class-shadow.md)
 - [Into the Shadows](into-the-shadows.md)
 - [Shadowfall](shadowfall.md)
 - [You Talk Too Much](you-talk-too-much.md)

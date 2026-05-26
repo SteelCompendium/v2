@@ -3,7 +3,7 @@ average_potency: Agility − 1
 name: Shadow
 scc: mcdm.heroes.v1/class/shadow
 skills:
-    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
+    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 strong_potency: Agility
 type: class
 weak_potency: Agility − 2
@@ -11,9 +11,9 @@ weak_potency: Agility − 2
 
 # Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](class/shadow.md)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
-**As a shadow, you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
+**As a [shadow](class/shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
 "Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
 
@@ -38,13 +38,13 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **Recoveries:** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ###### Shadow Advancement Table
 
 | Level | Features                                                                                                            | Abilities                 | College Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------|
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
+| 1st   | [Shadow](class/shadow.md) College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, [Shadow](class/shadow.md) Abilities  | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
 | 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
 | 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
@@ -62,7 +62,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### 1st-Level College Features
 
-Your shadow college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](class/shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -108,7 +108,7 @@ You have the following ability.
 
 ### College Triggered Action
 
-Your shadow college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](class/shadow.md) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -189,19 +189,19 @@ When you use an ability outside of combat that lets you spend unlimited insight 
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Cloak and Dagger.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Cloak and Dagger.)
 
 ### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a shadow. Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](class/shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your shadow college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](class/shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 ### Smoke Bomb
 
@@ -481,7 +481,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 ### 2nd-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](class/shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
@@ -503,7 +503,7 @@ Additionally, when you use your I'm No Threat ability, you can take the Disengag
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: Perks.
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ### Trained Assassin
 
@@ -715,7 +715,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ### Surge of Insight
 
@@ -739,7 +739,7 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](class/shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -780,6 +780,22 @@ Additionally, your Defensive Roll ability now allows you to shift up to 5 square
 **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
 
 ### Into the Shadows
+
+*You sweep your foe off their feet and plunge them into absolute darkness.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+|----------------------------------|------------------------------:|
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+
+**Power Roll + Agility:**
+
+- **≤11:** 8 + A corruption damage
+- **12-16:** 13 + A corruption damage
+- **17+:** 17 + A corruption damage
+
+### Into the [Shadows](scc:mcdm.heroes.v1/class/shadow)
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
@@ -955,7 +971,7 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ### 8th-Level College Feature
 
-Your shadow college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](class/shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -1029,6 +1045,16 @@ You have damage immunity against area abilities and effects equal to your Agilit
 - **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
 
 ### Speed of Shadows
+
+*You make multiple strikes against a foe before they even notice they're dead.*
+
+| **Magic**   | **Main action** |
+|-------------|----------------:|
+| **📏 Self** |     **🎯 Self** |
+
+**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.
+
+### Speed of [Shadows](scc:mcdm.heroes.v1/class/shadow)
 
 *You make multiple strikes against a foe before they even notice they're dead.*
 
@@ -1182,7 +1208,7 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### Improved Umbral Form
 
-You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](class/shadow.md) creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
 While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
 

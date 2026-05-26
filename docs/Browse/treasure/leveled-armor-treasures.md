@@ -97,7 +97,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a time raider who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](ancestry/time-raider.md) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 

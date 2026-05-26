@@ -30,4 +30,4 @@ type: ability
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).

@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See [Chapter 7: Perks](#page-241-0).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).

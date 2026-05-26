@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
+    - 'You gain the Read Person skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -11,9 +11,9 @@ weak_potency: Presence − 2
 
 # Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the troubadour. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](class/troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a troubadour, you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](class/troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -39,13 +39,13 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ###### Troubadour Advancement Table
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
+| 1st   | [Troubadour](class/troubadour.md) Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, [Troubadour](class/troubadour.md) Abilities | Signature, 3, 5           | -                   |
 | 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
@@ -63,7 +63,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ### 1st-Level Class Act Features
 
-Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour](class/troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
@@ -105,7 +105,7 @@ You have the following performance ability, which is usable with your Routines f
 
 ### Class Act Triggered Action
 
-Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
@@ -155,7 +155,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
-> **The Auteur Troubadour**
+> **The Auteur [Troubadour](class/troubadour.md)**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
 >
@@ -188,7 +188,7 @@ You have the following ability.
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Swashbuckler.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Swashbuckler.)
 
 ### Power Chord
 
@@ -251,13 +251,13 @@ You have the following ability.
 
 ### Troubadour Class Act
 
-Panache, melody, and depiction. Some troubadours have it all, but everyone starts somewhere. Your troubadour class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a troubadour class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](class/troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](class/troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](class/troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
 - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
-Your troubadour class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour](class/troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 ### Virtuoso Performances
 
@@ -622,7 +622,7 @@ You can give a rousing speech, invoke your inspirations, or lift your fellows' s
 
 Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
+- If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
 - If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
 
@@ -630,7 +630,7 @@ Before you roll to gain drama at the start of your turn, you can make your appea
 
 As a respite activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional hero tokens (Chapter 1: The Basics). These hero tokens disappear at the end of the encounter.
+The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional hero tokens (Chapter 1: [The Basics](chapter/the-basics.md)). These hero tokens disappear at the end of the encounter.
 
 ### Invocation
 
@@ -644,7 +644,7 @@ The Director can award the heroes 1 hero token to make you infamous among the gr
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: Perks.
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -724,7 +724,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 ### 3rd-Level Class Act Feature
 
-Your troubadour class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour](class/troubadour.md) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
@@ -755,7 +755,7 @@ You have the following performance abilities, which are usable with your Routine
 > |------------------------------|--------------------------------------:|
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).
+> **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](chapter/tests.md)).
 
 ## 3rd-Level Abilities
 
@@ -783,7 +783,7 @@ You have the following performance abilities, which are usable with your Routine
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](chapter/tests.md)).
 
 ### Infernal Gavotte
 
@@ -879,7 +879,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ### Zeitgeist
 
@@ -889,7 +889,7 @@ You always have your ear to the ground, your finger on the pulse. When you start
 
 ### 5th-Level Class Act Feature
 
-Your troubadour class act grants your choice of one of two features.
+Your [troubadour](class/troubadour.md) class act grants your choice of one of two features.
 
 ### Auteur Features
 
@@ -1152,7 +1152,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Class Act Feature
 
-Your troubadour class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour](class/troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 

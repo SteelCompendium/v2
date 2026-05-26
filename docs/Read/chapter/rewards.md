@@ -14,17 +14,17 @@ Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As 
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](#page-67-0)).
+At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: [Background](chapter/background.md)).
 
 ### Increasing Renown
 
-Some perks (see [Chapter 7](#page-241-0)), downtime projects ([Chapter 12](#page-307-2)), and titles and treasures (part of [Chapter 13: Rewards](#page-327-1)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization—or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
+Some perks (see Chapter 7), downtime projects (Chapter 12: [Downtime Projects](chapter/downtime-projects.md)), and titles and treasures (part of Chapter 13: [Rewards](chapter/rewards.md)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization—or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
 
 In most campaigns, the Director sets the characters up to earn 1 Renown per level, but some campaigns will feature heroes who are more or less famous (or infamous) than that.
 
 ### Influence Negotiation
 
-Renown changes the way NPCs respond to heroes during negotiations (see [Chapter 11](#page-297-0)), whether that renown takes the form of fame or infamy.
+Renown changes the way NPCs respond to heroes during negotiations (see Chapter 11: [Negotiation](chapter/negotiation.md)), whether that renown takes the form of fame or infamy.
 
 ### Attract Followers
 
@@ -53,7 +53,7 @@ Treasures such as magic swords, psionic crowns, and even healing potions are rar
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](#page-67-0)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
+Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see Chapter 4: [Background](chapter/background.md)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 

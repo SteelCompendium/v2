@@ -14,6 +14,7 @@
 - [Kinetic Strike](kinetic-strike.md)
 - [Magnetic Strike](magnetic-strike.md)
 - [Null Field](null-field.md)
+- [[Null](scc:mcdm.heroes.v1/class/null) Field](null-scc-mcdm-heroes-v1-class-null-field.md)
 - [Phase Inversion Strike](phase-inversion-strike.md)
 - [Phase Strike](phase-strike.md)
 - [Pressure Points](pressure-points.md)

@@ -10,7 +10,7 @@ type: chapter
 
 In film and TV, the director collaborates with writers, actors, designers, and the many other people working together on a collective story, then makes that story shine. That's also what the Director in *Draw Steel* does! If you plan on being the Director of a *Draw Steel* session or campaign, this chapter of the book focuses on your role in the game.
 
-Before we dive into helpful advice for Directors, we want to make you aware of the *Running the Game* [series of videos on Matthew](https://www.youtube.com/watch?v=e-YZvLUXcR8&list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_)  [Colville's YouTube channel](https://www.youtube.com/watch?v=e-YZvLUXcR8&list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_). Hey, we know that guy! He's the Design Director of this game! Most of these videos reference the world's oldest roleplaying game, but their advice is universal to folks running tabletop RPGs everywhere.
+Before we dive into helpful advice for Directors, we want to make you aware of the *Running the Game* series of videos on Matthew  Colville's YouTube channel. Hey, we know that guy! He's the Design Director of this game! Most of these videos reference the world's oldest roleplaying game, but their advice is universal to folks running tabletop RPGs everywhere.
 
 ### What's a Campaign?
 
@@ -77,7 +77,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see Orden and the Timescape in Chapter 1: [The Basics](chapter/the-basics.md)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 > **Personal Problems at the Table**
 >
@@ -133,7 +133,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all [memonek](ancestry/memonek.md) and [time raiders](ancestry/time-raider.md) who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3: [Ancestries](chapter/ancestries.md)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4: [Background](chapter/background.md)) so that no one can take Aristocrat or Politician.
 
 Put any restrictions your campaign has into your pitch!
 
@@ -157,7 +157,7 @@ If your players participate in other games of *Draw Steel*, it's a good idea to 
 
 ### House Rules
 
-You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a respite last 8 hours, or perhaps a respite should take a week. You might prefer if critical hits are super rare and happen only on a natural 20. You could allow heroes to spend hero tokens to reduce the amount of Malice you have (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). You might decide that all heroes have a free +1 bonus to any characteristic of their choice at 1st level.
+You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a respite last 8 hours, or perhaps a respite should take a week. You might prefer if critical hits are super rare and happen only on a natural 20. You could allow heroes to spend hero tokens to reduce the amount of Malice you have (see *Draw Steel: Monsters*). You might decide that all heroes have a free +1 bonus to any characteristic of their choice at 1st level.
 
 The rules you create or modify to suit your group are called house rules. You can have as many house rules as you like, but you should discuss these rule changes with the players before implementing them. If you decide that critical hits only occur on a natural 20, the worst time for a player to find that out is right after they roll a natural 19 in combat.
 
@@ -212,7 +212,7 @@ If you're planning on running a long-arc campaign, you might want to make sure t
 
 ##### Adventure of the Week
 
-An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of time raiders before they disappear across the timescape with their kidnapped victims.
+An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of [time raiders](ancestry/time-raider.md) before they disappear across the timescape with their kidnapped victims.
 
 Adventure-of-the-week campaigns can give the heroes plenty of downtime between adventures, since the quests aren't connected. However, they often lack the personal drama that comes from a campaign with recurring threats and villains.
 
@@ -232,7 +232,7 @@ Multiple-front campaigns make the world feel authentic and alive, but they requi
 
 As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
 
-Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](#page-17-3) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+Your outline should include the plans of the villains in your campaign. Review Echelons of Play in Chapter 1: [The Basics](chapter/the-basics.md) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
 
 - **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
@@ -249,16 +249,16 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the talent, has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth elementalist. Sorin wanted to abduct Linn's talent mentor, a dwarf who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](class/talent.md), has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](class/elementalist.md). Sorin wanted to abduct Linn's [talent](class/talent.md) mentor, a [dwarf](ancestry/dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
-Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the talent's story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
+Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent's](class/talent.md) story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
 - **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
-- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](ancestry/high-elf.md) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](class/talent.md) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
-At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the [elementalist](class/elementalist.md) is likely to return and try to free Bruulv once again!
 
 ### Creating Adventures
 
@@ -303,7 +303,7 @@ Of course, some villains want to cause violence and mayhem just for the sake of 
 
 > **Stealing is Encouraged**
 >
-> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
+> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a [human](ancestry/human.md) man in your favorite novel to make an NPC? Make the NPC a [dwarf](ancestry/dwarf.md) woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
 
 #### Adventure Goal
 
@@ -321,7 +321,7 @@ Every adventure should have an inciting incident that either sees the heroes dis
 
 > **Complications and Adventures**
 >
-> If the heroes in your campaign have taken complications (see [Complications and Campaigns](#page-391-0) above), it's a good idea to have at least one complication make trouble for a hero during an adventure, or play some other part in the adventure's story. Rotate the hero whose complication is highlighted each time, so that every player gets a chance to be at the center of the story.
+> If the heroes in your campaign have taken complications (see Complications and Campaigns above), it's a good idea to have at least one complication make trouble for a hero during an adventure, or play some other part in the adventure's story. Rotate the hero whose complication is highlighted each time, so that every player gets a chance to be at the center of the story.
 
 #### Creating NPCs
 
@@ -341,7 +341,7 @@ What's notable about the NPC's appearance? Do they have distinguishing features 
 
 ##### Voice
 
-When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This dwarf has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
+When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This [dwarf](ancestry/dwarf.md) has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
 
 ##### Behavior
 
@@ -392,7 +392,7 @@ When you create a specific site, ask the following questions in addition to the 
 
 #### Plan Scenes
 
-Once you have your villain, your adventure goal, your NPCs, and your general locations and specific sites, it's time to start stitching those elements together to create scenes. Your adventure will have combat encounters, montage tests, negotiations, respites, and scenes of exploration and social interaction. [Creating Scenes](#page-395-0) below has more information about detailing the scenes in your adventures, but planning out those scenes is the first step.
+Once you have your villain, your adventure goal, your NPCs, and your general locations and specific sites, it's time to start stitching those elements together to create scenes. Your adventure will have combat encounters, montage tests, negotiations, respites, and scenes of exploration and social interaction. Creating Scenes below has more information about detailing the scenes in your adventures, but planning out those scenes is the first step.
 
 When you're thinking about scenes, write down which sites and NPCs are tied to those scenes, then try to arrange the scenes in an order that makes sense for the story. It might be that after your inciting incident, certain scenes can be tackled in any order. For example, if the adventure goal is to recover three pieces of an ancient staff before the villain does, the heroes might be able to explore the three sites where the pieces are hidden in any order they choose. Their choice might even have consequences. It might be that the first site they choose has none of the villain's lackeys investigating it yet, the second site features a showdown with those lackeys, and the third site has already been cleaned out by the villain by the time the characters get there! Other scenes might have to happen more linearly. An investigation typically includes a trail of clues that takes the heroes from one scene to the next, but the players can surprise you.
 
@@ -424,7 +424,7 @@ Director sheets are a resource you can use to prepare and track the progress of 
 
 #### Creating and Running Combat
 
-There's a lot to be said about building and preparing great combat encounters for *Draw Steel*. So much so that we had to put that advice in another book—the one with all the monsters and other stuff you need to build combat encounters. Go check it out in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
+There's a lot to be said about building and preparing great combat encounters for *Draw Steel*. So much so that we had to put that advice in another book—the one with all the monsters and other stuff you need to build combat encounters. Go check it out in *Draw Steel: Monsters*.
 
 One tip that we *will* note here (and it's also in the other book because it bears repeating) is that combat encounters should hold narrative weight. *Draw Steel* isn't a game of attrition, where a few small, trivial combat encounters are meant to weaken the heroes, winnowing down their resources to make the final, important, epic clash with the villain more of a struggle. A quick combat encounter with two bumbling guards at a gate is likely over in a matter of less than a round and shouldn't award the heroes a Victory. These can be fun scenes to roleplay, but they aren't going to make full use of the characters' features and should occur infrequently. Most of the time when combat takes place, the stakes for the heroes and the story should be high!
 
@@ -477,7 +477,7 @@ Allow the heroes' investigation to drive the action. In an exploration scene, yo
 
 The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
 
-[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
+Chapter 9: [Tests](chapter/tests.md) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
 
 Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
 
@@ -513,7 +513,7 @@ If a test is a **success**, the hero does what they set out to do! You can even 
 
 If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
-Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
+Sample consequences and rewards for tests are detailed in Chapter 9: [Tests](chapter/tests.md).
 
 #### Creating and Running Hazards
 
@@ -529,7 +529,7 @@ The hazards you'll create and use in your adventures come in one of three types:
 
 > **Terrain as Hazards**
 >
-> Some of the best hazards are the terrain options found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. These dynamic options work great in combat encounters, but you can also use many of them as hazards the heroes must cross (such as acid pools and lava) or contend with (such as the arcane object known as the black obelisk) as they travel from one destination to another. You can use these hazards as is, or rework them to match your story. For example, you might convert an acid pool to a pool of toxic sludge by having it deal poison damage instead of acid damage.
+> Some of the best hazards are the terrain options found in *Draw Steel: Monsters*. These dynamic options work great in combat encounters, but you can also use many of them as hazards the heroes must cross (such as acid pools and lava) or contend with (such as the arcane object known as the black obelisk) as they travel from one destination to another. You can use these hazards as is, or rework them to match your story. For example, you might convert an acid pool to a pool of toxic sludge by having it deal poison damage instead of acid damage.
 
 ##### Activated Hazard Triggers
 
@@ -598,7 +598,7 @@ Refer to the details you wrote down for your NPCs while you roleplay them. Keep 
 
 ### Creating and Running Negotiations
 
-When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+When you're preparing for a negotiation (see Chapter 11: [Negotiation](chapter/negotiation.md)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
 When assigning negotiation stats, keep the following guidelines in mind:
 
@@ -627,7 +627,7 @@ Finally, if the heroes really offend the NPC and end the negotiation with their 
 
 #### Hero Negotiation Stats
 
-Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the troubadour's Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the [troubadour's](class/troubadour.md) Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
 
 #### Heroes Must Initiate
 
@@ -812,7 +812,7 @@ The virtuoso archetype can be used for any other local celebrity, such as a mast
 The virtuoso has the following possible motivations:
 
 - **Freedom:** I follow my muse, my only master. Who would dare put handcuffs on art?
-- **Legacy:** Castles will crumble. Empires will fall. But if only I can produce a work worthy of my talents, my name will live forever.
+- **Legacy:** Castles will crumble. Empires will fall. But if only I can produce a work worthy of my [talents](class/talent.md), my name will live forever.
 - **Peace:** In war, bronze statues are melted down for armor. Money is wasted on ballistae instead of ballads. War is a crime against the god of art.
 - **Revelry:** Yes, tonight let us celebrate! Inspiration looks down kindly on those who drink life to the dregs.
 
@@ -991,7 +991,7 @@ You can use montage tests to play out chases, escapes, investigations, wildernes
 
 When you prepare a montage test, you'll want to write down some key information.
 
-First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](#page-263-0)).
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see Test Outcomes in Chapter 9: [Tests](chapter/tests.md)).
 
 You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
 
@@ -999,7 +999,7 @@ You'll then need to create the three outcomes of the montage: total success, par
 
 When you run a montage test, start by setting the scene for the players and listing the various challenges the heroes must overcome. Allow the players to strategize about the order in which they'll tackle these challenges and make tests.
 
-When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](#page-263-0)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
+When you adjudicate individual tests as part of a montage test, do so as you would any other test (see Adjudicating Tests in Chapter 9: [Tests](chapter/tests.md)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
 
 After each test, narrate the hero's failure or success in such a way that the other players can understand if and how the challenge has been overcome. Your description might even spark some new ideas for what the characters can do next.
 
@@ -1084,7 +1084,7 @@ The following challenges can be part of the heroes' infiltration:
 - **Lie Low:** Once while the alarm level is greater than 0, the heroes can find a place to hide for a bit, reducing the alarm level by 1. This activity doesn't require a test or generate a success or failure.
 - **Make a Diversion:** After causing a ruckus, the characters quickly go the other way. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Alchemy, Perform, Sabotage.
 - **Pose as Guards:** Using stolen or specially prepared uniforms can let the characters move freely through the palace. The test for this challenge gains an edge if the characters prepared disguises in advance (including succeeding on the Use False Identities challenge) or defeated guards during their infiltration. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Disguise, Lie, Search.
-- **Skulk in the Shadows:** Keeping out of sight is the simplest way for characters to move through the palace. *Suggested Characteristic:* Agility. *Suggested Skills:* Hide, Sneak. *Special:* The heroes can attempt this challenge twice during the montage test.
+- **Skulk in the [Shadows](class/shadow.md):** Keeping out of sight is the simplest way for characters to move through the palace. *Suggested Characteristic:* Agility. *Suggested Skills:* Hide, Sneak. *Special:* The heroes can attempt this challenge twice during the montage test.
 
 ###### Optional Twist
 
@@ -1199,7 +1199,7 @@ One of the following outcomes ends the montage test:
 
 ### Running Respites
 
-When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1:](#page-17-3)  [The Basics](#page-17-3)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+When the heroes decide to take a respite (see Respite in Chapter 1: [The Basics](chapter/the-basics.md)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
 
 #### Safe Place
 
@@ -1209,13 +1209,13 @@ Heroes can't take a respite unless they're in a safe place. This typically means
 
 #### Too Many Respites?
 
-It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](#page-307-2)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects (Chapter 12: [Downtime Projects](chapter/downtime-projects.md)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
 
 If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
 
 #### Project Events
 
-Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](#page-307-2)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in Chapter 12: [Downtime Projects](chapter/downtime-projects.md)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
 
 When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
 
@@ -1243,7 +1243,7 @@ That said, you can make it easier to craft treasures and other items by changing
 
 ### Granting Rewards
 
-You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](#page-327-1)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
+You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see Chapter 13: [Rewards](chapter/rewards.md)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
 
 #### Granting Treasures
 
@@ -1257,7 +1257,7 @@ Once you have treasures in mind, you can use the following progression as a base
 
 You don't have to award the full complement of treasure to heroes especially those using their downtime to craft things! You can spread out the pace at which characters earn treasures by having them find the project sources and item prerequisites for crafting an item instead of finding an item outright.
 
-When you're planning an adventure, put the treasures and crafting materials the heroes can earn into your adventure outline (see [Creating Adventures](#page-392-0) earlier in this chapter). Enemies who have access to treasures that can help them against the heroes don't keep those treasures hidden away. They use them in battle, after which victorious characters can claim them!
+When you're planning an adventure, put the treasures and crafting materials the heroes can earn into your adventure outline (see Creating Adventures earlier in this chapter). Enemies who have access to treasures that can help them against the heroes don't keep those treasures hidden away. They use them in battle, after which victorious characters can claim them!
 
 ##### Treasures Above 1st Level
 
@@ -1272,7 +1272,7 @@ The players can choose their hero's treasures, and can replace any leveled treas
 
 #### Making New Treasures
 
-You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](#page-307-2).
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in Chapter 12: [Downtime Projects](chapter/downtime-projects.md).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 
@@ -1314,7 +1314,7 @@ Use the following guidelines for awarding Victories to the heroes, increasing th
 
 ##### Combat Encounters
 
-A successful combat encounter in which the party's objectives are achieved earns each hero 1 Victory. Particularly difficult encounters are worth 2 Victories when completed successfully. *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* has more information about Victories and combat difficulty.
+A successful combat encounter in which the party's objectives are achieved earns each hero 1 Victory. Particularly difficult encounters are worth 2 Victories when completed successfully. *Draw Steel: Monsters* has more information about Victories and combat difficulty.
 
 ##### Montage Tests
 
@@ -1358,7 +1358,7 @@ Talk over and decide how you're going to settle rules disputes. We recommend tha
 
 ##### Safety Tools
 
-Talk about the safety tools you plan to use at the table. For more information about safety tools and a safety tool checklist you can use for your games, check out the MCDM Tabletop Safety Toolkit at *[mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*.
+Talk about the safety tools you plan to use at the table. For more information about safety tools and a safety tool checklist you can use for your games, check out the MCDM Tabletop Safety Toolkit at *mcdm.gg/SafetyToolkit*.
 
 ##### Campaign Pitch
 
@@ -1385,7 +1385,7 @@ When all else is done, it's a great idea to play an opening scene during your fi
 Your opening encounter should introduce or hint at the villain the heroes face during their first adventure. You can use any of the following encounter ideas to get you started:
 
 - While traveling to the settlement where their first adventure takes place, the heroes and their caravan or ship are attacked by brigands.
-- The heroes enter a new town to find war dogs (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) ready to publicly execute a noble who refused to bend the knee to the brutal tyrant Ajax.
+- The heroes enter a new town to find war dogs (see *Draw Steel: Monsters*) ready to publicly execute a noble who refused to bend the knee to the brutal tyrant Ajax.
 - The heroes are at a tavern enjoying a night off when a band of gnoll raiders attacks and lights the place on fire.
 - The heroes are camped in a swamp when undead emerge from the muck and surround them.
 - While watching a theatrical performance, an actor (perhaps by accident) performs a ritual that opens a portal to the Abyssal Wasteland and summons a horde of demons.

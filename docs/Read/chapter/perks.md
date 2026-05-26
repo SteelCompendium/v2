@@ -14,7 +14,7 @@ You are granted one perk from your career and can choose other perks from your c
 
 ### Perk Types
 
-Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see [Skills](#page-268-0) in Chapter 9: Tests), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
+Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: [Tests](chapter/tests.md)), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
 
 **Crafting perks** improve your talent for crafting materials, and let you become an expert in the things you create.
 

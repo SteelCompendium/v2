@@ -4,7 +4,7 @@ class: "null"
 cost: 11 Discipline
 distance: Melee 1
 effect: While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
-flavor: You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.
+flavor: You focus your [null](scc:mcdm.heroes.v1/class/null) field into a pressure point strike that prevents your foe from channeling sorcery.
 keywords:
     - Melee
     - Psionic
@@ -23,7 +23,7 @@ type: ability
 
 # Arcane Purge
 
-*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null](class/null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 |------------------------------------|--------------------:|

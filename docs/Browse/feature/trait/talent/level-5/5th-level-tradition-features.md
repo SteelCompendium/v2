@@ -8,7 +8,7 @@ type: trait
 
 # 5th-Level Tradition Features
 
-Your talent tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](class/talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 

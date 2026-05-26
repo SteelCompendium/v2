@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Elementalist
 scc: mcdm.heroes.v1/class/elementalist
 skills:
-    - 'You gain the Magic skill (see Skills in Chapter 9: Tests). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
+    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -13,7 +13,7 @@ weak_potency: Reason − 2
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
+**As an [elementalist](class/elementalist.md), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these [talents](class/talent.md) you excel at.**
 
 > "Understanding the mystery, requires ignorance of the mystery."
 >
@@ -40,13 +40,13 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: Tests). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ###### Elementalist Advancement Table
 
 | Level  | Features                                                                                                                                                                                            | Abilities                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| 1st    | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
+| 1st    | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, [Elementalist](class/elementalist.md) Ward, [Elementalist](class/elementalist.md) Abilities | Two signature, 3, 5                 |
 | 2nd    | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
 | 3rd    | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
 | 4th    | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
@@ -116,7 +116,7 @@ You create an invisible elemental ward that protects you. Choose one of the foll
 
 ### Enchantment
 
-You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  Enchantment of Destruction.)
+You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see [Elementalist](class/elementalist.md) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  Enchantment of Destruction.)
 
 ### Enchantment of Battle
 
@@ -237,7 +237,7 @@ You have the following ability.
 > 
 > **Effect:** Choose one of the following effects:
 > 
-> - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
+> - You use the Knockback maneuver (see Chapter 10: [Combat](chapter/combat.md)), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 > - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
 
@@ -510,7 +510,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 **Effect:** Choose one of the following effects:
 
-- You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
+- You use the Knockback maneuver (see Chapter 10: [Combat](chapter/combat.md)), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
 - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
 
@@ -732,7 +732,7 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 ### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: Perks.
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
 
 ### There Is No Space Between
 
@@ -1007,7 +1007,7 @@ At the end of each of your turns, you can push each enemy in the area up to a nu
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: Tests.
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
 
 ### Veiling Bed
 
@@ -1335,7 +1335,7 @@ Each enemy who ends their turn within 3 squares of the tree is restrained until 
 
 **Power Roll + Reason:**
 
-- **≤11:** 7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)
+- **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)
 - **12-16:** 10 fire damage; the Director loses 3 Malice
 - **17+:** 15 fire damage; the Director loses 4 Malice
 
@@ -1471,7 +1471,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your Return to Formlessness ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.
+Additionally, your Return to Formlessness ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](chapter/rewards.md)), you gain breath equal to its echelon.
 
 ### Master of Green
 

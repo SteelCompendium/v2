@@ -1,6 +1,6 @@
 ---
 benefit: You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
-drawback: 'You don''t have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0)), though you can speak Caelian.'
+drawback: 'You don''t have a culture (see Culture in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)), though you can speak Caelian.'
 name: Raised by Beasts
 scc: mcdm.heroes.v1/complication/raised-by-beasts
 type: complication
@@ -12,4 +12,4 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
-**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0)), though you can speak Caelian.
+**Drawback:** You don't have a culture (see Culture in Chapter 4: [Background](chapter/background.md)), though you can speak Caelian.

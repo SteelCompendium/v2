@@ -59,7 +59,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a devil. You avoid the damage and any accompanying effects, and the devil redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The devil then disappears.
+**Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a [devil](ancestry/devil.md). You avoid the damage and any accompanying effects, and the [devil](ancestry/devil.md) redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The [devil](ancestry/devil.md) then disappears.
 
 ##### Personal Effigy
 
