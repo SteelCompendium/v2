@@ -1,7 +1,7 @@
 ---
 effect: 'You know the Khelt language. Additionally, choose one of the following benefits:'
 name: Fey Friend
-prerequisite: You eat and drink with an elf monarch or archfey.
+prerequisite: You eat and drink with an elf [monarch](scc:mcdm.heroes.v1/title/monarch) or archfey.
 scc: mcdm.heroes.v1/title/fey-friend
 type: title
 ---
@@ -10,7 +10,7 @@ type: title
 
 *Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
 
-**Prerequisite:** You eat and drink with an elf monarch or archfey.
+**Prerequisite:** You eat and drink with an elf [monarch](title/monarch.md) or archfey.
 
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:
 

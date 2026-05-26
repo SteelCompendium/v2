@@ -8,4 +8,4 @@ type: trait
 
 # Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Swashbuckler.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Swashbuckler](kit/swashbuckler.md).)

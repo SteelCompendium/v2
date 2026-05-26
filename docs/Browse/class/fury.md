@@ -11,7 +11,7 @@ weak_potency: Might − 2
 
 # Fury
 
-You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
+You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the [panther](kit/panther.md), the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
 **As a [fury](class/fury.md), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
@@ -110,9 +110,9 @@ You have the following ability.
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 > 
-> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in animal form or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in animal form, you treat your Renown as 2 higher than usual.
+> **Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](complication/animal-form.md) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](complication/animal-form.md), you treat your Renown as 2 higher than usual.
 > 
-> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
+> **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](complication/animal-form.md), into your hybrid form, or back into your true form.
 
 ### Equipment
 
@@ -120,7 +120,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Vuken](kit/vuken.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 
@@ -135,7 +135,7 @@ As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Raden Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Raden](kit/raden.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Raden Growing Ferocity Table
 
@@ -150,7 +150,7 @@ As your ferocity grows, you gain benefits as noted on the Raden Growing Ferocity
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Corven](kit/corven.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
@@ -165,7 +165,7 @@ As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocit
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the Boren Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Boren](kit/boren.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
@@ -200,7 +200,7 @@ While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed
 
 ### Kit Bonuses
 
-These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: [Kits](chapter/kits.md) for information on kit bonuses.
+These bonuses apply in your true form, your [animal form](complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](chapter/kits.md) for information on kit bonuses.
 
 ### Kit Bonuses
 
@@ -271,9 +271,9 @@ The stormwight primordial aspect lets you channel your ferocity into the form of
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in animal form or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in animal form, you treat your Renown as 2 higher than usual.
+**Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](complication/animal-form.md) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](complication/animal-form.md), you treat your Renown as 2 higher than usual.
 
-**Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
+**Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](complication/animal-form.md), into your hybrid form, or back into your true form.
 
 ## 1st-Level Features
 
@@ -312,7 +312,7 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 > 
 > **Trigger:** You lose Stamina and are not dying.
 > 
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](complication/animal-form.md) or hybrid form.
 > 
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -372,7 +372,7 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Panther.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Panther](kit/panther.md).)
 
 ### Mighty Leaps
 
@@ -460,7 +460,7 @@ You gain an edge on tests made using the Track skill.
 
 **Trigger:** You lose Stamina and are not dying.
 
-**Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
+**Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](complication/animal-form.md) or hybrid form.
 
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
@@ -776,7 +776,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](complication/animal-form.md) (see Stormwight Kits).
 
 ### See Through Their Tricks
 

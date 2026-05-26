@@ -697,13 +697,13 @@ At the start of a combat encounter, you gain a number of surges equal to your Vi
 
 ### Disciple of the Green
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](complication/animal-form.md), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
-You choose a specific animal and appearance while in animal form. For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an animal form, your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](complication/animal-form.md) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
 ###### Green Animal Forms Table
 
@@ -1030,7 +1030,7 @@ Your elemental specialization grants you a feature, as shown on the 5th-Level El
 
 ### Hide of Tenfold Shields
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.
+Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](complication/animal-form.md).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
@@ -1240,9 +1240,9 @@ Additionally, your Mantle of Essence improves. While in the area of the aura, en
 
 ### Chimeric Manifestation
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](complication/animal-form.md) as a free maneuver the first time you use your Disciple of the Green feature on your turn.
 
-Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your Disciple of the Green feature, you can select an additional [animal form](complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 

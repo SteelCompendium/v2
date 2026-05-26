@@ -558,7 +558,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Trinket:** A treasure that can be used at will without any reduction in its power.
 
-**[Troubadour](class/troubadour.md):** A class for a hero who is a storytelling swashbuckler.
+**[Troubadour](class/troubadour.md):** A class for a hero who is a storytelling [swashbuckler](kit/swashbuckler.md).
 
 **Turn:** A creature's turn in combat consists of a main action, a maneuver, and a move action.
 

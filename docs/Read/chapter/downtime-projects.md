@@ -222,7 +222,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the Martial Artist or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](class/elementalist.md) and [nulls](class/null.md), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](kit/martial-artist.md) or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](class/elementalist.md) and [nulls](class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Armor Enhancement
 
@@ -492,7 +492,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the Martial Artist and Pugilist kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](class/elementalist.md) and [nulls](class/null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](kit/martial-artist.md) and [Pugilist](kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](class/elementalist.md) and [nulls](class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 

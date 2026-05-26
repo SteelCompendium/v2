@@ -1,6 +1,6 @@
 ---
 name: Performer
-perk: One interpersonal perk (*Quick Build:* Harmonizer.)
+perk: One interpersonal perk (*Quick Build:* [Harmonizer](scc:mcdm.heroes.v1/perk/harmonizer).)
 renown: "+2"
 scc: mcdm.heroes.v1/career/performer
 skills:
@@ -23,7 +23,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One interpersonal perk (*Quick Build:* Harmonizer.)
+**Perk:** One interpersonal perk (*Quick Build:* [Harmonizer](perk/harmonizer.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

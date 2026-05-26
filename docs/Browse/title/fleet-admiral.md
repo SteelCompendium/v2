@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Fleet Admiral
-prerequisite: You have the Corsair title, and you lead a fleet of at least three ships.
+prerequisite: You have the [Corsair](scc:mcdm.heroes.v1/title/corsair) title, and you lead a fleet of at least three ships.
 scc: mcdm.heroes.v1/title/fleet-admiral
 type: title
 ---
@@ -10,12 +10,12 @@ type: title
 
 *All hail the Pirate Queen!*
 
-**Prerequisite:** You have the Corsair title, and you lead a fleet of at least three ships.
+**Prerequisite:** You have the [Corsair](title/corsair.md) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:
 
 - *First Mate:* You have a pirate retainer, such as a **[human](ancestry/human.md) warrior**, chosen by the Director from *Draw Steel: Monsters*. This retainer's level increases to your level.
-- *Swashbuckler:* You can automatically climb at full speed while moving
+- *[Swashbuckler](kit/swashbuckler.md):* You can automatically climb at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
   - *Calm:* Wind-powered vessels and technology cease working

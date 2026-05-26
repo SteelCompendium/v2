@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Corsair
-prerequisite: You have the Ship Captain title, and you sink or capture a ship of equal or greater size than your own.
+prerequisite: You have the [Ship Captain](scc:mcdm.heroes.v1/title/ship-captain) title, and you sink or capture a ship of equal or greater size than your own.
 scc: mcdm.heroes.v1/title/corsair
 type: title
 ---
@@ -10,7 +10,7 @@ type: title
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the Ship Captain title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](title/ship-captain.md) title, and you sink or capture a ship of equal or greater size than your own.
 
 **Effect:** Choose one of the following benefits:
 

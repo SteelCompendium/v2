@@ -11,7 +11,7 @@ type: kit
 
 # Martial Artist
 
-If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [Martial Artist](kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
 
 ##### Equipment
 

@@ -1,7 +1,7 @@
 ---
 language: One language
 name: Gladiator
-perk: One exploration perk (*Quick Build:* Friend Catapult.)
+perk: One exploration perk (*Quick Build:* [Friend Catapult](scc:mcdm.heroes.v1/perk/friend-catapult).)
 renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
@@ -14,7 +14,7 @@ type: career
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
 - What led you to this life of violent entertainment?
-- What was your gladiator name and persona?
+- What was your [gladiator](career/gladiator.md) name and persona?
 - Who was your biggest rival?
 - What happened during your most famous match?
 
@@ -26,7 +26,7 @@ You gain the following career benefits:
 
 **Renown:** +2
 
-**Perk:** One exploration perk (*Quick Build:* Friend Catapult.)
+**Perk:** One exploration perk (*Quick Build:* [Friend Catapult](perk/friend-catapult.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

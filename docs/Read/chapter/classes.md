@@ -144,7 +144,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the Cloak and Dagger kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See Chapter 6: [Kits](chapter/kits.md).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](kit/cloak-and-dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See Chapter 6: [Kits](chapter/kits.md).)
 
 ##### Self
 

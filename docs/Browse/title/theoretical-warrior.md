@@ -1,7 +1,7 @@
 ---
 effect: Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 name: Theoretical Warrior
-prerequisite: You have the Master Librarian title, and you complete a Learn From a Master project with a project goal of 1,000.
+prerequisite: You have the [Master Librarian](scc:mcdm.heroes.v1/title/master-librarian) title, and you complete a Learn From a Master project with a project goal of 1,000.
 scc: mcdm.heroes.v1/title/theoretical-warrior
 type: title
 ---
@@ -10,7 +10,7 @@ type: title
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
-**Prerequisite:** You have the Master Librarian title, and you complete a Learn From a Master project with a project goal of 1,000.
+**Prerequisite:** You have the [Master Librarian](title/master-librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 

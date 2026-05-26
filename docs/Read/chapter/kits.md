@@ -8,7 +8,7 @@ type: chapter
 
 # Kits
 
-The knight in shining armor. The warrior priest. The sniper. [Censors](class/censor.md), [furies](class/fury.md), [shadows](class/shadow.md), [tacticians](class/tactician.md), and [troubadours](class/troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+The knight in [shining armor](kit/shining-armor.md). The [warrior priest](kit/warrior-priest.md). The [sniper](kit/sniper.md). [Censors](class/censor.md), [furies](class/fury.md), [shadows](class/shadow.md), [tacticians](class/tactician.md), and [troubadours](class/troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit
 
@@ -18,7 +18,7 @@ Your choice of kit is always flexible, and your hero is never locked into a spec
 
 Each kit's equipment entry details the armor and weapons the kit provides. It's important to know what equipment a kit uses, because that informs your hero's appearance and story. Equipment is part of what affects the math behind your kit's benefits, alongside the fighting techniques each kit provides. Equipment also determines the type of magic and psionic treasures your character can wield.
 
-The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the Guisarmier kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
+The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the [Guisarmier](kit/guisarmier.md) kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
 
 You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
 
@@ -90,7 +90,7 @@ Whip weapons include the standard whip, spiked chains, flails, and any similarly
 
 #### Kits and Treasures
 
-When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the Ranger or Shining Armor kits. However, you can't use it with the Cloak and Dagger or Stick and Robe kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the [Ranger](kit/ranger.md) or [Shining Armor](kit/shining-armor.md) kits. However, you can't use it with the [Cloak and Dagger](kit/cloak-and-dagger.md) or [Stick and Robe](kit/stick-and-robe.md) kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
 
 If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
 
@@ -118,7 +118,7 @@ Kits can grant you a bonus to damage with both melee and ranged weapon abilities
 
 Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
 
-For example, the Shining Armor kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The Sniper kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+For example, the [Shining Armor](kit/shining-armor.md) kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The [Sniper](kit/sniper.md) kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
 
 #### Distance Bonus
 
@@ -132,7 +132,7 @@ A kit that has a disengage bonus increases the number of squares you can shift w
 
 ### Kit Signature Ability
 
-Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the Guisarmier kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
+Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the [Guisarmier](kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
 
 For details on the ability format, see Abilities in Chapter 5: [Classes](chapter/classes.md).
 
@@ -161,24 +161,24 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 | Kit              | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
-| Arcane Archer    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
-| Battlemind       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| Cloak and Dagger | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Dual Wielder     | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| Guisarmier       | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| Martial Artist   | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| Mountain         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
-| Panther          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| Pugilist         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| Raider           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Ranger           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Arcane Archer](kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
+| [Battlemind](kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Cloak and Dagger](kit/cloak-and-dagger.md) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Dual Wielder](kit/dual-wielder.md)     | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Guisarmier](kit/guisarmier.md)       | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
+| [Martial Artist](kit/martial-artist.md)   | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Mountain](kit/mountain.md)         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
+| [Panther](kit/panther.md)          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
+| [Pugilist](kit/pugilist.md)         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Raider](kit/raider.md)           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| [Ranger](kit/ranger.md)           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | Rapid-Fire       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
-| Retiarius        | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
-| Shining Armor    | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| Sniper           | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
-| Spellsword       | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
-| Stick and Robe   | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-| Swashbuckler     | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
-| Sword and Board  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
-| Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
-| Whirlwind        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Retiarius](kit/retiarius.md)        | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
+| [Shining Armor](kit/shining-armor.md)    | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Sniper](kit/sniper.md)           | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
+| [Spellsword](kit/spellsword.md)       | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| [Stick and Robe](kit/stick-and-robe.md)   | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| [Swashbuckler](kit/swashbuckler.md)     | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Sword and Board](kit/sword-and-board.md)  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
+| [Warrior Priest](kit/warrior-priest.md)   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Whirlwind](kit/whirlwind.md)        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |

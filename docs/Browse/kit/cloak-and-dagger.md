@@ -13,7 +13,7 @@ type: kit
 
 # Cloak and Dagger
 
-Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](kit/cloak-and-dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
 ##### Equipment
 

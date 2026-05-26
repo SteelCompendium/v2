@@ -343,7 +343,7 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 | 8          | Duke, spymaster                                             |
 | 9          | Archmage, prince                                            |
 | 10         | Demon lord, monarch                                         |
-| 11         | Archdevil, archfey, demigod                                 |
+| 11         | Archdevil, archfey, [demigod](title/demigod.md)                                 |
 | 12         | Deity, titan                                                |
 
 ##### Influencing Tests

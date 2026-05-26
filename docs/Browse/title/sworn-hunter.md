@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Sworn Hunter
-prerequisite: You have the Marshal title, and you take down an entire criminal organization.
+prerequisite: You have the [Marshal](scc:mcdm.heroes.v1/title/marshal) title, and you take down an entire criminal organization.
 scc: mcdm.heroes.v1/title/sworn-hunter
 type: title
 ---
@@ -10,7 +10,7 @@ type: title
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
-**Prerequisite:** You have the Marshal title, and you take down an entire criminal organization.
+**Prerequisite:** You have the [Marshal](title/marshal.md) title, and you take down an entire criminal organization.
 
 **Effect:** Choose one of the following benefits:
 

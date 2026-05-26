@@ -1,7 +1,7 @@
 ---
 language: One language
 name: Sage
-perk: One lore perk (*Quick Build:* Expert Sage.)
+perk: One lore perk (*Quick Build:* [Expert Sage](scc:mcdm.heroes.v1/perk/expert-sage).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/sage
 skills:
@@ -26,7 +26,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One lore perk (*Quick Build:* Expert Sage.)
+**Perk:** One lore perk (*Quick Build:* [Expert Sage](perk/expert-sage.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

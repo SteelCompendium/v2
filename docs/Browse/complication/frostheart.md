@@ -8,7 +8,7 @@ type: complication
 
 # Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [presumed dead](title/presumed-dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
 

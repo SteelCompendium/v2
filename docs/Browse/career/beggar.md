@@ -1,7 +1,7 @@
 ---
 language: Two languages
 name: Beggar
-perk: One interpersonal perk (*Quick Build:* Spot the Tell.)
+perk: One interpersonal perk (*Quick Build:* [Spot the Tell](scc:mcdm.heroes.v1/perk/spot-the-tell).)
 scc: mcdm.heroes.v1/career/beggar
 skills:
     - The Rumors skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* Empathize, Endurance, Rumors.)
@@ -12,7 +12,7 @@ type: career
 
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
-- What unfortunate circumstances led you to become a beggar?
+- What unfortunate circumstances led you to become a [beggar](career/beggar.md)?
 - Where did you beg?
 - Who made sport out of bullying you?
 - Who showed you the most kindness?
@@ -23,7 +23,7 @@ You gain the following career benefits:
 
 **Languages:** Two languages
 
-**Perk:** One interpersonal perk (*Quick Build:* Spot the Tell.)
+**Perk:** One interpersonal perk (*Quick Build:* [Spot the Tell](perk/spot-the-tell.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

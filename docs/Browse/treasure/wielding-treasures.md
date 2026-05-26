@@ -12,7 +12,7 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 ##### Treasures and Kits
 
-To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the Warrior Priest kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
+To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](kit/warrior-priest.md) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit's](class/conduit.md) Prayer of Soldier's Skill.
 

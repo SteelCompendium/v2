@@ -6,4 +6,4 @@ type: treasure
 
 # Leveled Benefits
 
-Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. Leveled benefits are cumulative.
+Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](treasure/leveled-benefits.md) are cumulative.

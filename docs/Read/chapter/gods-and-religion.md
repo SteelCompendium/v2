@@ -12,7 +12,7 @@ Orden is a fantasy world in which the gods are objectively real. In spite of thi
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of demigod-like status, once mortals, who now serve their patron god in eternity. Many [humans](ancestry/human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](title/demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](ancestry/human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
 Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 

@@ -9,7 +9,7 @@ type: treasure
 
 # Leveled Weapon Treasures
 
-For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents leveled weapon treasures in alphabetical order.
+For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](treasure/leveled-weapon-treasures.md) in alphabetical order.
 
 ##### Authority's End
 

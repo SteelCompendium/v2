@@ -189,7 +189,7 @@ When you use an ability outside of combat that lets you spend unlimited insight 
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* Cloak and Dagger.)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](kit/cloak-and-dagger.md).)
 
 ### Shadow College
 

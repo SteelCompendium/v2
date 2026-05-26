@@ -249,7 +249,7 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the [talent](class/talent.md), has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](class/elementalist.md). Sorin wanted to abduct Linn's [talent](class/talent.md) mentor, a [dwarf](ancestry/dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](class/talent.md), has the [Elemental Inside](complication/elemental-inside.md) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](class/elementalist.md). Sorin wanted to abduct Linn's [talent](class/talent.md) mentor, a [dwarf](ancestry/dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
 
 Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent's](class/talent.md) story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
@@ -805,7 +805,7 @@ The burgomaster has the following possible pitfalls:
 
 *The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
 
-The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
+The virtuoso archetype can be used for any other local celebrity, such as a [master crafter](title/master-crafter.md), inspired artist, famous gladiator, or world champion.
 
 ###### Motivations
 
