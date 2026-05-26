@@ -14,7 +14,7 @@ level: "2"
 name: Volcano's Embrace
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace
-target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature'
+target: One creature
 tier1: 5 + R fire damage; A < WEAK, restrained (save ends)
 tier2: 9 + R fire damage; A < AVERAGE, restrained (save ends)
 tier3: 12 + R fire damage; A < STRONG, restrained (save ends)
@@ -27,7 +27,7 @@ type: ability
 
 | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Power Roll + Reason:**
 

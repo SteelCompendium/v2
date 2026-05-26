@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Parry
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/parry
-spend: '1 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus): This ability''s distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.'
+spend: '1 Focus: This ability''s distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.'
 subtype: triggered
 target: Self or one ally
 trigger: A creature deals damage to the target.
@@ -29,4 +29,4 @@ type: ability
 
 **Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
 
-**Spend 1 [Focus](../../../trait/tactician/level-1/focus.md):** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
+**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.

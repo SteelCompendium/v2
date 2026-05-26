@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 distance: Melee 1
 effect: Each ally can shift up to 2 squares and gains 2 surges before making the strike.
-flavor: You focus your allies' [wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath) on a chosen foe.
+flavor: You focus your allies' wrath on a chosen foe.
 keywords:
     - Melee
     - Strike
@@ -22,7 +22,7 @@ type: ability
 
 # Congregation
 
-*You focus your allies' [wrath](../../../trait/censor/level-1/wrath.md) on a chosen foe.*
+*You focus your allies' wrath on a chosen foe.*
 
 | **Melee, Strike, Weapon** |   **Main action** |
 |---------------------------|------------------:|

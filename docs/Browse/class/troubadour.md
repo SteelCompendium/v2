@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the Read Person [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) group and one [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) from the intrigue or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
+    - 'You gain the Read Person skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -11,9 +11,9 @@ weak_potency: Presence − 2
 
 # Troubadour
 
-The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the [drama](../feature/trait/troubadour/level-1/drama.md) of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
+The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
-**As a [troubadour](troubadour.md), you chase [drama](../feature/trait/troubadour/level-1/drama.md). The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
+**As a [troubadour](troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
 "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
 
@@ -39,22 +39,22 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person [skill](../feature/trait/censor/level-10/skill.md) (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal [skill](../feature/trait/censor/level-10/skill.md) group and one [skill](../feature/trait/censor/level-10/skill.md) from the intrigue or lore [skill](../feature/trait/censor/level-10/skill.md) groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ###### Troubadour Advancement Table
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| 1st   | [Troubadour](troubadour.md) Class Act, [Drama](../feature/trait/troubadour/level-1/drama.md), [Kit](../feature/trait/censor/level-1/kit.md), [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour](troubadour.md) Abilities | Signature, 3, 5           | -                   |
-| 2nd   | [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md), [Invocation](../feature/trait/troubadour/level-2/invocation.md), [Perk](../feature/trait/censor/level-10/perk.md), Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-[Drama](../feature/trait/troubadour/level-1/drama.md) Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Melodrama](../feature/trait/troubadour/level-4/melodrama.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md), [Zeitgeist](../feature/trait/troubadour/level-4/zeitgeist.md)                                                                      | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-[Drama](../feature/trait/troubadour/level-1/drama.md) Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Perk](../feature/trait/censor/level-10/perk.md), [Spotlight](../feature/ability/troubadour/level-6/spotlight.md), Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), A Muse's Muse, [Equal Billing](../feature/trait/troubadour/level-7/equal-billing.md), [Skill](../feature/trait/censor/level-10/skill.md)                                                                    | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | [Perk](../feature/trait/censor/level-10/perk.md), Class Act Feature, 11-[Drama](../feature/trait/troubadour/level-1/drama.md) Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 1st   | [Troubadour](troubadour.md) Class Act, Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour](troubadour.md) Abilities | Signature, 3, 5           | -                   |
+| 2nd   | [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md), [Invocation](../feature/trait/troubadour/level-2/invocation.md), Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Melodrama](../feature/trait/troubadour/level-4/melodrama.md), Perk, Skill, [Zeitgeist](../feature/trait/troubadour/level-4/zeitgeist.md)                                                                      | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), A Muse's Muse, [Equal Billing](../feature/trait/troubadour/level-7/equal-billing.md), Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 9th   | [Roar of the Crowd](../feature/trait/troubadour/level-9/roar-of-the-crowd.md), Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Applause](../feature/trait/troubadour/level-10/applause.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Dramaturgy](../feature/trait/troubadour/level-10/dramaturgy.md), [Greatest of All Time](../feature/trait/troubadour/level-10/greatest-of-all-time.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md)                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Applause](../feature/trait/troubadour/level-10/applause.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Dramaturgy](../feature/trait/troubadour/level-10/dramaturgy.md), [Greatest of All Time](../feature/trait/troubadour/level-10/greatest-of-all-time.md), Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 
 ---
@@ -69,7 +69,7 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you two feat
 
 | Class Act  | Features                           |
 |------------|------------------------------------|
-| Auteur     | [Blocking](../../../ability/troubadour/level-1/blocking.md), [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md)       |
+| Auteur     | Blocking, [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md)       |
 | Duelist    | [Acrobatics](../../../ability/troubadour/level-1/acrobatics.md), [Star Power](../../../ability/troubadour/level-1/star-power.md)             |
 | Virtuoso   | [Power Chord](../../../ability/troubadour/level-1/power-chord.md), [Virtuoso Performances](virtuoso-performances.md) |
 
@@ -128,32 +128,32 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a trigge
 >
 > **Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 >
-> **Spend 1+ [Drama](drama.md):** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional [drama](drama.md) spent.
+> **Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.
 
 ### Drama
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called [drama](drama.md).
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [drama](drama.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [drama](drama.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
 
-Additionally, you gain [drama](drama.md) when certain events occur during a combat encounter:
+Additionally, you gain drama when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 [drama](drama.md).
-- The first time any hero is made winded during the encounter, you gain 2 [drama](drama.md).
-- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 [drama](drama.md).
-- When you or another hero dies, you gain 10 [drama](drama.md).
+- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
+- The first time any hero is made winded during the encounter, you gain 2 drama.
+- Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.
+- When you or another hero dies, you gain 10 drama.
 
-When you are dead, you continue to gain [drama](drama.md) during combat as long as your body is intact. If you have 30 [drama](drama.md) during the encounter in which you died, you can come back to life with 1 Stamina and 0 [drama](drama.md) (no action required). If you are still dead after the encounter in which you died, you can't gain [drama](drama.md) during future encounters.
+When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
 
-You lose any remaining [drama](drama.md) at the end of the encounter.
+You lose any remaining drama at the end of the encounter.
 
 ##### Drama Outside of Combat
 
-Though you can't gain [drama](drama.md) outside of combat, you can use your heroic abilities and effects that cost [drama](drama.md) without spending it. Whenever you use an ability or effect outside of combat that costs [drama](drama.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited [drama](drama.md) on its effect, such as [Artful Flourish](../../../ability/troubadour/level-1/artful-flourish.md), you can use it as if you had spent an amount of [drama](drama.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../../../ability/troubadour/level-1/artful-flourish.md), you can use it as if you had spent an amount of drama equal to your Victories.
 
 > **The Auteur [Troubadour](../../../../class/troubadour.md)**
 >
@@ -184,11 +184,11 @@ You have the following ability.
 > - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
 > - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 >
-> **Spend 1 [Drama](drama.md):** You can choose two targets for the chosen effect.
+> **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
 ### Kit
 
-You can use and gain the benefits of a [kit](../../censor/level-1/kit.md). See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Swashbuckler](../../../../kit/swashbuckler.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Swashbuckler](../../../../kit/swashbuckler.md).)
 
 ### Power Chord
 
@@ -228,7 +228,7 @@ You start off with the [Choreography](../../../ability/troubadour/level-1/choreo
 
 ### Scene Partner
 
-Whenever you obtain a success on a test to interact with an NPC using a [skill](../../censor/level-10/skill.md) from the interpersonal group, you can form a bond with that NPC. When you enter into a negotiation with a bonded NPC, their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded NPC's interest by 1, you instead increase their interest by 2 (to a maximum of 5).
+Whenever you obtain a success on a test to interact with an NPC using a skill from the interpersonal group, you can form a bond with that NPC. When you enter into a negotiation with a bonded NPC, their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded NPC's interest by 1, you instead increase their interest by 2 (to a maximum of 5).
 
 You can have a number of bonds active equal to your level. When you form a bond with a new NPC that would exceed the limit, you must choose which of your active bonds to lose.
 
@@ -247,15 +247,15 @@ You have the following ability.
 >
 > **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have an outcome lower than tier 2.
 >
-> **Spend 1 [Drama](drama.md):** You gain a +4 bonus to speed instead.
+> **Spend 1 Drama:** You gain a +4 bonus to speed instead.
 
 ### Troubadour Class Act
 
-Panache, melody, and depiction. Some [troubadours](../../../../class/troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](../../../../class/troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the [drama](drama.md) of everyday life and strife, you choose a [troubadour](../../../../class/troubadour.md) class act from the following options, each of which grants you a [skill](../../censor/level-10/skill.md). (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](../../../../class/troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](../../../../class/troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](../../../../class/troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
-- **Auteur:** You seek [drama](drama.md) from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag [skill](../../censor/level-10/skill.md).
-- **Duelist:** [Drama](drama.md) infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics [skill](../../censor/level-10/skill.md).
-- **Virtuoso:** You find [drama](drama.md) in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music [skill](../../censor/level-10/skill.md) and can play an instrument.
+- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
+- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
+- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
 
 Your [troubadour](../../../../class/troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
@@ -308,7 +308,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** You can shift up to 3 squares.
 
-**Spend 2+ [Drama](../../../trait/troubadour/level-1/drama.md):** You can target one additional creature or object for every 2 [drama](../../../trait/troubadour/level-1/drama.md) spent.
+**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
 
 ### Ballad of the Beast
 
@@ -368,7 +368,7 @@ You have the following performance abilities, which are usable with your [Routin
 - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
 - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 
-**Spend 1 [Drama](../../../trait/troubadour/level-1/drama.md):** You can choose two targets for the chosen effect.
+**Spend 1 Drama:** You can choose two targets for the chosen effect.
 
 ### Dramatic Reversal
 
@@ -416,7 +416,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 
-**Spend 1+ [Drama](../../../trait/troubadour/level-1/drama.md):** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional [drama](../../../trait/troubadour/level-1/drama.md) spent.
+**Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.
 
 ### Harsh Critic
 
@@ -448,7 +448,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** Slide 1; I < AVERAGE, dazed (save ends)
 - **17+:** Slide 2; I < STRONG, dazed (save ends)
 
-**Spend 2+ [Drama](../../../trait/troubadour/level-1/drama.md):** The size of the burst increases by 1 for every 2 [drama](../../../trait/troubadour/level-1/drama.md) spent.
+**Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
 ### Instigator
 
@@ -544,7 +544,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have an outcome lower than tier 2.
 
-**Spend 1 [Drama](../../../trait/troubadour/level-1/drama.md):** You gain a +4 bonus to speed instead.
+**Spend 1 Drama:** You gain a +4 bonus to speed instead.
 
 ### Thunder Mother
 
@@ -574,7 +574,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
 
-**Spend 3 [Drama](../../../trait/troubadour/level-1/drama.md):** An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.
+**Spend 3 Drama:** An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.
 
 ### Upstage
 
@@ -608,7 +608,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
-**Spend 1 [Drama](../../../trait/troubadour/level-1/drama.md):** The chosen ally can spend a Recovery.
+**Spend 1 Drama:** The chosen ally can spend a Recovery.
 
 ### [Acrobatics](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics)
 
@@ -946,11 +946,11 @@ Whenever you take the first turn in a combat encounter, you can use a main actio
 
 ### Appeal to the Muses
 
-You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's [drama](../level-1/drama.md). However, irony is eager to hand your fortune to the villain to achieve the same end.
+You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's drama. However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain [drama](../level-1/drama.md) at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional [drama](../level-1/drama.md). The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
+- If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
 - If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
 
@@ -968,11 +968,11 @@ You have a specific manner that helps define your presence on the battlefield. C
 
 You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal [skill](../../censor/level-10/skill.md) group. You can still use your [Scene Partner](../level-1/scene-partner.md) feature to find allies within the group.
+The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../level-1/scene-partner.md) feature to find allies within the group.
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -1115,12 +1115,12 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a featur
 | Class Act  | Features     |
 |------------|--------------|
 | Auteur     | [Missed Cue](missed-cue.md)   |
-| Duelist    | [Foil](foil.md)         |
+| Duelist    | Foil         |
 | Virtuoso   | [Second Album](second-album.md) |
 
 ### Foil
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new [foil](foil.md) at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
 
 ### Missed Cue
 
@@ -1209,7 +1209,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending [drama](../../../trait/troubadour/level-1/drama.md).
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
 
 ### We Meet at Last
 
@@ -1317,23 +1317,23 @@ You can ask the Director for three rumors regarding the area you're in or an are
 
 ### Melodrama
 
-You have more ways of getting the most [drama](../level-1/drama.md) out of a situation. Choose two of the following events to add to the events that grant you [drama](../level-1/drama.md) during battle:
+You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:
 
-- Whenever a creature rolls a natural 2 on a power roll, you gain 2 [drama](../level-1/drama.md).
-- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 [drama](../level-1/drama.md).
-- The first time a hero unwillingly falls 5 or more squares, you gain 2 [drama](../level-1/drama.md).
-- The first time a hero deals damage with 3 surges, you gain 2 [drama](../level-1/drama.md).
-- Whenever a hero spends their last Recovery, you gain 2 [drama](../level-1/drama.md).
+- Whenever a creature rolls a natural 2 on a power roll, you gain 2 drama.
+- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 drama.
+- The first time a hero unwillingly falls 5 or more squares, you gain 2 drama.
+- The first time a hero deals damage with 3 surges, you gain 2 drama.
+- Whenever a hero spends their last Recovery, you gain 2 drama.
 
-Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you [drama](../level-1/drama.md), you gain 1 additional [drama](../level-1/drama.md).
+Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you drama, you gain 1 additional drama.
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ### Zeitgeist
 
@@ -1374,7 +1374,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your [Foil](../level-3/foil.md) feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -1529,7 +1529,7 @@ You can maintain two performances at a time using your [Routines](../level-1/rou
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### Spotlight
 
@@ -1550,7 +1550,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ### Blood on the Stage
 
-*It's love and blood or [drama](../../../trait/troubadour/level-1/drama.md) and blood. Either way, there's always blood.*
+*It's love and blood or drama and blood. Either way, there's always blood.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
@@ -1644,7 +1644,7 @@ You have the following performance ability, which is usable with your [Routines]
 |-----------------|-----------------------------:|
 | **📏 5 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped [kit](../../../trait/censor/level-1/kit.md) in addition to their own [kit](../../../trait/censor/level-1/kit.md)'s bonuses.
+**Effect:** Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
 
 ### You're All My Understudies (9 [Drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama))
 
@@ -1720,7 +1720,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ### A Muse's Muse
 
-At the start of each of your turns during combat, you gain 1d3 + 1 [drama](../level-1/drama.md) instead of 1d3.
+At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
 
 ### Characteristic Increase
 
@@ -1734,7 +1734,7 @@ Additionally, you and creatures you are bonded with gain a +1 bonus to saving th
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ## 8th-Level Features
 
@@ -1747,7 +1747,7 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a featur
 | Class Act | Feature         |
 |-----------|-----------------|
 | Auteur    | [Deleted Scene](deleted-scene.md)   |
-| Duelist   | [Masterwork](masterwork.md)      |
+| Duelist   | Masterwork      |
 | Virtuoso  | [Crowd Favorites](crowd-favorites.md) |
 
 ### Crowd Favorites
@@ -1767,17 +1767,17 @@ You have the following performance abilities, which are usable with your [Routin
 
 ### Deleted Scene
 
-Whenever a creature within distance of your [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a power roll, you can spend 1 [drama](../level-1/drama.md) as a free triggered action to use [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a power roll, you can spend 1 drama as a free triggered action to use [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature.
 
 ### Masterwork
 
-Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a [kit](../../censor/level-1/kit.md) you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
+Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
 
 Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../level-4/zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ## 8th-Level Abilities
 
@@ -2117,7 +2117,7 @@ Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to 
 
 ### Applause
 
-You have an [epic](../../../ability/troubadour/level-9/epic.md) resource called [applause](applause.md). Each time you finish a respite, you gain [applause](applause.md) equal to the XP you gain. You can spend [applause](applause.md) on your abilities as if it were [drama](../level-1/drama.md).
+You have an epic resource called [applause](applause.md). Each time you finish a respite, you gain [applause](applause.md) equal to the XP you gain. You can spend [applause](applause.md) on your abilities as if it were drama.
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 [applause](applause.md) to improve the outcome by 1 tier.
 
@@ -2129,7 +2129,7 @@ Your Agility and Presence scores each increase to 5.
 
 ### Dramaturgy
 
-You gain 1 additional [drama](../level-1/drama.md) or other Heroic Resource whenever you use your [Appeal to the Muses](../level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 ### Greatest of All Time
 
@@ -2137,9 +2137,9 @@ Whenever you obtain a success on a test, each NPC within your line of effect has
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 

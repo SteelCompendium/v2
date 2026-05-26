@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 distance: Melee 1
 effect: You or one ally within distance can spend a Recovery.
-flavor: You [drain](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/drain) the energy from your target to revitalize yourself or an ally.
+flavor: You drain the energy from your target to revitalize yourself or an ally.
 keywords:
     - Magic
     - Melee
@@ -22,7 +22,7 @@ type: ability
 
 # Drain
 
-*You [drain](drain.md) the energy from your target to revitalize yourself or an ally.*
+*You drain the energy from your target to revitalize yourself or an ally.*
 
 | **Magic, Melee, Strike** |     **Main action** |
 |--------------------------|--------------------:|

@@ -10,11 +10,11 @@ type: trait
 
 Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Knockback maneuver as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                     |
+| Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Intuition score.                                                                          |
 | 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                  |

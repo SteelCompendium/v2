@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:
-    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
+    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -39,22 +39,22 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore [skill](../feature/trait/censor/level-10/skill.md) groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
+**Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
 
 ###### Talent Advancement Table
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
 | 1st   | [Talent](talent.md) Tradition, [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent](talent.md) Ward, [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), Tradition Features, [Talent](talent.md) Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | [Perk](../feature/trait/censor/level-10/perk.md), Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../feature/trait/talent/level-3/scan.md), 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mind Projection](../feature/trait/talent/level-4/mind-projection.md), [Mind Recovery](../feature/trait/talent/level-4/mind-recovery.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md) [Suspensor Field](../feature/trait/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mind Projection](../feature/trait/talent/level-4/mind-projection.md), [Mind Recovery](../feature/trait/talent/level-4/mind-recovery.md), Perk, Skill [Suspensor Field](../feature/trait/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
 | 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Perk](../feature/trait/censor/level-10/perk.md), [Psi Boost](../feature/trait/null/level-7/psi-boost.md), Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../feature/trait/talent/level-7/ancestral-memory.md), [Cascading Strain](../feature/trait/talent/level-7/cascading-strain.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Lucid Mind](../feature/trait/talent/level-7/lucid-mind.md), [Skill](../feature/trait/censor/level-10/skill.md)                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | [Perk](../feature/trait/censor/level-10/perk.md), Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 6th   | Perk, [Psi Boost](../feature/trait/null/level-7/psi-boost.md), Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../feature/trait/talent/level-7/ancestral-memory.md), [Cascading Strain](../feature/trait/talent/level-7/cascading-strain.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Lucid Mind](../feature/trait/talent/level-7/lucid-mind.md), Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
 | 9th   | [Fortress of Perfect Thought](../feature/trait/talent/level-9/fortress-of-perfect-thought.md), Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Clear Mind](../feature/trait/talent/level-10/clear-mind.md), [Omnisensory](../feature/trait/talent/level-10/omnisensory.md), [Perk](../feature/trait/censor/level-10/perk.md), [Psion](../feature/trait/talent/level-10/psion.md), [Skill](../feature/trait/censor/level-10/skill.md), [Vision](../feature/trait/talent/level-10/vision.md)                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Clear Mind](../feature/trait/talent/level-10/clear-mind.md), [Omnisensory](../feature/trait/talent/level-10/omnisensory.md), Perk, [Psion](../feature/trait/talent/level-10/psion.md), Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 
 ---
@@ -69,7 +69,7 @@ Your [talent](../../../../class/talent.md) tradition grants you two features, as
 
 | Tradition   | Features                         |
 |-------------|----------------------------------|
-| Chronopathy | [Accelerate](../../../ability/talent/level-1/accelerate.md), [Again](../../../ability/talent/level-1/again.md)                |
+| Chronopathy | [Accelerate](../../../ability/talent/level-1/accelerate.md), Again                |
 | Telekinesis | [Minor Telekinesis](../../../ability/talent/level-1/minor-telekinesis.md), [Repel](../../../ability/talent/level-1/repel.md)         |
 | Telepathy   | [Feedback Loop](../../../ability/talent/level-1/feedback-loop.md), [Remote Assistance](../../../ability/talent/level-1/remote-assistance.md) |
 
@@ -131,7 +131,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 ##### Clarity Outside of Combat
 
-Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat [again](../../../ability/talent/level-1/again.md) until you earn 1 or more Victories or finish a respite.
+Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
@@ -378,7 +378,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### Flashback
 
-*The target is thrown several seconds back through time and gets to do it all [again](again.md).*
+*The target is thrown several seconds back through time and gets to do it all again.*
 
 | **Chronopathy, Psionic, Ranged** |            **Maneuver** |
 |----------------------------------|------------------------:|
@@ -988,7 +988,7 @@ You gain an edge on tests made to stop combat and start a negotiation. Additiona
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -1360,11 +1360,11 @@ Additionally, the first time each combat round that a creature is force moved, y
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ### Suspensor Field
 
@@ -1388,7 +1388,7 @@ Your [talent](../../../../class/talent.md) tradition grants you two features, as
 
 ### Compulsion
 
-Whenever you obtain a success on a test using a [skill](../../censor/level-10/skill.md) from the interpersonal [skill](../../censor/level-10/skill.md) group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ### Distortion Temporal
 
@@ -1568,7 +1568,7 @@ If the ability has a potency, you increase that potency by an amount equal to yo
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### Psi Boost
 
@@ -1594,7 +1594,7 @@ If the ability has any power roll, that roll gains an edge.
 
 **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
 
-**Strained:** This ability gains the Strike keyword as the [vision](../../../trait/talent/level-10/vision.md) hurts the target's psyche. You make a power roll, then are weakened (save ends).
+**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are weakened (save ends).
 
 **Power Roll + Presence:**
 
@@ -1800,7 +1800,7 @@ Make a power roll that targets each enemy in the area.
 
 ### Ancestral Memory
 
-Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore [skill](../../censor/level-10/skill.md) groups. These replacements last until the end of your next respite.
+Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
 
 ### Cascading Strain
 
@@ -1816,7 +1816,7 @@ At the start of each of your turns during combat, you gain 1d3 + 1 clarity inste
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ## 8th-Level Features
 
@@ -1863,7 +1863,7 @@ During a respite, you can choose a number of creatures up to your Reason score w
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Stasis Shield
 
@@ -1904,7 +1904,7 @@ The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature i
 - **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
 - **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
 
-**Effect:** This ability gains an edge against a target with a soul (see *Draw [Steel](steel.md): Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
+**Effect:** This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 
 **Strained:** You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).
 
@@ -2300,7 +2300,7 @@ You have a +10 bonus to the distance of your ranged abilities. Additionally, you
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### Psion
 
@@ -2310,13 +2310,13 @@ Additionally, you can choose to not take damage from having negative clarity. Yo
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ### Vision
 
-You have an epic resource called [vision](vision.md). Each time you finish a respite, you gain [vision](vision.md) equal to the XP you gain. You can spend [vision](vision.md) on your abilities as if it were clarity.
+You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.
 
-Additionally, you can spend [vision](vision.md) to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in [vision](vision.md). If you choose to use a psionic ability that usually costs no clarity, you must spend 1 [vision](vision.md) to use it.
+Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
-[Vision](vision.md) remains until you spend it.
+Vision remains until you spend it.
 

@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: In All This Confusion
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion
-spend: '1+ [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight): You teleport 1 additional square for each [insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight) spent.'
+spend: '1+ Insight: You teleport 1 additional square for each insight spent.'
 subtype: triggered
 target: Self
 trigger: You take damage.
@@ -28,4 +28,4 @@ type: ability
 
 **Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
 
-**Spend 1+ [Insight](../../../trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](../../../trait/shadow/level-1/insight.md) spent.
+**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.

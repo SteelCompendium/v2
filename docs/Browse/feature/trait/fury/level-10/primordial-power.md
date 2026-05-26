@@ -8,7 +8,7 @@ type: trait
 
 # Primordial Power
 
-You have an epic resource called [primordial power](primordial-power.md). Each time you finish a respite, you gain [primordial power](primordial-power.md) equal to the XP you gain. You can spend [primordial power](primordial-power.md) on your abilities as if it were [ferocity](../level-1/ferocity.md).
+You have an epic resource called [primordial power](primordial-power.md). Each time you finish a respite, you gain [primordial power](primordial-power.md) equal to the XP you gain. You can spend [primordial power](primordial-power.md) on your abilities as if it were ferocity.
 
 Additionally, you can spend any amount of [primordial power](primordial-power.md) as a free maneuver, ending one effect on you for each [primordial power](primordial-power.md) spent.
 

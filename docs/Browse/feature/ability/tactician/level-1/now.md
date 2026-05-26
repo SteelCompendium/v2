@@ -4,7 +4,7 @@ class: tactician
 cost: 5 Focus
 distance: Ranged 10
 effect: Each target can make a free strike.
-flavor: Your allies wait for your [command](scc:mcdm.heroes.v1/feature.trait.tactician.level-10/command)—then unleash death!
+flavor: Your allies wait for your command—then unleash death!
 keywords:
     - Ranged
 level: "1"
@@ -16,7 +16,7 @@ type: ability
 
 # Now!
 
-*Your allies wait for your [command](../../../trait/tactician/level-10/command.md)—then unleash death!*
+*Your allies wait for your command—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 |------------------|--------------------:|

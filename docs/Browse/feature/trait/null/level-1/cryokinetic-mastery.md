@@ -10,11 +10,11 @@ type: trait
 
 Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Grab maneuver as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                           |
+| Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../../class/null.md) Field ability, you gain 1 surge.                                                   |

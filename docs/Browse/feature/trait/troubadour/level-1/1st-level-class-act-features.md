@@ -14,6 +14,6 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you two feat
 
 | Class Act  | Features                           |
 |------------|------------------------------------|
-| Auteur     | [Blocking](../../../ability/troubadour/level-1/blocking.md), [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md)       |
+| Auteur     | Blocking, [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md)       |
 | Duelist    | [Acrobatics](../../../ability/troubadour/level-1/acrobatics.md), [Star Power](../../../ability/troubadour/level-1/star-power.md)             |
 | Virtuoso   | [Power Chord](../../../ability/troubadour/level-1/power-chord.md), [Virtuoso Performances](virtuoso-performances.md) |

@@ -37,7 +37,7 @@ You have the following ability.
 >>
 >> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 [One](../level-10/one.md) creature or object** |
+>> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >>
 >> **Power Roll + 3:**
 >>

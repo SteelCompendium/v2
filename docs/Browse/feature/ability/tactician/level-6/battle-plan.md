@@ -24,4 +24,4 @@ type: ability
 
 **Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
 
-**[Mark](../level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../../../trait/tactician/level-1/focus.md) to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.

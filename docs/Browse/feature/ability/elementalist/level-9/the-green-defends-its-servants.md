@@ -12,7 +12,7 @@ keywords:
 level: "9"
 name: The Green Defends Its Servants
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants
-target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
+target: Self or one ally
 type: ability
 ---
 
@@ -22,7 +22,7 @@ type: ability
 
 | **Green, Magic, Ranged** |            **Maneuver** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the Defend main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 

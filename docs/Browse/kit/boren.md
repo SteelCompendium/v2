@@ -6,7 +6,7 @@ type: kit
 
 # Boren
 
-With this stormwight [kit](../feature/trait/censor/level-1/kit.md), you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a bear, becoming large, durable, and imposing. [Boren](boren.md) are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a bear, becoming large, durable, and imposing. [Boren](boren.md) are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 ##### Signature Ability
 

@@ -28,7 +28,7 @@ Whenever a creature judged by you uses a main action and is within your line of 
 
 When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 
-Additionally, you can spend 1 [wrath](../../../trait/censor/level-1/wrath.md) to take one of the following free triggered actions:
+Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.

@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice.
+You gain one exploration, interpersonal, or intrigue perk of your choice.

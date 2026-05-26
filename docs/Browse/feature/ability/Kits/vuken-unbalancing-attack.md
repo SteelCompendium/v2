@@ -2,7 +2,7 @@
 action_type: Main action
 class: vuken
 distance: Melee 1
-flavor: A wild assault forces your foe onto their [back](scc:mcdm.heroes.v1/feature.ability.fury.level-1/back).
+flavor: A wild assault forces your foe onto their back.
 keywords:
     - Melee
     - Strike
@@ -20,7 +20,7 @@ type: ability
 
 # Vuken (Unbalancing Attack)
 
-*A wild assault forces your foe onto their [back](../fury/level-1/back.md).*
+*A wild assault forces your foe onto their back.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|

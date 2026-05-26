@@ -12,8 +12,8 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide [skill](../../censor/level-10/skill.md). **Overcast:** You and your allies gain an edge on tests that use the Endurance [skill](../../censor/level-10/skill.md).
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track [skill](../../censor/level-10/skill.md).
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.

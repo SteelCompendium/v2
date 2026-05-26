@@ -3,7 +3,7 @@ average_potency: Intuition - 1
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Read Person, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Read Person, Religion.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition - 2
@@ -40,22 +40,22 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore [skill](../feature/trait/censor/level-10/skill.md) groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
 
 ###### Conduit Advancement Table
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
-| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), [Piety](../feature/trait/conduit/level-1/piety.md), Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), [Prayer](../feature/trait/conduit/level-1/prayer.md), [Conduit](conduit.md) Ward, [Conduit](conduit.md) Abilities     | Two signature, 3, 5           | -                 |
-| 2nd   | [The Lists of Heaven](../feature/trait/conduit/level-2/the-lists-of-heaven.md), [Perk](../feature/trait/censor/level-10/perk.md), Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
-| 3rd   | [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md), 7-[Piety](../feature/trait/conduit/level-1/piety.md) Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
-| 4th   | Blessed Domains, [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                       | Two signature, 3, 5, 7        | 5                 |
-| 5th   | Domain Feature, 9-[Piety](../feature/trait/conduit/level-1/piety.md) Ability                                                                                                      | Two signature, 3, 5, 7, 9     | 5                 |
-| 6th   | [Burgeoning Saint](../feature/trait/conduit/level-6/burgeoning-saint.md), [Perk](../feature/trait/censor/level-10/perk.md), Domain Ability                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Faithful's Reward, [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                           | Two signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | Domain Feature, [Perk](../feature/trait/censor/level-10/perk.md), 11-[Piety](../feature/trait/conduit/level-1/piety.md) Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit](conduit.md) Ward, [Conduit](conduit.md) Abilities     | Two signature, 3, 5           | -                 |
+| 2nd   | [The Lists of Heaven](../feature/trait/conduit/level-2/the-lists-of-heaven.md), Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
+| 3rd   | [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md), 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
+| 4th   | Blessed Domains, [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                                      | Two signature, 3, 5, 7, 9     | 5                 |
+| 6th   | [Burgeoning Saint](../feature/trait/conduit/level-6/burgeoning-saint.md), Perk, Domain Ability                                                                                               | Two signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Faithful's Reward, Skill Increase                                                           | Two signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9              |
 | 9th   | Domain Ability, Faith's Sword, [Ordained](../feature/trait/conduit/level-9/ordained.md)                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | [Avatar](../feature/trait/conduit/level-10/avatar.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Divine Power](../feature/trait/conduit/level-10/divine-power.md), [Most Pious](../feature/trait/conduit/level-10/most-pious.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | [Avatar](../feature/trait/conduit/level-10/avatar.md), [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Divine Power](../feature/trait/conduit/level-10/divine-power.md), [Most Pious](../feature/trait/conduit/level-10/most-pious.md), Perk, Skill Increase                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 
 ---
@@ -64,11 +64,11 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 ### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../class/conduit.md) Domain Features table. Additionally, you gain a [skill](../../censor/level-10/skill.md) from the chosen domain, selected from the [skill](../../censor/level-10/skill.md) group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the Heal [skill](../../censor/level-10/skill.md) from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
-| Domain     | Feature                       | [Skill](../../censor/level-10/skill.md) Group   |
+| Domain     | Feature                       | Skill Group   |
 |------------|-------------------------------|---------------|
 | Creation   | [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
 | Death      | [Grave Speech](../../../ability/censor/level-1/grave-speech.md)                  | Lore          |
@@ -103,15 +103,15 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide [skill](../../censor/level-10/skill.md). **Overcast:** You and your allies gain an edge on tests that use the Endurance [skill](../../censor/level-10/skill.md).
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track [skill](../../censor/level-10/skill.md).
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
 ### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your [prayer](prayer.md) (see [Prayer](prayer.md) above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](bastion-ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](bastion-ward.md).)
 
 ### Deity and Domains
 
@@ -121,69 +121,69 @@ After choosing your deity, pick two domains from their portfolio. The two domain
 
 ### Domain Piety and Effects
 
-Your choice of domains provides you with two additional ways to earn [piety](piety.md) during combat, as triggered by specific events. You might even have a single event trigger both your [piety](piety.md) effects. For example, the Sun domain grants [piety](piety.md) when a nearby creature takes fire or holy damage, while the War domain grants [piety](piety.md) when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain [piety](piety.md) from both your domains.
+Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
 
-Additionally, whenever you activate a domain effect by praying for [piety](piety.md), you can choose one of your domains and have that domain's [prayer](prayer.md) effect take effect immediately.
+Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
 ###### Creation Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that a creature within 10 squares uses an area ability.
-- **[Prayer](prayer.md) Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
+- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
+- **Prayer Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
 ###### Death Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
-- **[Prayer](prayer.md) Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
+- **Prayer Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
 ###### Fate Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
-- **[Prayer](prayer.md) Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
+- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
+- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
 ###### Knowledge Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that the Director spends Malice (see *Draw Steel: Monsters*).
-- **[Prayer](prayer.md) Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
+- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *Draw Steel: Monsters*).
+- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
 ###### Life Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that a creature within 10 squares regains Stamina.
-- **[Prayer](prayer.md) Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
-- **[Prayer](prayer.md) Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
+- **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ###### Nature Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **[Prayer](prayer.md) Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
+- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
-- **[Prayer](prayer.md) Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that an enemy within 10 squares is force moved.
-- **[Prayer](prayer.md) Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **[Prayer](prayer.md) Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
+- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
+- **Prayer Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
 ###### Trickery Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **[Prayer](prayer.md) Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
 
 ###### War Domain Piety and Effect
 
-- **[Piety](piety.md):** You gain 2 [piety](piety.md) the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
-- **[Prayer](prayer.md) Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 ### Faithful Friend
 
@@ -245,7 +245,7 @@ You have the following ability, which you can use once on your turn.
 > 
 > **Effect:** The target can spend a Recovery.
 > 
-> **Spend 1+ [Piety](piety.md):** For each [piety](piety.md) spent, choose one of the following enhancements:
+> **Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
 > 
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
@@ -258,7 +258,7 @@ Each time you finish a respite, you can choose yourself or one ally who is also 
 
 ### Inspired Deception
 
-The gods favor your thievery with magic. Whenever you make a test that uses a [skill](../../censor/level-10/skill.md) you have from the intrigue [skill](../../censor/level-10/skill.md) group, you can use Intuition on the test instead of another characteristic.
+The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
 
 ### Oracular Visions
 
@@ -266,29 +266,29 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ### Piety
 
-Your deity grants you a Heroic Resource called [piety](piety.md), letting you heal and empower your allies, and unleash holy power upon your foes.
+Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [piety](piety.md) equal to your Victories. At the start of each of your turns during combat, you gain 1d3 [piety](piety.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
 
-Additionally, you can gain more [piety](piety.md) by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain [piety](piety.md) at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
-- If the roll is a 1, you gain 1 additional [piety](piety.md) but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional [piety](piety.md).
-- If the roll is a 3, you gain 2 additional [piety](piety.md) and can activate a domain effect of your choice (see below).
+- If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
+- If the roll is a 2, you gain 1 additional piety.
+- If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
-You lose any remaining [piety](piety.md) at the end of the encounter.
+You lose any remaining piety at the end of the encounter.
 
 ##### Piety Outside of Combat
 
-Though you can't gain [piety](piety.md) outside of combat, you can use your heroic abilities and effects that cost [piety](piety.md) without spending it. Whenever you use an ability or effect outside of combat that costs [piety](piety.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited [piety](piety.md) on its effect, such as [Healing Grace](../../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of [piety](piety.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
 
 ### Prayer
 
-Your god answers a [prayer](prayer.md) with enhancements to your body and mind. Choose one of the following prayers. You can change your [prayer](prayer.md) along with your ward (see [Conduit](../../../../class/conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](prayer-of-distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../../../class/conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](prayer-of-distance.md).)
 
 ### Prayer of Destruction
 
@@ -374,7 +374,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 > 
 > **Effect:** The power roll gains an edge.
 > 
-> **Spend 1 [Piety](piety.md):** The power roll has a double edge.
+> **Spend 1 Piety:** The power roll has a double edge.
 
 ## 1st-Level Abilities
 
@@ -396,7 +396,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Call the Thunder Down
 
-*You ask your saint for thunder and your [prayer](../../../trait/conduit/level-1/prayer.md) is answered.*
+*You ask your saint for thunder and your prayer is answered.*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
@@ -454,7 +454,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Drain
 
-*You [drain](drain.md) the energy from your target to revitalize yourself or an ally.*
+*You drain the energy from your target to revitalize yourself or an ally.*
 
 | **Magic, Melee, Strike** |     **Main action** |
 |--------------------------|--------------------:|
@@ -534,7 +534,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ [Piety](../../../trait/conduit/level-1/piety.md):** For each [piety](../../../trait/conduit/level-1/piety.md) spent, choose one of the following enhancements:
+**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
@@ -673,7 +673,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Warrior's Prayer
 
-*Your quickly uttered [prayer](../../../trait/conduit/level-1/prayer.md) lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |
 |----------------------------|--------------------:|
@@ -729,7 +729,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The power roll gains an edge.
 
-**Spend 1 [Piety](../../../trait/conduit/level-1/piety.md):** The power roll has a double edge.
+**Spend 1 Piety:** The power roll has a double edge.
 
 ### Word of Judgment
 
@@ -743,7 +743,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The power roll takes a bane against the target.
 
-**Spend 1 [Piety](../../../trait/conduit/level-1/piety.md):** The power roll has a double bane against the target.
+**Spend 1 Piety:** The power roll has a double bane against the target.
 
 ### [Blessed Light](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light)
 
@@ -1028,11 +1028,11 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### 2nd-Level Domain Feature
 
-You gain the 1st-level domain feature and ability to choose a [skill](../../censor/level-10/skill.md) for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
+You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
 
 ### Perk
 
-You gain one crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ### The Lists of Heaven
 
@@ -1534,7 +1534,7 @@ As a main action, you touch a living tree and make it part of a divine transport
 
 ### Blessed Domain
 
-Whenever you gain [piety](../level-1/piety.md) from a domain effect, you gain 1 additional [piety](../level-1/piety.md).
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 ### Characteristic Increase
 
@@ -1542,11 +1542,11 @@ Your Intuition score increases to 3. Additionally, you can increase one of your 
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ## 4th-Level Abilities
 
@@ -1691,7 +1691,7 @@ You are infused with the power your deity reserves for their most worthy instrum
 
 ### Perk
 
-You gain one crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.
 
 ## 6th-Level Abilities
 
@@ -2055,15 +2055,15 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ### Faithful's Reward
 
-When you roll for [piety](../level-1/piety.md) at the start of your turn in combat, you gain 1d3 + 1 [piety](../level-1/piety.md).
+When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
 
 ### Font of Grace
 
-Each time you use your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 [piety](../level-1/piety.md) that can be spent only on that ability during the same turn. If you don't use this [piety](../level-1/piety.md), it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ### Gods' Library
 
-You can gain access to information you need through [prayer](../level-1/prayer.md), so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore [skill](../../censor/level-10/skill.md) group you don't already have, and you gain a number of skills from any other [skill](../../censor/level-10/skill.md) groups equal to the number of skills you had in the lore [skill](../../censor/level-10/skill.md) group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -2083,7 +2083,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ### Thunderstruck
 
@@ -2168,7 +2168,7 @@ You gain the 7th-level domain feature for the domain whose feature you didn't se
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ## 8th-Level Abilities
 
@@ -2258,7 +2258,7 @@ You gain one [perk](../../censor/level-10/perk.md) of your choice.
 
 ### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend [piety](../level-1/piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 [piety](../level-1/piety.md) spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 ### Ordained
 
@@ -2590,7 +2590,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 ### Avatar
 
-You are now an [avatar](avatar.md) of your god! When you use your [Prayer](../level-1/prayer.md) feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../level-1/domain-piety-and-effects.md)) without needing to pray.
+You are now an [avatar](avatar.md) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../level-1/domain-piety-and-effects.md)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -2600,21 +2600,21 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 ### Divine Power
 
-You have an epic resource called [divine power](divine-power.md). Each time you finish a respite, you gain [divine power](divine-power.md) equal to the XP you gain. You can spend [divine power](divine-power.md) on your abilities as if it were [piety](../level-1/piety.md).
+You have an epic resource called [divine power](divine-power.md). Each time you finish a respite, you gain [divine power](divine-power.md) equal to the XP you gain. You can spend [divine power](divine-power.md) on your abilities as if it were piety.
 
-Additionally, you can spend [divine power](divine-power.md) as if it were [piety](../level-1/piety.md) to use any [conduit](../../../../class/conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../../../class/conduit.md) ability you don't have that usually costs no [piety](../level-1/piety.md), you must spend 1 [divine power](divine-power.md) to use it.
+Additionally, you can spend [divine power](divine-power.md) as if it were piety to use any [conduit](../../../../class/conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../../../class/conduit.md) ability you don't have that usually costs no piety, you must spend 1 [divine power](divine-power.md) to use it.
 
 [Divine power](divine-power.md) remains until you spend it.
 
 ### Most Pious
 
-When you roll for [piety](../level-1/piety.md) at the start of your turn in combat and you pray, you gain 1 additional [piety](../level-1/piety.md).
+When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
 
 ### Perk
 
-You gain one crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 

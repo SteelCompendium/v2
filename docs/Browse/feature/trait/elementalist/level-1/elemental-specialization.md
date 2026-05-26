@@ -10,7 +10,7 @@ type: trait
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
-- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and [breath](../level-10/breath.md).
+- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.
 - **Earth** is the element of permanence. Earth abilities bolster your body and grant the power to permanently create and shape physical terrain.
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
@@ -18,4 +18,4 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including [one](../level-10/one.md) of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)

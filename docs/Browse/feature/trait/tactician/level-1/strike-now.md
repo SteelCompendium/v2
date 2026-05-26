@@ -21,4 +21,4 @@ You have the following ability.
 >
 > **Effect:** The target can use a signature ability as a free triggered action.
 >
-> **Spend 5 [Focus](focus.md):** You target two allies instead of one.
+> **Spend 5 Focus:** You target two allies instead of one.

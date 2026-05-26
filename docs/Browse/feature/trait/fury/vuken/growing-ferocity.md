@@ -8,11 +8,11 @@ type: trait
 
 # Growing Ferocity
 
-As your [ferocity](../level-1/ferocity.md) grows, you gain benefits as noted on the [Vuken](../../../../kit/vuken.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Vuken](../../../../kit/vuken.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table
 
-| [Ferocity](../level-1/ferocity.md)        | Benefit                                                                                                                                                                                                                          |
+| Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
 | 4               | The first time on a turn that you push a creature or knock a creature prone, you gain 1 surge.                                                                                                                                   |

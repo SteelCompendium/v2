@@ -13,7 +13,7 @@ name: Viscous Fire
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire
 subtype: signature
-target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature or object'
+target: One creature or object
 tier1: 2 + R fire damage; push 2
 tier2: 5 + R fire damage; push 3
 tier3: 7 + R fire damage; push 4
@@ -26,7 +26,7 @@ type: ability
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 

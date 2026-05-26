@@ -14,7 +14,7 @@ keywords:
 level: "6"
 name: Magma Titan
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan
-target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
+target: Self or one ally
 type: ability
 ---
 
@@ -24,7 +24,7 @@ type: ability
 
 | **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
 |---------------------------------------|------------------------:|
-| **📏 Ranged 10**                      | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**                      | **🎯 Self or one ally** |
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 

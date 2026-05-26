@@ -36,4 +36,4 @@ type: ability
 
 **Effect:** Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
 
-**Persistent 1:** You make the power roll again to target each enemy in the area without spending [essence](../../../trait/elementalist/level-1/essence.md), and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.

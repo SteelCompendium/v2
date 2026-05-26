@@ -8,4 +8,4 @@ type: trait
 
 # Improved Body
 
-When you gain [discipline](../level-1/discipline.md) at the start of each of your turns during combat, you gain 3 [discipline](../level-1/discipline.md) instead of 2.
+When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.

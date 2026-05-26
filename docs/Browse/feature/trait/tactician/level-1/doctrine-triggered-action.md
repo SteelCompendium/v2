@@ -31,4 +31,4 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 >
 > **Effect:** The target gains 2 surges, which they can use on the triggering damage.
 >
-> **Spend 1 [Focus](focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.
+> **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.

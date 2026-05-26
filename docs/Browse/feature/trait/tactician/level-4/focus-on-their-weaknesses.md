@@ -8,4 +8,4 @@ type: trait
 
 # Focus on Their Weaknesses
 
-The first time each combat round that you or any ally damages a target marked by you, you gain 2 [focus](../level-1/focus.md) instead of 1.
+The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.

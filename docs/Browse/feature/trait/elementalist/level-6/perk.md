@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain [one](../level-10/one.md) crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.

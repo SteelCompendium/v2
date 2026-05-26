@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Dramatic Monologue
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue
-spend: '1 [Drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama): You can choose two targets for the chosen effect.'
+spend: '1 Drama: You can choose two targets for the chosen effect.'
 target: Special
 type: ability
 ---
@@ -29,4 +29,4 @@ type: ability
 - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
 - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 
-**Spend 1 [Drama](../../../trait/troubadour/level-1/drama.md):** You can choose two targets for the chosen effect.
+**Spend 1 Drama:** You can choose two targets for the chosen effect.

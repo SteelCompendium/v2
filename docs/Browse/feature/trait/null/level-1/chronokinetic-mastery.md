@@ -10,11 +10,11 @@ type: trait
 
 Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                     |
+| Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.                                              |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |

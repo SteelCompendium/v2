@@ -11,9 +11,9 @@ keywords:
 level: "1"
 name: Explosive Assistance
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance
-spend: '1 [Essence](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/essence): The forced movement distance gains a bonus equal to twice your Reason score instead.'
+spend: '1 Essence: The forced movement distance gains a bonus equal to twice your Reason score instead.'
 subtype: triggered
-target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
+target: Self or one ally
 trigger: The target force moves a creature or object.
 type: ability
 ---
@@ -24,10 +24,10 @@ type: ability
 
 | **Fire, Magic, Ranged**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target force moves a creature or object. 
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
-**Spend 1 [Essence](../../../trait/elementalist/level-1/essence.md):** The forced movement distance gains a bonus equal to twice your Reason score instead.
+**Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.

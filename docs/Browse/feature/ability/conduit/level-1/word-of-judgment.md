@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Word of Judgment
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment
-spend: '1 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety): The power roll has a double bane against the target.'
+spend: '1 Piety: The power roll has a double bane against the target.'
 subtype: triggered
 target: One ally
 trigger: The target would take damage from an ability that uses a power roll.
@@ -29,4 +29,4 @@ type: ability
 
 **Effect:** The power roll takes a bane against the target.
 
-**Spend 1 [Piety](../../../trait/conduit/level-1/piety.md):** The power roll has a double bane against the target.
+**Spend 1 Piety:** The power roll has a double bane against the target.

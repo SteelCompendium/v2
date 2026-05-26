@@ -8,4 +8,4 @@ type: trait
 
 # Primordial Ferocity
 
-The first time you take damage each combat round, you gain 3 [ferocity](../level-1/ferocity.md) instead of 2.
+The first time you take damage each combat round, you gain 3 ferocity instead of 2.

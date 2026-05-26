@@ -36,4 +36,4 @@ type: ability
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.

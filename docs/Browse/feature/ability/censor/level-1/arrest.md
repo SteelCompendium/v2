@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: Melee 1
-effect: If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+effect: If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 flavor: '"I got you, you son of a bitch."'
 keywords:
     - Magic
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 9 + M holy damage; grabbed
 - **17+:** 13 + M holy damage; grabbed
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](../../../trait/censor/level-1/wrath.md) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.

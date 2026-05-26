@@ -8,7 +8,7 @@ type: trait
 
 # Applause
 
-You have an [epic](../../../ability/troubadour/level-9/epic.md) resource called [applause](applause.md). Each time you finish a respite, you gain [applause](applause.md) equal to the XP you gain. You can spend [applause](applause.md) on your abilities as if it were [drama](../level-1/drama.md).
+You have an epic resource called [applause](applause.md). Each time you finish a respite, you gain [applause](applause.md) equal to the XP you gain. You can spend [applause](applause.md) on your abilities as if it were drama.
 
 Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a test, you can spend 1 [applause](applause.md) to improve the outcome by 1 tier.
 

@@ -7,4 +7,4 @@ type: trait
 
 # Aspect Benefits and Animal Form
 
-Your [primordial aspect](level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight [kit](../censor/level-1/kit.md).
+Your [primordial aspect](level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.

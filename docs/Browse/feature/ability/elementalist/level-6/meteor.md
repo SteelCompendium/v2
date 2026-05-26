@@ -15,7 +15,7 @@ level: "6"
 name: Meteor
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor
-target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature or object'
+target: One creature or object
 tier1: You teleport the target up to 4 squares.
 tier2: You teleport the target up to 6 squares.
 tier3: You teleport the target up to 8 squares.
@@ -28,7 +28,7 @@ type: ability
 
 | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
-| **📏 Ranged 10**                     | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                     | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 

@@ -17,7 +17,7 @@ You have the following ability, which can be used as a ranged free strike.
 > 
 > | **Magic, Ranged, Strike** |               **Main action** |
 > |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 [One](../level-10/one.md) creature or object** |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
 > 
 > **Power Roll + Reason:**
 > 
@@ -25,4 +25,4 @@ You have the following ability, which can be used as a ranged free strike.
 > - **12-16:** 4 + R damage
 > - **17+:** 6 + R damage
 > 
-> **Effect:** When you make this strike, choose the damage type from [one](../level-10/one.md) of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+> **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.

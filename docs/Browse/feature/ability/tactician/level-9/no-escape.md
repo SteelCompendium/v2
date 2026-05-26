@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Melee 1
-effect: You [mark](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mark) the target.
+effect: You mark the target.
 flavor: Nothing will stop you from reaching your foe.
 keywords:
     - Charge
@@ -29,7 +29,7 @@ type: ability
 | --------------------------------- | ------------------: |
 | **📏 Melee 1**                    | **🎯 One creature** |
 
-**Effect:** You [mark](../level-1/mark.md) the target.
+**Effect:** You mark the target.
 
 **Power Roll + Might:**
 

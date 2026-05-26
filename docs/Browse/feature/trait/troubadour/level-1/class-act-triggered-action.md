@@ -31,4 +31,4 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a trigge
 >
 > **Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 >
-> **Spend 1+ [Drama](drama.md):** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional [drama](drama.md) spent.
+> **Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.

@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: 3 cube within 10
-effect: You can end [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+effect: You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
 flavor: You call down a rain that burns your enemies and restores your allies.
 keywords:
     - Area
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end [one](../../../trait/elementalist/level-10/one.md) effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.

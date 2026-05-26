@@ -17,6 +17,6 @@ You have the following ability.
 > 
 > | **Fire, Magic, Melee**  |           **Main action** |
 > |-------------------------|--------------------------:|
-> | **📏 Melee 1**          | **🎯 [One](../level-10/one.md) mundane object** |
+> | **📏 Melee 1**          | **🎯 One mundane object** |
 > 
 > **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.

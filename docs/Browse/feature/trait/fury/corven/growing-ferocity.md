@@ -8,11 +8,11 @@ type: trait
 
 # Growing Ferocity
 
-As your [ferocity](../level-1/ferocity.md) grows, you gain benefits as noted on the [Corven](../../../../kit/corven.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Corven](../../../../kit/corven.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
 
-| [Ferocity](../level-1/ferocity.md)        | Benefit                                                                                                                                           |
+| Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                 |
 | 4               | The first time you shift on a turn, you gain 1 surge.                                                                                             |

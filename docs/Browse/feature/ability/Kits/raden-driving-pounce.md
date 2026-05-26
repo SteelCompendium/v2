@@ -3,7 +3,7 @@ action_type: Main action
 class: raden
 distance: Melee 1
 effect: You can shift up to the same number of squares that you pushed the target.
-flavor: Your enemies try in vain to fall [back](scc:mcdm.heroes.v1/feature.ability.fury.level-1/back) from your pouncing attack.
+flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
     - Melee
     - Strike
@@ -21,7 +21,7 @@ type: ability
 
 # Raden (Driving Pounce)
 
-*Your enemies try in vain to fall [back](../fury/level-1/back.md) from your pouncing attack.*
+*Your enemies try in vain to fall back from your pouncing attack.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|

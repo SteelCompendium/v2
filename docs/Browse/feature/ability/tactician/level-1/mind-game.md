@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 5 Focus
 distance: Melee 1 or ranged 5
-effect: You [mark](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mark) the target.
+effect: You mark the target.
 flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 keywords:
     - Melee
@@ -29,7 +29,7 @@ type: ability
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Effect:** You [mark](mark.md) the target.
+**Effect:** You mark the target.
 
 **Power Roll + Might:**
 

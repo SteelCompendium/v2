@@ -15,5 +15,5 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a featur
 | Class Act  | Features     |
 |------------|--------------|
 | Auteur     | [Missed Cue](missed-cue.md)   |
-| Duelist    | [Foil](foil.md)         |
+| Duelist    | Foil         |
 | Virtuoso   | [Second Album](second-album.md) |

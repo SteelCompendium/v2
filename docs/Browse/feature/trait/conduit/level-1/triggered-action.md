@@ -23,4 +23,4 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 > 
 > **Effect:** The power roll gains an edge.
 > 
-> **Spend 1 [Piety](piety.md):** The power roll has a double edge.
+> **Spend 1 Piety:** The power roll has a double edge.

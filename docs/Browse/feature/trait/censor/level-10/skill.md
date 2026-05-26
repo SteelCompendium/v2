@@ -8,4 +8,4 @@ type: trait
 
 # Skill
 
-You gain one [skill](skill.md) of your choice.
+You gain one skill of your choice.

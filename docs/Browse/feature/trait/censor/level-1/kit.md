@@ -8,4 +8,4 @@ type: trait
 
 # Kit
 
-You can use and gain the benefits of a [kit](kit.md). See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../../../../kit/warrior-priest.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../../../../kit/warrior-priest.md).)

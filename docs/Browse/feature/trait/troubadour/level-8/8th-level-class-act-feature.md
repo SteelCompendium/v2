@@ -15,5 +15,5 @@ Your [troubadour](../../../../class/troubadour.md) class act grants you a featur
 | Class Act | Feature         |
 |-----------|-----------------|
 | Auteur    | [Deleted Scene](deleted-scene.md)   |
-| Duelist   | [Masterwork](masterwork.md)      |
+| Duelist   | Masterwork      |
 | Virtuoso  | [Crowd Favorites](crowd-favorites.md) |

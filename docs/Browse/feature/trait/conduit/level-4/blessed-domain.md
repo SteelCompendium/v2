@@ -8,4 +8,4 @@ type: trait
 
 # Blessed Domain
 
-Whenever you gain [piety](../level-1/piety.md) from a domain effect, you gain 1 additional [piety](../level-1/piety.md).
+Whenever you gain piety from a domain effect, you gain 1 additional piety.

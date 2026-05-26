@@ -12,4 +12,4 @@ Your mastery of elemental forces protects and emboldens you. If you are a berser
 
 When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are frightened of you (save ends).
 
-Additionally, when you use [Primordial Strike](../level-4/primordial-strike.md), you can spend up to 3 [ferocity](../level-1/ferocity.md), gaining 1 surge per [ferocity](../level-1/ferocity.md) spent to use for that strike.
+Additionally, when you use [Primordial Strike](../level-4/primordial-strike.md), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.

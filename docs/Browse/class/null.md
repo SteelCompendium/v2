@@ -3,7 +3,7 @@ average_potency: Intuition − 1
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the Psionics [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups. (*Quick Build:* Psionics, Read Person, Timescape.)'
+    - 'You gain the Psionics skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Timescape.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition − 2
@@ -11,9 +11,9 @@ weak_potency: Intuition − 2
 
 # Null
 
-The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect [discipline](../feature/trait/null/level-1/discipline.md), perfect [order](../feature/trait/null/level-10/order.md), mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
+The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
-**As a [null](null.md), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect [order](../feature/trait/null/level-10/order.md), you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
+**As a [null](null.md), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
 > "Any weapon can be turned against the hand that wields it."
 >
@@ -39,22 +39,22 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics [skill](../feature/trait/censor/level-10/skill.md) (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore [skill](../feature/trait/censor/level-10/skill.md) groups. (*Quick Build:* Psionics, Read Person, Timescape.)
+**Skills:** You gain the Psionics skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Timescape.)
 
 ###### Null Advancement Table
 
 | Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Null](null.md) Tradition, [Discipline](../feature/trait/null/level-1/discipline.md), [Null](null.md) Field, [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md), [Null](null.md) Speed, [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/trait/null/level-1/psionic-martial-arts.md), [Null](null.md) Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | [Perk](../feature/trait/censor/level-10/perk.md), Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | [Psionic Leap](../feature/trait/null/level-3/psionic-leap.md), [Reorder](../feature/trait/null/level-3/reorder.md), 7-[Discipline](../feature/trait/null/level-1/discipline.md) Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), Enhanced [Null](null.md) Field, [Perk](../feature/trait/censor/level-10/perk.md), [Regenerative Field](../feature/trait/null/level-4/regenerative-field.md), [Skill](../feature/trait/censor/level-10/skill.md)                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-[Discipline](../feature/trait/null/level-1/discipline.md) Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Elemental Absorption](../feature/trait/null/level-6/elemental-absorption.md), [Elemental Buffer](../feature/trait/null/level-6/elemental-buffer.md), [Perk](../feature/trait/censor/level-10/perk.md), Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), [Psi Boost](../feature/trait/null/level-7/psi-boost.md), [Improved Body](../feature/trait/null/level-7/improved-body.md), [Skill](../feature/trait/censor/level-10/skill.md)                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | [Perk](../feature/trait/censor/level-10/perk.md), Tradition Feature, 11-[Discipline](../feature/trait/null/level-1/discipline.md) Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 1st   | [Null](null.md) Tradition, Discipline, [Null](null.md) Field, [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md), [Null](null.md) Speed, [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/trait/null/level-1/psionic-martial-arts.md), [Null](null.md) Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
+| 3rd   | [Psionic Leap](../feature/trait/null/level-3/psionic-leap.md), [Reorder](../feature/trait/null/level-3/reorder.md), 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), Enhanced [Null](null.md) Field, Perk, [Regenerative Field](../feature/trait/null/level-4/regenerative-field.md), Skill                                       | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | [Elemental Absorption](../feature/trait/null/level-6/elemental-absorption.md), [Elemental Buffer](../feature/trait/null/level-6/elemental-buffer.md), Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), [Psi Boost](../feature/trait/null/level-7/psi-boost.md), [Improved Body](../feature/trait/null/level-7/improved-body.md), Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
 | 9th   | [I Am the Weapon](../feature/trait/null/level-9/i-am-the-weapon.md), Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), [Manifold Body](../feature/trait/null/level-10/manifold-body.md), [Manifold Resonance](../feature/trait/null/level-10/manifold-resonance.md), [Order](../feature/trait/null/level-10/order.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md)                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), [Manifold Body](../feature/trait/null/level-10/manifold-body.md), [Manifold Resonance](../feature/trait/null/level-10/manifold-resonance.md), Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 
 ---
@@ -65,11 +65,11 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                     |
+| Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.                                              |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
@@ -82,11 +82,11 @@ Additionally, as your [discipline](discipline.md) grows, your psionic mastery of
 
 Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Grab maneuver as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                           |
+| Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../../class/null.md) Field ability, you gain 1 surge.                                                   |
@@ -101,25 +101,25 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 ### Discipline
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called [discipline](discipline.md).
+As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [discipline](discipline.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [discipline](discipline.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability (see below) uses a main action, you gain 1 [discipline](discipline.md). The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 [discipline](discipline.md).
+Additionally, the first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
 
-You lose any remaining [discipline](discipline.md) at the end of the encounter.
+You lose any remaining discipline at the end of the encounter.
 
 ##### Discipline Outside of Combat
 
-Though you can't gain [discipline](discipline.md) outside of combat, you can use your heroic abilities and effects that cost [discipline](discipline.md) without spending it. Whenever you use an ability or effect outside of combat that costs [discipline](discipline.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited [discipline](discipline.md) on its effect, you can use it as if you had spent an amount of [discipline](discipline.md) equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../../class/null.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../../class/null.md), but they might appear in future products.)
 
 ### Discipline Mastery
 
-As you advance in your chosen [null](../../../../class/null.md) tradition, you gain certain benefits in combat, including benefits based on the amount of [discipline](discipline.md) you have. Benefits based on how much [discipline](discipline.md) you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [discipline](discipline.md) you spend during your turn.
+As you advance in your chosen [null](../../../../class/null.md) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
 Some [Discipline Mastery](discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -144,17 +144,17 @@ Your instincts for danger let you predict attacks before they happen.
 > 
 > **Effect:** You take half the damage.
 > 
-> **Spend 1 [Discipline](discipline.md):** The potency of one effect associated with the damage is reduced by 1 for you.
+> **Spend 1 Discipline:** The potency of one effect associated with the damage is reduced by 1 for you.
 
 ### Metakinetic Mastery
 
 Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Knockback maneuver as a free triggered action.
 
-Additionally, as your [discipline](discipline.md) grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
-| [Discipline](discipline.md)      | Benefit                                                                                                                                                                                     |
+| Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Intuition score.                                                                          |
 | 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                  |
@@ -165,7 +165,7 @@ Additionally, as your [discipline](discipline.md) grows, your psionic potential 
 
 ### Null Field
 
-You project a psionic field of [order](../level-10/order.md) around your body, dampening the effects of supernatural abilities harmful to you and your allies.
+You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
 ##### [Null](../../../../class/null.md) Field
 
@@ -178,7 +178,7 @@ You project a psionic field of [order](../level-10/order.md) around your body, d
 > 
 > **Effect:** Each target reduces their potencies by 1.
 > 
-> Once as a free maneuver on each of your turns, you can spend 1 [discipline](discipline.md) and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
 > 
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -192,11 +192,11 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 ### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](../../../../class/null.md) tradition from the following options, each of which grants you a [skill](../../censor/level-10/skill.md). (*Quick Build:* Chronokinetic and the Monsters [skill](../../censor/level-10/skill.md).)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](../../../../class/null.md) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
-- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one [skill](../../censor/level-10/skill.md) from the lore group.
-- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one [skill](../../censor/level-10/skill.md) from the crafting group.
-- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one [skill](../../censor/level-10/skill.md) from the exploration group.
+- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
+- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
+- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
 Your [null](../../../../class/null.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
@@ -260,7 +260,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its [discipline](../../../trait/null/level-1/discipline.md) cost as usual.
+**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ### Dance of Blows
 
@@ -280,7 +280,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 ### Faster Than the Eye
 
-*You strike so quickly that your hands become a [blur](../level-2/blur.md).*
+*You strike so quickly that your hands become a blur.*
 
 | **Melee, Psionic, Strike, Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
@@ -322,7 +322,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 **Effect:** You take half the damage.
 
-**Spend 1 [Discipline](../../../trait/null/level-1/discipline.md):** The potency of one effect associated with the damage is reduced by 1 for you.
+**Spend 1 Discipline:** The potency of one effect associated with the damage is reduced by 1 for you.
 
 ### Inertial Step
 
@@ -664,7 +664,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 **Effect:** Each target reduces their potencies by 1.
 
-Once as a free maneuver on each of your turns, you can spend 1 [discipline](../../../trait/null/level-1/discipline.md) and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
+Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
 
 - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -784,7 +784,7 @@ Additionally, when you fall, you reduce the effective height of the fall by 5 sq
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ### Rapid Processing
 
@@ -982,7 +982,7 @@ At the start of each of your turns, you can use a free triggered action to end o
 
 ### Stabilizing Field
 
-*You project [order](../../../trait/null/level-10/order.md), making it harder for your enemies to interfere with you and your allies.*
+*You project order, making it harder for your enemies to interfere with you and your allies.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
@@ -1048,7 +1048,7 @@ Your Agility and Intuition scores each increase to 3.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more [discipline](../level-1/discipline.md).
+Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more discipline.
 
 ### Enhanced Null Field
 
@@ -1056,15 +1056,15 @@ While using your [Null](../../../../class/null.md) Field ability, you disrupt ma
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Regenerative Field
 
-The first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability uses a main action, you gain 2 [discipline](../level-1/discipline.md) instead of 1.
+The first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ## 5th-Level Features
 
@@ -1090,7 +1090,7 @@ Whenever you use an ability to reduce damage dealt to you or to reduce the dista
 
 ### Instant Action
 
-If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 [discipline](../level-1/discipline.md) to no longer be surprised and gain the benefits of this feature.
+If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
 
 ## 5th-Level Abilities
 
@@ -1214,13 +1214,13 @@ Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic da
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice.
+You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 ## 6th-Level Abilities
 
 ### Gravitic Charge
 
-*You channel your [discipline](../../../trait/null/level-1/discipline.md) into momentum that defies gravity.*
+*You channel your discipline into momentum that defies gravity.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
@@ -1382,7 +1382,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more [discipline](../level-1/discipline.md).
+Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.
 
 ### Dynamic Power
 
@@ -1402,7 +1402,7 @@ If the ability deals rolled damage, it deals extra damage equal to your Intuitio
 
 ### Improved Body
 
-When you gain [discipline](../level-1/discipline.md) at the start of each of your turns during combat, you gain 3 [discipline](../level-1/discipline.md) instead of 2.
+When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.
 
 ### Magnified Power
 
@@ -1410,7 +1410,7 @@ If the ability has a potency, you increase that potency by an amount equal to yo
 
 ### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional [discipline](../level-1/discipline.md) to apply a [psi boost](psi-boost.md) to it and enhance its effects. A [psi boost](psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](psi-boost.md) to it and enhance its effects. A [psi boost](psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ### Shared Power
 
@@ -1422,7 +1422,7 @@ If the ability has any power roll, that roll gains an edge.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ## 8th-Level Features
 
@@ -1444,7 +1444,7 @@ You and each creature or object of your choice in the area of your [Null](../../
 
 ### Perk
 
-You gain one [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Shared Momentum
 
@@ -1768,31 +1768,31 @@ Your Agility and Intuition scores each increase to 5.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more [discipline](../level-1/discipline.md).
+Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline.
 
 ### Manifold Body
 
-When you gain [discipline](../level-1/discipline.md) at the start of each of your turns during combat, you gain 4 [discipline](../level-1/discipline.md) instead of 3.
+When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
 
 ### Manifold Resonance
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](../../../../class/null.md) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 [discipline](../level-1/discipline.md) that can be used only to apply a benefit from your [Psi Boost](../level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null](../../../../class/null.md) Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null](../../../../class/null.md) Field ability ignore banes and double banes on your power rolls.
 
 ### Order
 
-You have an epic resource called [order](order.md). Each time you finish a respite, you gain [order](order.md) equal to the XP you gain. You can spend [order](order.md) on your abilities as if it were [discipline](../level-1/discipline.md).
+You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 [order](order.md) to increase the size of your [Null](../../../../class/null.md) Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](../../../../class/null.md) Field by 1 until the end of the encounter.
 
-[Order](order.md) remains until you spend it.
+Order remains until you spend it.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice.
+You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 ### Skill
 
-You gain one [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 

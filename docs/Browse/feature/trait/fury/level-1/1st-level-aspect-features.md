@@ -14,6 +14,6 @@ Your [primordial aspect](primordial-aspect.md) grants you two features, as shown
 
 | Aspect     | Feature                        |
 |------------|--------------------------------|
-| Berserker  | [Kit](../../censor/level-1/kit.md), [Primordial Strength](primordial-strength.md)       |
-| Reaver     | [Kit](../../censor/level-1/kit.md), [Primordial Cunning](primordial-cunning.md)        |
+| Berserker  | Kit, [Primordial Strength](primordial-strength.md)       |
+| Reaver     | Kit, [Primordial Cunning](primordial-cunning.md)        |
 | Stormwight | [Beast Shape](beast-shape.md), [Relentless Hunter](relentless-hunter.md) |

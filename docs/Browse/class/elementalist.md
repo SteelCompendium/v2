@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Elementalist
 scc: mcdm.heroes.v1/class/elementalist
 skills:
-    - 'You gain the Magic [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any three skills from the crafting or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
+    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -21,7 +21,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ### Basics
 
-**Starting Characteristics:** You start with a Reason of 2, and you can choose [one](../feature/trait/elementalist/level-10/one.md) of the following arrays for your other characteristic scores:
+**Starting Characteristics:** You start with a Reason of 2, and you can choose one of the following arrays for your other characteristic scores:
 
 - 2, 2, −1, −1
 - 2, 1, 1, −1
@@ -40,22 +40,22 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Magic [skill](../feature/trait/censor/level-10/skill.md) (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore [skill](../feature/trait/censor/level-10/skill.md) groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ###### Elementalist Advancement Table
 
 | Level  | Features                                                                                                                                                                                            | Abilities                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| 1st    | [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md), [Essence](../feature/trait/elementalist/level-1/essence.md), [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), Specialization Feature, [Specialization Triggered Action](../feature/trait/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/trait/elementalist/level-1/enchantment.md), [Elementalist](elementalist.md) Ward, [Elementalist](elementalist.md) Abilities | Two signature, 3, 5                 |
-| 2nd    | [Perk](../feature/trait/censor/level-10/perk.md), Specialization Feature, New 5-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd    | Specialization Feature, 7-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th    | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Font of Essence](../feature/trait/elementalist/level-4/font-of-essence.md), [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th    | Specialization Feature, 9-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th    | [Perk](../feature/trait/censor/level-10/perk.md), [Wyrding](../feature/trait/elementalist/level-6/wyrding.md), New 9-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th    | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mantle of Quintessence](../feature/trait/elementalist/level-7/mantle-of-quintessence.md), [Surging Essence](../feature/trait/elementalist/level-7/surging-essence.md), [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th    | [Perk](../feature/trait/censor/level-10/perk.md), Specialization Feature, 11-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th    | [Grand Wyrding](../feature/trait/elementalist/level-9/grand-wyrding.md), New 11-[Essence](../feature/trait/elementalist/level-1/essence.md) Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Breath](../feature/trait/elementalist/level-10/breath.md), [Essential Being](../feature/trait/elementalist/level-10/essential-being.md), [One](../feature/trait/elementalist/level-10/one.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md) Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 1st    | [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md), Essence, [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), Specialization Feature, [Specialization Triggered Action](../feature/trait/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/trait/elementalist/level-1/enchantment.md), [Elementalist](elementalist.md) Ward, [Elementalist](elementalist.md) Abilities | Two signature, 3, 5                 |
+| 2nd    | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
+| 3rd    | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 4th    | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Font of Essence](../feature/trait/elementalist/level-4/font-of-essence.md), [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md), Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 5th    | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
+| 6th    | Perk, [Wyrding](../feature/trait/elementalist/level-6/wyrding.md), New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th    | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mantle of Quintessence](../feature/trait/elementalist/level-7/mantle-of-quintessence.md), [Surging Essence](../feature/trait/elementalist/level-7/surging-essence.md), Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th    | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th    | [Grand Wyrding](../feature/trait/elementalist/level-9/grand-wyrding.md), New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Breath, [Essential Being](../feature/trait/elementalist/level-10/essential-being.md), One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 
 ---
@@ -90,7 +90,7 @@ You also gain the following ability.
 > |-------------------------|----------------:|
 > | **📏 Ranged 10**        |  **🎯 Special** |
 > 
-> **Effect:** For each Victory you have, you can target [one](../level-10/one.md) creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../ability/elementalist/level-1/shared-void-sense.md) ability.
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../ability/elementalist/level-1/shared-void-sense.md) ability.
 
 ### Earth: Acolyte of Earth
 
@@ -100,7 +100,7 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
-- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and [breath](../level-10/breath.md).
+- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.
 - **Earth** is the element of permanence. Earth abilities bolster your body and grant the power to permanently create and shape physical terrain.
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
@@ -108,15 +108,15 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including [one](../level-10/one.md) of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
 
 ### Elementalist Ward
 
-You create an invisible elemental ward that protects you. Choose [one](../level-10/one.md) of the following wards. You can change your ward and [enchantment](enchantment.md) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](ward-of-surprising-reactivity.md).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](enchantment.md) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](ward-of-surprising-reactivity.md).)
 
 ### Enchantment
 
-You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose [one](../level-10/one.md) of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist](../../../../class/elementalist.md) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)
+You weave an elemental [enchantment](enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](enchantment.md) and ward (see [Elementalist](../../../../class/elementalist.md) Ward below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](enchantment-of-destruction.md).)
 
 ### Enchantment of Battle
 
@@ -142,23 +142,23 @@ You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 1
 
 ### Essence
 
-You channel the substance of creation in the form of a Heroic Resource called [essence](essence.md), gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [essence](essence.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [essence](essence.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence.
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 [essence](essence.md).
+Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
 
-You lose any remaining [essence](essence.md) at the end of the encounter.
+You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence](essence.md) outside of combat, you can use your heroic abilities and effects that cost [essence](essence.md) without spending it. Whenever you use an ability or effect outside of combat that costs [essence](essence.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](persistent-magic.md) below), you can maintain it for a number of rounds equal to your Victories.
 
-When you use an ability outside of combat that lets you spend unlimited [essence](essence.md) on its effect, you can use it as if you had spent an amount of [essence](essence.md) equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
 ### Fire: Acolyte of Fire
 
@@ -166,7 +166,7 @@ You become an expert at wielding destructive flames. Your abilities that have th
 
 ### Green: Acolyte of the Green
 
-You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to [one](../level-10/one.md) or more creatures using an ability that has the Green and Magic keywords and that costs [essence](essence.md) to use (see below), you or [one](../level-10/one.md) creature within 10 squares of you gains temporary Stamina equal to your Reason score.
+You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains temporary Stamina equal to your Reason score.
 
 ### Hurl Element
 
@@ -179,7 +179,7 @@ You have the following ability, which can be used as a ranged free strike.
 > 
 > | **Magic, Ranged, Strike** |               **Main action** |
 > |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 [One](../level-10/one.md) creature or object** |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
 > 
 > **Power Roll + Reason:**
 > 
@@ -187,7 +187,7 @@ You have the following ability, which can be used as a ranged free strike.
 > - **12-16:** 4 + R damage
 > - **17+:** 6 + R damage
 > 
-> **Effect:** When you make this strike, choose the damage type from [one](../level-10/one.md) of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+> **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
 ### It Is the Soul Which Hears
 
@@ -214,13 +214,13 @@ You have the following ability.
 
 ### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry. For example, the [Instantaneous Excavation](../../../ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of [essence](essence.md) you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your heroic abilities have a persistent effect entry. For example, the [Instantaneous Excavation](../../../ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of [essence](essence.md) at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your Reason score in [one](../level-10/one.md) turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](../../../ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in [one](../level-10/one.md) turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](../../../ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
 ### Practical Magic
 
@@ -235,11 +235,11 @@ You have the following ability.
 > |------------------------|-------------:|
 > | **📏 Self; see below** |  **🎯 Self** |
 > 
-> **Effect:** Choose [one](../level-10/one.md) of the following effects:
+> **Effect:** Choose one of the following effects:
 > 
 > - You use the Knockback maneuver (see Chapter 10: [Combat](../../../../chapter/combat.md)), but its distance becomes the range of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and [one](../level-10/one.md) of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](essence.md) to teleport 1 additional square for each [essence](essence.md) spent.
+> - You choose a creature within the distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
 
 ### Return to Formlessness
 
@@ -252,7 +252,7 @@ You have the following ability.
 > 
 > | **Fire, Magic, Melee**  |           **Main action** |
 > |-------------------------|--------------------------:|
-> | **📏 Melee 1**          | **🎯 [One](../level-10/one.md) mundane object** |
+> | **📏 Melee 1**          | **🎯 One mundane object** |
 > 
 > **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
@@ -276,13 +276,13 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 > 
 > | **Green, Magic, Ranged**          |           **Triggered** |
 > |-----------------------------------|------------------------:|
-> | **📏 Ranged 10**                  | **🎯 Self or [one](../level-10/one.md) ally** |
+> | **📏 Ranged 10**                  | **🎯 Self or one ally** |
 > 
 > **Trigger:** The target starts their turn or takes damage.
 > 
 > **Effect:** The target can spend a Recovery.
 > 
-> **Spend 1+ [Essence](essence.md):** The target can spend an additional Recovery for each [essence](essence.md) spent.
+> **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
 ### Void: Acolyte of the Mystery
 
@@ -312,7 +312,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Power Roll + Reason:**
 
@@ -320,7 +320,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or [one](../../../trait/elementalist/level-10/one.md) ally within distance. That character can end [one](../../../trait/elementalist/level-10/one.md) effect on them that is ended by a saving throw or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
 ### Behold the Mystery
 
@@ -336,7 +336,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
 ### Bifurcated Incineration
 
@@ -358,13 +358,13 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Green, Magic, Ranged**          |           **Triggered** |
 |-----------------------------------|------------------------:|
-| **📏 Ranged 10**                  | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**                  | **🎯 Self or one ally** |
 
 **Trigger:** The target starts their turn or takes damage.
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ [Essence](../../../trait/elementalist/level-1/essence.md):** The target can spend an additional Recovery for each [essence](../../../trait/elementalist/level-1/essence.md) spent.
+**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
 ### Conflagration
 
@@ -380,7 +380,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
 ### Explosive Assistance
 
@@ -388,13 +388,13 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Fire, Magic, Ranged**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target force moves a creature or object. 
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
-**Spend 1 [Essence](../../../trait/elementalist/level-1/essence.md):** The forced movement distance gains a bonus equal to twice your Reason score instead.
+**Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
 ### Grasp of Beyond
 
@@ -402,7 +402,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Magic, Melee, Strike, Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Melee 1**                 | **🎯 One creature** |
 
 **Power Roll + Reason:**
 
@@ -418,7 +418,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Magic, Ranged, Strike** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**          | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -426,7 +426,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** 4 + R damage
 - **17+:** 6 + R damage
 
-**Effect:** When you make this strike, choose the damage type from [one](../../../trait/elementalist/level-10/one.md) of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+**Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
 ### Instantaneous Excavation
 
@@ -444,7 +444,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
 
 ### Invigorating Growth
 
@@ -452,7 +452,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Green, Magic, Ranged, Strike** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                 |  **🎯 One creature** |
 
 **Power Roll + Reason:**
 
@@ -468,7 +468,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 | **Earth, Magic, Melee, Strike** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Melee 1**                  | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Melee 1**                  | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -494,7 +494,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Magic, Ranged, Void** |            **Maneuver** |
 |-------------------------|------------------------:|
-| **📏 Ranged 10**        | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**        | **🎯 Self or one ally** |
 
 **Effect:** Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
@@ -508,11 +508,11 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Choose [one](../../../trait/elementalist/level-10/one.md) of the following effects:
+**Effect:** Choose one of the following effects:
 
 - You use the Knockback maneuver (see Chapter 10: [Combat](../../../../chapter/combat.md)), but its distance becomes the range of your [Hurl Element](hurl-element.md) ability, and you use Reason instead of Might for the power roll.
-- You choose a creature within the distance of your [Hurl Element](hurl-element.md) ability and [one](../../../trait/elementalist/level-10/one.md) of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-- You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](../../../trait/elementalist/level-1/essence.md) to teleport 1 additional square for each [essence](../../../trait/elementalist/level-1/essence.md) spent.
+- You choose a creature within the distance of your [Hurl Element](hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+- You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
 
 ### Ray of Agonizing Self-Reflection
 
@@ -520,7 +520,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Magic, Ranged, Strike, Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -534,7 +534,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Fire, Magic, Melee**  |           **Main action** |
 |-------------------------|--------------------------:|
-| **📏 Melee 1**          | **🎯 [One](../../../trait/elementalist/level-10/one.md) mundane object** |
+| **📏 Melee 1**          | **🎯 One mundane object** |
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
@@ -562,7 +562,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 |-------------------------|----------------:|
 | **📏 Ranged 10**        |  **🎯 Special** |
 
-**Effect:** For each Victory you have, you can target [one](../../../trait/elementalist/level-10/one.md) creature. Each target gains the benefit of your [A Beyonding of Vision](../../../trait/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](shared-void-sense.md) ability.
+**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../trait/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](shared-void-sense.md) ability.
 
 ### Skin Like Castle Walls
 
@@ -570,13 +570,13 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Earth, Magic, Ranged**  |           **Triggered** |
 |---------------------------|------------------------:|
-| **📏 Ranged 10**          | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**          | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage.
 
 **Effect:** The target takes half the damage.
 
-**Spend 1 [Essence](../../../trait/elementalist/level-1/essence.md):** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
+**Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
 
 ### Subtle Relocation
 
@@ -584,13 +584,13 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Magic, Ranged, Void**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target starts their turn, moves, or is force moved. 
 
 **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
 
-**Spend 1 [Essence](../../../trait/elementalist/level-1/essence.md):** You teleport the target up to a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
 ### Test of Rain
 
@@ -606,7 +606,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end [one](../../../trait/elementalist/level-10/one.md) effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
 
 ### The Flesh, a Crucible
 
@@ -614,7 +614,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -622,7 +622,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending [essence](../../../trait/elementalist/level-1/essence.md) (no action required).
+**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
 
 ### The Flesh, a Crucible (3 [Essence](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/essence))
 
@@ -646,7 +646,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Green, Magic, Ranged, Strike** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                 |  **🎯 One creature** |
 
 **Power Roll + Reason:**
 
@@ -654,7 +654,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 - **12-16:** 5 + R damage
 - **17+:** 7 + R damage
 
-**Effect:** You slide [one](../../../trait/elementalist/level-10/one.md) creature within 10 squares of the target up to 2 squares.
+**Effect:** You slide one creature within 10 squares of the target up to 2 squares.
 
 ### Unquiet Ground
 
@@ -678,7 +678,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -1066,7 +1066,7 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 
 ### Perk
 
-You gain [one](../level-10/one.md) crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ### There Is No Space Between
 
@@ -1125,7 +1125,7 @@ You have the following ability.
 
 | **Green, Magic, Ranged, Strike, Void** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
 
@@ -1153,7 +1153,7 @@ At the start of each of your turns while the portals are active, you can open a 
 
 | **Fire, Magic, Ranged, Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**              | **🎯 Self or one ally** |
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 
@@ -1169,7 +1169,7 @@ At the start of each of your turns while the portals are active, you can open a 
 
 | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Power Roll + Reason:**
 
@@ -1284,7 +1284,7 @@ You have the following ability.
 > 
 > | **Green, Magic, Melee** |                  **Main action** |
 > |-------------------------|---------------------------------:|
-> | **📏 Melee 1**          | **🎯 [One](../level-10/one.md) mundane wooden object** |
+> | **📏 Melee 1**          | **🎯 One mundane wooden object** |
 > 
 > **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -1312,7 +1312,7 @@ You have the following ability.
 
 **Power Roll + Reason:**
 
-- **≤11:** [One](../../../trait/elementalist/level-10/one.md) creature
+- **≤11:** One creature
 - **12-16:** Two creatures
 - **17+:** Three creatures
 
@@ -1340,7 +1340,7 @@ You have the following ability.
 
 | **Green, Magic, Melee** |                  **Main action** |
 |-------------------------|---------------------------------:|
-| **📏 Melee 1**          | **🎯 [One](../../../trait/elementalist/level-10/one.md) mundane wooden object** |
+| **📏 Melee 1**          | **🎯 One mundane wooden object** |
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -1360,7 +1360,7 @@ You have the following ability.
 
 **Effect:** Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
 
-**Persistent 1:** You make the power roll again to target each enemy in the area without spending [essence](../../../trait/elementalist/level-1/essence.md), and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
 
 ### Wall of Fire
 
@@ -1466,7 +1466,7 @@ At the end of each of your turns, each enemy in the area takes fire damage equal
 
 ### Characteristic Increase
 
-Your Reason score increases to 3. Additionally, you can increase [one](../level-10/one.md) of your characteristic scores by 1, to a maximum of 3.
+Your Reason score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
 
 ### Flowering Bed
 
@@ -1474,11 +1474,11 @@ At the end of each of your turns, each ally in the area gains temporary Stamina 
 
 ### Font of Essence
 
-The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 [essence](../level-1/essence.md) instead of 1.
+The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
 
 ### Mantle of Essence
 
-While you have 3 or more [essence](../level-1/essence.md) and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ###### Mantle of Essence Specialization Effects Table
 
@@ -1491,7 +1491,7 @@ While you have 3 or more [essence](../level-1/essence.md) and are not dying, you
 
 ### Perk
 
-You gain [one](../level-10/one.md) [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Quaking Earth
 
@@ -1499,7 +1499,7 @@ At the end of each of your turns, you can push each enemy in the area up to a nu
 
 ### Skill
 
-You gain [one](../level-10/one.md) [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ### Veiling Bed
 
@@ -1528,9 +1528,9 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 ### Pierce the Veil of Substance
 
-Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past [one](../level-10/one.md) such barrier at a time.
+Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or [one](../level-10/one.md) ally within distance of the ability can teleport a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can teleport a number of squares equal to your Reason score.
 
 ### Smoldering Step
 
@@ -1552,7 +1552,7 @@ Additionally, whenever an ally within distance of your [Hurl Element](../../../a
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -1578,7 +1578,7 @@ Additionally, whenever an ally within distance of your [Hurl Element](../../../a
 
 **Effect:** The area lasts until the start of your next turn. It is difficult terrain for enemies, and you and your allies have concealment while in the area.
 
-**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
 
 ### Subverted Perception of Space
 
@@ -1586,7 +1586,7 @@ Additionally, whenever an ally within distance of your [Hurl Element](../../../a
 
 | **Magic, Ranged, Strike, Void** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -1682,18 +1682,18 @@ Additionally, whenever an ally within distance of your [Hurl Element](../../../a
 
 ### Perk
 
-You gain [one](../level-10/one.md) crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.
 
 ### Wyrding
 
-You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose [one](../level-10/one.md) of the following magical effects:
+You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose one of the following magical effects:
 
 - You create a mundane object of a size equal to your Reason score or smaller.
 - You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can't be detected by enemies.
 - You restore all Stamina to a mundane object of a size equal to your Reason score or smaller.
 - Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with difficult terrain or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
-- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first [one](../level-10/one.md) disappears. You can dispel a seal at any time (no action required).
+- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
 ## 6th-Level Abilities
 
@@ -1703,7 +1703,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 | **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
 **Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 
@@ -1715,7 +1715,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 | **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
 |---------------------------------------|------------------------:|
-| **📏 Ranged 10**                      | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**                      | **🎯 Self or one ally** |
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 
@@ -1733,7 +1733,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
-| **📏 Ranged 10**                     | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
+| **📏 Ranged 10**                     | **🎯 One creature or object** |
 
 **Power Roll + Reason:**
 
@@ -1821,17 +1821,17 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 ### Mantle of Quintessence
 
-Your [Mantle of Essence](../level-4/mantle-of-essence.md) feature no longer requires [essence](../level-1/essence.md).
+Your [Mantle of Essence](../level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals [skill](../../censor/level-10/skill.md). If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals [skill](../../censor/level-10/skill.md) have a double edge.
+Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
 
 ### Skill
 
-You gain [one](../level-10/one.md) [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ### Surging Essence
 
-When you gain [essence](../level-1/essence.md) at the start of each of your turns during combat, you gain 3 [essence](../level-1/essence.md) instead of 2.
+When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
 
 ## 8th-Level Features
 
@@ -1850,7 +1850,7 @@ Your [elemental specialization](../level-1/elemental-specialization.md) grants y
 
 ### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target [one](../level-10/one.md) creature or object within distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.
 
 Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
 
@@ -1864,7 +1864,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 ### Perk
 
-You gain [one](../level-10/one.md) [perk](../../censor/level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Summon Source of Earth
 
@@ -1897,7 +1897,7 @@ You have the following ability.
 >>
 >> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 [One](../level-10/one.md) creature or object** |
+>> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >>
 >> **Power Roll + 3:**
 >>
@@ -1931,13 +1931,13 @@ Additionally, any enemy who starts their turn adjacent to you has fire weakness 
 
 ### Heart of the Wode
 
-*You call forth [one](../../../trait/elementalist/level-10/one.md) of the Great Tree's many splinters to provide for your every need.*
+*You call forth one of the Great Tree's many splinters to provide for your every need.*
 
 | **Green, Magic, Ranged** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch [Breath](../../../trait/elementalist/level-10/breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end [one](../../../trait/elementalist/level-10/one.md) effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are prone. Each ally within distance also gains this benefit.
+**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are prone. Each ally within distance also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is restrained until the end of their next turn. A creature restrained this way can use a main action to end the effect early.
 
@@ -2071,7 +2071,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../level-6/wyrding.md) feature as a main action.
 
-Additionally, when you have 5 or more Victories, choose [one](../level-10/one.md) of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
+Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
 ## 9th-Level Abilities
 
@@ -2089,17 +2089,17 @@ Additionally, when you have 5 or more Victories, choose [one](../level-10/one.md
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
 ### Prism
 
-*You split your [essence](../../../trait/elementalist/level-1/essence.md), allowing you to cast multiple effects at once.*
+*You split your essence, allowing you to cast multiple effects at once.*
 
 | **Magic, Void** | **Main action** |
 |-----------------|----------------:|
 | **📏 Self**     |     **🎯 Self** |
 
-**Effect:** You use up to three heroic abilities whose [essence](../../../trait/elementalist/level-1/essence.md) costs total 11 or less, spending no additional [essence](../../../trait/elementalist/level-1/essence.md) beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.
+**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.
 
 ### The Green Defends Its Servants
 
@@ -2107,7 +2107,7 @@ Additionally, when you have 5 or more Victories, choose [one](../level-10/one.md
 
 | **Green, Magic, Ranged** |            **Maneuver** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the Defend main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
@@ -2119,7 +2119,7 @@ Additionally, when you have 5 or more Victories, choose [one](../level-10/one.md
 
 | **Fire, Magic, Ranged, Strike** |            **Main action** |
 |---------------------------------|---------------------------:|
-| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) enemy or object** |
+| **📏 Ranged 10**                | **🎯 One enemy or object** |
 
 **Power Roll + Reason:**
 
@@ -2187,17 +2187,17 @@ Additionally, when you have 5 or more Victories, choose [one](../level-10/one.md
 
 ### Breath
 
-You have an epic resource called [breath](breath.md). Each time you finish a respite, you gain [breath](breath.md) equal to the XP you gain. You can spend any number of [breath](breath.md) to gain [essence](../level-1/essence.md) (no action required). When you do, 1 [breath](breath.md) becomes 3 [essence](../level-1/essence.md).
+You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.
 
-[Breath](breath.md) remains until you convert it to [essence](../level-1/essence.md).
+Breath remains until you convert it to essence.
 
 ### Characteristic Increase
 
-Your Reason score increases to 5. Additionally, you can increase [one](one.md) of your characteristic scores by 1, to a maximum of 5.
+Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
 
 ### Essential Being
 
-When you gain [essence](../level-1/essence.md) at the start of each of your turns during combat, you gain 4 [essence](../level-1/essence.md) instead of 3.
+When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
 
 ### Master of Earth
 
@@ -2209,7 +2209,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../../chapter/rewards.md)), you gain [breath](breath.md) equal to its echelon.
+Additionally, your [Return to Formlessness](../../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../../chapter/rewards.md)), you gain breath equal to its echelon.
 
 ### Master of Green
 
@@ -2227,7 +2227,7 @@ Additionally, your mind is connected to the mystery and helps you find the answe
 
 ### One
 
-You become the embodiment of the element of your chosen specialization. Whenever you use magic, elemental motes flit around you and your skin changes to reflect your element, taking on an earthen or stony appearance for earth, appearing like flickering flame for fire, gaining a leaf pattern for green, and becoming a starry expanse for void. Additionally, you gain [one](one.md) of the following benefits, as shown on the [One](one.md) Specialization Features table.
+You become the embodiment of the element of your chosen specialization. Whenever you use magic, elemental motes flit around you and your skin changes to reflect your element, taking on an earthen or stony appearance for earth, appearing like flickering flame for fire, gaining a leaf pattern for green, and becoming a starry expanse for void. Additionally, you gain one of the following benefits, as shown on the One Specialization Features table.
 
 ###### One Specialization Features Table
 
@@ -2240,9 +2240,9 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 ### Perk
 
-You gain [one](one.md) crafting, lore, or supernatural [perk](../../censor/level-10/perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.
 
 ### Skill
 
-You gain [one](one.md) [skill](../../censor/level-10/skill.md) of your choice.
+You gain one skill of your choice.
 

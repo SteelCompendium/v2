@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
-spend: '1 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus): If the target has R < AVERAGE, they are slowed (EoT).'
+spend: '1 Focus: If the target has R < AVERAGE, they are slowed (EoT).'
 subtype: triggered
 target: One creature
 trigger: The target moves.
@@ -28,4 +28,4 @@ type: ability
 
 **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 
-**Spend 1 [Focus](../../../trait/tactician/level-1/focus.md):** If the target has R < AVERAGE, they are slowed (EoT).
+**Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).

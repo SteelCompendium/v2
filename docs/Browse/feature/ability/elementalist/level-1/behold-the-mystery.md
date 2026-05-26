@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending [essence](../../../trait/elementalist/level-1/essence.md).
+**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.

@@ -4,7 +4,7 @@ class: fury
 cost: 9 Ferocity
 distance: Melee 1
 effect: You can spend a Recovery.
-flavor: You quickly strike [back](scc:mcdm.heroes.v1/feature.ability.fury.level-1/back) at a foe.
+flavor: You quickly strike back at a foe.
 keywords:
     - Melee
     - Strike
@@ -24,7 +24,7 @@ type: ability
 
 # My Turn!
 
-*You quickly strike [back](../level-1/back.md) at a foe.*
+*You quickly strike back at a foe.*
 
 | **Melee, Strike, Weapon** |             **Free triggered** |
 |---------------------------|-------------------------------:|

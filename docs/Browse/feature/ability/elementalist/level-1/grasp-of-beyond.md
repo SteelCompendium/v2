@@ -14,7 +14,7 @@ name: Grasp of Beyond
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/grasp-of-beyond
 subtype: signature
-target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature'
+target: One creature
 tier1: 3 + R corruption damage
 tier2: 6 + R corruption damage
 tier3: 9 + R corruption damage
@@ -27,7 +27,7 @@ type: ability
 
 | **Magic, Melee, Strike, Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
+| **📏 Melee 1**                 | **🎯 One creature** |
 
 **Power Roll + Reason:**
 

@@ -14,7 +14,7 @@ level: "2"
 name: Translated Through Flame
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame
-target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
+target: Self or one ally
 tier1: 3 fire damage
 tier2: 5 fire damage
 tier3: 8 fire damage
@@ -27,7 +27,7 @@ type: ability
 
 | **Fire, Magic, Ranged, Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**              | **🎯 Self or one ally** |
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 

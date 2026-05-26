@@ -4,7 +4,7 @@ class: tactician
 cost: 11 Focus
 distance: Melee 1 or ranged 5
 effect: The target is marked by you.
-flavor: You [focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus) on making an enemy irrelevant.
+flavor: You focus on making an enemy irrelevant.
 keywords:
     - Melee
     - Ranged
@@ -23,7 +23,7 @@ type: ability
 
 # That One Is Mine!
 
-*You [focus](../../../trait/tactician/level-1/focus.md) on making an enemy irrelevant.*
+*You focus on making an enemy irrelevant.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|

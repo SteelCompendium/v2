@@ -26,10 +26,10 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 > 
 > | **Green, Magic, Ranged**          |           **Triggered** |
 > |-----------------------------------|------------------------:|
-> | **📏 Ranged 10**                  | **🎯 Self or [one](../level-10/one.md) ally** |
+> | **📏 Ranged 10**                  | **🎯 Self or one ally** |
 > 
 > **Trigger:** The target starts their turn or takes damage.
 > 
 > **Effect:** The target can spend a Recovery.
 > 
-> **Spend 1+ [Essence](essence.md):** The target can spend an additional Recovery for each [essence](essence.md) spent.
+> **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.

@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Intimidate, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Intimidate, Religion.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -11,7 +11,7 @@ weak_potency: Presence − 2
 
 # Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with [wrath](../feature/trait/censor/level-1/wrath.md) and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
 
 As a [censor](censor.md), you're at your best against the strongest foes. Your [judgment](../feature/ability/censor/level-1/judgment.md) terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
@@ -43,22 +43,22 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **Recoveries:** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore [skill](../feature/trait/censor/level-10/skill.md) groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
 
 ###### Censor Advancement Table
 
 | Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
 |-------|------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
-| 1st   | [Censor](censor.md) Order, [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), [Wrath](../feature/trait/censor/level-1/wrath.md), [Judgment](../feature/ability/censor/level-1/judgment.md), [Kit](../feature/trait/censor/level-1/kit.md), [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor](censor.md) Abilities | Signature, 3, 5           | -                  |
-| 2nd   | [Perk](../feature/trait/censor/level-10/perk.md), Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
-| 3rd   | [Look On My Work and Despair](../feature/trait/censor/level-3/look-on-my-work-and-despair.md), 7-[Wrath](../feature/trait/censor/level-1/wrath.md) Ability                                                               | Signature, 3, 5, 7        | 5                  |
-| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md), [Wrath Beyond Wrath](../feature/trait/censor/level-4/wrath-beyond-wrath.md), Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
-| 5th   | Order Feature, 9-[Wrath](../feature/trait/censor/level-1/wrath.md) Ability                                                                             | Signature, 3, 5, 7, 9     | 5                  |
-| 6th   | [Implement of Wrath](../feature/trait/censor/level-6/implement-of-wrath.md), [Perk](../feature/trait/censor/level-10/perk.md), Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9               |
-| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, [Focused Wrath](../feature/trait/censor/level-7/focused-wrath.md), [Skill](../feature/trait/censor/level-10/skill.md)                                              | Signature, 3, 5, 7, 9     | 5, 9               |
-| 8th   | [Perk](../feature/trait/censor/level-10/perk.md), Order Feature, 11-[Wrath](../feature/trait/censor/level-1/wrath.md) Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9               |
+| 1st   | [Censor](censor.md) Order, [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Wrath, [Judgment](../feature/ability/censor/level-1/judgment.md), Kit, [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor](censor.md) Abilities | Signature, 3, 5           | -                  |
+| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
+| 3rd   | [Look On My Work and Despair](../feature/trait/censor/level-3/look-on-my-work-and-despair.md), 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Perk, Skill, [Wrath Beyond Wrath](../feature/trait/censor/level-4/wrath-beyond-wrath.md), Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
+| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                  |
+| 6th   | [Implement of Wrath](../feature/trait/censor/level-6/implement-of-wrath.md), Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9               |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, [Focused Wrath](../feature/trait/censor/level-7/focused-wrath.md), Skill                                              | Signature, 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9               |
 | 9th   | [Improved Implement of Wrath](../feature/trait/censor/level-9/improved-implement-of-wrath.md), Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md), [Templar](../feature/trait/censor/level-10/templar.md), [Virtue](../feature/trait/censor/level-10/virtue.md), [Wrath of the Gods](../feature/trait/censor/level-10/wrath-of-the-gods.md)                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Perk, Skill, [Templar](../feature/trait/censor/level-10/templar.md), [Virtue](../feature/trait/censor/level-10/virtue.md), [Wrath of the Gods](../feature/trait/censor/level-10/wrath-of-the-gods.md)                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 
 ---
@@ -67,11 +67,11 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 ### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../../../class/censor.md) Domain Features table. Additionally, you gain a [skill](../level-10/skill.md) from your domain, chosen from the [skill](../level-10/skill.md) group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../../../class/censor.md) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
-| Domain                           | Feature                       | [Skill](../level-10/skill.md) Group   |
+| Domain                           | Feature                       | Skill Group   |
 |----------------------------------|-------------------------------|---------------|
 | Creation                         | [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
 | Death                            | [Grave Speech](../../../ability/censor/level-1/grave-speech.md)                  | Lore          |
@@ -102,21 +102,21 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide [skill](../level-10/skill.md).
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
 
-**Overcast:** You and your allies gain an edge on tests that use the Endurance [skill](../level-10/skill.md).
+**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track [skill](../level-10/skill.md).
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
 ### Censor Order
 
-[Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../../../class/censor.md) order from the following options, each of which grants you a [skill](../level-10/skill.md). (*Quick Build:* Paragon.)
+[Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../../../class/censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
-- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person [skill](../level-10/skill.md).
-- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic [skill](../level-10/skill.md).
-- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead [skill](../level-10/skill.md).
+- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
+- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
+- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
 Your [censor](../../../../class/censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
@@ -177,11 +177,11 @@ Each time you finish a respite, you can choose yourself or one ally who is also 
 
 ### Inspired Deception
 
-The gods favor your thievery with magic. Whenever you make a test that uses a [skill](../level-10/skill.md) you have from the intrigue [skill](../level-10/skill.md) group, you can use Presence on the test instead of another characteristic.
+The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.
 
 ### Judgment
 
-You pick out the enemies most worthy of your [wrath](wrath.md) and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your wrath and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
 
 ##### Judgment
 
@@ -198,7 +198,7 @@ You pick out the enemies most worthy of your [wrath](wrath.md) and place a divin
 > 
 > When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 > 
-> Additionally, you can spend 1 [wrath](wrath.md) to take one of the following free triggered actions:
+> Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 > 
 > - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
@@ -217,7 +217,7 @@ The first time on a turn that you use your [Judgment](../../../ability/censor/le
 
 ### Kit
 
-You can use and gain the benefits of a [kit](kit.md). See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../../../../kit/warrior-priest.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../../../../kit/warrior-priest.md).)
 
 ### My Life for Yours
 
@@ -236,7 +236,7 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 > 
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 > 
-> **Spend 1 [Wrath](wrath.md):** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
 ### Oracular Visions
 
@@ -256,21 +256,21 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 ### Wrath
 
-The power you serve grants you a Heroic Resource called [wrath](wrath.md), fueling your abilities as you [censor](../../../../class/censor.md) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../../../class/censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [wrath](wrath.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [wrath](wrath.md).
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](../../../ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 [wrath](wrath.md). The first time each combat round that you deal damage to a creature judged by you, you gain 1 [wrath](wrath.md).
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](../../../ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
 
-You lose any remaining [wrath](wrath.md) at the end of the encounter.
+You lose any remaining wrath at the end of the encounter.
 
 ##### Wrath Outside of Combat
 
-Though you can't gain [wrath](wrath.md) outside of combat, you can use your heroic abilities and effects that cost [wrath](wrath.md) without spending it. Whenever you use an ability or effect outside of combat that costs [wrath](wrath.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited [wrath](wrath.md) on its effect, you can use it as if you had spent an amount of [wrath](wrath.md) equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../../class/censor.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../../class/censor.md), but they might appear in future products.)
 
 ## 1st-Level Abilities
 
@@ -288,7 +288,7 @@ When you use an ability outside of combat that lets you spend unlimited [wrath](
 - **12-16:** 9 + M holy damage; grabbed
 - **17+:** 13 + M holy damage; grabbed
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](../../../trait/censor/level-1/wrath.md) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 ### Back Blasphemer!
 
@@ -442,7 +442,7 @@ Whenever a creature judged by you uses a main action and is within your line of 
 
 When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 
-Additionally, you can spend 1 [wrath](../../../trait/censor/level-1/wrath.md) to take one of the following free triggered actions:
+Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
@@ -463,7 +463,7 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 
-**Spend 1 [Wrath](../../../trait/censor/level-1/wrath.md):** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
 ### Purifying Fire
 
@@ -706,7 +706,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ### Saint's Vigilance
 
@@ -870,7 +870,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### Look On My Work and Despair
 
-Your [judgment](../../../ability/censor/level-1/judgment.md) has grown in [divine power](../../conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability, you can spend 1 [wrath](../level-1/wrath.md), and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../../../ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
+Your [judgment](../../../ability/censor/level-1/judgment.md) has grown in [divine power](../../conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../../../ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
 
 ## 3rd-Level Abilities
 
@@ -1028,7 +1028,7 @@ Each time you finish a respite, you can share the vague dreams of the future gra
 
 ### Perk
 
-You gain one [perk](../level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Saint's Epiphany
 
@@ -1040,7 +1040,7 @@ You can commune with a network of spirits. As a respite activity, you speak the 
 
 ### Skill
 
-You gain one [skill](../level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ### Windwalk
 
@@ -1052,7 +1052,7 @@ As a main action, you touch a living tree and make it part of a divine transport
 
 ### Wrath Beyond Wrath
 
-The first time each combat round that you deal damage to a creature judged by you, you gain 2 [wrath](../level-1/wrath.md) instead of 1.
+The first time each combat round that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
 
 ## 4th-Level Abilities
 
@@ -1222,7 +1222,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 ### Implement of Wrath
 
-Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's [wrath](../level-1/wrath.md). The weapon becomes magic and gains the following benefits until your next respite:
+Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
 - Any creature struck by the weapon who has holy weakness and has P < STRONG is frightened and weakened (save ends).
@@ -1231,7 +1231,7 @@ Each time you finish a respite, you can choose one hero's weapon, including your
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural [perk](../level-10/perk.md) of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ## 6th-Level Abilities
 
@@ -1265,7 +1265,7 @@ You gain one interpersonal, lore, or supernatural [perk](../level-10/perk.md) of
 
 ### Congregation
 
-*You focus your allies' [wrath](../../../trait/censor/level-1/wrath.md) on a chosen foe.*
+*You focus your allies' wrath on a chosen foe.*
 
 | **Melee, Strike, Weapon** |   **Main action** |
 |---------------------------|------------------:|
@@ -1429,15 +1429,15 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 ### Focused Wrath
 
-When you gain [wrath](../level-1/wrath.md) at the start of each of your turns during combat, you gain 3 [wrath](../level-1/wrath.md) instead of 2.
+When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
 
 ### Font of Grace
 
-Each time you use your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 [wrath](../level-1/wrath.md) that can be spent only on that ability during the same turn. If you don't use this [wrath](../level-1/wrath.md), it is lost. Additionally, the target of [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) gains 10 temporary Stamina.
 
 ### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore [skill](../level-10/skill.md) group you don't already have, and you gain a number of skills from any other [skill](../level-10/skill.md) groups equal to the number of skills you had in the lore [skill](../level-10/skill.md) group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -1461,7 +1461,7 @@ Lightning and thunder infuse your body. Whenever you use an ability to deal roll
 
 ### Skill
 
-You gain one [skill](../level-10/skill.md) of your choice.
+You gain one skill of your choice.
 
 ### Trinity of Trickery
 
@@ -1546,7 +1546,7 @@ Your [censor](../../../../class/censor.md) order grants you a feature, as shown 
 |--------------------------|---------------------|
 | Exorcist                 | [Demonologist](demonologist.md)        |
 | Oracle                   | [Their Past Revealed](their-past-revealed.md) |
-| Paragon                  | [Vow](vow.md)                 |
+| Paragon                  | Vow                 |
 
 ### Demonologist
 
@@ -1554,7 +1554,7 @@ The most esoteric secrets of your order teach you that to defeat your enemy, you
 
 ### Perk
 
-You gain one [perk](../level-10/perk.md) of your choice.
+You gain one perk of your choice.
 
 ### Their Past Revealed
 
@@ -1862,11 +1862,11 @@ Your Might and Presence scores each increase to 5.
 
 ### Perk
 
-You gain one crafting, lore, or supernatural [perk](perk.md) of your choice.
+You gain one crafting, lore, or supernatural perk of your choice.
 
 ### Skill
 
-You gain one [skill](skill.md) of your choice.
+You gain one skill of your choice.
 
 ### Templar
 
@@ -1874,11 +1874,11 @@ You are the ultimate representation of your god's justice in the timescape. When
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
-While you rest in their presence, your god might also give you priority targets to enact justice upon. You and your allies each have a double edge on power rolls made against such targets. If you attempt to open a portal to your deity again before you have defeated your priority targets, you suffer your god's [wrath](../level-1/wrath.md), as determined by the Director.
+While you rest in their presence, your god might also give you priority targets to enact justice upon. You and your allies each have a double edge on power rolls made against such targets. If you attempt to open a portal to your deity again before you have defeated your priority targets, you suffer your god's wrath, as determined by the Director.
 
 ### Virtue
 
-You have an epic resource called [virtue](virtue.md). Each time you finish a respite, you gain [virtue](virtue.md) equal to the XP you gain. You can spend [virtue](virtue.md) on your abilities as if it were [wrath](../level-1/wrath.md).
+You have an epic resource called [virtue](virtue.md). Each time you finish a respite, you gain [virtue](virtue.md) equal to the XP you gain. You can spend [virtue](virtue.md) on your abilities as if it were wrath.
 
 Additionally, you can spend 3 [virtue](virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
@@ -1886,5 +1886,5 @@ Additionally, you can spend 3 [virtue](virtue.md) to access one of your deity's 
 
 ### Wrath of the Gods
 
-When you gain [wrath](../level-1/wrath.md) at the start of each of your turns during combat, you gain 4 [wrath](../level-1/wrath.md) instead of 3.
+When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
 

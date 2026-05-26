@@ -11,9 +11,9 @@ keywords:
 level: "1"
 name: Breath of Dawn Remembered
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered
-spend: '1+ [Essence](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/essence): The target can spend an additional Recovery for each [essence](scc:mcdm.heroes.v1/feature.trait.elementalist.level-1/essence) spent.'
+spend: '1+ Essence: The target can spend an additional Recovery for each essence spent.'
 subtype: triggered
-target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
+target: Self or one ally
 trigger: The target starts their turn or takes damage.
 type: ability
 ---
@@ -24,10 +24,10 @@ type: ability
 
 | **Green, Magic, Ranged**          |           **Triggered** |
 |-----------------------------------|------------------------:|
-| **📏 Ranged 10**                  | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
+| **📏 Ranged 10**                  | **🎯 Self or one ally** |
 
 **Trigger:** The target starts their turn or takes damage.
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ [Essence](../../../trait/elementalist/level-1/essence.md):** The target can spend an additional Recovery for each [essence](../../../trait/elementalist/level-1/essence.md) spent.
+**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.

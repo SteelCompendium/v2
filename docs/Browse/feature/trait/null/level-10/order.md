@@ -8,8 +8,8 @@ type: trait
 
 # Order
 
-You have an epic resource called [order](order.md). Each time you finish a respite, you gain [order](order.md) equal to the XP you gain. You can spend [order](order.md) on your abilities as if it were [discipline](../level-1/discipline.md).
+You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 [order](order.md) to increase the size of your [Null](../../../../class/null.md) Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](../../../../class/null.md) Field by 1 until the end of the encounter.
 
-[Order](order.md) remains until you spend it.
+Order remains until you spend it.

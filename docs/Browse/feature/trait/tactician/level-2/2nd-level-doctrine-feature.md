@@ -15,5 +15,5 @@ Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you a feature, 
 | Doctrine                    | Feature              |
 |-----------------------------|----------------------|
 | Insurgent                   | [Infiltration Tactics](infiltration-tactics.md) |
-| Mastermind                  | [Goaded](goaded.md)               |
+| Mastermind                  | Goaded               |
 | Vanguard                    | [Melee Superiority](melee-superiority.md)    |

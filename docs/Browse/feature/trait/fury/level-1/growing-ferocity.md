@@ -8,13 +8,13 @@ type: trait
 
 # Growing Ferocity
 
-You gain certain benefits in combat based on the amount of [ferocity](ferocity.md) you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [ferocity](ferocity.md) you spend during your turn.
+You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
 Some [Growing Ferocity](../boren/growing-ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../boren/growing-ferocity.md) tables in this section.
 
 ###### Berserker Growing Ferocity Table
 
-| [Ferocity](ferocity.md)        | Benefit                                                                                                                                                                                                                        |
+| Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Might score.                                                                                                                 |
 | 4               | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
@@ -25,7 +25,7 @@ Some [Growing Ferocity](../boren/growing-ferocity.md) benefits can be applied on
 
 ###### Reaver Growing Ferocity Table
 
-| [Ferocity](ferocity.md)        | Benefit                                                                                                                                                                                                                          |
+| Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Agility score.                                                                                                                 |
 | 4               | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |

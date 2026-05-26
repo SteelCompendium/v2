@@ -25,4 +25,4 @@ You have the following ability.
 > - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
 > - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 >
-> **Spend 1 [Drama](drama.md):** You can choose two targets for the chosen effect.
+> **Spend 1 Drama:** You can choose two targets for the chosen effect.

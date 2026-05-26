@@ -16,4 +16,4 @@ Your [censor](../../../../class/censor.md) order grants you a feature, as shown 
 |--------------------------|---------------------|
 | Exorcist                 | [Demonologist](demonologist.md)        |
 | Oracle                   | [Their Past Revealed](their-past-revealed.md) |
-| Paragon                  | [Vow](vow.md)                 |
+| Paragon                  | Vow                 |

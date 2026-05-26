@@ -14,6 +14,6 @@ Your [talent](../../../../class/talent.md) tradition grants you two features, as
 
 | Tradition   | Features                         |
 |-------------|----------------------------------|
-| Chronopathy | [Accelerate](../../../ability/talent/level-1/accelerate.md), [Again](../../../ability/talent/level-1/again.md)                |
+| Chronopathy | [Accelerate](../../../ability/talent/level-1/accelerate.md), Again                |
 | Telekinesis | [Minor Telekinesis](../../../ability/talent/level-1/minor-telekinesis.md), [Repel](../../../ability/talent/level-1/repel.md)         |
 | Telepathy   | [Feedback Loop](../../../ability/talent/level-1/feedback-loop.md), [Remote Assistance](../../../ability/talent/level-1/remote-assistance.md) |

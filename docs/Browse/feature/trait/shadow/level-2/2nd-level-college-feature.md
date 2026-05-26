@@ -16,4 +16,4 @@ Your [shadow](../../../../class/shadow.md) college grants you a feature, as show
 |----------------------------|------------------|
 | Black Ash                  | [Burning Ash](burning-ash.md)      |
 | Caustic Alchemy            | [Trained Assassin](trained-assassin.md) |
-| Harlequin Mask             | [Friend](friend.md)!          |
+| Harlequin Mask             | Friend!          |

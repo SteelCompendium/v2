@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Word of Guidance
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance
-spend: '1 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety): The power roll has a double edge.'
+spend: '1 Piety: The power roll has a double edge.'
 subtype: triggered
 target: One ally
 trigger: The target makes an ability roll for a damage-dealing ability.
@@ -29,4 +29,4 @@ type: ability
 
 **Effect:** The power roll gains an edge.
 
-**Spend 1 [Piety](../../../trait/conduit/level-1/piety.md):** The power roll has a double edge.
+**Spend 1 Piety:** The power roll has a double edge.

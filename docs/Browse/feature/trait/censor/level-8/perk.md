@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain one [perk](../level-10/perk.md) of your choice.
+You gain one perk of your choice.

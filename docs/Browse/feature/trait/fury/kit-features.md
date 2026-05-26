@@ -11,4 +11,4 @@ All [stormwight kits](stormwight-kits.md) have the following features in common.
 
 ##### Signature Ability
 
-You gain a new signature ability from your [kit](../censor/level-1/kit.md).
+You gain a new signature ability from your kit.
