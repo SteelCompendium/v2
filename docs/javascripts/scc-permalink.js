@@ -18,6 +18,12 @@
  * to the SCC URL in the same synchronous task — the browser doesn't paint
  * between two synchronous history calls, so the friendly URL never appears.
  *
+ * Because replaceState changes the URL that the browser uses to resolve
+ * relative link hrefs (the SCC path has different depth than the friendly
+ * path), we inject a <base href="..."> pointing at the friendly URL.
+ * This keeps all relative links — content, sidebar, TOC — resolving
+ * correctly while the address bar shows the SCC permalink.
+ *
  * The lookup uses window.__SCC_PERMALINK_MAP__, populated by scc-manifest.js
  * (generated at build time by steel-etl).
  */
@@ -51,6 +57,24 @@
     return scc ? basePath + scc : null;
   }
 
+  // Keep a <base> element pointing at the friendly URL so that relative links
+  // resolve correctly even after replaceState rewrites the address bar to the
+  // SCC permalink (which has a different directory depth).
+  function setFriendlyBase(friendlyPathname) {
+    var base = document.querySelector("base[data-scc]");
+    if (!base) {
+      base = document.createElement("base");
+      base.setAttribute("data-scc", "");
+      document.head.prepend(base);
+    }
+    base.href = friendlyPathname;
+  }
+
+  function clearFriendlyBase() {
+    var base = document.querySelector("base[data-scc]");
+    if (base) base.remove();
+  }
+
   // Monkey-patch pushState. Material calls pushState(null, "", friendlyURL)
   // at click time; we issue a replaceState to the SCC URL in the same task.
   var nativePush = history.pushState;
@@ -61,7 +85,10 @@
         var target = new URL(url, location.href);
         var sccPath = sccPathnameFor(target.pathname);
         if (sccPath && sccPath !== target.pathname) {
+          setFriendlyBase(target.pathname);
           history.replaceState(state, "", sccPath + target.search + target.hash);
+        } else {
+          clearFriendlyBase();
         }
       } catch (e) {
         // URL constructor or replaceState can throw on cross-origin URLs.
@@ -77,7 +104,10 @@
   // pushState couldn't fire (manifest not yet loaded, lookup miss).
   function applyPermalink() {
     var meta = document.querySelector('meta[name="scc-permalink"]');
-    if (!meta) return;
+    if (!meta) {
+      clearFriendlyBase();
+      return;
+    }
     var permalink = meta.getAttribute("content");
     if (!permalink) return;
 
@@ -89,6 +119,8 @@
     }
 
     if (location.pathname === url.pathname) return;
+
+    setFriendlyBase(location.pathname);
 
     var target = url.pathname + location.search + location.hash;
     try {
