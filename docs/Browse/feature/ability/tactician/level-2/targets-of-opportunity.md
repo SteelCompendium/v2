@@ -24,4 +24,4 @@ type: ability
 
 **Effect:** Each target is marked by you, and you gain two surges.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**[Mark](../level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../../../trait/tactician/level-1/focus.md) to add one additional target to the strike.

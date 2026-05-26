@@ -10,7 +10,7 @@ type: title
 
 *The tyrant is dead! Long live the new king!*
 
-**Prerequisite:** You or a member of your party becomes the [monarch](title/monarch.md) of a nation.
+**Prerequisite:** You or a member of your party becomes the [monarch](monarch.md) of a nation.
 
 **Effect:** You gain the following benefits:
 

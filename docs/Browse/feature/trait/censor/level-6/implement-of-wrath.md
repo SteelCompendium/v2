@@ -8,7 +8,7 @@ type: trait
 
 # Implement of Wrath
 
-Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
+Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's [wrath](../level-1/wrath.md). The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
 - Any creature struck by the weapon who has holy weakness and has P < STRONG is frightened and weakened (save ends).

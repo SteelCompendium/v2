@@ -14,7 +14,7 @@ keywords:
 level: "6"
 name: Luminous Champion Aloft
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft
-target: Self or one ally
+target: Self or [one](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) ally
 type: ability
 ---
 
@@ -24,7 +24,7 @@ type: ability
 
 | **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
+| **📏 Ranged 10**                     | **🎯 Self or [one](../../../trait/elementalist/level-10/one.md) ally** |
 
 **Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 

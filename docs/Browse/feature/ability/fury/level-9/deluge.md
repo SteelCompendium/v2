@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 distance: 5 cube within 10
 effect: This ability deals your primordial damage type and ignores damage immunity.
-flavor: You summon your primordial storm.
+flavor: You summon your [primordial storm](scc:mcdm.heroes.v1/feature.trait.fury/primordial-storm).
 keywords:
     - Area
     - Magic
@@ -22,7 +22,7 @@ type: ability
 
 # Deluge
 
-*You summon your primordial storm.*
+*You summon your [primordial storm](../../../trait/fury/primordial-storm.md).*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|

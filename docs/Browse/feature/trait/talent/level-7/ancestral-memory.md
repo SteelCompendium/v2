@@ -8,4 +8,4 @@ type: trait
 
 # Ancestral Memory
 
-Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
+Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore [skill](../../censor/level-10/skill.md) groups. These replacements last until the end of your next respite.

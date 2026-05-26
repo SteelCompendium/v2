@@ -3,7 +3,7 @@ action_type: No action
 class: troubadour
 distance: 5 aura
 effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
-flavor: Taps, kicks, steps. It's all "choreography."
+flavor: Taps, kicks, steps. It's all "[choreography](scc:mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography)."
 keywords:
     - Area
     - Magic
@@ -17,7 +17,7 @@ type: ability
 
 # Choreography
 
-*Taps, kicks, steps. It's all "choreography."*
+*Taps, kicks, steps. It's all "[choreography](choreography.md)."*
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|

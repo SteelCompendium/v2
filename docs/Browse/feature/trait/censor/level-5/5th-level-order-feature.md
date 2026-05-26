@@ -8,12 +8,12 @@ type: trait
 
 # 5th-Level Order Feature
 
-Your [censor](class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
 | Order                    | Feature       |
 |--------------------------|---------------|
-| Exorcist                 | Evil Revealed |
-| Oracle                   | Prophecy      |
-| Paragon                  | Stand Fast!   |
+| Exorcist                 | [Evil Revealed](evil-revealed.md) |
+| Oracle                   | [Prophecy](prophecy.md)      |
+| Paragon                  | [Stand Fast](stand-fast.md)!   |

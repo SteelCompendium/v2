@@ -12,7 +12,7 @@ Being a hero isn't a job. It's a calling. But before you answered that call, you
 
 ### Career Questions
 
-The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](career/artisan.md), a [criminal](career/criminal.md), or a [gladiator](career/gladiator.md) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](career/artisan.md) career, one of the questions is: "What did you create?"
+The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../career/artisan.md), a [criminal](../career/criminal.md), or a [gladiator](../career/gladiator.md) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../career/artisan.md) career, one of the questions is: "What did you create?"
 
 You don't need to answer these questions, but doing so can help shape a more complete picture of your hero. And if you do answer them, consider telling your Director the answers so they can think about working those details into the game. Directors already have a lot to juggle, but they certainly can't create dramatic moments from your backstory if you never tell them what that backstory is.
 
@@ -22,7 +22,7 @@ Your career describes what your life was before you became a hero. When you sele
 
 #### Skills
 
-Each career grants you two or three skills, detailed in the Skills section of Chapter 9: [Tests](chapter/tests.md).
+Each career grants you two or three skills, detailed in the Skills section of Chapter 9: [Tests](tests.md).
 
 #### Languages
 
@@ -30,21 +30,21 @@ Some careers allow you to learn extra languages, chosen from those available in 
 
 #### Renown
 
-Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](chapter/rewards.md) for more information.
+Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
 
 #### Wealth
 
-Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](chapter/rewards.md) for more information.
+Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](rewards.md) for more information.
 
 #### Project Points
 
-Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](chapter/downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
+Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
 
 At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your project points toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
 
 #### Perk
 
-Your career provides you with a specific type of perk—a special feature that lets you customize your character, with a focus outside of combat. See Chapter 7: [Perks](chapter/perks.md) for more information.
+Your career provides you with a specific type of perk—a special feature that lets you customize your character, with a focus outside of combat. See Chapter 7: [Perks](perks.md) for more information.
 
 ### Inciting Incident
 

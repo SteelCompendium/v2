@@ -23,4 +23,4 @@ type: ability
 |-------------------|------------------------------:|
 | **📏 2 burst**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](class/null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](class/null.md) Field ability takes psychic damage equal to your Intuition score.
+**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](../../../../class/null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](../../../../class/null.md) Field ability takes psychic damage equal to your Intuition score.

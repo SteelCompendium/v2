@@ -13,7 +13,7 @@ level: "1"
 name: The Flesh, a Crucible
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible
-target: One creature or object
+target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature or object'
 tier1: 5 + R fire damage
 tier2: 8 + R fire damage
 tier3: 11 + R fire damage
@@ -26,7 +26,7 @@ type: ability
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature or object** |
 
 **Power Roll + Reason:**
 
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
+**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending [essence](../../../trait/elementalist/level-1/essence.md) (no action required).

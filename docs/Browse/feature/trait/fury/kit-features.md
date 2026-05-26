@@ -7,8 +7,8 @@ type: trait
 
 # Kit Features
 
-All stormwight kits have the following features in common.
+All [stormwight kits](stormwight-kits.md) have the following features in common.
 
 ##### Signature Ability
 
-You gain a new signature ability from your kit.
+You gain a new signature ability from your [kit](../censor/level-1/kit.md).

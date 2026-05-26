@@ -8,4 +8,4 @@ type: trait
 
 # Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your Burgeoning Saint feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend [piety](../level-1/piety.md) as a free maneuver to give the hero 1 of their Heroic Resource for every 2 [piety](../level-1/piety.md) spent.

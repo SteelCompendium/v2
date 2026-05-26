@@ -4,7 +4,7 @@ class: conduit
 cost: 3 Piety
 distance: 3 cube within 10
 effect: You can push each willing ally in the area the same distance, ignoring stability.
-flavor: You ask your saint for thunder and your prayer is answered.
+flavor: You ask your saint for thunder and your [prayer](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/prayer) is answered.
 keywords:
     - Area
     - Magic
@@ -22,7 +22,7 @@ type: ability
 
 # Call the Thunder Down
 
-*You ask your saint for thunder and your prayer is answered.*
+*You ask your saint for thunder and your [prayer](../../../trait/conduit/level-1/prayer.md) is answered.*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|

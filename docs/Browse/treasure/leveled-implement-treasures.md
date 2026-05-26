@@ -9,7 +9,7 @@ type: treasure
 
 # Leveled Implement Treasures
 
-Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](treasure/leveled-implement-treasures.md) in alphabetical order.
+Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](leveled-implement-treasures.md) in alphabetical order.
 
 ##### Abjurer's Bastion
 
@@ -113,11 +113,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 ##### Words Become Wonders at Next Breath
 
-*This ornate [high elf](ancestry/high-elf.md) tome seems to sigh each time it is opened.*
+*This ornate [high elf](../ancestry/high-elf.md) tome seems to sigh each time it is opened.*
 
 **Keywords:** Implement, Magic
 
-**Item Prerequisite:** Written permission from a [high elf](ancestry/high-elf.md) magistrate
+**Item Prerequisite:** Written permission from a [high elf](../ancestry/high-elf.md) magistrate
 
 **Project Source:** Texts or lore in Hyrallic
 

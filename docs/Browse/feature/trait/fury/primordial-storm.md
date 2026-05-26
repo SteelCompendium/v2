@@ -7,4 +7,4 @@ type: trait
 
 # Primordial Storm
 
-Each stormwight kit is associated with a primordial storm, which channels a specific damage type used by some of your abilities.
+Each stormwight [kit](../censor/level-1/kit.md) is associated with a [primordial storm](primordial-storm.md), which channels a specific damage type used by some of your abilities.

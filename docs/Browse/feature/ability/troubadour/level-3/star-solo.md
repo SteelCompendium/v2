@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 7 Drama
 distance: Melee 1 or ranged 10
-effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending [drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama).
 flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 keywords:
     - Magic
@@ -36,4 +36,4 @@ type: ability
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending [drama](../../../trait/troubadour/level-1/drama.md).

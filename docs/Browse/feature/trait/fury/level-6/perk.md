@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice.
+You gain one crafting, exploration, or intrigue [perk](../../censor/level-10/perk.md) of your choice.

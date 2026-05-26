@@ -12,7 +12,7 @@ level: "1"
 name: Artful Flourish
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish
-spend: '2+ Drama: You can target one additional creature or object for every 2 drama spent.'
+spend: '2+ [Drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama): You can target one additional creature or object for every 2 [drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama) spent.'
 subtype: signature
 target: Two creatures or objects
 tier1: 2 damage
@@ -37,4 +37,4 @@ type: ability
 
 **Effect:** You can shift up to 3 squares.
 
-**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
+**Spend 2+ [Drama](../../../trait/troubadour/level-1/drama.md):** You can target one additional creature or object for every 2 [drama](../../../trait/troubadour/level-1/drama.md) spent.

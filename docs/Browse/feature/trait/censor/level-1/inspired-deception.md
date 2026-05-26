@@ -8,4 +8,4 @@ type: trait
 
 # Inspired Deception
 
-The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.
+The gods favor your thievery with magic. Whenever you make a test that uses a [skill](../level-10/skill.md) you have from the intrigue [skill](../level-10/skill.md) group, you can use Presence on the test instead of another characteristic.

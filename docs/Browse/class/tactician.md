@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the Lead skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the Lead [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration [skill](scc:mcdm.heroes.v1/feature.trait.censor.level-10/skill) group. (*Quick Build:* Lead, Monsters, Strategy.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -13,7 +13,7 @@ weak_potency: Reason − 2
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-**As a [tactician](class/tactician.md), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
+**As a [tactician](tactician.md), you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
@@ -39,22 +39,22 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Recoveries:** 10
 
-**Skills:** You gain the Lead skill (see Skills in Chapter 9: [Tests](chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the Lead [skill](../feature/trait/censor/level-10/skill.md) (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration [skill](../feature/trait/censor/level-10/skill.md) group. (*Quick Build:* Lead, Monsters, Strategy.)
 
 ###### Tactician Advancement Table
 
 | Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, [Tactician](class/tactician.md) Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 1st   | [Tactical Doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md), [Focus](../feature/trait/tactician/level-1/focus.md), Doctrine Feature, [Doctrine Triggered Action](../feature/trait/tactician/level-1/doctrine-triggered-action.md), [Field Arsenal](../feature/trait/tactician/level-1/field-arsenal.md), [Mark](../feature/ability/tactician/level-1/mark.md), [Strike Now](../feature/ability/tactician/level-1/strike-now.md), [Tactician](tactician.md) Abilities | 3, 5           | -                  |
+| 2nd   | [Perk](../feature/trait/censor/level-10/perk.md), Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
+| 3rd   | [Out of Position](../feature/trait/tactician/level-3/out-of-position.md), 7-[Focus](../feature/trait/tactician/level-1/focus.md) Ability                                                                                            | 3, 5, 7        | 5                  |
+| 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Focus](../feature/trait/tactician/level-1/focus.md) on Their Weakness, [Improved Field Arsenal](../feature/trait/tactician/level-4/improved-field-arsenal.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md)                                       | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-[Focus](../feature/trait/tactician/level-1/focus.md) Ability                                                                                           | 3, 5, 7, 9     | 5                  |
+| 6th   | [Master of Arms](../feature/trait/tactician/level-6/master-of-arms.md), [Perk](../feature/trait/censor/level-10/perk.md), Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
+| 7th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Heightened Focus](../feature/trait/tactician/level-7/heightened-focus.md), [Seize the Initiative](../feature/trait/tactician/level-7/seize-the-initiative.md), [Skill](../feature/trait/censor/level-10/skill.md), Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
+| 8th   | [Perk](../feature/trait/censor/level-10/perk.md), Doctrine Feature, 11-[Focus](../feature/trait/tactician/level-1/focus.md) Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | [Grandmaster of Arms](../feature/trait/tactician/level-9/grandmaster-of-arms.md), Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Command](../feature/trait/tactician/level-10/command.md), [Perk](../feature/trait/censor/level-10/perk.md), [Skill](../feature/trait/censor/level-10/skill.md), [True Focus](../feature/trait/tactician/level-10/true-focus.md), [Warmaster](../feature/trait/tactician/level-10/warmaster.md)                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 
 ---
@@ -63,37 +63,37 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 ### 1st-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 1st-Level Doctrine Features table.
+Your [tactical doctrine](tactical-doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table
 
 | Doctrine   | Feature             |
 |------------|---------------------|
-| Insurgent  | Covert Operations   |
-| Mastermind | Studied Commander   |
-| Vanguard   | Commanding Presence |
+| Insurgent  | [Covert Operations](covert-operations.md)   |
+| Mastermind | [Studied Commander](studied-commander.md)   |
+| Vanguard   | [Commanding Presence](commanding-presence.md) |
 
 ### Commanding Presence
 
-You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
+You [command](../level-10/command.md) any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
 
 ### Covert Operations
 
-While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist another creature with any test made using a skill from the intrigue group.
+While in your presence or working according to your plans, each of your allies gains an edge on tests using any [skill](../../censor/level-10/skill.md) from the intrigue [skill](../../censor/level-10/skill.md) group. Additionally, you can use the Lead [skill](../../censor/level-10/skill.md) to assist another creature with any test made using a [skill](../../censor/level-10/skill.md) from the intrigue group.
 
-At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
+At the Director's discretion, you and your allies can use skills from the intrigue [skill](../../censor/level-10/skill.md) group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
 ### Doctrine Triggered Action
 
-Your tactical doctrine grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action |
 |------------|------------------|
-| Insurgent  | Advanced Tactics |
-| Mastermind | Overwatch        |
-| Vanguard   | Parry            |
+| Insurgent  | [Advanced Tactics](../../../ability/tactician/level-1/advanced-tactics.md) |
+| Mastermind | [Overwatch](../../../ability/tactician/level-1/overwatch.md)        |
+| Vanguard   | [Parry](../../../ability/tactician/level-1/parry.md)            |
 
 ###### Advanced Tactics
 
@@ -108,15 +108,15 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Effect:** The target gains 2 surges, which they can use on the triggering damage.
 >
-> **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
+> **Spend 1 [Focus](focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.
 
 ### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Shining Armor](kit/shining-armor.md), Sniper.)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Shining Armor](../../../../kit/shining-armor.md), Sniper.)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](kit/shining-armor.md) and Sniper kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../../../../kit/shining-armor.md) and Sniper kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -125,39 +125,39 @@ For example, if you take the [Shining Armor](kit/shining-armor.md) and Sniper ki
 - Speed Bonus: +1
 - Ranged Distance Bonus: +10
 - Disengage Bonus: +1
-- You can use the Patient Shot and Protective Attack signature abilities.
+- You can use the [Patient Shot](../../../ability/sniper/patient-shot.md) and [Protective Attack](../../../ability/shining-armor/protective-attack.md) signature abilities.
 
-Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](kit/martial-artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](kit/martial-artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
+Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](../../../../kit/martial-artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the [Battle Grace](../../../ability/martial-artist/battle-grace.md) signature ability from the [Martial Artist](../../../../kit/martial-artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
 
 ### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
+The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](focus.md).
 
 ##### Focus in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Victories. At the start of each of your turns during combat, you gain 2 focus.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain [focus](focus.md) equal to your Victories. At the start of each of your turns during combat, you gain 2 [focus](focus.md).
 
-Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 focus.
+Additionally, the first time each combat round that you or any ally damages a creature marked by you (see [Mark](../../../ability/tactician/level-1/mark.md) below), you gain 1 [focus](focus.md). The first time in a combat round that any ally within 10 squares of you uses a heroic ability, you gain 1 [focus](focus.md).
 
-You lose any remaining focus at the end of the encounter.
+You lose any remaining [focus](focus.md) at the end of the encounter.
 
 ##### Focus Outside of Combat
 
-Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain [focus](focus.md) outside of combat, you can use your heroic abilities and effects that cost [focus](focus.md) without spending it. Whenever you use an ability or effect outside of combat that costs [focus](focus.md), you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](class/tactician.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited [focus](focus.md) on its effect, you can use it as if you had spent an amount of [focus](focus.md) equal to your Victories. (Such abilities aren't part of the core rules for the [tactician](../../../../class/tactician.md), but they might appear in future products.)
 
-> **[Tactician](class/tactician.md) Abilities Explained**
+> **[Tactician](../../../../class/tactician.md) Abilities Explained**
 >
-> Many of the [tactician's](class/tactician.md) abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](class/tactician.md) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](class/tactician.md) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician's](class/tactician.md) abilities are the actual commands they give their friends!
+> Many of the [tactician's](../../../../class/tactician.md) abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The [tactician](../../../../class/tactician.md) is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The [tactician](../../../../class/tactician.md) can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the [tactician's](../../../../class/tactician.md) abilities are the actual commands they give their friends!
 
 ### Kit Signature Ability
 
-Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.
+Each kit from your [Field Arsenal](field-arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
 
 ### Mark
 
-You know how to focus the attention of your allies as you push them toward victory. You have the following ability.
+You know how to [focus](focus.md) the attention of your allies as you push them toward victory. You have the following ability.
 
 ##### Mark
 
@@ -168,11 +168,11 @@ You know how to focus the attention of your allies as you push them toward victo
 > |------------------|--------------------:|
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+> **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your [mark](../../../ability/tactician/level-1/mark.md) on a creature (no action required), and if another [tactician](../../../../class/tactician.md) marks a creature, your [mark](../../../ability/tactician/level-1/mark.md) on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to [mark](../../../ability/tactician/level-1/mark.md) a new target within distance.
 >
-> You can initially mark only one creature using this ability, though other [tactician](class/tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+> You can initially [mark](../../../ability/tactician/level-1/mark.md) only one creature using this ability, though other [tactician](../../../../class/tactician.md) abilities allow you to [mark](../../../ability/tactician/level-1/mark.md) additional creatures at the same time. The mastermind [tactical doctrine](tactical-doctrine.md)'s [Anticipation](../level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
 >
-> While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
+> While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 [focus](focus.md) to gain one of the following benefits as a free triggered action:
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
@@ -196,11 +196,11 @@ You have the following ability.
 >
 > **Effect:** The target can use a signature ability as a free triggered action.
 >
-> **Spend 5 Focus:** You target two allies instead of one.
+> **Spend 5 [Focus](focus.md):** You target two allies instead of one.
 
 ### Studied Commander
 
-Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](chapter/downtime-projects.md) for more information.)
+Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md) for more information.)
 
 Additionally, if you have 24 hours or more before a combat encounter or negotiation, and you have one or more clues or rumors regarding the encounter or negotiation, you can make a Reason test as a respite activity. The following test outcomes apply to a combat encounter:
 
@@ -218,13 +218,13 @@ You can make this test only once for any encounter or negotiation.
 
 ### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](tactical-doctrine.md) from the following options, each of which grants you a [skill](../../censor/level-10/skill.md). (*Quick Build:* Vanguard and the Intimidate [skill](../../censor/level-10/skill.md).)
 
-- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
-- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
-- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.
+- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a [skill](../../censor/level-10/skill.md) from the intrigue [skill](../../censor/level-10/skill.md) group.
+- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a [skill](../../censor/level-10/skill.md) from the lore [skill](../../censor/level-10/skill.md) group.
+- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a [skill](../../censor/level-10/skill.md) from the interpersonal [skill](../../censor/level-10/skill.md) group.
 
-Your tactical doctrine is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
+Your [tactical doctrine](tactical-doctrine.md) is your subclass, and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
 ## 1st-Level Abilities
 
@@ -240,7 +240,7 @@ Your tactical doctrine is your subclass, and your choice of doctrine determines 
 
 **Effect:** The target gains 2 surges, which they can use on the triggering damage.
 
-**Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
+**Spend 1 [Focus](../../../trait/tactician/level-1/focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.
 
 ### Battle Cry
 
@@ -308,11 +308,11 @@ Your tactical doctrine is your subclass, and your choice of doctrine determines 
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your [mark](mark.md) on a creature (no action required), and if another [tactician](../../../../class/tactician.md) marks a creature, your [mark](mark.md) on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to [mark](mark.md) a new target within distance.
 
-You can initially mark only one creature using this ability, though other [tactician](class/tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+You can initially [mark](mark.md) only one creature using this ability, though other [tactician](../../../../class/tactician.md) abilities allow you to [mark](mark.md) additional creatures at the same time. The mastermind [tactical doctrine](../../../trait/tactician/level-1/tactical-doctrine.md)'s [Anticipation](../../../trait/tactician/level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
 
-While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
+While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 [focus](../../../trait/tactician/level-1/focus.md) to gain one of the following benefits as a free triggered action:
 
 - The ability deals extra damage equal to twice your Reason score.
 - The creature dealing the damage can spend a Recovery.
@@ -329,7 +329,7 @@ You can't gain more than one benefit from the same trigger.
 |-----------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
 
-**Effect:** You mark the target.
+**Effect:** You [mark](mark.md) the target.
 
 **Power Roll + Might:**
 
@@ -341,7 +341,7 @@ You can't gain more than one benefit from the same trigger.
 
 ### Now!
 
-*Your allies wait for your command—then unleash death!*
+*Your allies wait for your [command](../../../trait/tactician/level-10/command.md)—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 |------------------|--------------------:|
@@ -361,7 +361,7 @@ You can't gain more than one benefit from the same trigger.
 
 **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 
-**Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
+**Spend 1 [Focus](../../../trait/tactician/level-1/focus.md):** If the target has R < AVERAGE, they are slowed (EoT).
 
 ### Parry
 
@@ -375,11 +375,11 @@ You can't gain more than one benefit from the same trigger.
 
 **Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
 
-**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
+**Spend 1 [Focus](../../../trait/tactician/level-1/focus.md):** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
 
 ### Squad! Forward!
 
-*On your command, you and your allies force back the enemy line.*
+*On your [command](../../../trait/tactician/level-10/command.md), you and your allies force back the enemy line.*
 
 | **Ranged**       |               **Maneuver** |
 |------------------|---------------------------:|
@@ -397,9 +397,158 @@ You can't gain more than one benefit from the same trigger.
 
 **Effect:** The target can use a signature ability as a free triggered action.
 
-**Spend 5 Focus:** You target two allies instead of one.
+**Spend 5 [Focus](../../../trait/tactician/level-1/focus.md):** You target two allies instead of one.
 
 ### This Is What We Planned For
+
+*All those coordination drills you made them do finally pay off.*
+
+| **Ranged**       |      **Maneuver** |
+|------------------|------------------:|
+| **📏 Ranged 10** | **🎯 Two allies** |
+
+**Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
+
+### [Advanced Tactics](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics)
+
+*Your leadership aids an ally.*
+
+| **Ranged**       |   **Triggered** |
+|------------------|----------------:|
+| **📏 Ranged 10** | **🎯 One ally** |
+
+**Trigger:** The target deals damage to another creature.
+
+**Effect:** The target gains 2 surges, which they can use on the triggering damage.
+
+**Spend 1 [Focus](feature/trait/tactician/level-1/focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.
+
+### [Battle Cry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You shout a phrase that galvanizes your team.*
+
+| **Ranged**       |        **Maneuver** |
+|------------------|--------------------:|
+| **📏 Ranged 10** | **🎯 Three allies** |
+
+**Power Roll + Reason:**
+
+- **≤11:** Each target gains 1 surge.
+- **12-16:** Each target gains 2 surges.
+- **17+:** Each target gains 3 surges.
+
+### [Concussive Strike](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*Your precise strike leaves your foe struggling to respond.*
+
+| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+
+**Power Roll + Might:**
+
+- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
+- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
+
+### [Hammer and Anvil](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*"Let's not argue about who's the hammer and who's the anvil!"*
+
+| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+
+**Power Roll + Might:**
+
+- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
+- **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
+- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
+
+**Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+
+### [Inspiring Strike](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/inspiring-strike) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*Your attack gives an ally hope.*
+
+| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+
+**Power Roll + Might:**
+
+- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
+- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
+
+### [Mark](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mark)
+
+*You draw your allies' attention to a specific foe—with devastating effect.*
+
+| **Ranged**       |        **Maneuver** |
+|------------------|--------------------:|
+| **📏 Ranged 10** | **🎯 One creature** |
+
+**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your [mark](feature/ability/tactician/level-1/mark.md) on a creature (no action required), and if another [tactician](class/tactician.md) marks a creature, your [mark](feature/ability/tactician/level-1/mark.md) on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to [mark](feature/ability/tactician/level-1/mark.md) a new target within distance.
+
+You can initially [mark](feature/ability/tactician/level-1/mark.md) only one creature using this ability, though other [tactician](class/tactician.md) abilities allow you to [mark](feature/ability/tactician/level-1/mark.md) additional creatures at the same time. The mastermind [tactical doctrine](feature/trait/tactician/level-1/tactical-doctrine.md)'s [Anticipation](feature/trait/tactician/level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
+
+While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 [focus](feature/trait/tactician/level-1/focus.md) to gain one of the following benefits as a free triggered action:
+
+- The ability deals extra damage equal to twice your Reason score.
+- The creature dealing the damage can spend a Recovery.
+- The creature dealing the damage can shift up to a number of squares equal to your Reason score.
+- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can't gain more than one benefit from the same trigger.
+
+### [Mind Game](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*Your attack demoralizes your foe. Your allies begin to think you can win.*
+
+| **Melee, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+
+**Effect:** You [mark](feature/ability/tactician/level-1/mark.md) the target.
+
+**Power Roll + Might:**
+
+- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
+- **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
+- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
+
+**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
+
+### [Overwatch](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch)
+
+*Under your direction, an ally waits for just the right moment to strike.*
+
+| **Ranged**       |       **Triggered** |
+|------------------|--------------------:|
+| **📏 Ranged 10** | **🎯 One creature** |
+
+**Trigger:** The target moves.
+
+**Effect:** At any time during the target's movement, one ally can make a free strike against them.
+
+**Spend 1 [Focus](feature/trait/tactician/level-1/focus.md):** If the target has R < AVERAGE, they are slowed (EoT).
+
+### [Parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry)
+
+*Your quick reflexes cost an enemy the precision they seek.*
+
+| **Melee, Weapon** |            **Triggered** |
+|-------------------|-------------------------:|
+| **📏 Melee 2**    |  **🎯 Self or one ally** |
+
+**Trigger:** A creature deals damage to the target.
+
+**Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+
+**Spend 1 [Focus](feature/trait/tactician/level-1/focus.md):** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
+
+### [This Is What We Planned For](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
 
 *All those coordination drills you made them do finally pay off.*
 
@@ -413,15 +562,15 @@ You can't gain more than one benefit from the same trigger.
 
 ### 2nd-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
 | Doctrine                    | Feature              |
 |-----------------------------|----------------------|
-| Insurgent                   | Infiltration Tactics |
-| Mastermind                  | Goaded               |
-| Vanguard                    | Melee Superiority    |
+| Insurgent                   | [Infiltration Tactics](infiltration-tactics.md) |
+| Mastermind                  | [Goaded](goaded.md)               |
+| Vanguard                    | [Melee Superiority](melee-superiority.md)    |
 
 ### Goaded
 
@@ -435,11 +584,11 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
+**[Mark](../../../ability/tactician/level-1/mark.md) Benefit:** When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 [focus](../level-1/focus.md) to make a melee free strike against that creature.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -453,9 +602,25 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 **Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
+**[Mark](../level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../../../trait/tactician/level-1/focus.md) to force that target to make a free strike against a creature of your choice within 5 squares of them.
 
 ### I've Got Your Back
+
+*Your enemy will think twice about attacking your friend.*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+|----------------------------|--------------------:|
+| **📏 Ranged 5**            | **🎯 One creature** |
+
+**Power Roll + Reason:**
+
+- **≤11:** 5 + R damage; taunted (EoT)
+- **12-16:** 9 + R damage; taunted (EoT)
+- **17+:** 12 + R damage; taunted (EoT)
+
+**Effect:** One ally adjacent to the target can spend a Recovery.
+
+### I've Got Your Back (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
 
 *Your enemy will think twice about attacking your friend.*
 
@@ -509,9 +674,67 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 **Effect:** Each target is marked by you, and you gain two surges.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+**[Mark](../level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../../../trait/tactician/level-1/focus.md) to add one additional target to the strike.
 
 ### Try Me Instead
+
+*"Try picking on someone my size."*
+
+| **Melee, Strike, Weapon** | **Main action** |
+|---------------------------|----------------:|
+| **📏 Self; see below**    |     **🎯 Self** |
+
+**Effect:** You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+
+**Power Roll + Reason:**
+
+- **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
+- **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
+- **17+:** 4 + R damage; R < STRONG, frightened (save ends)
+
+### [Fog of War](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/fog-of-war) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
+
+| **Ranged**       |         **Maneuver** |
+|------------------|---------------------:|
+| **📏 Ranged 10** | **🎯 Two creatures** |
+
+**Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+
+**[Mark](feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](feature/trait/tactician/level-1/focus.md) to force that target to make a free strike against a creature of your choice within 5 squares of them.
+
+### [No Dying on My Watch](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You prioritize saving an ally over your own safety.*
+
+| **Ranged, Strike, Weapon** |    **Triggered** |
+|----------------------------|-----------------:|
+| **📏 Ranged 5**            | **🎯 One enemy** |
+
+**Trigger:** The target deals damage to an ally.
+
+**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.
+
+**Power Roll + Might:**
+
+- **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
+- **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
+- **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
+
+### [Targets of Opportunity](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
+
+| **Ranged**      |         **Maneuver** |
+|-----------------|---------------------:|
+| **📏 Ranged 5** | **🎯 Two creatures** |
+
+**Effect:** Each target is marked by you, and you gain two surges.
+
+**[Mark](feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](feature/trait/tactician/level-1/focus.md) to add one additional target to the strike.
+
+### [Try Me Instead](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
 
 *"Try picking on someone my size."*
 
@@ -531,7 +754,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 ### Out of Position
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your [Mark](../../../ability/tactician/level-1/mark.md) ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ## 3rd-Level Abilities
 
@@ -575,6 +798,26 @@ Even before battle begins, your enemies struggle to keep up with your tactics. A
 
 **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.
 
+### [Frontal Assault](scc:mcdm.heroes.v1/feature.ability.tactician.level-3/frontal-assault) (7 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*The purpose of a charge is to break their morale and force a retreat.*
+
+| **-**       | **Maneuver** |
+|-------------|-------------:|
+| **📏 Self** |  **🎯 Self** |
+
+**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
+
+### [Rout](scc:mcdm.heroes.v1/feature.ability.tactician.level-3/rout) (7 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*The tide begins to turn.*
+
+| **-**       | **Maneuver** |
+|-------------|-------------:|
+| **📏 Self** |  **🎯 Self** |
+
+**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+
 ## 4th-Level Features
 
 ### Characteristic Increase
@@ -583,7 +826,7 @@ Your Might and Reason scores each increase to 3.
 
 ### Focus on Their Weaknesses
 
-The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.
+The first time each combat round that you or any ally damages a target marked by you, you gain 2 [focus](../level-1/focus.md) instead of 1.
 
 ### Improved Field Arsenal
 
@@ -591,29 +834,29 @@ Your expertise with weapons has grown. Whenever you use a signature ability from
 
 ### Perk
 
-You gain one perk of your choice.
+You gain one [perk](../../censor/level-10/perk.md) of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](chapter/tests.md).
+You gain one [skill](../../censor/level-10/skill.md) of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
 
 ## 5th-Level Features
 
 ### 5th-Level Doctrine Features
 
-Your tactical doctrine grants you two features, as shown on the 5th-Level Doctrine Features table.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table
 
 | Doctrine   | Features                         |
 |------------|----------------------------------|
-| Insurgent  | Distracted, Leave No Trace       |
-| Mastermind | Anticipation, I Predicted That   |
-| Vanguard   | Shake It Off, Tactical Offensive |
+| Insurgent  | [Distracted](distracted.md), [Leave No Trace](leave-no-trace.md)       |
+| Mastermind | [Anticipation](anticipation.md), [I Predicted That](i-predicted-that.md)   |
+| Vanguard   | [Shake It Off](shake-it-off.md), [Tactical Offensive](tactical-offensive.md) |
 
 ### Anticipation
 
-You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
+You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your [Mark](../../../ability/tactician/level-1/mark.md) ability.
 
 ### Distracted
 
@@ -683,6 +926,16 @@ When you use the Charge main action to attack a creature marked by you, you can 
 
 **Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
 
+### You've Still Got Something Left (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You push an ally to use a heroic ability sooner than they otherwise would.*
+
+| **Ranged**       | **Main action** |
+|------------------|----------------:|
+| **📏 Ranged 10** | **🎯 One ally** |
+
+**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
+
 ## 6th-Level Features
 
 ### Master of Arms
@@ -691,7 +944,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice.
 
 ## 6th-Level Abilities
 
@@ -705,7 +958,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 **Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
+**[Mark](../level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../../../trait/tactician/level-1/focus.md) to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
 
 ### Coordinated Execution
 
@@ -727,11 +980,11 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 |----------------|--------------------------------------:|
 | **📏 2 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.
+**Effect:** You [mark](../level-1/mark.md) two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.
 
 ### Instant Retaliation
 
-*You parry with almost supernatural speed.*
+*You [parry](../level-1/parry.md) with almost supernatural speed.*
 
 | **Melee, Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
@@ -779,23 +1032,81 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
+### [Battle Plan](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*With new understanding of your foes, you create the perfect plan to win the battle.*
+
+| **Ranged**       |           **Maneuver** |
+|------------------|-----------------------:|
+| **📏 Ranged 10** | **🎯 Three creatures** |
+
+**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
+
+**[Mark](feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](feature/trait/tactician/level-1/focus.md) to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
+
+### [Coordinated Execution](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You direct your ally to make a killing blow.*
+
+| **Ranged**       | **Free triggered** |
+|------------------|-------------------:|
+| **📏 Ranged 10** |    **🎯 One ally** |
+
+**Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.
+
+**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+
+### [Instant Retaliation](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You [parry](feature/ability/tactician/level-1/parry.md) with almost supernatural speed.*
+
+| **Melee, Weapon** | **Free triggered** |
+| ------------------------------------|-------------------:|
+| **📏 Melee 1**                   |    **🎯 One ally** |
+
+**Trigger:** A creature deals damage to the target.
+
+**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
+
+**Power Roll + Might:**
+
+- **≤11:** A < WEAK, dazed (save ends)
+- **12-16:** A < AVERAGE, dazed (save ends)
+- **17+:** A < STRONG, dazed (save ends)
+
+### [Panic in Their Lines](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You confuse your foes, causing them to turn on each other.*
+
+| **Melee, Ranged, Strike, Weapon** |      **Main action** |
+|-----------------------------------|---------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
+
+**Power Roll + Might:**
+
+- **≤11:** 6 + M damage; slide 1
+- **12-16:** 9 + M damage; slide 3
+- **17+:** 13 + M damage; slide 5
+
+**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
+
 ## 7th-Level Features
 
 ### 7th-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 7th-Level Doctrine Features table.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you a feature, as shown on the 7th-Level Doctrine Features table.
 
 ###### 7th-Level Doctrine Features Table
 
 | Doctrine   | Feature            |
 |------------|--------------------|
-| Insurgent  | Asymmetric Warfare |
-| Mastermind | Grand Strategy     |
-| Vanguard   | Shock and Awe      |
+| Insurgent  | [Asymmetric Warfare](asymmetric-warfare.md) |
+| Mastermind | [Grand Strategy](grand-strategy.md)     |
+| Vanguard   | [Shock and Awe](shock-and-awe.md)      |
 
 ### Asymmetric Warfare
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the intrigue skill group. Additionally, you can use skills from the intrigue skill group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, [now](../../../ability/tactician/level-1/now.md) directing full battlefield strategy and logistics. During a montage test or negotiation, you can obtain one automatic success on a test made using a [skill](../../censor/level-10/skill.md) from the intrigue [skill](../../censor/level-10/skill.md) group. Additionally, you can use skills from the intrigue [skill](../../censor/level-10/skill.md) group to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 ### Characteristic Increase
 
@@ -803,11 +1114,11 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 ### Grand Strategy
 
-You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the lore skill group. Additionally, when you take a respite, you can make a project roll for a research project in addition to undertaking another respite activity.
+You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a montage test or negotiation, you can obtain one automatic success on a test made using a [skill](../../censor/level-10/skill.md) from the lore [skill](../../censor/level-10/skill.md) group. Additionally, when you take a respite, you can make a project roll for a research project in addition to undertaking another respite activity.
 
 ### Heightened Focus
 
-When you gain focus at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain [focus](../level-1/focus.md) at the start of each of your turns during combat, you gain 3 [focus](../level-1/focus.md) instead of 2.
 
 ### Seize the Initiative
 
@@ -815,47 +1126,47 @@ If you are not surprised when combat begins, your side gets to go first. If an e
 
 ### Shock and Awe
 
-You have expanded your leadership skills, strengthening your followers' morale and providing logistical support. During a montage test or negotiation, you can obtain one automatic success on a test made using a skill from the interpersonal skill group. Additionally, you can convince a group of people to help you with a crafting project during a respite. If these people are available when you take a respite, you can make a project roll for a crafting project in addition to undertaking another respite activity.
+You have expanded your leadership skills, strengthening your followers' morale and providing logistical support. During a montage test or negotiation, you can obtain one automatic success on a test made using a [skill](../../censor/level-10/skill.md) from the interpersonal [skill](../../censor/level-10/skill.md) group. Additionally, you can convince a group of people to help you with a crafting project during a respite. If these people are available when you take a respite, you can make a project roll for a crafting project in addition to undertaking another respite activity.
 
 ### Skill
 
-You gain one skill of your choice.
+You gain one [skill](../../censor/level-10/skill.md) of your choice.
 
 ## 8th-Level Features
 
 ### 8th-Level Doctrine Feature
 
-Your tactical doctrine grants you a feature, as shown on the 8th-Level Doctrine Features table.
+Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you a feature, as shown on the 8th-Level Doctrine Features table.
 
 ###### 8th-Level Doctrine Features Table
 
 | Doctrine   | Feature                            |
 |------------|------------------------------------|
-| Insurgent  | Bait and Ambush                    |
-| Mastermind | Pincer Movement                    |
-| Vanguard   | See Your Enemies Driven Before You |
+| Insurgent  | [Bait and Ambush](bait-and-ambush.md)                    |
+| Mastermind | [Pincer Movement](pincer-movement.md)                    |
+| Vanguard   | [See Your Enemies Driven Before You](see-your-enemies-driven-before-you.md) |
 
 ### Bait and Ambush
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
+**[Mark](../../../ability/tactician/level-1/mark.md) Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../level-1/focus.md) to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
 
 ### Perk
 
-You gain one perk of your choice.
+You gain one [perk](../../censor/level-10/perk.md) of your choice.
 
 ### Pincer Movement
 
 You have trained your squad to coordinate their movements to maximize combat impact.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike shift up to a number of squares equal to your Reason score before the strike is resolved. If you didn't make the strike, you can make this shift as well. If you did make the strike, one ally within 10 squares of you can make this shift as well.
+**[Mark](../../../ability/tactician/level-1/mark.md) Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../level-1/focus.md) to have the character making the strike shift up to a number of squares equal to your Reason score before the strike is resolved. If you didn't make the strike, you can make this shift as well. If you did make the strike, one ally within 10 squares of you can make this shift as well.
 
 ### See Your Enemies Driven Before You
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then shift up to a number of squares equal to your Reason score, ending this shift adjacent to the target.
+**[Mark](../../../ability/tactician/level-1/mark.md) Benefit:** When you or any ally makes a melee strike against a creature marked by you, you can spend 2 [focus](../level-1/focus.md) to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then shift up to a number of squares equal to your Reason score, ending this shift adjacent to the target.
 
 ## 8th-Level Abilities
 
@@ -907,6 +1218,42 @@ You have trained your squad to maximize impact and break enemy lines when they a
 
 **Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
 
+### I'll Open and You'll Close (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You create an opening for an ally.*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+|-----------------------------------|--------------------:|
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+
+**Power Roll + Might:**
+
+- **≤11:** 6 + M damage
+- **12-16:** 10 + M damage
+- **17+:** 14 + M damage
+
+**Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
+
+### [Floodgates Open](scc:mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You direct your squad to strike in unison and with devastating effect.*
+
+| **Ranged**       |     **Main action** |
+|------------------|--------------------:|
+| **📏 Ranged 10** | **🎯 Three allies** |
+
+**Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
+
+### [Go Now and Speed Well](scc:mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You direct an attack to strike true.*
+
+| **Ranged**       |         **Main action** |
+|------------------|------------------------:|
+| **📏 Ranged 10** | **🎯 Self or one ally** |
+
+**Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
+
 ## 9th-Level Features
 
 ### Grandmaster of Arms
@@ -943,7 +1290,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 | --------------------------------- | ------------------: |
 | **📏 Melee 1**                    | **🎯 One creature** |
 
-**Effect:** You mark the target.
+**Effect:** You [mark](../level-1/mark.md) the target.
 
 **Power Roll + Might:**
 
@@ -955,7 +1302,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 ### Squad! Hit and Run!
 
-*I had to pry this secret from the [shadow](class/shadow.md) colleges.*
+*I had to pry this secret from the [shadow](../../../../class/shadow.md) colleges.*
 
 | **Ranged**       |            **Main action** |
 |------------------|---------------------------:|
@@ -965,7 +1312,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 ### That One Is Mine!
 
-*You focus on making an enemy irrelevant.*
+*You [focus](../../../trait/tactician/level-1/focus.md) on making an enemy irrelevant.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
@@ -997,6 +1344,50 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 - **12-16:** R < AVERAGE, dazed (save ends)
 - **17+:** R < STRONG, dazed (save ends)
 
+### [Counterstrategy](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*I've identified a way to negate their strengths.*
+
+| **-**       | **Main action** |
+|-------------|----------------:|
+| **📏 Self** |     **🎯 Self** |
+
+**Effect:** You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.
+
+### [No Escape](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/no-escape) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*Nothing will stop you from reaching your foe.*
+
+| **Charge, Melee, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1**                    | **🎯 One creature** |
+
+**Effect:** You [mark](feature/ability/tactician/level-1/mark.md) the target.
+
+**Power Roll + Might:**
+
+- **≤11:** 11 + M damage
+- **12-16:** 16 + M damage
+- **17+:** 21 + M damage
+
+**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+
+### [Their Lack of Focus Is Their Undoing](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
+
+*You trick your enemies into attacking each other and leave them confused by the aftermath.*
+
+| **Magic, Ranged, Weapon** |      **Main action** |
+|---------------------------|---------------------:|
+| **📏 Ranged 10**          | **🎯 Three enemies** |
+
+**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+
+**Power Roll + Might:**
+
+- **≤11:** R < WEAK, dazed (save ends)
+- **12-16:** R < AVERAGE, dazed (save ends)
+- **17+:** R < STRONG, dazed (save ends)
+
 ## 10th-Level Features
 
 ### Characteristic Increase
@@ -1005,23 +1396,23 @@ Your Might and Reason scores each increase to 5.
 
 ### Command
 
-You have an epic resource called command. Each time you finish a respite, you gain command equal to the XP you gain. You can spend command on your abilities as if it were focus.
+You have an epic resource called [command](command.md). Each time you finish a respite, you gain [command](command.md) equal to the XP you gain. You can spend [command](command.md) on your abilities as if it were [focus](../level-1/focus.md).
 
-Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
+Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 [command](command.md) as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 [command](command.md) as a free triggered action to decrease the power roll outcome by one tier.
 
-Command remains until you spend it.
+[Command](command.md) remains until you spend it.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+You gain one exploration, interpersonal, or intrigue [perk](../../censor/level-10/perk.md) of your choice.
 
 ### Skill
 
-You gain one skill of your choice.
+You gain one [skill](../../censor/level-10/skill.md) of your choice.
 
 ### True Focus
 
-When you gain focus at the start of each of your turns during combat, you gain 4 focus instead of 3.
+When you gain [focus](../level-1/focus.md) at the start of each of your turns during combat, you gain 4 [focus](../level-1/focus.md) instead of 3.
 
 ### Warmaster
 

@@ -8,4 +8,4 @@ type: trait
 
 # Manifold Body
 
-When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+When you gain [discipline](../level-1/discipline.md) at the start of each of your turns during combat, you gain 4 [discipline](../level-1/discipline.md) instead of 3.

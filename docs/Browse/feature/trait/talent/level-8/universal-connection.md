@@ -8,4 +8,4 @@ type: trait
 
 # Universal Connection
 
-The range of your Telepathic Speech feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to anywhere on the same world.

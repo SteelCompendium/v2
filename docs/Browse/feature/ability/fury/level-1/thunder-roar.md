@@ -4,7 +4,7 @@ class: fury
 cost: 5 Ferocity
 distance: 5 x 1 line within 1
 effect: The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
-flavor: You unleash a howl that hurls your enemies back.
+flavor: You unleash a howl that hurls your enemies [back](scc:mcdm.heroes.v1/feature.ability.fury.level-1/back).
 keywords:
     - Area
     - Melee
@@ -22,7 +22,7 @@ type: ability
 
 # Thunder Roar
 
-*You unleash a howl that hurls your enemies back.*
+*You unleash a howl that hurls your enemies [back](back.md).*
 
 | **Area, Melee, Weapon**    |               **Main action** |
 |----------------------------|------------------------------:|

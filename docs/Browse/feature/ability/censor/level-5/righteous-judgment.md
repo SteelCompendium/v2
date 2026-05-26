@@ -4,7 +4,7 @@ class: censor
 cost: 9 Wrath
 distance: Melee 1
 effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
-flavor: You amplify the power of your judgment.
+flavor: You amplify the power of your [judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment).
 keywords:
     - Melee
     - Strike
@@ -22,7 +22,7 @@ type: ability
 
 # Righteous Judgment
 
-*You amplify the power of your judgment.*
+*You amplify the power of your [judgment](../level-1/judgment.md).*
 
 | **Melee, Strike, Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|

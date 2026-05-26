@@ -15,7 +15,7 @@ level: "2"
 name: Subvert the Green Within
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within
-target: One creature
+target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature'
 tier1: 5 + R poison damage
 tier2: 9 + R poison damage
 tier3: 12 + R poison damage
@@ -28,7 +28,7 @@ type: ability
 
 | **Green, Magic, Ranged, Strike, Void** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 Ranged 10**                       | **🎯 [One](../../../trait/elementalist/level-10/one.md) creature** |
 
 **Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
 

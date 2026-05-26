@@ -4,7 +4,7 @@ class: censor
 cost: 5 Wrath
 distance: Melee 1
 effect: When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
-flavor: Judged and sentenced.
+flavor: Judged and [sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced).
 keywords:
     - Melee
     - Strike
@@ -22,7 +22,7 @@ type: ability
 
 # Censored
 
-*Judged and sentenced.*
+*Judged and [sentenced](../level-2/sentenced.md).*
 
 | **Melee, Strike, Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|

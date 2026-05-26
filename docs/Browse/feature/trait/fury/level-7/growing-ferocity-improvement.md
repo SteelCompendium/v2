@@ -8,4 +8,4 @@ type: trait
 
 # Growing Ferocity Improvement
 
-Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.
+Your [Growing Ferocity](../boren/growing-ferocity.md) feature provides additional benefits when you have 10 or more [ferocity](../level-1/ferocity.md).

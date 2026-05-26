@@ -8,12 +8,12 @@ type: trait
 
 # 1st-Level Aspect Features
 
-Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
+Your [primordial aspect](primordial-aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                        |
 |------------|--------------------------------|
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Berserker  | [Kit](../../censor/level-1/kit.md), [Primordial Strength](primordial-strength.md)       |
+| Reaver     | [Kit](../../censor/level-1/kit.md), [Primordial Cunning](primordial-cunning.md)        |
+| Stormwight | [Beast Shape](beast-shape.md), [Relentless Hunter](relentless-hunter.md) |

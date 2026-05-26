@@ -1,0 +1,31 @@
+---
+action_type: Triggered
+class: shadow
+distance: Self
+effect: You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+flavor: You vanish in a plume of black smoke to avoid danger.
+keywords:
+    - Magic
+level: "1"
+name: '[In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion)'
+scc: mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion-scc-mcdm-heroes-v1-feature-ability-shadow-level-1-in-all-this-confusion
+spend: '1+ [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight): You teleport 1 additional square for each [insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight) spent.'
+subtype: triggered
+target: Self
+trigger: You take damage.
+type: ability
+---
+
+# [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion)
+
+*You vanish in a plume of black smoke to avoid danger.*
+
+| **Magic**   | **Triggered** |
+|-------------|--------------:|
+| **📏 Self** |     **🎯 Self** |
+
+**Trigger:** You take damage.
+
+**Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+
+**Spend 1+ [Insight](feature/trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](feature/trait/shadow/level-1/insight.md) spent.

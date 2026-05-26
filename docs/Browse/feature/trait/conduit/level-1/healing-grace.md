@@ -21,7 +21,7 @@ You have the following ability, which you can use once on your turn.
 > 
 > **Effect:** The target can spend a Recovery.
 > 
-> **Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+> **Spend 1+ [Piety](piety.md):** For each [piety](piety.md) spent, choose one of the following enhancements:
 > 
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.

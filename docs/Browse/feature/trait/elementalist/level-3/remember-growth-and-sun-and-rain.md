@@ -17,6 +17,6 @@ You have the following ability.
 > 
 > | **Green, Magic, Melee** |                  **Main action** |
 > |-------------------------|---------------------------------:|
-> | **📏 Melee 1**          | **🎯 One mundane wooden object** |
+> | **📏 Melee 1**          | **🎯 [One](../level-10/one.md) mundane wooden object** |
 > 
 > **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.

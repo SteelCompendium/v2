@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 5 Ferocity
 distance: 2 burst
-effect: This ability deals your primordial damage type (see Stormwight Kits).
+effect: This ability deals your primordial damage type (see [Stormwight Kits](scc:mcdm.heroes.v1/feature.trait.fury/stormwight-kits)).
 flavor: The sound of the storm within you staggers your opponents.
 keywords:
     - Area
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 5 damage; push 2; M < AVERAGE, dazed (save ends)
 - **17+:** 7 damage; push 3; M < STRONG, dazed (save ends)
 
-**Effect:** This ability deals your primordial damage type (see Stormwight Kits).
+**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../../../trait/fury/stormwight-kits.md)).

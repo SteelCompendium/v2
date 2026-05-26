@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your Entropic Adaptability trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](scc:mcdm.heroes.v1/feature.trait.null.level-2/entropic-adaptability) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 flavor: You become the coldest thing in the timescape.
 keywords:
     - Psionic
@@ -32,4 +32,4 @@ type: ability
 - **12-16:** You gain 30 temporary Stamina.
 - **17+:** You gain 40 temporary Stamina.
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your Entropic Adaptability trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../../../trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.

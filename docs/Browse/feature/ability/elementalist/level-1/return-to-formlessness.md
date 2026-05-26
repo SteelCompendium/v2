@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Return to Formlessness
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/return-to-formlessness
-target: One mundane object
+target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) mundane object'
 type: ability
 ---
 
@@ -21,6 +21,6 @@ type: ability
 
 | **Fire, Magic, Melee**  |           **Main action** |
 |-------------------------|--------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane object** |
+| **📏 Melee 1**          | **🎯 [One](../../../trait/elementalist/level-10/one.md) mundane object** |
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.

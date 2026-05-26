@@ -8,15 +8,15 @@ type: trait
 
 # Doctrine Triggered Action
 
-Your tactical doctrine grants you a triggered action, as shown on the Doctrine Triggered Actions table.
+Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
 
 ###### Doctrine Triggered Actions Table
 
 | Doctrine   | Triggered Action |
 |------------|------------------|
-| Insurgent  | Advanced Tactics |
-| Mastermind | Overwatch        |
-| Vanguard   | Parry            |
+| Insurgent  | [Advanced Tactics](../../../ability/tactician/level-1/advanced-tactics.md) |
+| Mastermind | [Overwatch](../../../ability/tactician/level-1/overwatch.md)        |
+| Vanguard   | [Parry](../../../ability/tactician/level-1/parry.md)            |
 
 ###### Advanced Tactics
 
@@ -31,4 +31,4 @@ Your tactical doctrine grants you a triggered action, as shown on the Doctrine T
 >
 > **Effect:** The target gains 2 surges, which they can use on the triggering damage.
 >
-> **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
+> **Spend 1 [Focus](focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.

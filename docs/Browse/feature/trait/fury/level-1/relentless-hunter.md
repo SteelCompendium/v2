@@ -8,4 +8,4 @@ type: trait
 
 # Relentless Hunter
 
-You gain an edge on tests made using the Track skill.
+You gain an edge on tests made using the Track [skill](../../censor/level-10/skill.md).

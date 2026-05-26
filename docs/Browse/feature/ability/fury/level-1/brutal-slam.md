@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-flavor: The heavy impact of your weapon attacks drives your foes ever back.
+flavor: The heavy impact of your weapon attacks drives your foes ever [back](scc:mcdm.heroes.v1/feature.ability.fury.level-1/back).
 keywords:
     - Melee
     - Strike
@@ -21,7 +21,7 @@ type: ability
 
 # Brutal Slam
 
-*The heavy impact of your weapon attacks drives your foes ever back.*
+*The heavy impact of your weapon attacks drives your foes ever [back](back.md).*
 
 | **Melee, Strike, Weapon** |                **Main action** |
 |---------------------------|-------------------------------:|

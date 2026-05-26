@@ -14,7 +14,7 @@ level: "9"
 name: Unquenchable Fire
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire
-target: One enemy or object
+target: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) enemy or object'
 tier1: 13 + R fire damage; I < WEAK, dazed (save ends)
 tier2: 18 + R fire damage; I < AVERAGE, dazed (save ends)
 tier3: 25 + R fire damage; I < STRONG, dazed (save ends)
@@ -27,7 +27,7 @@ type: ability
 
 | **Fire, Magic, Ranged, Strike** |            **Main action** |
 |---------------------------------|---------------------------:|
-| **📏 Ranged 10**                | **🎯 One enemy or object** |
+| **📏 Ranged 10**                | **🎯 [One](../../../trait/elementalist/level-10/one.md) enemy or object** |
 
 **Power Roll + Reason:**
 

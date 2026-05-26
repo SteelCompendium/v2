@@ -8,12 +8,12 @@ type: trait
 
 # 5th-Level College Feature
 
-Your [shadow](class/shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](../../../../class/shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
 | College         | Feature           |
 |-----------------|-------------------|
-| Black Ash       | Trail of Cinders  |
-| Caustic Alchemy | Volatile Reagents |
-| Harlequin Mask  | Harlequin Gambit  |
+| Black Ash       | [Trail of Cinders](trail-of-cinders.md)  |
+| Caustic Alchemy | [Volatile Reagents](volatile-reagents.md) |
+| Harlequin Mask  | [Harlequin Gambit](harlequin-gambit.md)  |

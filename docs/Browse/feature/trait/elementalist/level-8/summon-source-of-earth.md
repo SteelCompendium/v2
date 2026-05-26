@@ -31,13 +31,13 @@ You have the following ability.
 >
 >> **Earth Harness**
 >>
->> A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+>> A creature that has the [Earth Accepts Me](../../../ability/elementalist/level-3/earth-accepts-me.md) ability can use it as a free action to meld into the source.
 >
 >> **Boulder Bash**
 >>
 >> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+>> | **📏 Melee 2 or ranged 10**       | **🎯 [One](../level-10/one.md) creature or object** |
 >>
 >> **Power Roll + 3:**
 >>

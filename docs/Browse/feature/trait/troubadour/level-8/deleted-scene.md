@@ -8,4 +8,4 @@ type: trait
 
 # Deleted Scene
 
-Whenever a creature within distance of your Dramatic Monologue ability makes a power roll, you can spend 1 drama as a free triggered action to use Dramatic Monologue, targeting only one creature.
+Whenever a creature within distance of your [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a power roll, you can spend 1 [drama](../level-1/drama.md) as a free triggered action to use [Dramatic Monologue](../../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature.

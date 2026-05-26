@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Black Ash Teleport
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport
-spend: '1+ Insight: You teleport 1 additional square for each insight spent.'
+spend: '1+ [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight): You teleport 1 additional square for each [insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight) spent.'
 target: Self
 type: ability
 ---
@@ -24,4 +24,4 @@ type: ability
 
 **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ [Insight](../../../trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](../../../trait/shadow/level-1/insight.md) spent.

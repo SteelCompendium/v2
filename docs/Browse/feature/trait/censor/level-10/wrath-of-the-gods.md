@@ -8,4 +8,4 @@ type: trait
 
 # Wrath of the Gods
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain [wrath](../level-1/wrath.md) at the start of each of your turns during combat, you gain 4 [wrath](../level-1/wrath.md) instead of 3.

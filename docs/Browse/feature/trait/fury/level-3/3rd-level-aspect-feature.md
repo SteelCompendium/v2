@@ -8,12 +8,12 @@ type: trait
 
 # 3rd-Level Aspect Feature
 
-Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.
+Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table
 
 | Aspect                    | Feature                  |
 |---------------------------|--------------------------|
-| Berserker                 | Immovable Object         |
-| Reaver                    | See Through Their Tricks |
+| Berserker                 | [Immovable Object](immovable-object.md)         |
+| Reaver                    | [See Through Their Tricks](see-through-their-tricks.md) |
 | Stormwight                | Nature's Knight          |

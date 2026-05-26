@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Healing Grace
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace
-spend: '1+ Piety: For each piety spent, choose one of the following enhancements:'
+spend: '1+ [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety): For each [piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety) spent, choose one of the following enhancements:'
 target: Self or one ally
 type: ability
 ---
@@ -25,7 +25,7 @@ type: ability
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+**Spend 1+ [Piety](../../../trait/conduit/level-1/piety.md):** For each [piety](../../../trait/conduit/level-1/piety.md) spent, choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.

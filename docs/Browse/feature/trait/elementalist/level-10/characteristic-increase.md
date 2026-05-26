@@ -8,4 +8,4 @@ type: trait
 
 # Characteristic Increase
 
-Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+Your Reason score increases to 5. Additionally, you can increase [one](one.md) of your characteristic scores by 1, to a maximum of 5.

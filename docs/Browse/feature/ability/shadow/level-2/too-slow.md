@@ -3,7 +3,7 @@ action_type: Free triggered
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+effect: You ignore any effects associated with the damage that triggered your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion). After you teleport, you can spend a Recovery.
 flavor: Your foe made a big mistake.
 keywords:
     - '-'
@@ -12,7 +12,7 @@ name: Too Slow
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/too-slow
 subtype: triggered
 target: Self
-trigger: You use your In All This Confusion ability.
+trigger: You use your [In All This Confusion](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion) ability.
 type: ability
 ---
 
@@ -24,6 +24,6 @@ type: ability
 |------------------------|-------------------:|
 | **📏 Self; see below** |        **🎯 Self** |
 
-**Trigger:** You use your In All This Confusion ability.
+**Trigger:** You use your [In All This Confusion](../level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.

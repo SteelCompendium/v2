@@ -10,7 +10,7 @@ keywords:
 level: "8"
 name: Time Bomb
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
-spend: '2+ Insight: For every 2 insight spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
+spend: '2+ [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight): For every 2 [insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight) spent, you increase the cube''s size by 1 and gain 1 surge that can be used only with this ability.'
 target: Each enemy in the area
 type: ability
 ---
@@ -27,4 +27,4 @@ type: ability
 
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
-**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ [Insight](../../../trait/shadow/level-1/insight.md):** For every 2 [insight](../../../trait/shadow/level-1/insight.md) spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.

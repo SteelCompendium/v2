@@ -7,4 +7,4 @@ type: trait
 
 # Growing Ferocity
 
-Each stormwight kit grants a set of benefits for your Growing Ferocity feature.
+Each stormwight [kit](../censor/level-1/kit.md) grants a set of benefits for your [Growing Ferocity](boren/growing-ferocity.md) feature.

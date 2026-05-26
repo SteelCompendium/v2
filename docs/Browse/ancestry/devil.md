@@ -7,15 +7,15 @@ type: ancestry
 
 # Devil
 
-The native ancestry of the Seven Cities of Hell, [devils](ancestry/devil.md) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](ancestry/devil.md) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, [devils](devil.md) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](devil.md) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Those [devils](ancestry/devil.md) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](ancestry/devil.md) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](ancestry/devil.md), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](ancestry/devil.md) acting as the broker.
+Those [devils](devil.md) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](devil.md) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](devil.md), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](devil.md) acting as the broker.
 
-On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](ancestry/devil.md) on Orden permanently. Some stranded [devils](ancestry/devil.md) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
+On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](devil.md) on Orden permanently. Some stranded [devils](devil.md) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
 
-The majority of [devils](ancestry/devil.md) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](ancestry/devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of [devils](devil.md) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
 
 ### On Devils
 
@@ -27,7 +27,7 @@ Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
-Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a [devil](ancestry/devil.md) standing in his basement—dark purple skin, horns, even a twitching tail.
+Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a [devil](devil.md) standing in his basement—dark purple skin, horns, even a twitching tail.
 
 "Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you..." But his speech fell on deaf ears.
 
@@ -37,25 +37,25 @@ Moments later, the candles flared, there was a burst of flame, and acrid brimsto
 
 He stopped cavorting and capering, and his eyes went wide. "Until they... until..." He clutched his chest.
 
-"Uh-oh," the [devil](ancestry/devil.md) said, genuinely worried.
+"Uh-oh," the [devil](devil.md) said, genuinely worried.
 
 "HNNG!" Adelard grunted. Then he collapsed to the ground, curled into a fetal position, obviously in immense pain.
 
-"Nono. Nurse!" the [devil](ancestry/devil.md) called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
+"Nono. Nurse!" the [devil](devil.md) called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
 
 Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseeing.
 
-"... calms me down," the [devil](ancestry/devil.md) said quietly.
+"... calms me down," the [devil](devil.md) said quietly.
 
-Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The [devil's](ancestry/devil.md) hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
+Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The [devil's](devil.md) hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
 
 He poked the tip of his boot at the chalk symbol surrounding him on the floor. Nothing happened. He stepped on it. Nothing happened. He put his weight on that foot. No alarms went off.
 
 He walked out of the circle. Nothing happened. No one, it seemed, cared.
 
-A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](ancestry/devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
+A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
 
-"Ah," the [devil](ancestry/devil.md) said.
+"Ah," the [devil](devil.md) said.
 
 A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stopped in her tracks, her mouth open.
 
@@ -67,17 +67,17 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
 
-"Have at you, [devil](ancestry/devil.md)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](ancestry/devil.md) raised his hands.
+"Have at you, [devil](devil.md)!" he said, assuming something like a dueling pose. "I say! Steady on!" The [devil](devil.md) raised his hands.
 
 The two of them stood there, frozen in the middle of the street for a few moments.
 
-Then the [devil](ancestry/devil.md) turned and ran away as quickly as he could.
+Then the [devil](devil.md) turned and ran away as quickly as he could.
 
 • "And that's how I ended up here!" Riyalkin toasted his dinner companion. "Now, after years of obscurity, a legendary hero!"
 
 "Legendarily *vain*," his dinner guest teased with a smile.
 
-"Simply playing my part, darling. People expect a certain amount of vanity in a [troubadour](class/troubadour.md), don't they?"
+"Simply playing my part, darling. People expect a certain amount of vanity in a [troubadour](../class/troubadour.md), don't they?"
 
 She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
@@ -85,7 +85,7 @@ She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
 "Not all actors are vain." She took offense beautifully. "Just the good ones." She sipped her drink.
 
-"Well then, you must be very vain indeed," the [devil](ancestry/devil.md) said. "Anyway, does that answer your question?"
+"Well then, you must be very vain indeed," the [devil](devil.md) said. "Anyway, does that answer your question?"
 
 "Mostly. Do they speak Caelian in Hell?"
 
@@ -99,7 +99,7 @@ He waggled his eyebrows. "Style counts for something."
 
 "Well, I was an accountant here in Capital for several years in between." "An accountant!"
 
-Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](class/troubadour.md)?"
+Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](../class/troubadour.md)?"
 
 "Well..." Riyalkin seemed uncomfortable suddenly. "It's just that... the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just... missed the excitement."
 
@@ -109,18 +109,18 @@ Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how
 
 and the outrageous sums I spend looking good, I always feel *underdressed* in your presence? Do you employ sorcery? Or is it that any outfit is improved by your *unearthly* beauty?"
 
-She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](ancestry/devil.md)."
+She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](devil.md)."
 
 
 ---
 
 ### Devil Traits
 
-[Devil](ancestry/devil.md) heroes have access to the following traits.
+[Devil](../../ancestry/devil.md) heroes have access to the following traits.
 
 #### Signature Trait: Silver Tongue
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](chapter/tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](chapter/negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../chapter/tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../chapter/negotiation.md)).
 
 #### Purchased Devil Traits
 
@@ -144,7 +144,7 @@ Your eyes let you see through darkness, fog, and other obscuring effects. You do
 
 ##### Impressive Horns (2 Points)
 
-Your cherished horns are larger than the average [devil's](ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+Your cherished horns are larger than the average [devil's](../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
 ##### Prehensile Tail (2 Points)
 

@@ -8,12 +8,12 @@ type: trait
 
 # 8th-Level Order Feature
 
-Your [censor](class/censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
 | Order                    | Feature             |
 |--------------------------|---------------------|
-| Exorcist                 | Demonologist        |
-| Oracle                   | Their Past Revealed |
-| Paragon                  | Vow                 |
+| Exorcist                 | [Demonologist](demonologist.md)        |
+| Oracle                   | [Their Past Revealed](their-past-revealed.md) |
+| Paragon                  | [Vow](vow.md)                 |

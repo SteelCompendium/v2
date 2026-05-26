@@ -9,7 +9,7 @@ type: treasure
 
 # Leveled Armor Treasures
 
-Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](treasure/leveled-armor-treasures.md) in alphabetical order.
+Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](leveled-armor-treasures.md) in alphabetical order.
 
 ##### Adaptive Second Skin of Toxins
 
@@ -97,7 +97,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Keywords:** Medium Armor, Psionic
 
-**Item Prerequisite:** The eyes of a [time raider](ancestry/time-raider.md) who died valiantly in battle
+**Item Prerequisite:** The eyes of a [time raider](../ancestry/time-raider.md) who died valiantly in battle
 
 **Project Source:** Texts or lore in Voll
 

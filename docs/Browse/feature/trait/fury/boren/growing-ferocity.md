@@ -8,11 +8,11 @@ type: trait
 
 # Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the [Boren](kit/boren.md) Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your [ferocity](../level-1/ferocity.md) grows, you gain benefits as noted on the [Boren](../../../../kit/boren.md) [Growing Ferocity](growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Boren Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                   |
+| [Ferocity](../level-1/ferocity.md)        | Benefit                                                                                                                                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | You can have up to two creatures grabbed at a time. Additionally, whenever you make a strike against a creature you have grabbed, you gain 1 surge.                                                                       |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |

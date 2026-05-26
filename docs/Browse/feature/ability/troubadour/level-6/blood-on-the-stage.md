@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 9 Drama
 distance: Melee 1
-flavor: It's love and blood or drama and blood. Either way, there's always blood.
+flavor: It's love and blood or [drama](scc:mcdm.heroes.v1/feature.trait.troubadour.level-1/drama) and blood. Either way, there's always blood.
 keywords:
     - Melee
     - Strike
@@ -21,7 +21,7 @@ type: ability
 
 # Blood on the Stage
 
-*It's love and blood or drama and blood. Either way, there's always blood.*
+*It's love and blood or [drama](../../../trait/troubadour/level-1/drama.md) and blood. Either way, there's always blood.*
 
 | **Melee, Strike, Weapon** |               **Main action** |
 |---------------------------|------------------------------:|

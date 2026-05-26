@@ -30,7 +30,7 @@ type: ability
 
 **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
 
-**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are weakened (save ends).
+**Strained:** This ability gains the Strike keyword as the [vision](../../../trait/talent/level-10/vision.md) hurts the target's psyche. You make a power roll, then are weakened (save ends).
 
 **Power Roll + Presence:**
 

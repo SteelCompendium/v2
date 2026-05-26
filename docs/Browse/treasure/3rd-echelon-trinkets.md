@@ -89,7 +89,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](class/null.md) to wear this ring. While you do so, the area of your [Null](class/null.md) Field ability increases by 1.
+**Effect:** You must be a [null](../class/null.md) to wear this ring. While you do so, the area of your [Null](../class/null.md) Field ability increases by 1.
 
 Additionally, you have the following ability.
 

@@ -10,6 +10,6 @@ type: complication
 
 You have a piratical past (and maybe a piratical present and future as well). Though you're not well-known ashore, other pirates have a way of recognizing their own.
 
-**Benefit:** When interacting with pirates or [pirate](complication/pirate.md) hunters, you treat your Renown as 2 higher than usual. Additionally, you hold a piece of a [pirate](complication/pirate.md) map, with a handful of other pirates in different locations holding the other pieces. With all the pieces, you'd know the location of a fabulous [pirate](complication/pirate.md) treasure.
+**Benefit:** When interacting with pirates or [pirate](pirate.md) hunters, you treat your Renown as 2 higher than usual. Additionally, you hold a piece of a [pirate](pirate.md) map, with a handful of other pirates in different locations holding the other pieces. With all the pieces, you'd know the location of a fabulous [pirate](pirate.md) treasure.
 
-**Drawback:** The pirates holding the other pieces of the map would very much like to get their hands on your piece, and have no qualms about killing you to get it. Furthermore, the [pirate](complication/pirate.md) treasure is said to be cursed or haunted.
+**Drawback:** The pirates holding the other pieces of the map would very much like to get their hands on your piece, and have no qualms about killing you to get it. Furthermore, the [pirate](pirate.md) treasure is said to be cursed or haunted.

@@ -8,4 +8,4 @@ type: trait
 
 # 5th-Level Class Act Feature
 
-Your [troubadour](class/troubadour.md) class act grants your choice of one of two features.
+Your [troubadour](../../../../class/troubadour.md) class act grants your choice of one of two features.

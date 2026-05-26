@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 11 Ferocity
 distance: Self; see below
-effect: You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+effect: You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 [ferocity](scc:mcdm.heroes.v1/feature.trait.fury.level-1/ferocity) for each target who dies as a result of this ability (maximum 11 [ferocity](scc:mcdm.heroes.v1/feature.trait.fury.level-1/ferocity)).
 flavor: You won't escape your fate.
 keywords:
     - Magic
@@ -29,7 +29,7 @@ type: ability
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 [ferocity](../../../trait/fury/level-1/ferocity.md) for each target who dies as a result of this ability (maximum 11 [ferocity](../../../trait/fury/level-1/ferocity.md)).
 
 **Power Roll + Might:**
 

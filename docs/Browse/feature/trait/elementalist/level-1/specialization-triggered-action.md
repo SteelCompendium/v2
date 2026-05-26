@@ -8,16 +8,16 @@ type: trait
 
 # Specialization Triggered Action
 
-Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.
+Your [elemental specialization](elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
 
 ###### Elemental Specialization Triggered Actions Table
 
 | Specialization  | Triggered Action          |
 |-----------------|---------------------------|
-| Earth           | Skin Like Castle Walls    |
-| Fire            | Explosive Assistance      |
-| Green           | Breath of Dawn Remembered |
-| Void            | Subtle Relocation         |
+| Earth           | [Skin Like Castle Walls](../../../ability/elementalist/level-1/skin-like-castle-walls.md)    |
+| Fire            | [Explosive Assistance](../../../ability/elementalist/level-1/explosive-assistance.md)      |
+| Green           | [Breath of Dawn Remembered](../../../ability/elementalist/level-1/breath-of-dawn-remembered.md) |
+| Void            | [Subtle Relocation](../../../ability/elementalist/level-1/subtle-relocation.md)         |
 
 ###### Breath of Dawn Remembered
 
@@ -26,10 +26,10 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 > 
 > | **Green, Magic, Ranged**          |           **Triggered** |
 > |-----------------------------------|------------------------:|
-> | **📏 Ranged 10**                  | **🎯 Self or one ally** |
+> | **📏 Ranged 10**                  | **🎯 Self or [one](../level-10/one.md) ally** |
 > 
 > **Trigger:** The target starts their turn or takes damage.
 > 
 > **Effect:** The target can spend a Recovery.
 > 
-> **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
+> **Spend 1+ [Essence](essence.md):** The target can spend an additional Recovery for each [essence](essence.md) spent.

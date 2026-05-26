@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 distance: Ranged 10
 effect: You or one ally within distance gains temporary Stamina equal to your Intuition score.
-flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.
+flavor: Your quickly uttered [prayer](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/prayer) lends aggressive divine energy to a friend engaged in melee.
 keywords:
     - Magic
     - Ranged
@@ -22,7 +22,7 @@ type: ability
 
 # Warrior's Prayer
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered [prayer](../../../trait/conduit/level-1/prayer.md) lends aggressive divine energy to a friend engaged in melee.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |
 |----------------------------|--------------------:|

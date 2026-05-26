@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending [essence](../../../trait/elementalist/level-1/essence.md).

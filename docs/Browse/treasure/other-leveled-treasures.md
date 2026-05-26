@@ -9,7 +9,7 @@ type: treasure
 
 # Other Leveled Treasures
 
-In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](treasure/magic-and-psionic-treasures.md). This section presents other types of leveled treasures in alphabetical order.
+In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](magic-and-psionic-treasures.md). This section presents other types of leveled treasures in alphabetical order.
 
 ##### Bloodbound Band
 

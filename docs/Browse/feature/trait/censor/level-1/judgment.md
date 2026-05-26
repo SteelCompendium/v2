@@ -8,7 +8,7 @@ type: trait
 
 # Judgment
 
-You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your [wrath](wrath.md) and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
 
 ##### Judgment
 
@@ -19,13 +19,13 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 > |-------------------|-----------------:|
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 > 
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](class/censor.md) judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../class/censor.md) judges the target.
 > 
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 > 
 > When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 > 
-> Additionally, you can spend 1 wrath to take one of the following free triggered actions:
+> Additionally, you can spend 1 [wrath](wrath.md) to take one of the following free triggered actions:
 > 
 > - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.

@@ -4,7 +4,7 @@ class: tactician
 cost: 9 Focus
 distance: Melee 1
 effect: The target takes half the damage. You then make a power roll against the triggering creature.
-flavor: You parry with almost supernatural speed.
+flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
 keywords:
     - Melee
     - Weapon
@@ -23,7 +23,7 @@ type: ability
 
 # Instant Retaliation
 
-*You parry with almost supernatural speed.*
+*You [parry](../level-1/parry.md) with almost supernatural speed.*
 
 | **Melee, Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|

@@ -13,7 +13,7 @@ type: kit
 
 # Raider
 
-The [Raider](kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+The [Raider](raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
 ##### Equipment
 
@@ -37,7 +37,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ###### Raider's Awe
 
-*You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../feature/trait/tactician/level-7/shock-and-awe.md)")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|

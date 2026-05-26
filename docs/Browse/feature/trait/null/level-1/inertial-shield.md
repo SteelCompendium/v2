@@ -23,4 +23,4 @@ Your instincts for danger let you predict attacks before they happen.
 > 
 > **Effect:** You take half the damage.
 > 
-> **Spend 1 Discipline:** The potency of one effect associated with the damage is reduced by 1 for you.
+> **Spend 1 [Discipline](discipline.md):** The potency of one effect associated with the damage is reduced by 1 for you.

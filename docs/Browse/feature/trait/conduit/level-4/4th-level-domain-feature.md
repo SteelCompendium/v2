@@ -8,28 +8,28 @@ type: trait
 
 # 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](class/conduit.md) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](../../../../class/conduit.md) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
 | Domain     | Feature                     |
 |------------|-----------------------------|
-| Creation   | Improved Hands of the Maker |
+| Creation   | Improved [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) |
 | Death      | Seance                      |
-| Fate       | Oracular Warning            |
+| Fate       | [Oracular Warning](../../censor/level-4/oracular-warning.md)            |
 | Knowledge  | Saint's Epiphany            |
-| Life       | Blessing of Life            |
+| Life       | [Blessing of Life](../../censor/level-4/blessing-of-life.md)            |
 | Love       | Invocation of the Heart     |
-| Nature     | Wode Road                   |
-| Protection | Impervious Touch            |
+| Nature     | [Wode Road](../../censor/level-4/wode-road.md)                   |
+| Protection | [Impervious Touch](../../censor/level-4/impervious-touch.md)            |
 | Storm      | Windwalk                    |
-| Sun        | Light of Revelation         |
-| Trickery   | Blessing of Secrets         |
-| War        | Improved Sanctified Weapon  |
+| Sun        | [Light of Revelation](../../censor/level-4/light-of-revelation.md)         |
+| Trickery   | [Blessing of Secrets](../../../ability/censor/level-4/blessing-of-secrets.md)         |
+| War        | [Improved Sanctified Weapon](../../censor/level-4/improved-sanctified-weapon.md)  |
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
 
 ###### Blessing of Secrets
 
@@ -43,11 +43,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ###### Improved Hands of the Maker
 
-When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../../censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 

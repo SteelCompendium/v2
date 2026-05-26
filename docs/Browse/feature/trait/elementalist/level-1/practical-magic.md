@@ -19,8 +19,8 @@ You have the following ability.
 > |------------------------|-------------:|
 > | **📏 Self; see below** |  **🎯 Self** |
 > 
-> **Effect:** Choose one of the following effects:
+> **Effect:** Choose [one](../level-10/one.md) of the following effects:
 > 
-> - You use the Knockback maneuver (see Chapter 10: [Combat](chapter/combat.md)), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
-> - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+> - You use the Knockback maneuver (see Chapter 10: [Combat](../../../../chapter/combat.md)), but its distance becomes the range of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and [one](../level-10/one.md) of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend [essence](essence.md) to teleport 1 additional square for each [essence](essence.md) spent.

@@ -8,4 +8,4 @@ type: trait
 
 # Skill
 
-You gain one skill of your choice.
+You gain [one](one.md) [skill](../../censor/level-10/skill.md) of your choice.

@@ -8,8 +8,8 @@ type: trait
 
 # Virtue
 
-You have an epic resource called virtue. Each time you finish a respite, you gain virtue equal to the XP you gain. You can spend virtue on your abilities as if it were wrath.
+You have an epic resource called [virtue](virtue.md). Each time you finish a respite, you gain [virtue](virtue.md) equal to the XP you gain. You can spend [virtue](virtue.md) on your abilities as if it were [wrath](../level-1/wrath.md).
 
-Additionally, you can spend 3 virtue to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-Virtue remains until you spend it.
+[Virtue](virtue.md) remains until you spend it.

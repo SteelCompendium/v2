@@ -8,8 +8,8 @@ type: trait
 
 # Subterfuge
 
-You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were insight.
+You have an epic resource called [subterfuge](subterfuge.md). Each time you finish a respite, you gain [subterfuge](subterfuge.md) equal to the XP you gain. You can spend [subterfuge](subterfuge.md) on your abilities as if it were [insight](../level-1/insight.md).
 
-Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
+Additionally, you can spend [subterfuge](subterfuge.md) to take additional maneuvers on your turn. You can use one maneuver for each [subterfuge](subterfuge.md) you spend.
 
-Subterfuge remains until you spend it.
+[Subterfuge](subterfuge.md) remains until you spend it.

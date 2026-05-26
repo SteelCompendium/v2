@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 distance: Melee 1
 effect: You can deal damage equal to your Agility score to one creature or object adjacent to you.
-flavor: You strike so quickly that your hands become a blur.
+flavor: You strike so quickly that your hands become a [blur](scc:mcdm.heroes.v1/feature.ability.null.level-2/blur).
 keywords:
     - Melee
     - Psionic
@@ -23,7 +23,7 @@ type: ability
 
 # Faster Than the Eye
 
-*You strike so quickly that your hands become a blur.*
+*You strike so quickly that your hands become a [blur](../level-2/blur.md).*
 
 | **Melee, Psionic, Strike, Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|

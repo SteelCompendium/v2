@@ -8,12 +8,12 @@ type: trait
 
 # Shadow College
 
-[Shadow](class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../../../class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../../class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow college](shadow-college.md) chosen from the following options, each of which grants you a [skill](../../censor/level-10/skill.md). (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](class/shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
-- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
-- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../../class/shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic [skill](../../censor/level-10/skill.md).
+- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy [skill](../../censor/level-10/skill.md).
+- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie [skill](../../censor/level-10/skill.md).
 
-Your [shadow](class/shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](../../../../class/shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.

@@ -8,4 +8,4 @@ type: trait
 
 # Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your Mind Spike ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../../../../chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.

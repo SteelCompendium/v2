@@ -4,7 +4,7 @@ class: tactician
 cost: 3 Focus
 distance: Ranged 10
 effect: Each target can move up to their speed.
-flavor: On your command, you and your allies force back the enemy line.
+flavor: On your [command](scc:mcdm.heroes.v1/feature.trait.tactician.level-10/command), you and your allies force back the enemy line.
 keywords:
     - Ranged
 level: "1"
@@ -16,7 +16,7 @@ type: ability
 
 # Squad! Forward!
 
-*On your command, you and your allies force back the enemy line.*
+*On your [command](../../../trait/tactician/level-10/command.md), you and your allies force back the enemy line.*
 
 | **Ranged**       |               **Maneuver** |
 |------------------|---------------------------:|

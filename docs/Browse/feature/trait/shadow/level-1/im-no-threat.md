@@ -13,7 +13,7 @@ You have the following ability.
 ###### I'm No Threat
 
 > 
-> *Taking on an illusory countenance gives you an advantage on subterfuge.*
+> *Taking on an illusory countenance gives you an advantage on [subterfuge](../level-10/subterfuge.md).*
 > 
 > | **Magic**   | **Maneuver** |
 > |-------------|-------------:|
@@ -23,4 +23,4 @@ You have the following ability.
 > 
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 > 
-> **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
+> **Spend 1 [Insight](insight.md):** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.

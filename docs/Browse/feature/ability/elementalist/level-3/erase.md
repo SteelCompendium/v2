@@ -15,7 +15,7 @@ name: Erase
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/erase
 target: Special
-tier1: One creature
+tier1: '[One](scc:mcdm.heroes.v1/feature.trait.elementalist.level-10/one) creature'
 tier2: Two creatures
 tier3: Three creatures
 type: ability
@@ -33,7 +33,7 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** One creature
+- **≤11:** [One](../../../trait/elementalist/level-10/one.md) creature
 - **12-16:** Two creatures
 - **17+:** Three creatures
 

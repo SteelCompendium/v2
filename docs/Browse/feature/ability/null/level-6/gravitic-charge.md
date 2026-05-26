@@ -4,7 +4,7 @@ class: "null"
 cost: 9 Discipline
 distance: Self
 effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
-flavor: You channel your discipline into momentum that defies gravity.
+flavor: You channel your [discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline) into momentum that defies gravity.
 keywords:
     - Psionic
 level: "6"
@@ -20,7 +20,7 @@ type: ability
 
 # Gravitic Charge
 
-*You channel your discipline into momentum that defies gravity.*
+*You channel your [discipline](../../../trait/null/level-1/discipline.md) into momentum that defies gravity.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|

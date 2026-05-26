@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: '"Strike Now!"'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now
-spend: '5 Focus: You target two allies instead of one.'
+spend: '5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus): You target two allies instead of one.'
 target: One ally
 type: ability
 ---
@@ -24,4 +24,4 @@ type: ability
 
 **Effect:** The target can use a signature ability as a free triggered action.
 
-**Spend 5 Focus:** You target two allies instead of one.
+**Spend 5 [Focus](../../../trait/tactician/level-1/focus.md):** You target two allies instead of one.

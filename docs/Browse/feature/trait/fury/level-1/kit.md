@@ -8,4 +8,4 @@ type: trait
 
 # Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](chapter/kits.md) for more information. (*Quick Build:* [Panther](kit/panther.md).)
+You can use and gain the benefits of a [kit](../../censor/level-1/kit.md). See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Panther](../../../../kit/panther.md).)

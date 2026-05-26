@@ -14,7 +14,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 - What gods or saints did your institution venerate?
 - What initiation rites did you undergo to get the job?
-- What were your responsibilities as a [disciple](career/disciple.md)?
+- What were your responsibilities as a [disciple](disciple.md)?
 - How was your institution viewed by members of the local culture?
 
 You gain the following career benefits:
@@ -23,7 +23,7 @@ You gain the following career benefits:
 
 **Project Points:** 240
 
-**Perk:** One supernatural perk (*Quick Build:* [Ritualist](perk/ritualist.md).)
+**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

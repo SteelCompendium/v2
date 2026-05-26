@@ -10,7 +10,7 @@ type: title
 
 *I like fighting these little guys. Means I don't have to waste money on a helmet.*
 
-**Prerequisite:** You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](title/monarch.md).
+**Prerequisite:** You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](monarch.md).
 
 **Effect:** Choose one of the following benefits:
 
