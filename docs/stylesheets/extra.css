@@ -274,3 +274,12 @@ th:empty {
     font-size: 1.2em;
 }
 
+/* Delay preview tooltip appearance (no official config available) */
+.md-tooltip2--active[role="dialog"] {
+    transition: transform .4s cubic-bezier(0,1,.5,1) .5s, opacity .25s .5s, z-index 0ms;
+}
+
+/* Browse index lists shouldnt be underlined */
+.md-typeset [data-preview], .md-typeset abbr {
+    border-bottom: none;
+}
