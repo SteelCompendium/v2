@@ -2,22 +2,23 @@
  * Ability Cards — runtime DOM enhancements for Draw Steel content.
  *
  * 1. Classifies blockquote ability cards by emoji prefix (data-ability-type).
- * 2. Color-codes power roll tier list items (≤11 / 12-16 / 17+).
+ * 2. Transforms power roll tier lists into glyph badge rows (DrawSteelGlyphs font).
  * 3. Wraps wide tables in scroll containers for mobile.
+ * 4. Supports "classic" (glyph badges) and "modern" (colored borders) card styles.
  */
 (function () {
   "use strict";
 
   /* ── Emoji → ability type mapping ── */
   var EMOJI_MAP = [
-    { pattern: "\uD83D\uDDE1",  type: "strike"    },  // 🗡
-    { pattern: "\uD83C\uDFF9",  type: "ranged"    },  // 🏹
-    { pattern: "\uD83D\uDC64",  type: "maneuver"  },  // 👤
-    { pattern: "\u2757",         type: "triggered" },  // ❗
-    { pattern: "\u2747",         type: "area"      },  // ❇
-    { pattern: "\u2B50",         type: "passive"   },  // ⭐
-    { pattern: "\u2620",         type: "villain"   },  // ☠
-    { pattern: "\uD83C\uDF00",  type: "special"   },  // 🌀
+    { pattern: "🗡",  type: "strike"    },  // 🗡
+    { pattern: "🏹",  type: "ranged"    },  // 🏹
+    { pattern: "👤",  type: "maneuver"  },  // 👤
+    { pattern: "❗",         type: "triggered" },  // ❗
+    { pattern: "❇",         type: "area"      },  // ❇
+    { pattern: "⭐",         type: "passive"   },  // ⭐
+    { pattern: "☠",         type: "villain"   },  // ☠
+    { pattern: "🌀",  type: "special"   },  // 🌀
   ];
 
   /* Text-based fallback patterns for ability type detection */
@@ -29,13 +30,19 @@
 
   /* ── Power roll tier patterns ── */
   var TIER_LOW  = /^≤\s*11\s*:/;
-  var TIER_MID  = /^12[\s\u2013\u2014-]+16\s*:/;
+  var TIER_MID  = /^12[\s–—-]+16\s*:/;
   var TIER_HIGH = /^17\+?\s*:/;
+
+  /* DrawSteelGlyphs codepoints for tier badges */
+  var TIER_GLYPHS = {
+    low:  "!",   // Tier 1: ≤11 badge with left arrow
+    mid:  "@",   // Tier 2: 12-16 badge with angled corners
+    high: "#"    // Tier 3: 17+ badge with right arrow
+  };
 
   /* ── Helpers ── */
 
   function getTextStart(el) {
-    // Get the first ~80 chars of text content, trimmed
     return (el.textContent || "").slice(0, 80).trim();
   }
 
@@ -43,14 +50,12 @@
     var text = getTextStart(blockquote);
     var i;
 
-    // Check emoji prefixes first
     for (i = 0; i < EMOJI_MAP.length; i++) {
       if (text.indexOf(EMOJI_MAP[i].pattern) !== -1) {
         return EMOJI_MAP[i].type;
       }
     }
 
-    // Fallback to text patterns
     for (i = 0; i < TEXT_PATTERNS.length; i++) {
       if (TEXT_PATTERNS[i].pattern.test(text)) {
         return TEXT_PATTERNS[i].type;
@@ -58,6 +63,27 @@
     }
 
     return null;
+  }
+
+  function detectTier(strongText) {
+    if (TIER_LOW.test(strongText))  return "low";
+    if (TIER_MID.test(strongText))  return "mid";
+    if (TIER_HIGH.test(strongText)) return "high";
+    return null;
+  }
+
+  function getEffectHTML(li, strong) {
+    var html = "";
+    var node = strong.nextSibling;
+    while (node) {
+      if (node.nodeType === 3) {
+        html += node.textContent;
+      } else if (node.nodeType === 1) {
+        html += node.outerHTML;
+      }
+      node = node.nextSibling;
+    }
+    return html.replace(/^\s*/, "");
   }
 
   /* ── Main enhancement functions ── */
@@ -73,8 +99,68 @@
     }
   }
 
+  function transformPowerRolls() {
+    var paragraphs = document.querySelectorAll(".md-typeset p");
+    for (var i = 0; i < paragraphs.length; i++) {
+      var p = paragraphs[i];
+      var strong = p.querySelector("strong");
+      if (!strong) continue;
+      if (!/^Power Roll/i.test(strong.textContent.trim())) continue;
+
+      var ul = p.nextElementSibling;
+      if (!ul || ul.tagName !== "UL") continue;
+      if (ul.getAttribute("data-power-roll-transformed")) continue;
+
+      var lis = ul.querySelectorAll(":scope > li");
+      if (lis.length < 1) continue;
+
+      var hasAnyTier = false;
+      for (var j = 0; j < lis.length; j++) {
+        var s = lis[j].querySelector("strong:first-child");
+        if (s && detectTier(s.textContent.trim())) {
+          hasAnyTier = true;
+          break;
+        }
+      }
+      if (!hasAnyTier) continue;
+
+      var wrapper = document.createElement("div");
+      wrapper.className = "power-roll-tiers";
+      wrapper.setAttribute("data-power-roll-transformed", "");
+
+      for (var k = 0; k < lis.length; k++) {
+        var li = lis[k];
+        var tierStrong = li.querySelector("strong:first-child");
+        if (!tierStrong) continue;
+
+        var tierText = tierStrong.textContent.trim();
+        var tier = detectTier(tierText);
+        if (!tier) continue;
+
+        var row = document.createElement("div");
+        row.className = "power-roll-row";
+
+        var badge = document.createElement("span");
+        badge.className = "ds-glyph power-roll-badge power-roll-badge--" + tier;
+        badge.textContent = TIER_GLYPHS[tier];
+        badge.setAttribute("aria-label", tierText.replace(/:$/, ""));
+
+        var effect = document.createElement("span");
+        effect.className = "power-roll-effect";
+        effect.innerHTML = getEffectHTML(li, tierStrong);
+
+        row.appendChild(badge);
+        row.appendChild(effect);
+        wrapper.appendChild(row);
+      }
+
+      ul.parentNode.replaceChild(wrapper, ul);
+      p.classList.add("power-roll-header");
+    }
+  }
+
+  /** Legacy power roll styling — colored left borders on list items */
   function colorPowerRollTiers() {
-    // Target list items that contain bold text starting with tier patterns
     var listItems = document.querySelectorAll(".md-typeset li");
     for (var i = 0; i < listItems.length; i++) {
       var li = listItems[i];
@@ -97,7 +183,6 @@
     var tables = document.querySelectorAll(".md-typeset table:not([class])");
     for (var i = 0; i < tables.length; i++) {
       var table = tables[i];
-      // Skip if already wrapped
       if (table.parentElement &&
           table.parentElement.classList.contains("table-scroll-wrapper")) {
         continue;
@@ -108,7 +193,6 @@
       table.parentNode.insertBefore(wrapper, table);
       wrapper.appendChild(table);
 
-      // Check if actually scrollable and add hint class
       checkScrollable(wrapper);
     }
   }
@@ -125,19 +209,25 @@
 
   /* ── Initialization ── */
 
+  function useClassicStyle() {
+    return document.documentElement.getAttribute("data-card-style") !== "modern";
+  }
+
   function init() {
     classifyAbilityCards();
-    colorPowerRollTiers();
+    if (useClassicStyle()) {
+      transformPowerRolls();
+    } else {
+      colorPowerRollTiers();
+    }
     wrapWideTables();
   }
 
-  // MkDocs Material uses instant loading — subscribe to its navigation event
   if (typeof document$ !== "undefined") {
     document$.subscribe(function () {
       init();
     });
   } else {
-    // Fallback for non-instant navigation
     document.addEventListener("DOMContentLoaded", init);
   }
 })();

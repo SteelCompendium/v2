@@ -121,23 +121,14 @@
         content: none;
     }
 
-    /* Power roll tiers: ensure colors print */
-    .md-typeset li.power-tier-low {
-        border-left: 3px solid var(--sc-tier-low, #c0392b) !important;
+    /* Power roll glyph badges: ensure they print */
+    .power-roll-badge {
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
     }
 
-    .md-typeset li.power-tier-mid {
-        border-left: 3px solid var(--sc-tier-mid, #b9770e) !important;
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
-    }
-
-    .md-typeset li.power-tier-high {
-        border-left: 3px solid var(--sc-tier-high, #1e8449) !important;
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
+    .power-roll-tiers {
+        break-inside: avoid;
     }
 
     /* Page margins */

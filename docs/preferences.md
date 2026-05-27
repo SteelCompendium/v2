@@ -67,6 +67,31 @@ Customize the look and feel of the compendium. Settings are saved in your browse
 <span class="pref-hint">Useful for GMs who want to see more content on screen during sessions.</span>
 </div>
 
+<div class="pref-card">
+<label for="card-style">Card Style</label>
+<select id="card-style">
+<option value="classic">Classic (default)</option>
+<option value="modern">Modern</option>
+</select>
+<span class="pref-hint">Classic uses official Draw Steel glyph badges for power rolls. Modern uses colored borders.</span>
+</div>
+
+</div>
+
+## Theme
+
+<div class="prefs-grid">
+
+<div class="pref-card">
+<label for="site-theme">Site Theme</label>
+<select id="site-theme">
+<option value="steel">Steel (default)</option>
+<option value="parchment">Parchment</option>
+<option value="obsidian">Obsidian</option>
+</select>
+<span class="pref-hint">Changes the overall color palette. Works with both light and dark mode.</span>
+</div>
+
 </div>
 
 ## Page Width

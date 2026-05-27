@@ -1,4 +1,22 @@
 /* ============================
+   Draw Steel Glyphs Font
+   ============================ */
+
+@font-face {
+    font-family: "DrawSteelGlyphs";
+    src: url("../fonts/DrawSteelGlyphs-Regular.otf") format("opentype");
+    font-display: swap;
+}
+
+.ds-glyph {
+    font-family: "DrawSteelGlyphs", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================
    Table & Statblock Styling
    ============================ */
 
@@ -77,33 +95,44 @@
 }
 
 /* ============================
-   Power Roll Tier Styling
+   Power Roll Glyph Badges
    ============================ */
 
-/* Power roll tier indicators: colored left borders */
-.md-typeset li strong:first-child {
-    /* Default: no special styling, overridden below */
+.power-roll-tiers {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    margin: 0.3em 0 0.5em;
+    padding: 0;
 }
 
-/* Power roll tier indicators (colors from palette.css — auto-adapt to dark mode) */
-
-/* CSS :has() fallback for statically-classed elements */
-.md-typeset li:has(> strong:first-child:is([class~="power-tier-low"])) {
-    border-left: 3px solid var(--sc-tier-low);
-    padding-left: 0.5em;
+.power-roll-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
 }
 
-.md-typeset li:has(> strong:first-child:is([class~="power-tier-mid"])) {
-    border-left: 3px solid var(--sc-tier-mid);
-    padding-left: 0.5em;
+.power-roll-badge {
+    font-size: 1.5em;
+    line-height: 1;
+    flex-shrink: 0;
 }
 
-.md-typeset li:has(> strong:first-child:is([class~="power-tier-high"])) {
-    border-left: 3px solid var(--sc-tier-high);
-    padding-left: 0.5em;
+.power-roll-effect {
+    flex: 1;
+    line-height: 1.5;
 }
 
-/* JS-applied tier classes (applied by ability-cards.js) */
+.power-roll-header {
+    margin-bottom: 0.15em !important;
+}
+
+/* Tighter power rolls inside blockquotes */
+.md-typeset blockquote .power-roll-tiers {
+    margin: 0.2em 0 0.4em;
+}
+
+/* Legacy fallback: colored left borders for "modern" card style */
 .md-typeset li.power-tier-low  { border-left: 3px solid var(--sc-tier-low);  padding-left: 0.6em; margin-left: 0; }
 .md-typeset li.power-tier-mid  { border-left: 3px solid var(--sc-tier-mid);  padding-left: 0.6em; margin-left: 0; }
 .md-typeset li.power-tier-high { border-left: 3px solid var(--sc-tier-high); padding-left: 0.6em; margin-left: 0; }

@@ -45,6 +45,22 @@
         document.documentElement.setAttribute("data-compact", enabled ? "true" : "false");
     }
 
+    function applySiteTheme(name) {
+        if (!name || name === "steel") {
+            document.documentElement.removeAttribute("data-sc-theme");
+        } else {
+            document.documentElement.setAttribute("data-sc-theme", name);
+        }
+    }
+
+    function applyCardStyle(style) {
+        if (!style || style === "classic") {
+            document.documentElement.removeAttribute("data-card-style");
+        } else {
+            document.documentElement.setAttribute("data-card-style", style);
+        }
+    }
+
     // Load + apply ASAP (pre-DOM)
     let saved = {};
     try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch {}
@@ -52,6 +68,8 @@
         applyFonts(saved);
         if (saved.width) applyWidth(saved.width);
         if (saved.compact) applyCompact(true);
+        if (saved.siteTheme) applySiteTheme(saved.siteTheme);
+        if (saved.cardStyle) applyCardStyle(saved.cardStyle);
     }
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -116,6 +134,31 @@
                 saved.compact = compactToggle.checked;
                 applyCompact(saved.compact);
                 save(saved);
+            });
+        }
+
+        // Site theme
+        const themeSel = document.getElementById("site-theme");
+        if (themeSel) {
+            if (saved.siteTheme) themeSel.value = saved.siteTheme;
+            themeSel.addEventListener("change", () => {
+                saved.siteTheme = themeSel.value || undefined;
+                if (!saved.siteTheme || saved.siteTheme === "steel") delete saved.siteTheme;
+                applySiteTheme(saved.siteTheme);
+                save(saved);
+            });
+        }
+
+        // Card style
+        const cardStyleSel = document.getElementById("card-style");
+        if (cardStyleSel) {
+            if (saved.cardStyle) cardStyleSel.value = saved.cardStyle;
+            cardStyleSel.addEventListener("change", () => {
+                saved.cardStyle = cardStyleSel.value || undefined;
+                if (!saved.cardStyle || saved.cardStyle === "classic") delete saved.cardStyle;
+                applyCardStyle(saved.cardStyle);
+                save(saved);
+                location.reload();
             });
         }
     });

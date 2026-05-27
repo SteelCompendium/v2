@@ -98,6 +98,15 @@
         transform: none;
         box-shadow: none;
     }
+
+    /* Power roll badges: smaller on phone */
+    .power-roll-badge {
+        font-size: 1.3em;
+    }
+
+    .power-roll-row {
+        gap: 0.4em;
+    }
 }
 
 /* Very small phones */

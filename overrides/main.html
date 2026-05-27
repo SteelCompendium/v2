@@ -82,6 +82,8 @@
             if (s.code)  r.setProperty("--md-code-font",  s.code);
             if (s.width) r.setProperty("--md-max_width",   s.width);
             if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
+            if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
         } catch(e) {}
     })();
 </script>
