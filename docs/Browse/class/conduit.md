@@ -40,7 +40,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
 
 ###### Conduit Advancement Table
 

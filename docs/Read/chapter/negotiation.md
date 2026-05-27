@@ -201,7 +201,7 @@ An NPC with the revelry pitfall sees social encounters and hedonism as a waste o
 Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
 
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge... provided you extend me and my band here an invitation."
-- "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-[dwarf](../ancestry/dwarf.md) ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
+- "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-[dwarf](../../Browse/ancestry/dwarf.md) ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
 ##### Vengeance
 
@@ -212,7 +212,7 @@ An NPC with the vengeance pitfall believes that revenge solves nothing. They mig
 Arguments that appeal to the vengeance motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
 
 - "The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes."
-- "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the [orc](../ancestry/orc.md) refugees."
+- "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the [orc](../../Browse/ancestry/orc.md) refugees."
 
 > **NPCs Change Over Time**
 >
@@ -343,7 +343,7 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 | 8          | Duke, spymaster                                             |
 | 9          | Archmage, prince                                            |
 | 10         | Demon lord, monarch                                         |
-| 11         | Archdevil, archfey, [demigod](../title/demigod.md)                                 |
+| 11         | Archdevil, archfey, [demigod](../../Browse/title/demigod.md)                                 |
 | 12         | Deity, titan                                                |
 
 ##### Influencing Tests
@@ -406,7 +406,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with Zola Honeycut, the [human](../ancestry/human.md) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with Zola Honeycut, the [human](../../Browse/ancestry/human.md) guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
@@ -442,25 +442,25 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out.
 
-**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](../ancestry/human.md) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
+**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The [human](../../Browse/ancestry/human.md) holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
 
-**James (playing Korvo, a [shadow](../class/shadow.md)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](../ancestry/polder.md) could ask for: Linn, Jorn, and Val."*
+**James (playing Korvo, a [shadow](../../Browse/class/shadow.md)):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a [polder](../../Browse/ancestry/polder.md) could ask for: Linn, Jorn, and Val."*
 
 **Director:** *Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"*
 
-**Alyssa (playing Jorn, a [tactician](../class/tactician.md)):** *"We're building an army to take down Saxton once and for all."*
+**Alyssa (playing Jorn, a [tactician](../../Browse/class/tactician.md)):** *"We're building an army to take down Saxton once and for all."*
 
 In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
-**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of [dwarves](../ancestry/dwarf.md) in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
+**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of [dwarves](../../Browse/ancestry/dwarf.md) in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
 
 **Alyssa:** *Ah! So she has heard of me at least! Thanks, Renown.*
 
-**Grace (playing Val, a [conduit](../class/conduit.md)):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
+**Grace (playing Val, a [conduit](../../Browse/class/conduit.md)):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
 
 **Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."*
 
-**Matt (playing Linn, a [talent](../class/talent.md)):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
+**Matt (playing Linn, a [talent](../../Browse/class/talent.md)):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 
@@ -492,7 +492,7 @@ Korvo inadvertently made an argument using a pitfall by appealing to a higher au
 
 The heroes now know both of Zola's pitfalls: higher authority and revelry.
 
-**Matt:** *Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the [orcs](../ancestry/orc.md) of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."*
+**Matt:** *Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the [orcs](../../Browse/ancestry/orc.md) of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."*
 
 **Director:** *I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations.*
 

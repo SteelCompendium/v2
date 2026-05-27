@@ -8,4 +8,4 @@ type: trait
 
 # Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../../Read/chapter/perks.md).

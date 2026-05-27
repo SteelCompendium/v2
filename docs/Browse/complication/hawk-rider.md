@@ -8,7 +8,7 @@ type: complication
 
 # Hawk Rider
 
-You travel with a giant hawk who you stole from the Hawklords (see Vasloria in Chapter 1: [The Basics](../chapter/the-basics.md)). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share of inconveniences and dangers, but those are a small price to pay for the freedom of the open sky.
+You travel with a giant hawk who you stole from the Hawklords (see Vasloria in Chapter 1: [The Basics](../../Read/chapter/the-basics.md)). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share of inconveniences and dangers, but those are a small price to pay for the freedom of the open sky.
 
 **Benefit:** As long as you are not in a building or other structure, you can spend 1 uninterrupted minute to summon your giant hawk (see the [Humans](../ancestry/human.md) entry in *Draw Steel: Monsters*), which acts as your mount. You can dismiss the hawk at any time (no action required). The hawk won't go inside buildings, dungeons, or other structures, and it won't accept anyone but you as a rider. If the hawk takes damage or dies, you can restore them to full Stamina as a respite activity.
 

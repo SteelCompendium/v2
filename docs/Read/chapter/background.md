@@ -16,25 +16,25 @@ No. A hero's life experience and background make them what they are. That backgr
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../ancestry/human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../ancestry/wode-elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../ancestry/dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../ancestry/dwarf.md) raised in the [dwarf](../ancestry/dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../../Browse/ancestry/human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../../Browse/ancestry/wode-elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../../Browse/ancestry/dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../../Browse/ancestry/dwarf.md) raised in the [dwarf](../../Browse/ancestry/dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
-You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../ancestry/revenant.md) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
+You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../../Browse/ancestry/revenant.md) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
 
 ###### Typical Ancestry Cultures Table
 
 | Ancestry      | Language    | Environment | Organization | Upbringing |
 |---------------|-------------|-------------|--------------|------------|
-| [Devil](../ancestry/devil.md)         | Anjali      | Urban       | Bureaucratic | Academic   |
-| [Dragon knight](../ancestry/dragon-knight.md) | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| [Dwarf](../ancestry/dwarf.md)         | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| [Wode elf](../ancestry/wode-elf.md)      | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| [High elf](../ancestry/high-elf.md)      | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| [Hakaan](../ancestry/hakaan.md)        | Vhoric      | Rural       | Communal     | Labor      |
-| [Human](../ancestry/human.md)         | Vaslorian   | Urban       | Communal     | Labor      |
-| [Memonek](../ancestry/memonek.md)       | Axiomatic   | Nomadic     | Communal     | Academic   |
-| [Orc](../ancestry/orc.md)           | Kalliak     | Wilderness  | Communal     | Creative   |
-| [Polder](../ancestry/polder.md)        | Khoursirian | Urban       | Communal     | Creative   |
-| [Time raider](../ancestry/time-raider.md)   | Voll        | Nomadic     | Communal     | Martial    |
+| [Devil](../../Browse/ancestry/devil.md)         | Anjali      | Urban       | Bureaucratic | Academic   |
+| [Dragon knight](../../Browse/ancestry/dragon-knight.md) | Vastariax   | Secluded    | Bureaucratic | Martial    |
+| [Dwarf](../../Browse/ancestry/dwarf.md)         | Zaliac      | Secluded    | Bureaucratic | Creative   |
+| [Wode elf](../../Browse/ancestry/wode-elf.md)      | Yllyric     | Wilderness  | Bureaucratic | Martial    |
+| [High elf](../../Browse/ancestry/high-elf.md)      | Hyrallic    | Secluded    | Bureaucratic | Martial    |
+| [Hakaan](../../Browse/ancestry/hakaan.md)        | Vhoric      | Rural       | Communal     | Labor      |
+| [Human](../../Browse/ancestry/human.md)         | Vaslorian   | Urban       | Communal     | Labor      |
+| [Memonek](../../Browse/ancestry/memonek.md)       | Axiomatic   | Nomadic     | Communal     | Academic   |
+| [Orc](../../Browse/ancestry/orc.md)           | Kalliak     | Wilderness  | Communal     | Creative   |
+| [Polder](../../Browse/ancestry/polder.md)        | Khoursirian | Urban       | Communal     | Creative   |
+| [Time raider](../../Browse/ancestry/time-raider.md)   | Voll        | Nomadic     | Communal     | Martial    |
 
 ###### Archetypical Cultures Table
 

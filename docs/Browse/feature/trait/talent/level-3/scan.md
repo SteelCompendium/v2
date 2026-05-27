@@ -8,4 +8,4 @@ type: trait
 
 # Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../../Read/chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.

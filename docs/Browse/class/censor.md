@@ -43,7 +43,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **Recoveries:** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
 
 ###### Censor Advancement Table
 

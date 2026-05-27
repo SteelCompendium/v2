@@ -8,7 +8,7 @@ type: trait
 
 # Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Shining Armor](../../../../kit/shining-armor.md), Sniper.)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](../../../../../Read/chapter/kits.md) for more information. (*Quick Build:* [Shining Armor](../../../../kit/shining-armor.md), Sniper.)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 

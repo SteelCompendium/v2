@@ -12,23 +12,23 @@ While all your character creation decisions bear narrative weight, none influenc
 
 Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a Heroic Resource that fuels many of those abilities. This book presents nine classes to choose from.
 
-**[Censor](../class/censor.md):** A [censor](../class/censor.md) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
+**[Censor](../../Browse/class/censor.md):** A [censor](../../Browse/class/censor.md) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
-**[Conduit](../class/conduit.md):** A [conduit](../class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are renowned for their healing abilities.
+**[Conduit](../../Browse/class/conduit.md):** A [conduit](../../Browse/class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are renowned for their healing abilities.
 
-**[Elementalist](../class/elementalist.md):** An [elementalist](../class/elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
+**[Elementalist](../../Browse/class/elementalist.md):** An [elementalist](../../Browse/class/elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
-**[Fury](../class/fury.md):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../class/fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../class/fury.md) lives.
+**[Fury](../../Browse/class/fury.md):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../../Browse/class/fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../../Browse/class/fury.md) lives.
 
-**[Null](../class/null.md):** Disciplined and calm, the [null](../class/null.md) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](../../Browse/class/null.md):** Disciplined and calm, the [null](../../Browse/class/null.md) is an unarmed warrior who manifests an aura that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
-**[Shadow](../class/shadow.md):** Stalking from the darkness, the [shadow](../class/shadow.md) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
+**[Shadow](../../Browse/class/shadow.md):** Stalking from the darkness, the [shadow](../../Browse/class/shadow.md) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
-**[Tactician](../class/tactician.md):** A brilliant strategist and weapons master, the [tactician](../class/tactician.md) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
+**[Tactician](../../Browse/class/tactician.md):** A brilliant strategist and weapons master, the [tactician](../../Browse/class/tactician.md) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
 
-**[Talent](../class/talent.md):** A [talent](../class/talent.md) is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
+**[Talent](../../Browse/class/talent.md):** A [talent](../../Browse/class/talent.md) is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
 
-**[Troubadour](../class/troubadour.md):** A [troubadour](../class/troubadour.md) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
+**[Troubadour](../../Browse/class/troubadour.md):** A [troubadour](../../Browse/class/troubadour.md) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
 ### Subclasses
 
@@ -48,7 +48,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury's](../class/fury.md) Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the [fury's](../../Browse/class/fury.md) Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
@@ -56,21 +56,21 @@ Each class has a Heroic Resource that your hero earns during combat, with some o
 
 The nine Heroic Resources in the game are:
 
-- The [censor's](../class/censor.md) wrath
-- The [conduit's](../class/conduit.md) piety
-- The [elementalist's](../class/elementalist.md) essence
-- The [fury's](../class/fury.md) ferocity
-- The [null's](../class/null.md) discipline
-- The [shadow's](../class/shadow.md) insight
-- The [tactician's](../class/tactician.md) focus
-- The [talent's](../class/talent.md) clarity
-- The [troubadour's](../class/troubadour.md) drama
+- The [censor's](../../Browse/class/censor.md) wrath
+- The [conduit's](../../Browse/class/conduit.md) piety
+- The [elementalist's](../../Browse/class/elementalist.md) essence
+- The [fury's](../../Browse/class/fury.md) ferocity
+- The [null's](../../Browse/class/null.md) discipline
+- The [shadow's](../../Browse/class/shadow.md) insight
+- The [tactician's](../../Browse/class/tactician.md) focus
+- The [talent's](../../Browse/class/talent.md) clarity
+- The [troubadour's](../../Browse/class/troubadour.md) drama
 
 ##### Heroic Abilities
 
 If an ability has a Heroic Resource cost to activate—as in, you can't use the ability at all without spending some of your Heroic Resource—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
-Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit's](../class/conduit.md) [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
+Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit's](../../Browse/class/conduit.md) [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
 ##### Signature Abilities
 
@@ -124,7 +124,7 @@ Each ability notes the type of activity required to use it, on the right side of
 
 ##### Trigger
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
+If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../../Browse/class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../../Browse/class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
 
 #### Distance
 
@@ -144,7 +144,7 @@ If you make a ranged strike while any enemy is adjacent to you (within 1 square)
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../kit/cloak-and-dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See Chapter 6: [Kits](kits.md).)
+An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See Chapter 6: [Kits](kits.md).)
 
 ##### Self
 
@@ -200,7 +200,7 @@ If an ability targets one or more creatures, it can affect creatures within the 
 
 If an ability targets one or more objects, it can affect any object within the ability's distance or area. Unless otherwise noted, objects have poison immunity all and psychic immunity all. \(Damage in Chapter 10: [Combat](combat.md) has information on damage immunity.)
 
-When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../class/talent.md) [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
+When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../../Browse/class/talent.md) [Minor Telekinesis](../../Browse/feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
 
 ##### Enemy
 
@@ -228,7 +228,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 
 If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you use the ability. (Chapter 1: [The Basics](the-basics.md) talks about power rolls.)
 
-Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury's](../class/fury.md) [Brutal Slam](../feature/ability/fury/level-1/brutal-slam.md) ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
+Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the [fury's](../../Browse/class/fury.md) [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
 - **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
@@ -238,13 +238,13 @@ Unlike power rolls made as tests (see Chapter 9), ability rolls always do someth
 
 Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score—either Might, Agility, Reason, Intuition, or Presence—to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
-Using the [fury's](../class/fury.md) [Brutal Slam](../feature/ability/fury/level-1/brutal-slam.md) ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
+Using the [fury's](../../Browse/class/fury.md) [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
-For a [fury](../class/fury.md) with a Might of 2, the ability's damage breakdown would be:
+For a [fury](../../Browse/class/fury.md) with a Might of 2, the ability's damage breakdown would be:
 
 - **≤11:** 5
 - **12-16:** 8
@@ -260,7 +260,7 @@ Some abilities, including your free strikes, allow you to pick which characteris
 
 Strikes and area abilities can deal damage and have an additional effect on a target. The damage and the strength of the effect are determined by the ability roll.
 
-To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](../feature/ability/fury/level-1/brutal-slam.md) ability mentioned above has the following power roll setup in the ability format:
+To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability mentioned above has the following power roll setup in the ability format:
 
 **Power Roll + Might:**
 
@@ -268,11 +268,11 @@ To keep things moving quickly and to make abilities easy to read during play, da
 - **12-16:** 6 + M damage; push 2
 - **17+:** 9 + M damage; push 4
 
-Unless otherwise indicated, any effects that are determined by a power roll's tier outcome occur after the power roll's damage has been dealt to all targets. If an ability roll deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as [Muse of Fire](../feature/ability/elementalist/level-8/muse-of-fire.md), then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.
+Unless otherwise indicated, any effects that are determined by a power roll's tier outcome occur after the power roll's damage has been dealt to all targets. If an ability roll deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as [Muse of Fire](../../Browse/feature/ability/elementalist/level-8/muse-of-fire.md), then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.
 
 #### "During the Move"
 
-Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow's](../class/shadow.md) [One Hundred Throats](../feature/ability/shadow/level-1/one-hundred-throats.md) ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
+Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow's](../../Browse/class/shadow.md) [One Hundred Throats](../../Browse/feature/ability/shadow/level-1/one-hundred-throats.md) ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
 
 #### Rolled Damage
 
@@ -292,7 +292,7 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 
 In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (<) and your potency value—for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
-As an example, consider the [conduit's](../class/conduit.md) Judgment's Hammer ability, which has the following power roll:
+As an example, consider the [conduit's](../../Browse/class/conduit.md) Judgment's Hammer ability, which has the following power roll:
 
 **Power Roll + Intuition:**
 
@@ -300,13 +300,13 @@ As an example, consider the [conduit's](../class/conduit.md) Judgment's Hammer a
 - **12-16:** 6 + I holy damage; A < AVERAGE, prone
 - **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
 
-At 1st level, a [conduit](../class/conduit.md) uses their Intuition score to determine their potency values, and that score is 2. That gives the [conduit](../class/conduit.md) the following potencies:
+At 1st level, a [conduit](../../Browse/class/conduit.md) uses their Intuition score to determine their potency values, and that score is 2. That gives the [conduit](../../Browse/class/conduit.md) the following potencies:
 
 - Weak: 0
 - Average: 1
 - Strong: 2
 
-When writing Judgment's Hammer on their character sheet, the [conduit's](../class/conduit.md) player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
+When writing Judgment's Hammer on their character sheet, the [conduit's](../../Browse/class/conduit.md) player updates the damage and converts the weak, average, and strong potencies into their numerical values, knowing that those values won't change until the character hits 2nd echelon and their Intuition score becomes 3. That produces the following:
 
 **Power Roll + Intuition:**
 
@@ -314,7 +314,7 @@ When writing Judgment's Hammer on their character sheet, the [conduit's](../clas
 - **12-16:** 8 holy damage; A < 1, prone
 - **17+:** 11 holy damage; A < 2, prone and can't stand (save ends)
 
-During a game session, the [conduit](../class/conduit.md) uses Judgment's Hammer to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
+During a game session, the [conduit](../../Browse/class/conduit.md) uses Judgment's Hammer to target a bandit with an Agility score of 0. The ability thus has the following outcomes at each tier:
 
 - With a tier 1 outcome (11 or lower), the ability deals 5 holy damage to the bandit. But the bandit resists the additional effect because they have Agility 0 (and therefore don't have an Agility of less than 0).
 - With a tier 2 outcome (12-16), the ability deals 8 holy damage. But the bandit is also knocked prone, unable to resist the additional effect because they would need an Agility of 1 or higher to do so. If the bandit had Agility 1 or higher, they would have taken 8 holy damage but stayed standing.
@@ -322,19 +322,19 @@ During a game session, the [conduit](../class/conduit.md) uses Judgment's Hammer
 
 ##### Potency Presentation
 
-Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](../class/conduit.md) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall prone."
+Potencies are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](../../Browse/class/conduit.md) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's Agility is less than 1, they fall prone."
 
 Reading the ability this way prevents a lot of back and forth. You don't need to ask, "What's the target's Agility score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an Agility of 1 or higher, they fall prone." Players can let the Director figure out whether the target is prone and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with potencies against the heroes.
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor's](../class/censor.md) Judgment ability and the [null's](../class/null.md) [Null](../class/null.md) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the [censor's](../../Browse/class/censor.md) Judgment ability and the [null's](../../Browse/class/null.md) [Null](../../Browse/class/null.md) Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the [tactician's](../class/tactician.md) Overwatch ability allows the [tactician](../class/tactician.md) to spend 1 focus to impose the slowed condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../class/tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
+For example, the [tactician's](../../Browse/class/tactician.md) Overwatch ability allows the [tactician](../../Browse/class/tactician.md) to spend 1 focus to impose the slowed condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/class/tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../../Browse/class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
@@ -342,7 +342,7 @@ This rule also applies to Director-controlled creatures who spend Malice on abil
 
 Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are dazed (see Conditions below).
 
-You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician's](../class/tactician.md) Strike Now ability can be critical hits.
+You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician's](../../Browse/class/tactician.md) Strike Now ability can be critical hits.
 
 #### Roll Against Multiple Creatures
 
@@ -352,7 +352,7 @@ For example, if you target three creatures with a strike ability and the power r
 
 #### Surges
 
-A [troubadour's](../class/troubadour.md) battle song, a [fury's](../class/fury.md) building ferocity, and a [shadow's](../class/shadow.md) patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
+A [troubadour's](../../Browse/class/troubadour.md) battle song, a [fury's](../../Browse/class/fury.md) building ferocity, and a [shadow's](../../Browse/class/shadow.md) patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
 
 When you gain surges, you keep track of them on your character sheet. Surges can be used in combat to deal extra damage to your foes and increase the value of your potencies, as follows:
 
@@ -367,7 +367,7 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ##### Actions Within Actions
 
-If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow's](../class/shadow.md) [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability is a maneuver that allows you to teleport and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
+If an ability's effect allows you to take a main action, a maneuver, a move action, or a triggered action, the cost of doing so is subsumed in the ability's type entry on the first line below the flavor text. You never need to spend additional time to use an ability. For example, the [shadow's](../../Browse/class/shadow.md) [Black Ash Teleport](../../Browse/feature/ability/shadow/level-1/black-ash-teleport.md) ability is a maneuver that allows you to teleport and then use the Hide maneuver as its overall effect. Using the Hide maneuver is part of the maneuver to use the ability, so that you don't need to have another maneuver available to do so.
 
 #### Spend Heroic Resource
 
@@ -377,7 +377,7 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
-For example, the [null's](../class/null.md) [Null](../class/null.md) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](../class/null.md) each have their [Null](../class/null.md) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
+For example, the [null's](../../Browse/class/null.md) [Null](../../Browse/class/null.md) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](../../Browse/class/null.md) each have their [Null](../../Browse/class/null.md) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
 Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become weakened (imposing a bane on the target's power rolls), the target isn't weakened twice to impose a double bane on those rolls. A character who is grabbed by an enemy can't be grabbed again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
 
@@ -435,7 +435,7 @@ Some abilities and other effects apply specific negative effects called conditio
 
 While a creature is bleeding, whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician's](../class/tactician.md) Strike Now ability triggers the damage from the bleeding condition.
+You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician's](../../Browse/class/tactician.md) Strike Now ability triggers the damage from the bleeding condition.
 
 ##### Dazed
 
@@ -485,7 +485,7 @@ A creature who is weakened takes a bane on power rolls.
 
 Each class in this chapter includes a table that shows the progression as a hero gains new levels in that class. Each of those tables has an Abilities column and another column that shows abilities granted by the hero's subclass, tracking all the heroic abilities a hero of that class has at each level. Each ability is represented by a numeral noting the ability's Heroic Resource cost.
 
-For example a 6th-level [censor](../class/censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor's](../class/censor.md) subclass). This means a [censor](../class/censor.md) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
+For example a 6th-level [censor](../../Browse/class/censor.md) has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the [censor's](../../Browse/class/censor.md) subclass). This means a [censor](../../Browse/class/censor.md) of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
 
 > **Quick Build Gold Icons**
 >

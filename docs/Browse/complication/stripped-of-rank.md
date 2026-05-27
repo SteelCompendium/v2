@@ -25,4 +25,4 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Special:** If you have the Strike Now [tactician](../class/tactician.md) ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
-**Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](../chapter/rewards.md).
+**Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See Renown in Chapter 13: [Rewards](../../Read/chapter/rewards.md).

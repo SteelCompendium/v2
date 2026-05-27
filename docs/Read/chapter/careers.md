@@ -12,7 +12,7 @@ Being a hero isn't a job. It's a calling. But before you answered that call, you
 
 ### Career Questions
 
-The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../career/artisan.md), a [criminal](../career/criminal.md), or a [gladiator](../career/gladiator.md) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../career/artisan.md) career, one of the questions is: "What did you create?"
+The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../../Browse/career/artisan.md), a [criminal](../../Browse/career/criminal.md), or a [gladiator](../../Browse/career/gladiator.md) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../../Browse/career/artisan.md) career, one of the questions is: "What did you create?"
 
 You don't need to answer these questions, but doing so can help shape a more complete picture of your hero. And if you do answer them, consider telling your Director the answers so they can think about working those details into the game. Directors already have a lot to juggle, but they certainly can't create dramatic moments from your backstory if you never tell them what that backstory is.
 

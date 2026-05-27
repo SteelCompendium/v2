@@ -10,9 +10,9 @@ When you attract a new follower, you decide on their name and ancestry, and choo
 
 ##### Artisan
 
-Artisans are crafting experts who can contribute to your research and crafting projects (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)). An artisan can contribute one project roll per day to a downtime project you choose, whether you spend those days in respite, adventuring, or other activities. They must remain at your [stronghold](stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
+Artisans are crafting experts who can contribute to your research and crafting projects (see Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md)). An artisan can contribute one project roll per day to a downtime project you choose, whether you spend those days in respite, adventuring, or other activities. They must remain at your [stronghold](stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](../chapter/tests.md)). An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
+When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
 ##### Retainer
 

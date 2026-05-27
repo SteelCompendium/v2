@@ -40,7 +40,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ###### Elementalist Advancement Table
 
