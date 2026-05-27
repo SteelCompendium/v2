@@ -8,7 +8,7 @@ type: perk
 
 You have the following ability.
 
-##### [Invisible Force](invisible-force.md)
+##### Invisible Force
 
 >
 > *You manipulate a tiny object with your mind.*

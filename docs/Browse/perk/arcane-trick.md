@@ -8,7 +8,7 @@ type: perk
 
 You have the following ability.
 
-##### [Arcane Trick](arcane-trick.md)
+##### Arcane Trick
 
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*

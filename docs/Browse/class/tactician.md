@@ -409,155 +409,6 @@ You can't gain more than one benefit from the same trigger.
 
 **Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
 
-### [Advanced Tactics](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics)
-
-*Your leadership aids an ally.*
-
-| **Ranged**       |   **Triggered** |
-|------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Trigger:** The target deals damage to another creature.
-
-**Effect:** The target gains 2 surges, which they can use on the triggering damage.
-
-**Spend 1 [Focus](../feature/ability/tactician/level-1/feature/trait/tactician/level-1/focus.md):** If the damage has any potency effect associated with it, the potency is increased by 1.
-
-### [Battle Cry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You shout a phrase that galvanizes your team.*
-
-| **Ranged**       |        **Maneuver** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
-
-**Power Roll + Reason:**
-
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
-
-### [Concussive Strike](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*Your precise strike leaves your foe struggling to respond.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
-
-### [Hammer and Anvil](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*"Let's not argue about who's the hammer and who's the anvil!"*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
-- **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
-- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
-
-**Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
-
-### [Inspiring Strike](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/inspiring-strike) (3 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*Your attack gives an ally hope.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
-
-### [Mark](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mark)
-
-*You draw your allies' attention to a specific foe—with devastating effect.*
-
-| **Ranged**       |        **Maneuver** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) on a creature (no action required), and if another [tactician](../feature/ability/tactician/level-1/class/tactician.md) marks a creature, your [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) a new target within distance.
-
-You can initially [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) only one creature using this ability, though other [tactician](../feature/ability/tactician/level-1/class/tactician.md) abilities allow you to [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) additional creatures at the same time. The mastermind [tactical doctrine](../feature/ability/tactician/level-1/feature/trait/tactician/level-1/tactical-doctrine.md)'s [Anticipation](../feature/ability/tactician/level-1/feature/trait/tactician/level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
-
-While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 [focus](../feature/ability/tactician/level-1/feature/trait/tactician/level-1/focus.md) to gain one of the following benefits as a free triggered action:
-
-- The ability deals extra damage equal to twice your Reason score.
-- The creature dealing the damage can spend a Recovery.
-- The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
-
-You can't gain more than one benefit from the same trigger.
-
-### [Mind Game](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*Your attack demoralizes your foe. Your allies begin to think you can win.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Effect:** You [mark](../feature/ability/tactician/level-1/feature/ability/tactician/level-1/mark.md) the target.
-
-**Power Roll + Might:**
-
-- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
-- **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
-
-**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
-
-### [Overwatch](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch)
-
-*Under your direction, an ally waits for just the right moment to strike.*
-
-| **Ranged**       |       **Triggered** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Trigger:** The target moves.
-
-**Effect:** At any time during the target's movement, one ally can make a free strike against them.
-
-**Spend 1 [Focus](../feature/ability/tactician/level-1/feature/trait/tactician/level-1/focus.md):** If the target has R < AVERAGE, they are slowed (EoT).
-
-### [Parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry)
-
-*Your quick reflexes cost an enemy the precision they seek.*
-
-| **Melee, Weapon** |            **Triggered** |
-|-------------------|-------------------------:|
-| **📏 Melee 2**    |  **🎯 Self or one ally** |
-
-**Trigger:** A creature deals damage to the target.
-
-**Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
-
-**Spend 1 [Focus](../feature/ability/tactician/level-1/feature/trait/tactician/level-1/focus.md):** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
-
-### [This Is What We Planned For](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*All those coordination drills you made them do finally pay off.*
-
-| **Ranged**       |      **Maneuver** |
-|------------------|------------------:|
-| **📏 Ranged 10** | **🎯 Two allies** |
-
-**Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
-
 ## 2nd-Level Features
 
 ### 2nd-Level Doctrine Feature
@@ -605,22 +456,6 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
 
 ### I've Got Your Back
-
-*Your enemy will think twice about attacking your friend.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R damage; taunted (EoT)
-- **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + R damage; taunted (EoT)
-
-**Effect:** One ally adjacent to the target can spend a Recovery.
-
-### I've Got Your Back (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
 
 *Your enemy will think twice about attacking your friend.*
 
@@ -692,64 +527,6 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
 - **17+:** 4 + R damage; R < STRONG, frightened (save ends)
 
-### [Fog of War](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/fog-of-war) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
-
-| **Ranged**       |         **Maneuver** |
-|------------------|---------------------:|
-| **📏 Ranged 10** | **🎯 Two creatures** |
-
-**Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
-
-**[Mark](../feature/ability/tactician/level-2/feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../feature/ability/tactician/level-2/feature/trait/tactician/level-1/focus.md) to force that target to make a free strike against a creature of your choice within 5 squares of them.
-
-### [No Dying on My Watch](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You prioritize saving an ally over your own safety.*
-
-| **Ranged, Strike, Weapon** |    **Triggered** |
-|----------------------------|-----------------:|
-| **📏 Ranged 5**            | **🎯 One enemy** |
-
-**Trigger:** The target deals damage to an ally.
-
-**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.
-
-**Power Roll + Might:**
-
-- **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
-- **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
-- **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
-
-### [Targets of Opportunity](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
-
-| **Ranged**      |         **Maneuver** |
-|-----------------|---------------------:|
-| **📏 Ranged 5** | **🎯 Two creatures** |
-
-**Effect:** Each target is marked by you, and you gain two surges.
-
-**[Mark](../feature/ability/tactician/level-2/feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../feature/ability/tactician/level-2/feature/trait/tactician/level-1/focus.md) to add one additional target to the strike.
-
-### [Try Me Instead](scc:mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead) (5 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*"Try picking on someone my size."*
-
-| **Melee, Strike, Weapon** | **Main action** |
-|---------------------------|----------------:|
-| **📏 Self; see below**    |     **🎯 Self** |
-
-**Effect:** You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
-- **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-- **17+:** 4 + R damage; R < STRONG, frightened (save ends)
-
 ## 3rd-Level Features
 
 ### Out of Position
@@ -797,26 +574,6 @@ Even before battle begins, your enemies struggle to keep up with your tactics. A
 | **📏 Self** |  **🎯 Self** |
 
 **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.
-
-### [Frontal Assault](scc:mcdm.heroes.v1/feature.ability.tactician.level-3/frontal-assault) (7 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*The purpose of a charge is to break their morale and force a retreat.*
-
-| **-**       | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
-
-### [Rout](scc:mcdm.heroes.v1/feature.ability.tactician.level-3/rout) (7 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*The tide begins to turn.*
-
-| **-**       | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
 
 ## 4th-Level Features
 
@@ -926,16 +683,6 @@ When you use the Charge main action to attack a creature marked by you, you can 
 
 **Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
 
-### You've Still Got Something Left (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You push an ally to use a heroic ability sooner than they otherwise would.*
-
-| **Ranged**       | **Main action** |
-|------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
-
 ## 6th-Level Features
 
 ### Master of Arms
@@ -1031,64 +778,6 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
-
-### [Battle Plan](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*With new understanding of your foes, you create the perfect plan to win the battle.*
-
-| **Ranged**       |           **Maneuver** |
-|------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
-
-**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
-
-**[Mark](../feature/ability/tactician/level-6/feature/ability/tactician/level-1/mark.md) Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 [focus](../feature/ability/tactician/level-6/feature/trait/tactician/level-1/focus.md) to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
-
-### [Coordinated Execution](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You direct your ally to make a killing blow.*
-
-| **Ranged**       | **Free triggered** |
-|------------------|-------------------:|
-| **📏 Ranged 10** |    **🎯 One ally** |
-
-**Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.
-
-**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
-
-### [Instant Retaliation](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You [parry](../feature/ability/tactician/level-6/feature/ability/tactician/level-1/parry.md) with almost supernatural speed.*
-
-| **Melee, Weapon** | **Free triggered** |
-| ------------------------------------|-------------------:|
-| **📏 Melee 1**                   |    **🎯 One ally** |
-
-**Trigger:** A creature deals damage to the target.
-
-**Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
-
-**Power Roll + Might:**
-
-- **≤11:** A < WEAK, dazed (save ends)
-- **12-16:** A < AVERAGE, dazed (save ends)
-- **17+:** A < STRONG, dazed (save ends)
-
-### [Panic in Their Lines](scc:mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines) (9 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You confuse your foes, causing them to turn on each other.*
-
-| **Melee, Ranged, Strike, Weapon** |      **Main action** |
-|-----------------------------------|---------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
-
-**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
 
 ## 7th-Level Features
 
@@ -1218,42 +907,6 @@ You have trained your squad to maximize impact and break enemy lines when they a
 
 **Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
 
-### I'll Open and You'll Close (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You create an opening for an ally.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M damage
-- **12-16:** 10 + M damage
-- **17+:** 14 + M damage
-
-**Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
-
-### [Floodgates Open](scc:mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You direct your squad to strike in unison and with devastating effect.*
-
-| **Ranged**       |     **Main action** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
-
-**Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
-
-### [Go Now and Speed Well](scc:mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*You direct an attack to strike true.*
-
-| **Ranged**       |         **Main action** |
-|------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
-
-**Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
-
 ## 9th-Level Features
 
 ### Grandmaster of Arms
@@ -1329,50 +982,6 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.
 
 ### Their Lack of Focus Is Their Undoing
-
-*You trick your enemies into attacking each other and leave them confused by the aftermath.*
-
-| **Magic, Ranged, Weapon** |      **Main action** |
-|---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
-
-**Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
-
-**Power Roll + Might:**
-
-- **≤11:** R < WEAK, dazed (save ends)
-- **12-16:** R < AVERAGE, dazed (save ends)
-- **17+:** R < STRONG, dazed (save ends)
-
-### [Counterstrategy](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*I've identified a way to negate their strengths.*
-
-| **-**       | **Main action** |
-|-------------|----------------:|
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.
-
-### [No Escape](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/no-escape) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
-
-*Nothing will stop you from reaching your foe.*
-
-| **Charge, Melee, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
-
-**Effect:** You [mark](../feature/ability/tactician/level-9/feature/ability/tactician/level-1/mark.md) the target.
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage
-- **12-16:** 16 + M damage
-- **17+:** 21 + M damage
-
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
-
-### [Their Lack of Focus Is Their Undoing](scc:mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing) (11 [Focus](scc:mcdm.heroes.v1/feature.trait.tactician.level-1/focus))
 
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
 

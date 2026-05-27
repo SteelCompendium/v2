@@ -527,153 +527,6 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
 
-### [Arrest](scc:mcdm.heroes.v1/feature.ability.censor.level-1/arrest) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*"I got you, you son of a bitch."*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M holy damage; grabbed
-- **12-16:** 9 + M holy damage; grabbed
-- **17+:** 13 + M holy damage; grabbed
-
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
-
-### [Censored](scc:mcdm.heroes.v1/feature.ability.censor.level-1/censored) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*Judged and [sentenced](../feature/ability/censor/level-1/feature/ability/censor/level-2/sentenced.md).*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M holy damage
-- **12-16:** 3 + M holy damage
-- **17+:** 5 + M holy damage
-
-**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
-
-### [Driving Assault](scc:mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault) (3 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*As you force your enemy back with your weapon, you use your faith to stay close.*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
-
-**Effect:** You can shift up to your speed in a straight line toward the target after pushing them.
-
-### [Faithful Friend](scc:mcdm.heroes.v1/feature.ability.censor.level-1/faithful-friend)
-
-*An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
-
-| **Magic**   | **Main action** |
-|-------------|----------------:|
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
-
-### [Grave Speech](scc:mcdm.heroes.v1/feature.ability.censor.level-1/grave-speech)
-
-*You commune with the lingering soul of the recently dead.*
-
-| **Magic**      |             **Maneuver** |
-|----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
-
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
-
-### [Hands of the Maker](scc:mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker)
-
-*You craft objects with the power of your mind.*
-
-| **Magic**   | **Maneuver** |
-|-------------|------------:|
-| **📏 Self** | **🎯 Self** |
-
-**Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
-
-### [Judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-1/judgment)
-
-*You utter a prayer that outlines your foe in holy energy.*
-
-| **Magic, Ranged** |     **Maneuver** |
-|-------------------|-----------------:|
-| **📏 Ranged 10**  | **🎯 One enemy** |
-
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../feature/ability/censor/level-1/class/censor.md) judges the target.
-
-Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
-
-When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
-
-Additionally, you can spend 1 [wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md) to take one of the following free triggered actions:
-
-- When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
-- When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
-- When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
-  
-You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
-
-### [My Life for Yours](scc:mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours)
-
-*You channel some of your vitality into more resilience for you or an ally.*
-
-| **Magic, Ranged** |           **Triggered** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target starts their turn or takes damage.
-
-**Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
-
-**Spend 1 [Wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md):** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
-
-### [Purifying Fire](scc:mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*The gods judge, fire cleanses.*
-
-| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |
-|-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
-- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
-- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
-
-**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
-
-### [The Gods Punish and Defend](scc:mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend) (3 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You channel holy energy to smite a foe and heal an ally.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage
-- **12-16:** 8 + M holy damage
-- **17+:** 11 + M holy damage
-
-**Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
-
 ## 2nd-Level Features
 
 ### 2nd-Level Order Features
@@ -792,80 +645,6 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 **Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
 
-### [Blessing of the Faithful](scc:mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*The gods reward your faith.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
-
-### [It Is Justice You Fear](scc:mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*I am but a vessel. Your own deeds weigh upon you.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
-
-**Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
-
-### [Prescient Grace](scc:mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*Gifted by a prescient vision, you warn an ally of an impending attack.*
-
-| **Magic, Ranged** |          **Triggered** |
-|-------------------|-----------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** An enemy within 10 squares starts their turn.
-
-**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
-
-### [Revelator](scc:mcdm.heroes.v1/feature.ability.censor.level-2/revelator) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../feature/ability/censor/level-2/feature/ability/censor/level-1/judgment.md).*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../feature/ability/censor/level-2/feature/ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
-
-### [Sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*The shock of your condemnation freezes your enemy in their boots.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
-- **17+:** 12 + P damage; P < STRONG, restrained (save ends)
-
-**Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
-
-### [With My Blessing](scc:mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*A word in prayer, and the gods show the way.*
-
-| **Magic, Ranged** |         **Main action** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
-
 ## 3rd-Level Features
 
 ### Look On My Work and Despair
@@ -905,46 +684,6 @@ Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [div
 **Effect:** Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
 ### Edict of Stillness
-
-*The holy aura you project makes it painful for evil-doers to leave your reach.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
-
-### [Edict of Disruptive Isolation](scc:mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-disruptive-isolation) (7 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*The evil within your foes detonates with holy fire that burns only the guilty.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
-
-### [Edict of Perfect Order](scc:mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order) (7 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*Within the area of your divine presence, your enemies will regret using their fell abilities.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
-
-### [Edict of Purifying Pacifism](scc:mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-purifying-pacifism) (7 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You shed a righteous energy that punishes enemies who would harm you or your allies.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
-
-### [Edict of Stillness](scc:mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-stillness) (7 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
 *The holy aura you project makes it painful for evil-doers to leave your reach.*
 
@@ -1066,16 +805,6 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
-### [Blessing of Secrets](scc:mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets)
-
-*You project an illusory aura that makes you and allies harder to notice.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-
 ## 5th-Level Features
 
 ### 5th-Level Order Feature
@@ -1149,62 +878,6 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 **Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
 
 ### Shield of the Righteous
-
-*You strike a foe and create a fleet of divine shields that protect your allies.*
-
-| **Melee, Strike, Weapon** |          **Main action** |
-|---------------------------|-------------------------:|
-| **📏 Melee 1**            |      **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
-
-### [Gods Grant Thee Strength](scc:mcdm.heroes.v1/feature.ability.censor.level-5/gods-grant-thee-strength) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You channel divine force for movement that cannot be stopped.*
-
-| **Ranged** |         **Main action** |
-|------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
-
-**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
-
-### [Orison of Victory](scc:mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You channel your god's will to overcome hardship and inflict pain.*
-
-| **Area**       |                          **Maneuver** |
-|----------------|--------------------------------------:|
-| **📏 1 burst** | **🎯 Self and each ally in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
-
-**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
-
-### [Righteous Judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You amplify the power of your [judgment](../feature/ability/censor/level-5/feature/ability/censor/level-1/judgment.md).*
-
-| **Melee, Strike, Weapon**   |          **Main action** |
-|----------------------------|-------------------------:|
-| **📏 Melee 1**             |      **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage
-- **12-16:** 14 + M damage
-- **17+:** 20 + M damage
-
-**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
-
-### [Shield of the Righteous](scc:mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
@@ -1302,70 +975,6 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 **Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
 
 ### Pain of Your Own Making
-
-*You reverse the effects from an evildoer.*
-
-| **Magic, Ranged** |      **Free triggered** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
-
-**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
-
-### [Burden of Evil](scc:mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
-
-| **Magic, Ranged, Strike** |         **Maneuver** |
-|---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Slide 3; I < WEAK, dazed (save ends)
-- **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
-- **17+:** Slide 7; I < STRONG, dazed (save ends)
-
-### [Congregation](scc:mcdm.heroes.v1/feature.ability.censor.level-6/congregation) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You focus your allies' [wrath](../feature/ability/censor/level-6/feature/trait/censor/level-1/wrath.md) on a chosen foe.*
-
-| **Melee, Strike, Weapon** |   **Main action** |
-|---------------------------|------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target
-- **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
-- **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
-
-**Effect:** Each ally can shift up to 2 squares and gains 2 surges before making the strike.
-
-### [Edict of Peace](scc:mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You anticipate your foes' moves and deny them.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
-
-### [Intercede](scc:mcdm.heroes.v1/feature.ability.censor.level-6/intercede) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You take your ally's place.*
-
-| **Magic, Ranged** | **Free triggered** |
-|-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
-
-**Trigger:** A creature makes a strike against the target.
-
-**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
-
-### [Pain of Your Own Making](scc:mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
 *You reverse the effects from an evildoer.*
 
@@ -1514,26 +1123,6 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
-### [Guided to Your Side](scc:mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side)
-
-*You concentrate on a friend and teleport to them.*
-
-| **Magic, Ranged** |           **Main action** |
-|-------------------|--------------------------:|
-| **📏 Ranged 10**  | **🎯 Self and each ally** |
-
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/ability/censor/level-7/feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
-
-### [Trinity of Trickery](scc:mcdm.heroes.v1/feature.ability.censor.level-7/trinity-of-trickery) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*Hey! I'm over here. No, here, numbskull.*
-
-| **Magic, Ranged** |            **Maneuver** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
-
 ## 8th-Level Features
 
 ### 8th-Level Order Feature
@@ -1630,54 +1219,6 @@ Your words take on the power of your deity, with all the authority that entails.
 
 **Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
-### [Excommunication](scc:mcdm.heroes.v1/feature.ability.censor.level-8/excommunication) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You curse your foe to become a bane to their allies.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
-- **17+:** 18 + M damage; I < STRONG, weakened (save ends)
-
-**Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
-
-### [Hand of the Gods](scc:mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You use your foe as a tool against your enemies.*
-
-| **Ranged, Strike, Weapon** |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage
-- **12-16:** 15 + M damage
-- **17+:** 21 + M damage
-
-**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
-
-### [Pillar of Holy Fire](scc:mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*Your enemy's guilt fuels a holy flame that burns your foes.*
-
-| **Melee, Strike, Weapon**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-- **17+:** 18 + M damage; I < STRONG, dazed (save ends)
-
-**Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
-
 ## 9th-Level Features
 
 ### Improved Implement of Wrath
@@ -1757,88 +1298,6 @@ The weapon you target with your [Implement of Wrath](../feature/trait/censor/lev
 **Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
 
 ### Terror Manifest
-
-*"I know what you fear."*
-
-| **Magic, Ranged, Strike**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
-- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
-
-**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
-
-### [Apostate](scc:mcdm.heroes.v1/feature.ability.censor.level-9/apostate) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You channel holy energy to seal an enemy's fate.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 13 + M holy damage
-- **12-16:** 19 + M holy damage
-- **17+:** 26 + M holy damage
-
-**Effect:** Until the end of the encounter or until you are dying, the target has damage weakness 10.
-
-### [Banish](scc:mcdm.heroes.v1/feature.ability.censor.level-9/banish) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You sever the target's tenuous connection to the world.*
-
-| **Melee, Strike, Weapon**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
-- **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
-- **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
-
-**Effect:** This ability gains an edge against demons, [devils](../feature/ability/censor/level-9/ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
-
-### [Blessing and a Curse](scc:mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*The gods bless and damn in equal measure.*
-
-| **Magic, Ranged**  |       **Triggered** |
-|--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
-
-**Trigger:** The target makes a power roll.
-
-**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
-
-### [Edict of Unyielding Resolve](scc:mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You and your allies are clad in shimmering armor.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 2 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.
-
-### [Fulfill Your Destiny](scc:mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
-
-*You have looked at various futures, and only this one works.*
-
-| **Magic, Ranged**  |   **Triggered** |
-|--------------------|----------------:|
-| **📏 Ranged 10**   | **🎯 One ally** |
-
-**Trigger:** You or another hero ends their turn.
-
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
-
-### [Terror Manifest](scc:mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
 *"I know what you fear."*
 
