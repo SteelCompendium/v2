@@ -50,14 +50,20 @@
 <meta name="scc-permalink" content="{{ config.site_url }}scc/{{ page.meta.scc }}/">
 {#-
   Inline early rewrite. Runs synchronously during HTML parse, before the user
-  ever sees the friendly Browse URL in the address bar. The deferred listeners
-  in scc-permalink.js handle instant-nav + hash changes.
+  ever sees the friendly Browse URL in the address bar. Also injects a <base>
+  pointing at the friendly URL so relative links resolve correctly despite the
+  address bar showing the SCC permalink (different directory depth). The
+  deferred listeners in scc-permalink.js handle instant-nav + hash changes.
 -#}
 <script>
 (function(){
   try {
     var u = new URL("{{ config.site_url }}scc/{{ page.meta.scc }}/", location.href);
     if (location.pathname !== u.pathname) {
+      var base = document.createElement("base");
+      base.setAttribute("data-scc", "");
+      base.href = location.pathname;
+      document.head.prepend(base);
       history.replaceState(history.state, "", u.pathname + location.search + location.hash);
     }
   } catch(e) {}
