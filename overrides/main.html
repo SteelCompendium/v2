@@ -60,6 +60,7 @@
   try {
     var u = new URL("{{ config.site_url }}scc/{{ page.meta.scc }}/", location.href);
     if (location.pathname !== u.pathname) {
+      window.__SCC_FRIENDLY_PATH__ = location.pathname;
       var base = document.createElement("base");
       base.setAttribute("data-scc", "");
       base.href = location.pathname;
