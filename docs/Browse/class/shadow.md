@@ -62,14 +62,14 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### 1st-Level College Features
 
-Your [shadow](../../../../class/shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow](shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
 | College         | Feature                    |
 |-----------------|----------------------------|
-| Black Ash       | [Black Ash Teleport](../../../ability/shadow/level-1/black-ash-teleport.md)         |
-| Caustic Alchemy | [Coat the Blade](../../../ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](smoke-bomb.md) |
+| Black Ash       | [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md)         |
+| Caustic Alchemy | [Coat the Blade](../feature/ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](../feature/trait/shadow/level-1/smoke-bomb.md) |
 | Harlequin Mask  | I'm No Threat              |
 
 ### Black Ash Teleport
@@ -108,15 +108,15 @@ You have the following ability.
 
 ### College Triggered Action
 
-Your [shadow](../../../../class/shadow.md) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow](shadow.md) college grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
 | College         | Triggered Action      |
 |-----------------|-----------------------|
-| Black Ash       | [In All This Confusion](../../../ability/shadow/level-1/in-all-this-confusion.md) |
-| Caustic Alchemy | [Defensive Roll](../../../ability/shadow/level-1/defensive-roll.md)        |
-| Harlequin Mask  | [Clever Trick](../../../ability/shadow/level-1/clever-trick.md)          |
+| Black Ash       | [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) |
+| Caustic Alchemy | [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md)        |
+| Harlequin Mask  | [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md)          |
 
 ###### Clever Trick (1 Insight)
 
@@ -155,7 +155,7 @@ You have the following ability.
 ###### I'm No Threat
 
 > 
-> *Taking on an illusory countenance gives you an advantage on [subterfuge](../level-10/subterfuge.md).*
+> *Taking on an illusory countenance gives you an advantage on [subterfuge](../feature/trait/shadow/level-10/subterfuge.md).*
 > 
 > | **Magic**   | **Maneuver** |
 > |-------------|-------------:|
@@ -185,23 +185,23 @@ You lose any remaining insight at the end of the encounter.
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as [Black Ash Teleport](../../../ability/shadow/level-1/black-ash-teleport.md), you can use it as if you had spent an amount of insight equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md), you can use it as if you had spent an amount of insight equal to your Victories.
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../../../../kit/cloak-and-dagger.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../chapter/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../kit/cloak-and-dagger.md).)
 
 ### Shadow College
 
-[Shadow](../../../../class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../../../class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You graduated from a [shadow college](shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
+You graduated from a [shadow college](../feature/trait/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](../../../../class/shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
-Your [shadow](../../../../class/shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow](shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 ### Smoke Bomb
 
@@ -365,7 +365,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 ### I'm No Threat
 
-*Taking on an illusory countenance gives you an advantage on [subterfuge](../../../trait/shadow/level-10/subterfuge.md).*
+*Taking on an illusory countenance gives you an advantage on [subterfuge](../feature/trait/shadow/level-10/subterfuge.md).*
 
 | **Magic**   | **Maneuver** |
 |-------------|-------------:|
@@ -487,7 +487,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
-**Spend 1+ [Insight](feature/trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](feature/trait/shadow/level-1/insight.md) spent.
+**Spend 1+ [Insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md) spent.
 
 ### [Clever Trick](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick) (1 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -511,7 +511,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
 
-**Spend 1+ [Insight](feature/trait/shadow/level-1/insight.md):** For each [insight](feature/trait/shadow/level-1/insight.md) you spend, you gain 1 additional surge.
+**Spend 1+ [Insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md):** For each [insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md) you spend, you gain 1 additional surge.
 
 ### [Coup de Grace](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace) (5 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -539,7 +539,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
 
-**Spend 1 [Insight](feature/trait/shadow/level-1/insight.md):** The potency of any effects associated with the damage are reduced by 1 for you.
+**Spend 1 [Insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md):** The potency of any effects associated with the damage are reduced by 1 for you.
 
 ### [Disorienting Strike](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/disorienting-strike) (3 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -643,7 +643,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
 
-**Spend 1+ [Insight](feature/trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](feature/trait/shadow/level-1/insight.md) spent.
+**Spend 1+ [Insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md):** You teleport 1 additional square for each [insight](../feature/ability/shadow/level-1/feature/trait/shadow/level-1/insight.md) spent.
 
 ### [One Hundred Throats](scc:mcdm.heroes.v1/feature.ability.shadow.level-1/one-hundred-throats) (5 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -735,14 +735,14 @@ The illusion ends when you harm another creature, when you physically interact w
 
 ### 2nd-Level College Feature
 
-Your [shadow](../../../../class/shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow](shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
 | College                    | Feature          |
 |----------------------------|------------------|
-| Black Ash                  | [Burning Ash](burning-ash.md)      |
-| Caustic Alchemy            | [Trained Assassin](trained-assassin.md) |
+| Black Ash                  | [Burning Ash](../feature/trait/shadow/level-2/burning-ash.md)      |
+| Caustic Alchemy            | [Trained Assassin](../feature/trait/shadow/level-2/trained-assassin.md) |
 | Harlequin Mask             | Friend!          |
 
 ### Burning Ash
@@ -757,7 +757,7 @@ Additionally, when you use your I'm No Threat ability, you can take the Disengag
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
 
 ### Trained Assassin
 
@@ -805,7 +805,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### Sticky Bomb
 
@@ -847,9 +847,9 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 |------------------------|-------------------:|
 | **📏 Self; see below** |        **🎯 Self** |
 
-**Trigger:** You use your [In All This Confusion](../level-1/in-all-this-confusion.md) ability.
+**Trigger:** You use your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.
 
 ### [In a Puff of Ash](scc:mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash) (5 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -891,7 +891,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](feature/ability/shadow/level-1/clever-trick.md) ability with no [insight](feature/trait/shadow/level-1/insight.md) cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-2/feature/ability/shadow/level-1/clever-trick.md) ability with no [insight](../feature/ability/shadow/level-2/feature/trait/shadow/level-1/insight.md) cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### [Sticky Bomb](scc:mcdm.heroes.v1/feature.ability.shadow.level-2/sticky-bomb) (5 [Insight](scc:mcdm.heroes.v1/feature.trait.shadow.level-1/insight))
 
@@ -933,9 +933,9 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 |------------------------|-------------------:|
 | **📏 Self; see below** |        **🎯 Self** |
 
-**Trigger:** You use your [In All This Confusion](feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
+**Trigger:** You use your [In All This Confusion](../feature/ability/shadow/level-2/feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](feature/ability/shadow/level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-2/feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-2/feature/ability/shadow/level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.
 
 ## 3rd-Level Features
 
@@ -1119,7 +1119,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/tests.md).
 
 ### Surge of Insight
 
@@ -1155,15 +1155,15 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level College Feature
 
-Your [shadow](../../../../class/shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow](shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
 | College         | Feature           |
 |-----------------|-------------------|
-| Black Ash       | [Trail of Cinders](trail-of-cinders.md)  |
-| Caustic Alchemy | [Volatile Reagents](volatile-reagents.md) |
-| Harlequin Mask  | [Harlequin Gambit](harlequin-gambit.md)  |
+| Black Ash       | [Trail of Cinders](../feature/trait/shadow/level-5/trail-of-cinders.md)  |
+| Caustic Alchemy | [Volatile Reagents](../feature/trait/shadow/level-5/volatile-reagents.md) |
+| Harlequin Mask  | [Harlequin Gambit](../feature/trait/shadow/level-5/harlequin-gambit.md)  |
 
 ### Harlequin Gambit
 
@@ -1173,7 +1173,7 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 ### Trail of Cinders
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [Black Ash Teleport](../../../ability/shadow/level-1/black-ash-teleport.md) ability.
+Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
 Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can't teleport with you.
 
@@ -1181,7 +1181,7 @@ Additionally, you can now bring an adjacent willing creature along with you when
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../../../ability/shadow/level-1/defensive-roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not flying, you fall.
+Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not flying, you fall.
 
 ## 5th-Level Abilities
 
@@ -1495,7 +1495,7 @@ A creature who drinks the potion receives benefits based on your power roll.
 
 ### Careful Observation Improvement
 
-You can target two creatures simultaneously with your [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target two creatures simultaneously with your [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
 ### Characteristic Increase
 
@@ -1517,23 +1517,23 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ### 8th-Level College Feature
 
-Your [shadow](../../../../class/shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow](shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
 | College         | Feature     |
 |-----------------|-------------|
-| Black Ash       | [Cinder Step](cinder-step.md) |
-| Caustic Alchemy | [Time Bomb](../../../ability/shadow/level-8/time-bomb.md)   |
-| Harlequin Mask  | [Parkour](parkour.md)     |
+| Black Ash       | [Cinder Step](../feature/trait/shadow/level-8/cinder-step.md) |
+| Caustic Alchemy | [Time Bomb](../feature/ability/shadow/level-8/time-bomb.md)   |
+| Harlequin Mask  | [Parkour](../feature/trait/shadow/level-8/parkour.md)     |
 
 ### Cinder Step
 
-Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../level-2/burning-ash.md) and [Trail of Cinders](../level-5/trail-of-cinders.md) features.
+Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../feature/trait/shadow/level-2/burning-ash.md) and [Trail of Cinders](../feature/trait/shadow/level-5/trail-of-cinders.md) features.
 
 ### Parkour
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../level-5/harlequin-gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../../../ability/shadow/level-1/clever-trick.md) ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../feature/trait/shadow/level-5/harlequin-gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability.
 
 ### Perk
 
@@ -1704,13 +1704,13 @@ For each combat round that has passed since this ability was last used in the cu
 
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
-**Spend 2+ [Insight](feature/trait/shadow/level-1/insight.md):** For every 2 [insight](feature/trait/shadow/level-1/insight.md) spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ [Insight](../feature/ability/shadow/level-8/feature/trait/shadow/level-1/insight.md):** For every 2 [insight](../feature/ability/shadow/level-8/feature/trait/shadow/level-1/insight.md) spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 ## 9th-Level Features
 
 ### Gloom Squad
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -1900,7 +1900,7 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 
 ### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability.
+You can target three creatures simultaneously with your [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability.
 
 ### Characteristic Increase
 
@@ -1912,9 +1912,9 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### Improved Umbral Form
 
-You gain full control over the [shadow](../../../../class/shadow.md) creature you become with your [Umbral Form](../level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](shadow.md) creature you become with your [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../feature/trait/shadow/level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
 
 ### Perk
 
@@ -1926,9 +1926,9 @@ You gain one skill of your choice.
 
 ### Subterfuge
 
-You have an epic resource called [subterfuge](subterfuge.md). Each time you finish a respite, you gain [subterfuge](subterfuge.md) equal to the XP you gain. You can spend [subterfuge](subterfuge.md) on your abilities as if it were insight.
+You have an epic resource called [subterfuge](../feature/trait/shadow/level-10/subterfuge.md). Each time you finish a respite, you gain [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) equal to the XP you gain. You can spend [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) on your abilities as if it were insight.
 
-Additionally, you can spend [subterfuge](subterfuge.md) to take additional maneuvers on your turn. You can use one maneuver for each [subterfuge](subterfuge.md) you spend.
+Additionally, you can spend [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) to take additional maneuvers on your turn. You can use one maneuver for each [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) you spend.
 
-[Subterfuge](subterfuge.md) remains until you spend it.
+[Subterfuge](../feature/trait/shadow/level-10/subterfuge.md) remains until you spend it.
 

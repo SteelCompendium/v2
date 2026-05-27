@@ -63,9 +63,9 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ### Chronokinetic Mastery
 
-Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
+Whenever you use the [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../feature/trait/null/level-1/chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Chronokinetic Mastery Table
 
@@ -80,18 +80,18 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 
 ### Cryokinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the Grab maneuver as a free triggered action.
 
-Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../feature/trait/null/level-1/cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Cryokinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../../class/null.md) Field ability, you gain 1 surge.                                                   |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](null.md) Field ability, you gain 1 surge.                                                   |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](../../../../class/null.md) Field ability, you gain 2 surges.                                                  |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](null.md) Field ability, you gain 2 surges.                                                  |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
 | 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
 
@@ -107,7 +107,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null](null.md) Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -115,13 +115,13 @@ You lose any remaining discipline at the end of the encounter.
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](../../../../class/null.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](null.md), but they might appear in future products.)
 
 ### Discipline Mastery
 
-As you advance in your chosen [null](../../../../class/null.md) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null](null.md) tradition, you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
-Some [Discipline Mastery](discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
 ### Force Augmentation
 
@@ -148,9 +148,9 @@ Your instincts for danger let you predict attacks before they happen.
 
 ### Metakinetic Mastery
 
-Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) ability, you can then use the Knockback maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the Knockback maneuver as a free triggered action.
 
-Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../feature/trait/null/level-1/metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Metakinetic Mastery Table
 
@@ -167,7 +167,7 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
-##### [Null](../../../../class/null.md) Field
+##### [Null](null.md) Field
 
 > 
 > *You project an aura that dampens the power of your foes.*
@@ -178,7 +178,7 @@ You project a psionic field of order around your body, dampening the effects of 
 > 
 > **Effect:** Each target reduces their potencies by 1.
 > 
-> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
+> Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](null.md) Field one of the following additional effects until the start of your next turn:
 > 
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 > - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -192,17 +192,17 @@ The flow of psionic power through you allows you to achieve high velocity. You g
 
 ### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](../../../../class/null.md) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](null.md) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your [null](../../../../class/null.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null](null.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
 ### Psionic Augmentation
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](speed-augmentation.md).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../feature/trait/null/level-1/speed-augmentation.md).)
 
 ### Psionic Martial Arts
 
@@ -454,7 +454,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 |-------------------|------------------------------:|
 | **📏 2 burst**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](../../../../class/null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](../../../../class/null.md) Field ability takes psychic damage equal to your Intuition score.
+**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](null.md) Field ability takes psychic damage equal to your Intuition score.
 
 ### Relentless Nemesis
 
@@ -532,7 +532,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its [discipline](feature/trait/null/level-1/discipline.md) cost as usual.
+**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its [discipline](../feature/ability/null/level-1/feature/trait/null/level-1/discipline.md) cost as usual.
 
 ### [Dance of Blows](scc:mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows)
 
@@ -552,7 +552,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 ### [Faster Than the Eye](scc:mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye)
 
-*You strike so quickly that your hands become a [blur](feature/ability/null/level-2/blur.md).*
+*You strike so quickly that your hands become a [blur](../feature/ability/null/level-1/feature/ability/null/level-2/blur.md).*
 
 | **Melee, Psionic, Strike, Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
@@ -594,7 +594,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 **Effect:** You take half the damage.
 
-**Spend 1 [Discipline](feature/trait/null/level-1/discipline.md):** The potency of one effect associated with the damage is reduced by 1 for you.
+**Spend 1 [Discipline](../feature/ability/null/level-1/feature/trait/null/level-1/discipline.md):** The potency of one effect associated with the damage is reduced by 1 for you.
 
 ### [Inertial Step](scc:mcdm.heroes.v1/feature.ability.null.level-1/inertial-step)
 
@@ -664,7 +664,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 **Effect:** Each target reduces their potencies by 1.
 
-Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](../../../../class/null.md) Field one of the following additional effects until the start of your next turn:
+Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](null.md) Field one of the following additional effects until the start of your next turn:
 
 - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 - Inertial Anchor: Any target who starts their turn in the area can't shift.
@@ -726,7 +726,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 |-------------------|------------------------------:|
 | **📏 2 burst**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](class/null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](class/null.md) Field ability takes psychic damage equal to your Intuition score.
+**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null](../feature/ability/null/level-1/class/null.md) Field ability increases by 1. At the end of your current turn, each enemy in the area of your [Null](../feature/ability/null/level-1/class/null.md) Field ability takes psychic damage equal to your Intuition score.
 
 ### [Relentless Nemesis](scc:mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis) (3 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
@@ -762,15 +762,15 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 ### 2nd-Level Tradition Feature
 
-Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null](null.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
 | Tradition     | Feature               |
 |---------------|-----------------------|
-| Chronokinetic | [Rapid Processing](rapid-processing.md)      |
-| Cryokinetic   | [Entropic Adaptability](entropic-adaptability.md) |
-| Metakinetic   | [Inertial Sink](inertial-sink.md)         |
+| Chronokinetic | [Rapid Processing](../feature/trait/null/level-2/rapid-processing.md)      |
+| Cryokinetic   | [Entropic Adaptability](../feature/trait/null/level-2/entropic-adaptability.md) |
+| Metakinetic   | [Inertial Sink](../feature/trait/null/level-2/inertial-sink.md)         |
 
 ### Entropic Adaptability
 
@@ -784,7 +784,7 @@ Additionally, when you fall, you reduce the effective height of the fall by 5 sq
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
 
 ### Rapid Processing
 
@@ -852,7 +852,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null](../../../../class/null.md) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null](null.md) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ### Kinetic Shield
 
@@ -930,7 +930,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null](class/null.md) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null](../feature/ability/null/level-2/class/null.md) Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 ### [Kinetic Shield](scc:mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield) (5 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
@@ -956,19 +956,19 @@ You can long jump and high jump a distance equal to twice your Agility score wit
 
 ### Reorder
 
-At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](../../../../class/null.md) Field ability.
+At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null](null.md) Field ability.
 
 ## 3rd-Level Abilities
 
 ### Absorption Field
 
-*Your [null](../../../../class/null.md) field absorbs kinetic energy.*
+*Your [null](null.md) field absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 ### Molecular Rearrangement Field
 
@@ -978,7 +978,7 @@ At the start of each of your turns, you can use a free triggered action to end o
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 ### Stabilizing Field
 
@@ -988,27 +988,27 @@ At the start of each of your turns, you can use a free triggered action to end o
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 ### Synapse Field
 
-*Attacks made by allies in your [null](../../../../class/null.md) field disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your [null](null.md) field disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ### [Absorption Field](scc:mcdm.heroes.v1/feature.ability.null.level-3/absorption-field) (7 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*Your [null](class/null.md) field absorbs kinetic energy.*
+*Your [null](../feature/ability/null/level-3/class/null.md) field absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null](../feature/ability/null/level-3/class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 ### [Molecular Rearrangement Field](scc:mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field) (7 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
@@ -1018,27 +1018,27 @@ At the start of each of your turns, you can use a free triggered action to end o
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](../feature/ability/null/level-3/class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 ### [Stabilizing Field](scc:mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field) (7 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*You project [order](feature/trait/null/level-10/order.md), making it harder for your enemies to interfere with you and your allies.*
+*You project [order](../feature/ability/null/level-3/feature/trait/null/level-10/order.md), making it harder for your enemies to interfere with you and your allies.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+**Effect:** Until the end of the encounter, the size of your [Null](../feature/ability/null/level-3/class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 ### [Synapse Field](scc:mcdm.heroes.v1/feature.ability.null.level-3/synapse-field) (7 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*Attacks made by allies in your [null](class/null.md) field disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your [null](../feature/ability/null/level-3/class/null.md) field disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](../feature/ability/null/level-3/class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ## 4th-Level Features
 
@@ -1048,11 +1048,11 @@ Your Agility and Intuition scores each increase to 3.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more discipline.
+Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more discipline.
 
 ### Enhanced Null Field
 
-While using your [Null](../../../../class/null.md) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null](null.md) Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
 ### Perk
 
@@ -1060,25 +1060,25 @@ You gain one perk of your choice.
 
 ### Regenerative Field
 
-The first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null](null.md) Field ability uses a main action, you gain 2 discipline instead of 1.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/tests.md).
 
 ## 5th-Level Features
 
 ### 5th-Level Tradition Feature
 
-Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null](null.md) tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
 | Tradition     | Feature            |
 |---------------|--------------------|
-| Chronokinetic | [Instant Action](instant-action.md)     |
-| Cryokinetic   | [Chilling Readiness](chilling-readiness.md) |
-| Metakinetic   | [Inertial Fulcrum](inertial-fulcrum.md)   |
+| Chronokinetic | [Instant Action](../feature/trait/null/level-5/instant-action.md)     |
+| Cryokinetic   | [Chilling Readiness](../feature/trait/null/level-5/chilling-readiness.md) |
+| Metakinetic   | [Inertial Fulcrum](../feature/trait/null/level-5/inertial-fulcrum.md)   |
 
 ### Chilling Readiness
 
@@ -1086,7 +1086,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 ### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](../../../../class/null.md) Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](null.md) Field ability equal to your Intuition score.
 
 ### Instant Action
 
@@ -1136,7 +1136,7 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](../../../../class/null.md) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](null.md) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 ### Synaptic Reset
 
@@ -1190,7 +1190,7 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](class/null.md) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null](../feature/ability/null/level-5/class/null.md) Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 ### [Synaptic Reset](scc:mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset) (9 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
@@ -1206,7 +1206,7 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 
 ### Elemental Absorption
 
-Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
 ### Elemental Buffer
 
@@ -1288,7 +1288,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 ### Wall of Ice
 
-*You create a [wall of ice](wall-of-ice.md).*
+*You create a [wall of ice](../feature/ability/null/level-6/wall-of-ice.md).*
 
 | **Area, Psionic, Ranged** | **Main action** |
 |---------------------------|----------------:|
@@ -1298,7 +1298,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 ### [Gravitic Charge](scc:mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge) (9 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*You channel your [discipline](feature/trait/null/level-1/discipline.md) into momentum that defies gravity.*
+*You channel your [discipline](../feature/ability/null/level-6/feature/trait/null/level-1/discipline.md) into momentum that defies gravity.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
@@ -1366,7 +1366,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 ### [Wall of Ice](scc:mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice) (9 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*You create a [wall of ice](feature/ability/null/level-6/wall-of-ice.md).*
+*You create a [wall of ice](../feature/ability/null/level-6/feature/ability/null/level-6/wall-of-ice.md).*
 
 | **Area, Psionic, Ranged** | **Main action** |
 |---------------------------|----------------:|
@@ -1382,7 +1382,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.
 
 ### Dynamic Power
 
@@ -1410,7 +1410,7 @@ If the ability has a potency, you increase that potency by an amount equal to yo
 
 ### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](psi-boost.md) to it and enhance its effects. A [psi boost](psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/trait/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/trait/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ### Shared Power
 
@@ -1428,19 +1428,19 @@ You gain one skill of your choice.
 
 ### 8th-Level Tradition Feature
 
-Your [null](../../../../class/null.md) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null](null.md) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
 | Tradition     | Feature           |
 |---------------|-------------------|
-| Chronokinetic | [Shared Momentum](shared-momentum.md)   |
-| Cryokinetic   | [Synaptic Triage](synaptic-triage.md)   |
-| Metakinetic   | [Inertial Dampener](inertial-dampener.md) |
+| Chronokinetic | [Shared Momentum](../feature/trait/null/level-8/shared-momentum.md)   |
+| Cryokinetic   | [Synaptic Triage](../feature/trait/null/level-8/synaptic-triage.md)   |
+| Metakinetic   | [Inertial Dampener](../feature/trait/null/level-8/inertial-dampener.md) |
 
 ### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](../../../../class/null.md) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](null.md) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
 
 ### Perk
 
@@ -1448,17 +1448,17 @@ You gain one perk of your choice.
 
 ### Shared Momentum
 
-When you take the Disengage move action, one ally in the area of your [Null](../../../../class/null.md) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null](null.md) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
 ### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](../../../../class/null.md) Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](null.md) Field ability also gains this benefit.
 
 ## 8th-Level Abilities
 
 ### Arcane Purge
 
-*You focus your [null](../../../../class/null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null](null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
@@ -1504,19 +1504,19 @@ As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each 
 
 ### Synaptic Anchor
 
-*You disrupt an enemy's strike and create a [feedback loop](../../talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
+*You disrupt an enemy's strike and create a [feedback loop](../feature/ability/talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
 
 | **Psionic**            |           **Free triggered** |
 |------------------------|-----------------------------:|
 | **📏 Self; see below** |  **🎯 Self or one creature** |
 
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../../../../class/null.md) Field ability.
+**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](null.md) Field ability.
 
 **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ### [Arcane Purge](scc:mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge) (11 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*You focus your [null](class/null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null](../feature/ability/null/level-8/class/null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
@@ -1562,13 +1562,13 @@ As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each 
 
 ### [Synaptic Anchor](scc:mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor) (11 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
-*You disrupt an enemy's strike and create a [feedback loop](feature/ability/talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
+*You disrupt an enemy's strike and create a [feedback loop](../feature/ability/null/level-8/feature/ability/talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
 
 | **Psionic**            |           **Free triggered** |
 |------------------------|-----------------------------:|
 | **📏 Self; see below** |  **🎯 Self or one creature** |
 
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](class/null.md) Field ability.
+**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](../feature/ability/null/level-8/class/null.md) Field ability.
 
 **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
@@ -1594,7 +1594,7 @@ Your Stamina increases by 21 and you can't be made bleeding even while dying. Yo
 - **12-16:** You gain 30 temporary Stamina.
 - **17+:** You gain 40 temporary Stamina.
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../../../trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
 ### Arrestor Cycle
 
@@ -1684,7 +1684,7 @@ Your Stamina increases by 21 and you can't be made bleeding even while dying. Yo
 - **12-16:** You gain 30 temporary Stamina.
 - **17+:** You gain 40 temporary Stamina.
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](feature/trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/ability/null/level-9/feature/trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
 ### [Arrestor Cycle](scc:mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle) (11 [Discipline](scc:mcdm.heroes.v1/feature.trait.null.level-1/discipline))
 
@@ -1768,7 +1768,7 @@ Your Agility and Intuition scores each increase to 5.
 
 ### Discipline Mastery Improvement
 
-Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline.
+Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline.
 
 ### Manifold Body
 
@@ -1776,15 +1776,15 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 ### Manifold Resonance
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](../../../../class/null.md) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](null.md) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null](../../../../class/null.md) Field ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/trait/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null](null.md) Field ability ignore banes and double banes on your power rolls.
 
 ### Order
 
 You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](../../../../class/null.md) Field by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null](null.md) Field by 1 until the end of the encounter.
 
 Order remains until you spend it.
 

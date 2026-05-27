@@ -74,7 +74,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Revenant Traits
 
-[Revenant](../../ancestry/revenant.md) heroes have access to the following traits.
+[Revenant](revenant.md) heroes have access to the following traits.
 
 #### Signature Trait: Former Life
 

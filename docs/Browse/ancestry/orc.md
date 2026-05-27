@@ -134,7 +134,7 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 
 ### Orc Traits
 
-[Orc](../../ancestry/orc.md) heroes have access to the following traits.
+[Orc](orc.md) heroes have access to the following traits.
 
 #### Signature Trait: Relentless
 

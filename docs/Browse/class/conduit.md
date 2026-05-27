@@ -64,24 +64,24 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 ### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md) and the Heal skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
 | Domain     | Feature                       | Skill Group   |
 |------------|-------------------------------|---------------|
-| Creation   | [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
-| Death      | [Grave Speech](../../../ability/censor/level-1/grave-speech.md)                  | Lore          |
-| Fate       | [Oracular Visions](../../censor/level-1/oracular-visions.md)              | Lore          |
-| Knowledge  | [Blessing of Comprehension](../../censor/level-1/blessing-of-comprehension.md)     | Lore          |
-| Life       | [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md)           | Exploration   |
-| Love       | [Blessing of Compassion](../../censor/level-1/blessing-of-compassion.md)        | Interpersonal |
-| Nature     | [Faithful Friend](../../../ability/censor/level-1/faithful-friend.md)               | Exploration   |
-| Protection | [Protective Circle](../../censor/level-1/protective-circle.md)             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../../censor/level-1/blessing-of-fortunate-weather.md) | Exploration   |
-| Sun        | [Inner Light](../../censor/level-1/inner-light.md)                   | Lore          |
-| Trickery   | [Inspired Deception](../../censor/level-1/inspired-deception.md)            | Intrigue      |
-| War        | [Sanctified Weapon](../../censor/level-1/sanctified-weapon.md)             | Exploration   |
+| Creation   | [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
+| Death      | [Grave Speech](../feature/ability/censor/level-1/grave-speech.md)                  | Lore          |
+| Fate       | [Oracular Visions](../feature/trait/censor/level-1/oracular-visions.md)              | Lore          |
+| Knowledge  | [Blessing of Comprehension](../feature/trait/censor/level-1/blessing-of-comprehension.md)     | Lore          |
+| Life       | [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md)           | Exploration   |
+| Love       | [Blessing of Compassion](../feature/trait/censor/level-1/blessing-of-compassion.md)        | Interpersonal |
+| Nature     | [Faithful Friend](../feature/ability/censor/level-1/faithful-friend.md)               | Exploration   |
+| Protection | [Protective Circle](../feature/trait/censor/level-1/protective-circle.md)             | Exploration   |
+| Storm      | [Blessing of Fortunate Weather](../feature/trait/censor/level-1/blessing-of-fortunate-weather.md) | Exploration   |
+| Sun        | [Inner Light](../feature/trait/censor/level-1/inner-light.md)                   | Lore          |
+| Trickery   | [Inspired Deception](../feature/trait/censor/level-1/inspired-deception.md)            | Intrigue      |
+| War        | [Sanctified Weapon](../feature/trait/censor/level-1/sanctified-weapon.md)             | Exploration   |
 
 ### Bastion Ward
 
@@ -95,7 +95,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 ### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)).
 
 ### Blessing of Fortunate Weather
 
@@ -111,11 +111,11 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 ### Conduit Ward
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](bastion-ward.md).)
+Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../feature/trait/conduit/level-1/bastion-ward.md).)
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../../../chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* Adûn for deity, and Life and Protection as domains.)
 
@@ -162,7 +162,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Protection Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
 - **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
 ###### Storm Domain Piety and Effect
@@ -178,7 +178,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
+- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ###### War Domain Piety and Effect
 
@@ -254,7 +254,7 @@ You have the following ability, which you can use once on your turn.
 
 ### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ### Inspired Deception
 
@@ -284,11 +284,11 @@ You lose any remaining piety at the end of the encounter.
 
 Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
 
 ### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](../../../../class/conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](prayer-of-distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../feature/trait/conduit/level-1/prayer-of-distance.md).)
 
 ### Prayer of Destruction
 
@@ -314,7 +314,7 @@ Your god fills your body with the light of creation, making you harder to hurt a
 
 ### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](../../censor/level-1/protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../feature/trait/censor/level-1/protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../feature/trait/censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
 
 ### Quickness Ward
 
@@ -359,7 +359,7 @@ Invisible spirits surround you if you are harmed. Whenever an adjacent creature 
 
 ### Triggered Action
 
-Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../ability/conduit/level-1/word-of-guidance.md).)
+Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../feature/ability/conduit/level-1/word-of-guidance.md).)
 
 ##### Word of Guidance
 
@@ -557,7 +557,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Judgment's Hammer
 
-*Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*
+*Your divine [fury](fury.md) is a hammer that crashes down upon the unrighteous.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |
 |----------------------------|------------------------------:|
@@ -571,7 +571,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Judgment's Hammer (3 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety))
 
-*Your divine [fury](class/fury.md) is a hammer that crashes down upon the unrighteous.*
+*Your divine [fury](../feature/ability/conduit/level-1/class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |
 |----------------------------|------------------------------:|
@@ -639,7 +639,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 |-----------------|-----------------------------:|
 | **📏 4 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
 
 ### Staggering Curse
 
@@ -689,7 +689,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### Warrior's [Prayer](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/prayer)
 
-*Your quickly uttered [prayer](feature/trait/conduit/level-1/prayer.md) lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered [prayer](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/prayer.md) lends aggressive divine energy to a friend engaged in melee.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |
 |----------------------------|--------------------:|
@@ -763,7 +763,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### [Call the Thunder Down](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down) (3 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety))
 
-*You ask your saint for thunder and your [prayer](feature/trait/conduit/level-1/prayer.md) is answered.*
+*You ask your saint for thunder and your [prayer](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/prayer.md) is answered.*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
@@ -793,7 +793,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ### [Drain](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/drain)
 
-*You [drain](feature/ability/conduit/level-1/drain.md) the energy from your target to revitalize yourself or an ally.*
+*You [drain](../feature/ability/conduit/level-1/feature/ability/conduit/level-1/drain.md) the energy from your target to revitalize yourself or an ally.*
 
 | **Magic, Melee, Strike** |     **Main action** |
 |--------------------------|--------------------:|
@@ -873,7 +873,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ [Piety](feature/trait/conduit/level-1/piety.md):** For each [piety](feature/trait/conduit/level-1/piety.md) spent, choose one of the following enhancements:
+**Spend 1+ [Piety](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/piety.md):** For each [piety](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/piety.md) spent, choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
@@ -950,7 +950,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 |-----------------|-----------------------------:|
 | **📏 4 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](feature/trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
 
 ### [Staggering Curse](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse)
 
@@ -1008,7 +1008,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The power roll gains an edge.
 
-**Spend 1 [Piety](feature/trait/conduit/level-1/piety.md):** The power roll has a double edge.
+**Spend 1 [Piety](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/piety.md):** The power roll has a double edge.
 
 ### [Word of Judgment](scc:mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment)
 
@@ -1022,7 +1022,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Effect:** The power roll takes a bane against the target.
 
-**Spend 1 [Piety](feature/trait/conduit/level-1/piety.md):** The power roll has a double bane against the target.
+**Spend 1 [Piety](../feature/ability/conduit/level-1/feature/trait/conduit/level-1/piety.md):** The power roll has a double bane against the target.
 
 ## 2nd-Level Features
 
@@ -1032,7 +1032,7 @@ You gain the 1st-level domain feature and ability to choose a skill for the doma
 
 ### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
 
 ### The Lists of Heaven
 
@@ -1131,7 +1131,7 @@ Your deity is aware of your growing influence, making it easier to draw their at
 |--------------------|-------------------------:|
 | **📏 Ranged 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to spend a Recovery.
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to spend a Recovery.
 
 ### Saint's Tempest
 
@@ -1286,7 +1286,7 @@ Your deity is aware of your growing influence, making it easier to draw their at
 |--------------------|-------------------------:|
 | **📏 Ranged 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](feature/trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](feature/trait/conduit/level-1/triggered-action.md) to spend a Recovery.
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../feature/ability/conduit/level-2/feature/trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../feature/ability/conduit/level-2/feature/trait/conduit/level-1/triggered-action.md) to spend a Recovery.
 
 ### [Statue of Power](scc:mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power) (5 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety))
 
@@ -1452,28 +1452,28 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 ### 4th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](../../../../class/conduit.md) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](conduit.md) Domain Features table.
 
 ###### 4th-Level Conduit Domain Features Table
 
 | Domain     | Feature                     |
 |------------|-----------------------------|
-| Creation   | Improved [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) |
+| Creation   | Improved [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) |
 | Death      | Seance                      |
-| Fate       | [Oracular Warning](../../censor/level-4/oracular-warning.md)            |
+| Fate       | [Oracular Warning](../feature/trait/censor/level-4/oracular-warning.md)            |
 | Knowledge  | Saint's Epiphany            |
-| Life       | [Blessing of Life](../../censor/level-4/blessing-of-life.md)            |
+| Life       | [Blessing of Life](../feature/trait/censor/level-4/blessing-of-life.md)            |
 | Love       | Invocation of the Heart     |
-| Nature     | [Wode Road](../../censor/level-4/wode-road.md)                   |
-| Protection | [Impervious Touch](../../censor/level-4/impervious-touch.md)            |
+| Nature     | [Wode Road](../feature/trait/censor/level-4/wode-road.md)                   |
+| Protection | [Impervious Touch](../feature/trait/censor/level-4/impervious-touch.md)            |
 | Storm      | Windwalk                    |
-| Sun        | [Light of Revelation](../../censor/level-4/light-of-revelation.md)         |
-| Trickery   | [Blessing of Secrets](../../../ability/censor/level-4/blessing-of-secrets.md)         |
-| War        | [Improved Sanctified Weapon](../../censor/level-4/improved-sanctified-weapon.md)  |
+| Sun        | [Light of Revelation](../feature/trait/censor/level-4/light-of-revelation.md)         |
+| Trickery   | [Blessing of Secrets](../feature/ability/censor/level-4/blessing-of-secrets.md)         |
+| War        | [Improved Sanctified Weapon](../feature/trait/censor/level-4/improved-sanctified-weapon.md)  |
 
 ###### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability regains Stamina, they regain additional Stamina equal to your Intuition score.
 
 ###### Blessing of Secrets
 
@@ -1487,11 +1487,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ###### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../feature/trait/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ###### Invocation of the Heart
 
@@ -1546,7 +1546,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/tests.md).
 
 ## 4th-Level Abilities
 
@@ -1592,7 +1592,7 @@ You gain the 4th-level domain feature for the domain whose feature you didn't se
 - **12-16:** 13 + I holy damage
 - **17+:** 17 + I holy damage
 
-**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
+**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
 
 ### Penance
 
@@ -1642,7 +1642,7 @@ You gain the 4th-level domain feature for the domain whose feature you didn't se
 - **12-16:** 13 + I holy damage
 - **17+:** 17 + I holy damage
 
-**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](feature/trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
+**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../feature/ability/conduit/level-5/feature/trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
 
 ### [Penance](scc:mcdm.heroes.v1/feature.ability.conduit.level-5/penance) (9 [Piety](scc:mcdm.heroes.v1/feature.trait.conduit.level-1/piety))
 
@@ -2007,24 +2007,24 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 ### 7th-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](../../../../class/conduit.md) Domain Features table.
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](conduit.md) Domain Features table.
 
 ###### 7th-Level Conduit Domain Features Table
 
 | Domain     | Feature                      |
 |------------|------------------------------|
-| Creation   | [Divine Quartermaster](../../censor/level-7/divine-quartermaster.md)         |
-| Death      | [Word of Death Deferred](../../censor/level-7/word-of-death-deferred.md)       |
-| Fate       | [Word of Fate Denied](../../censor/level-7/word-of-fate-denied.md)          |
+| Creation   | [Divine Quartermaster](../feature/trait/censor/level-7/divine-quartermaster.md)         |
+| Death      | [Word of Death Deferred](../feature/trait/censor/level-7/word-of-death-deferred.md)       |
+| Fate       | [Word of Fate Denied](../feature/trait/censor/level-7/word-of-fate-denied.md)          |
 | Knowledge  | Gods' Library                |
-| Life       | [Font of Grace](../../censor/level-7/font-of-grace.md)                |
-| Love       | [Covenant of the Heart](../../censor/level-7/covenant-of-the-heart.md)        |
+| Life       | [Font of Grace](../feature/trait/censor/level-7/font-of-grace.md)                |
+| Love       | [Covenant of the Heart](../feature/trait/censor/level-7/covenant-of-the-heart.md)        |
 | Nature     | Nature's Bounty              |
-| Protection | [Blessing of Iron](../../censor/level-7/blessing-of-iron.md)             |
-| Storm      | [Thunderstruck](thunderstruck.md)                |
-| Sun        | [Light of the Burning Sun](../../censor/level-7/light-of-the-burning-sun.md)     |
-| Trickery   | [Trinity of Trickery](../../../ability/censor/level-7/trinity-of-trickery.md)          |
-| War        | [Your Triumphs Are Remembered](../../censor/level-7/your-triumphs-are-remembered.md) |
+| Protection | [Blessing of Iron](../feature/trait/censor/level-7/blessing-of-iron.md)             |
+| Storm      | [Thunderstruck](../feature/trait/conduit/level-7/thunderstruck.md)                |
+| Sun        | [Light of the Burning Sun](../feature/trait/censor/level-7/light-of-the-burning-sun.md)     |
+| Trickery   | [Trinity of Trickery](../feature/ability/censor/level-7/trinity-of-trickery.md)          |
+| War        | [Your Triumphs Are Remembered](../feature/trait/censor/level-7/your-triumphs-are-remembered.md) |
 
 ### Blessing of Iron
 
@@ -2059,11 +2059,11 @@ When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 pi
 
 ### Font of Grace
 
-Each time you use your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -2102,17 +2102,17 @@ You have the following ability.
 > |--------------------|------------------------:|
 > | **📏 Ranged 10**   | **🎯 Self or one ally** |
 > 
-> **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+> **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability dies and you are not dying, you can use a free [triggered action](../level-1/triggered-action.md) to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability dies and you are not dying, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
 ### Word of Fate Denied
 
-When an ally within 10 squares takes damage that would leave them dying, you can use a free [triggered action](../level-1/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
+When an ally within 10 squares takes damage that would leave them dying, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
 
 ### Your Triumphs Are Remembered
 
@@ -2138,7 +2138,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 |--------------------|------------------------:|
 | **📏 Ranged 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../../../trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ### [Guided to Your Side](scc:mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side)
 
@@ -2158,7 +2158,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 |--------------------|------------------------:|
 | **📏 Ranged 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](feature/trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../feature/ability/conduit/level-7/feature/trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ## 8th-Level Features
 
@@ -2258,7 +2258,7 @@ You gain one perk of your choice.
 
 ### Faith's Sword
 
-Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
+Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../feature/trait/conduit/level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
 ### Ordained
 
@@ -2590,7 +2590,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 ### Avatar
 
-You are now an [avatar](avatar.md) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../level-1/domain-piety-and-effects.md)) without needing to pray.
+You are now an [avatar](../feature/trait/conduit/level-10/avatar.md) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../feature/trait/conduit/level-1/domain-piety-and-effects.md)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -2600,11 +2600,11 @@ Your Intuition score increases to 5. Additionally, you can increase one of your 
 
 ### Divine Power
 
-You have an epic resource called [divine power](divine-power.md). Each time you finish a respite, you gain [divine power](divine-power.md) equal to the XP you gain. You can spend [divine power](divine-power.md) on your abilities as if it were piety.
+You have an epic resource called [divine power](../feature/trait/conduit/level-10/divine-power.md). Each time you finish a respite, you gain [divine power](../feature/trait/conduit/level-10/divine-power.md) equal to the XP you gain. You can spend [divine power](../feature/trait/conduit/level-10/divine-power.md) on your abilities as if it were piety.
 
-Additionally, you can spend [divine power](divine-power.md) as if it were piety to use any [conduit](../../../../class/conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../../../class/conduit.md) ability you don't have that usually costs no piety, you must spend 1 [divine power](divine-power.md) to use it.
+Additionally, you can spend [divine power](../feature/trait/conduit/level-10/divine-power.md) as if it were piety to use any [conduit](conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](conduit.md) ability you don't have that usually costs no piety, you must spend 1 [divine power](../feature/trait/conduit/level-10/divine-power.md) to use it.
 
-[Divine power](divine-power.md) remains until you spend it.
+[Divine power](../feature/trait/conduit/level-10/divine-power.md) remains until you spend it.
 
 ### Most Pious
 

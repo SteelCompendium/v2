@@ -67,24 +67,24 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 ### 1st-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 1st-Level [Censor](../../../../class/censor.md) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
+You gain a domain feature from your domain, as shown on the 1st-Level [Censor](censor.md) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
 
 ###### 1st-Level Censor Domain Features Table
 
 | Domain                           | Feature                       | Skill Group   |
 |----------------------------------|-------------------------------|---------------|
-| Creation                         | [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
-| Death                            | [Grave Speech](../../../ability/censor/level-1/grave-speech.md)                  | Lore          |
-| Fate                             | [Oracular Visions](oracular-visions.md)              | Lore          |
-| Knowledge                        | [Blessing of Comprehension](blessing-of-comprehension.md)     | Lore          |
-| Life                             | [Revitalizing Ritual](revitalizing-ritual.md)           | Exploration   |
-| Love                             | [Blessing of Compassion](blessing-of-compassion.md)        | Interpersonal |
-| Nature                           | [Faithful Friend](../../../ability/censor/level-1/faithful-friend.md)               | Exploration   |
-| Protection                       | [Protective Circle](protective-circle.md)             | Exploration   |
-| Storm                            | [Blessing of Fortunate Weather](blessing-of-fortunate-weather.md) | Exploration   |
-| Sun                              | [Inner Light](inner-light.md)                   | Lore          |
-| Trickery                         | [Inspired Deception](inspired-deception.md)            | Intrigue      |
-| War                              | [Sanctified Weapon](sanctified-weapon.md)             | Exploration   |
+| Creation                         | [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
+| Death                            | [Grave Speech](../feature/ability/censor/level-1/grave-speech.md)                  | Lore          |
+| Fate                             | [Oracular Visions](../feature/trait/censor/level-1/oracular-visions.md)              | Lore          |
+| Knowledge                        | [Blessing of Comprehension](../feature/trait/censor/level-1/blessing-of-comprehension.md)     | Lore          |
+| Life                             | [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md)           | Exploration   |
+| Love                             | [Blessing of Compassion](../feature/trait/censor/level-1/blessing-of-compassion.md)        | Interpersonal |
+| Nature                           | [Faithful Friend](../feature/ability/censor/level-1/faithful-friend.md)               | Exploration   |
+| Protection                       | [Protective Circle](../feature/trait/censor/level-1/protective-circle.md)             | Exploration   |
+| Storm                            | [Blessing of Fortunate Weather](../feature/trait/censor/level-1/blessing-of-fortunate-weather.md) | Exploration   |
+| Sun                              | [Inner Light](../feature/trait/censor/level-1/inner-light.md)                   | Lore          |
+| Trickery                         | [Inspired Deception](../feature/trait/censor/level-1/inspired-deception.md)            | Intrigue      |
+| War                              | [Sanctified Weapon](../feature/trait/censor/level-1/sanctified-weapon.md)             | Exploration   |
 
 ### Blessing of Compassion
 
@@ -94,7 +94,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 ### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)).
 
 ### Blessing of Fortunate Weather
 
@@ -112,17 +112,17 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 ### Censor Order
 
-[Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../../../class/censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
 
-Your [censor](../../../../class/censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor](censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../../../chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
 
@@ -173,7 +173,7 @@ You have the following ability.
 
 ### Inner Light
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../../../ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
 ### Inspired Deception
 
@@ -181,7 +181,7 @@ The gods favor your thievery with magic. Whenever you make a test that uses a sk
 
 ### Judgment
 
-You pick out the enemies most worthy of your wrath and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
+You pick out the enemies most worthy of your wrath and place a divine [judgment](../feature/ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
 
 ##### Judgment
 
@@ -192,7 +192,7 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 > |-------------------|-----------------:|
 > | **📏 Ranged 10**  | **🎯 One enemy** |
 > 
-> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../class/censor.md) judges the target.
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](censor.md) judges the target.
 > 
 > Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 > 
@@ -209,7 +209,7 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 ### Judgment Order Benefit
 
-The first time on a turn that you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a turn that you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
@@ -217,7 +217,7 @@ The first time on a turn that you use your [Judgment](../../../ability/censor/le
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../../../../kit/warrior-priest.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../kit/warrior-priest.md).)
 
 ### My Life for Yours
 
@@ -244,7 +244,7 @@ Your deity rewards you with hazy visions of things to come. Each time you earn 1
 
 ### Protective Circle
 
-You can spend 10 uninterrupted minutes to create a [protective circle](protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](protective-circle.md), a creature can't be targeted by strikes.
+You can spend 10 uninterrupted minutes to create a [protective circle](../feature/trait/censor/level-1/protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../feature/trait/censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
 
 ### Revitalizing Ritual
 
@@ -256,13 +256,13 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 ### Wrath
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../../../class/censor.md) those your church deems to be heretics.
+The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](../../../ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each combat round that a creature judged by you (see [Judgment](../feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
 
 You lose any remaining wrath at the end of the encounter.
 
@@ -270,7 +270,7 @@ You lose any remaining wrath at the end of the encounter.
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](../../../../class/censor.md), but they might appear in future products.)
+When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren't part of the core rules for the [censor](censor.md), but they might appear in future products.)
 
 ## 1st-Level Abilities
 
@@ -338,7 +338,7 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 ### Censored
 
-*Judged and [sentenced](../level-2/sentenced.md).*
+*Judged and [sentenced](../feature/ability/censor/level-2/sentenced.md).*
 
 | **Melee, Strike, Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
@@ -436,7 +436,7 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 |-------------------|-----------------:|
 | **📏 Ranged 10**  | **🎯 One enemy** |
 
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../class/censor.md) judges the target.
+**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](censor.md) judges the target.
 
 Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 
@@ -541,11 +541,11 @@ You can choose only one free triggered action option at a time, even if multiple
 - **12-16:** 9 + M holy damage; grabbed
 - **17+:** 13 + M holy damage; grabbed
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](feature/trait/censor/level-1/wrath.md) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 [wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md) to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 ### [Censored](scc:mcdm.heroes.v1/feature.ability.censor.level-1/censored) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
-*Judged and [sentenced](feature/ability/censor/level-2/sentenced.md).*
+*Judged and [sentenced](../feature/ability/censor/level-1/feature/ability/censor/level-2/sentenced.md).*
 
 | **Melee, Strike, Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
@@ -613,13 +613,13 @@ You can choose only one free triggered action option at a time, even if multiple
 |-------------------|-----------------:|
 | **📏 Ranged 10**  | **🎯 One enemy** |
 
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](class/censor.md) judges the target.
+**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../feature/ability/censor/level-1/class/censor.md) judges the target.
 
 Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 
 When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 
-Additionally, you can spend 1 [wrath](feature/trait/censor/level-1/wrath.md) to take one of the following free triggered actions:
+Additionally, you can spend 1 [wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md) to take one of the following free triggered actions:
 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
@@ -640,7 +640,7 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 
-**Spend 1 [Wrath](feature/trait/censor/level-1/wrath.md):** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+**Spend 1 [Wrath](../feature/ability/censor/level-1/feature/trait/censor/level-1/wrath.md):** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
 ### [Purifying Fire](scc:mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
@@ -678,15 +678,15 @@ You can choose only one free triggered action option at a time, even if multiple
 
 ### 2nd-Level Order Features
 
-Your [censor](../../../../class/censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor](censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
 | Order                    | Features                             |
 |--------------------------|--------------------------------------|
-| Exorcist                 | Saint's Vigilance, [A Sense for Truth](a-sense-for-truth.md) |
-| Oracle                   | [It Was Foretold](it-was-foretold.md), [Judge of Character](judge-of-character.md)  |
-| Paragon                  | [Lead by Example](lead-by-example.md), [Stalwart Icon](stalwart-icon.md)       |
+| Exorcist                 | Saint's Vigilance, [A Sense for Truth](../feature/trait/censor/level-2/a-sense-for-truth.md) |
+| Oracle                   | [It Was Foretold](../feature/trait/censor/level-2/it-was-foretold.md), [Judge of Character](../feature/trait/censor/level-2/judge-of-character.md)  |
+| Paragon                  | [Lead by Example](../feature/trait/censor/level-2/lead-by-example.md), [Stalwart Icon](../feature/trait/censor/level-2/stalwart-icon.md)       |
 
 ### A Sense for Truth
 
@@ -706,11 +706,11 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
 
 ### Saint's Vigilance
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../../ability/censor/level-1/judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action.
 
 ### Stalwart Icon
 
@@ -758,13 +758,13 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### Revelator
 
-*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../level-1/judgment.md).*
+*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../feature/ability/censor/level-1/judgment.md).*
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
 | **📏 3 burst**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free triggered action.
+**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
 
 ### Sentenced
 
@@ -832,13 +832,13 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### [Revelator](scc:mcdm.heroes.v1/feature.ability.censor.level-2/revelator) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
-*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](feature/ability/censor/level-1/judgment.md).*
+*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../feature/ability/censor/level-2/feature/ability/censor/level-1/judgment.md).*
 
 | **Area, Magic** |                  **Maneuver** |
 |-----------------|------------------------------:|
 | **📏 3 burst**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](feature/ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
+**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../feature/ability/censor/level-2/feature/ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
 
 ### [Sentenced](scc:mcdm.heroes.v1/feature.ability.censor.level-2/sentenced) (5 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
@@ -870,7 +870,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### Look On My Work and Despair
 
-Your [judgment](../../../ability/censor/level-1/judgment.md) has grown in [divine power](../../conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../../../ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
+Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/trait/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
 
 ## 3rd-Level Abilities
 
@@ -958,28 +958,28 @@ Your [judgment](../../../ability/censor/level-1/judgment.md) has grown in [divin
 
 ### 4th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 4th-Level [Censor](../../../../class/censor.md) Domain Features table.
+You gain a domain feature from your domain, as shown on the 4th-Level [Censor](censor.md) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table
 
 | Domain                           | Feature                     |
 |----------------------------------|-----------------------------|
-| Creation                         | [Improved Hands of the Maker](improved-hands-of-the-maker.md) |
-| Death                            | [Seance](seance.md)                      |
-| Fate                             | [Oracular Warning](oracular-warning.md)            |
+| Creation                         | [Improved Hands of the Maker](../feature/trait/censor/level-4/improved-hands-of-the-maker.md) |
+| Death                            | [Seance](../feature/trait/censor/level-4/seance.md)                      |
+| Fate                             | [Oracular Warning](../feature/trait/censor/level-4/oracular-warning.md)            |
 | Knowledge                        | Saint's Epiphany            |
-| Life                             | [Blessing of Life](blessing-of-life.md)            |
-| Love                             | [Invocation of the Heart](invocation-of-the-heart.md)     |
-| Nature                           | [Wode Road](wode-road.md)                   |
-| Protection                       | [Impervious Touch](impervious-touch.md)            |
-| Storm                            | [Windwalk](windwalk.md)                    |
-| Sun                              | [Light of Revelation](light-of-revelation.md)         |
-| Trickery                         | [Blessing of Secrets](../../../ability/censor/level-4/blessing-of-secrets.md)         |
-| War                              | [Improved Sanctified Weapon](improved-sanctified-weapon.md)  |
+| Life                             | [Blessing of Life](../feature/trait/censor/level-4/blessing-of-life.md)            |
+| Love                             | [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md)     |
+| Nature                           | [Wode Road](../feature/trait/censor/level-4/wode-road.md)                   |
+| Protection                       | [Impervious Touch](../feature/trait/censor/level-4/impervious-touch.md)            |
+| Storm                            | [Windwalk](../feature/trait/censor/level-4/windwalk.md)                    |
+| Sun                              | [Light of Revelation](../feature/trait/censor/level-4/light-of-revelation.md)         |
+| Trickery                         | [Blessing of Secrets](../feature/ability/censor/level-4/blessing-of-secrets.md)         |
+| War                              | [Improved Sanctified Weapon](../feature/trait/censor/level-4/improved-sanctified-weapon.md)  |
 
 ### Blessing of Life
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
 
 ### Blessing of Secrets
 
@@ -1008,11 +1008,11 @@ Additionally, you can place this spell on a building or vehicle (or a similar st
 
 ### Improved Hands of the Maker
 
-When you use your [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.
 
 ### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](../feature/trait/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.
 
 ### Invocation of the Heart
 
@@ -1040,7 +1040,7 @@ You can commune with a network of spirits. As a respite activity, you speak the 
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/tests.md).
 
 ### Windwalk
 
@@ -1080,19 +1080,19 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 ### 5th-Level Order Feature
 
-Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor](censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
 | Order                    | Feature       |
 |--------------------------|---------------|
-| Exorcist                 | [Evil Revealed](evil-revealed.md) |
-| Oracle                   | [Prophecy](prophecy.md)      |
-| Paragon                  | [Stand Fast](stand-fast.md)!   |
+| Exorcist                 | [Evil Revealed](../feature/trait/censor/level-5/evil-revealed.md) |
+| Oracle                   | [Prophecy](../feature/trait/censor/level-5/prophecy.md)      |
+| Paragon                  | [Stand Fast](../feature/trait/censor/level-5/stand-fast.md)!   |
 
 ### Evil Revealed
 
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../../../ability/censor/level-1/judgment.md) ability against them as a free triggered action.
+Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action.
 
 ### Prophecy
 
@@ -1134,7 +1134,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 ### Righteous Judgment
 
-*You amplify the power of your [judgment](../level-1/judgment.md).*
+*You amplify the power of your [judgment](../feature/ability/censor/level-1/judgment.md).*
 
 | **Melee, Strike, Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|
@@ -1190,7 +1190,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 ### [Righteous Judgment](scc:mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
-*You amplify the power of your [judgment](feature/ability/censor/level-1/judgment.md).*
+*You amplify the power of your [judgment](../feature/ability/censor/level-5/feature/ability/censor/level-1/judgment.md).*
 
 | **Melee, Strike, Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|
@@ -1329,7 +1329,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### [Congregation](scc:mcdm.heroes.v1/feature.ability.censor.level-6/congregation) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
-*You focus your allies' [wrath](feature/trait/censor/level-1/wrath.md) on a chosen foe.*
+*You focus your allies' [wrath](../feature/ability/censor/level-6/feature/trait/censor/level-1/wrath.md) on a chosen foe.*
 
 | **Melee, Strike, Weapon** |   **Main action** |
 |---------------------------|------------------:|
@@ -1381,24 +1381,24 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### 7th-Level Domain Feature
 
-You gain a domain feature from your domain, as shown on the 7th-Level [Censor](../../../../class/censor.md) Domain Features table.
+You gain a domain feature from your domain, as shown on the 7th-Level [Censor](censor.md) Domain Features table.
 
 ###### 7th-Level Censor Domain Features Table
 
 | Domain     | Feature                      |
 |------------|------------------------------|
-| Creation   | [Divine Quartermaster](divine-quartermaster.md)         |
-| Death      | [Word of Death Deferred](word-of-death-deferred.md)       |
-| Fate       | [Word of Fate Denied](word-of-fate-denied.md)          |
+| Creation   | [Divine Quartermaster](../feature/trait/censor/level-7/divine-quartermaster.md)         |
+| Death      | [Word of Death Deferred](../feature/trait/censor/level-7/word-of-death-deferred.md)       |
+| Fate       | [Word of Fate Denied](../feature/trait/censor/level-7/word-of-fate-denied.md)          |
 | Knowledge  | Gods' Library                |
-| Life       | [Font of Grace](font-of-grace.md)                |
-| Love       | [Covenant of the Heart](covenant-of-the-heart.md)        |
+| Life       | [Font of Grace](../feature/trait/censor/level-7/font-of-grace.md)                |
+| Love       | [Covenant of the Heart](../feature/trait/censor/level-7/covenant-of-the-heart.md)        |
 | Nature     | Nature's Bounty              |
-| Protection | [Blessing of Iron](blessing-of-iron.md)             |
-| Storm      | [Ride the Lightning](ride-the-lightning.md)           |
-| Sun        | [Light of the Burning Sun](light-of-the-burning-sun.md)     |
-| Trickery   | [Trinity of Trickery](../../../ability/censor/level-7/trinity-of-trickery.md)          |
-| War        | [Your Triumphs Are Remembered](your-triumphs-are-remembered.md) |
+| Protection | [Blessing of Iron](../feature/trait/censor/level-7/blessing-of-iron.md)             |
+| Storm      | [Ride the Lightning](../feature/trait/censor/level-7/ride-the-lightning.md)           |
+| Sun        | [Light of the Burning Sun](../feature/trait/censor/level-7/light-of-the-burning-sun.md)     |
+| Trickery   | [Trinity of Trickery](../feature/ability/censor/level-7/trinity-of-trickery.md)          |
+| War        | [Your Triumphs Are Remembered](../feature/trait/censor/level-7/your-triumphs-are-remembered.md) |
 
 ### Blessing of Iron
 
@@ -1410,7 +1410,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 ### Covenant of the Heart
 
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../level-4/invocation-of-the-heart.md) feature. Additionally, you have the following ability.
+You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. Additionally, you have the following ability.
 
 ###### Guided to Your Side
 
@@ -1421,7 +1421,7 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 > |-------------------|--------------------------:|
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 > 
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Divine Quartermaster
 
@@ -1433,11 +1433,11 @@ When you gain wrath at the start of each of your turns during combat, you gain 3
 
 ### Font of Grace
 
-Each time you use your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 temporary Stamina.
 
 ### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 ### Light of the Burning Sun
 
@@ -1457,7 +1457,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../level-4/windwalk.md) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../feature/trait/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../feature/trait/censor/level-4/windwalk.md) already grants you a bonus to speed, this bonus adds to that.
 
 ### Skill
 
@@ -1480,7 +1480,7 @@ You have the following ability.
 
 ### Word of Death Deferred
 
-You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../../../ability/censor/level-1/my-life-for-yours.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
@@ -1502,7 +1502,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 |-------------------|--------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Trinity of Trickery
 
@@ -1522,7 +1522,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 |-------------------|--------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/ability/censor/level-7/feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### [Trinity of Trickery](scc:mcdm.heroes.v1/feature.ability.censor.level-7/trinity-of-trickery) (9 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
@@ -1538,19 +1538,19 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### 8th-Level Order Feature
 
-Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor](censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
 | Order                    | Feature             |
 |--------------------------|---------------------|
-| Exorcist                 | [Demonologist](demonologist.md)        |
-| Oracle                   | [Their Past Revealed](their-past-revealed.md) |
+| Exorcist                 | [Demonologist](../feature/trait/censor/level-8/demonologist.md)        |
+| Oracle                   | [Their Past Revealed](../feature/trait/censor/level-8/their-past-revealed.md) |
 | Paragon                  | Vow                 |
 
 ### Demonologist
 
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../../../../ancestry/devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../../../ability/censor/level-1/judgment.md) ability against them as a free triggered action before an encounter begins.
+The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, [devils](../ancestry/devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action before an encounter begins.
 
 ### Perk
 
@@ -1682,7 +1682,7 @@ Your words take on the power of your deity, with all the authority that entails.
 
 ### Improved Implement of Wrath
 
-The weapon you target with your [Implement of Wrath](../level-6/implement-of-wrath.md) feature gains the following additional benefits:
+The weapon you target with your [Implement of Wrath](../feature/trait/censor/level-6/implement-of-wrath.md) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.
 - At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a saving throw against each effect on them that is ended by a saving throw.
@@ -1720,7 +1720,7 @@ The weapon you target with your [Implement of Wrath](../level-6/implement-of-wra
 - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 
-**Effect:** This ability gains an edge against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+**Effect:** This ability gains an edge against demons, [devils](../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 ### Blessing and a Curse
 
@@ -1802,7 +1802,7 @@ The weapon you target with your [Implement of Wrath](../level-6/implement-of-wra
 - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 
-**Effect:** This ability gains an edge against demons, [devils](ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+**Effect:** This ability gains an edge against demons, [devils](../feature/ability/censor/level-9/ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 ### [Blessing and a Curse](scc:mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse) (11 [Wrath](scc:mcdm.heroes.v1/feature.trait.censor.level-1/wrath))
 
@@ -1870,7 +1870,7 @@ You gain one skill of your choice.
 
 ### Templar
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability, you can use a free triggered action to use a [conduit](../../../../class/conduit.md) domain effect (see Domain Piety and Effects in the [Conduit](../../../../class/conduit.md) section) associated with your chosen domain, or a domain you access with [virtue](virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](../../../../class/conduit.md) level, use your [censor](../../../../class/censor.md) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can use a free triggered action to use a [conduit](conduit.md) domain effect (see Domain Piety and Effects in the [Conduit](conduit.md) section) associated with your chosen domain, or a domain you access with [virtue](../feature/trait/censor/level-10/virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](conduit.md) level, use your [censor](censor.md) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
@@ -1878,11 +1878,11 @@ While you rest in their presence, your god might also give you priority targets 
 
 ### Virtue
 
-You have an epic resource called [virtue](virtue.md). Each time you finish a respite, you gain [virtue](virtue.md) equal to the XP you gain. You can spend [virtue](virtue.md) on your abilities as if it were wrath.
+You have an epic resource called [virtue](../feature/trait/censor/level-10/virtue.md). Each time you finish a respite, you gain [virtue](../feature/trait/censor/level-10/virtue.md) equal to the XP you gain. You can spend [virtue](../feature/trait/censor/level-10/virtue.md) on your abilities as if it were wrath.
 
-Additionally, you can spend 3 [virtue](virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
+Additionally, you can spend 3 [virtue](../feature/trait/censor/level-10/virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another respite.
 
-[Virtue](virtue.md) remains until you spend it.
+[Virtue](../feature/trait/censor/level-10/virtue.md) remains until you spend it.
 
 ### Wrath of the Gods
 

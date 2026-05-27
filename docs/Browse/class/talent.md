@@ -63,15 +63,15 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### 1st-Level Tradition Features
 
-Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent](talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
 | Tradition   | Features                         |
 |-------------|----------------------------------|
-| Chronopathy | [Accelerate](../../../ability/talent/level-1/accelerate.md), Again                |
-| Telekinesis | [Minor Telekinesis](../../../ability/talent/level-1/minor-telekinesis.md), [Repel](../../../ability/talent/level-1/repel.md)         |
-| Telepathy   | [Feedback Loop](../../../ability/talent/level-1/feedback-loop.md), [Remote Assistance](../../../ability/talent/level-1/remote-assistance.md) |
+| Chronopathy | [Accelerate](../feature/ability/talent/level-1/accelerate.md), Again                |
+| Telekinesis | [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), [Repel](../feature/ability/talent/level-1/repel.md)         |
+| Telepathy   | [Feedback Loop](../feature/ability/talent/level-1/feedback-loop.md), [Remote Assistance](../feature/ability/talent/level-1/remote-assistance.md) |
 
 ### Accelerate
 
@@ -135,7 +135,7 @@ Though you can't gain clarity outside of combat, you can use your heroic abiliti
 
 Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../../../ability/talent/level-1/minor-telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
 
 ### Density Augmentation
 
@@ -212,7 +212,7 @@ You have the following ability.
 
 ### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](../../../../class/talent.md) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../../null/level-1/force-augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](talent.md) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../feature/trait/null/level-1/force-augmentation.md).)
 
 ### Remote Assistance
 
@@ -263,7 +263,7 @@ Your ward reacts to danger, protecting you from future harm. Whenever you take d
 
 ### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](../../../../class/talent.md) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](talent.md) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -274,15 +274,15 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../../class/talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../class/talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](../../../../class/talent.md) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](talent.md) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 ### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../../null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](repulsive-ward.md).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../feature/trait/null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../feature/trait/talent/level-1/repulsive-ward.md).)
 
 ### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../../../../chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 ### Vanishing Ward
 
@@ -713,7 +713,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### [Flashback](scc:mcdm.heroes.v1/feature.ability.talent.level-1/flashback)
 
-*The target is thrown several seconds back through time and gets to do it all [again](feature/ability/talent/level-1/again.md).*
+*The target is thrown several seconds back through time and gets to do it all [again](../feature/ability/talent/level-1/feature/ability/talent/level-1/again.md).*
 
 | **Chronopathy, Psionic, Ranged** |            **Maneuver** |
 |----------------------------------|------------------------:|
@@ -964,15 +964,15 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### 2nd-Level Tradition Feature
 
-Your [talent](../../../../class/talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent](talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
 | Tradition                    | Features        |
 |------------------------------|-----------------|
-| Chronopathy                  | [Ease the Hours](ease-the-hours.md)  |
-| Telekinesis                  | [Ease Their Fall](ease-their-fall.md) |
-| Telepathy                    | [Ease the Mind](ease-the-mind.md)   |
+| Chronopathy                  | [Ease the Hours](../feature/trait/talent/level-2/ease-the-hours.md)  |
+| Telekinesis                  | [Ease Their Fall](../feature/trait/talent/level-2/ease-their-fall.md) |
+| Telepathy                    | [Ease the Mind](../feature/trait/talent/level-2/ease-the-mind.md)   |
 
 ### Ease Their Fall
 
@@ -988,7 +988,7 @@ You gain an edge on tests made to stop combat and start a negotiation. Additiona
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../../../chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
 
 ## 2nd-Level Abilities
 
@@ -1200,7 +1200,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 ### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
 
 ## 3rd-Level Abilities
 
@@ -1220,7 +1220,7 @@ You can extend your psionic senses beyond their usual range. Once on each of you
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../../../ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 ### Force Orbs
 
@@ -1288,7 +1288,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../feature/ability/talent/level-3/ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
 ### [Force Orbs](scc:mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs)
 
@@ -1364,7 +1364,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/tests.md).
 
 ### Suspensor Field
 
@@ -1376,19 +1376,19 @@ If you are strained while flying and are force moved, the forced movement distan
 
 ### 5th-Level Tradition Features
 
-Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent](talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
 | Tradition   | Features                              |
 |-------------|---------------------------------------|
-| Chronopathy | [Distortion Temporal](distortion-temporal.md), [Speed of Thought](speed-of-thought.md) |
-| Telekinesis | [Kinetic Amplifier](kinetic-amplifier.md), [Triangulate](triangulate.md)        |
-| Telepathy   | [Compulsion](compulsion.md), [Remote Amplification](remote-amplification.md)      |
+| Chronopathy | [Distortion Temporal](../feature/trait/talent/level-5/distortion-temporal.md), [Speed of Thought](../feature/trait/talent/level-5/speed-of-thought.md) |
+| Telekinesis | [Kinetic Amplifier](../feature/trait/talent/level-5/kinetic-amplifier.md), [Triangulate](../feature/trait/talent/level-5/triangulate.md)        |
+| Telepathy   | [Compulsion](../feature/trait/talent/level-5/compulsion.md), [Remote Amplification](../feature/trait/talent/level-5/remote-amplification.md)      |
 
 ### Compulsion
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
 
 ### Distortion Temporal
 
@@ -1400,7 +1400,7 @@ Whenever you force move a creature, you can spend up to 2 surges. For each surge
 
 ### Remote Amplification
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
 
 ### Speed of Thought
 
@@ -1572,7 +1572,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 ### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../../null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/trait/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/trait/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ### Shared Power
 
@@ -1700,7 +1700,7 @@ Make a power roll that targets each enemy in the area.
 
 **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
 
-**Strained:** This ability gains the Strike keyword as the [vision](feature/trait/talent/level-10/vision.md) hurts the target's psyche. You make a power roll, then are weakened (save ends).
+**Strained:** This ability gains the Strike keyword as the [vision](../feature/ability/talent/level-6/feature/trait/talent/level-10/vision.md) hurts the target's psyche. You make a power roll, then are weakened (save ends).
 
 **Power Roll + Presence:**
 
@@ -1804,7 +1804,7 @@ Each time you finish a respite, you can choose a number of skills you have up to
 
 ### Cascading Strain
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../../../ability/talent/level-1/mind-spike.md) ability to take the same damage.
+Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability to take the same damage.
 
 ### Characteristic Increase
 
@@ -1822,15 +1822,15 @@ You gain one skill of your choice.
 
 ### 8th-Level Tradition Features
 
-Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent](talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
 | Tradition   | Features                          |
 |-------------|-----------------------------------|
-| Chronopathy | [Doubling the Hours](doubling-the-hours.md), [Stasis Shield](../../../ability/talent/level-8/stasis-shield.md) |
-| Telekinesis | [Levitation Field](../../../ability/talent/level-8/levitation-field.md), [Low Gravity](low-gravity.md)     |
-| Telepathy   | [Mindlink](mindlink.md), [Universal Connection](universal-connection.md)    |
+| Chronopathy | [Doubling the Hours](../feature/trait/talent/level-8/doubling-the-hours.md), [Stasis Shield](../feature/ability/talent/level-8/stasis-shield.md) |
+| Telekinesis | [Levitation Field](../feature/ability/talent/level-8/levitation-field.md), [Low Gravity](../feature/trait/talent/level-8/low-gravity.md)     |
+| Telepathy   | [Mindlink](../feature/trait/talent/level-8/mindlink.md), [Universal Connection](../feature/trait/talent/level-8/universal-connection.md)    |
 
 ### Doubling the Hours
 
@@ -1859,7 +1859,7 @@ Your mind can carry your body through tough times. You ignore difficult terrain 
 
 ### Mindlink
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
 ### Perk
 
@@ -1886,7 +1886,7 @@ You have the following ability.
 
 ### Universal Connection
 
-The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
 
 ## 8th-Level Abilities
 
@@ -1952,7 +1952,7 @@ The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature i
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
 
 ### Stasis Shield
 
@@ -1994,7 +1994,7 @@ The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature i
 - **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
 - **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
 
-**Effect:** This ability gains an edge against a target with a soul (see *Draw [Steel](feature/ability/talent/level-8/steel.md): Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
+**Effect:** This ability gains an edge against a target with a soul (see *Draw [Steel](../feature/ability/talent/level-8/feature/ability/talent/level-8/steel.md): Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 
 **Strained:** You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).
 
@@ -2042,7 +2042,7 @@ The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature i
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../feature/ability/talent/level-8/ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
 
 ### [Stasis Shield](scc:mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield)
 

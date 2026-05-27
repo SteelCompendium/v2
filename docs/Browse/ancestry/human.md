@@ -52,7 +52,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 ### Human Traits
 
-[Human](../../ancestry/human.md) heroes have access to the following traits.
+[Human](human.md) heroes have access to the following traits.
 
 #### Signature Trait: Detect the Supernatural
 
@@ -80,5 +80,5 @@ Your instinctive resilience protects you from injuries beyond the routine. Whene
 
 ##### Staying Power (2 Points)
 
-Your [human](../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+Your [human](human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
 

@@ -94,7 +94,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits
 
-[Wode elf](../../ancestry/wode-elf.md) heroes have access to the following traits.
+[Wode elf](wode-elf.md) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor
 

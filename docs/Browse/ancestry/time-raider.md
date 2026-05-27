@@ -104,7 +104,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits
 
-[Time raider](../../ancestry/time-raider.md) heroes have access to the following traits.
+[Time raider](time-raider.md) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar
 
@@ -112,7 +112,7 @@ Your mind is a formidable layer of defense. You have psychic immunity equal to y
 
 #### Purchased Time Raider Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../ability/common/psionic-bolt.md).)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../feature/ability/common/psionic-bolt.md).)
 
 ##### Beyondsight (1 Point)
 

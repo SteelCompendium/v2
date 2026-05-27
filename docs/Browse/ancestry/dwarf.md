@@ -114,13 +114,13 @@ John was grinning madly at Embers. She held up three fingers.
 
 ### Dwarf Traits
 
-[Dwarf](../../ancestry/dwarf.md) heroes have access to the following traits.
+[Dwarf](dwarf.md) heroes have access to the following traits.
 
 #### Signature Trait: Runic Carving
 
 You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
 
-**Detection:** Pick a specific type of creature (such as goblins or [humans](../../ancestry/human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
+**Detection:** Pick a specific type of creature (such as goblins or [humans](human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
 
 **Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
 

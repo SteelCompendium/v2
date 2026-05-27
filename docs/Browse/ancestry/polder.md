@@ -162,5 +162,5 @@ Staying light on your feet lets you quickly get back into position. Whenever you
 
 ### Polder Traits
 
-[Polder](../../ancestry/polder.md) heroes have access to the following traits.
+[Polder](polder.md) heroes have access to the following traits.
 

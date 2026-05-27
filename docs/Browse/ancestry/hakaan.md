@@ -108,7 +108,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Hakaan Traits
 
-[Hakaan](../../ancestry/hakaan.md) heroes have access to the following traits.
+[Hakaan](hakaan.md) heroes have access to the following traits.
 
 #### Signature Trait: Big!
 

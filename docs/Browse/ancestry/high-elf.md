@@ -82,7 +82,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits
 
-[High elf](../../ancestry/high-elf.md) heroes have access to the following traits.
+[High elf](high-elf.md) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor
 

@@ -100,7 +100,7 @@ John offered his hand. Revile shook it and then held it.
 
 ### Memonek Traits
 
-[Memonek](../../ancestry/memonek.md) heroes have access to the following traits.
+[Memonek](memonek.md) heroes have access to the following traits.
 
 #### Signature Trait: Fall Lightly
 
