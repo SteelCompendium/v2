@@ -276,7 +276,16 @@ th:empty {
 
 /* Delay preview tooltip appearance (no official config available) */
 .md-tooltip2--active[role="dialog"] {
-    transition: transform .4s cubic-bezier(0,1,.5,1) 1s, opacity .25s 1s, z-index 0ms;
+    transition: transform .4s cubic-bezier(0,1,.5,1) .75s, opacity .25s .75s, z-index 0ms;
+}
+[role="dialog"] > .md-tooltip2__inner {
+    pointer-events: none;
+}
+[role="dialog"].md-tooltip2--active > .md-tooltip2__inner {
+    animation: preview-enable-interaction 0ms .75s forwards;
+}
+@keyframes preview-enable-interaction {
+    to { pointer-events: auto; }
 }
 
 /* Browse index lists shouldnt be underlined */
