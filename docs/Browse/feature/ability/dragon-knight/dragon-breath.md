@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: dragon-knight
 distance: 3 cube within 1
 effect: You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 flavor: A furious exhalation of energy washes over your foes.

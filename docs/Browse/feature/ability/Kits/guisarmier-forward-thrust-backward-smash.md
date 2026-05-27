@@ -1,12 +1,12 @@
 ---
 action_type: Main action
-class: guisarmier
 distance: Melee 2
 flavor: In your hands, the haft is as good as the head.
 keywords:
     - Melee
     - Strike
     - Weapon
+kit: guisarmier
 name: Guisarmier (Forward Thrust, Backward Smash)
 scc: mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash
 subtype: signature

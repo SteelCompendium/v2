@@ -14,6 +14,5 @@
 - [Tactician](tactician/index.md)
 - [Talent](talent/index.md)
 - [Time Raider](time-raider/index.md)
-- [Treasures](treasure/index.md)
 - [Troubadour](troubadour/index.md)
 - [Wode Elf](wode-elf/index.md)

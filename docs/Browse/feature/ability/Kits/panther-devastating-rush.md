@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: panther
 distance: Melee 1
 effect: You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
 flavor: The faster you move, the harder you hit.
@@ -8,6 +7,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: panther
 name: Panther (Devastating Rush)
 scc: mcdm.heroes.v1/feature.ability.panther/devastating-rush
 subtype: signature

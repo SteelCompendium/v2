@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: shining-armor
 distance: Melee 1
 effect: The target is taunted until the end of their next turn.
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
@@ -8,6 +7,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: shining-armor
 name: Shining Armor (Protective Attack)
 scc: mcdm.heroes.v1/feature.ability.shining-armor/protective-attack
 subtype: signature

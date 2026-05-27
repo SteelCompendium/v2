@@ -607,7 +607,6 @@ window.__SCC_PERMALINK_MAP__ = {
   "Browse/feature/ability/time-raider/concussive-slam/": "scc/mcdm.heroes.v1/feature.ability.time-raider/concussive-slam/",
   "Browse/feature/ability/time-raider/minor-acceleration/": "scc/mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration/",
   "Browse/feature/ability/time-raider/psionic-bolt/": "scc/mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt/",
-  "Browse/feature/ability/treasure/dragons-fire/": "scc/mcdm.heroes.v1/feature.ability.treasure/dragons-fire/",
   "Browse/feature/ability/troubadour/level-1/acrobatics/": "scc/mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics/",
   "Browse/feature/ability/troubadour/level-1/artful-flourish/": "scc/mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish/",
   "Browse/feature/ability/troubadour/level-1/ballad-of-the-beast/": "scc/mcdm.heroes.v1/feature.ability.troubadour.level-1/ballad-of-the-beast/",

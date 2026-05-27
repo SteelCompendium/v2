@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: dragon-knight
 distance: 1 burst
 flavor: You let loose a mighty roar to shake your foes' spirits.
 keywords:

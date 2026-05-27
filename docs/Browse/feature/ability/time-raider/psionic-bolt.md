@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: time-raider
 distance: Ranged 10
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:

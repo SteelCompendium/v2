@@ -1,12 +1,12 @@
 ---
 action_type: Main action
-class: rapid-fire
 distance: Ranged 12
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
     - Ranged
     - Strike
     - Weapon
+kit: rapid-fire
 name: Rapid Fire (Two Shot)
 scc: mcdm.heroes.v1/feature.ability.rapid-fire/two-shot
 subtype: signature

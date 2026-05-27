@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: spellsword
 distance: Melee 1
 effect: A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
 flavor: Lightning jumps from your weapon as you strike to harm a nearby foe.
@@ -9,6 +8,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: spellsword
 name: Spellsword (Leaping Lightning)
 scc: mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning
 subtype: signature

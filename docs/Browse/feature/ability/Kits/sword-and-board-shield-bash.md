@@ -1,12 +1,12 @@
 ---
 action_type: Main action
-class: sword-and-board
 distance: Melee 1
 flavor: In your hands, a shield isn't just for protection.
 keywords:
     - Melee
     - Strike
     - Weapon
+kit: sword-and-board
 name: Sword And Board (Shield Bash)
 scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
 subtype: signature

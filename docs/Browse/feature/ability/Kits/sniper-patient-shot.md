@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: sniper
 distance: Ranged 15
 effect: If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
 flavor: Breathe... aim... wait... then strike!
@@ -8,6 +7,7 @@ keywords:
     - Ranged
     - Strike
     - Weapon
+kit: sniper
 name: Sniper (Patient Shot)
 scc: mcdm.heroes.v1/feature.ability.sniper/patient-shot
 subtype: signature

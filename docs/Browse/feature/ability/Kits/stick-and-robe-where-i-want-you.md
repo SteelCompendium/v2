@@ -1,12 +1,12 @@
 ---
 action_type: Main action
-class: stick-and-robe
 distance: Melee 2
 flavor: When your stick speaks, your enemy moves.
 keywords:
     - Melee
     - Strike
     - Weapon
+kit: stick-and-robe
 name: Stick And Robe (Where I Want You)
 scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
 subtype: signature

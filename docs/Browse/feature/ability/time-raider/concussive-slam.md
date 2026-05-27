@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: time-raider
 distance: Ranged 10
 flavor: You slam an invisible force down upon the target.
 keywords:

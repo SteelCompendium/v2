@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: dual-wielder
 distance: Melee 1
 effect: If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
 flavor: Why strike once when you could do it twice?
@@ -8,6 +7,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: dual-wielder
 name: Dual Wielder (Double Strike)
 scc: mcdm.heroes.v1/feature.ability.dual-wielder/double-strike
 subtype: signature

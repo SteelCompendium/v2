@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: wode-elf
 distance: Ranged 10
 flavor: Thorny vines erupt from every surface and attempt to bind your foe.
 keywords:

@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: warrior-priest
 distance: Melee 1
 effect: Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
 flavor: The impact of your weapon brands your target for destruction.
@@ -9,6 +8,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: warrior-priest
 name: Warrior Priest (Weakening Brand)
 scc: mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand
 subtype: signature

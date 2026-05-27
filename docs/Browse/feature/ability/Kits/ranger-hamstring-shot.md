@@ -1,12 +1,12 @@
 ---
 action_type: Main action
-class: ranger
 distance: Ranged 10
 flavor: A well-placed shot leaves your enemy struggling to move.
 keywords:
     - Ranged
     - Strike
     - Weapon
+kit: ranger
 name: Ranger (Hamstring Shot)
 scc: mcdm.heroes.v1/feature.ability.ranger/hamstring-shot
 subtype: signature

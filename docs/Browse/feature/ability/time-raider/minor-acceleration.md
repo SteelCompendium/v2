@@ -1,5 +1,6 @@
 ---
 action_type: Maneuver
+ancestry: time-raider
 distance: Melee 1
 effect: The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
 flavor: You fill yourself or an ally with a burst of speed.

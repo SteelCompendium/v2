@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: pugilist
 distance: Melee 1
 effect: You can shift into any square the target leaves after you slide them.
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
@@ -8,6 +7,7 @@ keywords:
     - Melee
     - Strike
     - Weapon
+kit: pugilist
 name: Pugilist (Let's Dance)
 scc: mcdm.heroes.v1/feature.ability.pugilist/lets-dance
 subtype: signature

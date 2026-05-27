@@ -1,5 +1,6 @@
 ---
 action_type: Main action
+ancestry: revenant
 distance: Ranged 10
 effect: The sigil disappears from the creature.
 flavor: A magic sigil you placed on a creature explodes with energy.

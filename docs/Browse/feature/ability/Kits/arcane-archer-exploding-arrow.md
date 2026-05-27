@@ -1,6 +1,5 @@
 ---
 action_type: Main action
-class: arcane-archer
 distance: Ranged 15
 effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
 flavor: Your ammunition explodes with magical energy.
@@ -9,6 +8,7 @@ keywords:
     - Ranged
     - Strike
     - Weapon
+kit: arcane-archer
 name: Arcane Archer (Exploding Arrow)
 scc: mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow
 subtype: signature

@@ -112,7 +112,7 @@ Your mind is a formidable layer of defense. You have psychic immunity equal to y
 
 #### Purchased Time Raider Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with Psionic Bolt.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../feature/ability/time-raider/psionic-bolt.md).)
 
 ##### Beyondsight (1 Point)
 
