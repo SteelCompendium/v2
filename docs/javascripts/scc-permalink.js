@@ -10,19 +10,28 @@
  * Pages opt in by emitting <meta name="scc-permalink" content="...">
  * (added by overrides/main.html when frontmatter contains an scc field).
  *
- * On instant navigation (mkdocs-material's navigation.instant), material calls
- * history.pushState() with the friendly URL at click time, then fetches and
- * swaps the DOM, then fires document$. Without intervention, the friendly URL
- * flashes in the address bar for the duration of the fetch+swap. To avoid
- * that, we monkey-patch pushState to immediately follow up with replaceState
- * to the SCC URL in the same synchronous task — the browser doesn't paint
- * between two synchronous history calls, so the friendly URL never appears.
+ * ## Strategy
  *
- * Because replaceState changes the URL that the browser uses to resolve
- * relative link hrefs (the SCC path has different depth than the friendly
- * path), we inject a <base href="..."> pointing at the friendly URL.
- * This keeps all relative links — content, sidebar, TOC — resolving
- * correctly while the address bar shows the SCC permalink.
+ * URL rewriting ONLY happens on full page loads (initial navigation, hard
+ * refresh, or direct SCC stub hit). The inline script in main.html runs
+ * synchronously during HTML parse — before Material loads — and calls
+ * replaceState + injects a <base> tag pointing at the friendly URL.
+ *
+ * During instant navigation (Material's navigation.instant), we do NOT
+ * rewrite the URL. The friendly Browse path stays in the address bar.
+ * This avoids a path-depth mismatch between location.href and the actual
+ * page location that would cause Material's DOM-swap logic to resolve
+ * relative stylesheet/script URLs against the wrong base (producing 404s
+ * for CSS, JS, and link targets).
+ *
+ * For back/forward navigation, the history stack may contain an SCC URL
+ * (from an earlier full-page rewrite). A capture-phase popstate handler
+ * converts it back to the friendly URL before Material's handler fires,
+ * so Material loads the correct page.
+ *
+ * A MutationObserver on <head> keeps the <base> tag alive on the initial
+ * page (where the URL was rewritten) in case Material's search overlay or
+ * other features manipulate head elements.
  *
  * The lookup uses window.__SCC_PERMALINK_MAP__, populated by scc-manifest.js
  * (generated at build time by steel-etl).
@@ -30,16 +39,14 @@
 (function () {
   "use strict";
 
-  // Determine the site root path (e.g. "/" locally, "/v2/" on prod) so the
-  // map lookup works regardless of deploy prefix. Material exposes this via
-  // the inline #__config block.
   function detectBasePath() {
     try {
       var cfg = document.getElementById("__config");
       if (cfg && cfg.textContent) {
         var data = JSON.parse(cfg.textContent);
         if (data && data.base) {
-          return new URL(data.base, location.href).pathname;
+          var resolveBase = document.baseURI || location.href;
+          return new URL(data.base, resolveBase).pathname;
         }
       }
     } catch (e) {}
@@ -47,6 +54,10 @@
   }
 
   var basePath = detectBasePath();
+
+  // The inline early-rewrite script sets this on the initial page load so
+  // we can maintain the <base> tag even if Material removes it.
+  var currentFriendlyPath = window.__SCC_FRIENDLY_PATH__ || null;
 
   function sccPathnameFor(pathname) {
     var map = window.__SCC_PERMALINK_MAP__;
@@ -57,10 +68,21 @@
     return scc ? basePath + scc : null;
   }
 
-  // Keep a <base> element pointing at the friendly URL so that relative links
-  // resolve correctly even after replaceState rewrites the address bar to the
-  // SCC permalink (which has a different directory depth).
+  function friendlyPathnameFor(sccPathname) {
+    var map = window.__SCC_PERMALINK_MAP__;
+    if (!map || !sccPathname) return null;
+    if (sccPathname.indexOf(basePath) !== 0) return null;
+    var sccKey = sccPathname.slice(basePath.length);
+    for (var friendly in map) {
+      if (map[friendly] === sccKey) {
+        return basePath + friendly;
+      }
+    }
+    return null;
+  }
+
   function setFriendlyBase(friendlyPathname) {
+    currentFriendlyPath = friendlyPathname;
     var base = document.querySelector("base[data-scc]");
     if (!base) {
       base = document.createElement("base");
@@ -71,74 +93,83 @@
   }
 
   function clearFriendlyBase() {
+    currentFriendlyPath = null;
     var base = document.querySelector("base[data-scc]");
     if (base) base.remove();
   }
 
-  // Monkey-patch pushState. Material calls pushState(null, "", friendlyURL)
-  // at click time; we issue a replaceState to the SCC URL in the same task.
-  var nativePush = history.pushState;
-  history.pushState = function (state, title, url) {
-    var result = nativePush.call(this, state, title, url);
-    if (url) {
-      try {
-        var target = new URL(url, location.href);
-        var sccPath = sccPathnameFor(target.pathname);
-        if (sccPath && sccPath !== target.pathname) {
-          setFriendlyBase(target.pathname);
-          history.replaceState(state, "", sccPath + target.search + target.hash);
-        } else {
-          clearFriendlyBase();
-        }
-      } catch (e) {
-        // URL constructor or replaceState can throw on cross-origin URLs.
-      }
-    }
-    return result;
-  };
+  // Keep the <base> tag alive on the initial page where the URL was
+  // rewritten. Material's search overlay and other features can trigger
+  // head element changes that remove our tag.
+  if (typeof MutationObserver !== "undefined") {
+    new MutationObserver(function () {
+      if (!currentFriendlyPath) return;
+      if (document.querySelector("base[data-scc]")) return;
+      var base = document.createElement("base");
+      base.setAttribute("data-scc", "");
+      base.href = currentFriendlyPath;
+      document.head.prepend(base);
+    }).observe(document.head, { childList: true });
+  }
 
-  // Fallback path: after material swaps the DOM, re-check the new page's
-  // meta tag. Covers (a) the initial page load (manifest unused there since
-  // overrides/main.html runs an inline early-rewrite), (b) any page added
-  // post-deploy that isn't in the manifest, and (c) cases where the patched
-  // pushState couldn't fire (manifest not yet loaded, lookup miss).
-  function applyPermalink() {
+  // Capture-phase popstate handler: when the user navigates back to a page
+  // whose history entry has an SCC URL (from a prior full-page rewrite),
+  // convert it to the friendly URL before Material's handler fires. This
+  // ensures Material fetches and renders the correct page.
+  window.addEventListener("popstate", function () {
+    var friendly = friendlyPathnameFor(location.pathname);
+    if (friendly) {
+      history.replaceState(history.state, "", friendly);
+      clearFriendlyBase();
+    }
+  }, true);
+
+  // After Material swaps the DOM (fires document$), handle cleanup:
+  // - If the URL was rewritten (initial page load), maintain the <base> tag.
+  // - If it wasn't rewritten (instant nav), clear any stale <base> tag.
+  function onPageReady() {
     var meta = document.querySelector('meta[name="scc-permalink"]');
     if (!meta) {
       clearFriendlyBase();
       return;
     }
+
     var permalink = meta.getAttribute("content");
     if (!permalink) return;
 
     var url;
     try {
-      url = new URL(permalink, location.href);
+      url = new URL(permalink, document.baseURI || location.href);
     } catch (e) {
       return;
     }
 
-    if (location.pathname === url.pathname) return;
-
-    setFriendlyBase(location.pathname);
-
-    var target = url.pathname + location.search + location.hash;
-    try {
-      history.replaceState(history.state, "", target);
-    } catch (e) {
-      // replaceState can throw if the target origin differs; ignore.
+    if (location.pathname === url.pathname) {
+      // URL already shows the SCC path (initial page load or reloaded SCC
+      // stub). Maintain the <base> tag so relative links resolve correctly.
+      if (currentFriendlyPath) {
+        setFriendlyBase(currentFriendlyPath);
+      }
+      return;
     }
+
+    // Instant nav: the friendly URL is in the address bar, which is correct
+    // for Material's relative URL resolution. Clear any stale <base> tag.
+    clearFriendlyBase();
   }
 
-  // MkDocs Material instant navigation: document$ fires per page load.
   if (typeof document$ !== "undefined") {
-    document$.subscribe(applyPermalink);
+    document$.subscribe(onPageReady);
   } else {
-    document.addEventListener("DOMContentLoaded", applyPermalink);
+    document.addEventListener("DOMContentLoaded", onPageReady);
   }
 
-  // Re-apply after anchor clicks (TOC permalinks, in-page jumps). If material's
-  // instant nav or any other handler restored the friendly path while updating
-  // the hash, this puts us back on the SCC permalink.
-  window.addEventListener("hashchange", applyPermalink);
+  window.addEventListener("hashchange", function () {
+    // Re-check after anchor navigation in case the hash change somehow
+    // altered the pathname (shouldn't happen, but defensive).
+    var meta = document.querySelector('meta[name="scc-permalink"]');
+    if (meta && currentFriendlyPath) {
+      setFriendlyBase(currentFriendlyPath);
+    }
+  });
 })();
