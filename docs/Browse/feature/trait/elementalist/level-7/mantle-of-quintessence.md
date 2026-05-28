@@ -10,4 +10,4 @@ type: trait
 
 Your [Mantle of Essence](../level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the [Handle Animals](../../../../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../../../../skill/handle-animals.md) skill have a double edge.

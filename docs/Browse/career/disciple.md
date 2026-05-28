@@ -4,7 +4,7 @@ perk: One supernatural perk (*Quick Build:* [Ritualist](scc:mcdm.heroes.v1/perk/
 project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:
-    - The Religion skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* Culture, Magic, Religion.)
+    - The [Religion](scc:mcdm.heroes.v1/skill/religion) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](scc:mcdm.heroes.v1/skill/culture), [Magic](scc:mcdm.heroes.v1/skill/magic), [Religion](scc:mcdm.heroes.v1/skill/religion).)
 type: career
 ---
 
@@ -19,7 +19,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 You gain the following career benefits:
 
-**Skills:** The Religion skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* Culture, Magic, Religion.)
+**Skills:** The [Religion](../skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../skill/culture.md), [Magic](../skill/magic.md), [Religion](../skill/religion.md).)
 
 **Project Points:** 240
 

@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: 5 x 2 line within 1
-effect: You teleport to a square on the opposite side of the area before making the power roll.
+effect: You [teleport](scc:mcdm.heroes.v1/movement/teleport) to a square on the opposite side of the area before making the power roll.
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
     - Area
@@ -29,7 +29,7 @@ type: ability
 |----------------------------------------|------------------------------:|
 | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
-**Effect:** You teleport to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
 
 **Power Roll + Reason:**
 
@@ -37,4 +37,4 @@ type: ability
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../condition/slowed.md) until the end of your turn and each target is [slowed](../../../../condition/slowed.md) until the end of their turn.

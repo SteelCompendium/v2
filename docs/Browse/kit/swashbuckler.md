@@ -43,4 +43,4 @@ You wear light armor and wield a medium weapon.
 - **12-16:** 7 + M or A damage; push 1
 - **17+:** 10 + M or A damage; push 2
 
-**Effect:** You can shift into any square the target leaves after you push them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you push them.

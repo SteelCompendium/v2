@@ -15,9 +15,9 @@ name: Unquenchable Fire
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire
 target: One enemy or object
-tier1: 13 + R fire damage; I < WEAK, dazed (save ends)
-tier2: 18 + R fire damage; I < AVERAGE, dazed (save ends)
-tier3: 25 + R fire damage; I < STRONG, dazed (save ends)
+tier1: 13 + R fire damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: 18 + R fire damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: 25 + R fire damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -31,8 +31,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-- **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+- **≤11:** 13 + R fire damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+- **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
 **Effect:** This damage ignores immunity.

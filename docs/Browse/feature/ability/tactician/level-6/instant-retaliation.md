@@ -14,9 +14,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 subtype: triggered
 target: One ally
-tier1: A < WEAK, dazed (save ends)
-tier2: A < AVERAGE, dazed (save ends)
-tier3: A < STRONG, dazed (save ends)
+tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---
@@ -35,6 +35,6 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** A < WEAK, dazed (save ends)
-- **12-16:** A < AVERAGE, dazed (save ends)
-- **17+:** A < STRONG, dazed (save ends)
+- **≤11:** A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+- **12-16:** A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+- **17+:** A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)

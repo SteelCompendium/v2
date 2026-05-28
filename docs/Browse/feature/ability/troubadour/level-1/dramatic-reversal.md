@@ -12,9 +12,9 @@ name: Dramatic Reversal
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal
 target: Self and each ally in the area
-tier1: The target can shift 1 square and make a free strike.
-tier2: The target can shift up to 2 squares and make a free strike that gains an edge.
-tier3: The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+tier1: The target can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square and make a free strike.
+tier2: The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and make a free strike that gains an edge.
+tier3: The target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **Power Roll + Presence:**
 
-- **≤11:** The target can shift 1 square and make a free strike.
-- **12-16:** The target can shift up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+- **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a free strike.
+- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
+- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.

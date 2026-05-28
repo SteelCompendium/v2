@@ -3,7 +3,7 @@ average_potency: Might − 1
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the Nature skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+    - 'You gain the [Nature](scc:mcdm.heroes.v1/skill/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 strong_potency: Might
 type: class
 weak_potency: Might − 2
@@ -39,7 +39,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the Nature skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ###### Fury Advancement Table
 
@@ -67,7 +67,7 @@ While you are in your bear form, your size is 2 and you gain a +1 bonus to dista
 
 ### Animal Form: Crow
 
-While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
+While you are in your crow form, your size is 1T and you can [fly](../movement/fly.md). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
 
 ### Animal Form: Rat
 
@@ -75,15 +75,15 @@ While you are in your rat form, your size is 1T and you can automatically climb 
 
 ### Animal Form: Wolf
 
-While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore difficult terrain.
+While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 ### Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature grabbed by you.
+Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../condition/grabbed.md) by you.
 
 ### Aspect Benefits
 
-You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.
+You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 ### Aspect Benefits
 
@@ -127,11 +127,11 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.m
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a creature prone, you gain 1 surge.                                                                                                                                   |
+| 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a creature prone, you gain 2 surges.                                                                                                                                  |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
 
 ### Growing Ferocity
 
@@ -141,10 +141,10 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.m
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                 |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                             |
+| 2               | Whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
+| 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 surge.                                                                                             |
 | 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 surges instead of 1.                                                                               |
 | 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver                                                     |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
@@ -156,10 +156,10 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.                                 |
-| 4               | The first time you shift on a turn, you gain 1 surge.                                                                                             |
+| 2               | Whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
+| 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 surge.                                                                                             |
 | 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
-| 8 (4th level)   | The first time you shift on a turn, you gain 2 surges instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 surges instead of 1.                                                                               |
 | 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                    |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
@@ -171,12 +171,12 @@ As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.m
 
 | Ferocity        | Benefit                                                                                                                                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | You can have up to two creatures grabbed at a time. Additionally, whenever you make a strike against a creature you have grabbed, you gain 1 surge.                                                                       |
+| 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 surge.                                                                       |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature grabbed, any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 ### Growing Ferocity
 
@@ -188,7 +188,7 @@ While you are in your hybrid form, your size is 2 and you gain a +1 bonus to dis
 
 ### Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../movement/fly.md).
 
 ### Hybrid Form: Rat
 
@@ -196,7 +196,7 @@ While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th 
 
 ### Hybrid Form: Wolf
 
-While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore difficult terrain. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
+While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
 
 ### Kit Bonuses
 
@@ -352,23 +352,23 @@ Some [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) benefit
 
 | Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Might score.                                                                                                                 |
+| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.                                                                                                                 |
 | 4               | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
 | 6               | You gain an edge on Might tests and the Knockback maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
 | 10 (7th level)  | You have a double edge on Might tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Might score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score. |
 
 ###### Reaver Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Agility score.                                                                                                                 |
+| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score.                                                                                                                 |
 | 4               | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
 | 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes forced movement on a target, the forced movement distance gains a bonus equal to your Agility score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
 
 ### Kit
 
@@ -382,15 +382,15 @@ You can't obtain lower than a tier 2 outcome on any Might test made to jump (see
 
 You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
-- **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
-- **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
-- **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
+- **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the [Lift](../skill/lift.md) skill.
+- **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the [Hide](../skill/hide.md) skill.
+- **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the [Track](../skill/track.md) skill.
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 ### Primordial Cunning
 
-You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
+You are never surprised. Additionally, whenever you would push a target with [forced movement](../movement/forced-movement.md), you can slide them instead.
 
 As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -402,7 +402,7 @@ As your ferocity grows, you gain benefits as noted on the Berserker [Growing Fer
 
 ### Relentless Hunter
 
-You gain an edge on tests made using the Track skill.
+You gain an edge on tests made using the [Track](../skill/track.md) skill.
 
 ## 1st-Level Abilities
 
@@ -430,9 +430,9 @@ You gain an edge on tests made using the Track skill.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; M < WEAK, bleeding and weakened (save ends)
-- **12-16:** 6 + M damage; M < AVERAGE, bleeding and weakened (save ends)
-- **17+:** 10 + M damage; M < STRONG, bleeding and weakened (save ends)
+- **≤11:** 4 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
+- **17+:** 10 + M damage; M < STRONG, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
@@ -476,9 +476,9 @@ You gain an edge on tests made using the Track skill.
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
-- **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+- **17+:** 7 + M damage; A < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** You can shift 1 square.
+**Effect:** You can [shift](../movement/shifting.md) 1 square.
 
 ### Impaled!
 
@@ -490,9 +490,9 @@ You gain an edge on tests made using the Track skill.
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M damage; M < WEAK, grabbed
-- **12-16:** 5 + M damage; M < AVERAGE, grabbed
-- **17+:** 7 + M damage; M < STRONG, grabbed
+- **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
+- **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
+- **17+:** 7 + M damage; M < STRONG, [grabbed](../condition/grabbed.md)
 
 ### Lines of Force
 
@@ -502,11 +502,11 @@ You gain an edge on tests made using the Track skill.
 |------------------|----------------------------:|
 | **📏 Melee 1**   | **🎯 Self or one creature** |
 
-**Trigger:** The target would be force moved.
+**Trigger:** The target would be [force moved](../movement/forced-movement.md).
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the forced movement, determine the new target's destination, and can push the target instead of using the original forced movement type. Additionally, the forced movement distance gains a bonus equal to your Might score.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the [forced movement](../movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../movement/forced-movement.md) type. Additionally, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
 
-**Spend 1 Ferocity:** The forced movement distance gains a bonus equal to twice your Might score instead.
+**Spend 1 Ferocity:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Might score instead.
 
 ### Make Peace With Your God!
 
@@ -548,7 +548,7 @@ You gain an edge on tests made using the Track skill.
 - **12-16:** 9 damage; push 4
 - **17+:** 13 damage; push 6
 
-**Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
 ### Tide of Death
 
@@ -558,7 +558,7 @@ You gain an edge on tests made using the Track skill.
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line, and enemy squares are not difficult terrain for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
+**Effect:** You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
 **Power Roll + Might:**
 
@@ -610,7 +610,7 @@ You gain an edge on tests made using the Track skill.
 
 **Trigger:** You take damage.
 
-**Effect:** You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.
+**Effect:** You take half the damage from the triggering effect and can [shift](../movement/shifting.md) up to a number of squares equal to your Agility score.
 
 **Spend 1 Ferocity:** If the damage has any potency effects associated with it, the potency is reduced by 1 for you.
 
@@ -624,11 +624,11 @@ You gain an edge on tests made using the Track skill.
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, bleeding (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, bleeding (save ends)
-- **17+:** 8 + M damage; M < STRONG, bleeding (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
-**Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
+**Effect:** While [bleeding](../condition/bleeding.md) this way, the target takes damage equal to your Might score at the end of each of your turns.
 
 ## 2nd-Level Features
 
@@ -646,7 +646,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 ### Inescapable Wrath
 
-You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
+You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 ### Perk
 
@@ -672,9 +672,9 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 
 **Power Roll + Might:**
 
-- **≤11:** 4 damage; I < WEAK, slowed (save ends)
-- **12-16:** 6 damage; I < AVERAGE, slowed (save ends)
-- **17+:** 10 damage; I < STRONG, slowed (save ends)
+- **≤11:** 4 damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 6 damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 10 damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
@@ -688,9 +688,9 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; P < WEAK, dazed and frightened (save ends)
-- **12-16:** 5 + M damage; P < AVERAGE, dazed and frightened (save ends)
-- **17+:** 8 + M damage; P < STRONG, dazed and frightened (save ends)
+- **≤11:** 3 + M damage; P < WEAK, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 5 + M damage; P < AVERAGE, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
+- **17+:** 8 + M damage; P < STRONG, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
 
 ### Phalanx-Breaker
 
@@ -700,13 +700,13 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You shift up to your speed and make one power roll that targets up to three enemies you move adjacent to during this shift.
+**Effect:** You [shift](../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../movement/shifting.md).
 
 **Power Roll + Might:**
 
-- **≤11:** 2 damage; A < WEAK, dazed (save ends)
-- **12-16:** 4 damage; A < AVERAGE, dazed (save ends)
-- **17+:** 6 damage; A < STRONG, dazed (save ends)
+- **≤11:** 2 damage; A < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 4 damage; A < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 6 damage; A < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ### Special Delivery
 
@@ -716,7 +716,7 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
 
 ### Visceral Roar
 
@@ -728,9 +728,9 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 
 **Power Roll + Might:**
 
-- **≤11:** 2 damage; push 1; M < WEAK, dazed (save ends)
-- **12-16:** 5 damage; push 2; M < AVERAGE, dazed (save ends)
-- **17+:** 7 damage; push 3; M < STRONG, dazed (save ends)
+- **≤11:** 2 damage; push 1; M < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 7 damage; push 3; M < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)).
 
@@ -742,7 +742,7 @@ Whenever you use the Charge main action, you can use a strike signature ability 
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../movement/difficult-terrain.md).
 
 Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
 
@@ -768,7 +768,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 ### Immovable Object
 
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
@@ -792,7 +792,7 @@ You have a double edge on tests made to search for hidden creatures, discern hid
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../condition/frightened.md) until the end of their turn.
 
 ### Face the Storm!
 
@@ -802,7 +802,7 @@ You have a double edge on tests made to search for hidden creatures, discern hid
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+**Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../condition/taunted.md) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
 ### Steelbreaker
 
@@ -870,7 +870,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 ### Bounder
 
-Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.
+Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
 
 ### Stormborn
 
@@ -878,7 +878,7 @@ You and each ally within 5 squares of you ignore negative effects from inclement
 
 ### Unfettered
 
-At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../condition/restrained.md) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
 ## 5th-Level Abilities
 
@@ -892,11 +892,11 @@ At the start of your turn, you can end any restrained condition on you. Addition
 
 **Power Roll + Might:**
 
-- **≤11:** 10 + M damage; M < WEAK, slowed (save ends)
-- **12-16:** 14 + M damage; M < AVERAGE, slowed (save ends)
-- **17+:** 20 + M damage; M < STRONG, slowed (save ends)
+- **≤11:** 10 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 14 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 20 + M damage; M < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** While slowed this way, the target takes 1 damage for every square they move, including from forced movement.
+**Effect:** While [slowed](../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../movement/forced-movement.md).
 
 ### My Turn!
 
@@ -930,7 +930,7 @@ At the start of your turn, you can end any restrained condition on you. Addition
 - **12-16:** 14 damage; push 5
 - **17+:** 19 damage; push 7
 
-**Effect:** When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object.
+**Effect:** When a target would end this [forced movement](../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 
 ### To Stone!
 
@@ -942,11 +942,11 @@ At the start of your turn, you can end any restrained condition on you. Addition
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; M < WEAK, slowed (save ends)
-- **12-16:** 13 + M damage; M < AVERAGE, slowed (save ends)
-- **17+:** 18 + M damage; M < STRONG, restrained (save ends)
+- **≤11:** 9 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 13 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 18 + M damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While the target is slowed this way, any other effect that would make the target slowed instead makes them restrained by this ability. Additionally, a creature who fails the saving throw while restrained this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](../condition/slowed.md) this way, any other effect that would make the target [slowed](../condition/slowed.md) instead makes them [restrained](../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ## 6th-Level Features
 
@@ -954,7 +954,7 @@ At the start of your turn, you can end any restrained condition on you. Addition
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are frightened of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
 
 ### Perk
 
@@ -962,7 +962,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 ### Primordial Portal
 
-As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to teleport yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to teleport back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../movement/teleport.md) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
@@ -1010,7 +1010,7 @@ As a main action, you can touch a magic source of elemental power and use it to 
 - **12-16:** 11 + M damage; push 5
 - **17+:** 16 + M damage; push 7
 
-**Effect:** When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.
+**Effect:** When the target ends this [forced movement](../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
 
 ### Pounce
 
@@ -1022,11 +1022,11 @@ As a main action, you can touch a magic source of elemental power and use it to 
 
 **Power Roll + Might:**
 
-- **≤11:** 8 damage; M < WEAK, grabbed
-- **12-16:** 13 damage; M < AVERAGE, grabbed
-- **17+:** 17 damage; M < STRONG, grabbed
+- **≤11:** 8 damage; M < WEAK, [grabbed](../condition/grabbed.md)
+- **12-16:** 13 damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
+- **17+:** 17 damage; M < STRONG, [grabbed](../condition/grabbed.md)
 
-**Effect:** You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+**Effect:** You can [shift](../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../condition/grabbed.md) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
 ### Riders on the Storm
 
@@ -1036,7 +1036,7 @@ As a main action, you can touch a magic source of elemental power and use it to 
 |-----------------|---------------------------------:|
 | **📏 3 aura**   | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.
+**Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../movement/fly.md) until the start of their next turn or until the effect ends.
 
 **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../feature/trait/fury/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
@@ -1048,15 +1048,15 @@ As a main action, you can touch a magic source of elemental power and use it to 
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You shift up to your speed.
+**Effect:** You [shift](../movement/shifting.md) up to your speed.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; P < WEAK, frightened (save ends)
-- **12-16:** 6 + M damage; P < AVERAGE, frightened (save ends)
-- **17+:** 10 + M damage; P < STRONG, frightened (save ends)
+- **≤11:** 4 + M damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 6 + M damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 10 + M damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-**Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are frightened of you (save ends).
+**Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
 
 ## 7th-Level Features
 
@@ -1098,7 +1098,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 ### A Step Ahead
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.
 
 ### Menagerie
 
@@ -1110,7 +1110,7 @@ You gain one perk of your choice.
 
 ### Strongest There Is
 
-Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Might score.
+Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
 
 ## 8th-Level Abilities
 
@@ -1158,7 +1158,7 @@ Your strength is unmatched. Whenever you make a Might test, you can roll three d
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You [shift](../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
 
 **Power Roll + Might:**
 
@@ -1188,7 +1188,7 @@ You can create a temporary source of elemental power as a respite activity. This
 - **12-16:** 10 damage; push 5
 - **17+:** 15 damage; push 7
 
-**Effect:** If this forced movement causes a target to be hurled through an object, that target takes an extra 10 damage.
+**Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 
 ### Death Rattle
 
@@ -1250,7 +1250,7 @@ You can create a temporary source of elemental power as a respite activity. This
 - **12-16:** 5 damage; vertical pull 5
 - **17+:** 8 damage; vertical pull 7
 
-**Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+**Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 
 ### Shower of Blood
 
@@ -1274,7 +1274,7 @@ You can create a temporary source of elemental power as a respite activity. This
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../feature/trait/fury/primordial-storm.md) feature (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)) increases to three times your Might score.
 
-When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are frightened of you (save ends).
+When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends).
 
 Additionally, when you use [Primordial Strike](../feature/trait/fury/level-4/primordial-strike.md), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 

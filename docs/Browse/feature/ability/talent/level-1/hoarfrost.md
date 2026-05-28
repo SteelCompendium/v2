@@ -14,9 +14,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 subtype: signature
 target: One creature
-tier1: 2 + R cold damage; M < WEAK, slowed (EoT)
-tier2: 4 + R cold damage; M < AVERAGE, slowed (EoT)
-tier3: 6 + R cold damage; M < STRONG, slowed (EoT)
+tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
 
-**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+**Strained:** You are [slowed](../../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.

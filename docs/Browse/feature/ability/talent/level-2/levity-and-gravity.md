@@ -14,9 +14,9 @@ name: Levity and Gravity
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity
 target: One creature or object
-tier1: 6 + R damage; M < WEAK, prone
-tier2: 10 + R damage; M < AVERAGE, prone
-tier3: 14 + R damage; M < STRONG, prone and can't stand (save ends)
+tier1: 6 + R damage; M < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 10 + R damage; M < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 14 + R damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R damage; M < WEAK, prone
-- **12-16:** 10 + R damage; M < AVERAGE, prone
-- **17+:** 14 + R damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 6 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
+- **12-16:** 10 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)
+- **17+:** 14 + R damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 
 **Strained:** You take half the damage the target takes.

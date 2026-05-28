@@ -16,7 +16,7 @@ scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth
 target: Each enemy in the area
 tier1: 3 damage
 tier2: 5 damage
-tier3: 8 damage; M < STRONG, prone
+tier3: 8 damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -32,6 +32,6 @@ type: ability
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
-- **17+:** 8 damage; M < STRONG, prone
+- **17+:** 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
 
 **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.

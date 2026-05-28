@@ -8,7 +8,7 @@ type: trait
 
 # 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](../../../../class/conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../../censor/level-1/revitalizing-ritual.md) and the [Heal](../../../../skill/heal.md) skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 

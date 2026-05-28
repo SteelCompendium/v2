@@ -26,10 +26,10 @@ type: title
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 7 damage; M < WEAK, prone and can't stand (save ends)
-> - **12-16:** 11 damage; M < AVERAGE, prone and can't stand (save ends)
-> - **17+:** 16 damage; M < STRONG, prone and can't stand (save ends)
+> - **≤11:** 7 damage; M < WEAK[, prone](../condition/prone.md) and can't stand (save ends)
+> - **12-16:** 11 damage; M < AVERAGE[, prone](../condition/prone.md) and can't stand (save ends)
+> - **17+:** 16 damage; M < STRONG[, prone](../condition/prone.md) and can't stand (save ends)
 >
 > **Special:** If the target is size 2 or larger, you gain an edge on this ability.
 
-- *Up the Beanstalk:* You have the Climb skill. If you already have this skill, you instead gain an edge on tests made using the Climb skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.

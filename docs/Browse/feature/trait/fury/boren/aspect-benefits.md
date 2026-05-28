@@ -8,4 +8,4 @@ type: trait
 
 # Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature grabbed by you.
+Whenever you use [forced movement](../../../../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../../../../condition/grabbed.md) by you.

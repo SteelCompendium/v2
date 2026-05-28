@@ -3,7 +3,7 @@ action_type: Maneuver
 class: shadow
 cost: 5 Insight
 distance: 3 cube within 10
-effect: This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+effect: This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores stability. Instead, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is reduced by a number equal to the target's Intuition score.
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
     - Area
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** Slide 5
 - **17+:** Slide 7
 
-**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+**Effect:** This [forced movement](../../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's Intuition score.

@@ -41,4 +41,4 @@ You wear medium armor and wield a shield and a medium weapon.
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG, prone
+- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../condition/prone.md)

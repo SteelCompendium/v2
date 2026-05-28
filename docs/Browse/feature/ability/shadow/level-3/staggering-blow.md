@@ -14,9 +14,9 @@ name: Staggering Blow
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow
 target: One creature
-tier1: 7 + A damage; M < WEAK, slowed (save ends)
-tier2: 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-tier3: 16 + A damage; M < STRONG, prone and can't stand (save ends)
+tier1: 7 + A damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 11 + A damage; M < AVERAGE, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
+tier3: 16 + A damage; M < STRONG, [prone and](scc:mcdm.heroes.v1/condition/prone) can't stand (save ends)
 type: ability
 ---
 
@@ -30,6 +30,6 @@ type: ability
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
-- **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+- **12-16:** 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
+- **17+:** 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)

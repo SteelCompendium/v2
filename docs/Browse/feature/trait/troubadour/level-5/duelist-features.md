@@ -27,4 +27,4 @@ You have the following performance ability, which is usable with your [Routines]
 > |------------------------------|--------------------------------------:|
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can shift equal to your Presence score until the end of their turn.
+> **Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can [shift](../../../../movement/shifting.md) equal to your Presence score until the end of their turn.

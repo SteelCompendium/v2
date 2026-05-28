@@ -27,7 +27,7 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
-> - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-> - If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - The creature dealing the damage can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Reason score.
+> - If you damage a creature marked by you with a melee ability, the creature is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.
 >
 > You can't gain more than one benefit from the same trigger.

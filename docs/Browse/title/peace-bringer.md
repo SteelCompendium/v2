@@ -15,6 +15,6 @@ type: title
 **Effect:** Your choice of your Reason or Presence increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Calm Heads Prevail:* When you make a test to stop combat and start a negotiation, you always obtain a tier 3 outcome.
-- *Drop Your Sword:* When you succeed on a test using the Intimidate skill, you can cause affected creatures to drop any items they are holding.
+- *Drop Your Sword:* When you succeed on a test using the [Intimidate](../skill/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
 - *Hear Me Out:* While you are present in a negotiation, an NPC's starting patience increases by 3 (to a maximum of 5).
 - *Many Paths to Peace:* When you make a test with a skill from the interpersonal skill group, you can use any characteristic of your choice for the test.

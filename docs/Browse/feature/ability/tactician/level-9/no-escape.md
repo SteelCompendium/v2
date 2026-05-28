@@ -37,4 +37,4 @@ type: ability
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.

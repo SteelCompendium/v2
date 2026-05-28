@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 9 Essence
 distance: Ranged 10
-effect: The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+effect: The target has a +3 bonus to speed, they can [fly](scc:mcdm.heroes.v1/movement/fly), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 flavor: They shine vibrantly, a beautiful diamond in the night sky.
 keywords:
     - Fire
@@ -26,6 +26,6 @@ type: ability
 |--------------------------------------|------------------------:|
 | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 bonus to speed, they can [fly](../../../../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 
 **Persistent 1:** The effect lasts until the start of your next turn.

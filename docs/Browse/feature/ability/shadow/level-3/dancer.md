@@ -3,7 +3,7 @@ action_type: Maneuver
 class: shadow
 cost: 7 Insight
 distance: Self
-effect: Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+effect: Until the end of the encounter, whenever an enemy moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 flavor: You enter a flow state that makes you nearly impossible to pin down.
 keywords:
     - '-'
@@ -22,4 +22,4 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.

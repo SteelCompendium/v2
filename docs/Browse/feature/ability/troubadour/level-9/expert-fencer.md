@@ -17,7 +17,7 @@ scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer
 target: One creature or object
 tier1: 15 + A damage
 tier2: 21 + A damage
-tier3: 28 + A damage; M < STRONG, bleeding (save ends)
+tier3: 28 + A damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
 type: ability
 ---
 
@@ -33,6 +33,6 @@ type: ability
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage
-- **17+:** 28 + A damage; M < STRONG, bleeding (save ends)
+- **17+:** 28 + A damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 
 **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.

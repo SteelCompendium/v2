@@ -15,9 +15,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch
 subtype: triggered
 target: One enemy
-tier1: R < WEAK, the target is frightened of the triggering ally (save ends)
-tier2: R < AVERAGE, the target is frightened of the triggering ally (save ends)
-tier3: R < STRONG, the target is frightened of the triggering ally (save ends)
+tier1: R < WEAK, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)
+tier2: R < AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)
+tier3: R < STRONG, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the triggering ally (save ends)
 trigger: The target deals damage to an ally.
 type: ability
 ---
@@ -36,6 +36,6 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
-- **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
-- **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
+- **≤11:** R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
+- **12-16:** R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
+- **17+:** R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)

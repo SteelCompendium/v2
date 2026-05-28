@@ -25,7 +25,7 @@ type: title
 > |-----------------|--------------------------------------------:|
 > | **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
 >
-> **Effect:** Each target who has P < AVERAGE is taunted by you until the end of their next turn, and you know the location of each creature taunted in this way.
+> **Effect:** Each target who has P < AVERAGE is [taunted](../condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../condition/taunted.md) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
 - *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.

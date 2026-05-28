@@ -1,5 +1,5 @@
 ---
-effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](scc:mcdm.heroes.v1/condition/frightened), [slowed](scc:mcdm.heroes.v1/condition/slowed), and [taunted](scc:mcdm.heroes.v1/condition/taunted) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 keywords:
     - Psionic
 name: 2nd-Echelon Consumables
@@ -25,7 +25,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), and [taunted](../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 
 ##### Bull Shot
 
@@ -41,7 +41,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and grabbed. While grabbed this way, the creature is bleeding. You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](../condition/grabbed.md). While [grabbed](../condition/grabbed.md) this way, the creature is [bleeding](../condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ##### Chocolate of Immovability
 
@@ -89,7 +89,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can fly and hover. Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](../movement/fly.md) and [hover](../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 
 ##### Purified Jelly
 

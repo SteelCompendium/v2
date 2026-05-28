@@ -43,4 +43,4 @@ You wear no armor and wield only your unarmed strikes.
 - **12-16:** 6 + M or A damage; slide 1
 - **17+:** 8 + M or A damage; slide 2
 
-**Effect:** You can shift into any square the target leaves after you slide them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you slide them.

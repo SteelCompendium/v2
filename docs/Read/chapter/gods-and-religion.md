@@ -178,7 +178,7 @@ A Sea of Suns, also known as the Composer.
 
 Credited with inventing harmony, it is said that after she discovered the power of blending many voices into one, the elves sang for an entire century uninterrupted1. The harmonics so complicated they created new beings like faeries, dryads, and the elgenwights.
 
-The Composer discovered, or invented, the power of music to manipulate reality. Her [troubadours](../../Browse/class/troubadour.md), it was said, could return the dead to life. "In the music, you can live forever." Legend has it she was at the battle of Kalas Valiar when the first Army of Night besieged its walls. When their corruption engines weakened the impenetrable walls, she stood alone on the parapets and sang. For forty days did her voice bolster the walls, stemming the flood of evil. Her song ended only when her life was taken by A Heart Trapped in Amber, the sorcerer-assassin of the star elves.
+The Composer discovered, or invented, the power of music to manipulate reality. Her [troubadours](../../Browse/class/troubadour.md), it was said, could return the dead to life. "In the music, you can live forever." Legend has it she was at the battle of Kalas Valiar when the first Army of Night besieged its walls. When their corruption engines [weakened](../../Browse/condition/weakened.md) the impenetrable walls, she stood alone on the parapets and sang. For forty days did her voice bolster the walls, stemming the flood of evil. Her song ended only when her life was taken by A Heart Trapped in Amber, the sorcerer-assassin of the star elves.
 
 _1. If this story wasn't invented by the [dwarves](../../Browse/ancestry/dwarf.md) or [humans](../../Browse/ancestry/human.md), it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."_
 
@@ -578,7 +578,7 @@ The people cried and prepared for death. Gryffyn saw this, and his heart felt li
 
 When the army of Cinis the Pale arrived, the people fled to the ravine, the path being easy as their carts and oxen had worn a clear road. Thinking they would throw themselves into the ravine rather than be eaten by the ghouls, they were astonished to discover... the miracle. A great stone bridge crossing the ravine. It had not existed three days prior, and all agreed it could not have taken less than a year to build.
 
-Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers bleeding, hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
+Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers [bleeding](../../Browse/condition/bleeding.md), hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
 
 Saint Gryffyn the Stout teaches that despair is the enemy of action. That unyielding endurance is the cure for impossible odds. That more than sword and spell, hard work is the savior of the people.
 
@@ -738,7 +738,7 @@ Her mother raced to her mother's corpse. And Eriarwen called out.
 
 Eriarwen did not scream or cry, nor call out for aid or even mercy. She did not call to Viras, nor any of her saints. She called out to Salorna the Summer Storm and demanded the Woodland Mistress act.
 
-Eriarwen felt a growing heat and joy in her heart, and, feeling like she could fly, she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
+Eriarwen felt a growing heat and joy in her heart, and, feeling like she could [fly](../movement/fly.md), she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
 
 But Eriarwen was just getting started. Returning to her grandmother's corpse, the swarm coalesced and Eriarwen emerged, a young woman again. But her hair was flame and lightning crackled where she walked.
 
@@ -898,7 +898,7 @@ Lady Magnetar flew across the void of space at lightning speed, evaporating prot
 
 She punched a hole right through the hullskin of the changeship and battled her way, deck by deck, toward the heart of the beast. Though a thousand protean soldiers stood in her way, none could touch her or slow her relentless progress.
 
-The [memonek](../../Browse/ancestry/memonek.md) officers and soldiers of UNISOL watched the bleeding changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
+The [memonek](../../Browse/ancestry/memonek.md) officers and soldiers of UNISOL watched the [bleeding](../../Browse/condition/bleeding.md) changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
 
 Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in the cause of light and life and order. She is invoked whenever a great sacrifice must be made. "Lady Magnetar, let my sacrifice not be in vain."
 
@@ -928,7 +928,7 @@ Though the rest of her captured clan believed the proteans had, for some reason,
 
 "You were prisoners, now you are our thralls. Obey and earn your freedom."
 
-The rest of her clan were unsure of their options, but Cho'kassa grabbed the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
+The rest of her clan were unsure of their options, but Cho'kassa [grabbed](../../Browse/condition/grabbed.md) the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
 
 With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The [time raiders](../../Browse/ancestry/time-raider.md) stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
 

@@ -24,6 +24,6 @@ type: ability
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../../condition/slowed.md) (save ends)

@@ -1,6 +1,6 @@
 ---
 benefit: You have the following heroic ability.
-drawback: Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.
+drawback: Whenever you become [bleeding](scc:mcdm.heroes.v1/condition/bleeding), [frightened](scc:mcdm.heroes.v1/condition/frightened), or [weakened](scc:mcdm.heroes.v1/condition/weakened), you must use Psychic Blast as a free triggered action.
 name: Psychic Eruption
 scc: mcdm.heroes.v1/complication/psychic-eruption
 type: complication
@@ -29,4 +29,4 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
 > - **17+:** 1 psychic damage for each Heroic Resource you spend
 
-**Drawback:** Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.
+**Drawback:** Whenever you become [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md), or [weakened](../condition/weakened.md), you must use Psychic Blast as a free triggered action.

@@ -3,7 +3,7 @@ average_potency: Intuition - 1
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Read Person, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* [Read Person](scc:mcdm.heroes.v1/skill/read-person), Religion.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition - 2
@@ -40,7 +40,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* Read Person, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
 
 ###### Conduit Advancement Table
 
@@ -64,7 +64,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 ### 1st-Level Domain Feature
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md) and the Heal skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/heal.md) skill from the Life domain.)
 
 ###### 1st-Level Conduit Domain Features Table
 
@@ -103,9 +103,9 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the [Endurance](../skill/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the [Track](../skill/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -148,7 +148,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they [are prone](../condition/prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
@@ -167,7 +167,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Storm Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../movement/forced-movement.md).
 - **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
@@ -177,7 +177,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or [Hide](../skill/hide.md) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ###### War Domain Piety and Effect
@@ -198,7 +198,7 @@ You have the following ability.
 > |-------------|-----------------:|
 > | **📏 Self** |      **🎯 Self** |
 > 
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ### Grave Speech
 
@@ -249,7 +249,7 @@ You have the following ability, which you can use once on your turn.
 > 
 > - You can target one additional ally within distance.
 > - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-> - A prone target can stand up.
+> - A [prone target](../condition/prone.md) can stand up.
 > - A target can spend 1 additional Recovery.
 
 ### Inner Light
@@ -306,7 +306,7 @@ If you have a kit, you can't take this blessing.
 
 ### Prayer of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
 
 ### Prayer of Steel
 
@@ -318,7 +318,7 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../featur
 
 ### Quickness Ward
 
-The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can shift up to a number of squares equal to your Intuition score after the damage is dealt.
+The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../movement/shifting.md) up to a number of squares equal to your Intuition score after the damage is dealt.
 
 ### Ray of Wrath
 
@@ -434,9 +434,9 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
+- **≤11:** 6 + I holy damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 13 + I holy damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
 
 ### Drain
 
@@ -478,7 +478,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 |-------------|-----------------:|
 | **📏 Self** |      **🎯 Self** |
 
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ### Font of Wrath
 
@@ -524,7 +524,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-- A prone target can stand up.
+- A [prone target](../condition/prone.md) can stand up.
 - A target can spend 1 additional Recovery.
 
 ### Holy Lash
@@ -551,9 +551,9 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Power Roll + Intuition:**
 
-- **≤11:** 3 + I holy damage; A < WEAK, prone
-- **12-16:** 6 + I holy damage; A < AVERAGE, prone
-- **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
+- **≤11:** 3 + I holy damage; A < WEAK[, prone](../condition/prone.md)
+- **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../condition/prone.md)
+- **17+:** 9 + I holy damage; A < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
 ### Lightfall
 
@@ -569,7 +569,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 - **12-16:** 3 holy damage
 - **17+:** 5 holy damage
 
-**Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+**Effect:** You can [teleport](../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
 ### Ray of Wrath
 
@@ -611,7 +611,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 |-----------------|-----------------------------:|
 | **📏 4 burst**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+**Effect:** Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../condition/prone.md).
 
 ### Staggering Curse
 
@@ -776,9 +776,9 @@ Your deity is aware of your growing influence, making it easier to draw their at
 
 **Power Roll + Intuition:**
 
-- **≤11:** 2 damage; A < WEAK, restrained (save ends)
-- **12-16:** 3 damage; A < AVERAGE, restrained (save ends)
-- **17+:** 7 damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 3 damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 7 damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
 ### Our Hearts Your Strength
 
@@ -878,11 +878,11 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 psychic damage; I < WEAK, frightened (save ends)
-- **12-16:** 9 psychic damage; I < AVERAGE, frightened (save ends)
-- **17+:** 13 psychic damage; I < STRONG, frightened (save ends)
+- **≤11:** 6 psychic damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 13 psychic damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-**Effect:** Each target is frightened of you or a creature you choose within distance.
+**Effect:** Each target is [frightened](../condition/frightened.md) of you or a creature you choose within distance.
 
 ### Saint's Raiment
 
@@ -993,11 +993,11 @@ At the start of a respite, you can inspire yourself or another creature taking t
 
 ###### Windwalk
 
-While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 bonus to speed while [flying](../movement/fly.md) instead.
 
 ###### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ###### Blessing of Secrets
 
@@ -1008,7 +1008,7 @@ As a main action, you touch a living tree and make it part of a divine transport
 > |-----------------|--------------------------------------:|
 > | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 > 
-> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+> **Effect:** Each creature in the area has a double edge on tests made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ### Blessed Domain
 
@@ -1036,7 +1036,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/t
 |-----------------|--------------------------------------:|
 | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double edge on tests made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ## 5th-Level Features
 
@@ -1072,9 +1072,9 @@ You gain the 4th-level domain feature for the domain whose feature you didn't se
 
 **Power Roll + Intuition:**
 
-- **≤11:** 4 corruption damage; I < WEAK, prone and can't stand (save ends)
-- **12-16:** 7 corruption damage; I < AVERAGE, prone and can't stand (save ends)
-- **17+:** 11 corruption damage; I < STRONG, prone and can't stand (save ends)
+- **≤11:** 4 corruption damage; I < WEAK, [prone and](../condition/prone.md) can't stand (save ends)
+- **12-16:** 7 corruption damage; I < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
+- **17+:** 11 corruption damage; I < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
 ### Sanctuary
 
@@ -1121,7 +1121,7 @@ You gain one crafting, lore, or supernatural perk of your choice.
 |------------------|---------------------------------:|
 | **📏 4 aura**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This forced movement ignores stability for your allies.
+**Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
 ### Blade of the Heavens
 
@@ -1133,9 +1133,9 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I damage; A < WEAK, prone and restrained (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, prone and restrained (save ends)
-- **17+:** 16 + I damage; A < STRONG, prone and restrained (save ends)
+- **≤11:** 8 + I damage; A < WEAK, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 12 + I damage; A < AVERAGE, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
+- **17+:** 16 + I damage; A < STRONG, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
 
 ### Blessing of the Midday Sun
 
@@ -1225,7 +1225,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 - **12-16:** 9 lightning damage; push 2
 - **17+:** 13 lightning damage; push 3
 
-**Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
 ### Revitalizing Grace
 
@@ -1235,7 +1235,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 |------------------|--------------------------------------:|
 | **📏 4 burst**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if prone.
+**Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../condition/prone.md).
 
 ### Spirit Stampede
 
@@ -1247,9 +1247,9 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Power Roll + Intuition:**
 
-- **≤11:** 5 damage; M < WEAK, prone and can't stand (save ends)
-- **12-16:** 8 damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 11 damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 5 damage; M < WEAK, [prone and](../condition/prone.md) can't stand (save ends)
+- **12-16:** 8 damage; M < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
+- **17+:** 11 damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
 ### Your Story Ends Here
 
@@ -1261,9 +1261,9 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Power Roll + Intuition:**
 
-- **≤11:** 9 + I corruption damage; R < WEAK, weakened (save ends)
-- **12-16:** 14 + I corruption damage; R < AVERAGE, weakened (save ends)
-- **17+:** 19 + I corruption damage; R < STRONG, weakened (save ends)
+- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 19 + I corruption damage; R < STRONG, [weakened](../condition/weakened.md) (save ends)
 
 **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.
 
@@ -1305,13 +1305,13 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 ###### Guided to Your Side
 
 > 
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 > 
 > | **Magic, Ranged**  |           **Main action** |
 > |--------------------|--------------------------:|
 > | **📏 Ranged 10**   | **🎯 Self and each ally** |
 > 
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Divine Quartermaster
 
@@ -1351,7 +1351,7 @@ You gain one skill of your choice.
 
 ### Thunderstruck
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Intuition score.
+Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
 
 ### Trinity of Trickery
 
@@ -1386,13 +1386,13 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### Guided to Your Side
 
-*You concentrate on a friend and teleport to them.*
+*You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 
 | **Magic, Ranged**  |           **Main action** |
 |--------------------|--------------------------:|
 | **📏 Ranged 10**   | **🎯 Self and each ally** |
 
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+**Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Trinity of Trickery
 
@@ -1424,7 +1424,7 @@ You gain one perk of your choice.
 |--------------------|------------------------:|
 | **📏 Ranged 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+**Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
 ### Blessing of Steel
 
@@ -1460,7 +1460,7 @@ You gain one perk of your choice.
 - **12-16:** 13 + I holy damage; slide 4
 - **17+:** 18 + I holy damage; slide 6
 
-**Effect:** Each ally the target comes adjacent to during the forced movement can spend a Recovery.
+**Effect:** Each ally the target comes adjacent to during the [forced movement](../movement/forced-movement.md) can spend a Recovery.
 
 ## 9th-Level Features
 
@@ -1502,7 +1502,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
+**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being [force moved](../movement/forced-movement.md) by any enemy. Targets can be [force moved](../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
 
 ### Divine Dragon
 
@@ -1512,7 +1512,7 @@ Your god elevates the power flowing through you. Your characteristic scores are 
 |--------------------|----------------:|
 | **📏 Ranged 10**   |  **🎯 Special** |
 
-**Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can fly, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+**Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can [fly](../movement/fly.md), stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
 
 On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 
@@ -1564,7 +1564,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 |--------------------|-------------------:|
 | **📏 Ranged 10**   | **🎯 Four allies** |
 
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone.
+**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md).
 
 ### Righteous Phalanx
 
@@ -1600,11 +1600,11 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Power Roll + Intuition:**
 
-- **≤11:** 10 + I damage; A < WEAK, restrained (save ends)
-- **12-16:** 15 + I damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 + I damage; A < STRONG, restrained (save ends)
+- **≤11:** 10 + I damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 15 + I damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 21 + I damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While restrained this way, the target takes 10 damage at the start of each of your turns.
+**Effect:** While [restrained](../condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
 
 ### Word of Final Redemption
 
@@ -1628,11 +1628,11 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Power Roll + Intuition:**
 
-- **≤11:** 10 + I corruption damage; A < WEAK, weakened (save ends)
-- **12-16:** 15 + I corruption damage; A < AVERAGE, weakened (save ends)
-- **17+:** 21 + I corruption damage; A < STRONG, weakened (save ends)
+- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 21 + I corruption damage; A < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** While weakened this way, the target has damage weakness 10.
+**Effect:** While [weakened](../condition/weakened.md) this way, the target has damage weakness 10.
 
 ## 10th-Level Features
 

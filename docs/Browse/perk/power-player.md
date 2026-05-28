@@ -6,4 +6,4 @@ type: perk
 
 # Power Player
 
-Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.
+Whenever you make a test that uses the [Brag](../skill/brag.md), [Flirt](../skill/flirt.md), or [Intimidate](../skill/intimidate.md) skills, you can use Might instead of any other characteristic the test calls for.

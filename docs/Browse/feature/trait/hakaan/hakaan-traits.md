@@ -31,11 +31,11 @@ Additionally, when your Stamina reaches the negative of your winded value and yo
 
 ##### Forceful (1 Point)
 
-Whenever you force move a creature or object, the forced movement distance gains a +1 bonus.
+Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) distance gains a +1 bonus.
 
 ##### Great Fortitude (2 Points)
 
-Your hearty constitution prevents you from losing strength. You can't be made weakened.
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](../../../condition/weakened.md).
 
 ##### Stand Tough (1 Point)
 

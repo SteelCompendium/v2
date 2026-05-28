@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 burst
-effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.
+effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and any ally who ends their turn in the area has cover.
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
     - Area
@@ -26,6 +26,6 @@ type: ability
 |-------------------------------------|----------------:|
 | **📏 4 burst**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has cover.
 
 **Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.

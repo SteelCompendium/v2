@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 5 Ferocity
 distance: 5 x 1 line within 1
-effect: The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+effect: The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 flavor: You unleash a howl that hurls your enemies back.
 keywords:
     - Area
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 9 damage; push 4
 - **17+:** 13 damage; push 6
 
-**Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.

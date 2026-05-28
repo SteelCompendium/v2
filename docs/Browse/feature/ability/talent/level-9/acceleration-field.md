@@ -14,9 +14,9 @@ name: Acceleration Field
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
 target: Three allies
-tier1: 4 corruption damage; slowed (save ends)
-tier2: 6 corruption damage; slowed (save ends)
-tier3: 10 corruption damage; slowed (save ends)
+tier1: 4 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 6 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 10 corruption damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -34,6 +34,6 @@ type: ability
 
 **Power Roll + Presence:**
 
-- **≤11:** 4 corruption damage; slowed (save ends)
-- **12-16:** 6 corruption damage; slowed (save ends)
-- **17+:** 10 corruption damage; slowed (save ends)
+- **≤11:** 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
+- **12-16:** 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
+- **17+:** 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)

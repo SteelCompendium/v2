@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 11 Drama
 distance: Melee 1 or ranged 10
-effect: Forced movement from this ability ignores stability.
+effect: '[Forced movement](scc:mcdm.heroes.v1/movement/forced-movement) from this ability ignores stability.'
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
     - Magic
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 16 + P sonic damage; push 10
 - **17+:** 22 + P sonic damage; push 15
 
-**Effect:** Forced movement from this ability ignores stability.
+**Effect:** [Forced movement](../../../../movement/forced-movement.md) from this ability ignores stability.

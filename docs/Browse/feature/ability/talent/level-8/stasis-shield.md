@@ -3,7 +3,7 @@ action_type: Triggered
 class: talent
 cost: 3 Clarity
 distance: Ranged 10
-effect: The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 flavor: You freeze time just long enough to bring the victim to safety!
 keywords:
     - Psionic
@@ -27,6 +27,6 @@ type: ability
 
 **Trigger:** The target takes damage.
 
-**Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 
 **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.

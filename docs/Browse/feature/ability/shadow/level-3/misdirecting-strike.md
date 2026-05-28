@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 7 Insight
 distance: Melee 1 or ranged 5
-effect: The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by a willing ally within 5 squares of you until the end of the target's next turn.
 flavor: '"Why are you looking at ME?!"'
 keywords:
     - Melee
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.

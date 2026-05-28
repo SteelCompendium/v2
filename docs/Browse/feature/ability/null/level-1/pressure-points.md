@@ -14,9 +14,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/pressure-points
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, weakened (save ends)
-tier2: 7 + A damage; A < AVERAGE, weakened (save ends)
-tier3: 9 + A damage; A < STRONG, weakened (save ends)
+tier1: 4 + A damage; A < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier2: 7 + A damage; A < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier3: 9 + A damage; A < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
 type: ability
 ---
 
@@ -30,6 +30,6 @@ type: ability
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-- **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-- **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+- **12-16:** 7 + A damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+- **17+:** 9 + A damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)

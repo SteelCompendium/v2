@@ -14,8 +14,8 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against prone creatures. Additionally, being prone doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller grabbed, you can use them as a weapon when you make a melee weapon free strike. Both the target and the grabbed enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone creature](../condition/prone.md)s. Additionally, being prone doesn't impose a bane on your strikes.
+- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../condition/grabbed.md), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../condition/grabbed.md) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
@@ -28,8 +28,8 @@ type: title
 >
 > **Power Roll + Might or Agility:**
 >
-> - **≤11:** 6 damage; I < WEAK, slowed (save ends)
-> - **12-16:** 10 damage; I < AVERAGE, frightened (save ends)
-> - **17+:** 14 damage; I < STRONG, dazed (save ends)
+> - **≤11:** 6 damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 10 damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 14 damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 >
-> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is frightened (save ends).
+> **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](../condition/frightened.md) (save ends).

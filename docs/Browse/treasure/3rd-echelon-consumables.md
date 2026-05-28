@@ -91,7 +91,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the bleeding condition. Once the potion's magic is triggered, it ends when you are no longer dying.
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
 
 ##### Timesplitter
 
@@ -109,9 +109,9 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** As a maneuver, you make a ranged free strike using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** The target and each creature within 3 squares of them a slowed (save ends).
-- **12-16:** The target and each creature within 5 squares of them is slowed (save ends).
-- **17+:** The target and each creature within 8 squares of them is slowed (save ends).
+- **≤11:** The target and each creature within 3 squares of them a [slowed](../condition/slowed.md) (save ends).
+- **12-16:** The target and each creature within 5 squares of them is [slowed](../condition/slowed.md) (save ends).
+- **17+:** The target and each creature within 8 squares of them is [slowed](../condition/slowed.md) (save ends).
 
 ##### Ward Token
 

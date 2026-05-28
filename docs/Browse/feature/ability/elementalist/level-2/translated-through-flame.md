@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+effect: The target is [teleport](scc:mcdm.heroes.v1/movement/teleport)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
@@ -29,7 +29,7 @@ type: ability
 |-------------------------------|------------------------:|
 | **📏 Ranged 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 
 **Power Roll + Reason:**
 

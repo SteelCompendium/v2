@@ -105,7 +105,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities devastate enemies and melt objects to slag.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of decay. Rot abilities harm and debuff enemies.
-- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../movement/teleport.md), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
@@ -126,7 +126,7 @@ If you have a kit, you can't take this [enchantment](../feature/trait/elementali
 
 ### Enchantment of Celerity
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
 
 ### Enchantment of Destruction
 
@@ -239,7 +239,7 @@ You have the following ability.
 > 
 > - You use the Knockback maneuver (see Chapter 10: [Combat](../chapter/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
 > - You choose a creature within the distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+> - You [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
 
 ### Return to Formlessness
 
@@ -390,15 +390,15 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 |--------------------------|------------------------:|
 | **📏 Ranged 10**         | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. 
+**Trigger:** The target [force move](../movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Effect:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
-**Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
+**Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
 
 ### Grasp of Beyond
 
-*You absorb the life energy of another creature and use it to teleport.*
+*You absorb the life energy of another creature and use it to [teleport](../movement/teleport.md).*
 
 | **Magic, Melee, Strike, Void** |     **Main action** |
 |--------------------------------|--------------------:|
@@ -410,7 +410,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can teleport up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score.
 
 ### Hurl Element
 
@@ -440,7 +440,7 @@ You use the magic of fire to create a ward of explosive energy. Whenever an adja
 
 **Power Roll + Reason:**
 
-- **≤11:** The target can shift 1 square from the edge of the hole to the nearest unoccupied space of their choice.
+- **≤11:** The target can [shift](../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
@@ -496,7 +496,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 |-------------------------|------------------------:|
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../movement/difficult-terrain.md), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -512,7 +512,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 - You use the Knockback maneuver (see Chapter 10: [Combat](../chapter/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
 - You choose a creature within the distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-- You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+- You [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
 
 ### Ray of Agonizing Self-Reflection
 
@@ -524,9 +524,9 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-- **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-- **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
+- **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 6 + R corruption damage; R < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 ### Return to Formlessness
 
@@ -550,7 +550,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
-- **17+:** 8 damage; M < STRONG, prone
+- **17+:** 8 damage; M < STRONG[, prone](../condition/prone.md)
 
 **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
@@ -586,11 +586,11 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 |--------------------------|------------------------:|
 | **📏 Ranged 10**         | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is force moved. 
+**Trigger:** The target starts their turn, moves, or is [force moved](../movement/forced-movement.md). 
 
-**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+**Effect:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../movement/teleport.md) them at any point during the move.
 
-**Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
 
 ### Test of Rain
 
@@ -654,7 +654,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The ground beneath the area is difficult terrain for enemies.
+**Effect:** The ground beneath the area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
 
 ### Viscous Fire
 
@@ -712,21 +712,21 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 | Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
 | Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
-| Bird                | 3rd   | 0                 | 5 (fly)       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
-| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is knocked prone, and you can<br>make a melee free strike against them (no action required).                                                       |
+| Bird                | 3rd   | 0                 | 5 ([fly](../movement/fly.md))       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
+| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee free strike against them (no action required).                                                       |
 | Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee free strike has a distance of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your speed. This<br>jump can allow you to move more squares than your speed.                                                              |
 | Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the Charge main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
-| Mohler              | 4th   | 0                 | 7 (burrow)    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
+| Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
 | Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Giant bird          | 5th   | 0                 | 7 (fly)       | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can shift up to 3 squares as a free<br>triggered action.                                                                                                                                                                                  |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee free strike, you can [shift](../movement/shifting.md) up to 3 squares as a free<br>triggered action.                                                                                                                                                                                  |
 | Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee free strike deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
 | Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden<br>from.                                                                                                                                                                                          |
-| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br>can automatically grab the target. While grabbed this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
-| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is dazed (save<br>ends). When you take the Advance move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
+| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee free strike, you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
+| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee free strike, the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the Advance move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
 | Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                             |
-| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are bleeding or winded.                                                                                                                              |
-| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee free strike, you can automatically grab the target. You can have up to<br>eight creatures grabbed. |
+| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../condition/bleeding.md) or winded.                                                                                                                              |
+| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee free strike. Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee free strike, you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
 | Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
 | King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
 
@@ -747,9 +747,9 @@ You have the following ability.
 > |-------------------------|---------------:|
 > | **📏 Ranged 10**        | **🎯 Special** |
 > 
-> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 > 
-> At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
+> At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
 ## 2nd-Level Abilities
 
@@ -764,7 +764,7 @@ You have the following ability.
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
 - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
-- The area is difficult terrain for enemies.
+- The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
 - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
 
 **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
@@ -793,9 +793,9 @@ You have the following ability.
 |-------------------------|---------------:|
 | **📏 Ranged 10**        | **🎯 Special** |
 
-**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
-At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
+At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
 ### Translated Through Flame
 
@@ -805,7 +805,7 @@ At the start of each of your turns while the portals are active, you can open a 
 |-------------------------------|------------------------:|
 | **📏 Ranged 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
 
 **Power Roll + Reason:**
 
@@ -823,9 +823,9 @@ At the start of each of your turns while the portals are active, you can open a 
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
-- **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
-- **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)
+- **≤11:** 5 + R fire damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 12 + R fire damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
 ## 3rd-Level Features
 
@@ -1038,11 +1038,11 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can teleport a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../movement/teleport.md) a number of squares equal to your Reason score.
 
 ### Smoldering Step
 
-You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to walk into an area of fire your size or larger and [teleport](../movement/teleport.md) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
@@ -1050,7 +1050,7 @@ Additionally, whenever you use a fire ability or are targeted by an ability that
 
 You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability is [force moved](../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
 
 ## 5th-Level Abilities
 
@@ -1084,7 +1084,7 @@ Additionally, whenever an ally within distance of your [Hurl Element](../feature
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The area lasts until the start of your next turn. It is difficult terrain for enemies, and you and your allies have concealment while in the area.
+**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
 
 **Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
 
@@ -1112,11 +1112,11 @@ Additionally, whenever an ally within distance of your [Hurl Element](../feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 3 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 5 corruption damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 corruption damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 5 corruption damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is restrained (save ends).
+**Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../condition/restrained.md) (save ends).
 
 **Persistent 1:** The area remains until the start of your next turn.
 
@@ -1133,7 +1133,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 - You create a mundane object of a size equal to your Reason score or smaller.
 - You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can't be detected by enemies.
 - You restore all Stamina to a mundane object of a size equal to your Reason score or smaller.
-- Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with difficult terrain or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
+- Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with [difficult terrain](../movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
 - You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
@@ -1147,7 +1147,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 |--------------------------------------|------------------------:|
 | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 bonus to speed, they can [fly](../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -1161,17 +1161,17 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 
-- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become restrained until the effect ends.
+- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their strikes deal extra fire damage equal to twice your Reason score.
-- When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
+- When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +2 bonus.
 - They can use their highest characteristic instead of Might for Might power rolls.
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.
 
 ### Meteor
 
-*You teleport the target into the air and let the ground and the elemental force of fire do the rest.*
+*You [teleport](../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
 
 | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
@@ -1179,11 +1179,11 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 **Power Roll + Reason:**
 
-- **≤11:** You teleport the target up to 4 squares.
-- **12-16:** You teleport the target up to 6 squares.
-- **17+:** You teleport the target up to 8 squares.
+- **≤11:** You [teleport](../movement/teleport.md) the target up to 4 squares.
+- **12-16:** You [teleport](../movement/teleport.md) the target up to 6 squares.
+- **17+:** You [teleport](../movement/teleport.md) the target up to 8 squares.
 
-**Effect:** If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.
+**Effect:** If the target is [teleport](../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../movement/difficult-terrain.md).
 
 ### The Wode Remembers and Returns
 
@@ -1193,7 +1193,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 |-------------------------------------|----------------:|
 | **📏 4 burst**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has cover.
 
 **Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.
 
@@ -1207,7 +1207,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 Your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the Handle Animals skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the Handle Animals skill have a double edge.
+Additionally, your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../skill/handle-animals.md) skill have a double edge.
 
 ### Skill
 
@@ -1234,7 +1234,7 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 
 ### Black Hole Star
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
 Additionally, your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
 
@@ -1262,12 +1262,12 @@ You have the following ability.
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
 >|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
->| **-**<br>Immunities | **Burrow**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
+>| **-**<br>Immunities | **[Burrow](../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 >|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 >
 >> **Earthwalk**
 >>
->> Difficult terrain composed of earth and stone doesn't cost the source extra movement.
+>> [Difficult terrain](../movement/difficult-terrain.md) composed of earth and stone doesn't cost the source extra movement.
 >
 >> **Tunneler**
 >>
@@ -1321,9 +1321,9 @@ Additionally, any enemy who starts their turn adjacent to you has fire weakness 
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be force moved. You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you are prone. Each ally within distance also gains this benefit.
+**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
 
-Each enemy who ends their turn within 3 squares of the tree is restrained until the end of their next turn. A creature restrained this way can use a main action to end the effect early.
+Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
 ### Muse of Fire
 
@@ -1349,7 +1349,7 @@ Each enemy who ends their turn within 3 squares of the tree is restrained until 
 |-------------------------------|----------------:|
 | **📏 Ranged 10**              |  **🎯 Special** |
 
-**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is knocked prone. At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 ### Summon Source of Earth
 
@@ -1375,11 +1375,11 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Power Roll + Reason:**
 
-- **≤11:** M < WEAK, prone
-- **12-16:** M < AVERAGE, prone
-- **17+:** M < STRONG, prone
+- **≤11:** M < WEAK[, prone](../condition/prone.md)
+- **12-16:** M < AVERAGE[, prone](../condition/prone.md)
+- **17+:** M < STRONG[, prone](../condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and size 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 
 ## 9th-Level Features
 
@@ -1415,7 +1415,7 @@ Additionally, when you have 5 or more Victories, choose one of the following dam
 |-----------------|----------------:|
 | **📏 Self**     |     **🎯 Self** |
 
-**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.
+**Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../movement/shifting.md) up to 2 squares between your use of each ability.
 
 ### The Green Defends Its Servants
 
@@ -1439,9 +1439,9 @@ Additionally, when you have 5 or more Victories, choose one of the following dam
 
 **Power Roll + Reason:**
 
-- **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
-- **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
+- **≤11:** 13 + R fire damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Effect:** This damage ignores immunity.
 
@@ -1479,11 +1479,11 @@ The number of Recoveries you have increases by 2, and each time you finish a res
 
 Additionally, as a respite activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a respite activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic consumables on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if prone. Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ### Master of Void
 
-Whenever you willingly move, you can teleport.
+Whenever you willingly move, you can [teleport](../movement/teleport.md).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 

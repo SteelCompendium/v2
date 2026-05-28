@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: Melee 2
-effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
 flavor: Your foe gets a glimpse of how it will end for them.
 keywords:
     - Chronopathy
@@ -28,9 +28,9 @@ type: ability
 |---------------------------------|-----------------:|
 | **📏 Melee 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
 
-**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are weakened (save ends).
+**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../../../../condition/weakened.md) (save ends).
 
 **Power Roll + Presence:**
 

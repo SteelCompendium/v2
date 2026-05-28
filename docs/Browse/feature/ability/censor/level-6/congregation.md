@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 9 Wrath
 distance: Melee 1
-effect: Each ally can shift up to 2 squares and gains 2 surges before making the strike.
+effect: Each ally can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and gains 2 surges before making the strike.
 flavor: You focus your allies' wrath on a chosen foe.
 keywords:
     - Melee
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
 - **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
 
-**Effect:** Each ally can shift up to 2 squares and gains 2 surges before making the strike.
+**Effect:** Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.

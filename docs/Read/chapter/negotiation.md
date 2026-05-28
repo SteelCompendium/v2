@@ -18,11 +18,11 @@ Negotiation is a framework for important roleplaying encounters in which the her
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
-Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
+Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the [Lie](../../Browse/skill/lie.md) skill or a Might test using [Intimidate](../../Browse/skill/intimidate.md) is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the [Flirt](../../Browse/skill/flirt.md) skill.
 
 By contrast, negotiations typically involve all the heroes interacting with one or more important named NPCs who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a retainer or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary *Codex Mortis*, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
 
-To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the Intimidate skill, but it's not a negotiating tactic.
+To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the [Intimidate](../../Browse/skill/intimidate.md) skill, but it's not a negotiating tactic.
 
 #### Limits of Negotiation
 
@@ -78,33 +78,33 @@ An NPC can have any of the following twelve motivations or pitfalls.
 
 ##### Benevolence
 
-An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
+An NPC with the [benevolence](../negotiation/benevolence.md) motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
 Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew—but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
 
-An NPC with the benevolence pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
+An NPC with the [benevolence](../negotiation/benevolence.md) pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
 
-Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
+Arguments that appeal to a [benevolence](../negotiation/benevolence.md) motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
-- "If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
+- "If you can [teleport](../movement/teleport.md) us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
 ##### Discovery
 
-An NPC with the discovery motivation wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or they could be a naturally inquisitive person who simply wants to understand all they can about the timescape.
+An NPC with the [discovery](../negotiation/discovery.md) motivation wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or they could be a naturally inquisitive person who simply wants to understand all they can about the timescape.
 
-An NPC with the discovery pitfall has no interest in finding new places, peoples, or ideas. It might be that the unknown scares them or makes them so uncomfortable that they'd rather remain ignorant. Alternatively, a previous pursuit of discovery might have turned out poorly for them.
+An NPC with the [discovery](../negotiation/discovery.md) pitfall has no interest in finding new places, peoples, or ideas. It might be that the unknown scares them or makes them so uncomfortable that they'd rather remain ignorant. Alternatively, a previous pursuit of discovery might have turned out poorly for them.
 
-Arguments that appeal to a discovery motivation contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
+Arguments that appeal to a [discovery](../negotiation/discovery.md) motivation contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
 
 - "Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
 - "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
 ##### Freedom
 
-An NPC with the freedom motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
+An NPC with the [freedom](../negotiation/freedom.md) motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
 
-An NPC with the freedom pitfall believes that a world without authority is one in turmoil and chaos. They might even believe that they are the right person to rule, and that their ideals should be the ones that become the law of the land.
+An NPC with the [freedom](../negotiation/freedom.md) pitfall believes that a world without authority is one in turmoil and chaos. They might even believe that they are the right person to rule, and that their ideals should be the ones that become the law of the land.
 
 Arguments that appeal to a freedom motivation contend that by helping the heroes, an NPC will maintain or grant freedom to themself or other people. Example arguments include the following:
 
@@ -113,11 +113,11 @@ Arguments that appeal to a freedom motivation contend that by helping the heroes
 
 ##### Greed
 
-An NPC with the greed motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
+An NPC with the [greed](../negotiation/greed.md) motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
 
 Greed-driven NPCs might share their wealth with a select group of people they love, such as a noble lord who indulges his children's every desire. Some NPCs might be greedy for resources other than money, such as a demon who wants to collect and devour souls, or a troll lord who hungers endlessly for the flesh of others.
 
-An NPC with the greed pitfall has no interest in accumulating wealth or other resources, and becomes offended if anyone tries to buy their partnership. They hold their ideals above material desires.
+An NPC with the [greed](../negotiation/greed.md) pitfall has no interest in accumulating wealth or other resources, and becomes offended if anyone tries to buy their partnership. They hold their ideals above material desires.
 
 Arguments that appeal to a greed motivation contend that helping the heroes will increase the NPC's wealth or assets. Example arguments include the following:
 
@@ -126,9 +126,9 @@ Arguments that appeal to a greed motivation contend that helping the heroes will
 
 ##### Higher Authority
 
-An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
+An NPC with the [higher authority](../negotiation/higher-authority.md) motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
 
-An NPC with the higher authority pitfall scoffs at the idea of serving another. The NPC might not believe that all people should be free, but they certainly believe that they personally shouldn't have to answer to anyone.
+An NPC with the [higher authority](../negotiation/higher-authority.md) pitfall scoffs at the idea of serving another. The NPC might not believe that all people should be free, but they certainly believe that they personally shouldn't have to answer to anyone.
 
 Arguments that appeal to a higher authority motivation contend that it's in the interest of the higher authority for the NPC to strike a deal with the heroes. A hero might even tell the NPC that if the higher authority were in the NPC's position, they would take the deal. Example arguments include the following:
 
@@ -137,9 +137,9 @@ Arguments that appeal to a higher authority motivation contend that it's in the 
 
 ##### Justice
 
-An NPC with the justice motivation wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks do must die. Having a justice motivation doesn't necessarily make an NPC kind or charitable.
+An NPC with the [justice](../negotiation/justice.md) motivation wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks do must die. Having a justice motivation doesn't necessarily make an NPC kind or charitable.
 
-An NPC with the justice pitfall doesn't believe that the timescape is an inherently just place, and has no interest in making it one. The world is eternal conflict, there is no such thing as justice, and anyone who thinks otherwise is a naive fool.
+An NPC with the [justice](../negotiation/justice.md) pitfall doesn't believe that the timescape is an inherently just place, and has no interest in making it one. The world is eternal conflict, there is no such thing as justice, and anyone who thinks otherwise is a naive fool.
 
 Arguments that appeal to a justice motivation position the heroes on the good side of an NPC's sense of right and wrong. Example arguments include the following:
 
@@ -148,20 +148,20 @@ Arguments that appeal to a justice motivation position the heroes on the good si
 
 ##### Legacy
 
-An NPC with the legacy motivation desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these NPCs might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn't prevent them from continuing to make history.
+An NPC with the [legacy](../negotiation/legacy.md) motivation desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these NPCs might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn't prevent them from continuing to make history.
 
-An NPC with a legacy pitfall cares nothing about leaving a personal mark on the world. To them, such vain thinking is nothing but a waste of time.
+An NPC with a [legacy](../negotiation/legacy.md) pitfall cares nothing about leaving a personal mark on the world. To them, such vain thinking is nothing but a waste of time.
 
-Arguments that appeal to a legacy motivation contend that striking a deal with the heroes increases the likelihood that people will talk about the NPC for centuries to come. Example arguments include the following:
+Arguments that appeal to a [legacy](../negotiation/legacy.md) motivation contend that striking a deal with the heroes increases the likelihood that people will talk about the NPC for centuries to come. Example arguments include the following:
 
 - "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
 - "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
 
 ##### Peace
 
-An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
+An NPC with the [peace](../negotiation/peace.md) motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
 
-An NPC with the peace pitfall hates being bored. They want excitement, drama, and danger in their life. For them, there's nothing worse than the status quo.
+An NPC with the [peace](../negotiation/peace.md) pitfall hates being bored. They want excitement, drama, and danger in their life. For them, there's nothing worse than the status quo.
 
 Arguments that appeal to a peace motivation contend that helping the heroes will earn the NPC some peace, at least for a little while. Example arguments include the following:
 
@@ -170,9 +170,9 @@ Arguments that appeal to a peace motivation contend that helping the heroes will
 
 ##### Power
 
-An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
+An NPC with the [power](../negotiation/power.md) motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
-An NPC with the power pitfall has no interest in authority for themself. They might respect the authority of others, but they hate the thought of ruling over other people and roundly reject any suggestion of the idea.
+An NPC with the [power](../negotiation/power.md) pitfall has no interest in authority for themself. They might respect the authority of others, but they hate the thought of ruling over other people and roundly reject any suggestion of the idea.
 
 Arguments that appeal to a power motivation contend that working with the heroes will increase or protect the NPC's power. Example arguments include the following:
 
@@ -181,11 +181,11 @@ Arguments that appeal to a power motivation contend that working with the heroes
 
 ##### Protection
 
-An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping
+An NPC with the [protection](../negotiation/protection.md) motivation has land, people, information, items, or an organization they want protected above all else. Keeping
 
-their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the protection motivation believes in doing so at any cost.
+their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the [protection](../negotiation/protection.md) motivation believes in doing so at any cost.
 
-An NPC with the protection pitfall is happy to leave others to fend for themselves. They don't believe it's their responsibility to protect anyone other than themself, and might be outright disgusted at the thought of risking their life or their property to protect others.
+An NPC with the [protection](../negotiation/protection.md) pitfall is happy to leave others to fend for themselves. They don't believe it's their responsibility to protect anyone other than themself, and might be outright disgusted at the thought of risking their life or their property to protect others.
 
 Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
 
@@ -194,29 +194,29 @@ Arguments that appeal to a protection motivation contend that helping the heroes
 
 ##### Revelry
 
-An NPC with the revelry motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
+An NPC with the [revelry](../negotiation/revelry.md) motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
 
-An NPC with the revelry pitfall sees social encounters and hedonism as a waste of time. They take pleasure only in work or in building their own skills and character. Others who suggest immature debauchery are not worth their time.
+An NPC with the [revelry](../negotiation/revelry.md) pitfall sees social encounters and hedonism as a waste of time. They take pleasure only in work or in building their own skills and character. Others who suggest immature debauchery are not worth their time.
 
-Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
+Arguments that appeal to the [revelry](../negotiation/revelry.md) motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
 
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge... provided you extend me and my band here an invitation."
 - "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-[dwarf](../../Browse/ancestry/dwarf.md) ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
 ##### Vengeance
 
-An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
+An NPC with the [vengeance](../negotiation/vengeance.md) motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
-An NPC with the vengeance pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
+An NPC with the [vengeance](../negotiation/vengeance.md) pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
 
-Arguments that appeal to the vengeance motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
+Arguments that appeal to the [vengeance](../negotiation/vengeance.md) motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
 
 - "The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes."
 - "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the [orc](../../Browse/ancestry/orc.md) refugees."
 
 > **NPCs Change Over Time**
 >
-> Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
+> Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the [greed](../negotiation/greed.md) and [power](../negotiation/power.md) motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the [benevolence](../negotiation/benevolence.md) and [protection](../negotiation/protection.md) motivations.
 
 ### Opening a Negotiation
 
@@ -247,7 +247,7 @@ If a hero wishes to figure out an NPC's motivations, they can begin by simply as
 | Friendly   | The heroes seem like the NPC's people. The NPC is willing to give them the benefit of the doubt.         | 3        | 4        |
 | Trusting   | The NPC has reason to take the heroes at their word and will help if the characters don't screw this up. | 3        | 5        |
 
-NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the greed motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
+NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the [greed](../negotiation/greed.md) motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
 
 If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a Reason, Intuition, or Presence test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
@@ -311,7 +311,7 @@ If a hero lies to an NPC with an argument that fails to increase the NPC's inter
 
 > **Everyone Can Participate**
 >
-> Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn't automatically have to be the one who makes all the tests.
+> Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the [Persuade](../../Browse/skill/persuade.md) skill doesn't automatically have to be the one who makes all the tests.
 
 #### Pitfall Used
 
@@ -348,7 +348,7 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 
 ##### Influencing Tests
 
-If a hero is famous to an NPC, they gain an edge on tests when making arguments to which the Flirt, Lead, or Persuade skill could be applied. If they are infamous to the NPC, they gain an edge on tests when making arguments to which the Brag, Interrogate, or Intimidate skill could be applied. A hero gains this edge even if they don't have the appropriate skill.
+If a hero is famous to an NPC, they gain an edge on tests when making arguments to which the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied. If they are infamous to the NPC, they gain an edge on tests when making arguments to which the [Brag](../../Browse/skill/brag.md), [Interrogate](../../Browse/skill/interrogate.md), or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied. A hero gains this edge even if they don't have the appropriate skill.
 
 ### NPC Response and Offer
 
@@ -540,7 +540,7 @@ Korvo's success has revealed Zola's benevolence motivation.
 
 **Director:** *You're appealing to one of her motivations, so make a Presence test.*
 
-**Alyssa:** *Can I use my Persuade skill too?*
+**Alyssa:** *Can I use my [Persuade](../../Browse/skill/persuade.md) skill too?*
 
 **Director:** *Absolutely. And you gain an edge because you're famous to her.*
 

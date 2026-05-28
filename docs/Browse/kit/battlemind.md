@@ -43,4 +43,4 @@ You wear light armor and wield a medium weapon.
 - **12-16:** 8 + M, R, I, or P damage
 - **17+:** 11 + M, R, I, or P damage
 
-**Effect:** Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+**Effect:** Until the end of the target's next turn, any [forced movement](../movement/forced-movement.md) that affects the target has its distance increased by 2.

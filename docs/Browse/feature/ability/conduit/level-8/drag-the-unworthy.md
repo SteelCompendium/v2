@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: Each ally the target comes adjacent to during the forced movement can spend a Recovery.
+effect: Each ally the target comes adjacent to during the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can spend a Recovery.
 flavor: You conjure an angel who moves a foe and heals your allies.
 keywords:
     - Magic
@@ -34,4 +34,4 @@ type: ability
 - **12-16:** 13 + I holy damage; slide 4
 - **17+:** 18 + I holy damage; slide 6
 
-**Effect:** Each ally the target comes adjacent to during the forced movement can spend a Recovery.
+**Effect:** Each ally the target comes adjacent to during the [forced movement](../../../../movement/forced-movement.md) can spend a Recovery.

@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: You can shift up to half your speed before or after you make this strike.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike.
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
     - Melee
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 7 + A damage
 - **17+:** 10 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike.
+**Effect:** You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike.

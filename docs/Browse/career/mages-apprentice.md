@@ -5,7 +5,7 @@ perk: One supernatural perk (*Quick Build:* [Arcane Trick](scc:mcdm.heroes.v1/pe
 renown: "+1"
 scc: mcdm.heroes.v1/career/mages-apprentice
 skills:
-    - The Magic skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* Magic, Monsters, Timescape.)
+    - The [Magic](scc:mcdm.heroes.v1/skill/magic) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](scc:mcdm.heroes.v1/skill/magic), [Monsters](scc:mcdm.heroes.v1/skill/monsters), [Timescape](scc:mcdm.heroes.v1/skill/timescape).)
 type: career
 ---
 
@@ -20,7 +20,7 @@ For long years, you studied magic under the mentorship of a more experienced mag
 
 You gain the following career benefits:
 
-**Skills:** The Magic skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* Magic, Monsters, Timescape.)
+**Skills:** The [Magic](../skill/magic.md) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](../skill/magic.md), [Monsters](../skill/monsters.md), [Timescape](../skill/timescape.md).)
 
 **Languages:** One language
 

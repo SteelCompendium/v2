@@ -3,7 +3,7 @@ average_potency: Intuition − 1
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the Psionics skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Timescape.)'
+    - 'You gain the [Psionics](scc:mcdm.heroes.v1/skill/psionics) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Timescape.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition − 2
@@ -39,7 +39,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Timescape.)
+**Skills:** You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
 ###### Null Advancement Table
 
@@ -76,7 +76,7 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
 ### Cryokinetic Mastery
 
@@ -93,7 +93,7 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
 | 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null](null.md) Field ability, you gain 2 surges.                                                  |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
 
 ### Density Augmentation
 
@@ -156,12 +156,12 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Intuition score.                                                                          |
-| 4               | The first time in a combat round that you take damage or are force moved, you gain 1 surge, even if you resist the effect.                                                                  |
+| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
+| 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 surge, even if you resist the effect.                                                                  |
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time in a combat round that you take damage or are force moved, you gain 2 surges, even if you resist the effect.                                                                 |
+| 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 surges, even if you resist the effect.                                                                 |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
 ### Null Field
 
@@ -181,18 +181,18 @@ You project a psionic field of order around your body, dampening the effects of 
 > Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](null.md) Field one of the following additional effects until the start of your next turn:
 > 
 > - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
-> - Inertial Anchor: Any target who starts their turn in the area can't shift.
+> - Inertial Anchor: Any target who starts their turn in the area can't [shift](../movement/shifting.md).
 > - Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.
 > 
 > This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).
 
 ### Null Speed
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the Disengage move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the Disengage move action equal to your Agility score.
 
 ### Null Tradition
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](null.md) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the Monsters skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null](null.md) tradition from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../skill/monsters.md) skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
@@ -210,7 +210,7 @@ Whenever you use the Knockback or Grab maneuver, you use Intuition instead of Mi
 
 ### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
 
 ## 1st-Level Abilities
 
@@ -240,11 +240,11 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 **Power Roll + Agility:**
 
-- **≤11:** 8 + **A** psychic damage; M < WEAK, weakened (save ends)
-- **12-16:** 12 + **A** psychic damage; M < AVERAGE, weakened (save ends)
-- **17+:** 16 + **A** psychic damage; M < STRONG, weakened (save ends)
+- **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+**Effect:** While [weakened](../condition/weakened.md) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
 ### Chronal Spike
 
@@ -260,7 +260,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ### Dance of Blows
 
@@ -338,7 +338,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 - **12-16:** 7 + A damage
 - **17+:** 10 + A damage
 
-**Effect:** You can shift up to half your speed before or after you make this strike.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike.
 
 ### Joint Lock
 
@@ -350,9 +350,9 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, grabbed
-- **12-16:** 7 + A damage; A < AVERAGE, grabbed
-- **17+:** 9 + A damage; A < STRONG, grabbed
+- **≤11:** 4 + A damage; A < WEAK, [grabbed](../condition/grabbed.md)
+- **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
+- **17+:** 9 + A damage; A < STRONG, [grabbed](../condition/grabbed.md)
 
 ### Kinetic Strike
 
@@ -364,9 +364,9 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; taunted (EoT)
-- **12-16:** 5 + A damage; taunted (EoT), slide 1
-- **17+:** 6 + A damage; taunted (EoT), slide 2
+- **≤11:** 4 + A damage; [taunted](../condition/taunted.md) (EoT)
+- **12-16:** 5 + A damage; [taunted](../condition/taunted.md) (EoT), slide 1
+- **17+:** 6 + A damage; [taunted](../condition/taunted.md) (EoT), slide 2
 
 ### Magnetic Strike
 
@@ -395,7 +395,7 @@ You gain a +1 bonus to speed and to the distance you can shift when you take the
 Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null](null.md) Field one of the following additional effects until the start of your next turn:
 
 - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
-- Inertial Anchor: Any target who starts their turn in the area can't shift.
+- Inertial Anchor: Any target who starts their turn in the area can't [shift](../movement/shifting.md).
 - Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.
 
 This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).
@@ -414,7 +414,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 
-**Effect:** Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can't be teleported this way, you can't push them.
+**Effect:** Before the push is resolved, you [teleport](../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../movement/teleport.md)ed this way, you can't push them.
 
 ### Phase Strike
 
@@ -430,7 +430,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
 - **17+:** 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 
-**Effect:** A target who goes out of phase is slowed, has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+**Effect:** A target who goes out of phase is [slowed](../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
 ### Pressure Points
 
@@ -442,9 +442,9 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, weakened (save ends)
-- **12-16:** 7 + A damage; A < AVERAGE, weakened (save ends)
-- **17+:** 9 + A damage; A < STRONG, weakened (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 7 + A damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 9 + A damage; A < STRONG, [weakened](../condition/weakened.md) (save ends)
 
 ### Psychic Pulse
 
@@ -470,7 +470,7 @@ This ability remains active even after an encounter ends. It ends only if you ar
 - **12-16:** 8 + A damage
 - **17+:** 12 + A damage
 
-**Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
+**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../movement/forced-movement.md), you can use a free triggered action to [shift](../movement/shifting.md) up to your speed. You must end this [shift](../movement/shifting.md) adjacent to the target.
 
 ### Stunning Blow
 
@@ -482,9 +482,9 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; I < WEAK, dazed and slowed (save ends)
-- **12-16:** 5 + A damage; I < AVERAGE, dazed and slowed (save ends)
-- **17+:** 7 + A damage; I < STRONG, dazed and slowed (save ends)
+- **≤11:** 4 + A damage; I < WEAK, [dazed](../condition/dazed.md) and [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 5 + A damage; I < AVERAGE, [dazed](../condition/dazed.md) and [slowed](../condition/slowed.md) (save ends)
+- **17+:** 7 + A damage; I < STRONG, [dazed](../condition/dazed.md) and [slowed](../condition/slowed.md) (save ends)
 
 ## 2nd-Level Features
 
@@ -502,13 +502,13 @@ Your [null](null.md) tradition grants you a feature, as shown on the 2nd-Level T
 
 ### Entropic Adaptability
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving.
+You have cold immunity equal to twice your Intuition score. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.
 
 ### Inertial Sink
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
-Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.
+Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being [force moved](../movement/forced-movement.md), you reduce that damage by an amount equal to your level.
 
 ### Perk
 
@@ -540,9 +540,9 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-- **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-- **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+- **≤11:** 6 cold damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 13 cold damage; A < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 ### Force Redirected
 
@@ -596,7 +596,7 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 - **12-16:** You gain 15 temporary Stamina.
 - **17+:** You gain 20 temporary Stamina.
 
-**Effect:** While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+**Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../condition/bleeding.md) even while dying.
 
 ## 3rd-Level Features
 
@@ -628,7 +628,7 @@ At the start of each of your turns, you can use a free triggered action to end o
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 ### Stabilizing Field
 
@@ -638,7 +638,7 @@ At the start of each of your turns, you can use a free triggered action to end o
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+**Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../movement/difficult-terrain.md) and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 ### Synapse Field
 
@@ -696,7 +696,7 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 ### Inertial Fulcrum
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your [Null](null.md) Field ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null](null.md) Field ability equal to your Intuition score.
 
 ### Instant Action
 
@@ -716,9 +716,9 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
-- **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
-- **17+:** 13 + A damage; I < STRONG, restrained (save ends)
+- **≤11:** 7 + A damage; I < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 10 + A damage; I < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 13 + A damage; I < STRONG, [restrained](../condition/restrained.md) (save ends)
 
 **Effect:** This strike resolves before the triggering movement or main action.
 
@@ -732,11 +732,11 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 
 **Power Roll + Agility:**
 
-- **≤11:** 10 + A damage; A < WEAK, grabbed
-- **12-16:** 14 + A damage; A < AVERAGE, grabbed
-- **17+:** 18 + A damage; A < STRONG, grabbed
+- **≤11:** 10 + A damage; A < WEAK, [grabbed](../condition/grabbed.md)
+- **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
+- **17+:** 18 + A damage; A < STRONG, [grabbed](../condition/grabbed.md)
 
-**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 ### Phase Leap
 
@@ -788,7 +788,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 - **12-16:** Vertical slide 7
 - **17+:** Vertical slide 9
 
-**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 
 ### Ice Pillars
 
@@ -804,7 +804,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 - **12-16:** Vertical slide 8
 - **17+:** Vertical slide 10
 
-**Effect:** The pillars vanish as soon as the effects of the forced movement are resolved.
+**Effect:** The pillars vanish as soon as the effects of the [forced movement](../movement/forced-movement.md) are resolved.
 
 ### Interphase
 
@@ -834,13 +834,13 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 |----------------------------|----------------:|
 | **📏 Self; see below**     |     **🎯 Self** |
 
-**Effect:** You can shift up to your speed, and squares occupied by enemies or objects are not difficult terrain for this shift. You make one power roll that targets each enemy you moved through during this shift.
+**Effect:** You can [shift](../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../movement/difficult-terrain.md) for this [shift](../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../movement/shifting.md).
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 damage; M < WEAK, dazed
-- **12-16:** 8 damage; M < AVERAGE, dazed
-- **17+:** 12 damage; M < STRONG, dazed
+- **≤11:** 6 damage; M < WEAK, [dazed](../condition/dazed.md)
+- **12-16:** 8 damage; M < AVERAGE, [dazed](../condition/dazed.md)
+- **17+:** 12 damage; M < STRONG, [dazed](../condition/dazed.md)
 
 ### Wall of Ice
 
@@ -850,7 +850,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M < AVERAGE is restrained (save ends).
+**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../condition/slowed.md) (save ends). Each enemy who is [force moved](../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../condition/restrained.md) (save ends).
 
 ## 7th-Level Features
 
@@ -864,7 +864,7 @@ Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) f
 
 ### Dynamic Power
 
-If the ability force moves a target, the forced movement distance gains a bonus equal to your Intuition score.
+If the ability force moves a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
 
 ### Expanded Power
 
@@ -918,7 +918,7 @@ Your [null](null.md) tradition grants you a feature, as shown on the 8th-Level T
 
 ### Inertial Dampener
 
-You and each creature or object of your choice in the area of your [Null](null.md) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null](null.md) Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
 
 ### Perk
 
@@ -960,11 +960,11 @@ As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each 
 
 **Power Roll + Agility:**
 
-- **≤11:** 9 + A damage; push 5; I < WEAK, dazed (save ends)
-- **12-16:** 13 + A damage; push 7; I < AVERAGE, dazed (save ends)
-- **17+:** 18 + A damage; push 10; I < STRONG, dazed (save ends)
+- **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Effect:** The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is dazed this way, they see glimpses of creatures from other parts of the timescape.
+**Effect:** The target and each creature or object they collide with from this [forced movement](../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 
 ### Scalar Assault
 
@@ -990,13 +990,13 @@ As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each 
 
 **Trigger:** The target takes damage from another creature's ability while in the area of your [Null](null.md) Field ability.
 
-**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../condition/dazed.md) (save ends). While the triggering creature is [dazed](../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ## 9th-Level Features
 
 ### I Am the Weapon
 
-Your Stamina increases by 21 and you can't be made bleeding even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your Stamina increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 ## 9th-Level Abilities
 
@@ -1044,11 +1044,11 @@ Your Stamina increases by 21 and you can't be made bleeding even while dying. Yo
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I cold damage; M < WEAK, restrained (save ends)
-- **12-16:** 11 + I cold damage; M < AVERAGE, restrained (save ends)
-- **17+:** 15 + I cold damage; M < STRONG, restrained (save ends)
+- **≤11:** 8 + I cold damage; M < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 15 + I cold damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2.
+**Effect:** While [restrained](../condition/restrained.md) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
 
 ### Inertial Absorption
 
@@ -1072,11 +1072,11 @@ Your Stamina increases by 21 and you can't be made bleeding even while dying. Yo
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A psychic damage; I < WEAK, dazed
-- **12-16:** 10 + A psychic damage; I < AVERAGE, dazed
-- **17+:** 13 + A psychic damage; I < STRONG, dazed
+- **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../condition/dazed.md)
+- **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../condition/dazed.md)
+- **17+:** 13 + A psychic damage; I < STRONG, [dazed](../condition/dazed.md)
 
-**Effect:** While dazed this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../condition/dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ### Time Loop
 
@@ -1106,7 +1106,7 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 ### Manifold Resonance
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can shift yourself and any creatures in the area of your [Null](null.md) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can [shift](../movement/shifting.md) yourself and any creatures in the area of your [Null](null.md) Field ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
 Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/trait/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null](null.md) Field ability ignore banes and double banes on your power rolls.
 

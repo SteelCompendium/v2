@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
 flavor: As you move across the battlefield, every foe within reach feels your wrath.
 keywords:
     - Melee
@@ -27,7 +27,7 @@ type: ability
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+**Effect:** You [shift](../../../../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
 
 **Power Roll + Agility:**
 

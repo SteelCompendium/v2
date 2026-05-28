@@ -15,7 +15,7 @@ subtype: signature
 target: One creature or object
 tier1: Slide 2 + R
 tier2: Slide 4 + R
-tier3: Slide 6 + R; prone
+tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -31,6 +31,6 @@ type: ability
 
 - **≤11:** Slide 2 + R
 - **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; prone
+- **17+:** Slide 6 + R; [prone](../../../../condition/prone.md)
 
 **Strained:** You must vertical push the target instead of sliding them.

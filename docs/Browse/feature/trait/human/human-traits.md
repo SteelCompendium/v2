@@ -19,15 +19,15 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 ##### Can't Take Hold (1 Point)
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary difficult terrain created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you can reduce the forced movement distance by 1.
+Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../../../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../../movement/forced-movement.md) distance by 1.
 
 ##### Determination (2 Points)
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
 
 ##### Perseverance (1 Point)
 
-Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are slowed, your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an edge on tests made using the [Endurance](../../../skill/endurance.md) skill. Additionally, when you are [slowed](../../../condition/slowed.md), your speed is reduced to 3 instead of 2.
 
 ##### Resist the Unnatural (1 Point)
 

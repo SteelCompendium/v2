@@ -27,11 +27,11 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### Four-Armed Athletics (1 Point)
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts (2 Points)
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures grabbed at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time.
 
 ##### Psionic Gift (2 Points)
 
@@ -39,7 +39,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Unstoppable Mind (2 Points)
 
-Your mind allows you to maintain your focus in any situation. You can't be made dazed.
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../../condition/dazed.md).
 
 ###### Concussive Slam
 
@@ -53,4 +53,4 @@ Your mind allows you to maintain your focus in any situation. You can't be made 
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)

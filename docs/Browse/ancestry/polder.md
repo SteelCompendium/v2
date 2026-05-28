@@ -139,7 +139,7 @@ Your innate [shadow](../class/shadow.md) magic grants you resilience against the
 
 ##### Fearless (2 Points)
 
-Courage is all you know. You can't be made frightened.
+Courage is all you know. You can't be made [frightened](../condition/frightened.md).
 
 ##### Graceful Retreat (1 Point)
 
@@ -147,7 +147,7 @@ Your small size makes it easier for you to slip away from the fray. You gain a +
 
 ##### Nimblestep (2 Points)
 
-A light step serves you well when speed is of the essence. You ignore the effects of difficult terrain and can move at full speed while sneaking.
+A light step serves you well when speed is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full speed while sneaking.
 
 ##### Polder Geist (1 Point)
 
@@ -155,4 +155,4 @@ Evading others' notice gives you freedom to move. At the start of each of your t
 
 ##### Reactive Tumble (1 Point)
 
-Staying light on your feet lets you quickly get back into position. Whenever you are force moved, you can use a free triggered action to shift 1 square after the forced movement is resolved.
+Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free triggered action to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.

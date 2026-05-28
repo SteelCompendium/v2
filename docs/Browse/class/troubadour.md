@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the Read Person skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)'
+    - 'You gain the [Read Person](scc:mcdm.heroes.v1/skill/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Rumors.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -39,7 +39,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
+**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
 
 ###### Troubadour Advancement Table
 
@@ -101,7 +101,7 @@ You have the following performance ability, which is usable with your [Routines]
 > |------------------------------|---------------------------------:|
 > | **📏 2 aura**                | **🎯 Each creature in the area** |
 >
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ### Class Act Triggered Action
 
@@ -211,7 +211,7 @@ You have the following ability.
 
 ### Routines
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not dazed, dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../condition/dazed.md), dead, or surprised, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the [Choreography](../feature/ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../feature/ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
@@ -253,9 +253,9 @@ You have the following ability.
 
 Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
-- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the Brag skill.
-- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the Gymnastics skill.
-- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the Music skill and can play an instrument.
+- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/brag.md) skill.
+- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/gymnastics.md) skill.
+- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/music.md) skill and can play an instrument.
 
 Your [troubadour](troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
@@ -306,7 +306,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** You can shift up to 3 squares.
+**Effect:** You can [shift](../movement/shifting.md) up to 3 squares.
 
 **Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
 
@@ -328,7 +328,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|---------------------------------:|
 | **📏 2 aura**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
 ### Choreography
 
@@ -350,9 +350,9 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P psychic damage; P < WEAK, bleeding (save ends)
-- **12-16:** 5 + P psychic damage; P < AVERAGE, bleeding (save ends)
-- **17+:** 7 + P psychic damage; P < STRONG, bleeding (save ends)
+- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../condition/bleeding.md) (save ends)
+- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
+- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
 ### Dramatic Monologue
 
@@ -380,9 +380,9 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Presence:**
 
-- **≤11:** The target can shift 1 square and make a free strike.
-- **12-16:** The target can shift up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+- **≤11:** The target can [shift](../movement/shifting.md) 1 square and make a free strike.
+- **12-16:** The target can [shift](../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
+- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
 
 ### Fake Your Death
 
@@ -392,7 +392,7 @@ You have the following performance abilities, which are usable with your [Routin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
+**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore [difficult terrain](../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
 
 ### Flip the Script
 
@@ -402,7 +402,7 @@ You have the following performance abilities, which are usable with your [Routin
 |-----------------|--------------------------------------:|
 | **📏 3 burst**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
+**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. Any [teleport](../movement/teleport.md)ed target who was [slowed](../condition/slowed.md) is no longer [slowed](../condition/slowed.md).
 
 ### Harmonize
 
@@ -444,9 +444,9 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Presence:**
 
-- **≤11:** Slide 1; I < WEAK, dazed (save ends)
-- **12-16:** Slide 1; I < AVERAGE, dazed (save ends)
-- **17+:** Slide 2; I < STRONG, dazed (save ends)
+- **≤11:** Slide 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** Slide 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** Slide 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
@@ -464,7 +464,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.
+**Effect:** The target is [taunted](../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 
 ### Method Acting
 
@@ -476,11 +476,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 + A damage; P < WEAK, weakened (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, weakened (save ends)
-- **17+:** 14 + A damage; P < STRONG, weakened (save ends)
+- **≤11:** 6 + A damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 10 + A damage; P < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 14 + A damage; P < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.
+**Effect:** You can become [bleeding](../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
 
 ### Power Chord
 
@@ -506,11 +506,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Presence:**
 
-- **≤11:** 4 damage; P < WEAK, slowed (save ends)
-- **12-16:** 5 damage; P < AVERAGE, slowed (save ends)
-- **17+:** 6 damage; P < STRONG, restrained (save ends)
+- **≤11:** 4 damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 5 damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 6 damage; P < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** The area is difficult terrain for enemies.
+**Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
 
 ### Revitalizing Limerick
 
@@ -584,13 +584,13 @@ You have the following performance abilities, which are usable with your [Routin
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
-**Effect:** You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.
+**Effect:** You [shift](../movement/shifting.md) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](../movement/shifting.md).
 
 **Power Roll + Agility or Presence:**
 
-- **≤11:** Taunted (EoT); A < WEAK, prone
-- **12-16:** Taunted (EoT); A < AVERAGE, prone
-- **17+:** Taunted (EoT); A < STRONG, prone and can't stand (EoT)
+- **≤11:** [Taunted](../condition/taunted.md) (EoT); A < WEAK[, prone](../condition/prone.md)
+- **12-16:** [Taunted](../condition/taunted.md) (EoT); A < AVERAGE[, prone](../condition/prone.md)
+- **17+:** [Taunted](../condition/taunted.md) (EoT); A < STRONG, [prone and](../condition/prone.md) can't stand (EoT)
 
 ### Witty Banter
 
@@ -614,7 +614,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 ### Allow Me to Introduce Tonight's Players
 
-Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can shift up to their speed, and ability rolls made against them have a double bane until the end of the combat round. Additionally, any surprised enemy is no longer surprised.
+Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../movement/shifting.md) up to their speed, and ability rolls made against them have a double bane until the end of the combat round. Additionally, any surprised enemy is no longer surprised.
 
 ### Appeal to the Muses
 
@@ -656,7 +656,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 |---------------------------|---------------------------------:|
 | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
 
 ### En Garde!
 
@@ -795,11 +795,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 fire damage; A < WEAK, weakened (save ends)
-- **12-16:** 7 fire damage; A < AVERAGE, weakened (save ends)
-- **17+:** 10 fire damage; A < STRONG, weakened (save ends)
+- **≤11:** 5 fire damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 7 fire damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 10 fire damage; A < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** Each ally in the area can shift up to 2 squares.
+**Effect:** Each ally in the area can [shift](../movement/shifting.md) up to 2 squares.
 
 ### Never-Ending Hero
 
@@ -809,7 +809,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their turn.
 
 ### Star Solo
 
@@ -835,7 +835,7 @@ You have the following performance abilities, which are usable with your [Routin
 |-------------------|--------------------:|
 | **📏 Ranged 10**  | **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be force moved by an ability used beyond distance this way.
+**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](../movement/forced-movement.md) by an ability used beyond distance this way.
 
 Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 surges or forcing them to take a bane on the next ability roll they make before the start of your next turn.
 
@@ -897,7 +897,7 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: bleeding, frightened, prone, slowed, or taunted. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
+Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md)[, prone](../condition/prone.md), [slowed](../condition/slowed.md), or [taunted](../condition/taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
 
 ###### Take Two!
 
@@ -935,7 +935,7 @@ You have the following performance ability, which is usable with your [Routines]
 > |------------------------------|--------------------------------------:|
 > | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 >
-> **Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can shift equal to your Presence score until the end of their turn.
+> **Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can [shift](../movement/shifting.md) equal to your Presence score until the end of their turn.
 
 ### Virtuoso Features
 
@@ -975,7 +975,7 @@ You can maintain two performances at a time using your [Routines](../feature/tra
 |-------------------|---------------------------:|
 | **📏 Ranged 10**  | **🎯 One enemy or object** |
 
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is weakened, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
 ### Love Song
 
@@ -1019,7 +1019,7 @@ You can maintain two performances at a time using your [Routines](../feature/tra
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can shift equal to your Presence score until the end of their turn.
+**Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can [shift](../movement/shifting.md) equal to your Presence score until the end of their turn.
 
 ## 6th-Level Features
 
@@ -1054,9 +1054,9 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 + A damage; M < WEAK, bleeding (save ends)
-- **12-16:** 18 + A damage; M < AVERAGE, bleeding (save ends)
-- **17+:** 24 + A damage; bleeding (EoT), or if M < STRONG, bleeding (save ends)
+- **≤11:** 12 + A damage; M < WEAK, [bleeding](../condition/bleeding.md) (save ends)
+- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
+- **17+:** 24 + A damage; [bleeding](../condition/bleeding.md) (EoT), or if M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
 ### Feedback
 
@@ -1066,13 +1066,13 @@ You have the following performance ability, which is usable with your [Routines]
 |-------------------------------|------------------------------:|
 | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 
-**Effect:** A prone target ignores this ability.
+**Effect:** A [prone target](../condition/prone.md) ignores this ability.
 
 **Power Roll + Presence:**
 
-- **≤11:** 7 sonic damage; P < WEAK, prone
-- **12-16:** 10 sonic damage; P < AVERAGE, prone
-- **17+:** 13 sonic damage; P < STRONG, prone
+- **≤11:** 7 sonic damage; P < WEAK[, prone](../condition/prone.md)
+- **12-16:** 10 sonic damage; P < AVERAGE[, prone](../condition/prone.md)
+- **17+:** 13 sonic damage; P < STRONG[, prone](../condition/prone.md)
 
 ### Fight Choreography
 
@@ -1094,9 +1094,9 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 psychic damage; P < WEAK, frightened (save ends)
-- **12-16:** 5 psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 7 psychic damage; P < STRONG, frightened (save ends)
+- **≤11:** 2 psychic damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 7 psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
 
 ### Legendary Drum Fill
 
@@ -1201,7 +1201,7 @@ You gain one perk of your choice.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to teleport an ally within distance of that ability into the creature's space in a plume of rose petals. You or the teleported ally can then make a melee free strike.
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee free strike.
 
 ### Moonlight Sonata
 
@@ -1231,7 +1231,7 @@ You gain one perk of your choice.
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area ignores difficult terrain, and any ability they use that imposes forced movement gains a +2 bonus to the forced movement distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+**Effect:** While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../movement/forced-movement.md) distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
 
 ### Saved in the Edit
 
@@ -1268,7 +1268,7 @@ You gain one perk of your choice.
 
 ### Roar of the Crowd
 
-You are empowered by your audience, near and far. You can't be made frightened, and if you are prone, you can stand up as a free maneuver.
+You are empowered by your audience, near and far. You can't be made [frightened](../condition/frightened.md), and if you [are prone](../condition/prone.md), you can stand up as a free maneuver.
 
 Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
 
@@ -1302,7 +1302,7 @@ Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to 
 
 - **≤11:** 15 + A damage
 - **12-16:** 21 + A damage
-- **17+:** 28 + A damage; M < STRONG, bleeding (save ends)
+- **17+:** 28 + A damage; M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
 **Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
 
@@ -1336,7 +1336,7 @@ Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to 
 - **12-16:** 16 + P sonic damage; push 10
 - **17+:** 22 + P sonic damage; push 15
 
-**Effect:** Forced movement from this ability ignores stability.
+**Effect:** [Forced movement](../movement/forced-movement.md) from this ability ignores stability.
 
 ### Renegotiated Contract
 
@@ -1362,7 +1362,7 @@ Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to 
 |-------------------|----------------:|
 | **📏 Ranged 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 ## 10th-Level Features
 

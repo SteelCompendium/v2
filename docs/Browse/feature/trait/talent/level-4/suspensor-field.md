@@ -8,6 +8,6 @@ type: trait
 
 # Suspensor Field
 
-You can fly. While flying, your stability is reduced to 0 and can't be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+You can [fly](../../../../movement/fly.md). While [flying](../../../../movement/fly.md), your stability is reduced to 0 and can't be increased. If you can already [fly](../../../../movement/fly.md), you have a +2 bonus to speed while [flying](../../../../movement/fly.md) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](../../../../movement/fly.md) and are force moved, the [forced movement](../../../../movement/forced-movement.md) distance gains a +2 bonus.

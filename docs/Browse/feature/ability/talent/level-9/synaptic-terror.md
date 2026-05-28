@@ -14,9 +14,9 @@ name: Synaptic Terror
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror
 target: Each ally and enemy in the area
-tier1: R < WEAK, frightened (save ends)
-tier2: R < AVERAGE, frightened (save ends)
-tier3: R < STRONG, frightened (save ends)
+tier1: R < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: R < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: R < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -32,8 +32,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** R < WEAK, frightened (save ends)
-- **12-16:** R < AVERAGE, frightened (save ends)
-- **17+:** R < STRONG, frightened (save ends)
+- **≤11:** R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+- **12-16:** R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+- **17+:** R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 
 **Strained:** You can't use this ability if doing so would cause you to have negative clarity.

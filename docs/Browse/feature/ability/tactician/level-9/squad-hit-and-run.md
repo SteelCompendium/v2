@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+effect: Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
 flavor: I had to pry this secret from the [shadow](scc:mcdm.heroes.v1/class/shadow) colleges.
 keywords:
     - Ranged
@@ -22,4 +22,4 @@ type: ability
 |------------------|---------------------------:|
 | **📏 Ranged 10** | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.

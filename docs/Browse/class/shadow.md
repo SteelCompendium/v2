@@ -76,7 +76,7 @@ Your [shadow](shadow.md) college grants you one or two features, as shown on the
 
 You have the following ability.
 
-###### Black Ash Teleport
+###### Black Ash [Teleport](../movement/teleport.md)
 
 > 
 > *In a swirl of black ash, you step from one place to another.*
@@ -85,9 +85,9 @@ You have the following ability.
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 > 
-> **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+> **Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 > 
-> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+> **Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
 ### Coat the Blade
 
@@ -161,7 +161,7 @@ You have the following ability.
 > |-------------|-------------:|
 > | **📏 Self** |    **🎯 Self** |
 > 
-> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](../movement/shifting.md).
 > 
 > The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 > 
@@ -197,19 +197,19 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](../chapter/kit
 
 You graduated from a [shadow college](../feature/trait/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to teleport around the battlefield, manipulate shadows, and summon darkness. You have the Magic skill.
-- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the Alchemy skill.
-- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../movement/teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the [Magic](../skill/magic.md) skill.
+- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/alchemy.md) skill.
+- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/lie.md) skill.
 
 Your [shadow](shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 ### Smoke Bomb
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 ## 1st-Level Abilities
 
-### Black Ash Teleport
+### Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
 
 *In a swirl of black ash, you step from one place to another.*
 
@@ -217,9 +217,9 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
 ### Clever Trick
 
@@ -269,7 +269,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 **Trigger:** Another creature damages you.
 
-**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You take half the triggering damage, then can [shift](../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../movement/shifting.md) with concealment or cover, you can use the Hide maneuver even if you are observed.
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -287,7 +287,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 - **12-16:** 6 + A damage; slide 3
 - **17+:** 10 + A damage; slide 5
 
-**Effect:** You can shift into any square the target leaves when you slide them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves when you slide them.
 
 ### Eviscerate
 
@@ -299,9 +299,9 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
-- **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
-- **17+:** 10 + A damage; A < STRONG, bleeding (save ends)
+- **≤11:** 4 + A damage; A < WEAK, [bleeding](../condition/bleeding.md) (save ends)
+- **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
+- **17+:** 10 + A damage; A < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
 ### Gasping in Pain
 
@@ -315,7 +315,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 
 - **≤11:** 3 + A damage
 - **12-16:** 5 + A damage
-- **17+:** 8 + A damage; I < STRONG, prone
+- **17+:** 8 + A damage; I < STRONG[, prone](../condition/prone.md)
 
 **Effect:** One ally within 5 squares of the target gains 1 surge.
 
@@ -333,7 +333,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 - **12-16:** 8 + A damage
 - **17+:** 11 + A damage
 
-**Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
+**Effect:** You can [shift](../movement/shifting.md) up to your speed, dividing that movement before or after your strike as desired.
 
 ### Hesitation Is Weakness
 
@@ -371,7 +371,7 @@ You always carry a supply of smoke bombs to use for distractions and easy getawa
 |-------------|-------------:|
 | **📏 Self** |    **🎯 Self** |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](../movement/shifting.md).
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 
@@ -387,9 +387,9 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Trigger:** You take damage.
 
-**Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+**Effect:** You take half the damage, then can [teleport](../movement/teleport.md) up to 4 squares after the triggering effect resolves.
 
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
 ### One Hundred Throats
 
@@ -399,7 +399,7 @@ The illusion ends when you harm another creature, when you physically interact w
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+**Effect:** You [shift](../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
 
 **Power Roll + Agility:**
 
@@ -493,7 +493,7 @@ Your [shadow](shadow.md) college grants you a feature, as shown on the 2nd-Level
 
 ### Burning Ash
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
+The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to [teleport](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
 ### Friend!
 
@@ -513,7 +513,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 ### In a Puff of Ash
 
-*You enchant a strike with your teleportation magic.*
+*You enchant a strike with your [teleport](../movement/teleport.md)ation magic.*
 
 | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 |------------------------------------------|--------------------:|
@@ -521,9 +521,9 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 + A damage; you can teleport the target 1 square
-- **12-16:** 10 + A damage; you can teleport the target up to 3 squares
-- **17+:** 14 + A damage; you can teleport the target up to 5 squares
+- **≤11:** 6 + A damage; you can [teleport](../movement/teleport.md) the target 1 square
+- **12-16:** 10 + A damage; you can [teleport](../movement/teleport.md) the target up to 3 squares
+- **17+:** 14 + A damage; you can [teleport](../movement/teleport.md) the target up to 5 squares
 
 ### Machinations of Sound
 
@@ -539,7 +539,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 - **12-16:** Slide 5
 - **17+:** Slide 7
 
-**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
+**Effect:** This [forced movement](../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../movement/forced-movement.md) is reduced by a number equal to the target's Intuition score.
 
 ### So Gullible
 
@@ -551,7 +551,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### Sticky Bomb
 
@@ -583,7 +583,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 - **12-16:** 5 poison damage
 - **17+:** 7 poison damage
 
-**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../condition/weakened.md) (save ends).
 
 ### Too Slow
 
@@ -595,7 +595,7 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 
 **Trigger:** You use your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you teleport, you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a Recovery.
 
 ## 3rd-Level Features
 
@@ -634,7 +634,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
 ### Misdirecting Strike
 
@@ -650,7 +650,7 @@ You have the following ability.
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
 
 ### Pinning Shot
 
@@ -662,9 +662,9 @@ You have the following ability.
 
 **Power Roll + Agility:**
 
-- **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
-- **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
-- **17+:** 16 + A damage; A < STRONG, restrained (save ends)
+- **≤11:** 8 + A damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 12 + A damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 16 + A damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
 ### Staggering Blow
 
@@ -676,9 +676,9 @@ You have the following ability.
 
 **Power Roll + Agility:**
 
-- **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
-- **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 7 + A damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 11 + A damage; M < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
+- **17+:** 16 + A damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
 ## 4th-Level Features
 
@@ -759,13 +759,13 @@ If the creature is the same size as you, you can disguise yourself as them using
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can't teleport with you.
+Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to [teleport](../movement/teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleport](../movement/teleport.md)ed. If no such space exists, they can't [teleport](../movement/teleport.md) with you.
 
 ### Volatile Reagents
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
-Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to shift up to 5 squares, including shifting vertically. If you don't end this shift on solid ground and are not flying, you fall.
+Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to [shift](../movement/shifting.md) up to 5 squares, including [shifting](../movement/shifting.md) vertically. If you don't end this [shift](../movement/shifting.md) on solid ground and are not [flying](../movement/fly.md), you fall.
 
 ## 5th-Level Abilities
 
@@ -777,7 +777,7 @@ Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-
 |-----------------|---------------:|
 | **📏 3 burst**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
+**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a free strike against them.
 
 ### Into the Shadows
 
@@ -821,9 +821,9 @@ Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-
 
 **Power Roll + Agility:**
 
-- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-- **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+- **≤11:** 10 + A damage; P < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 15 + A damage; P < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 21 + A damage; P < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Effect:** The target can't communicate with anyone until the end of the encounter.
 
@@ -838,7 +838,7 @@ You gain one perk of your choice.
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically climb at full speed while moving.
-- Enemies' spaces don't count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
+- Enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
 - You gain 1 surge at the start of each of your turns.
 - You have corruption immunity equal to 5 + your level.
@@ -861,17 +861,17 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 - **12-16:** 6 + A damage; vertical push 10
 - **17+:** 9 + A damage; vertical push 15
 
-**Effect:** A creature force moved by this ability must be moved straight upward.
+**Effect:** A creature [force moved](../movement/forced-movement.md) by this ability must be moved straight upward.
 
 ### Cinderstorm
 
-*You teleport your friends in a burst of ash and fire.*
+*You [teleport](../movement/teleport.md) your friends in a burst of ash and fire.*
 
 | **Magic**      |                          **Maneuver** |
 |----------------|--------------------------------------:|
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ### Look!
 
@@ -910,7 +910,7 @@ A creature who drinks the potion receives benefits based on your power roll.
 **Power Roll + Agility:**
 
 - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-- **12-16:** The creature can fly until the end of the encounter.
+- **12-16:** The creature can [fly](../movement/fly.md) until the end of the encounter.
 - **17+:** The creature turns invisible until the end of their next turn.
 
 ### Puppet Strings
@@ -925,7 +925,7 @@ A creature who drinks the potion receives benefits based on your power roll.
 
 - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
 - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
+- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](../movement/shifting.md) up to their speed and use a main action ability of your choice.
 
 **Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
@@ -967,7 +967,7 @@ Your [shadow](shadow.md) college grants you a feature, as shown on the 8th-Level
 
 ### Cinder Step
 
-Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../feature/trait/shadow/level-2/burning-ash.md) and [Trail of Cinders](../feature/trait/shadow/level-5/trail-of-cinders.md) features.
+Whenever you willingly move, you can [teleport](../movement/teleport.md). When you [teleport](../movement/teleport.md) this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../feature/trait/shadow/level-2/burning-ash.md) and [Trail of Cinders](../feature/trait/shadow/level-5/trail-of-cinders.md) features.
 
 ### Parkour
 
@@ -1024,9 +1024,9 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 **Power Roll + Agility:**
 
-- **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+- **≤11:** 11 corruption damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 21 corruption damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
 ### Speed of Shadows
 
@@ -1036,7 +1036,7 @@ You have damage immunity against area abilities and effects equal to your Agilit
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.
+**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../movement/shifting.md) up to 2 squares between each use.
 
 ### They Always Line Up
 
@@ -1048,9 +1048,9 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 damage; M < WEAK, slowed (save ends)
-- **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-- **17+:** 24 damage; M < STRONG, slowed (save ends)
+- **≤11:** 12 damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 18 damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 24 damage; M < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 ### Time Bomb
 
@@ -1078,19 +1078,19 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 
 ### Cacophony of Cinders
 
-*You tumble through the battle, stabbing foes and teleporting allies.*
+*You tumble through the battle, stabbing foes and [teleporting](../movement/teleport.md) allies.*
 
 | **Magic, Melee, Weapon** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
+**Effect:** You [shift](../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../movement/shifting.md).
 
 **Power Roll + Agility:**
 
-- **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
-- **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
-- **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
+- **≤11:** An enemy takes 6 damage; an ally can [teleport](../movement/teleport.md) up to 3 squares.
+- **12-16:** An enemy takes 10 damage; an ally can [teleport](../movement/teleport.md) up to 5 squares.
+- **17+:** An enemy takes 14 damage; an ally can [teleport](../movement/teleport.md) up to 7 squares.
 
 ### Chain Reaction
 
@@ -1122,7 +1122,7 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 - **12-16:** 18 + A corruption damage; push 5
 - **17+:** 25 + A corruption damage; push 7
 
-**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a critical hit, the target is [grabbed](../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
 
 ### I Am You
 
@@ -1164,7 +1164,7 @@ Outside of combat, you can have one clone active for every 2 Victories you have.
 - **12-16:** 7 + A fire damage; vertical push 10
 - **17+:** 11 + A fire damage; vertical push 15
 
-**Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+**Effect:** The ground beneath a 3-cube area around the target's starting position is [difficult terrain](../movement/difficult-terrain.md).
 
 ## 10th-Level Features
 
@@ -1184,7 +1184,7 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 You gain full control over the [shadow](shadow.md) creature you become with your [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
-While you are in your [umbral form](../feature/trait/shadow/level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+While you are in your [umbral form](../feature/trait/shadow/level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../movement/teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../movement/teleport.md) this way is invisible for 1 hour or until they use an ability.
 
 ### Perk
 

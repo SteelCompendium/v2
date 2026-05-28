@@ -12,9 +12,9 @@ name: Shadowgrasp
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp
 target: Each enemy in the area
-tier1: 11 corruption damage; A < WEAK, restrained (save ends)
-tier2: 16 corruption damage; A < AVERAGE, restrained (save ends)
-tier3: 21 corruption damage; A < STRONG, restrained (save ends)
+tier1: 11 corruption damage; A < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier2: 16 corruption damage; A < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier3: 21 corruption damage; A < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **Power Roll + Agility:**
 
-- **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+- **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+- **17+:** 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)

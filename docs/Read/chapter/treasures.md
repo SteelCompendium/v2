@@ -54,7 +54,7 @@ Your character can carry any number of consumables at a time.
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and forced movement, winded: Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and [forced movement](../movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](negotiation.md).
 
@@ -84,11 +84,11 @@ Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to
 
 Though its size and make are often debated, the sword is consistently described as having a crossguard made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in weapons. Those who touch the blade are filled with the vigor and power of the heroes who have held it before.
 
-**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also frightened and weakened until the end of their next turn.
+**Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](../../Browse/condition/frightened.md) and [weakened](../../Browse/condition/weakened.md) until the end of their next turn.
 
 **Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature's Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.
 
-**Turn the Tide:** Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.
+**Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](../../Browse/condition/dazed.md). Any enemy leader or solo creature in that area takes a bane on ability rolls.
 
 **Victory's Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
@@ -108,7 +108,7 @@ The Encepter is said to have first manifested in a young world doomed to apocaly
 
 **Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the Encepter. Creatures remain lassoed until the lasso is released or until a new line is drawn.
 
-**Dominion:** Each creature lassoed by the Encepter is restrained and can't teleport. A creature caught in midair while lassoed stays in place rather than falling.
+**Dominion:** Each creature lassoed by the Encepter is [restrained](../../Browse/condition/restrained.md) and can't [teleport](../movement/teleport.md). A creature caught in midair while lassoed stays in place rather than falling.
 
 **Obliteration:** As a main action, the wielder raises the Encepter to the sky. Each target lassoed by the Encepter erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
 

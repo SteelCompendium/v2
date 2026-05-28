@@ -35,7 +35,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they [are prone](../../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
 ###### Love Domain Piety and Effect
 
@@ -54,7 +54,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Storm Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
+- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../../../../movement/forced-movement.md).
 - **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
 ###### Sun Domain Piety and Effect
@@ -64,7 +64,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or [Hide](../../../../skill/hide.md) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
 
 ###### War Domain Piety and Effect

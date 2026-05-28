@@ -14,9 +14,9 @@ name: I've Got Your Back
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back
 target: One creature
-tier1: 5 + R damage; taunted (EoT)
-tier2: 9 + R damage; taunted (EoT)
-tier3: 12 + R damage; taunted (EoT)
+tier1: 5 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+tier2: 9 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+tier3: 12 + R damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 + R damage; taunted (EoT)
-- **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + R damage; taunted (EoT)
+- **≤11:** 5 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
+- **12-16:** 9 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
+- **17+:** 12 + R damage; [taunted](../../../../condition/taunted.md) (EoT)
 
 **Effect:** One ally adjacent to the target can spend a Recovery.

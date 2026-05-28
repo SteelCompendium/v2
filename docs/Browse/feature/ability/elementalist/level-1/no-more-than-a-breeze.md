@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 flavor: The material substance of a creature shreds away at your command.
 keywords:
     - Magic
@@ -24,6 +24,6 @@ type: ability
 |-------------------------|------------------------:|
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
 **Persistent 1:** The effect lasts until the start of your next turn.

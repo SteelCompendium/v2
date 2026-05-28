@@ -14,9 +14,9 @@ name: Concussive Strike
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike
 target: One creature or object
-tier1: 3 + M damage; M < WEAK, dazed (save ends)
-tier2: 5 + M damage; M < AVERAGE, dazed (save ends)
-tier3: 8 + M damage; M < STRONG, dazed (save ends)
+tier1: 3 + M damage; M < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier2: 5 + M damage; M < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier3: 8 + M damage; M < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
 type: ability
 ---
 
@@ -30,6 +30,6 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 5 Discipline
 distance: Self
-effect: While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+effect: While you have temporary Stamina from this ability, you can't be made [bleeding](scc:mcdm.heroes.v1/condition/bleeding) even while dying.
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 keywords:
     - Psionic
@@ -32,4 +32,4 @@ type: ability
 - **12-16:** You gain 15 temporary Stamina.
 - **17+:** You gain 20 temporary Stamina.
 
-**Effect:** While you have temporary Stamina from this ability, you can't be made bleeding even while dying.
+**Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.

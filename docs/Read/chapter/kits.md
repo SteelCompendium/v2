@@ -128,7 +128,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
-A kit that has a disengage bonus increases the number of squares you can shift when you take the Disengage move action (see Chapter 10: [Combat](combat.md)).
+A kit that has a disengage bonus increases the number of squares you can [shift](../movement/shifting.md) when you take the Disengage move action (see Chapter 10: [Combat](combat.md)).
 
 ### Kit Signature Ability
 

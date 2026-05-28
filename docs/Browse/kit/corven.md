@@ -24,4 +24,4 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/trai
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** You can shift up to 2 squares before or after making the power roll.
+**Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the power roll.

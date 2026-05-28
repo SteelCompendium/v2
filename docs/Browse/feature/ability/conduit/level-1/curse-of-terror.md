@@ -13,9 +13,9 @@ name: Curse of Terror
 power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror
 target: One creature
-tier1: 6 + I holy damage; I < WEAK, frightened (save ends)
-tier2: 9 + I holy damage; I < AVERAGE, frightened (save ends)
-tier3: 13 + I holy damage; I < STRONG, frightened (save ends)
+tier1: 6 + I holy damage; I < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 9 + I holy damage; I < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 13 + I holy damage; I < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -29,6 +29,6 @@ type: ability
 
 **Power Roll + Intuition:**
 
-- **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
+- **≤11:** 6 + I holy damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+- **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)

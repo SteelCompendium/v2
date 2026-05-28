@@ -20,6 +20,6 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/trai
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, prone
-- **12-16:** 7 + M damage; A < AVERAGE, prone
-- **17+:** 9 + M damage; A < STRONG, prone
+- **≤11:** 4 + M damage; A < WEAK[, prone](../condition/prone.md)
+- **12-16:** 7 + M damage; A < AVERAGE[, prone](../condition/prone.md)
+- **17+:** 9 + M damage; A < STRONG[, prone](../condition/prone.md)

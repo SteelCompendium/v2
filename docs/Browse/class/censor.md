@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* Intimidate, Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* [Intimidate](scc:mcdm.heroes.v1/skill/intimidate), [Religion](scc:mcdm.heroes.v1/skill/religion).)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2
@@ -43,7 +43,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **Recoveries:** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* Intimidate, Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
 
 ###### Censor Advancement Table
 
@@ -100,13 +100,13 @@ You can interpret diagrams and charts even if you don't understand the language 
 
 Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
 
-**Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
+**Clear:** You and your allies gain an edge on tests that use the [Search](../skill/search.md) or [Navigate](../skill/navigate.md) skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
+**Foggy:** You and your allies gain an edge on tests that use the [Hide](../skill/hide.md) skill.
 
-**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Overcast:** You and your allies gain an edge on tests that use the [Endurance](../skill/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the [Track](../skill/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -114,9 +114,9 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 [Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
-- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the Read Person skill.
-- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the Magic skill.
-- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the Lead skill.
+- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../skill/read-person.md) skill.
+- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../skill/magic.md) skill.
+- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../skill/lead.md) skill.
 
 Your [censor](censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
@@ -139,7 +139,7 @@ You have the following ability.
 > |-------------|----------------:|
 > | **📏 Self** |     **🎯 Self** |
 > 
-> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ### Grave Speech
 
@@ -200,10 +200,10 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 > 
 > Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 > 
-> - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../condition/taunted.md)) by you until the end of their next turn.
 >   
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -211,7 +211,7 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 The first time on a turn that you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
-- **Exorcist:** You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
+- **Exorcist:** You can [teleport](../movement/teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
 - **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
 - **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
 
@@ -236,7 +236,7 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 > 
 > **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 > 
-> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../condition/prone.md) target can stand up.
 
 ### Oracular Visions
 
@@ -284,11 +284,11 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M holy damage; grabbed
-- **12-16:** 9 + M holy damage; grabbed
-- **17+:** 13 + M holy damage; grabbed
+- **≤11:** 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
+- **12-16:** 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
+- **17+:** 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md)) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 ### Back Blasphemer!
 
@@ -330,11 +330,11 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
+- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
+- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
+- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
 
-**Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+**Effect:** Each enemy [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 ### Censored
 
@@ -366,7 +366,7 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 - **12-16:** 6 + M damage; push 3
 - **17+:** 9 + M damage; push 5
 
-**Effect:** You can shift up to your speed in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../movement/shifting.md) up to your speed in a straight line toward the target after pushing them.
 
 ### Every Step... Death!
 
@@ -392,7 +392,7 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ### Grave Speech
 
@@ -414,9 +414,9 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)
+- **≤11:** 2 + M holy damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
+- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
+- **17+:** 7 + M holy damage; P < STRONG, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
 
 ### Hands of the Maker
 
@@ -444,10 +444,10 @@ When a creature judged by you is reduced to 0 Stamina, you can use a free trigge
 
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
-- When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+- When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+- If you damage a creature judged by you with a melee ability, the creature is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../condition/taunted.md)) by you until the end of their next turn.
   
 You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -463,7 +463,7 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
 
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../condition/prone.md) target can stand up.
 
 ### Purifying Fire
 
@@ -491,9 +491,9 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)
+- **≤11:** 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
+- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
+- **17+:** 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
 
 ### The Gods Punish and Defend
 
@@ -591,11 +591,11 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 **Power Roll + Might:**
 
-- **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
+- **≤11:** 8 + M holy damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
+- **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
+- **17+:** 15 + M holy damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
 
-**Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+**Effect:** If the target is already [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 ### Prescient Grace
 
@@ -629,11 +629,11 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
-- **17+:** 12 + P damage; P < STRONG, restrained (save ends)
+- **≤11:** 5 + P damage; P < WEAK, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
+- **12-16:** 9 + P damage; P < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
+- **17+:** 12 + P damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
 
-**Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
+**Effect:** While the target is [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) this way, your abilities that impose [forced movement](../movement/forced-movement.md) can still move them.
 
 ### With My Blessing
 
@@ -649,7 +649,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### Look On My Work and Despair
 
-Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/trait/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.
+Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/trait/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends). If the target is already [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you, they instead take holy damage equal to twice your Presence score.
 
 ## 3rd-Level Abilities
 
@@ -691,7 +691,7 @@ Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [div
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](../movement/forced-movement.md) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 
 ## 4th-Level Features
 
@@ -733,7 +733,7 @@ You have the following ability.
 > |-----------------|--------------------------------------:|
 > | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 > 
-> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+> **Effect:** Each creature in the area has a double edge on tests made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ### Characteristic Increase
 
@@ -783,11 +783,11 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/t
 
 ### Windwalk
 
-While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
+While you have 5 or more Victories, you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 bonus to speed while [flying](../movement/fly.md) instead.
 
 ### Wode Road
 
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
+As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
 
 ### Wrath Beyond Wrath
 
@@ -803,7 +803,7 @@ The first time each combat round that you deal damage to a creature judged by yo
 |-----------------|--------------------------------------:|
 | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double edge on tests made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ## 5th-Level Features
 
@@ -843,7 +843,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 |------------------|------------------------:|
 | **📏 Ranged 10** | **🎯 Self or one ally** |
 
-**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
+**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up. The target then gains 2 surges, can [shift](../movement/shifting.md) up to their speed while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
 
 ### Orison of Victory
 
@@ -859,7 +859,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 - **12-16:** Each target gains 2 surges.
 - **17+:** Each target gains 3 surges.
 
-**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up.
 
 ### Righteous Judgment
 
@@ -898,9 +898,9 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 Each time you finish a respite, you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next respite:
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
-- Any creature struck by the weapon who has holy weakness and has P < STRONG is frightened and weakened (save ends).
+- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../condition/frightened.md) and [weakened](../condition/weakened.md) (save ends).
 - Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
-- The weapon's wielder can't be made frightened.
+- The weapon's wielder can't be made [frightened](../condition/frightened.md).
 
 ### Perk
 
@@ -932,9 +932,9 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 
 **Power Roll + Presence:**
 
-- **≤11:** Slide 3; I < WEAK, dazed (save ends)
-- **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
-- **17+:** Slide 7; I < STRONG, dazed (save ends)
+- **≤11:** Slide 3; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** Slide 5; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** Slide 7; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ### Congregation
 
@@ -950,7 +950,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 - **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
 - **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
 
-**Effect:** Each ally can shift up to 2 squares and gains 2 surges before making the strike.
+**Effect:** Each ally can [shift](../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
 
 ### Edict of Peace
 
@@ -1024,13 +1024,13 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 ###### Guided to Your Side
 
 > 
-> *You concentrate on a friend and teleport to them.*
+> *You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 > 
 > | **Magic, Ranged** |           **Main action** |
 > |-------------------|--------------------------:|
 > | **📏 Ranged 10**  | **🎯 Self and each ally** |
 > 
-> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+> **Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Divine Quartermaster
 
@@ -1066,7 +1066,7 @@ Each benefit lasts until the creature who gains it finishes another respite.
 
 ### Ride the Lightning
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../feature/trait/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../feature/trait/censor/level-4/windwalk.md) already grants you a bonus to speed, this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Presence score. While you are under the effect of your [Windwalk](../feature/trait/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If [Windwalk](../feature/trait/censor/level-4/windwalk.md) already grants you a bonus to speed, this bonus adds to that.
 
 ### Skill
 
@@ -1105,13 +1105,13 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### Guided to Your Side
 
-*You concentrate on a friend and teleport to them.*
+*You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 
 | **Magic, Ranged** |           **Main action** |
 |-------------------|--------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+**Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/trait/censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ### Trinity of Trickery
 
@@ -1165,11 +1165,11 @@ Your words take on the power of your deity, with all the authority that entails.
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
-- **17+:** 18 + M damage; I < STRONG, weakened (save ends)
+- **≤11:** 9 + M damage; I < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 13 + M damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 18 + M damage; I < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
+**Effect:** At the end of each of your turns, a target [weakened](../condition/weakened.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../condition/weakened.md) this way can't be targeted by their allies' abilities.
 
 ### Hand of the Gods
 
@@ -1197,11 +1197,11 @@ Your words take on the power of your deity, with all the authority that entails.
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-- **17+:** 18 + M damage; I < STRONG, dazed (save ends)
+- **≤11:** 9 + M damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 13 + M damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 18 + M damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
+**Effect:** At the end of each of your turns, a target [dazed](../condition/dazed.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
 ### Your Allies Turn on You!
 
@@ -1213,11 +1213,11 @@ Your words take on the power of your deity, with all the authority that entails.
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P damage; I < WEAK, slowed (save ends)
-- **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
-- **17+:** 12 + P damage; I < STRONG, slowed (save ends)
+- **≤11:** 5 + P damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 9 + P damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 12 + P damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ## 9th-Level Features
 
@@ -1307,11 +1307,11 @@ The weapon you target with your [Implement of Wrath](../feature/trait/censor/lev
 
 **Power Roll + Presence:**
 
-- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
-- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
+- **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 13 + P psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+**Effect:** While [frightened](../condition/frightened.md) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../condition/frightened.md) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
 
 ## 10th-Level Features
 

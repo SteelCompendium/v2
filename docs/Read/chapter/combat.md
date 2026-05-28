@@ -107,7 +107,7 @@ The Movement section below breaks down how your move action works, while the Man
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to force move a target, but only after an enemy has first tried to force move the [fury](../../Browse/class/fury.md) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
 
 A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/class/shadow.md) hero can use their [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/class/shadow.md) can still use their In All This Confusion triggered action later in the round.
 
@@ -183,7 +183,7 @@ If multiple damage weaknesses apply to a source of damage, only the weakness wit
 
 ### Stamina
 
-Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../Browse/condition/bleeding.md) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
@@ -199,7 +199,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are bleeding, and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -221,7 +221,7 @@ Heroes remain unconscious for 1 hour if no one does anything to wake them. After
 
 ##### Unconscious
 
-While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are prone. Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
+While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you [are prone](../../Browse/condition/prone.md). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
 
 #### Temporary Stamina
 
@@ -258,9 +258,9 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
-If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is force moved, they carry any riders with them. Riders and mounts teleport separately.
+If a creature riding a mount is [force moved](../movement/forced-movement.md), they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../movement/teleport.md) separately.
 
-If your mount dies, they fall prone, and you fall off them and land prone in the nearest unoccupied space of your choice.
+If your mount dies, they [fall prone](../../Browse/condition/prone.md), and you fall off them and l[and prone](../../Browse/condition/prone.md) in the nearest unoccupied space of your choice.
 
 ### End of Combat
 
@@ -336,6 +336,6 @@ Event endings can cover big scenarios such as the characters destroying a dam to
 
 > **Fleeing Foes**
 >
-> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/condition/grabbed.md) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 >
 > Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.

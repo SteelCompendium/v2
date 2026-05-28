@@ -13,9 +13,9 @@ name: They Always Line Up
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up
 target: Each enemy in the area
-tier1: 12 damage; M < WEAK, slowed (save ends)
-tier2: 18 damage; M < AVERAGE, slowed (save ends)
-tier3: 24 damage; M < STRONG, slowed (save ends)
+tier1: 12 damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 18 damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 24 damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -29,6 +29,6 @@ type: ability
 
 **Power Roll + Agility:**
 
-- **≤11:** 12 damage; M < WEAK, slowed (save ends)
-- **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-- **17+:** 24 damage; M < STRONG, slowed (save ends)
+- **≤11:** 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+- **12-16:** 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+- **17+:** 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)

@@ -27,4 +27,4 @@ type: title
 > |-----------------|-------------------------------------:|
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is frightened (save ends).
+> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](../condition/frightened.md) (save ends).

@@ -14,9 +14,9 @@ name: Greater Kinetic Grip
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
 target: One creature or object
-tier1: Slide 4 + R; M < WEAK, the forced movement is vertical
-tier2: Slide 8 + R; M < AVERAGE, the forced movement is vertical
-tier3: Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+tier1: Slide 4 + R; M < WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
+tier2: Slide 8 + R; M < AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
+tier3: Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M < STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
 type: ability
 ---
 
@@ -30,8 +30,8 @@ type: ability
 
 **Power Roll + Reason:**
 
-- **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-- **17+:** Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+- **17+:** Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 
-**Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
+**Strained:** The [forced movement](../../../../movement/forced-movement.md) ignores stability. You take 2d6 damage and are [weakened](../../../../condition/weakened.md) (save ends).

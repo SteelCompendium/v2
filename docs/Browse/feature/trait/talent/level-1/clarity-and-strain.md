@@ -14,7 +14,7 @@ The focus and precision of your thoughts grant you a Heroic Resource called clar
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity.
 
-Additionally, the first time each combat round that a creature is force moved, you gain 1 clarity.
+Additionally, the first time each combat round that a creature is [force moved](../../../../movement/forced-movement.md), you gain 1 clarity.
 
 You can spend clarity you don't have, pushing that Heroic Resource into negative numbers to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
 

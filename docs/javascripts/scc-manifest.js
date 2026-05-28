@@ -449,7 +449,7 @@ window.__SCC_PERMALINK_MAP__ = {
   "Browse/feature/ability/null/level-9/time-loop/": "scc/mcdm.heroes.v1/feature.ability.null.level-9/time-loop/",
   "Browse/feature/ability/polder/shadowmeld/": "scc/mcdm.heroes.v1/feature.ability.polder/shadowmeld/",
   "Browse/feature/ability/revenant/detonate-sigil/": "scc/mcdm.heroes.v1/feature.ability.revenant/detonate-sigil/",
-  "Browse/feature/ability/shadow/level-1/black-ash-teleport/": "scc/mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport/",
+  "Browse/feature/ability/shadow/level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport/": "scc/mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport/",
   "Browse/feature/ability/shadow/level-1/clever-trick/": "scc/mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick/",
   "Browse/feature/ability/shadow/level-1/coat-the-blade/": "scc/mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade/",
   "Browse/feature/ability/shadow/level-1/coup-de-grace/": "scc/mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace/",

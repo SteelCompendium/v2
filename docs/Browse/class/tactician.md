@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the Lead skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the [Lead](scc:mcdm.heroes.v1/skill/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -39,7 +39,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Recoveries:** 10
 
-**Skills:** You gain the Lead skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
 
 ###### Tactician Advancement Table
 
@@ -79,7 +79,7 @@ You command any room you walk into. While you are present during a negotiation, 
 
 ### Covert Operations
 
-While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist another creature with any test made using a skill from the intrigue group.
+While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the [Lead](../skill/lead.md) skill to assist another creature with any test made using a skill from the intrigue group.
 
 At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
@@ -176,8 +176,8 @@ You know how to focus the attention of your allies as you push them toward victo
 >
 > - The ability deals extra damage equal to twice your Reason score.
 > - The creature dealing the damage can spend a Recovery.
-> - The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-> - If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+> - The creature dealing the damage can [shift](../movement/shifting.md) up to a number of squares equal to your Reason score.
+> - If you damage a creature marked by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
 >
 > You can't gain more than one benefit from the same trigger.
 
@@ -218,7 +218,7 @@ You can make this test only once for any encounter or negotiation.
 
 ### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the [Intimidate](../skill/intimidate.md) skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
@@ -266,9 +266,9 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
-- **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
+- **≤11:** 3 + M damage; M < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 5 + M damage; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 8 + M damage; M < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ### Hammer and Anvil
 
@@ -316,8 +316,8 @@ While a creature marked by you is within your line of effect, you and allies wit
 
 - The ability deals extra damage equal to twice your Reason score.
 - The creature dealing the damage can spend a Recovery.
-- The creature dealing the damage can shift up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.
+- The creature dealing the damage can [shift](../movement/shifting.md) up to a number of squares equal to your Reason score.
+- If you damage a creature marked by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
 
 You can't gain more than one benefit from the same trigger.
 
@@ -333,9 +333,9 @@ You can't gain more than one benefit from the same trigger.
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
-- **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
+- **≤11:** 4 + M damage; R < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 6 + M damage; R < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 10 + M damage; R < STRONG, [weakened](../condition/weakened.md) (save ends)
 
 **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 
@@ -361,7 +361,7 @@ You can't gain more than one benefit from the same trigger.
 
 **Effect:** At any time during the target's movement, one ally can make a free strike against them.
 
-**Spend 1 Focus:** If the target has R < AVERAGE, they are slowed (EoT).
+**Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../condition/slowed.md) (EoT).
 
 ### Parry
 
@@ -373,9 +373,9 @@ You can't gain more than one benefit from the same trigger.
 
 **Trigger:** A creature deals damage to the target.
 
-**Effect:** You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+**Effect:** You can [shift](../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
 
-**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can shift up to a number of squares equal to your Reason score instead of 1 square.
+**Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can [shift](../movement/shifting.md) up to a number of squares equal to your Reason score instead of 1 square.
 
 ### Squad! Forward!
 
@@ -435,7 +435,7 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or [shift](../movement/shifting.md) within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
 
 ### Perk
 
@@ -465,9 +465,9 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 + R damage; taunted (EoT)
-- **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + R damage; taunted (EoT)
+- **≤11:** 5 + R damage; [taunted](../condition/taunted.md) (EoT)
+- **12-16:** 9 + R damage; [taunted](../condition/taunted.md) (EoT)
+- **17+:** 12 + R damage; [taunted](../condition/taunted.md) (EoT)
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
@@ -485,9 +485,9 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 **Power Roll + Might:**
 
-- **≤11:** R < WEAK, the target is frightened of the triggering ally (save ends)
-- **12-16:** R < AVERAGE, the target is frightened of the triggering ally (save ends)
-- **17+:** R < STRONG, the target is frightened of the triggering ally (save ends)
+- **≤11:** R < WEAK, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
+- **12-16:** R < AVERAGE, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
+- **17+:** R < STRONG, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
 
 ### Squad! On Me!
 
@@ -519,13 +519,13 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+**Effect:** You [shift](../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
-- **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-- **17+:** 4 + R damage; R < STRONG, frightened (save ends)
+- **≤11:** 2 + R damage; R < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 3 + R damage; R < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 4 + R damage; R < STRONG, [frightened](../condition/frightened.md) (save ends)
 
 ## 3rd-Level Features
 
@@ -543,7 +543,7 @@ Even before battle begins, your enemies struggle to keep up with your tactics. A
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then shift up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
+**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
 
 ### Hit 'Em Hard!
 
@@ -563,7 +563,7 @@ Even before battle begins, your enemies struggle to keep up with your tactics. A
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is frightened of the creature who dealt the damage (save ends).
+**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../condition/frightened.md) of the creature who dealt the damage (save ends).
 
 ### Stay Strong and Focus!
 
@@ -671,7 +671,7 @@ When you use the Charge main action to attack a creature marked by you, you can 
 |----------------|--------------------------------------:|
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are prone.
+**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they [are prone](../condition/prone.md).
 
 ### You've Still Got Something Left
 
@@ -727,7 +727,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 |----------------|--------------------------------------:|
 | **📏 2 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.
+**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../movement/shifting.md) up to their speed. You and each target gain 2 surges.
 
 ### Instant Retaliation
 
@@ -743,9 +743,9 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 
 **Power Roll + Might:**
 
-- **≤11:** A < WEAK, dazed (save ends)
-- **12-16:** A < AVERAGE, dazed (save ends)
-- **17+:** A < STRONG, dazed (save ends)
+- **≤11:** A < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** A < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** A < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ### Panic in Their Lines
 
@@ -761,7 +761,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 - **12-16:** 9 + M damage; slide 3
 - **17+:** 13 + M damage; slide 5
 
-**Effect:** If a target is force moved into another creature, they must make a free strike against that creature.
+**Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a free strike against that creature.
 
 ### To Me Squad!
 
@@ -777,7 +777,7 @@ You gain one exploration, interpersonal, or intrigue perk of your choice.
 - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
 - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
 
-**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
+**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../condition/dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
 ## 7th-Level Features
 
@@ -839,7 +839,7 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike [shift](../movement/shifting.md) up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the [shift](../movement/shifting.md). The creature can [shift](../movement/shifting.md) before or after the strike is resolved.
 
 ### Perk
 
@@ -849,13 +849,13 @@ You gain one perk of your choice.
 
 You have trained your squad to coordinate their movements to maximize combat impact.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike shift up to a number of squares equal to your Reason score before the strike is resolved. If you didn't make the strike, you can make this shift as well. If you did make the strike, one ally within 10 squares of you can make this shift as well.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike [shift](../movement/shifting.md) up to a number of squares equal to your Reason score before the strike is resolved. If you didn't make the strike, you can make this [shift](../movement/shifting.md) as well. If you did make the strike, one ally within 10 squares of you can make this [shift](../movement/shifting.md) as well.
 
 ### See Your Enemies Driven Before You
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then shift up to a number of squares equal to your Reason score, ending this shift adjacent to the target.
+**Mark Benefit:** When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then [shift](../movement/shifting.md) up to a number of squares equal to your Reason score, ending this [shift](../movement/shifting.md) adjacent to the target.
 
 ## 8th-Level Abilities
 
@@ -951,7 +951,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
 
 ### Squad! Hit and Run!
 
@@ -961,7 +961,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 |------------------|---------------------------:|
 | **📏 Ranged 10** | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
 
 ### That One Is Mine!
 
@@ -993,9 +993,9 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 **Power Roll + Might:**
 
-- **≤11:** R < WEAK, dazed (save ends)
-- **12-16:** R < AVERAGE, dazed (save ends)
-- **17+:** R < STRONG, dazed (save ends)
+- **≤11:** R < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** R < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** R < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ## 10th-Level Features
 

@@ -15,6 +15,6 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
-- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any jump you make by 1 square, both until the end of your turn.
+- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore [difficult terrain](../movement/difficult-terrain.md) and you can increase the distance of any jump you make by 1 square, both until the end of your turn.
 - *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](../class/censor.md) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.

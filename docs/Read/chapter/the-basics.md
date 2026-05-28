@@ -128,7 +128,7 @@ The specific outcome of any power roll is determined by the effect or ability th
 
 ##### Downgrade a Power Roll
 
-Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the restrained condition on a creature, but the tier 2 outcome for that ability lets you impose the slowed condition, you can use the tier 2 outcome if you would rather have the creature slowed than restrained.
+Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../Browse/condition/restrained.md) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../Browse/condition/slowed.md) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../../Browse/condition/slowed.md) than [restrained](../../Browse/condition/restrained.md).
 
 If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in [Classes](classes.md)).
 
@@ -140,23 +140,23 @@ When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result r
 
 #### Edges and Banes
 
-An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their high ground. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
+An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their [high ground](../movement/high-ground.md). A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
 ##### Edge
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a prone creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee strike against a [prone](../../Browse/condition/prone.md) creature gains an edge on the power roll for their strike. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
 
 When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ##### Bane
 
-A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while prone, the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
+A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a strike while [prone](../../Browse/condition/prone.md), the power roll for the strike takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
 ##### Rolling With Edges and Banes
 
-Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when weakened by poison, even as you gain an edge for striking a prone creature. In general, edges and banes cancel each other out, resolving as follows:
+Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when [weakened](../../Browse/condition/weakened.md) by poison, even as you gain an edge for striking a [prone](../../Browse/condition/prone.md) creature. In general, edges and banes cancel each other out, resolving as follows:
 
 - If you have an edge and a bane, or if you have a double edge and a double bane, the roll is made as usual without any edges or banes.
 - If you have a double edge and just one bane, the roll is made with one edge, regardless of how many individual edges contribute to the double edge.
@@ -168,7 +168,7 @@ The rules tell you when to modify a roll with an edge or a bane. The Director ca
 
 > **Why Cap?**
 >
-> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can't really make it harder.
+> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](../../Browse/condition/prone.md) and [weakened](../../Browse/condition/weakened.md) by poison already finds it difficult to attack—so that becoming [restrained](../../Browse/condition/restrained.md) by a net can't really make it harder.
 
 We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 

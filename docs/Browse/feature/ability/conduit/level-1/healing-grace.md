@@ -29,5 +29,5 @@ type: ability
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-- A prone target can stand up.
+- A [prone target](../../../../condition/prone.md) can stand up.
 - A target can spend 1 additional Recovery.

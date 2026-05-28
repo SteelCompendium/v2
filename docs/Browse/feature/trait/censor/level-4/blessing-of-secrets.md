@@ -19,4 +19,4 @@ You have the following ability.
 > |-----------------|--------------------------------------:|
 > | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 > 
-> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+> **Effect:** Each creature in the area has a double edge on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.

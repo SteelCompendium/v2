@@ -36,4 +36,4 @@ type: ability
 
 **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 
-**Strained:** You take 1d6 damage and are weakened until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../../../../condition/weakened.md) until the end of your turn.

@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:
-    - 'You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)'
+    - 'You gain the Psionics and [Read Person](scc:mcdm.heroes.v1/skill/read-person) skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Timescape.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2
@@ -39,7 +39,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
+**Skills:** You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
 ###### Talent Advancement Table
 
@@ -121,7 +121,7 @@ The focus and precision of your thoughts grant you a Heroic Resource called clar
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity.
 
-Additionally, the first time each combat round that a creature is force moved, you gain 1 clarity.
+Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 1 clarity.
 
 You can spend clarity you don't have, pushing that Heroic Resource into negative numbers to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
 
@@ -245,9 +245,9 @@ You have the following ability.
 > |---------------------|------------------------:|
 > | **📏 Ranged 10**    | **🎯 Self or one ally** |
 >
-> **Trigger:** The target takes damage or is force moved.
+> **Trigger:** The target takes damage or is [force moved](../movement/forced-movement.md).
 >
-> **Effect:** The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.
+> **Effect:** The target takes half the triggering damage, or the distance of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your Reason score.
 
 ### Repulsive Ward
 
@@ -255,7 +255,7 @@ You surround yourself with an invisible ward of telekinetic energy. Whenever an 
 
 ### Speed Augmentation
 
-You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
 
 ### Steel Ward
 
@@ -326,9 +326,9 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Power Roll + Presence:**
 
-- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)
-- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)
-- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)
+- **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 9 + P psychic damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
 
 ### Choke
 
@@ -340,11 +340,11 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Power Roll + Reason:**
 
-- **≤11:** 3 + R damage; M < WEAK, slowed (save ends)
-- **12-16:** 5 + R damage; M < AVERAGE, slowed (save ends)
-- **17+:** 8 + R damage; M < STRONG, restrained (save ends)
+- **≤11:** 3 + R damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 5 + R damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 8 + R damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made restrained by this ability, this forced movement ignores their stability.
+**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../condition/restrained.md) by this ability, this [forced movement](../movement/forced-movement.md) ignores their stability.
 
 ### Entropic Bolt
 
@@ -356,9 +356,9 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
-- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
+- **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
@@ -386,7 +386,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
-**Strained:** You take 1d6 damage and are slowed (save ends).
+**Strained:** You take 1d6 damage and are [slowed](../condition/slowed.md) (save ends).
 
 ### Hoarfrost
 
@@ -398,11 +398,11 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R cold damage; M < WEAK, slowed (EoT)
-- **12-16:** 4 + R cold damage; M < AVERAGE, slowed (EoT)
-- **17+:** 6 + R cold damage; M < STRONG, slowed (EoT)
+- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../condition/slowed.md) (EoT)
+- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../condition/slowed.md) (EoT)
+- **17+:** 6 + R cold damage; M < STRONG, [slowed](../condition/slowed.md) (EoT)
 
-**Strained:** You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.
+**Strained:** You are [slowed](../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../condition/slowed.md) by this ability is [restrained](../condition/restrained.md) instead.
 
 ### Incinerate
 
@@ -430,9 +430,9 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 |----------------------------------|------------------------:|
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
 
-**Strained:** You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.
+**Strained:** You are [weakened](../condition/weakened.md) (save ends). While you are [weakened](../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../movement/forced-movement.md) distance gains a +5 bonus.
 
 ### Iron
 
@@ -458,7 +458,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 - **≤11:** Slide 2 + R
 - **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; prone
+- **17+:** Slide 6 + R; [prone](../condition/prone.md)
 
 **Strained:** You must vertical push the target instead of sliding them.
 
@@ -476,7 +476,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the burst increases by 2, and you are bleeding until the start of your next turn.
+**Strained:** The size of the burst increases by 2, and you are [bleeding](../condition/bleeding.md) until the start of your next turn.
 
 ### Materialize
 
@@ -536,9 +536,9 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 + R damage; M < WEAK, prone
-- **12-16:** 4 + R damage; M < AVERAGE, prone
-- **17+:** 6 + R damage; M < STRONG, prone
+- **≤11:** 2 + R damage; M < WEAK[, prone](../condition/prone.md)
+- **12-16:** 4 + R damage; M < AVERAGE[, prone](../condition/prone.md)
+- **17+:** 6 + R damage; M < STRONG[, prone](../condition/prone.md)
 
 **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 
@@ -587,9 +587,9 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 |---------------------|------------------------:|
 | **📏 Ranged 10**    | **🎯 Self or one ally** |
 
-**Trigger:** The target takes damage or is force moved.
+**Trigger:** The target takes damage or is [force moved](../movement/forced-movement.md).
 
-**Effect:** The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.
+**Effect:** The target takes half the triggering damage, or the distance of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your Reason score.
 
 ### Smolder
 
@@ -671,7 +671,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made dazed, and they can use an additional maneuver on their turn. If a target is already dazed, that condition ends for them.
+**Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../condition/dazed.md), that condition ends for them.
 
 **Strained:** Your speed is halved until the end of the encounter.
 
@@ -689,7 +689,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 - **12-16:** 6 damage; vertical push 4
 - **17+:** 9 damage; vertical push 6
 
-**Strained:** The size of the burst increases by 1, and you are weakened until the end of your turn.
+**Strained:** The size of the burst increases by 1, and you are [weakened](../condition/weakened.md) until the end of your turn.
 
 ### Levity and Gravity
 
@@ -701,9 +701,9 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R damage; M < WEAK, prone
-- **12-16:** 10 + R damage; M < AVERAGE, prone
-- **17+:** 14 + R damage; M < STRONG, prone and can't stand (save ends)
+- **≤11:** 6 + R damage; M < WEAK[, prone](../condition/prone.md)
+- **12-16:** 10 + R damage; M < AVERAGE[, prone](../condition/prone.md)
+- **17+:** 14 + R damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
 **Strained:** You take half the damage the target takes.
 
@@ -717,9 +717,9 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 **Power Roll + Reason:**
 
-- **≤11:** 6 + R psychic damage; I < WEAK, slowed (save ends)
-- **12-16:** 10 + R psychic damage; I < AVERAGE, weakened (save ends)
-- **17+:** 14 + R psychic damage; I < STRONG, dazed (save ends)
+- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 14 + R psychic damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
 
@@ -733,9 +733,9 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
-- **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-- **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../condition/slowed.md) (save ends).
+- **12-16:** The target is [slowed](../condition/slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
+- **17+:** The target is [slowed](../condition/slowed.md) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 
 **Effect:** A target can't use triggered actions while their speed is reduced this way.
 
@@ -757,7 +757,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 **Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 
-**Strained:** You take 1d6 damage and are weakened until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../condition/weakened.md) until the end of your turn.
 
 ## 3rd-Level Features
 
@@ -777,9 +777,9 @@ You can extend your psionic senses beyond their usual range. Once on each of you
 
 **Power Roll + Presence:**
 
-- **≤11:** 3 + P corruption damage; P < WEAK, weakened (save ends)
-- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are weakened (save ends)
-- **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are weakened (save ends)
+- **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../condition/weakened.md) (save ends)
+- **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../condition/weakened.md) (save ends)
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
@@ -803,7 +803,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Strained:** You create five orbs, and you are weakened while you have any orbs active.
+**Strained:** You create five orbs, and you are [weakened](../condition/weakened.md) while you have any orbs active.
 
 ### Reflector Field
 
@@ -827,9 +827,9 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Power Roll + Presence:**
 
-- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
-- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
-- **17+:** 14 + P damage; P < STRONG, dazed (save ends)
+- **≤11:** 6 + P damage; P < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 10 + P damage; P < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 14 + P damage; P < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 
@@ -843,7 +843,7 @@ Your Reason and Presence scores each increase to 3.
 
 ### Mind Projection
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious and prone, and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
@@ -851,7 +851,7 @@ Any abilities or features you use originate from your mind. Both your mind and y
 
 Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.
 
-Additionally, the first time each combat round that a creature is force moved, you gain 2 clarity instead of 1.
+Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
 
 ### Perk
 
@@ -863,9 +863,9 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/t
 
 ### Suspensor Field
 
-You can fly. While flying, your stability is reduced to 0 and can't be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+You can [fly](../movement/fly.md). While [flying](../movement/fly.md), your stability is reduced to 0 and can't be increased. If you can already [fly](../movement/fly.md), you have a +2 bonus to speed while [flying](../movement/fly.md) instead.
 
-If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.
+If you are strained while [flying](../movement/fly.md) and are force moved, the [forced movement](../movement/forced-movement.md) distance gains a +2 bonus.
 
 ## 5th-Level Features
 
@@ -887,11 +887,11 @@ Whenever you obtain a success on a test using a skill from the interpersonal ski
 
 ### Distortion Temporal
 
-While you are not dying, time behaves irregularly around you in a 3 aura. That area is difficult terrain for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.
+While you are not dying, time behaves irregularly around you in a 3 aura. That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.
 
 ### Kinetic Amplifier
 
-Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the forced movement distance gains a bonus equal to your Reason score.
+Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
 ### Remote Amplification
 
@@ -917,7 +917,7 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 
 **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
-**Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
+**Strained:** The target gains 2 surges. You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
 ### Hypersonic
 
@@ -927,7 +927,7 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 |----------------------------------------|------------------------------:|
 | **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
-**Effect:** You teleport to a square on the opposite side of the area before making the power roll.
+**Effect:** You [teleport](../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
 
 **Power Roll + Reason:**
 
@@ -935,7 +935,7 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../condition/slowed.md) until the end of your turn and each target is [slowed](../condition/slowed.md) until the end of their turn.
 
 ### Mind Snare
 
@@ -947,13 +947,13 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 
 **Power Roll + Reason:**
 
-- **≤11:** 10 + R psychic damage; R < WEAK, slowed (save ends)
-- **12-16:** 14 + R psychic damage; R < AVERAGE, slowed (save ends)
-- **17+:** 20 + R psychic damage; R < STRONG, slowed (save ends)
+- **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 20 + R psychic damage; R < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** While slowed this way, the target takes 3 psychic damage for each square they willingly leave.
+**Effect:** While [slowed](../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
 
-**Strained:** While slowed this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are slowed this way.
+**Strained:** While [slowed](../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../condition/slowed.md) this way.
 
 ### Soulbound
 
@@ -977,7 +977,7 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 
 ### Dynamic Power
 
-If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.
+If the ability force moves a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
 ### Expanded Power
 
@@ -1021,9 +1021,9 @@ If the ability has any power roll, that roll gains an edge.
 |---------------------------------|-----------------:|
 | **📏 Melee 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.
+**Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../condition/prone.md).
 
-**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are weakened (save ends).
+**Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../condition/weakened.md) (save ends).
 
 **Power Roll + Presence:**
 
@@ -1059,11 +1059,11 @@ If the ability has any power roll, that roll gains an edge.
 
 **Power Roll + Reason:**
 
-- **≤11:** Slide 4 + R; M < WEAK, the forced movement is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the forced movement is vertical
-- **17+:** Slide 12 + R; prone; M < STRONG, the forced movement is vertical
+- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../movement/forced-movement.md) is vertical
+- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../movement/forced-movement.md) is vertical
+- **17+:** Slide 12 + R; [prone](../condition/prone.md); M < STRONG, the [forced movement](../movement/forced-movement.md) is vertical
 
-**Strained:** The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).
+**Strained:** The [forced movement](../movement/forced-movement.md) ignores stability. You take 2d6 damage and are [weakened](../condition/weakened.md) (save ends).
 
 ### Stasis Field
 
@@ -1073,17 +1073,17 @@ If the ability has any power roll, that roll gains an edge.
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is restrained and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
 
 Make a power roll that targets each enemy in the area.
 
 **Power Roll + Presence:**
 
-- **≤11:** P < WEAK, the target is slowed until the effect ends
+- **≤11:** P < WEAK, the target is [slowed](../condition/slowed.md) until the effect ends
 - **12-16:** P < AVERAGE, the target's speed is 0 until the effect ends
-- **17+:** P < STRONG, the target is restrained until the effect ends
+- **17+:** P < STRONG, the target is [restrained](../condition/restrained.md) until the effect ends
 
-**Strained:** Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects restrained in the area can be force moved. You are restrained until the effect ends.
+**Strained:** Any creature or object [force moved](../movement/forced-movement.md) in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../condition/restrained.md) in the area can be [force moved](../movement/forced-movement.md). You are [restrained](../condition/restrained.md) until the effect ends.
 
 ### Synaptic Conditioning
 
@@ -1172,13 +1172,13 @@ You have the following ability.
 > |-------------------|-----------------------------:|
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../movement/fly.md) until the start of your next turn, and can immediately [shift](../movement/shifting.md) up to their speed. You can also [shift](../movement/shifting.md) up to your speed. While [flying](../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.
 
 ### Low Gravity
 
-Your mind can carry your body through tough times. You ignore difficult terrain and don't need to spend additional movement while prone.
+Your mind can carry your body through tough times. You ignore [difficult terrain](../movement/difficult-terrain.md) and don't need to spend additional movement [while prone](../condition/prone.md).
 
 ### Mindlink
 
@@ -1203,7 +1203,7 @@ You have the following ability.
 >
 > **Trigger:** The target takes damage.
 >
-> **Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+> **Effect:** The target is [teleport](../movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 >
 > **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -1223,9 +1223,9 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 
 **Power Roll + Presence:**
 
-- **≤11:** 10 + P damage; P < WEAK, weakened (save ends)
-- **12-16:** 14 + P damage; P < AVERAGE, weakened (save ends)
-- **17+:** 20 + P damage; P < STRONG, weakened and slowed (save ends)
+- **≤11:** 10 + P damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
+- **12-16:** 14 + P damage; P < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+- **17+:** 20 + P damage; P < STRONG, [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends)
 
 **Effect:** This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 
@@ -1239,7 +1239,7 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 |-------------------|-----------------------------:|
 | **📏 3 burst**    | **🎯 Each ally in the area** |
 
-**Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+**Effect:** Each target can [fly](../movement/fly.md) until the start of your next turn, and can immediately [shift](../movement/shifting.md) up to their speed. You can also [shift](../movement/shifting.md) up to your speed. While [flying](../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -1275,7 +1275,7 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
 - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
 
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).
+**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
 ### Stasis Shield
 
@@ -1287,7 +1287,7 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 
 **Trigger:** The target takes damage.
 
-**Effect:** The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+**Effect:** The target is [teleport](../movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 
 **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -1299,7 +1299,7 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 |------------------------------------|------------------------:|
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has damage immunity 5 and can't be made slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.
+**Effect:** The target has damage immunity 5 and can't be made [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../movement/forced-movement.md) distance gains a +5 bonus.
 
 **Strained:** You can't use maneuvers (save ends).
 
@@ -1313,7 +1313,7 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - You have psychic immunity 10.
 - Creatures can't read your thoughts unless you allow them to.
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
-- You can't be made taunted or frightened.
+- You can't be made [taunted](../condition/taunted.md) or [frightened](../condition/frightened.md).
 
 ## 9th-Level Abilities
 
@@ -1331,9 +1331,9 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 
 **Power Roll + Presence:**
 
-- **≤11:** 4 corruption damage; slowed (save ends)
-- **12-16:** 6 corruption damage; slowed (save ends)
-- **17+:** 10 corruption damage; slowed (save ends)
+- **≤11:** 4 corruption damage; [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 6 corruption damage; [slowed](../condition/slowed.md) (save ends)
+- **17+:** 10 corruption damage; [slowed](../condition/slowed.md) (save ends)
 
 ### Borrow From the Future
 
@@ -1361,7 +1361,7 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - **12-16:** 3 burst
 - **17+:** 4 burst
 
-**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the forced movement distance a +2 bonus. You take half the total damage all targets take from forced movement.
+**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the [forced movement](../movement/forced-movement.md) distance a +2 bonus. You take half the total damage all targets take from [forced movement](../movement/forced-movement.md).
 
 ### Gravitic Nova
 
@@ -1379,7 +1379,7 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 
 **Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
 
-**Strained:** You are weakened (save ends). If you scored a critical hit with this ability, you die.
+**Strained:** You are [weakened](../condition/weakened.md) (save ends). If you scored a critical hit with this ability, you die.
 
 ### Resonant Mind Spike
 
@@ -1411,9 +1411,9 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 
 **Power Roll + Reason:**
 
-- **≤11:** R < WEAK, frightened (save ends)
-- **12-16:** R < AVERAGE, frightened (save ends)
-- **17+:** R < STRONG, frightened (save ends)
+- **≤11:** R < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** R < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** R < STRONG, [frightened](../condition/frightened.md) (save ends)
 
 **Strained:** You can't use this ability if doing so would cause you to have negative clarity.
 
@@ -1425,7 +1425,7 @@ Your Reason and Presence scores each increase to 5.
 
 ### Clear Mind
 
-The first time each combat round that a creature is force moved, you gain 3 clarity instead of 2.
+The first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 3 clarity instead of 2.
 
 ### Omnisensory
 

@@ -26,4 +26,4 @@ type: ability
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)

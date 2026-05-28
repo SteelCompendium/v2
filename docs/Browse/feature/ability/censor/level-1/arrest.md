@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: Melee 1
-effect: If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+effect: If the target makes a strike against a creature while [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](scc:mcdm.heroes.v1/condition/grabbed)) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 flavor: '"I got you, you son of a bitch."'
 keywords:
     - Magic
@@ -15,9 +15,9 @@ name: Arrest
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/arrest
 target: One creature
-tier1: 6 + M holy damage; grabbed
-tier2: 9 + M holy damage; grabbed
-tier3: 13 + M holy damage; grabbed
+tier1: 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](scc:mcdm.heroes.v1/condition/grabbed))
+tier2: 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](scc:mcdm.heroes.v1/condition/grabbed))
+tier3: 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](scc:mcdm.heroes.v1/condition/grabbed))
 type: ability
 ---
 
@@ -31,8 +31,8 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M holy damage; grabbed
-- **12-16:** 9 + M holy damage; grabbed
-- **17+:** 13 + M holy damage; grabbed
+- **≤11:** 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../../../condition/grabbed.md))
+- **12-16:** 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../../../condition/grabbed.md))
+- **17+:** 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../../../condition/grabbed.md))
 
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../../../condition/grabbed.md)) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.

@@ -5,7 +5,7 @@ perk: One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v
 project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
 skills:
-    - The Handle Animals skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* Drive, Handle Animals, Lift.)
+    - The [Handle Animals](scc:mcdm.heroes.v1/skill/handle-animals) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](scc:mcdm.heroes.v1/skill/drive), [Handle Animals](scc:mcdm.heroes.v1/skill/handle-animals), [Lift](scc:mcdm.heroes.v1/skill/lift).)
 type: career
 ---
 
@@ -20,7 +20,7 @@ You grew crops or cared for livestock. In defining your career, think about the 
 
 You gain the following career benefits:
 
-**Skills:** The Handle Animals skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* Drive, Handle Animals, Lift.)
+**Skills:** The [Handle Animals](../skill/handle-animals.md) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](../skill/drive.md), [Handle Animals](../skill/handle-animals.md), [Lift](../skill/lift.md).)
 
 **Languages:** One language
 

@@ -140,13 +140,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Bane:** A situational disadvantage that gives a creature a −2 penalty to a power roll.
 
-**Bleeding:** A condition that causes a creature to take 1d6 + level damage whenever they use a main action or triggered action, or make a power roll using Might or Agility.
+**[Bleeding](../../Browse/condition/bleeding.md):** A condition that causes a creature to take 1d6 + level damage whenever they use a main action or triggered action, or make a power roll using Might or Agility.
 
 **Bonus:** A positive number that increases a creature's statistics or the roll of a die.
 
 **Breakthrough:** A natural 19 or 20 on a project roll. When a character experiences a breakthrough, they can make another project roll for the same project as part of the same respite activity.
 
-**Burrow:** A movement mode available to creatures with "burrow" in their speed entry, or who gain the capability to temporarily burrow. Such creatures can move through dirt horizontally at full speed.
+**[Burrow](../movement/burrow.md):** A movement mode available to creatures with "burrow" in their speed entry, or who gain the capability to temporarily [burrow](../movement/burrow.md). Such creatures can move through dirt horizontally at full speed.
 
 **Burst:** When an ability or other effect creates a burst, that area is expressed as "X burst." The number X is the radius of the burst, which always originates from the creature or object who created it, extends from the outside of the creator's space, and lasts only for as long as it takes to affect its targets.
 
@@ -168,7 +168,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Class:** A hero's current role, which largely determines how they interact with the game's rules.
 
-**[Claw Dirt](../../Browse/feature/ability/common/claw-dirt.md):** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to burrow.
+**[Claw Dirt](../../Browse/feature/ability/common/claw-dirt.md):** An ability that uses a maneuver to allow a creature without "burrow" in their speed entry to [burrow](../movement/burrow.md).
 
 **Climb:** A movement mode that allows a creature to climb without using additional squares of movement. A creature without "climb" in their speed entry or the temporary ability to climb must use 2 squares of movement to climb 1 square.
 
@@ -178,7 +178,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Concealment:** A state where a target has their form entirely covered in a concealing effect that doesn't block line of effect, such as darkness or fog. While a target has concealment, strikes used against them take a bane.
 
-**Condition:** A negative effect that applies to a creature and uses a universal shorthand name. Bleeding, dazed, frightened, grabbed, prone,  restrained, slowed, taunted, and weakened are conditions in *Draw Steel*.
+**Condition:** A negative effect that applies to a creature and uses a universal shorthand name. [Bleeding](../../Browse/condition/bleeding.md), [dazed](../../Browse/condition/dazed.md), [frightened](../../Browse/condition/frightened.md), [grabbed](../../Browse/condition/grabbed.md), [prone](../../Browse/condition/prone.md),  [restrained](../../Browse/condition/restrained.md), [slowed](../../Browse/condition/slowed.md), [taunted](../../Browse/condition/taunted.md), and [weakened](../../Browse/condition/weakened.md) are conditions in *Draw Steel*.
 
 **[Conduit](../../Browse/class/conduit.md):** A class for a hero who is the devoted spellcasting priest of a saint or god.
 
@@ -190,7 +190,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Crafting Project:** A downtime project undertaken to create a treasure, a vehicle, or some other object.
 
-**Crawl:** A movement mode that allows a prone creature to move. A prone creature must use 2 squares of movement to crawl 1 square.
+**Crawl:** A movement mode that allows a [prone](../../Browse/condition/prone.md) creature to move. A [prone](../../Browse/condition/prone.md) creature must use 2 squares of movement to crawl 1 square.
 
 **Creature:** Living and unliving beings, including constructs and undead.
 
@@ -216,23 +216,23 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Damage Weakness:** A trait that makes a target increase damage they take of a specific damage type. Damage weakness is expressed as "[damage type] weakness X," or "damage weakness X" to represent weakness to all damage. Damage of the specified type dealt to the target is increased by X.
 
-**Damaging Terrain:** An area of obstacles that deal damage to creatures who are in the area or move through it. A creature can't shift into or out of damaging terrain, and can't jump out of damaging terrain.
+**[Damaging Terrain](../movement/damaging-terrain.md):** An area of obstacles that deal damage to creatures who are in the area or move through it. A creature can't shift into or out of [damaging terrain](../movement/damaging-terrain.md), and can't jump out of [damaging terrain](../movement/damaging-terrain.md).
 
-**Dazed:** A condition that limits a creature to doing only one thing on their turn: use a main action, use a maneuver, or use a move action. A dazed creature also can't use triggered actions, free triggered actions, or free maneuvers.
+**[Dazed](../../Browse/condition/dazed.md):** A condition that limits a creature to doing only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../../Browse/condition/dazed.md) creature also can't use triggered actions, free triggered actions, or free maneuvers.
 
 **Defend Main Action:** A main action that allows a creature to impose a double bane on all ability rolls made against them until the start of their next turn. Additionally, the creature has a double edge on tests when called for to resist environmental effects or a creature's traits or abilities.
 
 **[Devil](../../Browse/ancestry/devil.md):** An ancestry from the Seven Cities of Hell.
 
-**Difficult Terrain:** An area of obstacles that are difficult to move through. It costs 1 additional square of movement to enter a square of difficult terrain. A creature can't shift into or out of difficult terrain, and can't jump out of difficult terrain.
+**[Difficult Terrain](../movement/difficult-terrain.md):** An area of obstacles that are difficult to move through. It costs 1 additional square of movement to enter a square of [difficult terrain](../movement/difficult-terrain.md). A creature can't shift into or out of [difficult terrain](../movement/difficult-terrain.md), and can't jump out of [difficult terrain](../movement/difficult-terrain.md).
 
-**Dig Maneuver:** A maneuver that allows a creature with "burrow" in their speed entry or the temporary ability to burrow to move a number of squares equal to their size vertically through dirt.
+**Dig Maneuver:** A maneuver that allows a creature with "[burrow](../movement/burrow.md)" in their speed entry or the temporary ability to [burrow](../movement/burrow.md) to move a number of squares equal to their size vertically through dirt.
 
 **Director:** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
 **Discipline:** The [null's](../../Browse/class/null.md) Heroic Resource.
 
-**Disengage Move Action:** A move action that allows a creature to shift 1 square.
+**Disengage Move Action:** A move action that allows a creature to [shift](../movement/shifting.md) 1 square.
 
 **Distance:** The number of squares away that a creature using an ability can affect targets with that ability. The "Distance" entry in an area ability also includes the type of area of effect created by that ability.
 
@@ -248,7 +248,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Dwarf](../../Browse/ancestry/dwarf.md):** An ancestry with stone skin and short stature.
 
-**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is bleeding and they can't use the Catch Breath maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
+**Dying:** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../../Browse/condition/bleeding.md) and they can't use the Catch Breath maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
 
 **Echelon:** A grouping of heroic levels that informs players of the types of heroic deeds the heroes can achieve. There are four echelons of play: 1st echelon (1st to 3rd level), 2nd echelon (4th to 6th level), 3rd echelon (7th to 9th level), and 4th echelon (10th level).
 
@@ -262,23 +262,23 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Enhancement:** A property given to an armor, implement, or weapon treasure that a hero creates as part of a crafting project.
 
-**Escape Grab Maneuver:** A maneuver that allows a grabbed creature to make an ability roll to escape.
+**Escape Grab Maneuver:** A maneuver that allows a [grabbed](../../Browse/condition/grabbed.md) creature to make an ability roll to escape.
 
 **Essence:** The [elementalist's](../../Browse/class/elementalist.md) Heroic Resource.
 
 **Experience (XP):** A hero's Victories convert to Experience when they finish a respite. Experience permanently increases a hero's capabilities by allowing them to increase in level.
 
-**Falling:** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land prone. A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
+**Falling:** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/condition/prone.md). A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
 
 **Ferocity:** The [fury's](../../Browse/class/fury.md) Heroic Resource.
 
 **Flanking:** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
-**Fly:** A movement mode available to creatures with "fly" in their speed entry, or who gain the capability to temporarily fly. Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made prone or has their speed reduced to 0, they fall.
+**[Fly](../movement/fly.md):** A movement mode available to creatures with "[fly](../movement/fly.md)" in their speed entry, or who gain the capability to temporarily [fly](../movement/fly.md). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](../../Browse/condition/prone.md) or has their speed reduced to 0, they fall.
 
 **Focus:** The [tactician's](../../Browse/class/tactician.md) Heroic Resource.
 
-**Forced Movement:** When an ability or effect compels a creature to move, usually against their will. There are three types of forced movement: a pull, a push, and a slide. Forced movement is always along the ground unless noted as vertical. Forced movement can be reduced by stability.
+**[Forced Movement](../movement/forced-movement.md):** When an ability or effect compels a creature to move, usually against their will. There are three types of [forced movement](../movement/forced-movement.md): a pull, a push, and a slide. [Forced movement](../movement/forced-movement.md) is always along the ground unless noted as vertical. [Forced movement](../movement/forced-movement.md) can be reduced by stability.
 
 **Follower:** An NPC dedicated to helping a hero. Many of the actions of a follower are controlled by a player.
 
@@ -288,15 +288,15 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Free Triggered Action:** An action a creature can use on any turn, including their own, but only when a specific trigger occurs. There is no limit to the number of free triggered actions a creature can take during combat.
 
-**Frightened:** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
+**[Frightened](../../Browse/condition/frightened.md):** A condition that causes a creature to take a bane on ability rolls against the source of their fear. The creature can't willingly move closer to the source of their fear, and that source gains an edge on ability rolls made against the creature.
 
 **[Fury](../../Browse/class/fury.md):** A class for a hero warrior who courses with the ferocity of the Primordial Chaos.
 
 **God:** A deity who grants power to their most devout worshipers through saint intermediaries.
 
-**Grab Maneuver:** A maneuver that allows a creature to make an ability roll to make another creature grabbed by them.
+**Grab Maneuver:** A maneuver that allows a creature to make an ability roll to make another creature [grabbed](../../Browse/condition/grabbed.md) by them.
 
-**Grabbed:** A condition that reduces a creature's speed to 0 and causes them to take a bane on abilities that don't target the creature, object, or effect that has them grabbed.
+**[Grabbed](../../Browse/condition/grabbed.md):** A condition that reduces a creature's speed to 0 and causes them to take a bane on abilities that don't target the creature, object, or effect that has them [grabbed](../../Browse/condition/grabbed.md).
 
 **Ground:** Any surface a creature could typically stand, sit, or lie upon.
 
@@ -320,9 +320,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[High Elves](../../Browse/ancestry/high-elf.md):** A fey ancestry in tune with innate magic that affects how others interact with them.
 
-**High Ground:** A creature has the advantage of high ground when they use an ability against a target while standing on the ground and occupying a space that is fully above the target's space. This advantage grants the creature an edge on the ability roll.
+**[High Ground](../movement/high-ground.md):** A creature has the advantage of [high ground](../movement/high-ground.md) when they use an ability against a target while standing on the ground and occupying a space that is fully above the target's space. This advantage grants the creature an edge on the ability roll.
 
-**Hover:** A creature who has "hover" in their speed entry (commonly alongside "fly" or "teleport"), or who gains the ability to temporarily hover, can remain motionless in midair. They don't fall even if they are knocked prone or their speed is reduced to 0.
+**[Hover](../movement/hover.md):** A creature who has "[hover](../movement/hover.md)" in their speed entry (commonly alongside "[fly](../movement/fly.md)" or "[teleport](../movement/teleport.md)"), or who gains the ability to temporarily [hover](../movement/hover.md), can remain motionless in midair. They don't fall even if they are knocked [prone](../../Browse/condition/prone.md) or their speed is reduced to 0.
 
 **[Human](../../Browse/ancestry/human.md):** An ancestry much like [humans](../../Browse/ancestry/human.md) in the real world, except that they can sense magic.
 
@@ -396,7 +396,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Objective:** A goal the heroes have during a combat encounter that must be achieved to end an encounter victoriously.
 
-**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without shifting or teleporting, the creature can make a melee free strike as an opportunity attack against the enemy.
+**Opportunity Attack:** When an adjacent enemy willingly moves away from a creature without [shifting](../movement/shifting.md) or [teleporting](../movement/teleport.md), the creature can make a melee free strike as an opportunity attack against the enemy.
 
 **Opposed Power Roll:** Two creatures with opposed goals each make a test to see who wins out. The test totals are compared, and the higher total succeeds while the lower fails.
 
@@ -432,11 +432,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Project Source:** Lore that must be obtained before a downtime project can be started.
 
-**Prone:** A condition that causes a creature to become flat on the ground. Strikes made by a prone creature take a bane, and melee abilities used against a prone creature gain an edge.
+**[Prone](../../Browse/condition/prone.md):** A condition that causes a creature to become flat on the ground. Strikes made by a [prone](../../Browse/condition/prone.md) creature take a bane, and melee abilities used against a [prone](../../Browse/condition/prone.md) creature gain an edge.
 
-**Pull:** A form of forced movement that pulls a target toward a creature or effect, moving them in a horizontal straight line.
+**Pull:** A form of [forced movement](../movement/forced-movement.md) that pulls a target toward a creature or effect, moving them in a horizontal straight line.
 
-**Push:** A form of forced movement that pushes a target away from a creature or effect, moving them in a horizontal straight line.
+**Push:** A form of [forced movement](../movement/forced-movement.md) that pushes a target away from a creature or effect, moving them in a horizontal straight line.
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
@@ -458,7 +458,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Respite Activity:** An activity that can be undertaken during a respite. A hero can take one respite activity per respite.
 
-**Restrained:** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being force moved.
+**[Restrained](../../Browse/condition/restrained.md):** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being [force moved](../movement/forced-movement.md).
 
 **Retainer:** A follower who adventures alongside a hero.
 
@@ -482,7 +482,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Shadow](../../Browse/class/shadow.md):** A class for a hero who is an expert infiltrator and thief utilizing magic.
 
-**Shift:** A movement mode that doesn't provoke opportunity attacks. Whenever a rule allows a creature to shift, they can choose to make a regular move of the same number of squares instead.
+**[Shift](../movement/shifting.md):** A movement mode that doesn't provoke opportunity attacks. Whenever a rule allows a creature to [shift](../movement/shifting.md), they can choose to make a regular move of the same number of squares instead.
 
 **Side:** A group of creatures working together in a combat encounter.
 
@@ -492,9 +492,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Skill:** Special knowledge or training that can be applied to a test. When a skill applies to a test, it grants a +2 bonus to the power roll.
 
-**Slide:** A form of forced movement that slides a target in any direction, moving them along any horizontal line.
+**Slide:** A form of [forced movement](../movement/forced-movement.md) that slides a target in any direction, moving them along any horizontal line.
 
-**Slowed:** A condition that reduces a creature's speed to 2.
+**[Slowed](../../Browse/condition/slowed.md):** A condition that reduces a creature's speed to 2.
 
 **Space:** The number of squares taken up by a creature or object in length, width, and height, and the area of the same size that a creature or object occupies on an encounter map.
 
@@ -502,11 +502,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
-**Stability:** A measure of a creature's immovability. When a creature is force moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
+**Stability:** A measure of a creature's immovability. When a creature is [force moved](../movement/forced-movement.md), the distance they can be [force moved](../movement/forced-movement.md) is reduced by a number of squares equal to their stability.
 
 **Stamina:** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are dying. When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
-**Stand Up Maneuver:** A maneuver that a prone creature can use to end the prone condition on themself. Alternatively, a creature can use this maneuver on a willing adjacent prone creature to end the prone condition on them.
+**Stand Up Maneuver:** A maneuver that a [prone](../../Browse/condition/prone.md) creature can use to end the [prone](../../Browse/condition/prone.md) condition on themself. Alternatively, a creature can use this maneuver on a willing adjacent [prone](../../Browse/condition/prone.md) creature to end the [prone](../../Browse/condition/prone.md) condition on them.
 
 **Strained:** A state the [talent](../../Browse/class/talent.md) enters when they have clarity below 0, and which effects their abilities.
 
@@ -528,11 +528,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Talent](../../Browse/class/talent.md):** A class for a hero who is a master of psionics.
 
-**Taunted:** A condition that causes a creature to have a double bane on ability rolls that don't target the creature or effect that taunted them.
+**[Taunted](../../Browse/condition/taunted.md):** A condition that causes a creature to have a double bane on ability rolls that don't target the creature or effect that [taunted](../../Browse/condition/taunted.md) them.
 
 **Target:** A creature or object affected by an ability or other effect. The target of an enemy's ability typically takes damage, has a condition or harmful effect imposed on them, or both. The target of an ally's ability typically gains some beneficial effect.
 
-**Teleport:** Moving from one location to another instantaneously. Teleporting requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
+**[Teleport](../movement/teleport.md):** Moving from one location to another instantaneously. [Teleporting](../movement/teleport.md) requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
 
 **Temporary Stamina:** An additional pool of Stamina that decreases first when a creature takes damage, and which disappears at the end of an encounter if not already lost.
 
@@ -570,15 +570,15 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Vasloria:** A forested, feudal-medieval continent in Orden.
 
-**Vertical:** When any form of forced movement is noted as vertical, the creature performing the forced movement can move the target up or down in addition to horizontally.
+**Vertical:** When any form of [forced movement](../movement/forced-movement.md) is noted as vertical, the creature performing the [forced movement](../movement/forced-movement.md) can move the target up or down in addition to horizontally.
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 
-**Walk:** The most common movement type, used to move over solid ground. Walking can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
+**[Walk](../movement/walk.md):** The most common movement type, used to move over solid ground. Walking can incorporate ambulating on legs, rolling, slithering, or any other default method of movement.
 
 **Wall:** When an ability or other effect creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. Each square must share at least one side (not just a corner) with another square of the wall. A wall effect has a duration specified by the effect, or it lasts indefinitely or until destroyed.
 
-**Weakened:** A condition that causes a creature to take a bane on power rolls.
+**[Weakened](../../Browse/condition/weakened.md):** A condition that causes a creature to take a bane on power rolls.
 
 **Wealth:** A measure of a hero's material worth.
 

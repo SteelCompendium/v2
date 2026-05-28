@@ -21,4 +21,4 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the forced movement distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |

@@ -19,7 +19,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swi
 
 ##### Forest Walk (1 Point)
 
-You can shift into and while within difficult terrain.
+You can [shift](../../../movement/shifting.md) into and while within [difficult terrain](../../../movement/difficult-terrain.md).
 
 ##### Quick and Brutal (1 Point)
 
@@ -51,6 +51,6 @@ You have the following signature ability. Signature abilities can be used at wil
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)
+- **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)

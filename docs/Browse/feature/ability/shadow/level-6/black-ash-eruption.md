@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 9 Insight
 distance: Melee 1
-effect: A creature force moved by this ability must be moved straight upward.
+effect: A creature [force moved](scc:mcdm.heroes.v1/movement/forced-movement) by this ability must be moved straight upward.
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 keywords:
     - Magic
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 6 + A damage; vertical push 10
 - **17+:** 9 + A damage; vertical push 15
 
-**Effect:** A creature force moved by this ability must be moved straight upward.
+**Effect:** A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward.

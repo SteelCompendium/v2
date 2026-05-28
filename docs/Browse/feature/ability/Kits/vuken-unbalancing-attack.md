@@ -12,9 +12,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
 subtype: signature
 target: One creature or object
-tier1: 4 + M damage; A < WEAK, prone
-tier2: 7 + M damage; A < AVERAGE, prone
-tier3: 9 + M damage; A < STRONG, prone
+tier1: 4 + M damage; A < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 7 + M damage; A < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 9 + M damage; A < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -28,6 +28,6 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 4 + M damage; A < WEAK, prone
-- **12-16:** 7 + M damage; A < AVERAGE, prone
-- **17+:** 9 + M damage; A < STRONG, prone
+- **≤11:** 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
+- **12-16:** 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
+- **17+:** 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)

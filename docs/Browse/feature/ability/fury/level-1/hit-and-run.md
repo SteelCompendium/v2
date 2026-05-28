@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You can shift 1 square.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) 1 square.
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
     - Melee
@@ -16,7 +16,7 @@ subtype: signature
 target: One creature or object
 tier1: 2 + M damage
 tier2: 5 + M damage
-tier3: 7 + M damage; A < STRONG, slowed (save ends)
+tier3: 7 + M damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -32,6 +32,6 @@ type: ability
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
-- **17+:** 7 + M damage; A < STRONG, slowed (save ends)
+- **17+:** 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 
-**Effect:** You can shift 1 square.
+**Effect:** You can [shift](../../../../movement/shifting.md) 1 square.

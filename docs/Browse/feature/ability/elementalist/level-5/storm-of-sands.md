@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 cube within 10
-effect: The area lasts until the start of your next turn. It is difficult terrain for enemies, and you and your allies have concealment while in the area.
+effect: The area lasts until the start of your next turn. It is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and you and your allies have concealment while in the area.
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The area lasts until the start of your next turn. It is difficult terrain for enemies, and you and your allies have concealment while in the area.
+**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
 
 **Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.

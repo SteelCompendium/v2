@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 11 Ferocity
 distance: 3 burst
-effect: If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+effect: If this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 flavor: You channel the power of the Primordial Chaos to pull foes to you.
 keywords:
     - Area
@@ -35,4 +35,4 @@ type: ability
 - **12-16:** 5 damage; vertical pull 5
 - **17+:** 8 damage; vertical pull 7
 
-**Effect:** If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+**Effect:** If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.

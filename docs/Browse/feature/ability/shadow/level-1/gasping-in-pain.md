@@ -16,7 +16,7 @@ subtype: signature
 target: One creature
 tier1: 3 + A damage
 tier2: 5 + A damage
-tier3: 8 + A damage; I < STRONG, prone
+tier3: 8 + A damage; I < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -32,6 +32,6 @@ type: ability
 
 - **≤11:** 3 + A damage
 - **12-16:** 5 + A damage
-- **17+:** 8 + A damage; I < STRONG, prone
+- **17+:** 8 + A damage; I < STRONG[, prone](../../../../condition/prone.md)
 
 **Effect:** One ally within 5 squares of the target gains 1 surge.

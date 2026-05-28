@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: You can shift into any square the target leaves after you push them.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves after you push them.
 flavor: All combat is a dance—and you'll be the one leading.
 keywords:
     - Melee
@@ -29,4 +29,4 @@ type: ability
 - **12-16:** 7 + M or A damage; push 1
 - **17+:** 10 + M or A damage; push 2
 
-**Effect:** You can shift into any square the target leaves after you push them.
+**Effect:** You can [shift](../../../movement/shifting.md) into any square the target leaves after you push them.

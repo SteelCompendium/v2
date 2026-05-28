@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 distance: Self
-effect: Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+effect: Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their turn.
 flavor: Foes tremble at the sight of you.
 keywords:
     - Magic
@@ -22,4 +22,4 @@ type: ability
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is frightened until the end of their turn.
+**Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../../condition/frightened.md) until the end of their turn.

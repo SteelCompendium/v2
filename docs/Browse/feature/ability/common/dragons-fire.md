@@ -27,7 +27,7 @@ type: ability
 
 **Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead teleport that distance.
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../../movement/teleport.md) that distance.
 
 **Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
 
@@ -39,6 +39,6 @@ type: ability
 
 **Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
 
-On your turn, you can teleport to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to teleport to your imprint, and the power roll for the ability is an automatic tier 1 result.
+On your turn, you can [teleport](../../../movement/teleport.md) to the imprint's space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to [teleport](../../../movement/teleport.md) to your imprint, and the power roll for the ability is an automatic tier 1 result.
 
-**Unbending:** You can't be subjected to forced movement unless you choose to be. Effects that ignore Stability also ignore this enhancement.
+**Unbending:** You can't be subjected to [forced movement](../../../movement/forced-movement.md) unless you choose to be. Effects that ignore Stability also ignore this enhancement.

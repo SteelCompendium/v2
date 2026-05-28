@@ -13,9 +13,9 @@ name: Entropic Field
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-2/entropic-field
 target: Each enemy in the area
-tier1: 6 cold damage; A < WEAK, slowed (save ends)
-tier2: 9 cold damage; A < AVERAGE, slowed (save ends)
-tier3: 13 cold damage; A < STRONG, slowed (save ends)
+tier1: 6 cold damage; A < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 9 cold damage; A < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 13 cold damage; A < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -29,6 +29,6 @@ type: ability
 
 **Power Roll + Agility:**
 
-- **≤11:** 6 cold damage; A < WEAK, slowed (save ends)
-- **12-16:** 9 cold damage; A < AVERAGE, slowed (save ends)
-- **17+:** 13 cold damage; A < STRONG, slowed (save ends)
+- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)

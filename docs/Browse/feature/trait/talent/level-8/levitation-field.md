@@ -19,6 +19,6 @@ You have the following ability.
 > |-------------------|-----------------------------:|
 > | **📏 3 burst**    | **🎯 Each ally in the area** |
 >
-> **Effect:** Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target's stability is reduced to 0 and can't be increased.
+> **Effect:** Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
 >
 > **Spend 5 Clarity:** The effects last for 1 hour instead.

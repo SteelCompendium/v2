@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: 2 burst
-effect: You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) yourself and each ally in the area to unoccupied spaces in the area.
 flavor: A rain of holy light scours your enemies and repositions your allies.
 keywords:
     - Area
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 3 holy damage
 - **17+:** 5 holy damage
 
-**Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
+**Effect:** You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.

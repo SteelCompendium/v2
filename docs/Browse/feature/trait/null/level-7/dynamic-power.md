@@ -8,4 +8,4 @@ type: trait
 
 # Dynamic Power
 
-If the ability force moves a target, the forced movement distance gains a bonus equal to your Intuition score.
+If the ability force moves a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.

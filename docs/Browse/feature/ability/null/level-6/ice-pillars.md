@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 9 Discipline
 distance: Ranged 10
-effect: The pillars vanish as soon as the effects of the forced movement are resolved.
+effect: The pillars vanish as soon as the effects of the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) are resolved.
 flavor: Pillars of ice erupt from the ground and launch your foes into the air.
 keywords:
     - Psionic
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** Vertical slide 8
 - **17+:** Vertical slide 10
 
-**Effect:** The pillars vanish as soon as the effects of the forced movement are resolved.
+**Effect:** The pillars vanish as soon as the effects of the [forced movement](../../../../movement/forced-movement.md) are resolved.

@@ -15,9 +15,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt
 subtype: signature
 target: One creature or object
-tier1: 2 + P corruption damage; P < WEAK, slowed (save ends)
-tier2: 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-tier3: 5 + P corruption damage; P < STRONG, slowed (save ends)
+tier1: 2 + P corruption damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier2: 3 + P corruption damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier3: 5 + P corruption damage; P < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
 type: ability
 ---
 
@@ -31,9 +31,9 @@ type: ability
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
-- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
-- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
+- **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 

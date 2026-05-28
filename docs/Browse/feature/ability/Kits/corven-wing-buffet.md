@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: 1 burst
-effect: You can shift up to 2 squares before or after making the power roll.
+effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares before or after making the power roll.
 flavor: Foes who try to close in around you do so at their peril.
 keywords:
     - Area
@@ -33,4 +33,4 @@ type: ability
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** You can shift up to 2 squares before or after making the power roll.
+**Effect:** You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the power roll.

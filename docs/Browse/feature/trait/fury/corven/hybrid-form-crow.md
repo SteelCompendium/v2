@@ -8,4 +8,4 @@ type: trait
 
 # Hybrid Form: Crow
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.
+While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../../../../movement/fly.md).
