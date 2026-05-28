@@ -1,36 +1,11 @@
 # Common
 
+- [Main Actions](main-actions/index.md)
+- [Maneuvers](maneuvers/index.md)
+- [Move Actions](move-actions/index.md)
+
 <div class="browse-index" markdown>
 
-- [Advance](advance.md)
-- [Aid Attack](aid-attack.md)
 - [Ancestry Traits](ancestry-traits.md)
-- [Catch Breath](catch-breath.md)
-- [Charge](charge.md)
-- [Defend](defend.md)
-- [Devil Traits](devil-traits.md)
-- [Disengage](disengage.md)
-- [Dragon Knight Traits](dragon-knight-traits.md)
-- [Dwarf Traits](dwarf-traits.md)
-- [Escape Grab](escape-grab.md)
-- [Free Strike](free-strike.md)
-- [Grab](grab.md)
-- [Hakaan Traits](hakaan-traits.md)
-- [Heal](heal.md)
-- [Hide](hide.md)
-- [High Elf Traits](high-elf-traits.md)
-- [Human Traits](human-traits.md)
-- [Knockback](knockback.md)
-- [Make or Assist a Test](make-or-assist-a-test.md)
-- [Memonek Traits](memonek-traits.md)
-- [Orc Traits](orc-traits.md)
-- [Polder Traits](polder-traits.md)
-- [Revenant Traits](revenant-traits.md)
-- [Ride](ride.md)
-- [Search for Hidden Creatures](search-for-hidden-creatures.md)
-- [Stand Up](stand-up.md)
-- [Time Raider Traits](time-raider-traits.md)
-- [Use Consumable](use-consumable.md)
-- [Wode Elf Traits](wode-elf-traits.md)
 
 </div>
