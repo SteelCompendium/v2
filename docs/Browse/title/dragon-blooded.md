@@ -15,4 +15,4 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../ancestry/dragon-knight.md) ancestry (see Chapter 3: [Ancestries](../../Read/chapter/ancestries.md)).
-- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../ancestry/dragon-knight.md) [ancestry traits](../feature/trait/ancestry-traits.md).
+- *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../ancestry/dragon-knight.md) [ancestry traits](../../Read/chapter/ancestries.md).

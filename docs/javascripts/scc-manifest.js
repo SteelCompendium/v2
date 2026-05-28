@@ -744,7 +744,6 @@ window.__SCC_PERMALINK_MAP__ = {
   "Browse/feature/trait/censor/level-8/their-past-revealed/": "scc/mcdm.heroes.v1/feature.trait.censor.level-8/their-past-revealed/",
   "Browse/feature/trait/censor/level-8/vow/": "scc/mcdm.heroes.v1/feature.trait.censor.level-8/vow/",
   "Browse/feature/trait/censor/level-9/improved-implement-of-wrath/": "scc/mcdm.heroes.v1/feature.trait.censor.level-9/improved-implement-of-wrath/",
-  "Browse/feature/trait/common/ancestry-traits/": "scc/mcdm.heroes.v1/feature.trait.common/ancestry-traits/",
   "Browse/feature/trait/common/main-actions/charge/": "scc/mcdm.heroes.v1/feature.trait.common.main-actions/charge/",
   "Browse/feature/trait/common/main-actions/defend/": "scc/mcdm.heroes.v1/feature.trait.common.main-actions/defend/",
   "Browse/feature/trait/common/main-actions/free-strike/": "scc/mcdm.heroes.v1/feature.trait.common.main-actions/free-strike/",
