@@ -5,7 +5,7 @@ perk: One exploration perk (*Quick Build:* Teamwork.)
 renown: "+1"
 scc: mcdm.heroes.v1/career/soldier
 skills:
-    - One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* Alertness, Endurance.)
+    - One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* [Alertness](scc:mcdm.heroes.v1/skill/alertness), [Endurance](scc:mcdm.heroes.v1/skill/endurance).)
 type: career
 ---
 
@@ -20,7 +20,7 @@ In your formative years, you fought tirelessly in skirmishes and campaigns again
 
 You gain the following career benefits:
 
-**Skills:** One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* Alertness, Endurance.)
+**Skills:** One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* [Alertness](../skill/alertness.md), [Endurance](../skill/endurance.md).)
 
 **Languages:** Two languages
 

@@ -5,7 +5,7 @@ perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](scc:mcdm.her
 renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
-    - Two skills from the interpersonal skill group (*Quick Build:* Lead, Lie.)
+    - Two skills from the interpersonal skill group (*Quick Build:* [Lead](scc:mcdm.heroes.v1/skill/lead), [Lie](scc:mcdm.heroes.v1/skill/lie).)
 type: career
 wealth: "+1"
 ---
@@ -21,7 +21,7 @@ You worked as a leader within a formal, bureaucratic organization or government.
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the interpersonal skill group (*Quick Build:* Lead, Lie.)
+**Skills:** Two skills from the interpersonal skill group (*Quick Build:* [Lead](../skill/lead.md), [Lie](../skill/lie.md).)
 
 **Languages:** One language
 

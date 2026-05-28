@@ -5,7 +5,7 @@ perk: One exploration perk (*Quick Build:* [Friend Catapult](scc:mcdm.heroes.v1/
 renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
-    - Two skills from the exploration skill group (*Quick Build:*  Gymnastics, Jump.)
+    - Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](scc:mcdm.heroes.v1/skill/gymnastics), [Jump](scc:mcdm.heroes.v1/skill/jump).)
 type: career
 ---
 
@@ -20,7 +20,7 @@ In the past, you entertained the masses with flashy displays of violence in the 
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:*  Gymnastics, Jump.)
+**Skills:** Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../skill/gymnastics.md), [Jump](../skill/jump.md).)
 
 **Languages:** One language
 

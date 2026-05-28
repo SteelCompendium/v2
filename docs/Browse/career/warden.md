@@ -5,7 +5,7 @@ perk: One exploration perk (*Quick Build:* [Camouflage Hunter](scc:mcdm.heroes.v
 project_points: "120"
 scc: mcdm.heroes.v1/career/warden
 skills:
-    - Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  Nature, Navigate, Track.)
+    - Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](scc:mcdm.heroes.v1/skill/nature), Navigate, Track.)
 type: career
 ---
 
@@ -20,7 +20,7 @@ You protected a wild region from those who sought to harm it, such as poachers a
 
 You gain the following career benefits:
 
-**Skills:** Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  Nature, Navigate, Track.)
+**Skills:** Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](../skill/nature.md), Navigate, Track.)
 
 **Languages:** One language
 
