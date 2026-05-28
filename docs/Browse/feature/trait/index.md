@@ -1,6 +1,7 @@
 # Traits
 
 - [Censor](censor/index.md)
+- [Common](common/index.md)
 - [Conduit](conduit/index.md)
 - [Elementalist](elementalist/index.md)
 - [Fury](fury/index.md)

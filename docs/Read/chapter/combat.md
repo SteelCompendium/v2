@@ -131,48 +131,6 @@ Free maneuvers cover most of the simple activities you might want to undertake o
 
 The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a free maneuver on your turn.
 
-### Move Actions
-
-A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
-
-#### Advance
-
-When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
-
-#### Disengage
-
-When a creature takes the Disengage move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they disengage. A creature who does so can break up their shift with their maneuver and main action however they wish.
-
-#### Ride
-
-A creature can take the Ride move action only while mounted on another creature (see Mounted Combat below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the Disengage move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
-
-### Main Actions
-
-When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see Abilities in Chapter 5: [Classes](classes.md)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
-
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
-
-You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
-
-#### Charge
-
-When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see Free Strikes below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
-
-A creature can't move through difficult terrain or shift when they charge. They can fly or burrow as part of the Charge main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full speed.
-
-#### Defend
-
-When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is taunted by them (see Conditions in Chapter 5: [Classes](classes.md)).
-
-#### Free Strike
-
-A creature can use this main action to make a free strike (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](../../Browse/class/fury.md) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a flying foe.
-
-#### Heal
-
-A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
-
 ### Flanking
 
 When you and one or more allies are adjacent to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an edge on melee strikes against them.

@@ -156,11 +156,3 @@ Evading others' notice gives you freedom to move. At the start of each of your t
 ##### Reactive Tumble (1 Point)
 
 Staying light on your feet lets you quickly get back into position. Whenever you are force moved, you can use a free triggered action to shift 1 square after the forced movement is resolved.
-
-
----
-
-### Polder Traits
-
-[Polder](polder.md) heroes have access to the following traits.
-
