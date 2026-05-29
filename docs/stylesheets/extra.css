@@ -7,8 +7,16 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
-.md-typeset h1 + hr {
+.md-typeset h1::after {
+    content: "";
+    display: block;
+    margin-top: 0.3em;
     margin-bottom: 1em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1::after {
+    border-bottom-color: rgba(220, 226, 230, 0.12);
 }
 
 /* Preferences page */

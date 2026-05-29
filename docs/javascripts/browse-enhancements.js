@@ -72,25 +72,10 @@
     });
   }
 
-  function insertH1Rules() {
-    var headings = document.querySelectorAll(".md-content h1");
-    headings.forEach(function (h1) {
-      if (h1.nextElementSibling && h1.nextElementSibling.tagName === "HR") return;
-      var hr = document.createElement("hr");
-      h1.after(hr);
-    });
-  }
-
   // MkDocs Material instant navigation support
   if (typeof document$ !== "undefined") {
-    document$.subscribe(function () {
-      enhanceBrowseCards();
-      insertH1Rules();
-    });
+    document$.subscribe(enhanceBrowseCards);
   } else {
-    document.addEventListener("DOMContentLoaded", function () {
-      enhanceBrowseCards();
-      insertH1Rules();
-    });
+    document.addEventListener("DOMContentLoaded", enhanceBrowseCards);
   }
 })();
