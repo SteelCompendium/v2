@@ -15,10 +15,10 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 ##### Absorption Field (7 Discipline)
 
 >
-> *Your [null](../../../../class/null.md) field absorbs kinetic energy.*
+> *Your [null field](../level-1/null-field.md) absorbs kinetic energy.*
 >
 > | **Psionic** | **Maneuver** |
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, the size of your [Null](../../../../class/null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+> **Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.

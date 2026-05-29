@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](../../../../class/talent.md) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent tradition](talent-tradition.md)s:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -21,4 +21,4 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](../../../../class/talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](../../../../class/talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](../../../../class/talent.md) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent tradition](talent-tradition.md) from the following options: chronopathy, telekinesis, or telepathy. Your [talent tradition](talent-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent tradition](talent-tradition.md)s will be featured in future products.) (*Quick Build:* Telekinesis.)

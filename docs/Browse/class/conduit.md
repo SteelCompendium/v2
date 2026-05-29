@@ -48,7 +48,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
-| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit](conduit.md) Ward, [Conduit Abilities](../feature/trait/conduit/level-1/conduit-abilities.md)     | Two signature, 3, 5           | -                 |
+| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit Ward](../feature/trait/conduit/level-1/conduit-ward.md), [Conduit Abilities](../feature/trait/conduit/level-1/conduit-abilities.md)     | Two signature, 3, 5           | -                 |
 | 2nd   | [The Lists of Heaven](../feature/trait/conduit/level-2/the-lists-of-heaven.md), Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
 | 3rd   | [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md), 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
 | 4th   | Blessed Domains, [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
@@ -327,7 +327,7 @@ When you use an ability outside of combat that lets you spend unlimited piety on
 
 ### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](conduit.md) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../feature/trait/conduit/level-1/prayer-of-distance.md).)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../feature/trait/conduit/level-1/conduit-ward.md) below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../feature/trait/conduit/level-1/prayer-of-distance.md).)
 
 ### Prayer of Destruction
 

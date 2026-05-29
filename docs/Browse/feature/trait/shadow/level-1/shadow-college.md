@@ -18,4 +18,4 @@ You graduated from a [shadow college](shadow-college.md) chosen from the followi
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../../../../skill/alchemy.md) skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../../../../skill/lie.md) skill.
 
-Your [shadow](../../../../class/shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow college](shadow-college.md) is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.

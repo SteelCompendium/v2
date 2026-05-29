@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [talent](../../../../class/talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 

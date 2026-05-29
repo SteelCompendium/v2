@@ -63,7 +63,7 @@ Complications are presented in alphabetical order.
 | 25   | [Evanesceria](../../Browse/complication/evanesceria.md)                        | 75   | [Secret Twin](../../Browse/complication/secret-twin.md)                |
 | 26   | [Exile](../../Browse/complication/exile.md)                              | 76   | Self-Taught                |
 | 27   | [Fallen Immortal](../../Browse/complication/fallen-immortal.md)                    | 77   | [Sewer Folk](../../Browse/complication/sewer-folk.md)                 |
-| 28   | [Famous Relative](../../Browse/complication/famous-relative.md)                    | 78   | [Shadow](../../Browse/class/shadow.md) Born                |
+| 28   | [Famous Relative](../../Browse/complication/famous-relative.md)                    | 78   | [Shadow Born](../../Browse/complication/shadow-born.md)                |
 | 29   | [Feytouched](../../Browse/complication/feytouched.md)                         | 79   | [Shared Spirit](../../Browse/complication/shared-spirit.md)              |
 | 30   | [Fiery Ideal](../../Browse/complication/fiery-ideal.md)                        | 80   | [Shattered Legacy](../../Browse/complication/shattered-legacy.md)           |
 | 31   | [Fire and Chaos](../../Browse/complication/fire-and-chaos.md)                     | 81   | [Shipwrecked](../../Browse/complication/shipwrecked.md)                |
@@ -168,7 +168,7 @@ Complications are presented in alphabetical order.
 | 75   | [Secret Twin](../../Browse/complication/secret-twin.md)                        |
 | 76   | Self-Taught                        |
 | 77   | [Sewer Folk](../../Browse/complication/sewer-folk.md)                         |
-| 78   | [Shadow](../../Browse/class/shadow.md) Born                        |
+| 78   | [Shadow Born](../../Browse/complication/shadow-born.md)                        |
 | 79   | [Shared Spirit](../../Browse/complication/shared-spirit.md)                      |
 | 80   | [Shattered Legacy](../../Browse/complication/shattered-legacy.md)                   |
 | 81   | [Shipwrecked](../../Browse/complication/shipwrecked.md)                        |

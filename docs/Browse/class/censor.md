@@ -51,7 +51,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 | Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
 |-------|------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
-| 1st   | [Censor](censor.md) Order, [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Wrath, [Judgment](../feature/ability/censor/level-1/judgment.md), Kit, [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor Abilities](../feature/trait/censor/level-1/censor-abilities.md) | Signature, 3, 5           | -                  |
+| 1st   | [Censor Order](../feature/trait/censor/level-1/censor-order.md), [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Wrath, [Judgment](../feature/ability/censor/level-1/judgment.md), Kit, [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor Abilities](../feature/trait/censor/level-1/censor-abilities.md) | Signature, 3, 5           | -                  |
 | 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
 | 3rd   | [Look On My Work and Despair](../feature/trait/censor/level-3/look-on-my-work-and-despair.md), 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Perk, Skill, [Wrath Beyond Wrath](../feature/trait/censor/level-4/wrath-beyond-wrath.md), Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
@@ -149,13 +149,13 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Censor Order
 
-[Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor order](../feature/trait/censor/level-1/censor-order.md) from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../skill/read-person.md) skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../skill/magic.md) skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../skill/lead.md) skill.
 
-Your [censor](censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
 
 ### Deity and Domains
 
@@ -568,7 +568,7 @@ You can choose only one free triggered action option at a time, even if multiple
 
 ### 2nd-Level Order Ability
 
-Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Exorcist Ability
 
@@ -601,7 +601,7 @@ Choose one of the following abilities.
 
 ### 2nd-Level Order Features
 
-Your [censor](censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 
@@ -894,7 +894,7 @@ The first time each combat round that you deal damage to a creature judged by yo
 
 ### 5th-Level Order Feature
 
-Your [censor](censor.md) order grants you a feature, as shown on the 5th-Level Order Features table.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants you a feature, as shown on the 5th-Level Order Features table.
 
 ###### 5th-Level Order Features Table
 
@@ -995,7 +995,7 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 ### 6th-Level Order Ability
 
-Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Exorcist Abilities
 
@@ -1279,7 +1279,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 ### 8th-Level Order Feature
 
-Your [censor](censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 
@@ -1375,7 +1375,7 @@ Your words take on the power of your deity, with all the authority that entails.
 
 ### 9th-Level Order Ability
 
-Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+Your [censor order](../feature/trait/censor/level-1/censor-order.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Exorcist Abilities
 

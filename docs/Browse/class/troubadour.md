@@ -47,7 +47,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| 1st   | [Troubadour](troubadour.md) Class Act, Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour Abilities](../feature/trait/troubadour/level-1/troubadour-abilities.md) | Signature, 3, 5           | -                   |
+| 1st   | [Troubadour Class Act](../feature/trait/troubadour/level-1/troubadour-class-act.md), Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour Abilities](../feature/trait/troubadour/level-1/troubadour-abilities.md) | Signature, 3, 5           | -                   |
 | 2nd   | [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md), [Invocation](../feature/trait/troubadour/level-2/invocation.md), Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Melodrama](../feature/trait/troubadour/level-4/melodrama.md), Perk, Skill, [Zeitgeist](../feature/trait/troubadour/level-4/zeitgeist.md)                                                                      | Signature, 3, 5, 7        | 5                   |
@@ -65,7 +65,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 ### 1st-Level Class Act Features
 
-Your [troubadour](troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table
 
@@ -107,7 +107,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 ### Class Act Triggered Action
 
-Your [troubadour](troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 
@@ -292,13 +292,13 @@ Your performance centers around maneuvering through the scene of battle, maintai
 
 ### Troubadour Class Act
 
-Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour](troubadour.md) class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour](troubadour.md) class act from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
+Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
 - **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/brag.md) skill.
 - **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/gymnastics.md) skill.
 - **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/music.md) skill and can play an instrument.
 
-Your [troubadour](troubadour.md) class act is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) is your subclass, and your choice of class act determines many of the features you'll gain as you gain new levels.
 
 ### Virtuoso Performances
 
@@ -655,7 +655,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 ### 2nd-Level Class Act Ability
 
-Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Auteur Ability
 
@@ -792,7 +792,7 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 ### 3rd-Level Class Act Feature
 
-Your [troubadour](troubadour.md) class act grants you a feature, as shown on the 3rd-Level Class Act Features table.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
 ###### 3rd-Level Class Act Features Table
 
@@ -978,7 +978,7 @@ You always have your ear to the ground, your finger on the pulse. When you start
 
 ### 5th-Level Class Act Feature
 
-Your [troubadour](troubadour.md) class act grants your choice of one of two features.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two features.
 
 ### 9-Drama Ability
 
@@ -1135,7 +1135,7 @@ You can maintain two performances at a time using your [Routines](../feature/tra
 
 ### 6th-Level Class Act Ability
 
-Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Auteur Abilities
 
@@ -1308,7 +1308,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 ### 8th-Level Class Act Feature
 
-Your [troubadour](troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants you a feature, as shown on the 8th-Level Class Act Features table.
 
 ###### 8th-Level Class Act Features Table
 
@@ -1424,7 +1424,7 @@ You gain one perk of your choice.
 
 ### 9th-Level Class Act Ability
 
-Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Auteur Abilities
 

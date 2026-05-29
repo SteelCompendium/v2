@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [censor](../../../../class/censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
+Your [censor order](../level-1/censor-order.md) grants you a feature, as shown on the 8th-Level Order Features table.
 
 ###### 8th-Level Order Features Table
 

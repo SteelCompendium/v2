@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [shadow](../../../../class/shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 

@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [troubadour](../../../../class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour class act](troubadour-class-act.md) grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table
 

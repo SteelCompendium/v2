@@ -10,10 +10,10 @@ type: trait
 
 ---
 
-[Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../../../class/censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
+[Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor order](censor-order.md) from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../../../../skill/read-person.md) skill.
 - **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../../../../skill/magic.md) skill.
 - **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../../../../skill/lead.md) skill.
 
-Your [censor](../../../../class/censor.md) order is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.
+Your [censor order](censor-order.md) is your subclass, and your choice of order determines many of the features you'll gain as you gain new levels.

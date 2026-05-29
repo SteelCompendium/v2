@@ -10,4 +10,4 @@ type: trait
 
 ---
 
-When you take the Disengage move action, one ally in the area of your [Null](../../../../class/null.md) Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the Disengage move action, one ally in the area of your [Null Field](../level-1/null-field.md) ability can also take the Disengage move action as a free triggered action, using your distance for that move action.

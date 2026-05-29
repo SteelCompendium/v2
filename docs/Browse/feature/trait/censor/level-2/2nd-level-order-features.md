@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [censor](../../../../class/censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
+Your [censor order](../level-1/censor-order.md) grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table
 

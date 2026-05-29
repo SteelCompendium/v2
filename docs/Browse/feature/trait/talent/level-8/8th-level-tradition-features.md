@@ -10,7 +10,7 @@ type: trait
 
 ---
 
-Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent tradition](../level-1/talent-tradition.md) grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 

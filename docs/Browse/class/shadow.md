@@ -46,7 +46,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 | Level | Features                                                                                                            | Abilities                 | College Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------|
-| 1st   | [Shadow](shadow.md) College, Insight, College Features, [College Triggered Action](../feature/trait/shadow/level-1/college-triggered-action.md), [Hesitation Is Weakness](../feature/ability/shadow/level-1/hesitation-is-weakness.md), Kit, [Shadow Abilities](../feature/trait/shadow/level-1/shadow-abilities.md)  | Signature, 3, 5           | -                 |
+| 1st   | [Shadow College](../feature/trait/shadow/level-1/shadow-college.md), Insight, College Features, [College Triggered Action](../feature/trait/shadow/level-1/college-triggered-action.md), [Hesitation Is Weakness](../feature/ability/shadow/level-1/hesitation-is-weakness.md), Kit, [Shadow Abilities](../feature/trait/shadow/level-1/shadow-abilities.md)  | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
 | 3rd   | [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md), 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Keep It Down](../feature/trait/shadow/level-4/keep-it-down.md), [Night Watch](../feature/ability/shadow/level-4/night-watch.md), Perk, Skill, [Surge of Insight](../feature/trait/shadow/level-4/surge-of-insight.md)                                   | Signature, 3, 5, 7        | 5                 |
@@ -64,7 +64,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 ### 1st-Level College Features
 
-Your [shadow](shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table
 
@@ -110,7 +110,7 @@ You have the following ability.
 
 ### College Triggered Action
 
-Your [shadow](shadow.md) college grants you a triggered action, as shown on the College Triggered Actions table.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a triggered action, as shown on the College Triggered Actions table.
 
 ###### College Triggered Actions Table
 
@@ -240,7 +240,7 @@ You graduated from a [shadow college](../feature/trait/shadow/level-1/shadow-col
 - College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/alchemy.md) skill.
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/lie.md) skill.
 
-Your [shadow](shadow.md) college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
 ### Smoke Bomb
 
@@ -520,7 +520,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 ### 2nd-Level College Ability
 
-Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Black Ash Ability
 
@@ -551,7 +551,7 @@ Choose one of the following abilities.
 
 ### 2nd-Level College Feature
 
-Your [shadow](shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 2nd-Level College Features table.
 
 ###### 2nd-Level College Features Table
 
@@ -824,7 +824,7 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 ### 5th-Level College Feature
 
-Your [shadow](shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table
 
@@ -931,7 +931,7 @@ Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-
 
 ### 6th-Level College Ability
 
-Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Black Ash Abilities
 
@@ -1109,7 +1109,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 ### 8th-Level College Feature
 
-Your [shadow](shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 8th-Level College Features table.
 
 ###### 8th-Level College Features Table
 
@@ -1224,7 +1224,7 @@ For each combat round that has passed since this ability was last used in the cu
 
 ### 9th-Level College Ability
 
-Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Black Ash Abilities
 

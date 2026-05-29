@@ -1087,7 +1087,7 @@ Choose one of the following abilities.
 ###### Squad! Hit and Run! (11 Focus)
 
 >
-> *I had to pry this secret from the [shadow](shadow.md) colleges.*
+> *I had to pry this secret from the [shadow college](../feature/trait/shadow/level-1/shadow-college.md)s.*
 >
 > | **Ranged**       |            **Main action** |
 > |------------------|---------------------------:|
@@ -1141,7 +1141,7 @@ Your expertise with weapons has grown to true mastery. Whenever you use a signat
 
 ### Squad! Hit and Run!
 
-*I had to pry this secret from the [shadow](shadow.md) colleges.*
+*I had to pry this secret from the [shadow college](../feature/trait/shadow/level-1/shadow-college.md)s.*
 
 | **Ranged**       |            **Main action** |
 |------------------|---------------------------:|

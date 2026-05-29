@@ -47,7 +47,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Talent](talent.md) Tradition, [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent](talent.md) Ward, [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), Tradition Features, [Talent Abilities](../feature/trait/talent/level-1/talent-abilities.md) | Two signature, 3, 5           | -                   |
+| 1st   | [Talent Tradition](../feature/trait/talent/level-1/talent-tradition.md), [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent Ward](../feature/trait/talent/level-1/talent-ward.md), [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), Tradition Features, [Talent Abilities](../feature/trait/talent/level-1/talent-abilities.md) | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mind Projection](../feature/trait/talent/level-4/mind-projection.md), [Mind Recovery](../feature/trait/talent/level-4/mind-recovery.md), Perk, Skill [Suspensor Field](../feature/trait/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
@@ -65,7 +65,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 ### 1st-Level Tradition Features
 
-Your [talent](talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table
 
@@ -214,7 +214,7 @@ You have the following ability.
 
 ### Psionic Augmentation
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent](talent.md) Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../feature/trait/null/level-1/force-augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../feature/trait/talent/level-1/talent-ward.md) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../feature/trait/null/level-1/force-augmentation.md).)
 
 ### Remote Assistance
 
@@ -265,7 +265,7 @@ Your ward reacts to danger, protecting you from future harm. Whenever you take d
 
 ### Talent Abilities
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](talent.md) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 ##### Signature Abilities
 
@@ -304,7 +304,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](talent.md) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -315,7 +315,7 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](talent.md) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](talent.md) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](talent.md) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) from the following options: chronopathy, telekinesis, or telepathy. Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s will be featured in future products.) (*Quick Build:* Telekinesis.)
 
 ### Talent Ward
 
@@ -670,7 +670,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### 2nd-Level Tradition Ability
 
-Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Chronopathy Ability
 
@@ -705,7 +705,7 @@ Choose one of the following abilities.
 
 ### 2nd-Level Tradition Feature
 
-Your [talent](talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 
@@ -970,7 +970,7 @@ If you are strained while [flying](../movement/fly.md) and are force moved, the 
 
 ### 5th-Level Tradition Features
 
-Your [talent](talent.md) tradition grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
@@ -1093,7 +1093,7 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 
 ### 6th-Level Tradition Ability
 
-Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronopathy Abilities
 
@@ -1319,7 +1319,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 
 ### 8th-Level Tradition Features
 
-Your [talent](talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ###### 8th-Level Tradition Features Table
 
@@ -1481,7 +1481,7 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 
 ### 9th-Level Tradition Ability
 
-Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronopathy Abilities
 
