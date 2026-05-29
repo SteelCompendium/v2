@@ -33,6 +33,6 @@ Additionally, you can spend 1 wrath to take one of the following free triggered 
 - When an adjacent creature judged by you starts to [shift](../../../../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../../../../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../../../../condition/taunted.md)) by you until the end of their next turn.
+- If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.
   
 You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.

@@ -203,7 +203,7 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 > - When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
 > - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 > - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-> - If you damage a creature judged by you with a melee ability, the creature is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../condition/taunted.md)) by you until the end of their next turn.
+> - If you damage a creature judged by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
 >   
 > You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -284,11 +284,11 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
-- **12-16:** 9 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
-- **17+:** 13 + M holy damage; [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md))
+- **≤11:** 6 + M holy damage; [grabbed](../condition/grabbed.md)
+- **12-16:** 9 + M holy damage; [grabbed](../condition/grabbed.md)
+- **17+:** 13 + M holy damage; [grabbed](../condition/grabbed.md)
 
-**Effect:** If the target makes a strike against a creature while [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../condition/grabbed.md)) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
+**Effect:** If the target makes a strike against a creature while [grabbed](../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
 ### Back Blasphemer!
 
@@ -330,11 +330,11 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends)
+- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
+- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
+- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
+**Effect:** Each enemy [frightened](../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
 ### Censored
 
@@ -414,9 +414,9 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 **Power Roll + Might:**
 
-- **≤11:** 2 + M holy damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, [slowed](scc:mcdm.heroes.v1/condition/[slowed](../condition/slowed.md)) (save ends)
+- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 7 + M holy damage; P < STRONG, [slowed](../condition/slowed.md) (save ends)
 
 ### Hands of the Maker
 
@@ -447,7 +447,7 @@ Additionally, you can spend 1 wrath to take one of the following free triggered 
 - When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../condition/taunted.md)) by you until the end of their next turn.
+- If you damage a creature judged by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
   
 You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
@@ -491,9 +491,9 @@ You can choose only one free triggered action option at a time, even if multiple
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P holy damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/[dazed](../condition/dazed.md)) (save ends)
+- **≤11:** 5 + P holy damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** 11 + P holy damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ### The Gods Punish and Defend
 
@@ -591,11 +591,11 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 **Power Roll + Might:**
 
-- **≤11:** 8 + M holy damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) (save ends)
+- **≤11:** 8 + M holy damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+- **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+- **17+:** 15 + M holy damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-**Effect:** If the target is already [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+**Effect:** If the target is already [frightened](../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
 ### Prescient Grace
 
@@ -629,11 +629,11 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P damage; P < WEAK, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
-- **17+:** 12 + P damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) (save ends)
+- **≤11:** 5 + P damage; P < WEAK, [restrained](../condition/restrained.md) (save ends)
+- **12-16:** 9 + P damage; P < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+- **17+:** 12 + P damage; P < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While the target is [restrained](scc:mcdm.heroes.v1/condition/[restrained](../condition/restrained.md)) this way, your abilities that impose [forced movement](../movement/forced-movement.md) can still move them.
+**Effect:** While the target is [restrained](../condition/restrained.md) this way, your abilities that impose [forced movement](../movement/forced-movement.md) can still move them.
 
 ### With My Blessing
 
@@ -649,7 +649,7 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 
 ### Look On My Work and Despair
 
-Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/trait/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you (save ends). If the target is already [frightened](scc:mcdm.heroes.v1/condition/[frightened](../condition/frightened.md)) of you, they instead take holy damage equal to twice your Presence score.
+Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/trait/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends). If the target is already [frightened](../condition/frightened.md) of you, they instead take holy damage equal to twice your Presence score.
 
 ## 3rd-Level Abilities
 

@@ -334,13 +334,13 @@ Potencies are made for quick resolution at the table, but a number of triggered 
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the [tactician's](../../Browse/class/tactician.md) Overwatch ability allows the [tactician](../../Browse/class/tactician.md) to spend 1 focus to impose the [slowed](scc:mcdm.heroes.v1/condition/[slowed](../../Browse/condition/slowed.md)) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/class/tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../../Browse/class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
+For example, the [tactician's](../../Browse/class/tactician.md) Overwatch ability allows the [tactician](../../Browse/class/tactician.md) to spend 1 focus to impose the [slowed](../../Browse/condition/slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/class/tactician.md) targets a creature whose high Reason leaves them unaffected, the [tactician](../../Browse/class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
 #### Critical Hit
 
-Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](scc:mcdm.heroes.v1/condition/[dazed](../../Browse/condition/dazed.md)) (see Conditions below).
+Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](../../Browse/condition/dazed.md) (see Conditions below).
 
 You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the [tactician's](../../Browse/class/tactician.md) Strike Now ability can be critical hits.
 
@@ -379,7 +379,7 @@ The unique effects of different abilities are combined—effectively stacking on
 
 For example, the [null's](../../Browse/class/null.md) [Null](../../Browse/class/null.md) Field ability reduces the potencies of enemies within the field by 1. If two allied [nulls](../../Browse/class/null.md) each have their [Null](../../Browse/class/null.md) Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
-Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](scc:mcdm.heroes.v1/condition/[weakened](../../Browse/condition/weakened.md)) (imposing a bane on the target's power rolls), the target isn't [weakened](scc:mcdm.heroes.v1/condition/[weakened](../../Browse/condition/weakened.md)) twice to impose a double bane on those rolls. A character who is [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) by an enemy can't be [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
+Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../../Browse/condition/weakened.md) (imposing a bane on the target's power rolls), the target isn't [weakened](../../Browse/condition/weakened.md) twice to impose a double bane on those rolls. A character who is [grabbed](../../Browse/condition/grabbed.md) by an enemy can't be [grabbed](../../Browse/condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their recovery value, the hero's recovery value is halved only once.
 
 #### Ending Effects
 
@@ -430,56 +430,6 @@ Likewise, if an effect refers to a "ceiling," that means any solid surface above
 #### Conditions
 
 Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and can be tracked on your character sheet when they affect your hero.
-
-##### Bleeding
-
-While a creature is [bleeding](scc:mcdm.heroes.v1/condition/[bleeding](../../Browse/condition/bleeding.md)), whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
-
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician's](../../Browse/class/tactician.md) Strike Now ability triggers the damage from the [bleeding](scc:mcdm.heroes.v1/condition/[bleeding](../../Browse/condition/bleeding.md)) condition.
-
-##### Dazed
-
-A creature who is [dazed](scc:mcdm.heroes.v1/condition/[dazed](../../Browse/condition/dazed.md)) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](scc:mcdm.heroes.v1/condition/[dazed](../../Browse/condition/dazed.md)) creature also can't use triggered actions, free triggered actions, or free maneuvers.
-
-##### Frightened
-
-When a creature is [frightened](scc:mcdm.heroes.v1/condition/[frightened](../../Browse/condition/frightened.md)), any ability roll they make against the source of their fear takes a bane. If that source is a creature, their ability rolls made against the [frightened](scc:mcdm.heroes.v1/condition/[frightened](../../Browse/condition/frightened.md)) creature gain an edge. A [frightened](scc:mcdm.heroes.v1/condition/[frightened](../../Browse/condition/frightened.md)) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](scc:mcdm.heroes.v1/condition/[frightened](../../Browse/condition/frightened.md)) condition from one source while already [frightened](scc:mcdm.heroes.v1/condition/[frightened](../../Browse/condition/frightened.md)) by a different source, the new condition replaces the old one.
-
-##### Grabbed
-
-A creature who is [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) has speed 0, can't be [force moved](../movement/forced-movement.md) except by a creature, object, or effect that has them [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)), can't use the Knockback maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)), and takes a bane on abilities that don't target the creature, object, or effect that has them [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)). If a creature is [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) by another creature and that creature moves, they bring the [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) creature with them. If a creature's size is equal to or less than the size of a creature they have [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)), their speed is halved while they have that creature [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)).
-
-A creature who has another creature [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) can use a maneuver to move the [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) creature into an unoccupied space adjacent to them.
-
-A creature can release a creature they have [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) at any time to end that condition (no action required). A [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) creature can attempt to escape being [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) using the Escape Grab maneuver (see Chapter 10: [Combat](combat.md)). If a [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) creature [teleports](../movement/teleport.md), or if either the [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)) creature or the creature grabbing them is [force moved](../movement/forced-movement.md) so that both creatures are not adjacent to each other, that creature is no longer [grabbed](scc:mcdm.heroes.v1/condition/[grabbed](../../Browse/condition/grabbed.md)).
-
-A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
-
-Unless otherwise indicated, a creature can grab only one creature at a time.
-
-##### Prone
-
-While a creature is [prone](../../Browse/condition/prone.md), they are flat on the ground, any strike they make takes a bane, and melee abilities used against them gain an edge. A [prone](../../Browse/condition/prone.md) creature must [crawl](../movement/crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't climb, [jump](../movement/jump.md), swim, or [fly](../movement/fly.md) while [prone](../../Browse/condition/prone.md). If they are climbing, [flying](../movement/fly.md), or jumping when knocked [prone](../../Browse/condition/prone.md), they fall.
-
-Unless the ability or effect that imposed the [prone](../../Browse/condition/prone.md) condition says otherwise, a [prone](../../Browse/condition/prone.md) creature can stand up using the Stand Up maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)). A creature adjacent to a willing [prone](../../Browse/condition/prone.md) creature can likewise use the Stand Up maneuver to make that creature stand up.
-
-##### Restrained
-
-A creature who is [restrained](scc:mcdm.heroes.v1/condition/[restrained](../../Browse/condition/restrained.md)) has speed 0, can't use the Stand Up maneuver, and can't be [force moved](../movement/forced-movement.md). A [restrained](scc:mcdm.heroes.v1/condition/[restrained](../../Browse/condition/restrained.md)) creature takes a bane on ability rolls and on Might and Agility tests, and abilities used against them gain an edge.
-
-If a creature [teleports](../movement/teleport.md) while [restrained](scc:mcdm.heroes.v1/condition/[restrained](../../Browse/condition/restrained.md)), that condition ends.
-
-##### Slowed
-
-A creature who is [slowed](scc:mcdm.heroes.v1/condition/[slowed](../../Browse/condition/slowed.md)) has speed 2 unless their speed is already lower, and they can't [shift](../movement/shifting.md).
-
-##### Taunted
-
-A creature who is [taunted](scc:mcdm.heroes.v1/condition/[taunted](../../Browse/condition/taunted.md)) has a double bane on ability rolls for any ability that doesn't target the creature who [taunted](scc:mcdm.heroes.v1/condition/[taunted](../../Browse/condition/taunted.md)) them, as long as they have line of effect to that creature. If a creature gains the [taunted](scc:mcdm.heroes.v1/condition/[taunted](../../Browse/condition/taunted.md)) condition from one source while already [taunted](scc:mcdm.heroes.v1/condition/[taunted](../../Browse/condition/taunted.md)) by a different source, the new condition replaces the old one.
-
-##### Weakened
-
-A creature who is [weakened](scc:mcdm.heroes.v1/condition/[weakened](../../Browse/condition/weakened.md)) takes a bane on power rolls.
 
 #### Abilities in Class Tables
 
