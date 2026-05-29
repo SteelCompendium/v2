@@ -169,6 +169,47 @@ th:empty {
     font-family: var(--md-code-font, monospace);
 }
 
+/* Browse expandable index sections */
+.browse-expand {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.4em;
+    margin-bottom: 0.5em;
+    padding: 0;
+}
+
+.browse-expand summary {
+    padding: 0.5em 0.8em;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.9em;
+    list-style: revert;
+}
+
+.browse-expand summary a {
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+}
+
+.browse-expand summary a:hover {
+    color: var(--md-accent-fg-color);
+}
+
+.browse-expand[open] {
+    border-color: var(--md-accent-fg-color--transparent);
+}
+
+.browse-expand > .browse-index {
+    padding: 0 0.8em 0.5em;
+}
+
+[data-md-color-scheme="slate"] .browse-expand {
+    border-color: rgba(220, 226, 230, 0.12);
+}
+
+[data-md-color-scheme="slate"] .browse-expand[open] {
+    border-color: var(--md-accent-fg-color--transparent);
+}
+
 /* ============================
    Ability Blockquote Cards
    ============================ */
