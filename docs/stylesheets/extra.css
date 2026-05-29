@@ -192,6 +192,12 @@ th:empty {
     content: "\2694";
     display: inline-block;
     transition: transform 0.15s;
+    position: static;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    -webkit-mask-image: none;
+    mask-image: none;
 }
 
 .browse-expand[open] > summary::before {
