@@ -16,6 +16,9 @@ sections:
       - feature/
       - condition/
       - complication/
+      - movement/
+      - negotiation/
+      - skill/
       - kit/
       - ancestry/
       - culture/
