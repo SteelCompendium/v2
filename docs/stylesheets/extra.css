@@ -189,13 +189,13 @@ th:empty {
 }
 
 .browse-expand summary::before {
-    content: "▸";
+    content: "\2694";
     display: inline-block;
     transition: transform 0.15s;
 }
 
 .browse-expand[open] > summary::before {
-    transform: rotate(90deg);
+    transform: none;
 }
 
 .browse-expand summary::-webkit-details-marker {
