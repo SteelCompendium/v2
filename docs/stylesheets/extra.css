@@ -220,6 +220,10 @@ th:empty {
     color: var(--md-accent-fg-color);
 }
 
+.browse-expand details {
+	margin: 1em 0;
+}
+
 .browse-expand[open] {
     border-color: var(--md-accent-fg-color--transparent);
 }
