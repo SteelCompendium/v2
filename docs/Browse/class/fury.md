@@ -47,7 +47,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 | Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------|
-| 1st   | [Primordial Aspect](../feature/trait/fury/level-1/primordial-aspect.md), Ferocity, [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md), Aspect Features, [Aspect Triggered Action](../feature/trait/fury/level-1/aspect-triggered-action.md), [Mighty Leaps](../feature/trait/fury/level-1/mighty-leaps.md), [Fury](fury.md) Abilities           | Signature, 3, 5           | -                |
+| 1st   | [Primordial Aspect](../feature/trait/fury/level-1/primordial-aspect.md), Ferocity, [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md), Aspect Features, [Aspect Triggered Action](../feature/trait/fury/level-1/aspect-triggered-action.md), [Mighty Leaps](../feature/trait/fury/level-1/mighty-leaps.md), [Fury Abilities](../feature/trait/fury/level-1/fury-abilities.md)           | Signature, 3, 5           | -                |
 | 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
 | 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Damaging Ferocity](../feature/trait/fury/level-4/damaging-ferocity.md), [Growing Ferocity Improvement](../feature/trait/fury/level-10/growing-ferocity-improvement.md), Perk, [Primordial Attunement](../feature/trait/fury/level-4/primordial-attunement.md), [Primordial Strike](../feature/trait/fury/level-4/primordial-strike.md), Skill | Signature, 3, 5, 7        | 5                |
@@ -85,11 +85,11 @@ Whenever you use [forced movement](../movement/forced-movement.md) to push a cre
 
 ### Aspect Benefits
 
-You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
+Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
 
 ### Aspect Benefits
 
-Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
+You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 ### Aspect Benefits
 
@@ -122,18 +122,18 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Vuken Growing Ferocity Table
+###### Boren Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                          |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
+| Ferocity        | Benefit                                                                                                                                                                                                                   |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 surge.                                                                       |
+| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
+| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
+| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
+| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 ### Growing Ferocity
 
@@ -152,6 +152,10 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.m
 
 ### Growing Ferocity
 
+Each stormwight kit grants a set of benefits for your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
+
+### Growing Ferocity
+
 As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Corven Growing Ferocity Table
@@ -167,22 +171,18 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven
 
 ### Growing Ferocity
 
-As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Boren Growing Ferocity Table
+###### Vuken Growing Ferocity Table
 
-| Ferocity        | Benefit                                                                                                                                                                                                                   |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 surge.                                                                       |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
-
-### Growing Ferocity
-
-Each stormwight kit grants a set of benefits for your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
+| Ferocity        | Benefit                                                                                                                                                                                                                          |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
+| 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
+| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
+| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
 
 ### Hybrid Form: Bear
 
@@ -202,7 +202,17 @@ While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed
 
 ### Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../chapter/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
+- **Stamina Bonus:** +9 per echelon
+- **Speed Bonus:** +2
+- **Melee Damage Bonus:** +2/+2/+2
+- **Disengage Bonus:** +1
+
+### Kit Bonuses
+
+- **Stamina Bonus:** +3 per echelon
+- **Speed Bonus:** +3
+- **Melee Damage Bonus:** +2/+2/+2
+- **Disengage Bonus:** +1
 
 ### Kit Bonuses
 
@@ -212,22 +222,12 @@ These bonuses apply in your true form, your [animal form](../complication/animal
 
 ### Kit Bonuses
 
-- **Stamina Bonus:** +3 per echelon
-- **Speed Bonus:** +3
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
+These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../chapter/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
 
 ### Kit Bonuses
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
-
-### Kit Bonuses
-
-- **Stamina Bonus:** +9 per echelon
-- **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
@@ -343,6 +343,41 @@ You lose any remaining ferocity at the end of the encounter.
 Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../feature/ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your Victories.
+
+### Fury Abilities
+
+You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving.
+
+##### Signature Ability
+
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../feature/ability/fury/level-1/to-the-death.md)!)
+
+##### Heroic Abilities
+
+You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
+
+###### 3-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+
+###### 5-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
+
+###### Brutal Slam
+
+> 
+> *The heavy impact of your weapon attacks drives your foes ever back.*
+> 
+> | **Melee, Strike, Weapon** |                **Main action** |
+> |---------------------------|-------------------------------:|
+> | **📏 Melee 1**            |  **🎯 One creature or object** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 3 + M damage; push 1
+> - **12-16:** 6 + M damage; push 2
+> - **17+:** 9 + M damage; push 4
 
 ### Growing Ferocity
 
@@ -634,6 +669,33 @@ You gain an edge on tests made using the [Track](../skill/track.md) skill.
 
 ## 2nd-Level Features
 
+### 2nd-Level Aspect Ability
+
+Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+
+##### 2nd-Level Berserker Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Reaver Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Stormwight Ability
+
+Choose one of the following abilities.
+
+###### Special Delivery (5 Ferocity)
+
+> 
+> *You ready?*
+> 
+> | **Melee, Weapon** |            **Maneuver** |
+> |-------------------|------------------------:|
+> | **📏 Melee 1**    | **🎯 One willing ally** |
+> 
+> **Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+
 ### 2nd-Level Aspect Feature
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
@@ -768,6 +830,21 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver                    | [See Through Their Tricks](../feature/trait/fury/level-3/see-through-their-tricks.md) |
 | Stormwight                | Nature's Knight          |
 
+### 7-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
+
+##### Demon Unleashed (7 Ferocity)
+
+> 
+> *Foes tremble at the sight of you.*
+> 
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+> 
+> **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../condition/frightened.md) until the end of their turn.
+
 ### Immovable Object
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
@@ -870,6 +947,27 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver     | [Unfettered](../feature/trait/fury/level-5/unfettered.md) |
 | Stormwight | [Stormborn](../feature/trait/fury/level-5/stormborn.md)  |
 
+### 9-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
+
+##### Debilitating Strike (9 Ferocity)
+
+> 
+> *You need just one blow to sabotage your target.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 10 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 20 + M damage; M < STRONG, [slowed](../condition/slowed.md) (save ends)
+> 
+> **Effect:** While [slowed](../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../movement/forced-movement.md).
+
 ### Bounder
 
 Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
@@ -951,6 +1049,39 @@ At the start of your turn, you can end any [restrained](../condition/restrained.
 **Effect:** While the target is [slowed](../condition/slowed.md) this way, any other effect that would make the target [slowed](../condition/slowed.md) instead makes them [restrained](../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ## 6th-Level Features
+
+### 6th-Level Aspect Ability
+
+Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+
+##### 6th-Level Berserker Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Reaver Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Stormwight Abilities
+
+Choose one of the following abilities.
+
+###### Avalanche Impact (9 Ferocity)
+
+> 
+> *You leap and crash down, causing a shockwave that devastates foes.*
+> 
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+> 
+> **Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 4 damage; push 1
+> - **12-16:** 7 damage; push 2
+> - **17+:** 11 damage; push 3
 
 ### Marauder of the Primordial Chaos
 
@@ -1086,6 +1217,21 @@ You gain one skill of your choice.
 
 ## 8th-Level Features
 
+### 11-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
+
+##### Elemental Ferocity (11 Ferocity)
+
+>
+> *Your primordial energy makes for instant retribution.*
+>
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
+
 ### 8th-Level Aspect Feature
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
@@ -1169,6 +1315,39 @@ Your strength is unmatched. Whenever you make a Might test, you can roll three d
 - **17+:** Any target whose Stamina is equal to or less than 17 dies.
 
 ## 9th-Level Features
+
+### 9th-Level Aspect Ability
+
+Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+
+##### 9th-Level Berserker Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Reaver Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Stormwight Abilities
+
+Choose one of the following abilities.
+
+###### Death Comes for You All! (11 Ferocity)
+
+>
+> *You use your weapon to create a destructive shockwave.*
+>
+> | **Area, Magic, Melee, Weapon** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 3 burst**                 | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 7 damage; push 3
+> - **12-16:** 10 damage; push 5
+> - **17+:** 15 damage; push 7
+>
+> **Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 
 ### Harbinger of the Primordial Chaos
 

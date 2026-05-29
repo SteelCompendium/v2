@@ -15,6 +15,7 @@
 - [I'm No Threat](level-1/im-no-threat.md)
 - [Insight](level-1/insight.md)
 - [Kit](level-1/kit.md)
+- [Shadow Abilities](level-1/shadow-abilities.md)
 - [Shadow College](level-1/shadow-college.md)
 - [Smoke Bomb](level-1/smoke-bomb.md)
 
@@ -27,6 +28,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level College Ability](level-2/2nd-level-college-ability.md)
 - [2nd-Level College Feature](level-2/2nd-level-college-feature.md)
 - [Burning Ash](level-2/burning-ash.md)
 - [Friend!](level-2/friend.md)
@@ -42,6 +44,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Insight Ability](level-3/7-insight-ability.md)
 - [Careful Observation](level-3/careful-observation.md)
 
 </div>
@@ -70,6 +73,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level College Feature](level-5/5th-level-college-feature.md)
+- [9-Insight Ability](level-5/9-insight-ability.md)
 - [Harlequin Gambit](level-5/harlequin-gambit.md)
 - [Trail of Cinders](level-5/trail-of-cinders.md)
 - [Volatile Reagents](level-5/volatile-reagents.md)
@@ -83,6 +87,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level College Ability](level-6/6th-level-college-ability.md)
 - [Perk](level-6/perk.md)
 - [Umbral Form](level-6/umbral-form.md)
 
@@ -111,6 +116,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level College Feature](level-8/8th-level-college-feature.md)
+- [11-Insight Ability](level-8/11-insight-ability.md)
 - [Cinder Step](level-8/cinder-step.md)
 - [Parkour](level-8/parkour.md)
 - [Perk](level-8/perk.md)
@@ -125,6 +131,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level College Ability](level-9/9th-level-college-ability.md)
 - [Gloom Squad](level-9/gloom-squad.md)
 
 </div>

@@ -14,7 +14,9 @@
 - [Power Chord](power-chord.md)
 - [Routines](routines.md)
 - [Scene Partner](scene-partner.md)
+- [Signature Ability](signature-ability.md)
 - [Star Power](star-power.md)
+- [Troubadour Abilities](troubadour-abilities.md)
 - [Troubadour Class Act](troubadour-class-act.md)
 - [Virtuoso Performances](virtuoso-performances.md)
 

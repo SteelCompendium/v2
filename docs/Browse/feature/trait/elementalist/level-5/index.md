@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Specialization Feature](5th-level-specialization-feature.md)
+- [9-Essence Ability](9-essence-ability.md)
 - [Hide of Tenfold Shields](hide-of-tenfold-shields.md)
 - [Pierce the Veil of Substance](pierce-the-veil-of-substance.md)
 - [Smoldering Step](smoldering-step.md)

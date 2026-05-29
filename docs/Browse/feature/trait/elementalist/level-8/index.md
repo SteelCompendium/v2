@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Specialization Feature](8th-level-specialization-feature.md)
+- [11-Essence Ability](11-essence-ability.md)
 - [Black Hole Star](black-hole-star.md)
 - [Chimeric Manifestation](chimeric-manifestation.md)
 - [Perk](perk.md)

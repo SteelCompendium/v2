@@ -47,7 +47,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 | Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Null](null.md) Tradition, Discipline, [Null](null.md) Field, [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md), [Null](null.md) Speed, [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/trait/null/level-1/psionic-martial-arts.md), [Null](null.md) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Null](null.md) Tradition, Discipline, [Null](null.md) Field, [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md), [Null](null.md) Speed, [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/trait/null/level-1/psionic-martial-arts.md), [Null Abilities](../feature/trait/null/level-1/null-abilities.md) | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
 | 3rd   | [Psionic Leap](../feature/trait/null/level-3/psionic-leap.md), [Reorder](../feature/trait/null/level-3/reorder.md), 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), Enhanced [Null](null.md) Field, Perk, [Regenerative Field](../feature/trait/null/level-4/regenerative-field.md), Skill                                       | Two signature, 3, 5, 7        | 5                   |
@@ -164,6 +164,43 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 | 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 surges, even if you resist the effect.                                                                 |
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+
+### Null Abilities
+
+You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
+
+##### Signature Abilities
+
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../feature/ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../feature/ability/null/level-1/inertial-step.md).)
+
+##### Heroic Abilities
+
+You have mastered a range of heroic abilities, all of them channeled through your discipline.
+
+###### 3-Discipline Ability
+
+Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../feature/ability/null/level-1/chronal-spike.md).)
+
+###### 5-Discipline Ability
+
+Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../feature/ability/null/level-1/a-squad-unto-myself.md).)
+
+###### Dance of Blows
+
+>
+> *You strike everywhere at once, tricking an enemy into moving out of position.*
+>
+> | **Area, Psionic, Weapon** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 1 burst**            | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 4 damage
+> - **17+:** 5 damage
+>
+> **Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score.
 
 ### Null Field
 
@@ -490,6 +527,33 @@ This ability remains active even after an encounter ends. It ends only if you ar
 
 ## 2nd-Level Features
 
+### 2nd-Level Tradition Ability
+
+Your [null](null.md) tradition grants your choice of one of two abilities.
+
+##### 2nd-Level Chronokinetic Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Cryokinetic Ability
+
+Choose one of the following heroic abilities.
+
+##### 2nd-Level Metakinetic Ability
+
+Choose one of the following abilities.
+
+###### Blur (5 Discipline)
+
+>
+> *You release stored time, allowing you to act twice.*
+>
+> | **Psionic** | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
+
 ### 2nd-Level Tradition Feature
 
 Your [null](null.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
@@ -602,6 +666,21 @@ As a maneuver, you can read an entire book or process a similar amount of inform
 
 ## 3rd-Level Features
 
+### 7-Discipline Ability
+
+Choose one heroic ability from the following options, each of which costs 7 discipline to use.
+
+##### Absorption Field (7 Discipline)
+
+>
+> *Your [null](null.md) field absorbs kinetic energy.*
+>
+> | **Psionic** | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter, the size of your [Null](null.md) Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+
 ### Psionic Leap
 
 You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.
@@ -692,6 +771,29 @@ Your [null](null.md) tradition grants you a feature, as shown on the 5th-Level T
 | Cryokinetic   | [Chilling Readiness](../feature/trait/null/level-5/chilling-readiness.md) |
 | Metakinetic   | [Inertial Fulcrum](../feature/trait/null/level-5/inertial-fulcrum.md)   |
 
+### 9-Discipline Ability
+
+Choose one heroic ability from the following options, each of which costs 9 discipline to use.
+
+##### Anticipating Strike (9 Discipline)
+
+>
+> *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
+>
+> | **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
+> |------------------------------------|--------------------:|
+> | **📏 Melee 1**                     | **🎯 One creature** |
+>
+> **Trigger:** The target moves or uses a main action.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 7 + A damage; I < WEAK, [restrained](../condition/restrained.md) (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+> - **17+:** 13 + A damage; I < STRONG, [restrained](../condition/restrained.md) (save ends)
+>
+> **Effect:** This strike resolves before the triggering movement or main action.
+
 ### Chilling Readiness
 
 You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
@@ -761,6 +863,33 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 **Effect:** Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.
 
 ## 6th-Level Features
+
+### 6th-Level Tradition Ability
+
+Your [null](null.md) tradition grants your choice of one of two heroic abilities.
+
+##### 6th-Level Chronokinetic Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Cryokinetic Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Metakinetic Abilities
+
+Choose one of the following abilities.
+
+###### Interphase (9 Discipline)
+
+>
+> *You slip into a faster timestream to act more quickly.*
+>
+> | **Psionic** | **Main action** |
+> |-------------|----------------:|
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Effect:** You can use up to three signature abilities, each of which gains an edge.
 
 ### Elemental Absorption
 
@@ -906,6 +1035,27 @@ You gain one skill of your choice.
 
 ## 8th-Level Features
 
+### 11-Discipline Ability
+
+Choose one heroic ability from the following options, each of which costs 11 discipline to use.
+
+##### Arcane Purge (11 Discipline)
+
+>
+> *You focus your [null](null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
+>
+> | **Melee, Psionic, Strike, Weapon** |     **Main action** |
+> |------------------------------------|--------------------:|
+> | **📏 Melee 1**                     | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)
+> - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
+> - **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)
+>
+> **Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+
 ### 8th-Level Tradition Feature
 
 Your [null](null.md) tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
@@ -995,6 +1145,41 @@ As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each 
 **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../condition/dazed.md) (save ends). While the triggering creature is [dazed](../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
 ## 9th-Level Features
+
+### 9th-Level Tradition Ability
+
+Your [null](null.md) tradition grants your choice of one of two heroic abilities.
+
+##### 9th-Level Chronokinetic Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Cryokinetic Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Metakinetic Abilities
+
+Choose one of the following abilities.
+
+###### Arrestor Cycle (11 Discipline)
+
+>
+> *You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*
+>
+> | **Psionic, Ranged** |  **Free triggered** |
+> |---------------------|--------------------:|
+> | **📏 Ranged 10**    | **🎯 One creature** |
+>
+> **Trigger:** The triggering creature starts their turn.
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** I < WEAK, the target loses their turn
+> - **12-16:** I < AVERAGE, the target loses their turn
+> - **17+:** I < STRONG, the target loses their turn
+>
+> **Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
 
 ### I Am the Weapon
 

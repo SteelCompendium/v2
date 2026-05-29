@@ -12,6 +12,7 @@
 - [I'm No Threat](im-no-threat.md)
 - [Insight](insight.md)
 - [Kit](kit.md)
+- [Shadow Abilities](shadow-abilities.md)
 - [Shadow College](shadow-college.md)
 - [Smoke Bomb](smoke-bomb.md)
 

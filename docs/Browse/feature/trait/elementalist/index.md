@@ -11,6 +11,7 @@
 - [A Beyonding of Vision](level-1/a-beyonding-of-vision.md)
 - [Earth: Acolyte of Earth](level-1/earth-acolyte-of-earth.md)
 - [Elemental Specialization](level-1/elemental-specialization.md)
+- [Elementalist Abilities](level-1/elementalist-abilities.md)
 - [Elementalist Ward](level-1/elementalist-ward.md)
 - [Enchantment of Battle](level-1/enchantment-of-battle.md)
 - [Enchantment of Celerity](level-1/enchantment-of-celerity.md)
@@ -47,6 +48,7 @@
 - [Disciple of Earth](level-2/disciple-of-earth.md)
 - [Disciple of Fire](level-2/disciple-of-fire.md)
 - [Disciple of the Green](level-2/disciple-of-the-green.md)
+- [New 5-Essence Ability](level-2/new-5-essence-ability.md)
 - [Perk](level-2/perk.md)
 - [There Is No Space Between](level-2/there-is-no-space-between.md)
 
@@ -60,6 +62,7 @@
 <div class="browse-index" markdown>
 
 - [3rd-Level Specialization Feature](level-3/3rd-level-specialization-feature.md)
+- [7-Essence Ability](level-3/7-essence-ability.md)
 - [A Conversation With Fire](level-3/a-conversation-with-fire.md)
 - [Distance Is Only Memory](level-3/distance-is-only-memory.md)
 - [Earth Accepts Me](level-3/earth-accepts-me.md)
@@ -94,6 +97,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Specialization Feature](level-5/5th-level-specialization-feature.md)
+- [9-Essence Ability](level-5/9-essence-ability.md)
 - [Hide of Tenfold Shields](level-5/hide-of-tenfold-shields.md)
 - [Pierce the Veil of Substance](level-5/pierce-the-veil-of-substance.md)
 - [Smoldering Step](level-5/smoldering-step.md)
@@ -108,6 +112,7 @@
 
 <div class="browse-index" markdown>
 
+- [New 9-Essence Ability](level-6/new-9-essence-ability.md)
 - [Perk](level-6/perk.md)
 - [Wyrding](level-6/wyrding.md)
 
@@ -135,6 +140,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Specialization Feature](level-8/8th-level-specialization-feature.md)
+- [11-Essence Ability](level-8/11-essence-ability.md)
 - [Black Hole Star](level-8/black-hole-star.md)
 - [Chimeric Manifestation](level-8/chimeric-manifestation.md)
 - [Perk](level-8/perk.md)
@@ -151,6 +157,7 @@
 <div class="browse-index" markdown>
 
 - [Grand Wyrding](level-9/grand-wyrding.md)
+- [New 11-Essence Ability](level-9/new-11-essence-ability.md)
 
 </div>
 

@@ -8,6 +8,7 @@
 <div class="browse-index" markdown>
 
 - [1st-Level Doctrine Feature](level-1/1st-level-doctrine-feature.md)
+- [5-Focus Ability](level-1/5-focus-ability.md)
 - [Commanding Presence](level-1/commanding-presence.md)
 - [Covert Operations](level-1/covert-operations.md)
 - [Doctrine Triggered Action](level-1/doctrine-triggered-action.md)
@@ -18,6 +19,7 @@
 - [Strike Now](level-1/strike-now.md)
 - [Studied Commander](level-1/studied-commander.md)
 - [Tactical Doctrine](level-1/tactical-doctrine.md)
+- [Tactician Abilities](level-1/tactician-abilities.md)
 
 </div>
 
@@ -28,6 +30,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Doctrine Ability](level-2/2nd-level-doctrine-ability.md)
 - [2nd-Level Doctrine Feature](level-2/2nd-level-doctrine-feature.md)
 - [Goaded](level-2/goaded.md)
 - [Infiltration Tactics](level-2/infiltration-tactics.md)
@@ -43,6 +46,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Focus Ability](level-3/7-focus-ability.md)
 - [Out of Position](level-3/out-of-position.md)
 
 </div>
@@ -70,6 +74,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Doctrine Features](level-5/5th-level-doctrine-features.md)
+- [9-Focus Ability](level-5/9-focus-ability.md)
 - [Anticipation](level-5/anticipation.md)
 - [Distracted](level-5/distracted.md)
 - [I Predicted That](level-5/i-predicted-that.md)
@@ -86,6 +91,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Doctrine Ability](level-6/6th-level-doctrine-ability.md)
 - [Master of Arms](level-6/master-of-arms.md)
 - [Perk](level-6/perk.md)
 
@@ -117,6 +123,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Doctrine Feature](level-8/8th-level-doctrine-feature.md)
+- [11-Focus Ability](level-8/11-focus-ability.md)
 - [Bait and Ambush](level-8/bait-and-ambush.md)
 - [Perk](level-8/perk.md)
 - [Pincer Movement](level-8/pincer-movement.md)
@@ -131,6 +138,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Doctrine Ability](level-9/9th-level-doctrine-ability.md)
 - [Grandmaster of Arms](level-9/grandmaster-of-arms.md)
 
 </div>

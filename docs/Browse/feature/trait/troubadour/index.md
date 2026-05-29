@@ -17,7 +17,9 @@
 - [Power Chord](level-1/power-chord.md)
 - [Routines](level-1/routines.md)
 - [Scene Partner](level-1/scene-partner.md)
+- [Signature Ability](level-1/signature-ability.md)
 - [Star Power](level-1/star-power.md)
+- [Troubadour Abilities](level-1/troubadour-abilities.md)
 - [Troubadour Class Act](level-1/troubadour-class-act.md)
 - [Virtuoso Performances](level-1/virtuoso-performances.md)
 
@@ -30,6 +32,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Class Act Ability](level-2/2nd-level-class-act-ability.md)
 - [Allow Me to Introduce Tonight's Players](level-2/allow-me-to-introduce-tonights-players.md)
 - [Appeal to the Muses](level-2/appeal-to-the-muses.md)
 - [Formal Introductions](level-2/formal-introductions.md)
@@ -47,6 +50,7 @@
 <div class="browse-index" markdown>
 
 - [3rd-Level Class Act Feature](level-3/3rd-level-class-act-feature.md)
+- [7-Drama Ability](level-3/7-drama-ability.md)
 - [Foil](level-3/foil.md)
 - [Missed Cue](level-3/missed-cue.md)
 - [Second Album](level-3/second-album.md)
@@ -79,6 +83,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Class Act Feature](level-5/5th-level-class-act-feature.md)
+- [9-Drama Ability](level-5/9-drama-ability.md)
 - [Auteur Features](level-5/auteur-features.md)
 - [Duelist Features](level-5/duelist-features.md)
 - [Virtuoso Features](level-5/virtuoso-features.md)
@@ -92,6 +97,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Class Act Ability](level-6/6th-level-class-act-ability.md)
 - [Perk](level-6/perk.md)
 - [Spotlight](level-6/spotlight.md)
 
@@ -119,6 +125,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Class Act Feature](level-8/8th-level-class-act-feature.md)
+- [11-Drama Ability](level-8/11-drama-ability.md)
 - [Crowd Favorites](level-8/crowd-favorites.md)
 - [Deleted Scene](level-8/deleted-scene.md)
 - [Masterwork](level-8/masterwork.md)
@@ -133,6 +140,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Class Act Ability](level-9/9th-level-class-act-ability.md)
 - [Roar of the Crowd](level-9/roar-of-the-crowd.md)
 
 </div>

@@ -8,6 +8,7 @@
 - [Aspect Triggered Action](aspect-triggered-action.md)
 - [Beast Shape](beast-shape.md)
 - [Ferocity](ferocity.md)
+- [Fury Abilities](fury-abilities.md)
 - [Growing Ferocity](growing-ferocity.md)
 - [Kit](kit.md)
 - [Mighty Leaps](mighty-leaps.md)

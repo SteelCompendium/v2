@@ -4,6 +4,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Tradition Ability](6th-level-tradition-ability.md)
 - [Elemental Absorption](elemental-absorption.md)
 - [Elemental Buffer](elemental-buffer.md)
 - [Perk](perk.md)

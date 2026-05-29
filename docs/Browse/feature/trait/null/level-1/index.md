@@ -12,6 +12,7 @@
 - [Force Augmentation](force-augmentation.md)
 - [Inertial Shield](inertial-shield.md)
 - [Metakinetic Mastery](metakinetic-mastery.md)
+- [Null Abilities](null-abilities.md)
 - [Null Field](null-field.md)
 - [Null Speed](null-speed.md)
 - [Null Tradition](null-tradition.md)

@@ -51,7 +51,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 | Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
 |-------|------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
-| 1st   | [Censor](censor.md) Order, [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Wrath, [Judgment](../feature/ability/censor/level-1/judgment.md), Kit, [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor](censor.md) Abilities | Signature, 3, 5           | -                  |
+| 1st   | [Censor](censor.md) Order, [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Wrath, [Judgment](../feature/ability/censor/level-1/judgment.md), Kit, [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md), Domain Feature, [Censor Abilities](../feature/trait/censor/level-1/censor-abilities.md) | Signature, 3, 5           | -                  |
 | 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
 | 3rd   | [Look On My Work and Despair](../feature/trait/censor/level-3/look-on-my-work-and-despair.md), 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Perk, Skill, [Wrath Beyond Wrath](../feature/trait/censor/level-4/wrath-beyond-wrath.md), Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
@@ -111,6 +111,41 @@ Each time you finish a respite, you can decide the weather conditions within 100
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the [Track](../skill/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
+
+### Censor Abilities
+
+You use a blend of martial techniques and divine magic to attack your foes and defend your allies.
+
+##### Signature Ability
+
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../feature/ability/censor/level-1/your-allies-cannot-save-you.md)!)
+
+##### Heroic Abilities
+
+You call upon a number of heroic abilities, all of them bound to your wrath.
+
+###### 3-Wrath Ability
+
+Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../feature/ability/censor/level-1/the-gods-punish-and-defend.md).)
+
+###### 5-Wrath Ability
+
+Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../feature/ability/censor/level-1/purifying-fire.md).)
+
+###### Back Blasphemer!
+
+> 
+> *You channel power through your weapon to repel foes.*
+> 
+> | **Area, Magic, Melee, Weapon** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Presence:**
+> 
+> - **≤11:** 2 holy damage; push 1
+> - **12-16:** 4 holy damage; push 2
+> - **17+:** 6 holy damage; push 3
 
 ### Censor Order
 
@@ -531,6 +566,39 @@ You can choose only one free triggered action option at a time, even if multiple
 
 ## 2nd-Level Features
 
+### 2nd-Level Order Ability
+
+Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+
+##### 2nd-Level Exorcist Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Oracle Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Paragon Ability
+
+Choose one of the following abilities.
+
+###### It Is Justice You Fear (5 Wrath)
+
+> 
+> *I am but a vessel. Your own deeds weigh upon you.*
+> 
+> | **Magic, Ranged, Strike** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Ranged 10**          | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 8 + M holy damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
+> 
+> **Effect:** If the target is already [frightened](../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+
 ### 2nd-Level Order Features
 
 Your [censor](censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
@@ -648,6 +716,21 @@ You exhibit a small spark of your deity's power, causing creatures to trust or f
 **Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
 
 ## 3rd-Level Features
+
+### 7-Wrath Ability
+
+Choose one heroic ability from the following options, each of which costs 7 wrath to use.
+
+##### Edict of Disruptive Isolation (7 Wrath)
+
+> 
+> *The evil within your foes detonates with holy fire that burns only the guilty.*
+> 
+> | **Area, Magic** |                  **Maneuver** |
+> |-----------------|------------------------------:|
+> | **📏 2 aura**   | **🎯 Each enemy in the area** |
+> 
+> **Effect:** Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
 
 ### Look On My Work and Despair
 
@@ -821,6 +904,21 @@ Your [censor](censor.md) order grants you a feature, as shown on the 5th-Level O
 | Oracle                   | [Prophecy](../feature/trait/censor/level-5/prophecy.md)      |
 | Paragon                  | [Stand Fast](../feature/trait/censor/level-5/stand-fast.md)!   |
 
+### 9-Wrath Ability
+
+Choose one heroic ability from the following options, each of which costs 9 wrath to use.
+
+##### Gods Grant Thee Strength (9 Wrath)
+
+> 
+> *You channel divine force for movement that cannot be stopped.*
+> 
+> | **Ranged** |         **Main action** |
+> |------------------|------------------------:|
+> | **📏 Ranged 10** | **🎯 Self or one ally** |
+> 
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up. The target then gains 2 surges, can [shift](../movement/shifting.md) up to their speed while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
+
 ### Evil Revealed
 
 Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action.
@@ -894,6 +992,37 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 - **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
 
 ## 6th-Level Features
+
+### 6th-Level Order Ability
+
+Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+
+##### 6th-Level Exorcist Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Oracle Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Paragon Abilities
+
+Choose one of the following abilities.
+
+###### Begone! (9 Wrath)
+
+> 
+> *You terrify your enemies into retreating, creating chaos in their ranks.*
+> 
+> | **Area, Magic** |               **Main action** |
+> |-----------------|------------------------------:|
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Presence:**
+> 
+> - **≤11:** 4 psychic damage; slide 3
+> - **12-16:** 6 psychic damage; slide 5
+> - **17+:** 8 psychic damage; slide 7
 
 ### Implement of Wrath
 
@@ -1127,6 +1256,27 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ## 8th-Level Features
 
+### 11-Wrath Ability
+
+Choose one heroic ability from the following options, each of which costs 11 wrath to use.
+
+##### Excommunication (11 Wrath)
+
+> 
+> *You curse your foe to become a bane to their allies.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 9 + M damage; I < WEAK, [weakened](../condition/weakened.md) (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+> - **17+:** 18 + M damage; I < STRONG, [weakened](../condition/weakened.md) (save ends)
+> 
+> **Effect:** At the end of each of your turns, a target [weakened](../condition/weakened.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../condition/weakened.md) this way can't be targeted by their allies' abilities.
+
 ### 8th-Level Order Feature
 
 Your [censor](censor.md) order grants you a feature, as shown on the 8th-Level Order Features table.
@@ -1222,6 +1372,39 @@ Your words take on the power of your deity, with all the authority that entails.
 **Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ## 9th-Level Features
+
+### 9th-Level Order Ability
+
+Your [censor](censor.md) order grants your choice of one of two heroic abilities.
+
+##### 9th-Level Exorcist Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Oracle Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Paragon Abilities
+
+Choose one of the following abilities.
+
+###### Banish (11 Wrath)
+
+> 
+> *You sever the target's tenuous connection to the world.*
+> 
+> | **Melee, Strike, Weapon**  |     **Main action** |
+> |----------------------------|--------------------:|
+> | **📏 Melee 1**             | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
+> - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
+> - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
+> 
+> **Effect:** This ability gains an edge against demons, [devils](../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
 ### Improved Implement of Wrath
 

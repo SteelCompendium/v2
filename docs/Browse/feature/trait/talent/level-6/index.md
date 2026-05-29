@@ -4,6 +4,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Tradition Ability](6th-level-tradition-ability.md)
 - [Dynamic Power](dynamic-power.md)
 - [Expanded Power](expanded-power.md)
 - [Extended Power](extended-power.md)

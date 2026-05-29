@@ -1,0 +1,24 @@
+---
+class: shadow
+level: "5"
+name: 9-Insight Ability
+scc: mcdm.heroes.v1/feature.trait.shadow.level-5/9-insight-ability
+type: trait
+---
+
+# 9-Insight Ability
+
+---
+
+Choose one heroic ability from the following options, each of which costs 9 insight to use.
+
+##### Blackout (9 Insight)
+
+>
+> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+>
+> | **Area, Magic** |   **Maneuver** |
+> |-----------------|---------------:|
+> | **📏 3 burst**  | **🎯 Special** |
+>
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a free strike against them.

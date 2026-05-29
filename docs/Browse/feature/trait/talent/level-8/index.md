@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Tradition Features](8th-level-tradition-features.md)
+- [11-Clarity Ability](11-clarity-ability.md)
 - [Doubling the Hours](doubling-the-hours.md)
 - [Levitation Field](levitation-field.md)
 - [Low Gravity](low-gravity.md)

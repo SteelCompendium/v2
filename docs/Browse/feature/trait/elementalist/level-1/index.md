@@ -8,6 +8,7 @@
 - [A Beyonding of Vision](a-beyonding-of-vision.md)
 - [Earth: Acolyte of Earth](earth-acolyte-of-earth.md)
 - [Elemental Specialization](elemental-specialization.md)
+- [Elementalist Abilities](elementalist-abilities.md)
 - [Elementalist Ward](elementalist-ward.md)
 - [Enchantment of Battle](enchantment-of-battle.md)
 - [Enchantment of Celerity](enchantment-of-celerity.md)

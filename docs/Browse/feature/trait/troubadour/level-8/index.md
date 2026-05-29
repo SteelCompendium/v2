@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Class Act Feature](8th-level-class-act-feature.md)
+- [11-Drama Ability](11-drama-ability.md)
 - [Crowd Favorites](crowd-favorites.md)
 - [Deleted Scene](deleted-scene.md)
 - [Masterwork](masterwork.md)

@@ -9,6 +9,7 @@
 - [Blessing of Compassion](blessing-of-compassion.md)
 - [Blessing of Comprehension](blessing-of-comprehension.md)
 - [Blessing of Fortunate Weather](blessing-of-fortunate-weather.md)
+- [Conduit Abilities](conduit-abilities.md)
 - [Conduit Ward](conduit-ward.md)
 - [Deity and Domains](deity-and-domains.md)
 - [Domain Piety and Effects](domain-piety-and-effects.md)

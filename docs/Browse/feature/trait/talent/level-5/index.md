@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Tradition Features](5th-level-tradition-features.md)
+- [9-Clarity Ability](9-clarity-ability.md)
 - [Compulsion](compulsion.md)
 - [Distortion Temporal](distortion-temporal.md)
 - [Kinetic Amplifier](kinetic-amplifier.md)

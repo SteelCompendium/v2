@@ -25,6 +25,7 @@
 - [Repulsive Ward](level-1/repulsive-ward.md)
 - [Speed Augmentation](level-1/speed-augmentation.md)
 - [Steel Ward](level-1/steel-ward.md)
+- [Talent Abilities](level-1/talent-abilities.md)
 - [Talent Tradition](level-1/talent-tradition.md)
 - [Talent Ward](level-1/talent-ward.md)
 - [Telepathic Speech](level-1/telepathic-speech.md)
@@ -39,6 +40,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Tradition Ability](level-2/2nd-level-tradition-ability.md)
 - [2nd-Level Tradition Feature](level-2/2nd-level-tradition-feature.md)
 - [Ease the Hours](level-2/ease-the-hours.md)
 - [Ease the Mind](level-2/ease-the-mind.md)
@@ -54,6 +56,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Clarity Ability](level-3/7-clarity-ability.md)
 - [Scan](level-3/scan.md)
 
 </div>
@@ -82,6 +85,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Tradition Features](level-5/5th-level-tradition-features.md)
+- [9-Clarity Ability](level-5/9-clarity-ability.md)
 - [Compulsion](level-5/compulsion.md)
 - [Distortion Temporal](level-5/distortion-temporal.md)
 - [Kinetic Amplifier](level-5/kinetic-amplifier.md)
@@ -98,6 +102,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Tradition Ability](level-6/6th-level-tradition-ability.md)
 - [Dynamic Power](level-6/dynamic-power.md)
 - [Expanded Power](level-6/expanded-power.md)
 - [Extended Power](level-6/extended-power.md)
@@ -133,6 +138,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Tradition Features](level-8/8th-level-tradition-features.md)
+- [11-Clarity Ability](level-8/11-clarity-ability.md)
 - [Doubling the Hours](level-8/doubling-the-hours.md)
 - [Levitation Field](level-8/levitation-field.md)
 - [Low Gravity](level-8/low-gravity.md)
@@ -150,6 +156,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Tradition Ability](level-9/9th-level-tradition-ability.md)
 - [Fortress of Perfect Thought](level-9/fortress-of-perfect-thought.md)
 
 </div>

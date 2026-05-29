@@ -48,7 +48,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
-| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit](conduit.md) Ward, [Conduit](conduit.md) Abilities     | Two signature, 3, 5           | -                 |
+| 1st   | [Deity and Domains](../feature/trait/censor/level-1/deity-and-domains.md), Piety, Domain Feature, [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), [Ray of Wrath](../feature/ability/conduit/level-1/ray-of-wrath.md), [Triggered Action](../feature/trait/conduit/level-1/triggered-action.md), Prayer, [Conduit](conduit.md) Ward, [Conduit Abilities](../feature/trait/conduit/level-1/conduit-abilities.md)     | Two signature, 3, 5           | -                 |
 | 2nd   | [The Lists of Heaven](../feature/trait/conduit/level-2/the-lists-of-heaven.md), Perk, Domain Feature, Domain Ability                                                                            | Two signature, 3, 5           | 5                 |
 | 3rd   | [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md), 7-Piety Ability                                                                                                       | Two signature, 3, 5, 7        | 5                 |
 | 4th   | Blessed Domains, [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), Domain Feature, Perk, Skill Increase                                                       | Two signature, 3, 5, 7        | 5                 |
@@ -110,6 +110,43 @@ Each time you finish a respite, you can decide the weather conditions within 100
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the [Track](../skill/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
+
+### Conduit Abilities
+
+Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.
+
+##### Signature Abilities
+
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../feature/ability/conduit/level-1/blessed-light.md), [Staggering Curse](../feature/ability/conduit/level-1/staggering-curse.md).)
+
+##### Heroic Abilities
+
+You make use of a number of heroic abilities, all of which channel piety to empower them.
+
+###### 3-Piety Ability
+
+Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../feature/ability/conduit/level-1/violence-will-not-aid-thee.md).)
+
+###### 5-Piety Ability
+
+Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../feature/ability/conduit/level-1/curse-of-terror.md).)
+
+###### Blessed Light
+
+> 
+> *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
+> 
+> | **Magic, Ranged, Strike** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+> 
+> **Power Roll + Intuition:**
+> 
+> - **≤11:** 3 + I holy damage
+> - **12-16:** 5 + I holy damage
+> - **17+:** 8 + I holy damage
+> 
+> **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.
 
 ### Conduit Ward
 
@@ -705,6 +742,41 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 ## 2nd-Level Features
 
+### 2nd-Level Domain Ability
+
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](conduit.md) Domain Abilities table.
+
+###### 2nd-Level Conduit Domain Abilities Table
+
+| Domain     | Ability                      |
+|------------|------------------------------|
+| Creation   | [Statue of Power](../feature/ability/conduit/level-2/statue-of-power.md)              |
+| Death      | Reap                         |
+| Fate       | [Blessing of Fate and Destiny](../feature/ability/conduit/level-2/blessing-of-fate-and-destiny.md) |
+| Knowledge  | [The Gods Command You Obey](../feature/ability/conduit/level-2/the-gods-command-you-obey.md)    |
+| Life       | [Wellspring of Grace](../feature/ability/conduit/level-2/wellspring-of-grace.md)          |
+| Love       | [Our Hearts Your Strength](../feature/ability/conduit/level-2/our-hearts-your-strength.md)     |
+| Nature     | [Nature Judges Thee](../feature/ability/conduit/level-2/nature-judges-thee.md)           |
+| Protection | [Sacred Bond](../feature/ability/conduit/level-2/sacred-bond.md)                  |
+| Storm      | Saint's Tempest              |
+| Sun        | [Morning Light](../feature/ability/conduit/level-2/morning-light.md)                |
+| Trickery   | [Divine Comedy](../feature/ability/conduit/level-2/divine-comedy.md)                |
+| War        | [Blessing of Insight](../feature/ability/conduit/level-2/blessing-of-insight.md)          |
+
+###### Blessing of Fate and Destiny (5 Piety)
+
+> 
+> *Your enemies suffer their fate; your allies embrace their destiny!*
+> 
+> | **Magic, Ranged**  |        **Main action** |
+> |--------------------|-----------------------:|
+> | **📏 Ranged 10**   | **🎯 Three creatures** |
+> 
+> **Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
+> 
+> - Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
+> - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
+
 ### 2nd-Level Domain Feature
 
 You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
@@ -861,6 +933,27 @@ Your deity is aware of your growing influence, making it easier to draw their at
 **Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.
 
 ## 3rd-Level Features
+
+### 7-Piety Ability
+
+Choose one heroic ability from the following options, each of which costs 7 piety to use.
+
+##### Fear of the Gods (7 Piety)
+
+> 
+> *Your divine magic makes a creature appear as what your enemies fear most.*
+> 
+> | **Area, Magic, Ranged**  |               **Main action** |
+> |--------------------------|------------------------------:|
+> | **📏 5 cube within 10**  | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Intuition:**
+> 
+> - **≤11:** 6 psychic damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 13 psychic damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
+> 
+> **Effect:** Each target is [frightened](../condition/frightened.md) of you or a creature you choose within distance.
 
 ### Minor Miracle
 
@@ -1046,6 +1139,27 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../chapter/t
 
 You gain the 4th-level domain feature for the domain whose feature you didn't select at that level (see 4th-Level Domain Feature).
 
+### 9-Piety Ability
+
+Choose one heroic ability from the following options, each of which costs 9 piety to use.
+
+##### Beacon of Grace (9 Piety)
+
+> 
+> *You ignite a foe with holy radiance, rewarding allies who attack them.*
+> 
+> | **Magic, Ranged, Strike** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Ranged 10**          | **🎯 One creature** |
+> 
+> **Power Roll + Intuition:**
+> 
+> - **≤11:** 8 + I holy damage
+> - **12-16:** 13 + I holy damage
+> - **17+:** 17 + I holy damage
+> 
+> **Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
+
 ## 5th-Level Abilities
 
 ### Beacon of Grace
@@ -1099,6 +1213,38 @@ You gain the 4th-level domain feature for the domain whose feature you didn't se
 **Effect:** The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 
 ## 6th-Level Features
+
+### 6th-Level Domain Ability
+
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](conduit.md) Domain Abilities table.
+
+###### 6th-Level Conduit Domain Abilities Table
+
+| Domain     | Ability                    |
+|------------|----------------------------|
+| Creation   | Gods' Machine              |
+| Death      | [Aura of Souls](../feature/ability/conduit/level-6/aura-of-souls.md)              |
+| Fate       | [Your Story Ends Here](../feature/ability/conduit/level-6/your-story-ends-here.md)       |
+| Knowledge  | [Invocation of Undoing](../feature/ability/conduit/level-6/invocation-of-undoing.md)      |
+| Life       | [Revitalizing Grace](../feature/ability/conduit/level-6/revitalizing-grace.md)         |
+| Love       | [Lauded by God](../feature/ability/conduit/level-6/lauded-by-god.md)              |
+| Nature     | [Spirit Stampede](../feature/ability/conduit/level-6/spirit-stampede.md)            |
+| Protection | [Cuirass of the Gods](../feature/ability/conduit/level-6/cuirass-of-the-gods.md)        |
+| Storm      | [Lightning Lord](../feature/ability/conduit/level-6/lightning-lord.md)             |
+| Sun        | [Blessing of the Midday Sun](../feature/ability/conduit/level-6/blessing-of-the-midday-sun.md) |
+| Trickery   | [Invocation of Mystery](../feature/ability/conduit/level-6/invocation-of-mystery.md)      |
+| War        | [Blade of the Heavens](../feature/ability/conduit/level-6/blade-of-the-heavens.md)       |
+
+###### Aura of Souls (9 Piety)
+
+> 
+> *A whirlwind of souls of the dead flies around you at your command.*
+> 
+> | **Area, Magic**  |                     **Maneuver** |
+> |------------------|---------------------------------:|
+> | **📏 4 aura**    | **🎯 Each creature in the area** |
+> 
+> **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
 ### Burgeoning Saint
 
@@ -1408,6 +1554,21 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ## 8th-Level Features
 
+### 11-Piety Ability
+
+Choose one heroic ability from the following options, each of which costs 11 piety to use.
+
+##### Arise! (11 Piety)
+
+> 
+> *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
+> 
+> | **Magic, Ranged**  |         **Main action** |
+> |--------------------|------------------------:|
+> | **📏 Ranged 10**   | **🎯 Self or one ally** |
+> 
+> **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+
 ### 8th-Level Domain Feature
 
 You gain the 7th-level domain feature for the domain whose feature you didn't select at that level (see 7th-Level Domain Feature).
@@ -1465,6 +1626,38 @@ You gain one perk of your choice.
 **Effect:** Each ally the target comes adjacent to during the [forced movement](../movement/forced-movement.md) can spend a Recovery.
 
 ## 9th-Level Features
+
+### 9th-Level Domain Ability
+
+Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](conduit.md) Domain Abilities table.
+
+###### 9th-Level Conduit Domain Abilities Table
+
+| Domain     | Ability                  |
+|------------|--------------------------|
+| Creation   | [Divine Dragon](../feature/ability/conduit/level-9/divine-dragon.md)            |
+| Death      | [Word of Final Redemption](../feature/ability/conduit/level-9/word-of-final-redemption.md) |
+| Fate       | [Bend Fate](../feature/ability/conduit/level-9/bend-fate.md)                |
+| Knowledge  | [Word of Weakening](../feature/ability/conduit/level-9/word-of-weakening.md)        |
+| Life       | [Radiance of Grace](../feature/ability/conduit/level-9/radiance-of-grace.md)        |
+| Love       | [Alacrity of the Heart](../feature/ability/conduit/level-9/alacrity-of-the-heart.md)    |
+| Nature     | [Thorn Cage](../feature/ability/conduit/level-9/thorn-cage.md)               |
+| Protection | [Blessing of the Fortress](../feature/ability/conduit/level-9/blessing-of-the-fortress.md) |
+| Storm      | [Godstorm](../feature/ability/conduit/level-9/godstorm.md)                 |
+| Sun        | [Solar Flare](../feature/ability/conduit/level-9/solar-flare.md)              |
+| Trickery   | [Night Falls](../feature/ability/conduit/level-9/night-falls.md)              |
+| War        | [Righteous Phalanx](../feature/ability/conduit/level-9/righteous-phalanx.md)        |
+
+###### Alacrity of the Heart (11 Piety)
+
+> 
+> *You speak inspiring words to a friend and spur them to incredible feats.*
+> 
+> | **Magic, Ranged**  |    **Maneuver** |
+> |--------------------|----------------:|
+> | **📏 Ranged 10** | **🎯 One ally** |
+> 
+> **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
 ### Faith's Sword
 

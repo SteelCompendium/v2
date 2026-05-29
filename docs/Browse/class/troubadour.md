@@ -47,7 +47,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| 1st   | [Troubadour](troubadour.md) Class Act, Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour](troubadour.md) Abilities | Signature, 3, 5           | -                   |
+| 1st   | [Troubadour](troubadour.md) Class Act, Drama, Kit, [Scene Partner](../feature/trait/troubadour/level-1/scene-partner.md), [Routines](../feature/trait/troubadour/level-1/routines.md), Class Act Features, [Class Act Triggered Action](../feature/trait/troubadour/level-1/class-act-triggered-action.md), [Troubadour Abilities](../feature/trait/troubadour/level-1/troubadour-abilities.md) | Signature, 3, 5           | -                   |
 | 2nd   | [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md), [Invocation](../feature/trait/troubadour/level-2/invocation.md), Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Melodrama](../feature/trait/troubadour/level-4/melodrama.md), Perk, Skill, [Zeitgeist](../feature/trait/troubadour/level-4/zeitgeist.md)                                                                      | Signature, 3, 5, 7        | 5                   |
@@ -234,6 +234,41 @@ Whenever you obtain a success on a test to interact with an NPC using a skill fr
 
 You can have a number of bonds active equal to your level. When you form a bond with a new NPC that would exceed the limit, you must choose which of your active bonds to lose.
 
+### Signature Ability
+
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../feature/ability/troubadour/level-1/witty-banter.md).)
+
+##### Heroic Abilities
+
+You master a range of heroic abilities, all of which cost drama to empower them.
+
+###### 3-Drama Ability
+
+Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](../feature/ability/troubadour/level-1/harsh-critic.md).)
+
+###### 5-Drama Ability
+
+Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](../feature/ability/troubadour/level-1/dramatic-reversal.md).)
+
+##### Artful Flourish
+
+>
+> *And they said practicing fencing was a waste!*
+>
+> | **Melee, Strike, Weapon** |                 **Main action** |
+> |---------------------------|--------------------------------:|
+> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 2 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+>
+> **Effect:** You can [shift](../movement/shifting.md) up to 3 squares.
+>
+> **Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
+
 ### Star Power
 
 You have the following ability.
@@ -250,6 +285,10 @@ You have the following ability.
 > **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have an outcome lower than tier 2.
 >
 > **Spend 1 Drama:** You gain a +4 bonus to speed instead.
+
+### Troubadour Abilities
+
+Your performance centers around maneuvering through the scene of battle, maintaining its momentum so that the story flows as dramatically as possible.
 
 ### Troubadour Class Act
 
@@ -614,6 +653,33 @@ You have the following performance abilities, which are usable with your [Routin
 
 ## 2nd-Level Features
 
+### 2nd-Level Class Act Ability
+
+Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+
+##### 2nd-Level Auteur Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Duelist Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Virtuoso Ability
+
+Choose one of the following abilities.
+
+###### Guest Star (5 Drama)
+
+>
+> *We offered them a percentage of the gross. So they're working for free!*
+>
+> | **Magic, Ranged** | **Main action** |
+> |-------------------|----------------:|
+> | **📏 Ranged 10**  |  **🎯 Special** |
+>
+> **Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+
 ### Allow Me to Introduce Tonight's Players
 
 Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../movement/shifting.md) up to their speed, and ability rolls made against them have a double bane until the end of the combat round. Additionally, any surprised enemy is no longer surprised.
@@ -735,6 +801,27 @@ Your [troubadour](troubadour.md) class act grants you a feature, as shown on the
 | Auteur     | [Missed Cue](../feature/trait/troubadour/level-3/missed-cue.md)   |
 | Duelist    | Foil         |
 | Virtuoso   | [Second Album](../feature/trait/troubadour/level-3/second-album.md) |
+
+### 7-Drama Ability
+
+Choose one heroic ability from the following options, each of which costs 7 drama to use.
+
+##### Extensive Rewrites (7 Drama)
+
+>
+> *No, this isn't right. That foe was over there!*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> |-----------------|------------------------------:|
+> | **📏 4 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** Slide 3; P < WEAK, this slide ignores the target's stability
+> - **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's stability
+> - **17+:** Slide 7; P < STRONG, this slide ignores the target's stability
+>
+> **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
 ### Foil
 
@@ -893,6 +980,27 @@ You always have your ear to the ground, your finger on the pulse. When you start
 
 Your [troubadour](troubadour.md) class act grants your choice of one of two features.
 
+### 9-Drama Ability
+
+Choose one heroic ability from the following options, each of which costs 9 drama to use.
+
+##### Action Hero (9 Drama)
+
+>
+> *You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*
+>
+> | **Area, Melee, Weapon** |               **Main action** |
+> |-------------------------|------------------------------:|
+> | **📏 3 burst**          | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 damage
+> - **12-16:** 14 damage
+> - **17+:** 20 damage
+>
+> **Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+
 ### Auteur Features
 
 Choose one of the following features.
@@ -1025,6 +1133,37 @@ You can maintain two performances at a time using your [Routines](../feature/tra
 
 ## 6th-Level Features
 
+### 6th-Level Class Act Ability
+
+Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+
+##### 6th-Level Auteur Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Duelist Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Virtuoso Abilities
+
+Choose one of the following abilities.
+
+###### Here's How Your Story Ends (9 Drama)
+
+>
+> *You give away the ending of this battle, and it's not great for them.*
+>
+> | **Area, Magic** |               **Main action** |
+> |-----------------|------------------------------:|
+> | **📏 5 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 2 psychic damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 7 psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
+
 ### Perk
 
 You gain one interpersonal, lore, or supernatural perk of your choice.
@@ -1152,6 +1291,21 @@ You gain one skill of your choice.
 
 ## 8th-Level Features
 
+### 11-Drama Ability
+
+Choose one heroic ability from the following options, each of which costs 11 drama to use.
+
+##### Dramatic Reveal (11 Drama)
+
+>
+> *A little stage trickery, and where once stood a foe, now stands a friend!*
+>
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee free strike.
+
 ### 8th-Level Class Act Feature
 
 Your [troubadour](troubadour.md) class act grants you a feature, as shown on the 8th-Level Class Act Features table.
@@ -1267,6 +1421,39 @@ You gain one perk of your choice.
 **Effect:** Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
 
 ## 9th-Level Features
+
+### 9th-Level Class Act Ability
+
+Your [troubadour](troubadour.md) class act grants your choice of one of two heroic abilities.
+
+##### 9th-Level Auteur Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Duelist Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Virtuoso Abilities
+
+Choose one of the following abilities.
+
+###### Epic (11 Drama)
+
+>
+> *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
+>
+> | **Magic, Melee, Ranged**    |        **Maneuver** |
+> |-----------------------------|--------------------:|
+> | **📏 Melee 1 or ranged 10** | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** The target takes a bane on ability rolls (save ends).
+> - **12-16:** The target has a double bane on ability rolls (save ends).
+> - **17+:** The target has a double bane on power rolls (save ends).
+>
+> **Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.
 
 ### Roar of the Crowd
 

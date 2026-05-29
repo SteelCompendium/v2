@@ -12,6 +12,7 @@
 - [Blessing of Compassion](level-1/blessing-of-compassion.md)
 - [Blessing of Comprehension](level-1/blessing-of-comprehension.md)
 - [Blessing of Fortunate Weather](level-1/blessing-of-fortunate-weather.md)
+- [Conduit Abilities](level-1/conduit-abilities.md)
 - [Conduit Ward](level-1/conduit-ward.md)
 - [Deity and Domains](level-1/deity-and-domains.md)
 - [Domain Piety and Effects](level-1/domain-piety-and-effects.md)
@@ -47,6 +48,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Domain Ability](level-2/2nd-level-domain-ability.md)
 - [2nd-Level Domain Feature](level-2/2nd-level-domain-feature.md)
 - [Perk](level-2/perk.md)
 - [The Lists of Heaven](level-2/the-lists-of-heaven.md)
@@ -60,6 +62,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Piety Ability](level-3/7-piety-ability.md)
 - [Minor Miracle](level-3/minor-miracle.md)
 
 </div>
@@ -87,6 +90,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Domain Feature](level-5/5th-level-domain-feature.md)
+- [9-Piety Ability](level-5/9-piety-ability.md)
 
 </div>
 
@@ -97,6 +101,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Domain Ability](level-6/6th-level-domain-ability.md)
 - [Burgeoning Saint](level-6/burgeoning-saint.md)
 - [Perk](level-6/perk.md)
 
@@ -136,6 +141,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Domain Feature](level-8/8th-level-domain-feature.md)
+- [11-Piety Ability](level-8/11-piety-ability.md)
 - [Perk](level-8/perk.md)
 
 </div>
@@ -147,6 +153,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Domain Ability](level-9/9th-level-domain-ability.md)
 - [Faith's Sword](level-9/faiths-sword.md)
 - [Ordained](level-9/ordained.md)
 

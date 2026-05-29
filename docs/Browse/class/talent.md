@@ -47,7 +47,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Talent](talent.md) Tradition, [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent](talent.md) Ward, [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), Tradition Features, [Talent](talent.md) Abilities | Two signature, 3, 5           | -                   |
+| 1st   | [Talent](talent.md) Tradition, [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent](talent.md) Ward, [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), Tradition Features, [Talent Abilities](../feature/trait/talent/level-1/talent-abilities.md) | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Mind Projection](../feature/trait/talent/level-4/mind-projection.md), [Mind Recovery](../feature/trait/talent/level-4/mind-recovery.md), Perk, Skill [Suspensor Field](../feature/trait/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
@@ -262,6 +262,45 @@ You gain a +1 bonus to speed and to the distance you can [shift](../movement/shi
 ### Steel Ward
 
 Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain damage immunity equal to your Reason score until the end of your next turn.
+
+### Talent Abilities
+
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent](talent.md) traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+
+##### Signature Abilities
+
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../feature/ability/talent/level-1/incinerate.md), [Kinetic Grip](../feature/ability/talent/level-1/kinetic-grip.md).)
+
+##### Heroic Abilities
+
+You know a range of heroic abilities, all of which cost clarity to fuel them.
+
+###### 3-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../feature/ability/talent/level-1/choke.md).)
+
+###### 5-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../feature/ability/talent/level-1/inertia-soak.md).)
+
+###### Entropic Bolt
+
+>
+> *You advance an enemy's age for a moment.*
+>
+> | **Chronopathy, Psionic, Ranged, Strike** |               **Main action** |
+> |------------------------------------------|------------------------------:|
+> | **📏 Ranged 10**                         | **🎯 One creature or object** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 5 + P corruption damage; P < STRONG, [slowed](../condition/slowed.md) (save ends)
+>
+> **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
+>
+> **Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.
 
 ### Talent Tradition
 
@@ -629,6 +668,41 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ## 2nd-Level Features
 
+### 2nd-Level Tradition Ability
+
+Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+
+##### 2nd-Level Chronopathy Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Telekinesis Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Telepathy Ability
+
+Choose one of the following abilities.
+
+###### Applied Chronometrics (5 Clarity)
+
+>
+> *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
+>
+> | **Chronopathy, Psionic, Ranged** |   **Maneuver** |
+> |----------------------------------|---------------:|
+> | **📏 Ranged 10**                 | **🎯 Special** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** You target two creatures, one of which can be you.
+> - **12-16:** You target three creatures, one of which can be you.
+> - **17+:** You target four creatures, one of which can be you.
+>
+> **Effect:** Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../condition/dazed.md), that condition ends for them.
+>
+> **Strained:** Your speed is halved until the end of the encounter.
+
 ### 2nd-Level Tradition Feature
 
 Your [talent](talent.md) tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
@@ -763,6 +837,29 @@ You gain one interpersonal, lore, or supernatural perk of your choice. See Chapt
 
 ## 3rd-Level Features
 
+### 7-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 7 clarity to use.
+
+##### Fling Through Time (7 Clarity)
+
+>
+> *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
+>
+> | **Chronopathy, Psionic, Ranged**, **Strike** |               **Main action** |
+> |----------------------------------------------|------------------------------:|
+> | **📏 Ranged 10**                             | **🎯 One creature or object** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
+> - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../condition/weakened.md) (save ends)
+> - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../condition/weakened.md) (save ends)
+>
+> **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+>
+> **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+
 ### Scan
 
 You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
@@ -883,6 +980,23 @@ Your [talent](talent.md) tradition grants you two features, as shown on the 5th-
 | Telekinesis | [Kinetic Amplifier](../feature/trait/talent/level-5/kinetic-amplifier.md), [Triangulate](../feature/trait/talent/level-5/triangulate.md)        |
 | Telepathy   | [Compulsion](../feature/trait/talent/level-5/compulsion.md), [Remote Amplification](../feature/trait/talent/level-5/remote-amplification.md)      |
 
+### 9-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 9 clarity to use.
+
+##### Exothermic Shield (9 Clarity)
+
+>
+> *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
+>
+> | **Pyrokinesis, Psionic, Ranged** |            **Maneuver** |
+> |----------------------------------|------------------------:|
+> | **📏 Ranged 10**                 | **🎯 Self or one ally** |
+>
+> **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+>
+> **Strained:** The target gains 2 surges. You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
+
 ### Compulsion
 
 Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
@@ -976,6 +1090,41 @@ Whenever an ally uses a ranged ability while you are within the ability's distan
 **Strained:** You target yourself and three enemies instead.
 
 ## 6th-Level Features
+
+### 6th-Level Tradition Ability
+
+Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+
+##### 6th-Level Chronopathy Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Telekinesis Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Telepathy Abilities
+
+Choose one of the following abilities.
+
+###### Fate (9 Clarity)
+
+>
+> *Your foe gets a glimpse of how it will end for them.*
+>
+> | **Chronopathy, Psionic, Melee** |  **Main action** |
+> |---------------------------------|-----------------:|
+> | **📏 Melee 2**                  | **🎯 One enemy** |
+>
+> **Effect:** The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../condition/prone.md).
+>
+> **Strained:** This ability gains the Strike keyword as the vision hurts the target's psyche. You make a power roll, then are [weakened](../condition/weakened.md) (save ends).
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 8 + P psychic damage
+> - **12-16:** 13 + P psychic damage
+> - **17+:** 17 + P psychic damage
 
 ### Dynamic Power
 
@@ -1145,6 +1294,29 @@ You gain one skill of your choice.
 
 ## 8th-Level Features
 
+### 11-Clarity Ability
+
+Choose one heroic ability from the following options, each of which costs 11 clarity to use.
+
+##### Doubt (11 Clarity)
+
+>
+> *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
+>
+> | **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+> |---------------------------------------------|------------------------------:|
+> | **📏 Ranged 10**                            | **🎯 One creature or object** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 10 + P damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
+> - **12-16:** 14 + P damage; P < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+> - **17+:** 20 + P damage; P < STRONG, [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends)
+>
+> **Effect:** This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
+>
+> **Strained:** You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).
+
 ### 8th-Level Tradition Features
 
 Your [talent](talent.md) tradition grants you two features, as shown on the 8th-Level Tradition Features table.
@@ -1306,6 +1478,41 @@ The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic
 **Strained:** You can't use maneuvers (save ends).
 
 ## 9th-Level Features
+
+### 9th-Level Tradition Ability
+
+Your [talent](talent.md) tradition grants your choice of one of two heroic abilities.
+
+##### 9th-Level Chronopathy Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Telekinesis Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Telepathy Abilities
+
+Choose one of the following abilities.
+
+###### Acceleration Field (11 Clarity)
+
+> 
+> *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
+> 
+> | **Chronopathy, Psionic, Ranged** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Ranged 5**                  | **🎯 Three allies** |
+> 
+> **Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
+> 
+> **Strained:** Make a power roll that targets you and each enemy within distance.
+> 
+> **Power Roll + Presence:**
+> 
+> - **≤11:** 4 corruption damage; [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 6 corruption damage; [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 10 corruption damage; [slowed](../condition/slowed.md) (save ends)
 
 ### Fortress of Perfect Thought
 

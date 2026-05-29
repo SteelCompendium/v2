@@ -43,6 +43,7 @@
 - [Aspect Triggered Action](level-1/aspect-triggered-action.md)
 - [Beast Shape](level-1/beast-shape.md)
 - [Ferocity](level-1/ferocity.md)
+- [Fury Abilities](level-1/fury-abilities.md)
 - [Growing Ferocity](level-1/growing-ferocity.md)
 - [Kit](level-1/kit.md)
 - [Mighty Leaps](level-1/mighty-leaps.md)
@@ -60,6 +61,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Aspect Ability](level-2/2nd-level-aspect-ability.md)
 - [2nd-Level Aspect Feature](level-2/2nd-level-aspect-feature.md)
 - [Inescapable Wrath](level-2/inescapable-wrath.md)
 - [Perk](level-2/perk.md)
@@ -76,6 +78,7 @@
 <div class="browse-index" markdown>
 
 - [3rd-Level Aspect Feature](level-3/3rd-level-aspect-feature.md)
+- [7-Ferocity Ability](level-3/7-ferocity-ability.md)
 - [Immovable Object](level-3/immovable-object.md)
 - [Nature's Knight](level-3/natures-knight.md)
 - [See Through Their Tricks](level-3/see-through-their-tricks.md)
@@ -107,6 +110,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Aspect Feature](level-5/5th-level-aspect-feature.md)
+- [9-Ferocity Ability](level-5/9-ferocity-ability.md)
 - [Bounder](level-5/bounder.md)
 - [Stormborn](level-5/stormborn.md)
 - [Unfettered](level-5/unfettered.md)
@@ -120,6 +124,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Aspect Ability](level-6/6th-level-aspect-ability.md)
 - [Marauder of the Primordial Chaos](level-6/marauder-of-the-primordial-chaos.md)
 - [Perk](level-6/perk.md)
 - [Primordial Portal](level-6/primordial-portal.md)
@@ -149,6 +154,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Aspect Feature](level-8/8th-level-aspect-feature.md)
+- [11-Ferocity Ability](level-8/11-ferocity-ability.md)
 - [A Step Ahead](level-8/a-step-ahead.md)
 - [Menagerie](level-8/menagerie.md)
 - [Perk](level-8/perk.md)
@@ -163,6 +169,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Aspect Ability](level-9/9th-level-aspect-ability.md)
 - [Harbinger of the Primordial Chaos](level-9/harbinger-of-the-primordial-chaos.md)
 
 </div>

@@ -4,6 +4,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Order Ability](2nd-level-order-ability.md)
 - [2nd-Level Order Features](2nd-level-order-features.md)
 - [A Sense for Truth](a-sense-for-truth.md)
 - [It Was Foretold](it-was-foretold.md)

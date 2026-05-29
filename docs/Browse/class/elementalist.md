@@ -48,7 +48,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 | Level  | Features                                                                                                                                                                                            | Abilities                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| 1st    | [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md), Essence, [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), Specialization Feature, [Specialization Triggered Action](../feature/trait/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/trait/elementalist/level-1/enchantment.md), [Elementalist](elementalist.md) Ward, [Elementalist](elementalist.md) Abilities | Two signature, 3, 5                 |
+| 1st    | [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md), Essence, [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), Specialization Feature, [Specialization Triggered Action](../feature/trait/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/trait/elementalist/level-1/enchantment.md), [Elementalist](elementalist.md) Ward, [Elementalist Abilities](../feature/trait/elementalist/level-1/elementalist-abilities.md) | Two signature, 3, 5                 |
 | 2nd    | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
 | 3rd    | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
 | 4th    | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Font of Essence](../feature/trait/elementalist/level-4/font-of-essence.md), [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md), Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
@@ -111,6 +111,43 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
+
+### Elementalist Abilities
+
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+
+##### Signature Abilities
+
+Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../feature/ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../feature/ability/elementalist/level-1/viscous-fire.md).)
+
+##### Heroic Abilities
+
+You channel a variety of heroic abilities, all of them fueled by your essence.
+
+###### 3-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+
+###### 5-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../feature/ability/elementalist/level-1/conflagration.md).)
+
+###### Afflict a Bountiful Decay
+
+> 
+> *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
+> 
+> | **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |
+> |----------------------------------------|--------------------:|
+> | **📏 Ranged 10**                       | **🎯 One creature** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 + R corruption damage
+> - **12-16:** 4 + R corruption damage
+> - **17+:** 6 + R corruption damage
+> 
+> **Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
 ### Elementalist Ward
 
@@ -732,6 +769,27 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 | Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
 | King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
 
+### New 5-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
+
+##### O Flower Aid, O Earth Defend (5 Essence)
+
+> 
+> *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+> 
+> | **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
+> |---------------------------------------|---------------:|
+> | **📏 3 cube within 10**               | **🎯 Special** |
+> 
+> **Effect:** Until the start of your next turn, the area gains the following effects:
+> 
+> - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+> - The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
+> - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
+> 
+> **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
+
 ### Perk
 
 You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
@@ -843,6 +901,29 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 | Fire           | [A Conversation With Fire](../feature/trait/elementalist/level-3/a-conversation-with-fire.md)         |
 | Green          | [Remember Growth and Sun and Rain](../feature/ability/elementalist/level-3/remember-growth-and-sun-and-rain.md) |
 | Void           | [Distance Is Only Memory](../feature/trait/elementalist/level-3/distance-is-only-memory.md)          |
+
+### 7-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 7 essence to use.
+
+##### Erase (7 Essence)
+
+> 
+> *With a flick of the wrist, you phase creatures out of existence.*
+> 
+> | **Magic, Ranged, Strike, Void** | **Main action** |
+> |---------------------------------|----------------:|
+> | **📏 Ranged 10**                |  **🎯 Special** |
+> 
+> **Special:** The number of creatures you target with this ability is determined by your power roll.
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** One creature
+> - **12-16:** Two creatures
+> - **17+:** Three creatures
+> 
+> **Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
 ### A Conversation With Fire
 
@@ -1030,6 +1111,27 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 | Green          | [Hide of Tenfold Shields](../feature/trait/elementalist/level-5/hide-of-tenfold-shields.md)      |
 | Void           | [Pierce the Veil of Substance](../feature/trait/elementalist/level-5/pierce-the-veil-of-substance.md) |
 
+### 9-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 9 essence to use.
+
+##### Combustion Deferred (9 Essence)
+
+> 
+> *Your flames dance from kindling to kindling to kindling.*
+> 
+> | **Fire, Magic, Ranged, Strike** |               **Main action** |
+> |---------------------------------|------------------------------:|
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 8 + R fire damage
+> - **12-16:** 13 + R fire damage
+> - **17+:** 17 + R fire damage
+> 
+> **Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+
 ### Hide of Tenfold Shields
 
 Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](../complication/animal-form.md).
@@ -1123,6 +1225,23 @@ Additionally, whenever an ally within distance of your [Hurl Element](../feature
 **Persistent 1:** The area remains until the start of your next turn.
 
 ## 6th-Level Features
+
+### New 9-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn't select at 5th level (see 5th-Level Features).
+
+##### Luminous Champion Aloft (9 Essence)
+
+> 
+> *They shine vibrantly, a beautiful diamond in the night sky.*
+> 
+> | **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
+> |--------------------------------------|------------------------:|
+> | **📏 Ranged 10**                     | **🎯 Self or one ally** |
+> 
+> **Effect:** The target has a +3 bonus to speed, they can [fly](../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+> 
+> **Persistent 1:** The effect lasts until the start of your next turn.
 
 ### Perk
 
@@ -1220,6 +1339,23 @@ You gain one skill of your choice.
 When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
 
 ## 8th-Level Features
+
+### 11-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 11 essence to use.
+
+##### Heart of the Wode (11 Essence)
+
+> 
+> *You call forth one of the Great Tree's many splinters to provide for your every need.*
+> 
+> | **Green, Magic, Ranged** | **Main action** |
+> |--------------------------|----------------:|
+> | **📏 Ranged 10**         |  **🎯 Special** |
+> 
+> **Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the Catch Breath maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
+> 
+> Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
 ### 8th-Level Specialization Feature
 
@@ -1390,6 +1526,27 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../feature/trait/elementalist/level-6/wyrding.md) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
+
+### New 11-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).
+
+##### Earth Rejects You (11 Essence)
+
+> 
+> *Everyone and everything gets blown away in an eruption of rocks and debris.*
+> 
+> | **Area, Earth, Magic, Ranged** |                          **Main action** |
+> |--------------------------------|-----------------------------------------:|
+> | **📏 5 cube within 10**        | **🎯 Each enemy and object in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 6 damage
+> - **12-16:** 9 damage
+> - **17+:** 13 damage
+> 
+> **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
 ## 9th-Level Abilities
 

@@ -11,6 +11,7 @@
 - [Blessing of Compassion](level-1/blessing-of-compassion.md)
 - [Blessing of Comprehension](level-1/blessing-of-comprehension.md)
 - [Blessing of Fortunate Weather](level-1/blessing-of-fortunate-weather.md)
+- [Censor Abilities](level-1/censor-abilities.md)
 - [Censor Order](level-1/censor-order.md)
 - [Deity and Domains](level-1/deity-and-domains.md)
 - [Faithful Friend](level-1/faithful-friend.md)
@@ -37,6 +38,7 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Order Ability](level-2/2nd-level-order-ability.md)
 - [2nd-Level Order Features](level-2/2nd-level-order-features.md)
 - [A Sense for Truth](level-2/a-sense-for-truth.md)
 - [It Was Foretold](level-2/it-was-foretold.md)
@@ -55,6 +57,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Wrath Ability](level-3/7-wrath-ability.md)
 - [Look On My Work and Despair](level-3/look-on-my-work-and-despair.md)
 
 </div>
@@ -94,6 +97,7 @@
 <div class="browse-index" markdown>
 
 - [5th-Level Order Feature](level-5/5th-level-order-feature.md)
+- [9-Wrath Ability](level-5/9-wrath-ability.md)
 - [Evil Revealed](level-5/evil-revealed.md)
 - [Prophecy](level-5/prophecy.md)
 - [Stand Fast!](level-5/stand-fast.md)
@@ -107,6 +111,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Order Ability](level-6/6th-level-order-ability.md)
 - [Implement of Wrath](level-6/implement-of-wrath.md)
 - [Perk](level-6/perk.md)
 
@@ -146,6 +151,7 @@
 <div class="browse-index" markdown>
 
 - [8th-Level Order Feature](level-8/8th-level-order-feature.md)
+- [11-Wrath Ability](level-8/11-wrath-ability.md)
 - [Demonologist](level-8/demonologist.md)
 - [Perk](level-8/perk.md)
 - [Their Past Revealed](level-8/their-past-revealed.md)
@@ -160,6 +166,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Order Ability](level-9/9th-level-order-ability.md)
 - [Improved Implement of Wrath](level-9/improved-implement-of-wrath.md)
 
 </div>

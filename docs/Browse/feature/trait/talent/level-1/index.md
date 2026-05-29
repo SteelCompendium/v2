@@ -22,6 +22,7 @@
 - [Repulsive Ward](repulsive-ward.md)
 - [Speed Augmentation](speed-augmentation.md)
 - [Steel Ward](steel-ward.md)
+- [Talent Abilities](talent-abilities.md)
 - [Talent Tradition](talent-tradition.md)
 - [Talent Ward](talent-ward.md)
 - [Telepathic Speech](telepathic-speech.md)

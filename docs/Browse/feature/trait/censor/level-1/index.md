@@ -8,6 +8,7 @@
 - [Blessing of Compassion](blessing-of-compassion.md)
 - [Blessing of Comprehension](blessing-of-comprehension.md)
 - [Blessing of Fortunate Weather](blessing-of-fortunate-weather.md)
+- [Censor Abilities](censor-abilities.md)
 - [Censor Order](censor-order.md)
 - [Deity and Domains](deity-and-domains.md)
 - [Faithful Friend](faithful-friend.md)

@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [1st-Level Doctrine Feature](1st-level-doctrine-feature.md)
+- [5-Focus Ability](5-focus-ability.md)
 - [Commanding Presence](commanding-presence.md)
 - [Covert Operations](covert-operations.md)
 - [Doctrine Triggered Action](doctrine-triggered-action.md)
@@ -15,5 +16,6 @@
 - [Strike Now](strike-now.md)
 - [Studied Commander](studied-commander.md)
 - [Tactical Doctrine](tactical-doctrine.md)
+- [Tactician Abilities](tactician-abilities.md)
 
 </div>

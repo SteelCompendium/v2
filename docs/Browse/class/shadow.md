@@ -46,7 +46,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 | Level | Features                                                                                                            | Abilities                 | College Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------|
-| 1st   | [Shadow](shadow.md) College, Insight, College Features, [College Triggered Action](../feature/trait/shadow/level-1/college-triggered-action.md), [Hesitation Is Weakness](../feature/ability/shadow/level-1/hesitation-is-weakness.md), Kit, [Shadow](shadow.md) Abilities  | Signature, 3, 5           | -                 |
+| 1st   | [Shadow](shadow.md) College, Insight, College Features, [College Triggered Action](../feature/trait/shadow/level-1/college-triggered-action.md), [Hesitation Is Weakness](../feature/ability/shadow/level-1/hesitation-is-weakness.md), Kit, [Shadow Abilities](../feature/trait/shadow/level-1/shadow-abilities.md)  | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
 | 3rd   | [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md), 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
 | 4th   | [Characteristic Increase](../feature/trait/censor/level-10/characteristic-increase.md), [Keep It Down](../feature/trait/shadow/level-4/keep-it-down.md), [Night Watch](../feature/ability/shadow/level-4/night-watch.md), Perk, Skill, [Surge of Insight](../feature/trait/shadow/level-4/surge-of-insight.md)                                   | Signature, 3, 5, 7        | 5                 |
@@ -192,6 +192,43 @@ When you use an ability outside of combat that lets you spend unlimited insight 
 ### Kit
 
 You can use and gain the benefits of a kit. See Chapter 6: [Kits](../chapter/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../kit/cloak-and-dagger.md).)
+
+### Shadow Abilities
+
+You specialize in dealing damage, then getting out of harm's way before the inevitable counterattack. You know a number of unique martial abilities that define your presence on the battlefield.
+
+##### Signature Ability
+
+Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../feature/ability/shadow/level-1/teamwork-has-its-place.md).)
+
+##### Heroic Abilities
+
+A range of heroic abilities define your combat prowess, all of which make use of your insight.
+
+###### 3-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../feature/ability/shadow/level-1/get-in-get-out.md).)
+
+##### 5-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../feature/ability/shadow/level-1/coup-de-grace.md).)
+
+###### Gasping in Pain
+
+>
+> *Your precise strikes let your allies take advantage of a target's agony.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage
+> - **12-16:** 5 + A damage
+> - **17+:** 8 + A damage; I < STRONG[, prone](../condition/prone.md)
+>
+> **Effect:** One ally within 5 squares of the target gains 1 surge.
 
 ### Shadow College
 
@@ -481,6 +518,37 @@ The illusion ends when you harm another creature, when you physically interact w
 
 ## 2nd-Level Features
 
+### 2nd-Level College Ability
+
+Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+
+##### 2nd-Level Black Ash Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Caustic Alchemy Ability
+
+Choose one of the following abilities.
+
+##### 2nd-Level Harlequin Mask Ability
+
+Choose one of the following abilities.
+
+###### In a Puff of Ash (5 Insight)
+
+>
+> *You enchant a strike with your [teleport](../movement/teleport.md)ation magic.*
+>
+> | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
+> |------------------------------------------|--------------------:|
+> | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 6 + A damage; you can [teleport](../movement/teleport.md) the target 1 square
+> - **12-16:** 10 + A damage; you can [teleport](../movement/teleport.md) the target up to 3 squares
+> - **17+:** 14 + A damage; you can [teleport](../movement/teleport.md) the target up to 5 squares
+
 ### 2nd-Level College Feature
 
 Your [shadow](shadow.md) college grants you a feature, as shown on the 2nd-Level College Features table.
@@ -600,6 +668,21 @@ You know just where to cut your enemies. Whenever you make a strike that has no 
 **Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a Recovery.
 
 ## 3rd-Level Features
+
+### 7-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 7 insight to use.
+
+##### Dancer (7 Insight)
+
+>
+> *You enter a flow state that makes you nearly impossible to pin down.*
+>
+> | **-**       | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
 ### Careful Observation
 
@@ -751,6 +834,21 @@ Your [shadow](shadow.md) college grants you a feature, as shown on the 5th-Level
 | Caustic Alchemy | [Volatile Reagents](../feature/trait/shadow/level-5/volatile-reagents.md) |
 | Harlequin Mask  | [Harlequin Gambit](../feature/trait/shadow/level-5/harlequin-gambit.md)  |
 
+### 9-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 9 insight to use.
+
+##### Blackout (9 Insight)
+
+>
+> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+>
+> | **Area, Magic** |   **Maneuver** |
+> |-----------------|---------------:|
+> | **📏 3 burst**  | **🎯 Special** |
+>
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a free strike against them.
+
 ### Harlequin Gambit
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
@@ -830,6 +928,39 @@ Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-
 **Effect:** The target can't communicate with anyone until the end of the encounter.
 
 ## 6th-Level Features
+
+### 6th-Level College Ability
+
+Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+
+##### 6th-Level Black Ash Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Caustic Alchemy Abilities
+
+Choose one of the following abilities.
+
+##### 6th-Level Harlequin Mask Abilities
+
+Choose one of the following abilities.
+
+###### Black Ash Eruption (9 Insight)
+
+>
+> *Your attack produces a cloud of black ash that launches an enemy into the air.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage; vertical push 5
+> - **12-16:** 6 + A damage; vertical push 10
+> - **17+:** 9 + A damage; vertical push 15
+>
+> **Effect:** A creature [force moved](../movement/forced-movement.md) by this ability must be moved straight upward.
 
 ### Perk
 
@@ -955,6 +1086,27 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 ## 8th-Level Features
 
+### 11-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 11 insight to use.
+
+##### Assassinate (11 Insight)
+
+>
+> *A practiced attack will instantly kill an already weakened foe.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 12 + A damage
+> - **12-16:** 18 + A damage
+> - **17+:** 24 + A damage
+>
+> **Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+
 ### 8th-Level College Feature
 
 Your [shadow](shadow.md) college grants you a feature, as shown on the 8th-Level College Features table.
@@ -1069,6 +1221,39 @@ For each combat round that has passed since this ability was last used in the cu
 **Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 ## 9th-Level Features
+
+### 9th-Level College Ability
+
+Your [shadow](shadow.md) college grants your choice of one of two heroic abilities.
+
+##### 9th-Level Black Ash Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Caustic Alchemy Abilities
+
+Choose one of the following abilities.
+
+##### 9th-Level Harlequin Mask Abilities
+
+Choose one of the following abilities.
+
+###### Cacophony of Cinders (11 Insight)
+
+>
+> *You tumble through the battle, stabbing foes and [teleporting](../movement/teleport.md) allies.*
+>
+> | **Magic, Melee, Weapon** | **Main action** |
+> |--------------------------|----------------:|
+> | **📏 Self; see below**   |     **🎯 Self** |
+>
+> **Effect:** You [shift](../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../movement/shifting.md).
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** An enemy takes 6 damage; an ally can [teleport](../movement/teleport.md) up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can [teleport](../movement/teleport.md) up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can [teleport](../movement/teleport.md) up to 7 squares.
 
 ### Gloom Squad
 
