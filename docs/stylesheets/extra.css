@@ -8,7 +8,7 @@ th:empty {
 }
 
 .md-typeset h1 + hr {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 
 /* Preferences page */
