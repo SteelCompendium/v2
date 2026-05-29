@@ -18,7 +18,7 @@ This chapter details twelve ancestries for the game:
 
 **[Devil](../../Browse/ancestry/devil.md):** [Devils](../../Browse/ancestry/devil.md) originated in the Seven Cities of Hell and have a supernatural charisma that helps them persuade others. They are similar in stature to [humans](../../Browse/ancestry/human.md), and their skin tones include deep blues, purples, and reds. They sport horns, eyes of all shades (including gold and red), and tails, and some have feathered or leathery wings.
 
-**[Dragon Knight](../../Browse/ancestry/dragon-knight.md):** [Dragon knights](../../Browse/ancestry/dragon-knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../../Browse/ancestry/dragon-knight.md) have wings, but on only a few are those wings big enough to let them [fly](../movement/fly.md).
+**[Dragon Knight](../../Browse/ancestry/dragon-knight.md):** [Dragon knights](../../Browse/ancestry/dragon-knight.md) are muscled draconic humanoids who stand between 6 and 7 feet tall. The scales covering their reptilian heads, bodies, and tails can be almost any color. All [dragon knights](../../Browse/ancestry/dragon-knight.md) have wings, but on only a few are those wings big enough to let them [fly](../../Browse/movement/fly.md).
 
 **[Dwarf](../../Browse/ancestry/dwarf.md):** Humanoids with stony skin, [dwarves](../../Browse/ancestry/dwarf.md) have short and stout bodies. Many carve supernatural runes into their flesh, and some have beards made of crystals.
 
@@ -54,7 +54,7 @@ This chapter details twelve ancestries for the game:
 >
 > Crafting projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, flanking, movement and [forced movement](../movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature size, damage and Stamina, dying and death, flanking, movement and [forced movement](../../Browse/movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
 
 ### On the Origin of Species
 

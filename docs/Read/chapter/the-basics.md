@@ -140,7 +140,7 @@ When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result r
 
 #### Edges and Banes
 
-An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their [high ground](../movement/high-ground.md). A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
+An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their [high ground](../../Browse/movement/high-ground.md). A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
 ##### Edge
 

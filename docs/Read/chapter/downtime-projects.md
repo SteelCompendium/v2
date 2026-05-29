@@ -180,9 +180,9 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 **Project Goal:** 1,500
 
-When you complete this project, you end up with a 3-square-by-3 square [teleport](../movement/teleport.md)ation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the [teleport](../movement/teleport.md)ation platform to instantly [teleport](../movement/teleport.md) any creatures or objects on the platform to a location they know, including another [teleport](../movement/teleport.md)ation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a respite activity.
+When you complete this project, you end up with a 3-square-by-3 square [teleport](../../Browse/movement/teleport.md)ation platform activated by a supernatural password. The platform is permanently affixed to the ground in the location where you create it. Any creature with the password can use the [teleport](../../Browse/movement/teleport.md)ation platform to instantly [teleport](../../Browse/movement/teleport.md) any creatures or objects on the platform to a location they know, including another [teleport](../../Browse/movement/teleport.md)ation platform whose supernatural password they know. You and any creature you designate upon completion of the activity can change the password as a respite activity.
 
-Each time the [teleport](../movement/teleport.md)ation platform is used, the chance of it malfunctioning and [teleporting](../movement/teleport.md) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
+Each time the [teleport](../../Browse/movement/teleport.md)ation platform is used, the chance of it malfunctioning and [teleporting](../../Browse/movement/teleport.md) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
 
 #### Craft Treasure
 
@@ -293,7 +293,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 - **12-16:** 12 damage; push 4
 - **17+:** 15 damage; push 5
 
-**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../Browse/condition/prone.md).
+**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../../Browse/movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../Browse/condition/prone.md).
 
 **Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
@@ -335,7 +335,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**[Devil's](../../Browse/ancestry/devil.md) Bargain:** You can [fly](../movement/fly.md). Additionally, if an effect would make you [prone](../../Browse/condition/prone.md) while [flying](../movement/fly.md), you can choose to not make you [prone](../../Browse/condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../../Browse/condition/prone.md).
+**[Devil's](../../Browse/ancestry/devil.md) Bargain:** You can [fly](../../Browse/movement/fly.md). Additionally, if an effect would make you [prone](../../Browse/condition/prone.md) while [flying](../../Browse/movement/fly.md), you can choose to not make you [prone](../../Browse/condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../../Browse/condition/prone.md).
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
@@ -372,7 +372,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This strike deals extra damage equal to the highest of your Reason, Intuition, or Presence scores.
 
-**Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](../movement/teleport.md) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
+**Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](../../Browse/movement/teleport.md) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
 
 **Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an edge on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
 
@@ -412,17 +412,17 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../movement/shifting.md) up to 3 squares, or you can use the Escape Grab maneuver as a free maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)).
+**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../../Browse/movement/shifting.md) up to 3 squares, or you can use the Escape Grab maneuver as a free maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)).
 
-**Celestine:** As a main action, you conjure up to three stars, which [hover](../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
+**Celestine:** As a main action, you conjure up to three stars, which [hover](../../Browse/movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
-**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
 **Forceful II:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares. This replaces the benefit of Forceful I.
 
-**Hallucinatory:** As a maneuver, you create an area of sensory instability in a 2 aura centered on yourself. The area is [difficult terrain](../movement/difficult-terrain.md) for your enemies until the end of the encounter.
+**Hallucinatory:** As a maneuver, you create an area of sensory instability in a 2 aura centered on yourself. The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for your enemies until the end of the encounter.
 
 **Lingering I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 8 damage at the start of your next turn.
 
@@ -456,7 +456,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../../Browse/condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../../Browse/condition/weakened.md) effect ends, you can use a free triggered action to make a free strike against them.
 
-**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 
 **Erupting II:** The fire damage dealt by the implement's Erupting I enhancement increases to 6.
 
@@ -520,7 +520,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 2 damage.
 
-**Wingbane:** Whenever you damage a [flying](../movement/fly.md) creature using this weapon, that creature is also [bleeding](../../Browse/condition/bleeding.md) (save ends). While [bleeding](../../Browse/condition/bleeding.md) in this way, the creature takes 1 damage per square they [fly](../movement/fly.md). If the creature starts and ends their turn on the same solid surface, the [bleeding](../../Browse/condition/bleeding.md) condition ends.
+**Wingbane:** Whenever you damage a [flying](../../Browse/movement/fly.md) creature using this weapon, that creature is also [bleeding](../../Browse/condition/bleeding.md) (save ends). While [bleeding](../../Browse/condition/bleeding.md) in this way, the creature takes 1 damage per square they [fly](../../Browse/movement/fly.md). If the creature starts and ends their turn on the same solid surface, the [bleeding](../../Browse/condition/bleeding.md) condition ends.
 
 ###### 1st-Level Weapon Enhancements Table
 
@@ -970,7 +970,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 | 4   | While fishing, the hero reels in an **angulotl daybringer** (see *Draw Steel:  Monsters*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
 | 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also [force moved](../movement/forced-movement.md), you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also [force moved](../../Browse/movement/forced-movement.md), you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a [revenant](../../Browse/ancestry/revenant.md) knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

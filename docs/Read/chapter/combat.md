@@ -107,7 +107,7 @@ The Movement section below breaks down how your move action works, while the Man
 
 #### Triggered Actions and Free Triggered Actions
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../../Browse/movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../../Browse/movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
 
 A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/class/shadow.md) hero can use their [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/class/shadow.md) can still use their In All This Confusion triggered action later in the round.
 
@@ -130,6 +130,44 @@ Any effect that prevents you from using maneuvers also prevents you from using f
 Free maneuvers cover most of the simple activities you might want to undertake on your turn. When it isn't your turn, you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
 The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a free maneuver on your turn.
+
+### Movement
+
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+
+All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
+
+Your hero can move freely through an ally's space. You can move through an enemy's space, but that space is [difficult terrain](../../Browse/movement/difficult-terrain.md) (see below). You can't stop moving in any other creature's space, including to make a strike or use a main action or maneuver while in that space and then continuing your move, unless that creature's size is two or more sizes greater or smaller than your own.
+
+At the Director's discretion, you can be forced into the same space as another creature whose size is within 1 of yours, such as by falling down a narrow shaft with such a creature already at the bottom. When you are squeezed into the same space as another creature whose size is within 1 of yours, your ability rolls and tests take a bane.
+
+#### Can't Exceed Speed
+
+A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the [slowed](../../Browse/condition/slowed.md) condition (see Conditions in Chapter 5: [Classes](classes.md)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
+
+#### Can't Cut Corners
+
+A creature can't move diagonally when doing so would involve passing through the corner of a wall or some other object that completely fills the corner between the creature's space and the space they are moving to. This rule applies only to moving past objects, not moving past other creatures.
+
+#### Movement Types
+
+Creatures in the game can use eight types of movement: walk, [burrow](../../Browse/movement/burrow.md), climb, swim, jump, [crawl](../../Browse/movement/crawl.md), [fly](../../Browse/movement/fly.md), and [teleport](../../Browse/movement/teleport.md).
+
+#### Falling
+
+When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and l[and prone](../../Browse/condition/prone.md). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
+
+Falling is not [forced movement](../../Browse/movement/forced-movement.md), but being force moved downward is considered falling. Movement from falling doesn't provoke opportunity attacks (see Opportunity Attacks below).
+
+##### Falling Onto Another Creature
+
+A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands prone in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is [knocked prone](../../Browse/condition/prone.md).
+
+##### Falling Far
+
+When a creature first falls from a great height, they fall 100 squares in the first round. At the end of each subsequent round that they remain falling, they fall another 100 squares.
 
 ### Flanking
 
@@ -258,7 +296,7 @@ Out of combat, you can hold your breath for a number of minutes equal to your Mi
 
 A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
-If a creature riding a mount is [force moved](../movement/forced-movement.md), they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../movement/teleport.md) separately.
+If a creature riding a mount is [force moved](../../Browse/movement/forced-movement.md), they are knocked off the mount and must make a test to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../../Browse/movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../../Browse/movement/teleport.md) separately.
 
 If your mount dies, they [fall prone](../../Browse/condition/prone.md), and you fall off them and l[and prone](../../Browse/condition/prone.md) in the nearest unoccupied space of your choice.
 

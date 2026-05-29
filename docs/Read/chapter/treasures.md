@@ -54,7 +54,7 @@ Your character can carry any number of consumables at a time.
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and [forced movement](../movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and [forced movement](../../Browse/movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](negotiation.md).
 
@@ -108,7 +108,7 @@ The Encepter is said to have first manifested in a young world doomed to apocaly
 
 **Champion's Lasso:** As a free maneuver, the wielder of the scepter can trigger a glowing line of light that traces their path as they move, or can dismiss the glowing line. If the wielder crosses over this line, each creature and object of the wielder's choice enclosed inside the line and within 2 squares above and below it are considered lassoed by the Encepter. Creatures remain lassoed until the lasso is released or until a new line is drawn.
 
-**Dominion:** Each creature lassoed by the Encepter is [restrained](../../Browse/condition/restrained.md) and can't [teleport](../movement/teleport.md). A creature caught in midair while lassoed stays in place rather than falling.
+**Dominion:** Each creature lassoed by the Encepter is [restrained](../../Browse/condition/restrained.md) and can't [teleport](../../Browse/movement/teleport.md). A creature caught in midair while lassoed stays in place rather than falling.
 
 **Obliteration:** As a main action, the wielder raises the Encepter to the sky. Each target lassoed by the Encepter erupts in a prismatic burst of light, taking 10 psychic damage for each square horizontally encircled by the lasso. The lasso is then immediately released.
 
