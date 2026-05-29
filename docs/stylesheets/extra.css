@@ -96,6 +96,10 @@ th:empty {
     transition: background 0.15s, border-color 0.15s;
 }
 
+.browse-index li:last-child {
+    margin-bottom: 0em;
+}
+
 .browse-index li:hover {
     background: var(--md-accent-fg-color--transparent);
     border-color: var(--md-accent-fg-color);
@@ -106,6 +110,7 @@ th:empty {
     text-decoration: none;
     color: var(--md-default-fg-color);
     font-weight: 500;
+    font-size: 1.1em;
 }
 
 .browse-index li a:hover {
@@ -181,7 +186,7 @@ th:empty {
     display: flex;
     align-items: center;
     gap: 0.4em;
-    padding: 0.5em 0.8em !important;
+    padding: 0.5em 0.8em; !important
     padding-bottom: .3rem;
     padding-top: .3rem;
     cursor: pointer;
@@ -258,6 +263,8 @@ th:empty {
 .md-typeset blockquote + blockquote,
 .md-typeset blockquote + p + blockquote {
     margin-top: 1em;
+    padding-left: .6rem;
+    padding-right: .6rem;
 }
 
 /* Ability-type colored left borders (colors from palette.css) */
