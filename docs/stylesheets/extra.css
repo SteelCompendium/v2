@@ -182,9 +182,11 @@ th:empty {
     align-items: center;
     gap: 0.4em;
     padding: 0.5em 0.8em;
+    padding-bottom: .3rem;
+    padding-top: .3rem;
     cursor: pointer;
     font-weight: 500;
-    font-size: 0.9em;
+    font-size: 1.2em;
     list-style: none;
 }
 
@@ -193,8 +195,9 @@ th:empty {
     display: inline-block;
     transition: transform 0.15s;
     position: static;
-    width: auto;
-    height: auto;
+    width: 1em;
+    height: 100%;
+    font-size: 1.2em;
     background-color: transparent;
     -webkit-mask-image: none;
     mask-image: none;
