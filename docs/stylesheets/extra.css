@@ -7,15 +7,9 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
-/* H1: zero margins + decorative rule underneath */
+/* H1: zero margins */
 .md-typeset h1 {
     margin: 0;
-    padding-bottom: 0.3em;
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
-}
-
-[data-md-color-scheme="slate"] .md-typeset h1 {
-    border-bottom-color: rgba(220, 226, 230, 0.12);
 }
 
 /* Preferences page */
