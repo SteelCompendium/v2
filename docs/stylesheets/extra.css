@@ -7,9 +7,9 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
-/* H1: zero margins */
+/* H1: tight top, breathing room below */
 .md-typeset h1 {
-    margin: 0;
+    margin: 0 0 1em;
 }
 
 /* Preferences page */
@@ -191,9 +191,7 @@ th:empty {
     display: flex;
     align-items: center;
     gap: 0.4em;
-    padding: 0.5em 0.8em; !important
-    padding-bottom: .3rem;
-    padding-top: .3rem;
+    padding: 0.3rem 0.8em 0.3rem 0.6rem !important;
     cursor: pointer;
     font-weight: 500;
     font-size: 1.2em;
