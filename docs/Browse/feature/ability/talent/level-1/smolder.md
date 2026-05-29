@@ -23,6 +23,8 @@ type: ability
 
 # Smolder
 
+---
+
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
 | **Psionic, Pyrokinesis, Ranged, Strike** |     **Main action** |

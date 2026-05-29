@@ -8,4 +8,6 @@ type: trait
 
 # Characteristic Increase
 
+---
+
 Your Might and Reason scores each increase to 3.

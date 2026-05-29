@@ -8,4 +8,6 @@ type: trait
 
 # Prayer of Destruction
 
+---
+
 Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.

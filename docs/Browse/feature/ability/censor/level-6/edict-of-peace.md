@@ -17,6 +17,8 @@ type: ability
 
 # Edict of Peace
 
+---
+
 *You anticipate your foes' moves and deny them.*
 
 | **Area, Magic** |                  **Maneuver** |

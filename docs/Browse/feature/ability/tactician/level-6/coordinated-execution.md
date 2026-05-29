@@ -18,6 +18,8 @@ type: ability
 
 # Coordinated Execution
 
+---
+
 *You direct your ally to make a killing blow.*
 
 | **Ranged**       | **Free triggered** |

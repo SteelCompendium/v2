@@ -8,6 +8,8 @@ type: chapter
 
 # Ancestries
 
+---
+
 Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [devils](../../Browse/ancestry/devil.md), [dwarves](../../Browse/ancestry/dwarf.md), elves, [time raiders](../../Browse/ancestry/time-raider.md)—and of course [humans](../../Browse/ancestry/human.md), whose culture and history dominates many worlds.
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.

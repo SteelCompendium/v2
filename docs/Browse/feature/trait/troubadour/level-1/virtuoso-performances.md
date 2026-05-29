@@ -8,6 +8,8 @@ type: trait
 
 # Virtuoso Performances
 
+---
+
 You have the following performance abilities, which are usable with your [Routines](routines.md) feature.
 
 ###### "Thunder Mother"

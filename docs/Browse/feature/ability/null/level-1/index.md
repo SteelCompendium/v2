@@ -1,5 +1,7 @@
 # Level 1
 
+---
+
 <div class="browse-index" markdown>
 
 - [A Squad Unto Myself](a-squad-unto-myself.md)

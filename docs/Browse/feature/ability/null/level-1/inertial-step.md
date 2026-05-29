@@ -23,6 +23,8 @@ type: ability
 
 # Inertial Step
 
+---
+
 *You flit about the battlefield and take an opportunistic strike.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

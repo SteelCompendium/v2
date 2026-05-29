@@ -20,6 +20,8 @@ type: ability
 
 # Kinetic Shield
 
+---
+
 *You manifest a force barrier that absorbs incoming kinetic energy.*
 
 | **Psionic** | **Maneuver** |

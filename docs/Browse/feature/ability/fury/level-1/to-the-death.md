@@ -22,6 +22,8 @@ type: ability
 
 # To the Death!
 
+---
+
 *Your reckless assault leaves you tactically vulnerable.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

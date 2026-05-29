@@ -23,6 +23,8 @@ type: ability
 
 # Volcano's Embrace
 
+---
+
 *Wrap them up in fire and melting stone.*
 
 | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |

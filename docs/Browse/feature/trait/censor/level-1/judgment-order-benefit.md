@@ -8,6 +8,8 @@ type: trait
 
 # Judgment Order Benefit
 
+---
+
 The first time on a turn that you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.

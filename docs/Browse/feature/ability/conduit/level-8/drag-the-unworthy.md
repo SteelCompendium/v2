@@ -22,6 +22,8 @@ type: ability
 
 # Drag the Unworthy
 
+---
+
 *You conjure an angel who moves a foe and heals your allies.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |

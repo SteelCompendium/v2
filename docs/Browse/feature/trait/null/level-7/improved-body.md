@@ -8,4 +8,6 @@ type: trait
 
 # Improved Body
 
+---
+
 When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.

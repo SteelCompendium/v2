@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of the Faithful
 
+---
+
 *The gods reward your faith.*
 
 | **Area, Magic** |                          **Maneuver** |

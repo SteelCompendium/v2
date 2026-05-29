@@ -22,6 +22,8 @@ type: ability
 
 # Greater Kinetic Grip
 
+---
+
 *You raise the target into the air without breaking a sweat.*
 
 | **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |

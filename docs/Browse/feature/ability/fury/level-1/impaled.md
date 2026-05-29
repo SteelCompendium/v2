@@ -21,6 +21,8 @@ type: ability
 
 # Impaled!
 
+---
+
 *You skewer your enemy like a boar upon a spit.*
 
 | **Melee, Strike, Weapon** |                             **Main action** |

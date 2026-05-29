@@ -8,6 +8,8 @@ type: title
 
 # Godsworn
 
+---
+
 *He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.*
 
 **Prerequisite:** You do a favor for an agent of a god or saint, or promise to do so.

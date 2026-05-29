@@ -23,6 +23,8 @@ type: ability
 
 # You Talk Too Much
 
+---
+
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

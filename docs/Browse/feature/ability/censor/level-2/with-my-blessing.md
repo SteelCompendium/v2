@@ -17,6 +17,8 @@ type: ability
 
 # With My Blessing
 
+---
+
 *A word in prayer, and the gods show the way.*
 
 | **Magic, Ranged** |         **Main action** |

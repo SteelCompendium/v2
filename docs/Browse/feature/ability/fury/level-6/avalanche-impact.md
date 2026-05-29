@@ -20,6 +20,8 @@ type: ability
 
 # Avalanche Impact
 
+---
+
 *You leap and crash down, causing a shockwave that devastates foes.*
 
 | **Magic**   | **Maneuver** |

@@ -8,4 +8,6 @@ type: trait
 
 # Magnified Power
 
+---
+
 If the ability has a potency, you increase that potency by an amount equal to your Reason score.

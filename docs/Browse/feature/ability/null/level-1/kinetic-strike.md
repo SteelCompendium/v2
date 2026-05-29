@@ -22,6 +22,8 @@ type: ability
 
 # Kinetic Strike
 
+---
+
 *Your opponent staggers. They cannot ignore you.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

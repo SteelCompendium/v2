@@ -22,6 +22,8 @@ type: ability
 
 # Force Redirected
 
+---
+
 *The force of your strike moves your target in a surprising direction.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

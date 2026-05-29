@@ -22,6 +22,8 @@ type: ability
 
 # Pressure Points
 
+---
+
 *You strike at key nerve clusters to leave your foe staggered.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

@@ -7,6 +7,8 @@ type: trait
 
 # Hakaan Traits
 
+---
+
 [Hakaan](../../../ancestry/hakaan.md) heroes have access to the following traits.
 
 #### Signature Trait: Big!

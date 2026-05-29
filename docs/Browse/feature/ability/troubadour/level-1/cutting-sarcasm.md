@@ -22,6 +22,8 @@ type: ability
 
 # Cutting Sarcasm
 
+---
+
 *There you are, radiating your usual charisma.*
 
 | **Magic, Ranged, Strike, Weapon** |     **Main action** |

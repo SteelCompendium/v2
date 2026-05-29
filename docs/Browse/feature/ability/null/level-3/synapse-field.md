@@ -16,6 +16,8 @@ type: ability
 
 # Synapse Field
 
+---
+
 *Attacks made by allies in your [null](../../../../class/null.md) field disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |

@@ -16,6 +16,8 @@ type: ability
 
 # Cinderstorm
 
+---
+
 *You [teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.*
 
 | **Magic**      |                          **Maneuver** |

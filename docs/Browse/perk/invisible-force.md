@@ -6,6 +6,8 @@ type: perk
 
 # Invisible Force
 
+---
+
 You have the following ability.
 
 ##### Invisible Force

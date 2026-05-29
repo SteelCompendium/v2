@@ -22,6 +22,8 @@ type: ability
 
 # Call the Thunder Down
 
+---
+
 *You ask your saint for thunder and your prayer is answered.*
 
 | **Area, Magic, Ranged** |               **Main action** |

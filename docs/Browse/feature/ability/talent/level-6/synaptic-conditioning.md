@@ -22,6 +22,8 @@ type: ability
 
 # Synaptic Conditioning
 
+---
+
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |

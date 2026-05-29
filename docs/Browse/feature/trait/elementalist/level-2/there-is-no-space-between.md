@@ -8,6 +8,8 @@ type: trait
 
 # There Is No Space Between
 
+---
+
 You have the following ability.
 
 ###### There Is No Space Between

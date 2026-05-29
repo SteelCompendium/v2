@@ -18,6 +18,8 @@ type: ability
 
 # Flashback
 
+---
+
 *The target is thrown several seconds back through time and gets to do it all again.*
 
 | **Chronopathy, Psionic, Ranged** |            **Maneuver** |

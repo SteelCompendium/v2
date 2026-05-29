@@ -23,6 +23,8 @@ type: ability
 
 # Melt Their Faces
 
+---
+
 *The power of music rips through the reality around the target and blows them away.*
 
 | **Magic, Melee, Ranged, Strike** |               **Main action** |

@@ -16,6 +16,8 @@ type: ability
 
 # Blessing of Secrets
 
+---
+
 *You project an illusory aura that makes you and allies harder to notice.*
 
 | **Area, Magic** |                         **Maneuver**  |

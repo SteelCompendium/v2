@@ -23,6 +23,8 @@ type: ability
 
 # Demon Door
 
+---
+
 *You create a temporary portal to allow a massive demonic hand to reach through.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

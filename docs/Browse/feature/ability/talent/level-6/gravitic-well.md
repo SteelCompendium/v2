@@ -23,6 +23,8 @@ type: ability
 
 # Gravitic Well
 
+---
+
 *You bend gravity into a fine point and pull your foes toward it.*
 
 | **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |

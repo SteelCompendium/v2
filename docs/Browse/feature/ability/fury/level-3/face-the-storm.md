@@ -16,6 +16,8 @@ type: ability
 
 # Face the Storm!
 
+---
+
 *Shocked in the face of your naked brutality, your enemy's instincts take over.*
 
 | **Magic**   | **Maneuver** |

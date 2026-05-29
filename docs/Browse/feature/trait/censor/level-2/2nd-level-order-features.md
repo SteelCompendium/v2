@@ -8,6 +8,8 @@ type: trait
 
 # 2nd-Level Order Features
 
+---
+
 Your [censor](../../../../class/censor.md) order grants you two features, as shown on the 2nd-Level Order Features table.
 
 ###### 2nd-Level Order Features Table

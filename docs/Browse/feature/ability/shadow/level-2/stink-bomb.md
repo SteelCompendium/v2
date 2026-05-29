@@ -21,6 +21,8 @@ type: ability
 
 # Stink Bomb
 
+---
+
 *Putrid yellow gas explodes from a bomb you toss.*
 
 | **Area, Ranged**        |                  **Main action** |

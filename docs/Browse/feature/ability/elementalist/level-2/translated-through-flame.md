@@ -23,6 +23,8 @@ type: ability
 
 # Translated Through Flame
 
+---
+
 *Your ally disappears, then reappears in a burst of fire.*
 
 | **Fire, Magic, Ranged, Void** |         **Main action** |

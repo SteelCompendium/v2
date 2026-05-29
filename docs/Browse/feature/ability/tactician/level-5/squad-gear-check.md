@@ -22,6 +22,8 @@ type: ability
 
 # Squad! Gear Check!
 
+---
+
 *You distract a foe while your allies secure their defensive gear.*
 
 | **Melee, Strike, Weapon** | **Main action**     |

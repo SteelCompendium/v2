@@ -8,4 +8,6 @@ type: trait
 
 # Characteristic Increase
 
+---
+
 Your Reason and Presence scores each increase to 5.

@@ -8,4 +8,6 @@ type: trait
 
 # Most Pious
 
+---
+
 When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.

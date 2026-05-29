@@ -21,6 +21,8 @@ type: ability
 
 # Spirit Stampede
 
+---
+
 *Animal spirits run through the battlefield, trampling your foes.*
 
 | **Area, Magic, Ranged**     |               **Main action** |

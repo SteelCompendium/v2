@@ -8,6 +8,8 @@ type: title
 
 # Special Agent
 
+---
+
 *And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
 
 **Prerequisite:** A spymaster gives you an important secret mission.

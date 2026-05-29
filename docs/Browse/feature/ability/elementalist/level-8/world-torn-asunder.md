@@ -22,6 +22,8 @@ type: ability
 
 # World Torn Asunder
 
+---
+
 *You stomp your foot and quake the whole world over.*
 
 | **Area, Earth, Magic** |               **Main action** |

@@ -16,6 +16,8 @@ type: ability
 
 # Dancer
 
+---
+
 *You enter a flow state that makes you nearly impossible to pin down.*
 
 | **-**       | **Maneuver** |

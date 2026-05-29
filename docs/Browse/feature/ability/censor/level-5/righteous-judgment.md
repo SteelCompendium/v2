@@ -22,6 +22,8 @@ type: ability
 
 # Righteous Judgment
 
+---
+
 *You amplify the power of your [judgment](../level-1/judgment.md).*
 
 | **Melee, Strike, Weapon**   |          **Main action** |

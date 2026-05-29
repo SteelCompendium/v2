@@ -16,6 +16,8 @@ type: ability
 
 # Ranger (Hamstring Shot)
 
+---
+
 *A well-placed shot leaves your enemy struggling to move.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |

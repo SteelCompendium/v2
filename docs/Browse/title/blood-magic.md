@@ -8,6 +8,8 @@ type: title
 
 # Blood Magic
 
+---
+
 *Flow, blood, thou fiend's libation, and catch my foes in conflagration!*
 
 **Prerequisite:** You participate in a Discover Lore project to learn forbidden knowledge.

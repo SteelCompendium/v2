@@ -5,6 +5,8 @@ search:
 
 # Chapters
 
+---
+
 <div class="browse-index" markdown>
 
 - [Ancestries](ancestries.md)

@@ -11,6 +11,8 @@ type: career
 
 # Farmer
 
+---
+
 You grew crops or cared for livestock. In defining your career, think about the following questions:
 
 - Did you own the land you farmed, or did you farm for another?

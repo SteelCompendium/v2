@@ -8,4 +8,6 @@ type: trait
 
 # Skill
 
+---
+
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../../Read/chapter/tests.md).

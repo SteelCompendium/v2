@@ -1,5 +1,7 @@
 # Features
 
+---
+
 <details class="browse-expand" markdown>
 <summary><a href="ability/">Abilities</a></summary>
 

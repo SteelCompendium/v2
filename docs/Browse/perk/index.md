@@ -1,5 +1,7 @@
 # Perks
 
+---
+
 <div class="browse-index" markdown>
 
 - [Arcane Trick](arcane-trick.md)

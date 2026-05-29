@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [Blessing of the Faithful](blessing-of-the-faithful.md)

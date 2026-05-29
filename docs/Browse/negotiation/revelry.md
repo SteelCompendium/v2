@@ -6,6 +6,8 @@ type: negotiation
 
 # Revelry
 
+---
+
 An NPC with the [revelry](revelry.md) motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
 
 An NPC with the [revelry](revelry.md) pitfall sees social encounters and hedonism as a waste of time. They take pleasure only in work or in building their own skills and character. Others who suggest immature debauchery are not worth their time.

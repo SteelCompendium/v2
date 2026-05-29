@@ -8,6 +8,8 @@ type: trait
 
 # Virtuoso Features
 
+---
+
 Choose one of the following features.
 
 ###### Bolstering Banter

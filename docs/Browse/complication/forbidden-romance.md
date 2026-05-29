@@ -8,6 +8,8 @@ type: complication
 
 # Forbidden Romance
 
+---
+
 You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](betrothed.md) to another, or has been driven from your side, you are fated to always be apart.
 
 **Benefit:** You can secretly call on your [betrothed](betrothed.md) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.

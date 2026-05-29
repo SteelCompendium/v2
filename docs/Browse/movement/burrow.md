@@ -6,6 +6,8 @@ type: movement
 
 # Burrow
 
+---
+
 A creature who has "[burrow](burrow.md)" in their speed entry, or who gains the temporary ability to [burrow](burrow.md), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](burrow.md) says otherwise. Similarly, a [burrowing](burrow.md) creature doesn't leave a tunnel unless the rules say so.
 
 ###### Dig Maneuver

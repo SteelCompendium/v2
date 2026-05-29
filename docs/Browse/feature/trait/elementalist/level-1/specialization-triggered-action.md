@@ -8,6 +8,8 @@ type: trait
 
 # Specialization Triggered Action
 
+---
+
 Your [elemental specialization](elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
 
 ###### Elemental Specialization Triggered Actions Table

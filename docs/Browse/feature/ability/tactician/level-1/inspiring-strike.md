@@ -22,6 +22,8 @@ type: ability
 
 # Inspiring Strike
 
+---
+
 *Your attack gives an ally hope.*
 
 | **Melee, Ranged, Strike, Weapon** |               **Main action** |

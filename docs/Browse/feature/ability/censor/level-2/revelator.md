@@ -17,6 +17,8 @@ type: ability
 
 # Revelator
 
+---
+
 *You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../level-1/judgment.md).*
 
 | **Area, Magic** |                  **Maneuver** |

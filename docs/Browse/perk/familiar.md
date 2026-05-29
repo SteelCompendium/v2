@@ -6,6 +6,8 @@ type: perk
 
 # Familiar
 
+---
+
 A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](familiar.md)—or to adopt you as their [familiar](familiar.md).
 
 The spirit uses the [familiar](familiar.md) stat block.

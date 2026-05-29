@@ -15,6 +15,8 @@ type: ability
 
 # Hands of the Maker
 
+---
+
 *You craft objects with the power of your mind.*
 
 | **Magic**                |  **Maneuver** |

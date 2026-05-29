@@ -16,6 +16,8 @@ type: ability
 
 # The Wode Defends
 
+---
+
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
 | **Magic, Ranged, Strike** |               **Main action** |

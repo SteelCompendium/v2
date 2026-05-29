@@ -21,6 +21,8 @@ type: ability
 
 # Divine Dragon
 
+---
+
 *From nothing but divine will, you create a powerful ally.*
 
 | **Magic, Ranged**  | **Main action** |

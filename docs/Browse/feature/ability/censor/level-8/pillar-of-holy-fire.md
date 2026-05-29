@@ -22,6 +22,8 @@ type: ability
 
 # Pillar of Holy Fire
 
+---
+
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
 | **Melee, Strike, Weapon**  |     **Main action** |

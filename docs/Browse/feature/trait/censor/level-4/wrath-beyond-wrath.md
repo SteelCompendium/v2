@@ -8,4 +8,6 @@ type: trait
 
 # Wrath Beyond Wrath
 
+---
+
 The first time each combat round that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.

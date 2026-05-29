@@ -16,6 +16,8 @@ type: ability
 
 # Targets of Opportunity
 
+---
+
 *You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
 
 | **Ranged**      |         **Maneuver** |

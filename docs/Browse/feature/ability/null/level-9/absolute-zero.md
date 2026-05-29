@@ -20,6 +20,8 @@ type: ability
 
 # Absolute Zero
 
+---
+
 *You become the coldest thing in the timescape.*
 
 | **Psionic** | **Maneuver** |

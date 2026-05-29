@@ -22,6 +22,8 @@ type: ability
 
 # Joint Lock
 
+---
+
 *You contort your enemy's body into a stance they struggle to escape from.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

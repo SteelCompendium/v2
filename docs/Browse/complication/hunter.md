@@ -8,6 +8,8 @@ type: complication
 
 # Hunter
 
+---
+
 You are hunting someone or something—perhaps a wanted criminal, a person who wronged you, or a dangerous monster or beast. You won't rest until you face off against your quarry!
 
 **Benefit:** Choose one skill from the following:

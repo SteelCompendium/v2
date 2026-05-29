@@ -8,6 +8,8 @@ type: trait
 
 # 3rd-Level Aspect Feature
 
+---
+
 Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
 ###### 3rd-Level Aspect Features Table

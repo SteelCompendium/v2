@@ -19,6 +19,8 @@ type: ability
 
 # Parry
 
+---
+
 *Your quick reflexes cost an enemy the precision they seek.*
 
 | **Melee, Weapon** |            **Triggered** |

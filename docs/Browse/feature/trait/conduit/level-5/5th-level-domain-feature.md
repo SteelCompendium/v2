@@ -8,4 +8,6 @@ type: trait
 
 # 5th-Level Domain Feature
 
+---
+
 You gain the 4th-level domain feature for the domain whose feature you didn't select at that level (see 4th-Level Domain Feature).

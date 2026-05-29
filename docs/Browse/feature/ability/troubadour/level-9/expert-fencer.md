@@ -23,6 +23,8 @@ type: ability
 
 # Expert Fencer
 
+---
+
 *If you can land the strike, the crowd goes wild.*
 
 | **Charge, Melee, Strike, Weapon** |               **Main action** |

@@ -17,6 +17,8 @@ type: ability
 
 # Our Hearts Your Strength
 
+---
+
 *An ally gains strength from their friends.*
 
 | **Magic, Ranged**  |             **Maneuver** |

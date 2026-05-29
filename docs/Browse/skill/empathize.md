@@ -6,4 +6,6 @@ type: skill
 
 # Empathize
 
+---
+
 Relate to someone on a personal level.

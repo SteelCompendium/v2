@@ -8,6 +8,8 @@ type: chapter
 
 # Kits
 
+---
+
 The knight in [shining armor](../../Browse/kit/shining-armor.md). The [warrior priest](../../Browse/kit/warrior-priest.md). The [sniper](../../Browse/kit/sniper.md). [Censors](../../Browse/class/censor.md), [furies](../../Browse/class/fury.md), [shadows](../../Browse/class/shadow.md), [tacticians](../../Browse/class/tactician.md), and [troubadours](../../Browse/class/troubadour.md) can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
 
 ### Changing Your Kit

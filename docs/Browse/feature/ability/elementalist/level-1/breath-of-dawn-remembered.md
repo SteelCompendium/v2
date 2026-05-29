@@ -20,6 +20,8 @@ type: ability
 
 # Breath of Dawn Remembered
 
+---
+
 *The power you channel grants the ability to get back in the fight.*
 
 | **Green, Magic, Ranged**          |           **Triggered** |

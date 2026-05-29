@@ -22,6 +22,8 @@ type: ability
 
 # Beacon of Grace
 
+---
+
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
 | **Magic, Ranged, Strike** |     **Main action** |

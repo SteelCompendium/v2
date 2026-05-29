@@ -17,6 +17,8 @@ type: ability
 
 # Look!
 
+---
+
 *You distract your foes, allowing your allies to take advantage of that distraction.*
 
 | **Area, Magic** |                  **Maneuver** |

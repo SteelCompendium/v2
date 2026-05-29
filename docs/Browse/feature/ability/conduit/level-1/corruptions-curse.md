@@ -21,6 +21,8 @@ type: ability
 
 # Corruption's Curse
 
+---
+
 *Cursed by you, your enemy takes more damage from your allies.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |

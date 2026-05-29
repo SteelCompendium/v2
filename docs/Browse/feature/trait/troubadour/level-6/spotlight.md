@@ -8,6 +8,8 @@ type: trait
 
 # Spotlight
 
+---
+
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
 ##### Spotlight

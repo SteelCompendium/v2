@@ -22,6 +22,8 @@ type: ability
 
 # Every Step... Death!
 
+---
+
 *You show your foe a glimpse of their fate after death.*
 
 | **Magic, Ranged, Strike** |               **Main action** |

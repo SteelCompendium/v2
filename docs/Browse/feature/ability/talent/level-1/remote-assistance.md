@@ -17,6 +17,8 @@ type: ability
 
 # Remote Assistance
 
+---
+
 *An ally gains the benefit of your intellect.*
 
 | **Psionic, Ranged** |                  **Maneuver** |

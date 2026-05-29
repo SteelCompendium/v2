@@ -8,6 +8,8 @@ type: trait
 
 # 5th-Level Doctrine Features
 
+---
+
 Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you two features, as shown on the 5th-Level Doctrine Features table.
 
 ###### 5th-Level Doctrine Features Table

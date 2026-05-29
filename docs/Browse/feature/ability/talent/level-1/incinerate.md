@@ -24,6 +24,8 @@ type: ability
 
 # Incinerate
 
+---
+
 *The air erupts into a column of smokeless flame.*
 
 | **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |

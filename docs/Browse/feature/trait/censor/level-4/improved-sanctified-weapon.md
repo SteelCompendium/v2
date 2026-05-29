@@ -8,4 +8,6 @@ type: trait
 
 # Improved Sanctified Weapon
 
+---
+
 The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 bonus to rolled damage instead of +1.

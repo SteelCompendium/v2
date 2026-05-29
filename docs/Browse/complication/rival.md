@@ -8,6 +8,8 @@ type: complication
 
 # Rival
 
+---
+
 Whatever your accomplishments, you'll forever measure yourself against a former companion who always seemed to stay one step ahead of you.
 
 **Benefit:** Choose one of your skills. That skill grants a +3 bonus to tests instead of +2.

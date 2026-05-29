@@ -1,5 +1,7 @@
 # Level 1
 
+---
+
 <div class="browse-index" markdown>
 
 - [1st-Level Class Act Features](1st-level-class-act-features.md)

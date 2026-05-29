@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Cacophony of Cinders](cacophony-of-cinders.md)

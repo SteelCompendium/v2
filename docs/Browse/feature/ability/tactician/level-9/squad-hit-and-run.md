@@ -16,6 +16,8 @@ type: ability
 
 # Squad! Hit and Run!
 
+---
+
 *I had to pry this secret from the [shadow](../../../../class/shadow.md) colleges.*
 
 | **Ranged**       |            **Main action** |

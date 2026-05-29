@@ -19,6 +19,8 @@ type: ability
 
 # Pain of Your Own Making
 
+---
+
 *You reverse the effects from an evildoer.*
 
 | **Magic, Ranged** |      **Free triggered** |

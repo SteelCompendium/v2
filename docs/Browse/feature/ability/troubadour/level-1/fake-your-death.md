@@ -16,6 +16,8 @@ type: ability
 
 # Fake Your Death
 
+---
+
 *O happy dagger, this is thy sheath!*
 
 | **Magic**   | **Maneuver** |

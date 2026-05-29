@@ -23,6 +23,8 @@ type: ability
 
 # Arcane Disruptor
 
+---
+
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

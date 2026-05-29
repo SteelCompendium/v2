@@ -18,6 +18,8 @@ type: ability
 
 # Spellsword (Leaping Lightning)
 
+---
+
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

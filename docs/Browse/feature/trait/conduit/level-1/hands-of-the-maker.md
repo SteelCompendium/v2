@@ -8,6 +8,8 @@ type: trait
 
 # Hands of the Maker
 
+---
+
 You have the following ability.
 
 ###### Hands of the Maker

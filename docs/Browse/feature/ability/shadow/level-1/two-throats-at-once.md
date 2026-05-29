@@ -22,6 +22,8 @@ type: ability
 
 # Two Throats at Once
 
+---
+
 *A bargain.*
 
 | **Melee, Ranged, Strike, Weapon** |                 **Main action** |

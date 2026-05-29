@@ -8,6 +8,8 @@ type: trait
 
 # Minor Telekinesis
 
+---
+
 You have the following ability.
 
 ###### Minor Telekinesis

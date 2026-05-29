@@ -8,4 +8,6 @@ type: trait
 
 # Null Speed
 
+---
+
 The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../../../../movement/shifting.md) when you take the Disengage move action equal to your Agility score.

@@ -18,6 +18,8 @@ type: ability
 
 # Turnabout Is Fair Play
 
+---
+
 *All's fair in love and whatever.*
 
 | **Ranged**       |       **Triggered** |

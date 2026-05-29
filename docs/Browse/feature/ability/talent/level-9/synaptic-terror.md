@@ -22,6 +22,8 @@ type: ability
 
 # Synaptic Terror
 
+---
+
 *You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*
 
 | **Area, Psionic, Telepathy** |                        **Main action** |

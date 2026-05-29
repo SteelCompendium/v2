@@ -23,6 +23,8 @@ type: ability
 
 # To Stone!
 
+---
+
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

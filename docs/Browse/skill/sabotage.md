@@ -6,4 +6,6 @@ type: skill
 
 # Sabotage
 
+---
+
 Disable a mechanical device such as a trap.

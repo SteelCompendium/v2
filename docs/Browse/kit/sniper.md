@@ -11,6 +11,8 @@ type: kit
 
 # Sniper
 
+---
+
 The [Sniper](sniper.md) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
 ##### Equipment

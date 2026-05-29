@@ -8,6 +8,8 @@ type: trait
 
 # 3rd-Level Specialization Feature
 
+---
+
 Your [elemental specialization](../level-1/elemental-specialization.md) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../level-1/elemental-specialization.md) Features table.
 
 ###### 3rd-Level Elemental Specialization Features Table

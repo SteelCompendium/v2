@@ -18,6 +18,8 @@ type: ability
 
 # Furious Change
 
+---
+
 *In your anger, you revert to a more bestial form.*
 
 | **-**       | **Triggered** |

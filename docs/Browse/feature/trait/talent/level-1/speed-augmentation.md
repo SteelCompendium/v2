@@ -8,4 +8,6 @@ type: trait
 
 # Speed Augmentation
 
+---
+
 You gain a +1 bonus to speed and to the distance you can [shift](../../../../movement/shifting.md) when you take the Disengage move action.

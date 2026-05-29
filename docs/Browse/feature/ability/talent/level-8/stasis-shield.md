@@ -19,6 +19,8 @@ type: ability
 
 # Stasis Shield
 
+---
+
 *You freeze time just long enough to bring the victim to safety!*
 
 | **Psionic, Ranged** |                          **Triggered** |

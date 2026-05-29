@@ -8,6 +8,8 @@ type: trait
 
 # I'm No Threat
 
+---
+
 You have the following ability.
 
 ###### I'm No Threat

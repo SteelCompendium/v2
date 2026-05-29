@@ -16,6 +16,8 @@ type: ability
 
 # Counterstrategy
 
+---
+
 *I've identified a way to negate their strengths.*
 
 | **-**       | **Main action** |

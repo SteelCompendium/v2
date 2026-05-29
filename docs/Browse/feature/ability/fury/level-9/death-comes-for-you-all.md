@@ -23,6 +23,8 @@ type: ability
 
 # Death Comes for You All!
 
+---
+
 *You use your weapon to create a destructive shockwave.*
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |

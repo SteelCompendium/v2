@@ -23,6 +23,8 @@ type: ability
 
 # Relentless Death
 
+---
+
 *You won't escape your fate.*
 
 | **Magic, Melee, Strike, Weapon** | **Main action** |

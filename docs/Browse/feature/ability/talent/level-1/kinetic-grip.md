@@ -21,6 +21,8 @@ type: ability
 
 # Kinetic Grip
 
+---
+
 *You lift and hurl your foe away from you.*
 
 | **Psionic, Ranged, Telekinesis** |               **Main action** |

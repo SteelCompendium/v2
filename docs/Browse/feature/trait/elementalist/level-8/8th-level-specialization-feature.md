@@ -8,6 +8,8 @@ type: trait
 
 # 8th-Level Specialization Feature
 
+---
+
 Your [elemental specialization](../level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../level-1/elemental-specialization.md) Features table.
 
 ###### 8th-Level Elemental Specialization Features Table

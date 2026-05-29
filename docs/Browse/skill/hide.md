@@ -6,4 +6,6 @@ type: skill
 
 # Hide
 
+---
+
 Conceal yourself from others' observation.

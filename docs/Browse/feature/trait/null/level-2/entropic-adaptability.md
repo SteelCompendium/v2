@@ -8,4 +8,6 @@ type: trait
 
 # Entropic Adaptability
 
+---
+
 You have cold immunity equal to twice your Intuition score. Additionally, you ignore [difficult terrain](../../../../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.

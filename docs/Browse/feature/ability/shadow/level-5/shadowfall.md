@@ -22,6 +22,8 @@ type: ability
 
 # Shadowfall
 
+---
+
 *You vanish. They fall. You reappear.*
 
 | **Area, Melee, Weapon**     |               **Main action** |

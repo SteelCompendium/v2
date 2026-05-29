@@ -17,6 +17,8 @@ type: ability
 
 # Martial Artist (Battle Grace)
 
+---
+
 *You feint to move your enemies into perfect position.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

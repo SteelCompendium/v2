@@ -21,6 +21,8 @@ type: ability
 
 # Burden of Evil
 
+---
+
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
 | **Magic, Ranged, Strike** |         **Maneuver** |

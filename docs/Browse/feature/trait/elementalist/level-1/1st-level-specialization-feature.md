@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level Specialization Feature
 
+---
+
 Your [elemental specialization](elemental-specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](elemental-specialization.md) Features table.
 
 ###### 1st-Level Elemental Specialization Features Table

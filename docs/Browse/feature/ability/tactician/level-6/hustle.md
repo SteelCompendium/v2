@@ -16,6 +16,8 @@ type: ability
 
 # Hustle!
 
+---
+
 *You and your allies coordinate to form a new battle line.*
 
 | **Area**       |                          **Maneuver** |

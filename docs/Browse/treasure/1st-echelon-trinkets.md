@@ -10,6 +10,8 @@ type: treasure
 
 # 1st-Echelon Trinkets
 
+---
+
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
 ##### Color Cloak (Blue)

@@ -15,6 +15,8 @@ type: ability
 
 # Careful Observation
 
+---
+
 *A moment of focus leaves a foe firmly in your sights.*
 
 | **Ranged**       |        **Maneuver** |

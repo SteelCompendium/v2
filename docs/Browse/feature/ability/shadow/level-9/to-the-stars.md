@@ -22,6 +22,8 @@ type: ability
 
 # To the Stars
 
+---
+
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
 | **Melee, Ranged, Strike**   |               **Main action** |

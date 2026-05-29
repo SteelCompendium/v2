@@ -8,6 +8,8 @@ type: trait
 
 # Clarity and Strain
 
+---
+
 The focus and precision of your thoughts grant you a Heroic Resource called clarity that empowers your psionic abilities.
 
 ##### Clarity in Combat

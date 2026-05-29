@@ -21,6 +21,8 @@ type: ability
 
 # Faith Is Our Armor
 
+---
+
 *The heroes' armor glows with golden light, granting divine protection.*
 
 | **Magic, Ranged**        |       **Maneuver** |

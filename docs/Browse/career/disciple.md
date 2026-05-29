@@ -10,6 +10,8 @@ type: career
 
 # Disciple
 
+---
+
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
 - What gods or saints did your institution venerate?

@@ -22,6 +22,8 @@ type: ability
 
 # Soul Siphon
 
+---
+
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
 | **Magic, Ranged, Strike** |  **Main action** |

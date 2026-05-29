@@ -17,6 +17,8 @@ type: ability
 
 # Radiance of Grace
 
+---
+
 *Intense light is emitted from your body, healing your allies.*
 
 | **Magic, Ranged**  |    **Main action** |

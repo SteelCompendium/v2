@@ -22,6 +22,8 @@ type: ability
 
 # Viscous Fire
 
+---
+
 *A jet of heavy fire erupts where you strike.*
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** | 

@@ -8,4 +8,6 @@ type: trait
 
 # Enchantment of Destruction
 
+---
+
 You gain a +1 bonus to rolled damage with magic abilities.

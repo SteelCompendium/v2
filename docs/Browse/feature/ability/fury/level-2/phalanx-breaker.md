@@ -21,6 +21,8 @@ type: ability
 
 # Phalanx-Breaker
 
+---
+
 *Organizing your forces like feckless creatures of Law. Pitiful.*
 
 | **Melee, Weapon**      | **Main action** |

@@ -23,6 +23,8 @@ type: ability
 
 # Force Orbs
 
+---
+
 *Spheres of solid psionic energy float around you.*
 
 | **Psionic, Ranged, Strike, Telekinesis** | **Main action** |

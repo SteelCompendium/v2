@@ -17,6 +17,8 @@ type: ability
 
 # Vessel of Retribution
 
+---
+
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
 
 | **Magic, Ranged**  | **Maneuver**            |

@@ -8,4 +8,6 @@ type: trait
 
 # Bastion Ward
 
+---
+
 Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.

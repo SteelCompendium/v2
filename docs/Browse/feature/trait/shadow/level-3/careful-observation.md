@@ -8,6 +8,8 @@ type: trait
 
 # Careful Observation
 
+---
+
 You have the following ability.
 
 ##### Careful Observation

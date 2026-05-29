@@ -22,6 +22,8 @@ type: ability
 
 # Blood for Blood!
 
+---
+
 *See how well they fight after you've bled them dry.*
 
 | **Melee, Strike, Weapon**   |               **Main action** |

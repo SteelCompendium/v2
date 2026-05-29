@@ -8,4 +8,6 @@ type: trait
 
 # See Through Their Tricks
 
+---
+
 You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!

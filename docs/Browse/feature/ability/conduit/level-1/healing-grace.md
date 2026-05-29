@@ -17,6 +17,8 @@ type: ability
 
 # Healing Grace
 
+---
+
 *Your divine energy restores the righteous.*
 
 | **Magic, Ranged**          |            **Maneuver** |

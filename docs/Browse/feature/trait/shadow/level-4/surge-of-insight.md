@@ -8,4 +8,6 @@ type: trait
 
 # Surge of Insight
 
+---
+
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.

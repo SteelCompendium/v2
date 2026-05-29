@@ -23,6 +23,8 @@ type: ability
 
 # Pounce
 
+---
+
 *You strike at the target like the ultimate predator you are.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

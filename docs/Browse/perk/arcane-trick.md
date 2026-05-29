@@ -6,6 +6,8 @@ type: perk
 
 # Arcane Trick
 
+---
+
 You have the following ability.
 
 ##### Arcane Trick

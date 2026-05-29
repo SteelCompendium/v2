@@ -6,4 +6,6 @@ type: skill
 
 # Alertness
 
+---
+
 Intuitively sense the details of your surroundings.

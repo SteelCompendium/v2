@@ -17,6 +17,8 @@ type: ability
 
 # Divine Comedy
 
+---
+
 *You and your allies swap places to confound your foes.*
 
 | **Area, Magic**  |                          **Maneuver** |

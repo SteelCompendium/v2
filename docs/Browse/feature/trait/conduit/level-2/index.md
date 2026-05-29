@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [2nd-Level Domain Feature](2nd-level-domain-feature.md)

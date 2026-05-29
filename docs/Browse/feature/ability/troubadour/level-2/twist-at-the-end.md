@@ -17,6 +17,8 @@ type: ability
 
 # Twist at the End
 
+---
+
 *You didn't see that coming, did you?!*
 
 | **Magic, Ranged** |       **Main action** |

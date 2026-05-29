@@ -8,4 +8,6 @@ type: trait
 
 # True Focus
 
+---
+
 When you gain focus at the start of each of your turns during combat, you gain 4 focus instead of 3.

@@ -23,6 +23,8 @@ type: ability
 
 # Panic in Their Lines
 
+---
+
 *You confuse your foes, causing them to turn on each other.*
 
 | **Melee, Ranged, Strike, Weapon** |      **Main action** |

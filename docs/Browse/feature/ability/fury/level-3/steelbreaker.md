@@ -16,6 +16,8 @@ type: ability
 
 # Steelbreaker
 
+---
+
 *See how useless their weapons are!*
 
 | **Magic**   | **Maneuver** |

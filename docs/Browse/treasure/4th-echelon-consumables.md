@@ -9,6 +9,8 @@ type: treasure
 
 # 4th-Echelon Consumables
 
+---
+
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
 ##### Breath of Creation

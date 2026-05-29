@@ -24,6 +24,8 @@ type: ability
 
 # Afflict a Bountiful Decay
 
+---
+
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
 | **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |

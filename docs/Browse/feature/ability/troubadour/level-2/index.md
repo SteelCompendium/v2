@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [Classic Chandelier Stunt](classic-chandelier-stunt.md)

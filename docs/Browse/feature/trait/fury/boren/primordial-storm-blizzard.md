@@ -8,4 +8,6 @@ type: trait
 
 # Primordial Storm: Blizzard
 
+---
+
 Your primordial damage type is cold.

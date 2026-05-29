@@ -6,4 +6,6 @@ type: skill
 
 # Music
 
+---
+
 Perform music vocally or with an instrument.

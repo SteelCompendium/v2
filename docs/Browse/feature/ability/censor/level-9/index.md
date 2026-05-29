@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Apostate](apostate.md)

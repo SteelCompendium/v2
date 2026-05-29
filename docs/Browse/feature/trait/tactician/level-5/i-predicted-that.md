@@ -8,4 +8,6 @@ type: trait
 
 # I Predicted That
 
+---
+
 Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an edge on Reason tests.

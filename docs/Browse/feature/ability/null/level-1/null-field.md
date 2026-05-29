@@ -16,6 +16,8 @@ type: ability
 
 # Null Field
 
+---
+
 *You project an aura that dampens the power of your foes.*
 
 | **Area, Psionic** |                  **Maneuver** |

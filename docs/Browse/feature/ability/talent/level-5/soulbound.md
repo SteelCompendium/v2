@@ -23,6 +23,8 @@ type: ability
 
 # Soulbound
 
+---
+
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 
 | **Animapathy, Psionic, Ranged, Strike** |    **Main action** |

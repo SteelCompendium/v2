@@ -8,4 +8,6 @@ type: trait
 
 # Characteristic Increase
 
+---
+
 Each of your characteristic scores increases by 1, to a maximum of 4.

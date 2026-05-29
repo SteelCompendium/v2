@@ -22,6 +22,8 @@ type: ability
 
 # A Squad Unto Myself
 
+---
+
 *You move so quickly, it seems as though an army assaulted your foes.*
 
 | **Area, Psionic, Weapon** |               **Main action** |

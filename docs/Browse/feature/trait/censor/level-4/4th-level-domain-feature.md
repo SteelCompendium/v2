@@ -8,6 +8,8 @@ type: trait
 
 # 4th-Level Domain Feature
 
+---
+
 You gain a domain feature from your domain, as shown on the 4th-Level [Censor](../../../../class/censor.md) Domain Features table.
 
 ###### 4th-Level Censor Domain Features Table

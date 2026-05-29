@@ -19,6 +19,8 @@ type: ability
 
 # Battle Cry
 
+---
+
 *You shout a phrase that galvanizes your team.*
 
 | **Ranged**       |        **Maneuver** |

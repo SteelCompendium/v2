@@ -16,6 +16,8 @@ type: ability
 
 # Frontal Assault
 
+---
+
 *The purpose of a charge is to break their morale and force a retreat.*
 
 | **-**       | **Maneuver** |

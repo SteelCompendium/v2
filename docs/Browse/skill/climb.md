@@ -6,4 +6,6 @@ type: skill
 
 # Climb
 
+---
+
 Move up vertical surfaces.

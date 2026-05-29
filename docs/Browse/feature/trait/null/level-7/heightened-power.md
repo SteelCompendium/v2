@@ -8,4 +8,6 @@ type: trait
 
 # Heightened Power
 
+---
+
 If the ability deals rolled damage, it deals extra damage equal to your Intuition score.

@@ -17,6 +17,8 @@ type: ability
 
 # Reap
 
+---
+
 *The gods reward those who smite their foes.*
 
 | **Magic, Ranged**  |     **Maneuver** |

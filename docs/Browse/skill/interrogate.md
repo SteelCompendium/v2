@@ -6,4 +6,6 @@ type: skill
 
 # Interrogate
 
+---
+
 Obtain information from a creature withholding it.

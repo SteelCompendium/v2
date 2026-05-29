@@ -8,4 +8,6 @@ type: trait
 
 # Distance Augmentation
 
+---
+
 Your ranged psionic abilities gain a +2 bonus to distance.

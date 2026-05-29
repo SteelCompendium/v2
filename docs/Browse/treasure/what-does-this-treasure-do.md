@@ -6,6 +6,8 @@ type: treasure
 
 # What Does This Treasure Do?
 
+---
+
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
 > **Treasure Item Prerequisite**

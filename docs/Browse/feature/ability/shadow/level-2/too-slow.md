@@ -18,6 +18,8 @@ type: ability
 
 # Too Slow
 
+---
+
 *Your foe made a big mistake.*
 
 | **-**                  | **Free triggered** |

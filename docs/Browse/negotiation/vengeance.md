@@ -6,6 +6,8 @@ type: negotiation
 
 # Vengeance
 
+---
+
 An NPC with the [vengeance](vengeance.md) motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
 An NPC with the [vengeance](vengeance.md) pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.

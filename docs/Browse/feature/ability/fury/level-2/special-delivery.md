@@ -17,6 +17,8 @@ type: ability
 
 # Special Delivery
 
+---
+
 *You ready?*
 
 | **Melee, Weapon** |            **Maneuver** |

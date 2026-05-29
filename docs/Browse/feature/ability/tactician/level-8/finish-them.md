@@ -18,6 +18,8 @@ type: ability
 
 # Finish Them!
 
+---
+
 *You point out an opening to your ally so they can land a killing blow.*
 
 | **Ranged**       |  **Free triggered** |

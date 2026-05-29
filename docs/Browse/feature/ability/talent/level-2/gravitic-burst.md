@@ -21,6 +21,8 @@ type: ability
 
 # Gravitic Burst
 
+---
+
 *Everyone get away from me!*
 
 | **Area, Psionic, Telekinesis** |               **Main action** |

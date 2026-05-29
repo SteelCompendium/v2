@@ -8,4 +8,6 @@ type: trait
 
 # Essential Being
 
+---
+
 When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.

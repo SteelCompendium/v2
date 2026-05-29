@@ -9,6 +9,8 @@ type: treasure
 
 # 4th-Echelon Trinkets
 
+---
+
 This section presents 4th-echelon trinket treasures in alphabetical order.
 
 ##### Gravekeeper's Lantern

@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [2nd-Level Specialization Feature](2nd-level-specialization-feature.md)

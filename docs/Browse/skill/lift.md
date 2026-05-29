@@ -6,4 +6,6 @@ type: skill
 
 # Lift
 
+---
+
 Pick up, carry, and throw heavy objects.

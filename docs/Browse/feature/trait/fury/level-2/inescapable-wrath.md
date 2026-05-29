@@ -8,4 +8,6 @@ type: trait
 
 # Inescapable Wrath
 
+---
+
 You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../../../../movement/difficult-terrain.md).

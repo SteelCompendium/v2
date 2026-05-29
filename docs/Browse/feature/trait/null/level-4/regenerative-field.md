@@ -8,4 +8,6 @@ type: trait
 
 # Regenerative Field
 
+---
+
 The first time each combat round that an enemy in the area of your [Null](../../../../class/null.md) Field ability uses a main action, you gain 2 discipline instead of 1.

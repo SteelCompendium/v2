@@ -22,6 +22,8 @@ type: ability
 
 # En Garde!
 
+---
+
 *Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 
 | **Melee, Strike, Weapon** |     **Main action** |

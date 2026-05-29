@@ -23,6 +23,8 @@ type: ability
 
 # Mindwipe
 
+---
+
 *You attempt to make them forget all their training.*
 
 | **Melee, Psionic, Strike, Telepathy** |     **Main action** |

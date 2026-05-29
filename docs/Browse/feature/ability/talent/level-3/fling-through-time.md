@@ -23,6 +23,8 @@ type: ability
 
 # Fling Through Time
 
+---
+
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
 | **Chronopathy, Psionic, Ranged**, **Strike** |               **Main action** |

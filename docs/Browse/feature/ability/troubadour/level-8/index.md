@@ -1,5 +1,7 @@
 # Level 8
 
+---
+
 <div class="browse-index" markdown>
 
 - [Dramatic Reveal](dramatic-reveal.md)

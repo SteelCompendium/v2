@@ -1,5 +1,7 @@
 # Traits
 
+---
+
 <details class="browse-expand" markdown>
 <summary><a href="censor/">Censor</a></summary>
 

@@ -22,6 +22,8 @@ type: ability
 
 # Terror Manifest
 
+---
+
 *"I know what you fear."*
 
 | **Magic, Ranged, Strike**  |     **Main action** |

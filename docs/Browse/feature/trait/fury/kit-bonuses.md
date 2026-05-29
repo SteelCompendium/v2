@@ -7,4 +7,6 @@ type: trait
 
 # Kit Bonuses
 
+---
+
 These bonuses apply in your true form, your [animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../../../Read/chapter/kits.md) for information on [kit bonuses](boren/kit-bonuses.md).

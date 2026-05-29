@@ -8,4 +8,6 @@ type: trait
 
 # Blessed Domain
 
+---
+
 Whenever you gain piety from a domain effect, you gain 1 additional piety.

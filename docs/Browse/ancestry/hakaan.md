@@ -7,6 +7,8 @@ type: ancestry
 
 # Hakaan
 
+---
+
 In spite of their friendly, outgoing nature, the rare presence of a [hakaan](hakaan.md) in [human](human.md) society is considered a harbinger. An omen of dark times.
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.

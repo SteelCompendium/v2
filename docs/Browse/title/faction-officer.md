@@ -8,6 +8,8 @@ type: title
 
 # Faction Officer
 
+---
+
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
 **Prerequisite:** You have the [Faction Member](faction-member.md) title, and you greatly advance the faction's goals.

@@ -22,6 +22,8 @@ type: ability
 
 # Action Hero
 
+---
+
 *You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*
 
 | **Area, Melee, Weapon** |               **Main action** |

@@ -8,6 +8,8 @@ type: trait
 
 # Stasis Shield
 
+---
+
 You have the following ability.
 
 ##### Stasis Shield (3 Clarity)

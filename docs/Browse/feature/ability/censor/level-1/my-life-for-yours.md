@@ -19,6 +19,8 @@ type: ability
 
 # My Life for Yours
 
+---
+
 *You channel some of your vitality into more resilience for you or an ally.*
 
 | **Magic, Ranged** |           **Triggered** |

@@ -18,6 +18,8 @@ type: ability
 
 # Reflector Field
 
+---
+
 *A protective field reverses the momentum of incoming attacks.*
 
 | **Area, Psionic, Telepathy** | **Main action** |

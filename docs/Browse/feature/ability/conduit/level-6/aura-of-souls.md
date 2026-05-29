@@ -17,6 +17,8 @@ type: ability
 
 # Aura of Souls
 
+---
+
 *A whirlwind of souls of the dead flies around you at your command.*
 
 | **Area, Magic**  |                     **Maneuver** |

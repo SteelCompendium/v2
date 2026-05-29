@@ -7,6 +7,8 @@ type: trait
 
 # Devil Traits
 
+---
+
 [Devil](../../../ancestry/devil.md) heroes have access to the following traits.
 
 #### Signature Trait: Silver Tongue

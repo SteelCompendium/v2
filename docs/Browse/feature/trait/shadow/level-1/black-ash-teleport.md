@@ -8,6 +8,8 @@ type: trait
 
 # Black Ash Teleport
 
+---
+
 You have the following ability.
 
 ###### Black Ash [Teleport](../../../../movement/teleport.md)

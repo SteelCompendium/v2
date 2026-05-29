@@ -6,4 +6,6 @@ type: skill
 
 # Swim
 
+---
+
 Move through deep liquid.

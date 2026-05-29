@@ -1,5 +1,7 @@
 # Level 7
 
+---
+
 <div class="browse-index" markdown>
 
 - [7th-Level Doctrine Feature](7th-level-doctrine-feature.md)

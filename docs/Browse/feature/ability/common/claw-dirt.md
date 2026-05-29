@@ -15,6 +15,8 @@ type: ability
 
 # Claw Dirt
 
+---
+
 | **-**       | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |

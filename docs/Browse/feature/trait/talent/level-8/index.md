@@ -1,5 +1,7 @@
 # Level 8
 
+---
+
 <div class="browse-index" markdown>
 
 - [8th-Level Tradition Features](8th-level-tradition-features.md)

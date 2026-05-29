@@ -8,6 +8,8 @@ type: trait
 
 # Covenant of the Heart
 
+---
+
 You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../level-4/invocation-of-the-heart.md) feature. Additionally, you have the following ability.
 
 ###### Guided to Your Side

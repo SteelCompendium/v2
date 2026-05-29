@@ -8,4 +8,6 @@ type: trait
 
 # Extended Power
 
+---
+
 If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.

@@ -18,6 +18,8 @@ type: ability
 
 # Repel
 
+---
+
 *They aren't going anywhere, but you might!*
 
 | **Psionic, Ranged** |           **Triggered** |

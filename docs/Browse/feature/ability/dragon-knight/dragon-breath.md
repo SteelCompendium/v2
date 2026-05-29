@@ -16,6 +16,8 @@ type: ability
 
 # Dragon Breath
 
+---
+
 *A furious exhalation of energy washes over your foes.*
 
 | **Area, Magic**        |               **Main action** |

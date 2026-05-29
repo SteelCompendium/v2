@@ -12,6 +12,8 @@ type: ability
 
 # Escape Grab
 
+---
+
 | **-**       | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |

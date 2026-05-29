@@ -7,6 +7,8 @@ type: trait
 
 # High Elf Traits
 
+---
+
 [High elf](../../../ancestry/high-elf.md) heroes have access to the following traits.
 
 #### Signature Trait: High Elf Glamor

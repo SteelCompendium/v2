@@ -1,5 +1,7 @@
 # Maneuvers
 
+---
+
 <div class="browse-index" markdown>
 
 - [Aid Attack](aid-attack.md)

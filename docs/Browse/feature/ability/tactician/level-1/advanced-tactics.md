@@ -18,6 +18,8 @@ type: ability
 
 # Advanced Tactics
 
+---
+
 *Your leadership aids an ally.*
 
 | **Ranged**       |   **Triggered** |

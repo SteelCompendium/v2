@@ -21,6 +21,8 @@ type: ability
 
 # Pinning Shot
 
+---
+
 *One missile—placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |

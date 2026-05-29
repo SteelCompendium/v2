@@ -17,6 +17,8 @@ type: ability
 
 # Riposte
 
+---
+
 *"I'd have brought treats had I known I'd be fighting a dog."*
 
 | **Melee**      |           **Triggered** |

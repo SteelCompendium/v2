@@ -8,4 +8,6 @@ type: trait
 
 # Vanishing Ward
 
+---
+
 Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.

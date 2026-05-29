@@ -21,6 +21,8 @@ type: ability
 
 # Extensive Rewrites
 
+---
+
 *No, this isn't right. That foe was over there!*
 
 | **Area, Magic** |                  **Maneuver** |

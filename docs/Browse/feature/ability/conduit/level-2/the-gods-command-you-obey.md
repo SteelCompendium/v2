@@ -21,6 +21,8 @@ type: ability
 
 # The Gods Command You Obey
 
+---
+
 *You speak with the voice of your saint, commanding your enemies.*
 
 | **Magic, Ranged, Strike** |     **Main action** |

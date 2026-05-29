@@ -21,6 +21,8 @@ type: ability
 
 # Halt Miscreant!
 
+---
+
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
 | **Melee, Strike, Weapon**  |               **Main action** |

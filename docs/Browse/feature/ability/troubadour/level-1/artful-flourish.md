@@ -23,6 +23,8 @@ type: ability
 
 # Artful Flourish
 
+---
+
 *And they said practicing fencing was a waste!*
 
 | **Melee, Strike, Weapon** |                 **Main action** |

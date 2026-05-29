@@ -8,4 +8,6 @@ type: trait
 
 # Spirit Ward
 
+---
+
 Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.

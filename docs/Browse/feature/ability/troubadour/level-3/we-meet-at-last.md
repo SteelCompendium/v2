@@ -17,6 +17,8 @@ type: ability
 
 # We Meet at Last
 
+---
+
 *You magically intertwine your fate with another creature—for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |

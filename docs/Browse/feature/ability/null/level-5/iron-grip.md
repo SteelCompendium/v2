@@ -23,6 +23,8 @@ type: ability
 
 # Iron Grip
 
+---
+
 *You grab the target with supernatural force.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

@@ -17,6 +17,8 @@ type: ability
 
 # Rising Tension
 
+---
+
 *You narrate the tension of the scene and put all hope into your protagonist to turn things around.*
 
 | **Magic, Ranged** |    **Maneuver** |

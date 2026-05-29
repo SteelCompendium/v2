@@ -8,6 +8,8 @@ type: title
 
 # Fey Friend
 
+---
+
 *Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
 
 **Prerequisite:** You eat and drink with an elf [monarch](monarch.md) or archfey.

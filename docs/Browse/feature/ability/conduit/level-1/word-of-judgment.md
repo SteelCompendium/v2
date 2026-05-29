@@ -19,6 +19,8 @@ type: ability
 
 # Word of Judgment
 
+---
+
 *Your holy word saps an attacking enemy's strength.*
 
 | **Magic, Ranged**  |     **Triggered** |

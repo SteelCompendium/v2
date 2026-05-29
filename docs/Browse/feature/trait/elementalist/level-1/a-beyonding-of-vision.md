@@ -8,6 +8,8 @@ type: trait
 
 # A Beyonding of Vision
 
+---
+
 You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
 You also gain the following ability.

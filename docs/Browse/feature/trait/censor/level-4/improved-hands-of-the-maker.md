@@ -8,4 +8,6 @@ type: trait
 
 # Improved Hands of the Maker
 
+---
+
 When you use your [Hands of the Maker](../../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is size 2 or smaller.

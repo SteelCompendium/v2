@@ -21,6 +21,8 @@ type: ability
 
 # Entropic Field
 
+---
+
 *You drastically increase the local entropy.*
 
 | **Area, Psionic, Weapon** |               **Main action** |

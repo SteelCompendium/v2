@@ -22,6 +22,8 @@ type: ability
 
 # Debilitating Strike
 
+---
+
 *You need just one blow to sabotage your target.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

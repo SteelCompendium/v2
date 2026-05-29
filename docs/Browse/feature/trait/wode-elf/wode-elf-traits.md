@@ -7,6 +7,8 @@ type: trait
 
 # Wode Elf Traits
 
+---
+
 [Wode elf](../../../ancestry/wode-elf.md) heroes have access to the following traits.
 
 #### Signature Trait: Wode Elf Glamor

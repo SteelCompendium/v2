@@ -22,6 +22,8 @@ type: ability
 
 # Their Lack of Focus Is Their Undoing
 
+---
+
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
 | **Magic, Ranged, Weapon** |      **Main action** |

@@ -8,6 +8,8 @@ type: trait
 
 # Talent Tradition
 
+---
+
 Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](../../../../class/talent.md) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.

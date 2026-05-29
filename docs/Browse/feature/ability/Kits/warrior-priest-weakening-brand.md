@@ -18,6 +18,8 @@ type: ability
 
 # Warrior Priest (Weakening Brand)
 
+---
+
 *The impact of your weapon brands your target for destruction.*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

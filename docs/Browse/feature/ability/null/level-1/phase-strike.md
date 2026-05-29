@@ -23,6 +23,8 @@ type: ability
 
 # Phase Strike
 
+---
+
 *For a moment, your foe slips out of phase with this manifold.*
 
 | **Melee, Psionic, Strike, Weapon** |                           **Main action** |

@@ -21,6 +21,8 @@ type: ability
 
 # Repent!
 
+---
+
 *You conjure memories of their sins to harry your foes.*
 
 | **Magic, Ranged, Strike**  |    **Main action**  |

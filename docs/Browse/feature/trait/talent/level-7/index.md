@@ -1,5 +1,7 @@
 # Level 7
 
+---
+
 <div class="browse-index" markdown>
 
 - [Ancestral Memory](ancestral-memory.md)

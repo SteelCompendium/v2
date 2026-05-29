@@ -22,6 +22,8 @@ type: ability
 
 # Shower of Blood
 
+---
+
 *You shock your foes with the brutality of your strike, resetting the balance of combat.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

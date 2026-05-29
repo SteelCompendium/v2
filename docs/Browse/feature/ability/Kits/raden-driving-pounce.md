@@ -21,6 +21,8 @@ type: ability
 
 # Raden (Driving Pounce)
 
+---
+
 *Your enemies try in vain to fall back from your pouncing attack.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

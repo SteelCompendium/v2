@@ -17,6 +17,8 @@ type: ability
 
 # Minor Telekinesis
 
+---
+
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
 | **Psionic, Ranged** |                                 **Maneuver** |

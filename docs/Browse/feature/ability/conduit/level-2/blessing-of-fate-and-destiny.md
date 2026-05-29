@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of Fate and Destiny
 
+---
+
 *Your enemies suffer their fate; your allies embrace their destiny!*
 
 | **Magic, Ranged**  |        **Main action** |

@@ -22,6 +22,8 @@ type: ability
 
 # Banish
 
+---
+
 *You sever the target's tenuous connection to the world.*
 
 | **Melee, Strike, Weapon**  |     **Main action** |

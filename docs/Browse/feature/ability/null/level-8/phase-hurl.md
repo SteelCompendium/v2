@@ -23,6 +23,8 @@ type: ability
 
 # Phase Hurl
 
+---
+
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

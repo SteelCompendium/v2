@@ -8,4 +8,6 @@ type: trait
 
 # Skill
 
+---
+
 You gain one skill of your choice.

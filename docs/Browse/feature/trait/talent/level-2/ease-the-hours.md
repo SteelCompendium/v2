@@ -8,4 +8,6 @@ type: trait
 
 # Ease the Hours
 
+---
+
 You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.

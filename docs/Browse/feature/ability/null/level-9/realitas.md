@@ -23,6 +23,8 @@ type: ability
 
 # Realitas
 
+---
+
 *Your essential hyperreality disrupts your enemy's connection to existence.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

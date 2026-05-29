@@ -18,6 +18,8 @@ type: ability
 
 # Cuirass of the Gods
 
+---
+
 *Your allies are covered in spiritual armor.*
 
 | **Area, Magic, Ranged**  |           **Maneuver** | 

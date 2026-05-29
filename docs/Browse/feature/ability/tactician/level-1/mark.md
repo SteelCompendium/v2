@@ -15,6 +15,8 @@ type: ability
 
 # Mark
 
+---
+
 *You draw your allies' attention to a specific foe—with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |

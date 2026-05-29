@@ -16,6 +16,8 @@ type: ability
 
 # Win This Day!
 
+---
+
 *You inspire your allies to recover and gather their strength.*
 
 | **Area**       |                       **Main action** |

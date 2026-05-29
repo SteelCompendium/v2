@@ -6,4 +6,6 @@ type: skill
 
 # Conceal Object
 
+---
+
 Hide an object on your person or in your environment.

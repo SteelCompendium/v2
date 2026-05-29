@@ -8,6 +8,8 @@ type: trait
 
 # See Your Enemies Driven Before You
 
+---
+
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
 **Mark Benefit:** When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then [shift](../../../../movement/shifting.md) up to a number of squares equal to your Reason score, ending this [shift](../../../../movement/shifting.md) adjacent to the target.

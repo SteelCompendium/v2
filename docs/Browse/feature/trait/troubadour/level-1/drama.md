@@ -8,6 +8,8 @@ type: trait
 
 # Drama
 
+---
+
 During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
 
 ##### Drama in Combat

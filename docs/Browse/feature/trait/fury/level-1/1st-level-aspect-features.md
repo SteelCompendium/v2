@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level Aspect Features
 
+---
+
 Your [primordial aspect](primordial-aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
 ###### 1st-Level Aspect Features Table

@@ -16,6 +16,8 @@ type: ability
 
 # Gods Grant Thee Strength
 
+---
+
 *You channel divine force for movement that cannot be stopped.*
 
 | **Ranged** |         **Main action** |

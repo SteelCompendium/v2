@@ -8,6 +8,8 @@ type: complication
 
 # Wrongly Imprisoned
 
+---
+
 You spent many years imprisoned for a crime you didn't commit. During your long hours of solitary confinement, you honed your skills and recited the names of those who framed you. Someday, you will have your revenge.
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.

@@ -16,6 +16,8 @@ type: ability
 
 # Squad! On Me!
 
+---
+
 *Together we are invincible!*
 
 | **Area**       |                          **Maneuver** |

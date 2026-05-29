@@ -23,6 +23,8 @@ type: ability
 
 # Awe
 
+---
+
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
 | **Psionic, Ranged, Strike, Telepathy** |     **Main action** |

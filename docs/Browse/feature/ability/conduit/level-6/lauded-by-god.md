@@ -17,6 +17,8 @@ type: ability
 
 # Lauded by God
 
+---
+
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
 
 | **Magic, Ranged**  |      **Maneuver** |

@@ -6,4 +6,6 @@ type: skill
 
 # Rumors
 
+---
+
 Knowing gossip, legends, and uncertain truths.

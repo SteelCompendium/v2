@@ -16,6 +16,8 @@ type: ability
 
 # Guided to Your Side
 
+---
+
 *You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.*
 
 | **Magic, Ranged**  |           **Main action** |

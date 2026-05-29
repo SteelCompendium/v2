@@ -8,6 +8,8 @@ type: trait
 
 # Fortress of Perfect Thought
 
+---
+
 Your mind is an impenetrable palace that shields you from danger. You gain the following effects:
 
 - You can breathe even when there is no breathable air.

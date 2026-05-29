@@ -17,6 +17,8 @@ type: ability
 
 # Dual Wielder (Double Strike)
 
+---
+
 *Why strike once when you could do it twice?*
 
 | **Melee, Strike, Weapon** |                 **Main action** |

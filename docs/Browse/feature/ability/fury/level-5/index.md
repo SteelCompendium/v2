@@ -1,5 +1,7 @@
 # Level 5
 
+---
+
 <div class="browse-index" markdown>
 
 - [Debilitating Strike](debilitating-strike.md)

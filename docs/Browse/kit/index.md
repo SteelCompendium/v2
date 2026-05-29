@@ -1,5 +1,7 @@
 # Kits
 
+---
+
 <div class="browse-index" markdown>
 
 - [Arcane Archer](arcane-archer.md)

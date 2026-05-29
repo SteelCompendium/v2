@@ -16,6 +16,8 @@ type: ability
 
 # Squad! Remember Your Training!
 
+---
+
 *You remind your allies how to best use their gear.*
 
 | **Ranged**                |                         **Main action** |

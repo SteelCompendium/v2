@@ -23,6 +23,8 @@ type: ability
 
 # Stasis Field
 
+---
+
 *Keep everything as it was. Ignore everything that will be.*
 
 | **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |

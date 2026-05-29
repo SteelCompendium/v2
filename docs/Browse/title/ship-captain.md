@@ -8,6 +8,8 @@ type: title
 
 # Ship Captain
 
+---
+
 *Up anchor, shipmates! 'Tisn't gold but glory we seek!*
 
 **Prerequisite:** You acquire a ship, airship, or similar vessel.

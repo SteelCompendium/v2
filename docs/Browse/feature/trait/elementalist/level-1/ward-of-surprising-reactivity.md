@@ -8,4 +8,6 @@ type: trait
 
 # Ward of Surprising Reactivity
 
+---
+
 You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your Reason score.

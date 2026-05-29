@@ -19,6 +19,8 @@ type: ability
 
 # Power Chord
 
+---
+
 *Your instrument rings true and your music blows everyone away.*
 
 | **Area, Magic** |                  **Maneuver** |

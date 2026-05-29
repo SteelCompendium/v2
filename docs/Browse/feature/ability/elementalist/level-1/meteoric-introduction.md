@@ -22,6 +22,8 @@ type: ability
 
 # Meteoric Introduction
 
+---
+
 *You give your enemy a gentle tap-like an asteroid impact.*
 
 | **Earth, Magic, Melee, Strike** |               **Main action** |

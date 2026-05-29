@@ -15,6 +15,8 @@ type: ability
 
 # Faithful Friend
 
+---
+
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
 
 | **Magic**   | **Main action** |

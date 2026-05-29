@@ -23,6 +23,8 @@ type: ability
 
 # Relentless Nemesis
 
+---
+
 *You strike, and for the next few moments, your enemy can't escape you.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

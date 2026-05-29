@@ -19,6 +19,8 @@ type: ability
 
 # Prescient Grace
 
+---
+
 *Gifted by a prescient vision, you warn an ally of an impending attack.*
 
 | **Magic, Ranged** |          **Triggered** |

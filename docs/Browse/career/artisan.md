@@ -11,6 +11,8 @@ type: career
 
 # Artisan
 
+---
+
 You made and sold useful wares. In defining your career, think about the following questions:
 
 - What did you create?

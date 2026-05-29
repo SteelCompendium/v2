@@ -8,4 +8,6 @@ type: trait
 
 # A Muse's Muse
 
+---
+
 At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.

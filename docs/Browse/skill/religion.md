@@ -6,4 +6,6 @@ type: skill
 
 # Religion
 
+---
+
 Knowing about religious mythology, practices, and rituals.

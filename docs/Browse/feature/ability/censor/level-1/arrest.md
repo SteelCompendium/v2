@@ -23,6 +23,8 @@ type: ability
 
 # Arrest
 
+---
+
 *"I got you, you son of a bitch."*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

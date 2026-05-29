@@ -21,6 +21,8 @@ type: ability
 
 # Death... Death!
 
+---
+
 *Your unbridled rage strikes terror in their hearts.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

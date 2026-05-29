@@ -8,4 +8,6 @@ type: trait
 
 # Animal Form: Wolf
 
+---
+
 While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../../../../movement/difficult-terrain.md).

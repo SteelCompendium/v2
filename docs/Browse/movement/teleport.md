@@ -6,6 +6,8 @@ type: movement
 
 # Teleport
 
+---
+
 When a creature [teleports](teleport.md), they move from one space to another space instantaneously. The following rules apply to [teleporting](teleport.md):
 
 - [Teleporting](teleport.md) doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.

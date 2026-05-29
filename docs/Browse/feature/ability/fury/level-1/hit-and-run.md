@@ -22,6 +22,8 @@ type: ability
 
 # Hit and Run
 
+---
+
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

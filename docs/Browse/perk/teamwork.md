@@ -6,4 +6,6 @@ type: perk
 
 # Teamwork
 
+---
+
 When you take your first turn during any montage test, you can both make a test and assist another hero's test.

@@ -8,4 +8,6 @@ type: trait
 
 # Aspect Benefits
 
+---
+
 Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.

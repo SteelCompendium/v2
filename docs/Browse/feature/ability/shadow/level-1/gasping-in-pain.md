@@ -22,6 +22,8 @@ type: ability
 
 # Gasping in Pain
 
+---
+
 *Your precise strikes let your allies take advantage of a target's agony.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

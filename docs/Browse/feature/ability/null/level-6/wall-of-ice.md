@@ -18,6 +18,8 @@ type: ability
 
 # Wall of Ice
 
+---
+
 *You create a [wall of ice](wall-of-ice.md).*
 
 | **Area, Psionic, Ranged** | **Main action** |

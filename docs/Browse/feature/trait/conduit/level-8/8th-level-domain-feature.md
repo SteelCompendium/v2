@@ -8,4 +8,6 @@ type: trait
 
 # 8th-Level Domain Feature
 
+---
+
 You gain the 7th-level domain feature for the domain whose feature you didn't select at that level (see 7th-Level Domain Feature).

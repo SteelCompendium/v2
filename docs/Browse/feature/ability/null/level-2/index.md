@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [Blur](blur.md)

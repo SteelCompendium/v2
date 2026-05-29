@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level Class Act Features
 
+---
+
 Your [troubadour](../../../../class/troubadour.md) class act grants you two features, as shown on the 1st-Level Class Act Features table.
 
 ###### 1st-Level Class Act Features Table

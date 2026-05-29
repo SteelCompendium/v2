@@ -18,6 +18,8 @@ type: ability
 
 # No More Than a Breeze
 
+---
+
 *The material substance of a creature shreds away at your command.*
 
 | **Magic, Ranged, Void** |            **Maneuver** |

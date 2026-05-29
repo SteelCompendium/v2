@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level College Features
 
+---
+
 Your [shadow](../../../../class/shadow.md) college grants you one or two features, as shown on the 1st-Level College Features table.
 
 ###### 1st-Level College Features Table

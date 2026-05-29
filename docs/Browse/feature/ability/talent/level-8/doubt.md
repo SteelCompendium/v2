@@ -23,6 +23,8 @@ type: ability
 
 # Doubt
 
+---
+
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 
 | **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |

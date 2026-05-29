@@ -8,6 +8,8 @@ type: trait
 
 # Second Album
 
+---
+
 You have the following performance abilities, which are usable with your [Routines](../level-1/routines.md) feature.
 
 ###### "Fire Up the Night"

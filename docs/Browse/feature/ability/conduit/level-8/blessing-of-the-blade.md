@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of the Blade
 
+---
+
 *"The power of the gods is within you, friends. Allow me to unleash it."*
 
 | **Area, Magic**   |                          **Maneuver** |

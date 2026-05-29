@@ -8,6 +8,8 @@ type: trait
 
 # Trinity of Trickery
 
+---
+
 You have the following ability.
 
 ###### Trinity of Trickery (9 Wrath)

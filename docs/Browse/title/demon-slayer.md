@@ -8,6 +8,8 @@ type: title
 
 # Demon Slayer
 
+---
+
 *F'lath v'korr en zaratha g'rrack.*
 
 **Prerequisite:** You defeat a leader or solo creature with the Demon keyword, such as a soulraker hivequeen, or you are possessed by a demon.

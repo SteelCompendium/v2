@@ -6,4 +6,6 @@ type: skill
 
 # Tailoring
 
+---
+
 Craft clothing of cloth or leather.

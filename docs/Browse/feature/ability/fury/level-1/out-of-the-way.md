@@ -22,6 +22,8 @@ type: ability
 
 # Out of the Way!
 
+---
+
 *Your enemies will clear your path—whether they want to or not.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

@@ -1,5 +1,7 @@
 # Level 10
 
+---
+
 <div class="browse-index" markdown>
 
 - [Chaos Incarnate](chaos-incarnate.md)

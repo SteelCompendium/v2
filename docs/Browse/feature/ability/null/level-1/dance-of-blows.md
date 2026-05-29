@@ -22,6 +22,8 @@ type: ability
 
 # Dance of Blows
 
+---
+
 *You strike everywhere at once, tricking an enemy into moving out of position.*
 
 | **Area, Psionic, Weapon** |               **Main action** |

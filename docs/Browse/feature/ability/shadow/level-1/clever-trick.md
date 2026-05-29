@@ -18,6 +18,8 @@ type: ability
 
 # Clever Trick
 
+---
+
 *You sow a moment of confusion in combat, to your enemy's peril.*
 
 | **Magic**   | **Triggered** |

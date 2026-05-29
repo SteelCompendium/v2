@@ -19,6 +19,8 @@ type: ability
 
 # Intercede
 
+---
+
 *You take your ally's place.*
 
 | **Magic, Ranged** | **Free triggered** |

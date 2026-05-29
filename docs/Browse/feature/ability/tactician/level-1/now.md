@@ -16,6 +16,8 @@ type: ability
 
 # Now!
 
+---
+
 *Your allies wait for your command—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |

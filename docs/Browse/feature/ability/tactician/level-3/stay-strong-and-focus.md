@@ -16,6 +16,8 @@ type: ability
 
 # Stay Strong and Focus!
 
+---
+
 *"We can do this! Keep faith and hold fast!"*
 
 | **-**       | **Maneuver** |

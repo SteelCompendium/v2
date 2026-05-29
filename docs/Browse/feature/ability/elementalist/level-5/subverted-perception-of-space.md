@@ -22,6 +22,8 @@ type: ability
 
 # Subverted Perception of Space
 
+---
+
 *You rip an enemy's world in twain.*
 
 | **Magic, Ranged, Strike, Void** |               **Main action** |

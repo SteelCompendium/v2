@@ -8,6 +8,8 @@ type: chapter
 
 # Tests
 
+---
+
 When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you'll need to make a test to determine how successful you are at the task. A test is any power roll that has failure or consequences as an option.
 
 ### When to Make a Test

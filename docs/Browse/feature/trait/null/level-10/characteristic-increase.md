@@ -8,4 +8,6 @@ type: trait
 
 # Characteristic Increase
 
+---
+
 Your Agility and Intuition scores each increase to 5.

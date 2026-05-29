@@ -8,6 +8,8 @@ type: trait
 
 # Wrath
 
+---
+
 The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../../../class/censor.md) those your church deems to be heretics.
 
 ##### Wrath in Combat

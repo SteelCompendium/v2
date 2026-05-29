@@ -15,6 +15,8 @@ type: ability
 
 # Grave Speech
 
+---
+
 *You commune with the lingering soul of the recently dead.*
 
 | **Magic**      |             **Maneuver** |

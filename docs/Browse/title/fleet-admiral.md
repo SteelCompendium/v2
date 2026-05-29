@@ -8,6 +8,8 @@ type: title
 
 # Fleet Admiral
 
+---
+
 *All hail the Pirate Queen!*
 
 **Prerequisite:** You have the [Corsair](corsair.md) title, and you lead a fleet of at least three ships.

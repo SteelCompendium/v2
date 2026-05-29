@@ -23,6 +23,8 @@ type: ability
 
 # Black Ash Eruption
 
+---
+
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

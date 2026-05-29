@@ -8,4 +8,6 @@ type: trait
 
 # Foreshadowing
 
+---
+
 You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false.

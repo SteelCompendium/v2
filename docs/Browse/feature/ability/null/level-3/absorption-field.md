@@ -16,6 +16,8 @@ type: ability
 
 # Absorption Field
 
+---
+
 *Your [null](../../../../class/null.md) field absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |

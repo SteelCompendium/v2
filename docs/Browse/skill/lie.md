@@ -6,4 +6,6 @@ type: skill
 
 # Lie
 
+---
+
 Convince someone that a falsehood is true.

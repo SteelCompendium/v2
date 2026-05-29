@@ -21,6 +21,8 @@ type: ability
 
 # Corven (Wing Buffet)
 
+---
+
 *Foes who try to close in around you do so at their peril.*
 
 | **Area, Melee, Weapon** |               **Main action** |

@@ -6,4 +6,6 @@ type: skill
 
 # Jump
 
+---
+
 Leap vertical and horizontal distances.

@@ -17,6 +17,8 @@ type: ability
 
 # Grab
 
+---
+
 | **Melee, Weapon** |        **Maneuver** |
 |-------------------|--------------------:|
 | **📏 Melee 1**    | **🎯 One creature** |

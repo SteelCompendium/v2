@@ -22,6 +22,8 @@ type: ability
 
 # Ray of Agonizing Self-Reflection
 
+---
+
 *You inflict pain and doubt in equal measure.*
 
 | **Magic, Ranged, Strike, Void** |               **Main action** | 

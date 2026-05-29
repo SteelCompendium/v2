@@ -17,6 +17,8 @@ type: ability
 
 # Detonate Sigil
 
+---
+
 *A magic sigil you placed on a creature explodes with energy.*
 
 | **Magic, Ranged, Strike** |                        **Main action** |

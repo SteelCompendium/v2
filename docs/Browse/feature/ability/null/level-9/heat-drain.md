@@ -22,6 +22,8 @@ type: ability
 
 # Heat Drain
 
+---
+
 *You drain all the heat from the target.*
 
 | **Melee, Psionic, Strike** |        **Maneuver** |

@@ -16,6 +16,8 @@ type: ability
 
 # Sword And Board (Shield Bash)
 
+---
+
 *In your hands, a shield isn't just for protection.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

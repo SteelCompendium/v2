@@ -24,6 +24,8 @@ type: ability
 
 # No Dying on My Watch
 
+---
+
 *You prioritize saving an ally over your own safety.*
 
 | **Ranged, Strike, Weapon** |    **Triggered** |

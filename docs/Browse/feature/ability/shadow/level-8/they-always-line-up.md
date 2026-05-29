@@ -21,6 +21,8 @@ type: ability
 
 # They Always Line Up
 
+---
+
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
 
 | **Area, Ranged, Weapon**   |               **Main action** |

@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [Allow Me to Introduce Tonight's Players](allow-me-to-introduce-tonights-players.md)

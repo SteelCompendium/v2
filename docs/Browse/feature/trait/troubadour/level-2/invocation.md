@@ -8,4 +8,6 @@ type: trait
 
 # Invocation
 
+---
+
 You have a specific manner that helps define your presence on the battlefield. Choose one of the following features.

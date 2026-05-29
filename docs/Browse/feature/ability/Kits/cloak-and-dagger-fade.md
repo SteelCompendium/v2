@@ -17,6 +17,8 @@ type: ability
 
 # Cloak And Dagger (Fade)
 
+---
+
 *A stab, and a few quick, careful steps back.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

@@ -22,6 +22,8 @@ type: ability
 
 # Sacrificial Offer
 
+---
+
 *Divine magic tears at your foe and defends a nearby friend.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |

@@ -8,4 +8,6 @@ type: trait
 
 # Kinetic Amplifier
 
+---
+
 Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.

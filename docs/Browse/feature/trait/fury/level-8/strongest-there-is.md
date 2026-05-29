@@ -8,4 +8,6 @@ type: trait
 
 # Strongest There Is
 
+---
+
 Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.

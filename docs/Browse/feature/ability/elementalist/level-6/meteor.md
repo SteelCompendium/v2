@@ -24,6 +24,8 @@ type: ability
 
 # Meteor
 
+---
+
 *You [teleport](../../../../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
 
 | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |

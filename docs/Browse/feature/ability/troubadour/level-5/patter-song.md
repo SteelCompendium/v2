@@ -20,6 +20,8 @@ type: ability
 
 # Patter Song
 
+---
+
 *Dazzle them with your fancy patter and they forget where they were.*
 
 | **Magic, Ranged** |   **Maneuver** |

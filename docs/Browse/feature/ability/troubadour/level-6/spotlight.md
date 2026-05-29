@@ -17,6 +17,8 @@ type: ability
 
 # Spotlight
 
+---
+
 *The audience is watching, so you'd better give them a show.*
 
 | **Area, Magic, Performance** |                         **No action** |

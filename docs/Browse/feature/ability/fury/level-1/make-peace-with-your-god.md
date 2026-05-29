@@ -16,6 +16,8 @@ type: ability
 
 # Make Peace With Your God!
 
+---
+
 *Anger is your energy.*
 
 | **-**       | **Free maneuver** |

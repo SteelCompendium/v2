@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of Steel
 
+---
+
 *A protective aura defends your allies from harm.*
 
 | **Area, Magic**   |                          **Maneuver** |

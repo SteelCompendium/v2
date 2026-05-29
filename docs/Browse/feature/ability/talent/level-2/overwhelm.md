@@ -22,6 +22,8 @@ type: ability
 
 # Overwhelm
 
+---
+
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 
 | **Psionic, Ranged, Strike, Telepathy** |     **Main action** |

@@ -6,4 +6,6 @@ type: perk
 
 # Master of Disguise
 
+---
+
 You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.

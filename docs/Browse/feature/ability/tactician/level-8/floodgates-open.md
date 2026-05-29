@@ -16,6 +16,8 @@ type: ability
 
 # Floodgates Open
 
+---
+
 *You direct your squad to strike in unison and with devastating effect.*
 
 | **Ranged**       |     **Main action** |

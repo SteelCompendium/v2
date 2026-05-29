@@ -6,4 +6,6 @@ type: skill
 
 # Monsters
 
+---
+
 Knowing monster ecology, strengths, and weaknesses.

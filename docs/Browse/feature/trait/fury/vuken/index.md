@@ -1,5 +1,7 @@
 # Vuken
 
+---
+
 <div class="browse-index" markdown>
 
 - [Animal Form: Wolf](animal-form-wolf.md)

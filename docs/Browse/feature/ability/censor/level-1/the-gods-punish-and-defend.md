@@ -23,6 +23,8 @@ type: ability
 
 # The Gods Punish and Defend
 
+---
+
 *You channel holy energy to smite a foe and heal an ally.*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

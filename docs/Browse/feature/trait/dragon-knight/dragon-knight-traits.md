@@ -7,6 +7,8 @@ type: trait
 
 # Dragon Knight Traits
 
+---
+
 [Dragon knight](../../../ancestry/dragon-knight.md) heroes have access to the following traits.
 
 #### Signature Trait: Wyrmplate

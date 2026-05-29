@@ -6,4 +6,6 @@ type: skill
 
 # Navigate
 
+---
+
 Read a map and travel without becoming lost.

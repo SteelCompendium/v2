@@ -22,6 +22,8 @@ type: ability
 
 # Assassinate
 
+---
+
 *A practiced attack will instantly kill an already weakened foe.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

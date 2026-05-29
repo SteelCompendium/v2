@@ -20,6 +20,8 @@ type: ability
 
 # Luminous Champion Aloft
 
+---
+
 *They shine vibrantly, a beautiful diamond in the night sky.*
 
 | **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |

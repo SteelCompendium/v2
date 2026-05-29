@@ -20,6 +20,8 @@ type: ability
 
 # Magma Titan
 
+---
+
 *Their body swells with lava, mud, and might, towering over their enemies.*
 
 | **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |

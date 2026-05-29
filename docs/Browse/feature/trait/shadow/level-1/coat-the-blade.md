@@ -8,6 +8,8 @@ type: trait
 
 # Coat the Blade
 
+---
+
 You have the following ability.
 
 ###### Coat the Blade

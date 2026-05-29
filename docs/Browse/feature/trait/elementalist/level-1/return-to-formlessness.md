@@ -8,6 +8,8 @@ type: trait
 
 # Return to Formlessness
 
+---
+
 You have the following ability.
 
 ###### Return to Formlessness

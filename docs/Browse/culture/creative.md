@@ -6,6 +6,8 @@ type: culture
 
 # Creative
 
+---
+
 A hero with a [creative](creative.md) upbringing was raised among folk who create art or other works valuable enough to trade. A [creative](creative.md) culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
 **Skill Options:** The [Music](../skill/music.md) or [Perform](../skill/perform.md) skill (from the interpersonal skill group), or one skill from the crafting group. (*Quick Build:* [Perform](../skill/perform.md).)

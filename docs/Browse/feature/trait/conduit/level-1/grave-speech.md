@@ -8,6 +8,8 @@ type: trait
 
 # Grave Speech
 
+---
+
 You have the following ability.
 
 ###### Grave Speech

@@ -8,6 +8,8 @@ type: trait
 
 # Blessing of Secrets
 
+---
+
 You have the following ability.
 
 ###### Blessing of Secrets

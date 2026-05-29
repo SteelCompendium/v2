@@ -21,6 +21,8 @@ type: ability
 
 # Curse of Terror
 
+---
+
 *Fear of divine judgment overwhelms your foe.*
 
 | **Magic, Ranged, Strike**  |                      **Main action** |

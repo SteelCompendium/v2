@@ -16,6 +16,8 @@ type: ability
 
 # Iron Body
 
+---
+
 *You focus until your body becomes as hard as iron.*
 
 | **Psionic** | **Maneuver** |

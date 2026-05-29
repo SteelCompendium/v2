@@ -6,6 +6,8 @@ type: trait
 
 # Escape Grab
 
+---
+
 A creature who is [grabbed](../../../../condition/grabbed.md) by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.
 
 ##### Escape Grab

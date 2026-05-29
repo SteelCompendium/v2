@@ -21,6 +21,8 @@ type: ability
 
 # Ray of Wrath
 
+---
+
 *You unleash a blast of holy light upon your foe.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |

@@ -6,4 +6,6 @@ type: skill
 
 # History
 
+---
+
 Knowing about significant past events.

@@ -21,6 +21,8 @@ type: ability
 
 # Blood on the Stage
 
+---
+
 *It's love and blood or drama and blood. Either way, there's always blood.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

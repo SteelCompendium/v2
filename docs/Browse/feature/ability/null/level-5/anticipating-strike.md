@@ -25,6 +25,8 @@ type: ability
 
 # Anticipating Strike
 
+---
+
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
 | **Melee, Psionic, Strike, Weapon** |  **Free triggered** |

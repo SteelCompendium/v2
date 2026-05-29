@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [2nd-Level College Feature](2nd-level-college-feature.md)

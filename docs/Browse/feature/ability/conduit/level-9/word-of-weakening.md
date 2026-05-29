@@ -22,6 +22,8 @@ type: ability
 
 # Word of Weakening
 
+---
+
 *You utter a divine word that makes a foe brittle.*
 
 | **Magic, Ranged, Strike** |               **Main action** |

@@ -21,6 +21,8 @@ type: ability
 
 # Holy Lash
 
+---
+
 *A tendril of divine energy shoots forth to draw in your foe.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |

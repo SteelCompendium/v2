@@ -8,4 +8,6 @@ type: trait
 
 # Psionic Leap
 
+---
+
 You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.

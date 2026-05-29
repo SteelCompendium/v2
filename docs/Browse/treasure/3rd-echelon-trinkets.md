@@ -10,6 +10,8 @@ type: treasure
 
 # 3rd-Echelon Trinkets
 
+---
+
 This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 ##### Bracers of Strife

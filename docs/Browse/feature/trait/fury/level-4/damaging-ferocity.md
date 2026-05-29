@@ -8,4 +8,6 @@ type: trait
 
 # Damaging Ferocity
 
+---
+
 The first time you take damage each combat round, you gain 2 ferocity instead of 1.

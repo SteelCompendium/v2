@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [In a Puff of Ash](in-a-puff-of-ash.md)

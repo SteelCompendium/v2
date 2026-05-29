@@ -8,4 +8,6 @@ type: trait
 
 # Ward of Excellent Protection
 
+---
+
 You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.

@@ -22,6 +22,8 @@ type: ability
 
 # Method Acting
 
+---
+
 *They're so hurt by your performance, you start to believe it yourself.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

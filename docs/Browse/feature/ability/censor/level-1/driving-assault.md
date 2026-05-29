@@ -22,6 +22,8 @@ type: ability
 
 # Driving Assault
 
+---
+
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
 | **Melee, Strike, Weapon**  |               **Main action** |

@@ -18,6 +18,8 @@ type: ability
 
 # Battlemind (Unmooring)
 
+---
+
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

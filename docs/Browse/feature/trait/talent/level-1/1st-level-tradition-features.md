@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level Tradition Features
 
+---
+
 Your [talent](../../../../class/talent.md) tradition grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ###### 1st-Level Tradition Features Table

@@ -8,6 +8,8 @@ type: title
 
 # Maestro
 
+---
+
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
 **Prerequisite:** You visit the realms of gods, [devils](../ancestry/devil.md), or other immortal beings and hear a note of the Music of Creation.

@@ -6,4 +6,6 @@ type: skill
 
 # Intimidate
 
+---
+
 Awe or scare a creature.

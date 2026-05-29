@@ -6,4 +6,6 @@ type: skill
 
 # Lead
 
+---
+
 Inspire people to action.

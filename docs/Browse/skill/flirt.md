@@ -6,4 +6,6 @@ type: skill
 
 # Flirt
 
+---
+
 Attract romantic attention from someone.

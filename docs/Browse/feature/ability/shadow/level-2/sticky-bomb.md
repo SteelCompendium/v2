@@ -20,6 +20,8 @@ type: ability
 
 # Sticky Bomb
 
+---
+
 *Explosives are best when they're attached to an enemy.*
 
 | **Ranged**       |     **Main action** |

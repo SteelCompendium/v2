@@ -1,5 +1,7 @@
 # Maneuvers
 
+---
+
 <div class="browse-index" markdown>
 
 - [Escape Grab](escape-grab.md)

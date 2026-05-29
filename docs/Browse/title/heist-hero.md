@@ -8,6 +8,8 @@ type: title
 
 # Heist Hero
 
+---
+
 *Everybody know their assignments? All right, let's go.*
 
 **Prerequisite:** You have the [Troupe Leading Player](troupe-leading-player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.

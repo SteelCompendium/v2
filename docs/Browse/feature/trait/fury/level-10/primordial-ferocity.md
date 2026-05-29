@@ -8,4 +8,6 @@ type: trait
 
 # Primordial Ferocity
 
+---
+
 The first time you take damage each combat round, you gain 3 ferocity instead of 2.

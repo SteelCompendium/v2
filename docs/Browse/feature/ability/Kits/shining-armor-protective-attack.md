@@ -17,6 +17,8 @@ type: ability
 
 # Shining Armor (Protective Attack)
 
+---
+
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

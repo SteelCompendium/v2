@@ -23,6 +23,8 @@ type: ability
 
 # In a Puff of Ash
 
+---
+
 *You enchant a strike with your [teleport](../../../../movement/teleport.md)ation magic.*
 
 | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |

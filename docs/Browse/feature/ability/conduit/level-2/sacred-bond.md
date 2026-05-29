@@ -17,6 +17,8 @@ type: ability
 
 # Sacred Bond
 
+---
+
 *You forge a divine connection between two creatures.*
 
 | **Magic, Ranged**  |             **Maneuver** |

@@ -22,6 +22,8 @@ type: ability
 
 # Hoarfrost
 
+---
+
 *You blast a foe with a pulse of cold energy.*
 
 | **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |

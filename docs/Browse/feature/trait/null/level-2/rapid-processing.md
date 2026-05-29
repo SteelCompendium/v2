@@ -8,4 +8,6 @@ type: trait
 
 # Rapid Processing
 
+---
+
 As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.

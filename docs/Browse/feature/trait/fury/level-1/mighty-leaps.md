@@ -8,4 +8,6 @@ type: trait
 
 # Mighty Leaps
 
+---
+
 You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](../../../../../Read/chapter/combat.md)).

@@ -8,4 +8,6 @@ type: trait
 
 # Disciple of Earth
 
+---
+
 Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to Stamina, and you gain an additional +3 bonus to Stamina whenever you gain a level past 2nd.

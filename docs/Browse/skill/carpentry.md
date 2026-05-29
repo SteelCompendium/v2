@@ -6,4 +6,6 @@ type: skill
 
 # Carpentry
 
+---
+
 Create items out of wood.

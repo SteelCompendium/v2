@@ -21,6 +21,8 @@ type: ability
 
 # Back!
 
+---
+
 *You hew about you with your mighty weapon, hurling enemies backward.*
 
 | **Area, Melee, Weapon** |               **Main action** |

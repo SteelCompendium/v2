@@ -6,6 +6,8 @@ type: negotiation
 
 # Protection
 
+---
+
 An NPC with the [protection](protection.md) motivation has land, people, information, items, or an organization they want protected above all else. Keeping
 
 their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the [protection](protection.md) motivation believes in doing so at any cost.

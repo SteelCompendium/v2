@@ -6,4 +6,6 @@ type: skill
 
 # Magic
 
+---
+
 Knowing about magical places, spells, rituals, items, and phenomena.

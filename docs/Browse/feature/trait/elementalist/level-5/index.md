@@ -1,5 +1,7 @@
 # Level 5
 
+---
+
 <div class="browse-index" markdown>
 
 - [5th-Level Specialization Feature](5th-level-specialization-feature.md)

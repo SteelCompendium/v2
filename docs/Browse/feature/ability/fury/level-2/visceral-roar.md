@@ -21,6 +21,8 @@ type: ability
 
 # Visceral Roar
 
+---
+
 *The sound of the storm within you staggers your opponents.*
 
 | **Area, Magic** |               **Main action** |

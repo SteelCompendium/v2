@@ -21,6 +21,8 @@ type: ability
 
 # Kinetic Pulse
 
+---
+
 *The force of your mind hurls enemies backward.*
 
 | **Area, Psionic, Telepathy** |               **Main action** |

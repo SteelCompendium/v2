@@ -17,6 +17,8 @@ type: ability
 
 # Encore
 
+---
+
 *Again! Again!*
 
 | **Magic, Strike** | **Main action** |

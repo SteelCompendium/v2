@@ -21,6 +21,8 @@ type: ability
 
 # Tide of Death
 
+---
+
 *Teach them the folly of lining up for you.*
 
 | **Melee, Weapon**      | **Main action** |

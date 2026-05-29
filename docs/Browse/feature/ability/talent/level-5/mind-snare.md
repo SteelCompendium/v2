@@ -23,6 +23,8 @@ type: ability
 
 # Mind Snare
 
+---
+
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 
 | **Psionic, Ranged, Strike, Telepathy** |     **Main action** |

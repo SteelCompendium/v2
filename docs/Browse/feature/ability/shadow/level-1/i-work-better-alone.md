@@ -23,6 +23,8 @@ type: ability
 
 # I Work Better Alone
 
+---
+
 *"It's better, just you and me. Isn't it?"*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

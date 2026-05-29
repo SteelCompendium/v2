@@ -22,6 +22,8 @@ type: ability
 
 # Concussive Strike
 
+---
+
 *Your precise strike leaves your foe struggling to respond.*
 
 | **Melee, Ranged, Strike, Weapon** |               **Main action** |

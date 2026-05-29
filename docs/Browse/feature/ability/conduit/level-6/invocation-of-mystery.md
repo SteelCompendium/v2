@@ -17,6 +17,8 @@ type: ability
 
 # Invocation of Mystery
 
+---
+
 *"Now you see us..."*
 
 | **Area, Magic**  |                          **Maneuver** |

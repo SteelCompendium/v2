@@ -22,6 +22,8 @@ type: ability
 
 # Deluge
 
+---
+
 *You summon your [primordial storm](../../../trait/fury/primordial-storm.md).*
 
 | **Area, Magic, Ranged** |               **Main action** |

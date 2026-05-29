@@ -10,6 +10,8 @@ type: career
 
 # Beggar
 
+---
+
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
 - What unfortunate circumstances led you to become a [beggar](beggar.md)?

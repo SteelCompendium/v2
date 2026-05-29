@@ -17,6 +17,8 @@ type: ability
 
 # Panther (Devastating Rush)
 
+---
+
 *The faster you move, the harder you hit.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

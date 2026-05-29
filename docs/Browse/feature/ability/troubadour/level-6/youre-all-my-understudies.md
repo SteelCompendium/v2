@@ -17,6 +17,8 @@ type: ability
 
 # You're All My Understudies
 
+---
+
 *It's important for everyone to know each other's lines, just in case...*
 
 | **Area, Magic** |                 **Maneuver** |

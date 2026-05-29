@@ -9,6 +9,8 @@ type: treasure
 
 # 1st-Echelon Consumables
 
+---
+
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
 ##### Black Ash Dart

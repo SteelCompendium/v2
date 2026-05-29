@@ -22,6 +22,8 @@ type: ability
 
 # The Show Must Go On
 
+---
+
 *You shine a bright light on the players on the stage and compel them to finish the performance.*
 
 | **Area, Magic, Ranged** | **Maneuver**                  |

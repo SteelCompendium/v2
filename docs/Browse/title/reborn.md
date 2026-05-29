@@ -8,6 +8,8 @@ type: title
 
 # Reborn
 
+---
+
 *I remember this world. I suppose my task is not yet complete.*
 
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.

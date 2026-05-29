@@ -17,6 +17,8 @@ type: ability
 
 # Choreography
 
+---
+
 *Taps, kicks, steps. It's all "[choreography](choreography.md)."*
 
 | **Area, Magic, Performance** |                         **No action** |

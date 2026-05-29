@@ -23,6 +23,8 @@ type: ability
 
 # Invigorating Growth
 
+---
+
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
 | **Green, Magic, Ranged, Strike** |      **Main action** |

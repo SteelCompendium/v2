@@ -17,6 +17,8 @@ type: ability
 
 # Knockback
 
+---
+
 | **Melee, Weapon** |        **Maneuver** |
 |-------------------|--------------------:|
 | **📏 Melee 1**    | **🎯 One creature** |

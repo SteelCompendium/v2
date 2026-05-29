@@ -21,6 +21,8 @@ type: ability
 
 # Blade of the Heavens
 
+---
+
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |

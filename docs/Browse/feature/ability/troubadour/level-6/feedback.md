@@ -21,6 +21,8 @@ type: ability
 
 # Feedback
 
+---
+
 *Your music pounds the crowd to the beat until their hearts can't stand it anymore.*
 
 | **Area, Magic**               |               **Main action** |

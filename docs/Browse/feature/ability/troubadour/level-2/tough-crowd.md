@@ -22,6 +22,8 @@ type: ability
 
 # Tough Crowd
 
+---
+
 *Your fans don't seem to like the opening act...*
 
 | **Area, Magic, Ranged** | **Main action** |

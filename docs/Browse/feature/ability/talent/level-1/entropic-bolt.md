@@ -23,6 +23,8 @@ type: ability
 
 # Entropic Bolt
 
+---
+
 *You advance an enemy's age for a moment.*
 
 | **Chronopathy, Psionic, Ranged, Strike** |               **Main action** |

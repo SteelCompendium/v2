@@ -8,6 +8,8 @@ type: trait
 
 # Null Field
 
+---
+
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
 ##### Null Field

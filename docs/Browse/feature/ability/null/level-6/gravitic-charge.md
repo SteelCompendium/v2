@@ -20,6 +20,8 @@ type: ability
 
 # Gravitic Charge
 
+---
+
 *You channel your discipline into momentum that defies gravity.*
 
 | **Psionic** | **Maneuver** |

@@ -6,6 +6,8 @@ type: negotiation
 
 # Freedom
 
+---
+
 An NPC with the [freedom](freedom.md) motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
 
 An NPC with the [freedom](freedom.md) pitfall believes that a world without authority is one in turmoil and chaos. They might even believe that they are the right person to rule, and that their ideals should be the ones that become the law of the land.

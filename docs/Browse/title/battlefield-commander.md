@@ -8,6 +8,8 @@ type: title
 
 # Battlefield Commander
 
+---
+
 *Spells and shadows have their place, but it takes soldiers to hold the field.*
 
 **Prerequisite:** You lead an army in battle and win.

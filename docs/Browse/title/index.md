@@ -1,5 +1,7 @@
 # Titles
 
+---
+
 <div class="browse-index" markdown>
 
 - [Ancient Loremaster](ancient-loremaster.md)

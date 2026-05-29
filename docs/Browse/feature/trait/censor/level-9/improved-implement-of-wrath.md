@@ -8,6 +8,8 @@ type: trait
 
 # Improved Implement of Wrath
 
+---
+
 The weapon you target with your [Implement of Wrath](../level-6/implement-of-wrath.md) feature gains the following additional benefits:
 
 - The weapon's wielder and each ally adjacent to them gain a +2 bonus to saving throws.

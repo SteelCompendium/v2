@@ -8,4 +8,6 @@ type: trait
 
 # Discipline Mastery Improvement
 
+---
+
 Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.

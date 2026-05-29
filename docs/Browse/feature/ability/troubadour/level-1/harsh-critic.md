@@ -23,6 +23,8 @@ type: ability
 
 # Harsh Critic
 
+---
+
 *Just one bad review will ruin their day.*
 
 | **Magic, Melee, Ranged, Strike** |               **Main action** |

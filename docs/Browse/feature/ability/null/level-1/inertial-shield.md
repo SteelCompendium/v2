@@ -18,6 +18,8 @@ type: ability
 
 # Inertial Shield
 
+---
+
 *You intuit the course of an incoming attack, reducing its effects.*
 
 | **Psionic** | **Triggered** |

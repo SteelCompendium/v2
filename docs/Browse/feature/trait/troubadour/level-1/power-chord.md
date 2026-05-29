@@ -8,6 +8,8 @@ type: trait
 
 # Power Chord
 
+---
+
 You have the following ability.
 
 ###### Power Chord

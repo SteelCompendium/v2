@@ -22,6 +22,8 @@ type: ability
 
 # Earth Rejects You
 
+---
+
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 
 | **Area, Earth, Magic, Ranged** |                          **Main action** |

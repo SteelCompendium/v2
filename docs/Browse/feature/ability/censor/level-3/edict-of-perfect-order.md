@@ -17,6 +17,8 @@ type: ability
 
 # Edict of Perfect Order
 
+---
+
 *Within the area of your divine presence, your enemies will regret using their fell abilities.*
 
 | **Area, Magic** |                  **Maneuver** |

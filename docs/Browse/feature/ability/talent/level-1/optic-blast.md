@@ -23,6 +23,8 @@ type: ability
 
 # Optic Blast
 
+---
+
 *Your eyes emit rays of powerful enervating force.*
 
 | **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |

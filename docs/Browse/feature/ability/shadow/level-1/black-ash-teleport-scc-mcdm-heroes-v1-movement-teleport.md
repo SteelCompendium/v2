@@ -16,6 +16,8 @@ type: ability
 
 # Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
 
+---
+
 *In a swirl of black ash, you step from one place to another.*
 
 | **Magic**   | **Maneuver** |

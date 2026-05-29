@@ -8,6 +8,8 @@ type: title
 
 # Knight
 
+---
+
 *Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
 
 **Prerequisite:** A [noble](noble.md) or [monarch](monarch.md) grants you knighthood or a similar rank.

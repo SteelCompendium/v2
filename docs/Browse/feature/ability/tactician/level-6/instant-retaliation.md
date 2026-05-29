@@ -23,6 +23,8 @@ type: ability
 
 # Instant Retaliation
 
+---
+
 *You [parry](../level-1/parry.md) with almost supernatural speed.*
 
 | **Melee, Weapon** | **Free triggered** |

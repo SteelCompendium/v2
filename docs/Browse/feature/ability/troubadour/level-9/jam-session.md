@@ -21,6 +21,8 @@ type: ability
 
 # Jam Session
 
+---
+
 *Your [jam session](jam-session.md) creates new genres that compel everyone to get up and move.*
 
 | **Area, Magic** |               **Main action** |

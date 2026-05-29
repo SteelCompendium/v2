@@ -9,6 +9,8 @@ type: treasure
 
 # 3rd-Echelon Consumables
 
+---
+
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 ##### Anamorphic Larva

@@ -1,5 +1,7 @@
 # Negotiation
 
+---
+
 <div class="browse-index" markdown>
 
 - [Benevolence](benevolence.md)

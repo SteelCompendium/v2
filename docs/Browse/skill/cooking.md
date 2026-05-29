@@ -6,4 +6,6 @@ type: skill
 
 # Cooking
 
+---
+
 Create delicious dishes.

@@ -8,4 +8,6 @@ type: trait
 
 # Aspect Benefits
 
+---
+
 You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../../../../movement/difficult-terrain.md).

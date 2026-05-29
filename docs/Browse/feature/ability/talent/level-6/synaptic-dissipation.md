@@ -23,6 +23,8 @@ type: ability
 
 # Synaptic Dissipation
 
+---
+
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
 
 | **Psionic, Ranged, Strike, Telepathy** |   **Maneuver** |

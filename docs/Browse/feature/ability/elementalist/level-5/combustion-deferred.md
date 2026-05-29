@@ -23,6 +23,8 @@ type: ability
 
 # Combustion Deferred
 
+---
+
 *Your flames dance from kindling to kindling to kindling.*
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** |

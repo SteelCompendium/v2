@@ -22,6 +22,8 @@ type: ability
 
 # Drain
 
+---
+
 *You drain the energy from your target to revitalize yourself or an ally.*
 
 | **Magic, Melee, Strike** |     **Main action** |

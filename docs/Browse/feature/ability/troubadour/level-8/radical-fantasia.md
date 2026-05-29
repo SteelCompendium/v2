@@ -17,6 +17,8 @@ type: ability
 
 # Radical Fantasia
 
+---
+
 *𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |

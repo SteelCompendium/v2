@@ -22,6 +22,8 @@ type: ability
 
 # Bifurcated Incineration
 
+---
+
 *Two jets of flame lance out at your command.*
 
 | **Fire, Magic, Ranged, Strike** |                 **Main action** |

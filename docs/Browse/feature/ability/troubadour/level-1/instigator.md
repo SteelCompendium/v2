@@ -22,6 +22,8 @@ type: ability
 
 # Instigator
 
+---
+
 *I didn't do it! What?*
 
 | **Melee, Strike, Weapon**             | **Main action** |

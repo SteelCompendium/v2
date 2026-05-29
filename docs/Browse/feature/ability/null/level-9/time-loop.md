@@ -18,6 +18,8 @@ type: ability
 
 # Time Loop
 
+---
+
 *You show shadows what true speed is.*
 
 | **Psionic** | **Free triggered** |

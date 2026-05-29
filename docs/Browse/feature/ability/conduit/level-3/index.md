@@ -1,5 +1,7 @@
 # Level 3
 
+---
+
 <div class="browse-index" markdown>
 
 - [Fear of the Gods](fear-of-the-gods.md)

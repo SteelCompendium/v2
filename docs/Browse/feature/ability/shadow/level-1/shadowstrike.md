@@ -18,6 +18,8 @@ type: ability
 
 # Shadowstrike
 
+---
+
 *They have no idea what the college taught you.*
 
 | **Magic, Melee, Ranged** | **Main action** |

@@ -23,6 +23,8 @@ type: ability
 
 # Misdirecting Strike
 
+---
+
 *"Why are you looking at ME?!"*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

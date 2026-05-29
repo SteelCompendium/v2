@@ -1,5 +1,7 @@
 # Ancestries
 
+---
+
 <div class="browse-index" markdown>
 
 - [Devil](devil.md)

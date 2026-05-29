@@ -6,4 +6,6 @@ type: skill
 
 # Strategy
 
+---
+
 Knowing about battle tactics and logistics.

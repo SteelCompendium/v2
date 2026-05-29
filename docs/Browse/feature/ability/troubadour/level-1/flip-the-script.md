@@ -17,6 +17,8 @@ type: ability
 
 # Flip the Script
 
+---
+
 *You try a different take on events, justifying the new locations everyone ended up in.*
 
 | **Area, Magic** |                       **Main action** |

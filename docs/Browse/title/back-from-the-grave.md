@@ -8,6 +8,8 @@ type: title
 
 # Back From the Grave
 
+---
+
 *Hi! Remember me?*
 
 **Prerequisite:** You die at the hands of your greatest foe, that foe still lives, and you aren't a [revenant](../ancestry/revenant.md).

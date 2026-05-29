@@ -6,4 +6,6 @@ type: skill
 
 # Gamble
 
+---
+
 Make bets with others.

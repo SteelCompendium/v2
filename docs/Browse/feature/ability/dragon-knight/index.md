@@ -1,5 +1,7 @@
 # Dragon Knight
 
+---
+
 <div class="browse-index" markdown>
 
 - [Draconian Pride](draconian-pride.md)

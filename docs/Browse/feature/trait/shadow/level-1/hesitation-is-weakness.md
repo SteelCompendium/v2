@@ -8,6 +8,8 @@ type: trait
 
 # Hesitation Is Weakness
 
+---
+
 You have the following ability.
 
 ##### Hesitation Is Weakness (1 Insight)

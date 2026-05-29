@@ -7,6 +7,8 @@ type: trait
 
 # Aspect of the Wild
 
+---
+
 You have the following ability.
 
 ###### Aspect of the Wild

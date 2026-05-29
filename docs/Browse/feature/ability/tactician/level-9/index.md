@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Blot Out the Sun!](blot-out-the-sun.md)

@@ -6,4 +6,6 @@ type: skill
 
 # Drive
 
+---
+
 Control vehicles.

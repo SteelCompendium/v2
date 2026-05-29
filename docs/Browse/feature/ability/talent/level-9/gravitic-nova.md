@@ -22,6 +22,8 @@ type: ability
 
 # Gravitic Nova
 
+---
+
 *Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
 
 | **Area, Psionic, Telekinesis** |                          **Main action** |

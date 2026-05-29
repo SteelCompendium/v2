@@ -8,4 +8,6 @@ type: trait
 
 # Aspect Benefits
 
+---
+
 You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../../../ability/fury/aspect-of-the-wild.md) ability.

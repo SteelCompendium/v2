@@ -6,6 +6,8 @@ type: title
 
 # Follower Types
 
+---
+
 When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 
 ##### Artisan

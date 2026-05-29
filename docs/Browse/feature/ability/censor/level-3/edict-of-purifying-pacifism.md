@@ -17,6 +17,8 @@ type: ability
 
 # Edict of Purifying Pacifism
 
+---
+
 *You shed a righteous energy that punishes enemies who would harm you or your allies.*
 
 | **Area, Magic** |                  **Maneuver** |

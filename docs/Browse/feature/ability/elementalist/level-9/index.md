@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Earth Rejects You](earth-rejects-you.md)

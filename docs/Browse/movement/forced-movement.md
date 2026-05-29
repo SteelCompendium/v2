@@ -6,6 +6,8 @@ type: movement
 
 # Forced Movement
 
+---
+
 Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific distance across the battlefield. Collectively, these types of movement are called [forced movement](forced-movement.md).
 
 - **Push X:** The creature moves the target up to X squares away from them in a straight line, without moving them vertically. Each square the creature moves the target must put the target farther away from them.

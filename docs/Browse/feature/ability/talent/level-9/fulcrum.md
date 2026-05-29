@@ -22,6 +22,8 @@ type: ability
 
 # Fulcrum
 
+---
+
 *You precisely manipulate the creatures around you.*
 
 | **Area, Psionic, Telekinesis** |                          **Main action** |

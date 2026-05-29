@@ -8,6 +8,8 @@ type: trait
 
 # Remote Assistance
 
+---
+
 You have the following ability.
 
 ###### Remote Assistance

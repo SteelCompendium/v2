@@ -22,6 +22,8 @@ type: ability
 
 # Behold the Mystery
 
+---
+
 *You open a rift into the void to harry your foes.*
 
 | **Area, Magic, Ranged, Void** |               **Main action** |

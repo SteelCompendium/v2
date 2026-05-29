@@ -23,6 +23,8 @@ type: ability
 
 # Maw of Earth
 
+---
+
 *You open up the ground, spewing out shrapnel of stone and debris.*
 
 | **Area, Earth, Magic, Ranged** |                **Main action** |

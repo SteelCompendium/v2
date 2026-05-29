@@ -17,6 +17,8 @@ type: ability
 
 # We Can't Be Upstaged!
 
+---
+
 *Swordplay so graceful it looks like you all practiced this.*
 
 | **Area, Magic, Performance** |                         **No action** |

@@ -8,6 +8,8 @@ type: trait
 
 # Summon Source of Earth
 
+---
+
 You have the following ability.
 
 ###### Source of Earth Statblock

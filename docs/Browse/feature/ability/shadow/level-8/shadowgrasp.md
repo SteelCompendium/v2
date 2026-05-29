@@ -20,6 +20,8 @@ type: ability
 
 # Shadowgrasp
 
+---
+
 *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
 
 | **Area, Magic** |               **Main action** |

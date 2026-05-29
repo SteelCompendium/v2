@@ -24,6 +24,8 @@ type: ability
 
 # Purifying Fire
 
+---
+
 *The gods judge, fire cleanses.*
 
 | **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |

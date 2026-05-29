@@ -20,6 +20,8 @@ type: ability
 
 # Scalar Assault
 
+---
+
 *You warp reality to grow a limb for just a moment and make a single devastating attack.*
 
 | **Area, Psionic**      |               **Main action** |

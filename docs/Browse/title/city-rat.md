@@ -8,6 +8,8 @@ type: title
 
 # City Rat
 
+---
+
 *Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.*
 
 **Prerequisite:** You have spent at least five respites in a metropolis.

@@ -7,6 +7,8 @@ type: trait
 
 # Time Raider Traits
 
+---
+
 [Time raider](../../../ancestry/time-raider.md) heroes have access to the following traits.
 
 #### Signature Trait: Psychic Scar

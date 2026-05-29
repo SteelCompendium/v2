@@ -23,6 +23,8 @@ type: ability
 
 # Spirit Sword
 
+---
+
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 
 | **Animapathy, Melee, Psionic, Strike** |               **Main action** |

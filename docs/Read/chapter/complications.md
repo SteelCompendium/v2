@@ -8,6 +8,8 @@ type: chapter
 
 # Complications
 
+---
+
 Beyond the abilities and features bestowed by ancestry and class, your hero might have something else that makes them... unusual. Perhaps an earth elemental lives in your body. Maybe your eldritch blade devastates enemies but feeds on your own vitality. A complication is an optional feature you can select to enrich your hero's backstory, with any complication providing you both a positive benefit and a negative drawback.
 
 Because complications are optional, check with your Director before taking one. And even if you get to determine your hero's complication, remember that the Director ultimately determines how your complication affects the story. Your complication's drawback might play a big part in the campaign, whether you have a chance to remove it or whether you always have it looming over you, forcing you into hard decisions. Either option leads to great narratives, so embrace the control you give to the Director when you take a complication. The story will be richer for it!

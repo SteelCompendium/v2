@@ -6,4 +6,6 @@ type: skill
 
 # Endurance
 
+---
+
 Remain engaged in strenuous activity over a long period of time.

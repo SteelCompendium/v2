@@ -20,6 +20,8 @@ type: ability
 
 # Boren (Bear Claws)
 
+---
+
 *Attacks with your sharp and deadly claws grab the weak.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

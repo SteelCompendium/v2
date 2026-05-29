@@ -22,6 +22,8 @@ type: ability
 
 # Cacophony of Cinders
 
+---
+
 *You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.*
 
 | **Magic, Melee, Weapon** | **Main action** |

@@ -23,6 +23,8 @@ type: ability
 
 # Faster Than the Eye
 
+---
+
 *You strike so quickly that your hands become a blur.*
 
 | **Melee, Psionic, Strike, Weapon** |                 **Main action** |

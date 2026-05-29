@@ -8,6 +8,8 @@ type: trait
 
 # Crowd Favorites
 
+---
+
 You have the following performance abilities, which are usable with your [Routines](../level-1/routines.md) feature.
 
 ###### Moonlight Sonata

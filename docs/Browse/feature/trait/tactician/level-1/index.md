@@ -1,5 +1,7 @@
 # Level 1
 
+---
+
 <div class="browse-index" markdown>
 
 - [1st-Level Doctrine Feature](1st-level-doctrine-feature.md)

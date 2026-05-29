@@ -8,6 +8,8 @@ type: title
 
 # Battleaxe Diplomat
 
+---
+
 *We seem to be equals in might and combat prowess. Perhaps we should bandy words awhile instead.*
 
 **Prerequisite:** You gain the friendship or alliance of a creature you once battled.

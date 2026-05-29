@@ -21,6 +21,8 @@ type: ability
 
 # Setup
 
+---
+
 *Your friends will thank you.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |

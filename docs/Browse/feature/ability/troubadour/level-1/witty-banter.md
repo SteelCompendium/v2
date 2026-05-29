@@ -24,6 +24,8 @@ type: ability
 
 # Witty Banter
 
+---
+
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
 | **Magic, Melee, Ranged, Strike** |     **Main action** |

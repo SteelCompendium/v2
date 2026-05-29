@@ -23,6 +23,8 @@ type: ability
 
 # Storm of Sands
 
+---
+
 *Dirt and debris swirl into a dark, pulsing hurricane.*
 
 | **Area, Earth, Magic, Ranged** |               **Main action** |

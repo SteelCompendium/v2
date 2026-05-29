@@ -8,6 +8,8 @@ type: trait
 
 # Discipline
 
+---
+
 As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
 
 ##### Discipline in Combat

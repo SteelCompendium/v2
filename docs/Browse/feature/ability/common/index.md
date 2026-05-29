@@ -1,5 +1,7 @@
 # Common
 
+---
+
 <details class="browse-expand" markdown>
 <summary><a href="free-strikes/">Free Strikes</a></summary>
 

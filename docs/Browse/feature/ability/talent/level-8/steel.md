@@ -18,6 +18,8 @@ type: ability
 
 # Steel
 
+---
+
 *The target's skin becomes covered in tough metal.*
 
 | **Metamorphosis, Psionic, Ranged** |            **Maneuver** |

@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of the Midday Sun
 
+---
+
 *Your body emits a heat that bakes your enemies and inspires your allies.*
 
 | **Area, Magic**  |                              **Maneuver** |

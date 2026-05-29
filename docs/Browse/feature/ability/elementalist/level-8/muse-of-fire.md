@@ -23,6 +23,8 @@ type: ability
 
 # Muse of Fire
 
+---
+
 *The fire burns hot enough to sear the face of any god watching.*
 
 | **Area, Fire, Magic, Ranged** |               **Main action** |

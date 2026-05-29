@@ -1,5 +1,7 @@
 # Level 5
 
+---
+
 <div class="browse-index" markdown>
 
 - [Squad! Gear Check!](squad-gear-check.md)

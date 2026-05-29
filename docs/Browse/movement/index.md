@@ -1,5 +1,7 @@
 # Movement
 
+---
+
 <div class="browse-index" markdown>
 
 - [Burrow](burrow.md)

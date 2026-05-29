@@ -6,4 +6,6 @@ type: skill
 
 # Nature
 
+---
+
 Knowing about natural flora, fauna, and weather.

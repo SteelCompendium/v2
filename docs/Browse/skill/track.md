@@ -6,4 +6,6 @@ type: skill
 
 # Track
 
+---
+
 Follow a trail that another creature has left behind.

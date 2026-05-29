@@ -23,6 +23,8 @@ type: ability
 
 # The Green Within, the Green Without
 
+---
+
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
 | **Green, Magic, Ranged, Strike** |      **Main action** |

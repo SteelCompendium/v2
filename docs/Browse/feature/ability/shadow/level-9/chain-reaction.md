@@ -20,6 +20,8 @@ type: ability
 
 # Chain Reaction
 
+---
+
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
 
 | **Ranged**       |               **Main action** |

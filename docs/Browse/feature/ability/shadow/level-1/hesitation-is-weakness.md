@@ -18,6 +18,8 @@ type: ability
 
 # Hesitation Is Weakness
 
+---
+
 *Keep up the attack. Never give them a moment's grace.*
 
 | **-**       | **Free triggered** |

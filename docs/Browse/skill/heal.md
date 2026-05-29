@@ -6,4 +6,6 @@ type: skill
 
 # Heal
 
+---
+
 Use mundane first aid.

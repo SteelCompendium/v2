@@ -8,6 +8,8 @@ type: trait
 
 # 5th-Level College Feature
 
+---
+
 Your [shadow](../../../../class/shadow.md) college grants you a feature, as shown on the 5th-Level College Features table.
 
 ###### 5th-Level College Features Table

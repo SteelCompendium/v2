@@ -23,6 +23,8 @@ type: ability
 
 # Hammer and Anvil
 
+---
+
 *"Let's not argue about who's the hammer and who's the anvil!"*
 
 | **Melee, Ranged, Strike, Weapon** |               **Main action** |

@@ -22,6 +22,8 @@ type: ability
 
 # Fate
 
+---
+
 *Your foe gets a glimpse of how it will end for them.*
 
 | **Chronopathy, Psionic, Melee** |  **Main action** |

@@ -20,6 +20,8 @@ type: ability
 
 # Here's How Your Story Ends
 
+---
+
 *You give away the ending of this battle, and it's not great for them.*
 
 | **Area, Magic** |               **Main action** |

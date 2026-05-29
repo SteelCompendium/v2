@@ -20,6 +20,8 @@ type: ability
 
 # One Vial Makes You Faster
 
+---
+
 *Each ally who catches a potion you throw can take the battle to the next level.*
 
 | **Ranged**       |        **Main action** |

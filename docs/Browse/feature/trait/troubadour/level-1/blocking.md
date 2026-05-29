@@ -8,6 +8,8 @@ type: trait
 
 # Blocking
 
+---
+
 You have the following performance ability, which is usable with your [Routines](routines.md) feature.
 
 ###### Blocking

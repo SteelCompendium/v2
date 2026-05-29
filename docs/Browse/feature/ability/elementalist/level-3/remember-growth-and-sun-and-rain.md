@@ -17,6 +17,8 @@ type: ability
 
 # Remember Growth and Sun and Rain
 
+---
+
 *You stir any wood's memory and learn what it has seen.*
 
 | **Green, Magic, Melee** |                  **Main action** |

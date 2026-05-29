@@ -11,6 +11,8 @@ type: kit
 
 # Spellsword
 
+---
+
 The [Spellsword](spellsword.md) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
 ##### Equipment

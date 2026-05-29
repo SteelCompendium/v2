@@ -17,6 +17,8 @@ type: ability
 
 # Take Two!
 
+---
+
 *One more, and this time make it interesting.*
 
 | **Area, Magic, Performance** |                         **No action** |

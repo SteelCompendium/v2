@@ -17,6 +17,8 @@ type: ability
 
 # Never-Ending Hero
 
+---
+
 *And toniiight we can truly say ♪ They will alllways find a way!♪*
 
 | **Area, Magic, Performance** |                         **No action** |

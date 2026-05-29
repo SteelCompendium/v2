@@ -23,6 +23,8 @@ type: ability
 
 # Web of All That's Come Before
 
+---
+
 *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
 
 | **Area, Green, Magic, Ranged** |               **Main action** |

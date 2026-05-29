@@ -8,6 +8,8 @@ type: trait
 
 # Accelerate
 
+---
+
 You have the following ability.
 
 ###### Accelerate

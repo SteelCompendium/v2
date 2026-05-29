@@ -20,6 +20,8 @@ type: ability
 
 # Dramatic Reversal
 
+---
+
 *Give the audience a surprise.*
 
 | **Area, Magic** |                       **Main action** |

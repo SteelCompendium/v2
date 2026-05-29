@@ -20,6 +20,8 @@ type: ability
 
 # Explosive Assistance
 
+---
+
 *You add a little magic to an ally's aggression at just the right time.*
 
 | **Fire, Magic, Ranged**  |           **Triggered** |

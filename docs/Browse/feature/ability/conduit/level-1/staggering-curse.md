@@ -21,6 +21,8 @@ type: ability
 
 # Staggering Curse
 
+---
+
 *A blast of judgment disorients your foe.*
 
 | **Magic, Melee, Strike**  |               **Main action** |

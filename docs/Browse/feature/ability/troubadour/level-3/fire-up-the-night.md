@@ -17,6 +17,8 @@ type: ability
 
 # Fire Up the Night
 
+---
+
 *Maybe you and I ♪ We can still bring the light!♪*
 
 | **Area, Magic, Performance** |                         **No action** |

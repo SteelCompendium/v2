@@ -8,6 +8,8 @@ type: title
 
 # Corsair
 
+---
+
 *Haul down your flag or we'll burn you to the waterline!*
 
 **Prerequisite:** You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater size than your own.

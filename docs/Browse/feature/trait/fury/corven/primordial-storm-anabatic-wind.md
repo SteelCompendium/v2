@@ -8,4 +8,6 @@ type: trait
 
 # Primordial Storm: Anabatic Wind
 
+---
+
 Your primordial damage type is fire.

@@ -22,6 +22,8 @@ type: ability
 
 # Magnetic Strike
 
+---
+
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

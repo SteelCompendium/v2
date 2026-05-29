@@ -22,6 +22,8 @@ type: ability
 
 # Apostate
 
+---
+
 *You channel holy energy to seal an enemy's fate.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

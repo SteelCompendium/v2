@@ -8,6 +8,8 @@ type: trait
 
 # Inertial Shield
 
+---
+
 Your instincts for danger let you predict attacks before they happen.
 
 ##### Inertial Shield

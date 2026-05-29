@@ -23,6 +23,8 @@ type: ability
 
 # Choke
 
+---
+
 *You crush a foe in a telekinetic grip.*
 
 | **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |

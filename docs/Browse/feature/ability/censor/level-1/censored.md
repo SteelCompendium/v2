@@ -22,6 +22,8 @@ type: ability
 
 # Censored
 
+---
+
 *Judged and [sentenced](../level-2/sentenced.md).*
 
 | **Melee, Strike, Weapon**  |               **Main action** |

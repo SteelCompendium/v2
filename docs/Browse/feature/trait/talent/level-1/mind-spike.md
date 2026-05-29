@@ -8,6 +8,8 @@ type: trait
 
 # Mind Spike
 
+---
+
 You have the following ability, which can be used as a ranged free strike.
 
 ##### Mind Spike

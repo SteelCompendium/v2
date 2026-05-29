@@ -7,6 +7,8 @@ type: trait
 
 # Human Traits
 
+---
+
 [Human](../../../ancestry/human.md) heroes have access to the following traits.
 
 #### Signature Trait: Detect the Supernatural

@@ -1,5 +1,7 @@
 # Boren
 
+---
+
 <div class="browse-index" markdown>
 
 - [Animal Form: Bear](animal-form-bear.md)

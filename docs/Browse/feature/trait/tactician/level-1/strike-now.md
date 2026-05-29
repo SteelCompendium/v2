@@ -8,6 +8,8 @@ type: trait
 
 # Strike Now
 
+---
+
 You have the following ability.
 
 ##### "Strike Now!"

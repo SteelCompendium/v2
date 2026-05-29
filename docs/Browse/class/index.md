@@ -1,5 +1,7 @@
 # Classes
 
+---
+
 <div class="browse-index" markdown>
 
 - [Censor](censor.md)

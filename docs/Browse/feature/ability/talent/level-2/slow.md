@@ -22,6 +22,8 @@ type: ability
 
 # Slow
 
+---
+
 *Perhaps they wonder why everyone else is moving so quickly?*
 
 | **Chronopathy, Psionic, Ranged** |                      **Maneuver** |

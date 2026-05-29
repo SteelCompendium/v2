@@ -23,6 +23,8 @@ type: ability
 
 # Teamwork Has Its Place
 
+---
+
 *You attack an enemy as an ally exposes their weakness.*
 
 | **Melee, Ranged, Strike, Weapon** |               **Main action** |

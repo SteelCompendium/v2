@@ -22,6 +22,8 @@ type: ability
 
 # Swarm of Spirits
 
+---
+
 *Guardian animal spirits surround you to harry your foes and bolster your allies.*
 
 | **Area, Green, Magic** |               **Main action** |

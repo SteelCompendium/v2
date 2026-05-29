@@ -22,6 +22,8 @@ type: ability
 
 # Stunning Blow
 
+---
+
 *You focus your psionic technique into a concussive punch.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

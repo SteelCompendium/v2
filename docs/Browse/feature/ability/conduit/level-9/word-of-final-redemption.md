@@ -19,6 +19,8 @@ type: ability
 
 # Word of Final Redemption
 
+---
+
 *Your death will fuel our victory.*
 
 | **Magic, Ranged**  |  **Free triggered** |

@@ -17,6 +17,8 @@ type: ability
 
 # Blessing of Insight
 
+---
+
 *The gods grant insight revealing where best to strike your enemies.*
 
 | **Magic, Ranged**  |              **Maneuver** |

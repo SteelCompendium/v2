@@ -8,6 +8,8 @@ type: complication
 
 # Shattered Legacy
 
+---
+
 You're the heir to a powerful supernatural treasure that has been in your family for generations. One problem, though: that treasure is broken. Some ancestor of yours sundered it while saving the world. Or maybe they tripped and smashed it on a rock. Either way, it's your job to fix it.
 
 **Benefit:** You know one language of your choice. Additionally, you have one leveled treasure of your choice (see Treasures in Chapter 13: [Rewards](../../Read/chapter/rewards.md)).

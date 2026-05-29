@@ -22,6 +22,8 @@ type: ability
 
 # Synaptic Override
 
+---
+
 *You control an enemy's nervous system. How pleasant for them.*
 
 | **Psionic, Ranged, Telepathy** |  **Main action** |

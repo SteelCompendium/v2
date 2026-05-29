@@ -22,6 +22,8 @@ type: ability
 
 # Phase Step
 
+---
+
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 
 | **Melee, Psionic, Weapon** | **Main action** |

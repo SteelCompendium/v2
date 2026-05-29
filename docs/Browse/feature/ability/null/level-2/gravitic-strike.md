@@ -22,6 +22,8 @@ type: ability
 
 # Gravitic Strike
 
+---
+
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

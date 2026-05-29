@@ -21,6 +21,8 @@ type: ability
 
 # Solar Flare
 
+---
+
 *You call down a sphere of fire that burns your foes to ash.*
 
 | **Area, Magic, Ranged** |               **Main action** |

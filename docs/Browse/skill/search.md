@@ -6,4 +6,6 @@ type: skill
 
 # Search
 
+---
+
 Actively search an environment for important details and items.

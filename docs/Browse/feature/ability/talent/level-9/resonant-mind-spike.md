@@ -23,6 +23,8 @@ type: ability
 
 # Resonant Mind Spike
 
+---
+
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
 | **Psionic, Ranged, Strike, Telepathy** |     **Main action** |

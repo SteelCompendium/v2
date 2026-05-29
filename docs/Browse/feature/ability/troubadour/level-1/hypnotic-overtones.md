@@ -21,6 +21,8 @@ type: ability
 
 # Hypnotic Overtones
 
+---
+
 *You produce an entrancing note that twists the senses in a spectacular fashion.*
 
 | **Area, Magic** |               **Main action** |

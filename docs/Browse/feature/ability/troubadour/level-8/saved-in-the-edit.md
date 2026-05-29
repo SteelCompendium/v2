@@ -16,6 +16,8 @@ type: ability
 
 # Saved in the Edit
 
+---
+
 *You shout a word of power that allows you to rewrite reality to your whims.*
 
 | **Magic**   | **Maneuver** |

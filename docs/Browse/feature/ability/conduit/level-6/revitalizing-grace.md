@@ -17,6 +17,8 @@ type: ability
 
 # Revitalizing Grace
 
+---
+
 *With a gesture, you restore your health and that of your allies.*
 
 | **Area, Magic**  |                       **Main action** |

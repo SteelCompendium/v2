@@ -22,6 +22,8 @@ type: ability
 
 # Thunder Roar
 
+---
+
 *You unleash a howl that hurls your enemies back.*
 
 | **Area, Melee, Weapon**    |               **Main action** |

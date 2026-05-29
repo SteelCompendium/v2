@@ -8,6 +8,8 @@ type: title
 
 # Presumed Dead
 
+---
+
 *But... you're dead. We went to your funeral.*
 
 **Prerequisite:** You die in a way that prevents your body from being recovered or examined (for instance, by falling off a cliff).

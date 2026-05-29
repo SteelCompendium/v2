@@ -18,6 +18,8 @@ type: ability
 
 # The Green Defends Its Servants
 
+---
+
 *A luminous green shield shows its true beauty the more it cracks.*
 
 | **Green, Magic, Ranged** |            **Maneuver** |

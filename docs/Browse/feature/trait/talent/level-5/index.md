@@ -1,5 +1,7 @@
 # Level 5
 
+---
+
 <div class="browse-index" markdown>
 
 - [5th-Level Tradition Features](5th-level-tradition-features.md)

@@ -9,6 +9,8 @@ type: treasure
 
 # Leveled Implement Treasures
 
+---
+
 Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](leveled-implement-treasures.md) in alphabetical order.
 
 ##### Abjurer's Bastion

@@ -6,4 +6,6 @@ type: skill
 
 # Blacksmithing
 
+---
+
 Forge metal armor and weapons.

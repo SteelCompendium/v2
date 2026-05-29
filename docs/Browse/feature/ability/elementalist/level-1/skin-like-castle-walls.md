@@ -20,6 +20,8 @@ type: ability
 
 # Skin Like Castle Walls
 
+---
+
 *You cover yourself or an ally in protective stone.*
 
 | **Earth, Magic, Ranged**  |           **Triggered** |

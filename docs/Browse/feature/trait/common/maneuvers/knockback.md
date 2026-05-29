@@ -6,6 +6,8 @@ type: trait
 
 # Knockback
 
+---
+
 A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
 
 ##### Knockback

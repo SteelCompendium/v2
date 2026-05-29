@@ -17,6 +17,8 @@ type: ability
 
 # Sanctuary
 
+---
+
 *You send yourself or an ally to a divine manifold to instantaneously regain health.*
 
 | **Magic, Ranged**  |            **Maneuver** |

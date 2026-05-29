@@ -18,6 +18,8 @@ type: ability
 
 # Night Falls
 
+---
+
 *You summon darkness that thwarts only your foes.*
 
 | **Area, Magic, Ranged** |  **Main action** |

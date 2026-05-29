@@ -16,6 +16,8 @@ type: ability
 
 # Primordial Rage
 
+---
+
 *Your ferocity manifests into [primordial power](../../../trait/fury/level-10/primordial-power.md).*
 
 | **Magic**   | **Maneuver** |

@@ -8,4 +8,6 @@ type: trait
 
 # Speed of Thought
 
+---
+
 Once per combat round while you are not dying, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.

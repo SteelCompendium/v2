@@ -22,6 +22,8 @@ type: ability
 
 # Applied Chronometrics
 
+---
+
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
 
 | **Chronopathy, Psionic, Ranged** |   **Maneuver** |

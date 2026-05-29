@@ -17,6 +17,8 @@ type: ability
 
 # Font of Wrath
 
+---
+
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
 
 | **Magic, Ranged**  | **Main action** |

@@ -8,4 +8,6 @@ type: trait
 
 # Careful Observation Improvement
 
+---
+
 You can target three creatures simultaneously with your [Careful Observation](../../../ability/shadow/level-3/careful-observation.md) ability.

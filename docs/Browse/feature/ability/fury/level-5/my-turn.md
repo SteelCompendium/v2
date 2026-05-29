@@ -24,6 +24,8 @@ type: ability
 
 # My Turn!
 
+---
+
 *You quickly strike back at a foe.*
 
 | **Melee, Strike, Weapon** |             **Free triggered** |

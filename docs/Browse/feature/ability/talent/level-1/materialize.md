@@ -23,6 +23,8 @@ type: ability
 
 # Materialize
 
+---
+
 *You picture an object in your mind and give it form—directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |

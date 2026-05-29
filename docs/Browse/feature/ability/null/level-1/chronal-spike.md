@@ -23,6 +23,8 @@ type: ability
 
 # Chronal Spike
 
+---
+
 *You foresee the best moment to strike, then exploit it.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

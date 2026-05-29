@@ -8,6 +8,8 @@ type: trait
 
 # Motivate Earth
 
+---
+
 You have the following ability.
 
 ###### Motivate Earth

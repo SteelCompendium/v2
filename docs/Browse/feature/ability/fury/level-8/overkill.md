@@ -23,6 +23,8 @@ type: ability
 
 # Overkill
 
+---
+
 *You strike so no damage is wasted.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

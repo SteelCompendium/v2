@@ -21,6 +21,8 @@ type: ability
 
 # Gods' Machine
 
+---
+
 *You conjure a whirring tank made of blades and metal.*
 
 | **Magic, Ranged** | **Main action** |

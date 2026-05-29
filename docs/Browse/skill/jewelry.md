@@ -6,4 +6,6 @@ type: skill
 
 # Jewelry
 
+---
+
 Create bracelets, crowns, rings, and other jewelry.

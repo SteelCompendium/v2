@@ -8,6 +8,8 @@ type: title
 
 # Monarch
 
+---
+
 *The tyrant is dead! Long live the new king!*
 
 **Prerequisite:** You or a member of your party becomes the [monarch](monarch.md) of a nation.

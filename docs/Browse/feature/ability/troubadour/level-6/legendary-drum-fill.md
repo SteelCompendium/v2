@@ -17,6 +17,8 @@ type: ability
 
 # Legendary Drum Fill
 
+---
+
 *You start a drumroll that roars like thunder with every impact the heroes make.*
 
 | **Area, Magic** |                          **Maneuver** |

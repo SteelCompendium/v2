@@ -20,6 +20,8 @@ type: ability
 
 # Invocation of Undoing
 
+---
+
 *You utter a secret word of destruction known only to deities.*
 
 | **Area, Magic**  |               **Main action** |

@@ -8,6 +8,8 @@ type: title
 
 # Planar Voyager
 
+---
+
 *I've seen skywhales floating above the seas of Primordius. I've seen star freighters dancing around the moons of Axiom. So I guess you're right, I'm not from around these parts.*
 
 **Prerequisite:** You voyage in strange vehicles on different worlds.

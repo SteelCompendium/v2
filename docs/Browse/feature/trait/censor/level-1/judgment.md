@@ -8,6 +8,8 @@ type: trait
 
 # Judgment
 
+---
+
 You pick out the enemies most worthy of your wrath and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
 
 ##### Judgment

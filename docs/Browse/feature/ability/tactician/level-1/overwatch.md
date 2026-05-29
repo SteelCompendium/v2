@@ -18,6 +18,8 @@ type: ability
 
 # Overwatch
 
+---
+
 *Under your direction, an ally waits for just the right moment to strike.*
 
 | **Ranged**       |       **Triggered** |

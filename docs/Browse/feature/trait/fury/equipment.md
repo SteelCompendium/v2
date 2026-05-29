@@ -7,4 +7,6 @@ type: trait
 
 # Equipment
 
+---
+
 You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.

@@ -23,6 +23,8 @@ type: ability
 
 # Unquiet Ground
 
+---
+
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
 | **Area, Earth, Magic, Ranged** |               **Main action** |

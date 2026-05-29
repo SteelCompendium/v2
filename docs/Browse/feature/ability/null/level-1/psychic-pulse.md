@@ -17,6 +17,8 @@ type: ability
 
 # Psychic Pulse
 
+---
+
 *A burst of psionic energy interferes with your enemy's synapses.*
 
 | **Area, Psionic** |                  **Maneuver** |

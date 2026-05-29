@@ -6,6 +6,8 @@ type: perk
 
 # I've Read About This Place
 
+---
+
 Each time you enter a settlement you've never been to before, you can ask the Director one of the following questions:
 
 - Who is the most influential public figure in this settlement?

@@ -7,4 +7,6 @@ type: trait
 
 # Primordial Storm
 
+---
+
 Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific damage type used by some of your abilities.

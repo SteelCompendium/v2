@@ -17,6 +17,8 @@ type: ability
 
 # Shared Void Sense
 
+---
+
 *You grant allies a taste of your unearthly vision.*
 
 | **Magic, Ranged, Void** |    **Maneuver** |

@@ -22,6 +22,8 @@ type: ability
 
 # It Is Justice You Fear
 
+---
+
 *I am but a vessel. Your own deeds weigh upon you.*
 
 | **Magic, Ranged, Strike** |     **Main action** |

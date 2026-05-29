@@ -22,6 +22,8 @@ type: ability
 
 # Renegotiated Contract
 
+---
+
 *No, no. You don't die until the sequel.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

@@ -10,6 +10,8 @@ type: kit
 
 # Shining Armor
 
+---
+
 The [Shining Armor](shining-armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ##### Equipment

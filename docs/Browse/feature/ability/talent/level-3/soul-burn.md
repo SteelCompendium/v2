@@ -23,6 +23,8 @@ type: ability
 
 # Soul Burn
 
+---
+
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 
 | **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |

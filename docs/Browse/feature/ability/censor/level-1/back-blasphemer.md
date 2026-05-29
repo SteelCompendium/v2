@@ -22,6 +22,8 @@ type: ability
 
 # Back Blasphemer!
 
+---
+
 *You channel power through your weapon to repel foes.*
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |

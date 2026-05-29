@@ -18,6 +18,8 @@ type: ability
 
 # Night Watch
 
+---
+
 *A steely dagger from out of the blue knocks another weapon off course.*
 
 | **Ranged, Weapon** |   **Triggered** |

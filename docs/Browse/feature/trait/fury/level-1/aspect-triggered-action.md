@@ -8,6 +8,8 @@ type: trait
 
 # Aspect Triggered Action
 
+---
+
 Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as shown on the Aspect Triggered Actions table.
 
 ###### Aspect Triggered Actions Table

@@ -18,6 +18,8 @@ type: ability
 
 # Classic Chandelier Stunt
 
+---
+
 *Audiences love this bit.*
 
 | **Melee, Strike, Weapon** |                  **Main action** |

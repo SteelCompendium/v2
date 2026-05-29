@@ -17,6 +17,8 @@ type: ability
 
 # Moonlight Sonata
 
+---
+
 *Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
 
 | **Area, Magic, Performance** |                **No action** |

@@ -18,6 +18,8 @@ type: ability
 
 # Heart of the Wode
 
+---
+
 *You call forth one of the Great Tree's many splinters to provide for your every need.*
 
 | **Green, Magic, Ranged** | **Main action** |

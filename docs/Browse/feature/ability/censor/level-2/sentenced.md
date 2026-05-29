@@ -23,6 +23,8 @@ type: ability
 
 # Sentenced
 
+---
+
 *The shock of your condemnation freezes your enemy in their boots.*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

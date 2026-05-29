@@ -11,6 +11,8 @@ type: career
 
 # Sage
 
+---
+
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
 - What subjects did you study?

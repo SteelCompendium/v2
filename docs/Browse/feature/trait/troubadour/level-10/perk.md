@@ -8,4 +8,6 @@ type: trait
 
 # Perk
 
+---
+
 You gain one interpersonal, lore, or supernatural perk of your choice.

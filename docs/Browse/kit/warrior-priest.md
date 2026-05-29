@@ -11,6 +11,8 @@ type: kit
 
 # Warrior Priest
 
+---
+
 The [Warrior Priest](warrior-priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
 ##### Equipment

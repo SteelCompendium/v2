@@ -21,6 +21,8 @@ type: ability
 
 # Hurl Element
 
+---
+
 *You cast a ball of elemental energy at a foe.*
 
 | **Magic, Ranged, Strike** |               **Main action** |

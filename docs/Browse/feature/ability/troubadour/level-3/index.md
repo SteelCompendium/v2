@@ -1,5 +1,7 @@
 # Level 3
 
+---
+
 <div class="browse-index" markdown>
 
 - [Extensive Rewrites](extensive-rewrites.md)

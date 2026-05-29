@@ -8,6 +8,8 @@ type: trait
 
 # Practical Magic
 
+---
+
 You have the following ability.
 
 ##### Practical Magic

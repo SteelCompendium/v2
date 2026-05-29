@@ -22,6 +22,8 @@ type: ability
 
 # Fear of the Gods
 
+---
+
 *Your divine magic makes a creature appear as what your enemies fear most.*
 
 | **Area, Magic, Ranged**  |               **Main action** |

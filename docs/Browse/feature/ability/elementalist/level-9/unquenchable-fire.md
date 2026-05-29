@@ -23,6 +23,8 @@ type: ability
 
 # Unquenchable Fire
 
+---
+
 *You let fly a fiery missile braided with pure primal energy.*
 
 | **Fire, Magic, Ranged, Strike** |            **Main action** |

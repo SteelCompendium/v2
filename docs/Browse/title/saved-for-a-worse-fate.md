@@ -8,6 +8,8 @@ type: title
 
 # Saved for a Worse Fate
 
+---
+
 *Drink this. You'll need all your strength for what lies ahead!*
 
 **Prerequisite:** The entire party is killed or captured by sapient foes.

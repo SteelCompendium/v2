@@ -1,5 +1,7 @@
 # Level 5
 
+---
+
 <div class="browse-index" markdown>
 
 - [5th-Level Doctrine Features](5th-level-doctrine-features.md)

@@ -22,6 +22,8 @@ type: ability
 
 # Your Allies Turn on You!
 
+---
+
 *You turn your enemies' ire to the target.*
 
 | **Ranged, Strike, Weapon** |               **Main action** |

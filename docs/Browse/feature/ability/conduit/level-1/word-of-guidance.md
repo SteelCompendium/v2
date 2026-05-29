@@ -19,6 +19,8 @@ type: ability
 
 # Word of Guidance
 
+---
+
 *You invigorate an attacking ally with divine energy.*
 
 | **Magic, Ranged**      |        **Triggered** |

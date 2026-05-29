@@ -24,6 +24,8 @@ type: ability
 
 # Star Solo
 
+---
+
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
 | **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |

@@ -8,6 +8,8 @@ type: trait
 
 # Auteur Features
 
+---
+
 Choose one of the following features.
 
 ###### Fix It in Post

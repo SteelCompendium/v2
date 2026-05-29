@@ -1,5 +1,7 @@
 # Treasures
 
+---
+
 <div class="browse-index" markdown>
 
 - [1st-Echelon Consumables](1st-echelon-consumables.md)

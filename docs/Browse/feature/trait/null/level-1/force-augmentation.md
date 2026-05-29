@@ -8,4 +8,6 @@ type: trait
 
 # Force Augmentation
 
+---
+
 Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.

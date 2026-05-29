@@ -22,6 +22,8 @@ type: ability
 
 # The Flesh, a Crucible
 
+---
+
 *Fire engulfs your target and continues to churn.*
 
 | **Fire, Magic, Ranged, Strike** |               **Main action** |

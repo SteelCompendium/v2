@@ -17,6 +17,8 @@ type: ability
 
 # Riders on the Storm
 
+---
+
 *You focus your connection to the Primordial Chaos into a seething storm.*
 
 | **Area, Magic** |                     **Maneuver** |

@@ -8,6 +8,8 @@ type: trait
 
 # Faithful Friend
 
+---
+
 You have the following ability.
 
 ###### Faithful Friend

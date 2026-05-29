@@ -1,5 +1,7 @@
 # Level 6
 
+---
+
 <div class="browse-index" markdown>
 
 - [Begone!](begone.md)

@@ -19,6 +19,8 @@ type: ability
 
 # Harmonize
 
+---
+
 *Give the chorus a little punch.*
 
 | **Ranged**      |   **Triggered** |

@@ -6,4 +6,6 @@ type: skill
 
 # Alchemy
 
+---
+
 Make bombs and potions.

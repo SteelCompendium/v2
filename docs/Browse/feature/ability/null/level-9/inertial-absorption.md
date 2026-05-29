@@ -18,6 +18,8 @@ type: ability
 
 # Inertial Absorption
 
+---
+
 *You absorb an attack to empower your body.*
 
 | **Psionic** |                  **Free triggered** |

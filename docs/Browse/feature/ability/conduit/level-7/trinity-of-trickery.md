@@ -17,6 +17,8 @@ type: ability
 
 # Trinity of Trickery
 
+---
+
 *Hey! I'm over here. No, here, numbskull.*
 
 | **Magic, Ranged**  |            **Maneuver** |

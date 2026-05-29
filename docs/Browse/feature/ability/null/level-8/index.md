@@ -1,5 +1,7 @@
 # Level 8
 
+---
+
 <div class="browse-index" markdown>
 
 - [Arcane Purge](arcane-purge.md)

@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Alacrity of the Heart](alacrity-of-the-heart.md)

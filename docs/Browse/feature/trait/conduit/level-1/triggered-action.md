@@ -8,6 +8,8 @@ type: trait
 
 # Triggered Action
 
+---
+
 Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../ability/conduit/level-1/word-of-guidance.md).)
 
 ##### Word of Guidance

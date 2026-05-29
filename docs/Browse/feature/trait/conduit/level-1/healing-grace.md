@@ -8,6 +8,8 @@ type: trait
 
 # Healing Grace
 
+---
+
 You have the following ability, which you can use once on your turn.
 
 ##### Healing Grace

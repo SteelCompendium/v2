@@ -23,6 +23,8 @@ type: ability
 
 # That One Is Mine!
 
+---
+
 *You focus on making an enemy irrelevant.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

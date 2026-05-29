@@ -22,6 +22,8 @@ type: ability
 
 # I've Got Your Back
 
+---
+
 *Your enemy will think twice about attacking your friend.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |

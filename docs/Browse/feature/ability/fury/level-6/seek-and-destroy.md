@@ -22,6 +22,8 @@ type: ability
 
 # Seek and Destroy
 
+---
+
 *You break through the enemy lines to make an example.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

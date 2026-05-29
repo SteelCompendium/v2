@@ -8,6 +8,8 @@ type: trait
 
 # Dramatic Monologue
 
+---
+
 You have the following ability.
 
 ###### Dramatic Monologue

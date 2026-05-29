@@ -8,6 +8,8 @@ type: title
 
 # Brawler
 
+---
+
 *We won't kill you. But you might wish we had.*
 
 **Prerequisite:** You triumph in battle without killing any of your foes.

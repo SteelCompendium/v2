@@ -17,6 +17,8 @@ type: ability
 
 # Power Ballad
 
+---
+
 *A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*
 
 | **Magic, Ranged** |            **Maneuver** |

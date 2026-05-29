@@ -22,6 +22,8 @@ type: ability
 
 # Staggering Blow
 
+---
+
 *There's no recovering from this.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

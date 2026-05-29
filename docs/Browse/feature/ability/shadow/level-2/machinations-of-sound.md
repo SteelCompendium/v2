@@ -22,6 +22,8 @@ type: ability
 
 # Machinations of Sound
 
+---
+
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
 
 | **Area, Magic, Ranged** |                     **Maneuver** |

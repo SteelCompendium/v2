@@ -21,6 +21,8 @@ type: ability
 
 # Shield of the Righteous
 
+---
+
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
 | **Melee, Strike, Weapon** |          **Main action** |

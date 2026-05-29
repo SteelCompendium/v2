@@ -22,6 +22,8 @@ type: ability
 
 # Force of Storms
 
+---
+
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

@@ -22,6 +22,8 @@ type: ability
 
 # Godstorm
 
+---
+
 *You summon a divine storm that remains under your control.*
 
 | **Area, Magic, Ranged** |               **Main action** |

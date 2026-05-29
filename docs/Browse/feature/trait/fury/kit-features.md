@@ -7,6 +7,8 @@ type: trait
 
 # Kit Features
 
+---
+
 All [stormwight kits](stormwight-kits.md) have the following features in common.
 
 ##### Signature Ability

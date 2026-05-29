@@ -22,6 +22,8 @@ type: ability
 
 # Levity and Gravity
 
+---
+
 *You raise the target slightly into the air, then smother them against the ground.*
 
 | **Psionic, Ranged, Strike, Telekinesis** |               **Main action** |

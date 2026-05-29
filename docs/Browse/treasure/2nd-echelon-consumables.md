@@ -9,6 +9,8 @@ type: treasure
 
 # 2nd-Echelon Consumables
 
+---
+
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 ##### Breath of Dawn

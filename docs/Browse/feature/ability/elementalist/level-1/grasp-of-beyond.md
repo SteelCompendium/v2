@@ -23,6 +23,8 @@ type: ability
 
 # Grasp of Beyond
 
+---
+
 *You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).*
 
 | **Magic, Melee, Strike, Void** |     **Main action** |

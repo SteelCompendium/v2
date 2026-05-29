@@ -22,6 +22,8 @@ type: ability
 
 # Blessed Light
 
+---
+
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
 
 | **Magic, Ranged, Strike** |               **Main action** |

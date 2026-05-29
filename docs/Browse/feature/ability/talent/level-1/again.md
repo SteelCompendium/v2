@@ -18,6 +18,8 @@ type: ability
 
 # Again
 
+---
+
 *You step back a split second to see if things play out a little differently.*
 
 | **Psionic, Ranged** |               **Triggered** |

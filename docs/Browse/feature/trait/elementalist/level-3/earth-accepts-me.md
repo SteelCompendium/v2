@@ -8,6 +8,8 @@ type: trait
 
 # Earth Accepts Me
 
+---
+
 You have the following ability.
 
 ###### Earth Accepts Me

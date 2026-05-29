@@ -18,6 +18,8 @@ type: ability
 
 # Raider (Raider's Awe)
 
+---
+
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../trait/tactician/level-7/shock-and-awe.md)")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

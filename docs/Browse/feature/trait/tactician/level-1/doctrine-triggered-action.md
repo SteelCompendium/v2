@@ -8,6 +8,8 @@ type: trait
 
 # Doctrine Triggered Action
 
+---
+
 Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as shown on the Doctrine Triggered Actions table.
 
 ###### Doctrine Triggered Actions Table

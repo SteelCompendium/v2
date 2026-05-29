@@ -1,5 +1,7 @@
 # Fury
 
+---
+
 <details class="browse-expand" markdown>
 <summary><a href="boren/">Boren</a></summary>
 

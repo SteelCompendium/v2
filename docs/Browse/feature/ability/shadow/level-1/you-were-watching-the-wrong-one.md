@@ -22,6 +22,8 @@ type: ability
 
 # You Were Watching the Wrong One
 
+---
+
 *They can't watch both of you at once.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

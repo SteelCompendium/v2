@@ -6,4 +6,6 @@ type: skill
 
 # Sneak
 
+---
+
 Move silently.

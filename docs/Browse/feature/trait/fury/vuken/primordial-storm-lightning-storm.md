@@ -8,4 +8,6 @@ type: trait
 
 # Primordial Storm: Lightning Storm
 
+---
+
 Your primordial damage type is lightning.

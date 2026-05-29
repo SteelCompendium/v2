@@ -22,6 +22,8 @@ type: ability
 
 # Conflagration
 
+---
+
 *A storm of fire descends upon your enemies.*
 
 | **Area, Fire, Magic, Ranged** |               **Main action** |

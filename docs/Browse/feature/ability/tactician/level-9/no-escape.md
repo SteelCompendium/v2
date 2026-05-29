@@ -23,6 +23,8 @@ type: ability
 
 # No Escape
 
+---
+
 *Nothing will stop you from reaching your foe.*
 
 | **Charge, Melee, Strike, Weapon** |     **Main action** |

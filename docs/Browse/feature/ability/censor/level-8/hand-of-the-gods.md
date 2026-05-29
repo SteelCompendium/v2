@@ -22,6 +22,8 @@ type: ability
 
 # Hand of the Gods
 
+---
+
 *You use your foe as a tool against your enemies.*
 
 | **Ranged, Strike, Weapon** |               **Main action** |

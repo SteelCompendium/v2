@@ -21,6 +21,8 @@ type: ability
 
 # Wither
 
+---
+
 *A bolt of holy energy saps the life from a foe.*
 
 | **Magic, Ranged, Strike**  |               **Main action** |

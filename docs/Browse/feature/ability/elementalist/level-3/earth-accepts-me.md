@@ -16,6 +16,8 @@ type: ability
 
 # Earth Accepts Me
 
+---
+
 *You can slip into the stone.*
 
 | **Earth, Magic** | **Main action** |

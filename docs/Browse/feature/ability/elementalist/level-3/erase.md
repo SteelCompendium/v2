@@ -23,6 +23,8 @@ type: ability
 
 # Erase
 
+---
+
 *With a flick of the wrist, you phase creatures out of existence.*
 
 | **Magic, Ranged, Strike, Void** | **Main action** |

@@ -23,6 +23,8 @@ type: ability
 
 # I'll Open and You'll Close
 
+---
+
 *You create an opening for an ally.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

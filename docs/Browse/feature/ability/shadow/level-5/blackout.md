@@ -17,6 +17,8 @@ type: ability
 
 # Blackout
 
+---
+
 *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
 
 | **Area, Magic** |   **Maneuver** |

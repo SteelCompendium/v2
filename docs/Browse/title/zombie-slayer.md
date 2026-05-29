@@ -8,6 +8,8 @@ type: title
 
 # Zombie Slayer
 
+---
+
 *Why won't you die?! You've already done it once, you should be good at it by now!*
 
 **Prerequisite:** You defeat a leader or solo creature with the Undead keyword, such as a ghost.

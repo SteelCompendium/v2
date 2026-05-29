@@ -17,6 +17,8 @@ type: ability
 
 # Continuity Error
 
+---
+
 *Your subject is written into two places at once.*
 
 | **Magic, Ranged** |               **Maneuver** |

@@ -23,6 +23,8 @@ type: ability
 
 # Hypersonic
 
+---
+
 *You move fast enough to turn around and watch your foes feel the aftermath.*
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |

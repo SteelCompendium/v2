@@ -22,6 +22,8 @@ type: ability
 
 # Thorn Cage
 
+---
+
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |

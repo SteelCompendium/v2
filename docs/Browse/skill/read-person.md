@@ -6,4 +6,6 @@ type: skill
 
 # Read Person
 
+---
+
 Read the emotions and body language of other creatures.

@@ -8,6 +8,8 @@ type: trait
 
 # Star Power
 
+---
+
 You have the following ability.
 
 ###### Star Power (1 Drama)

@@ -20,6 +20,8 @@ type: ability
 
 # Subtle Relocation
 
+---
+
 *You call on the void to swallow and spit out an ally.*
 
 | **Magic, Ranged, Void**  |           **Triggered** |

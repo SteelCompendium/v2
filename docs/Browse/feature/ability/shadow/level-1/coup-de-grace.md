@@ -22,6 +22,8 @@ type: ability
 
 # Coup de Grace
 
+---
+
 *Your blade might be the last thing they see.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |

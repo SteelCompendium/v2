@@ -21,6 +21,8 @@ type: ability
 
 # Saint's Tempest
 
+---
+
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
 
 | **Area, Magic, Ranged**  |               **Main action** |

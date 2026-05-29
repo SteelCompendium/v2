@@ -1,5 +1,7 @@
 # Level 6
 
+---
+
 <div class="browse-index" markdown>
 
 - [Blood on the Stage](blood-on-the-stage.md)

@@ -17,6 +17,8 @@ type: ability
 
 # Return to Formlessness
 
+---
+
 *With the merest touch, you cause an object to turn to slag or ash.*
 
 | **Fire, Magic, Melee**  |           **Main action** |

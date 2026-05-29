@@ -1,5 +1,7 @@
 # Level 1
 
+---
+
 <div class="browse-index" markdown>
 
 - [Afflict a Bountiful Decay](afflict-a-bountiful-decay.md)

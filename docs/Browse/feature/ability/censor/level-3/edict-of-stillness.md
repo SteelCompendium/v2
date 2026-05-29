@@ -17,6 +17,8 @@ type: ability
 
 # Edict of Stillness
 
+---
+
 *The holy aura you project makes it painful for evil-doers to leave your reach.*
 
 | **Area, Magic** |                  **Maneuver** |

@@ -8,6 +8,8 @@ type: trait
 
 # Feedback Loop
 
+---
+
 You have the following ability.
 
 ###### Feedback Loop

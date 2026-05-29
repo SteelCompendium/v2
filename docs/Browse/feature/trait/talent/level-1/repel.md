@@ -8,6 +8,8 @@ type: trait
 
 # Repel
 
+---
+
 You have the following ability.
 
 ##### Repel

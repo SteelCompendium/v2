@@ -7,6 +7,8 @@ type: trait
 
 # Memonek Traits
 
+---
+
 [Memonek](../../../ancestry/memonek.md) heroes have access to the following traits.
 
 #### Signature Trait: Fall Lightly

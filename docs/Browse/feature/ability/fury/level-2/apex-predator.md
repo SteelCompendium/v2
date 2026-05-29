@@ -22,6 +22,8 @@ type: ability
 
 # Apex Predator
 
+---
+
 *I will hunt you down.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

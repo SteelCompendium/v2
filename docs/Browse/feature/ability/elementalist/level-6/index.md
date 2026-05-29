@@ -1,5 +1,7 @@
 # Level 6
 
+---
+
 <div class="browse-index" markdown>
 
 - [Luminous Champion Aloft](luminous-champion-aloft.md)

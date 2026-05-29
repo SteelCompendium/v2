@@ -17,6 +17,8 @@ type: ability
 
 # Synaptic Reset
 
+---
+
 *You expand your nullifying power to mitigate harmful effects.*
 
 | **Area, Psionic** |                          **Maneuver** |

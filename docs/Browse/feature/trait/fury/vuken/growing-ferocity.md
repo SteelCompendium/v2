@@ -8,6 +8,8 @@ type: trait
 
 # Growing Ferocity
 
+---
+
 As your ferocity grows, you gain benefits as noted on the [Vuken](../../../../kit/vuken.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ###### Vuken Growing Ferocity Table

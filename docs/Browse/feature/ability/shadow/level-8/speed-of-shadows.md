@@ -16,6 +16,8 @@ type: ability
 
 # Speed of Shadows
 
+---
+
 *You make multiple strikes against a foe before they even notice they're dead.*
 
 | **Magic**   | **Main action** |

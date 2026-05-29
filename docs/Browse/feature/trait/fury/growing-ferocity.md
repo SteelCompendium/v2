@@ -7,4 +7,6 @@ type: trait
 
 # Growing Ferocity
 
+---
+
 Each stormwight kit grants a set of benefits for your [Growing Ferocity](boren/growing-ferocity.md) feature.

@@ -18,6 +18,8 @@ type: ability
 
 # Borrow From the Future
 
+---
+
 *You lean on future heroism to assist you in the now.*
 
 | **Area, Chronopathy, Psionic** |                 **Maneuver** |

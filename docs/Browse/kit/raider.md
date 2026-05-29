@@ -13,6 +13,8 @@ type: kit
 
 # Raider
 
+---
+
 The [Raider](raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
 ##### Equipment

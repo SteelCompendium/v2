@@ -22,6 +22,8 @@ type: ability
 
 # Disorienting Strike
 
+---
+
 *Your attack leaves them reeling, allowing you to follow up.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

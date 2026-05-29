@@ -22,6 +22,8 @@ type: ability
 
 # Your Entrails Are Your Extrails!
 
+---
+
 *Hard for them to fight when they're busy holding in their giblets.*
 
 | **Melee, Strike, Weapon** |               **Main action** |

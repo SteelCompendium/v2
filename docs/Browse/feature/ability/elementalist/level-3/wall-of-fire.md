@@ -19,6 +19,8 @@ type: ability
 
 # Wall of Fire
 
+---
+
 *A blazing, beautifully organized inferno erupts at your command.*
 
 | **Area, Fire, Magic, Ranged** |   **Maneuver** |

@@ -8,4 +8,6 @@ type: trait
 
 # Quickness Ward
 
+---
+
 The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score after the damage is dealt.

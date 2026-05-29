@@ -8,6 +8,8 @@ type: title
 
 # Undead Slain
 
+---
+
 *No, I didn't get bitten. And yes, I'm fine!*
 
 **Prerequisite:** You are killed by an undead creature.

@@ -8,4 +8,6 @@ type: trait
 
 # A Step Ahead
 
+---
+
 You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../../../../movement/shifting.md) gains a bonus equal to your Agility score.

@@ -1,5 +1,7 @@
 # Level 9
 
+---
+
 <div class="browse-index" markdown>
 
 - [Death Comes for You All!](death-comes-for-you-all.md)

@@ -17,6 +17,8 @@ type: ability
 
 # Sermon of Grace
 
+---
+
 *You inspire your allies with tales of your saint's great deeds.*
 
 | **Area, Magic** |              **Main action** |

@@ -17,6 +17,8 @@ type: ability
 
 # Bend Fate
 
+---
+
 *The gods know you must prevail, and they bless your fate.*
 
 | **Magic, Ranged**  |         **Main action** |

@@ -22,6 +22,8 @@ type: ability
 
 # Instantaneous Excavation
 
+---
+
 *The surface of the world around you opens up to swallow foes.*
 
 | **Earth, Magic, Ranged** |    **Maneuver** |

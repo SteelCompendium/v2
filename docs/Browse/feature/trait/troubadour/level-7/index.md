@@ -1,5 +1,7 @@
 # Level 7
 
+---
+
 <div class="browse-index" markdown>
 
 - [A Muse's Muse](a-muses-muse.md)

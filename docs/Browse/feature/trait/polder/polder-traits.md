@@ -7,4 +7,6 @@ type: trait
 
 # Polder Traits
 
+---
+
 [Polder](../../../ancestry/polder.md) heroes have access to the following traits.

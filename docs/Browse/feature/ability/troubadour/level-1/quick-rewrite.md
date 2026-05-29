@@ -22,6 +22,8 @@ type: ability
 
 # Quick Rewrite
 
+---
+
 *You write something unexpected into the scene that hinders your enemy.*
 
 | **Area, Magic, Ranged**     |               **Main action** |

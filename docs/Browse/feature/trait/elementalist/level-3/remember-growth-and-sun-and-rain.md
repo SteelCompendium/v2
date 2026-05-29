@@ -8,6 +8,8 @@ type: trait
 
 # Remember Growth and Sun and Rain
 
+---
+
 You have the following ability.
 
 ###### Remember Growth and Sun and Rain

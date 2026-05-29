@@ -23,6 +23,8 @@ type: ability
 
 # Into the Shadows
 
+---
+
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
 | **Magic, Melee, Strike, Weapon** |               **Main action** |

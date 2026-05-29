@@ -21,6 +21,8 @@ type: ability
 
 # Mind Spike
 
+---
+
 *A telepathic bolt instantly zaps a creature's brain.*
 
 | **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |

@@ -23,6 +23,8 @@ type: ability
 
 # Impart Force
 
+---
+
 *A single touch from you, and your enemy flies backward.*
 
 | **Melee, Psionic, Strike, Weapon** |                  **Maneuver** |

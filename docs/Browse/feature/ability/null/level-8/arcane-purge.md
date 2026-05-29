@@ -23,6 +23,8 @@ type: ability
 
 # Arcane Purge
 
+---
+
 *You focus your [null](../../../../class/null.md) field into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |

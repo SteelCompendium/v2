@@ -20,6 +20,8 @@ type: ability
 
 # Death Strike
 
+---
+
 *Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
 
 | **Melee, Strike, Weapon** | **Free triggered** |

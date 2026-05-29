@@ -22,6 +22,8 @@ type: ability
 
 # Warrior's Prayer
 
+---
+
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
 
 | **Magic, Ranged, Strike**  |     **Main action** |

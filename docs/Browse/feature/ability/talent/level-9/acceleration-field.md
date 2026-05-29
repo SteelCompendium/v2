@@ -22,6 +22,8 @@ type: ability
 
 # Acceleration Field
 
+---
+
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
 
 | **Chronopathy, Psionic, Ranged** |     **Main action** |

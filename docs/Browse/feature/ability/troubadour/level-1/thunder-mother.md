@@ -22,6 +22,8 @@ type: ability
 
 # Thunder Mother
 
+---
+
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
 | **Magic, Performance, Ranged, Strike** |       **No action** |

@@ -8,6 +8,8 @@ type: trait
 
 # Censor Order
 
+---
+
 [Censors](../../../../class/censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor](../../../../class/censor.md) order from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
 - **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../../../../skill/read-person.md) skill.

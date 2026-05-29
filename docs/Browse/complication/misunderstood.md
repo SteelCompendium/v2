@@ -6,6 +6,8 @@ type: complication
 
 # Misunderstood
 
+---
+
 Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you're not often given a chance to prove it. It's no wonder you usually wear a hood.
 
 **Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an edge on any test involving those creatures where the [Brag](../skill/brag.md) or [Intimidate](../skill/intimidate.md) skill could be applied, but you take a bane on any test where the [Flirt](../skill/flirt.md), Lead, or [Persuade](../skill/persuade.md) skill could be applied.

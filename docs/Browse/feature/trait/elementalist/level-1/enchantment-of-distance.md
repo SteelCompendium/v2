@@ -8,4 +8,6 @@ type: trait
 
 # Enchantment of Distance
 
+---
+
 You have a +2 bonus to the distance of your ranged magic abilities.

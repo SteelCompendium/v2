@@ -8,6 +8,8 @@ type: title
 
 # Mage Hunter
 
+---
+
 *Their power is dangerous. Unnatural. Someone needs to do something.*
 
 **Prerequisite:** You defeat three leader or solo creatures who each have at least one ability with the Magic keyword.

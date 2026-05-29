@@ -21,6 +21,8 @@ type: ability
 
 # Penance
 
+---
+
 *"If you won't kneel, the gods will make you."*
 
 | **Area, Magic, Ranged**  |               **Main action** |

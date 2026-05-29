@@ -22,6 +22,8 @@ type: ability
 
 # Get In Get Out
 
+---
+
 *Move unexpectedly, strike fast, and be gone!*
 
 | **Melee, Strike, Weapon** |     **Main action** |

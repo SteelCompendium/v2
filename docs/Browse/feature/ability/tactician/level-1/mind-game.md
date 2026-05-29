@@ -23,6 +23,8 @@ type: ability
 
 # Mind Game
 
+---
+
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 
 | **Melee, Ranged, Strike, Weapon** |               **Main action** |

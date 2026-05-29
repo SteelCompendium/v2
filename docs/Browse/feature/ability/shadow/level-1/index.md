@@ -1,5 +1,7 @@
 # Level 1
 
+---
+
 <div class="browse-index" markdown>
 
 - [Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)](black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport.md)

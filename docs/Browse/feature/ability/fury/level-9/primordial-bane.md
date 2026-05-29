@@ -23,6 +23,8 @@ type: ability
 
 # Primordial Bane
 
+---
+
 *You attune the target to be weaker to a specific element.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |

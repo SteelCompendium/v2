@@ -16,6 +16,8 @@ type: ability
 
 # Minor Acceleration
 
+---
+
 *You fill yourself or an ally with a burst of speed.*
 
 | **Psionic, Melee** | Maneuver               |

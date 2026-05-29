@@ -19,6 +19,8 @@ type: ability
 
 # Lines of Force
 
+---
+
 *You redirect the energy of motion.*
 
 | **Magic, Melee** |               **Triggered** |

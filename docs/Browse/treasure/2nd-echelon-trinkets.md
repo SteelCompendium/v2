@@ -10,6 +10,8 @@ type: treasure
 
 # 2nd-Echelon Trinkets
 
+---
+
 This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 ##### Bastion Belt

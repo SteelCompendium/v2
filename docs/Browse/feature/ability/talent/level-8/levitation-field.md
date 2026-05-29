@@ -17,6 +17,8 @@ type: ability
 
 # Levitation Field
 
+---
+
 *You manipulate the air around your allies so they can move as freely through the sky as you can.*
 
 | **Area, Psionic** |                 **Maneuver** |

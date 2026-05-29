@@ -17,6 +17,8 @@ type: ability
 
 # Edict of Unyielding Resolve
 
+---
+
 *You and your allies are clad in shimmering armor.*
 
 | **Area, Magic** |                          **Maneuver** |

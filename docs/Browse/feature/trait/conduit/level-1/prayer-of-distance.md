@@ -8,4 +8,6 @@ type: trait
 
 # Prayer of Distance
 
+---
+
 Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.

@@ -22,6 +22,8 @@ type: ability
 
 # Try Me Instead
 
+---
+
 *"Try picking on someone my size."*
 
 | **Melee, Strike, Weapon** | **Main action** |

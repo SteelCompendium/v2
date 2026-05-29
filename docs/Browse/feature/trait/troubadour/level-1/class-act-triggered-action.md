@@ -8,6 +8,8 @@ type: trait
 
 # Class Act Triggered Action
 
+---
+
 Your [troubadour](../../../../class/troubadour.md) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
 ###### Class Act Triggered Action Table

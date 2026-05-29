@@ -20,6 +20,8 @@ type: ability
 
 # Begone!
 
+---
+
 *You terrify your enemies into retreating, creating chaos in their ranks.*
 
 | **Area, Magic** |               **Main action** |

@@ -6,4 +6,6 @@ type: skill
 
 # Architecture
 
+---
+
 Create buildings and vehicles.

@@ -8,4 +8,6 @@ type: trait
 
 # Veiling Bed
 
+---
+
 The area provides concealment for you and your allies.

@@ -21,6 +21,8 @@ type: ability
 
 # Lightning Lord
 
+---
+
 *Lightning bursts forth from your body in several directions.*
 
 | **Area, Magic**                    |               **Main action** |

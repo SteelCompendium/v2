@@ -8,4 +8,6 @@ type: trait
 
 # Improved Field Arsenal
 
+---
+
 Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you gain an edge.

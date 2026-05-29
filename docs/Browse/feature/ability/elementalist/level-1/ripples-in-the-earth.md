@@ -22,6 +22,8 @@ type: ability
 
 # Ripples in the Earth
 
+---
+
 *Like a stone was dropped into a pond, waves in the earth radiate from you.*
 
 | **Area, Earth, Magic** |               **Main action** |

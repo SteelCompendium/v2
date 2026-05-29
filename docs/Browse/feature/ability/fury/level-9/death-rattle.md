@@ -20,6 +20,8 @@ type: ability
 
 # Death Rattle
 
+---
+
 *You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*
 
 | **Area, Magic** |               **Main action** |

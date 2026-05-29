@@ -23,6 +23,8 @@ type: ability
 
 # To Me Squad!
 
+---
+
 *You lead your allies in a charge.*
 
 | **Charge, Melee, Strike, Weapon** |     **Main action** |

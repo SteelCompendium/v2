@@ -7,6 +7,8 @@ type: trait
 
 # Dwarf Traits
 
+---
+
 [Dwarf](../../../ancestry/dwarf.md) heroes have access to the following traits.
 
 #### Signature Trait: Runic Carving

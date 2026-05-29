@@ -8,6 +8,8 @@ type: trait
 
 # Again
 
+---
+
 You have the following ability.
 
 ###### Again

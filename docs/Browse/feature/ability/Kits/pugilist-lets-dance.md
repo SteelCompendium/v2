@@ -17,6 +17,8 @@ type: ability
 
 # Pugilist (Let's Dance)
 
+---
+
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 
 | **Melee, Strike, Weapon** |     **Main action** |

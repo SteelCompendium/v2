@@ -22,6 +22,8 @@ type: ability
 
 # Rebounding Storm
 
+---
+
 *You knock around enemies like playthings.*
 
 | **Melee, Strike, Weapon** |                 **Main action** |

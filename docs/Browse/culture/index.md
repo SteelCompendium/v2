@@ -1,5 +1,7 @@
 # Cultures
 
+---
+
 <div class="browse-index" markdown>
 
 - [Academic](academic.md)

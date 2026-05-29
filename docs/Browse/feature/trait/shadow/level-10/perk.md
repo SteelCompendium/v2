@@ -8,4 +8,6 @@ type: trait
 
 # Perk
 
+---
+
 You gain one perk of your choice.

@@ -24,6 +24,8 @@ type: ability
 
 # Behold the Face of Justice!
 
+---
+
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
 | **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |

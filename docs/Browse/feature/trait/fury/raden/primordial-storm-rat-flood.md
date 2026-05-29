@@ -8,4 +8,6 @@ type: trait
 
 # Primordial Storm: Rat Flood
 
+---
+
 Your primordial damage type is corruption.

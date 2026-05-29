@@ -18,6 +18,8 @@ type: ability
 
 # Inertia Soak
 
+---
+
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 
 | **Psionic, Ranged, Telekinesis** |            **Maneuver** |

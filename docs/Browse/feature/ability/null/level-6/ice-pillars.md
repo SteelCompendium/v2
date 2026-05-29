@@ -21,6 +21,8 @@ type: ability
 
 # Ice Pillars
 
+---
+
 *Pillars of ice erupt from the ground and launch your foes into the air.*
 
 | **Psionic, Ranged** |                   **Main action** |

@@ -21,6 +21,8 @@ type: ability
 
 # Brutal Slam
 
+---
+
 *The heavy impact of your weapon attacks drives your foes ever back.*
 
 | **Melee, Strike, Weapon** |                **Main action** |

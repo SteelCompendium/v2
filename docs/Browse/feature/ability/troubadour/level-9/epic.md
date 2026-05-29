@@ -22,6 +22,8 @@ type: ability
 
 # Epic
 
+---
+
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 
 | **Magic, Melee, Ranged**    |        **Maneuver** |

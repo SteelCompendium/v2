@@ -6,4 +6,6 @@ type: skill
 
 # Escape Artist
 
+---
+
 Escape from bonds such as rope or manacles.

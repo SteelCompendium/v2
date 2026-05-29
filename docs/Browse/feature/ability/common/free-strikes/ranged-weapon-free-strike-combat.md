@@ -14,6 +14,8 @@ type: ability
 
 # Ranged Weapon Free Strike
 
+---
+
 | **Ranged, Stike, Weapon** |               **Main action** |
 |---------------------------| -----------------------------:|
 | **📏 Ranged 5**           | **🎯 One creature or object** |

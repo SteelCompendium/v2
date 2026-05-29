@@ -6,4 +6,6 @@ type: skill
 
 # Pick Lock
 
+---
+
 Open a lock without using the key.

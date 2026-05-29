@@ -8,6 +8,8 @@ type: trait
 
 # 1st-Level Doctrine Feature
 
+---
+
 Your [tactical doctrine](tactical-doctrine.md) grants you a feature, as shown on the 1st-Level Doctrine Features table.
 
 ###### 1st-Level Doctrine Features Table

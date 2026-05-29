@@ -8,6 +8,8 @@ type: trait
 
 # Duelist Features
 
+---
+
 Choose one of the following features.
 
 ###### Verbal Duel

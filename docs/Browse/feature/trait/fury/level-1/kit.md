@@ -8,4 +8,6 @@ type: trait
 
 # Kit
 
+---
+
 You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../../Read/chapter/kits.md) for more information. (*Quick Build:* [Panther](../../../../kit/panther.md).)

@@ -7,6 +7,8 @@ type: ancestry
 
 # Orc
 
+---
+
 An anger that cannot be hidden. A [fury](../class/fury.md) that drives them in battle. [Orcs](orc.md) are famed throughout the world as consummate warriors—a reputation that the peace—loving [orcs](orc.md) find distasteful.
 
 The fifth of the speaking peoples, [orcs](orc.md) arrived on Orden after [humans](human.md) and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [humans](human.md) who cut down the trees and built roads and farms.

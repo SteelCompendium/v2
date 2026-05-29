@@ -8,4 +8,6 @@ type: trait
 
 # Stalwart Icon
 
+---
+
 You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others.

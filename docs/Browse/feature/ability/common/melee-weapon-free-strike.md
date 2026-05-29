@@ -15,6 +15,8 @@ type: ability
 
 # Melee Weapon Free Strike
 
+---
+
 | **Charge, Melee, Strike, Weapon**  |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |

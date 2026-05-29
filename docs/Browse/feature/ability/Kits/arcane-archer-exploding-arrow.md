@@ -18,6 +18,8 @@ type: ability
 
 # Arcane Archer (Exploding Arrow)
 
+---
+
 *Your ammunition explodes with magical energy.*
 
 | **Magic, Ranged, Strike, Weapon** |               **Main action** |

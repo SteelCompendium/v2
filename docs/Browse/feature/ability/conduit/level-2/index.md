@@ -1,5 +1,7 @@
 # Level 2
 
+---
+
 <div class="browse-index" markdown>
 
 - [Blessing of Fate and Destiny](blessing-of-fate-and-destiny.md)

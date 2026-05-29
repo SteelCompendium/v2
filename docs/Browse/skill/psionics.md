@@ -6,4 +6,6 @@ type: skill
 
 # Psionics
 
+---
+
 Knowing about psionic places, spells, rituals, items, and phenomena.

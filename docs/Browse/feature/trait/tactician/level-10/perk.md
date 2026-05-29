@@ -8,4 +8,6 @@ type: trait
 
 # Perk
 
+---
+
 You gain one exploration, interpersonal, or intrigue perk of your choice.

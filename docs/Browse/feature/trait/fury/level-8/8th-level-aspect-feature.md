@@ -8,6 +8,8 @@ type: trait
 
 # 8th-Level Aspect Feature
 
+---
+
 Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
 ###### 8th-Level Aspect Features Table

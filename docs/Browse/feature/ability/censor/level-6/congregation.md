@@ -22,6 +22,8 @@ type: ability
 
 # Congregation
 
+---
+
 *You focus your allies' wrath on a chosen foe.*
 
 | **Melee, Strike, Weapon** |   **Main action** |

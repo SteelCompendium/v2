@@ -23,6 +23,8 @@ type: ability
 
 # Phase Inversion Strike
 
+---
+
 *You step momentarily out of phase as you pull an enemy through you.*
 
 | **Melee, Psionic, Strike, Weapon** |               **Main action** |

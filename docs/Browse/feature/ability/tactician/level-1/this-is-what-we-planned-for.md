@@ -16,6 +16,8 @@ type: ability
 
 # This Is What We Planned For
 
+---
+
 *All those coordination drills you made them do finally pay off.*
 
 | **Ranged**       |      **Maneuver** |

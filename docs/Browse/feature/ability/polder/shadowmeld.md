@@ -15,6 +15,8 @@ type: ability
 
 # Shadowmeld
 
+---
+
 *You become an actual shadow.*
 
 | **Magic**   |    **Maneuver** |

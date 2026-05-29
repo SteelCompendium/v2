@@ -10,6 +10,8 @@ type: career
 
 # Sailor
 
+---
+
 You worked on a ship, whether a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain. In defining your career, think about the following questions:
 
 - What is the name of the vessel you sailed on, and what type of business was the crew engaged in?

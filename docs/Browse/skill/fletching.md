@@ -6,4 +6,6 @@ type: skill
 
 # Fletching
 
+---
+
 Make ranged weapons and ammunition.
