@@ -178,11 +178,28 @@ th:empty {
 }
 
 .browse-expand summary {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
     padding: 0.5em 0.8em;
     cursor: pointer;
     font-weight: 500;
     font-size: 0.9em;
-    list-style: revert;
+    list-style: none;
+}
+
+.browse-expand summary::before {
+    content: "▸";
+    display: inline-block;
+    transition: transform 0.15s;
+}
+
+.browse-expand[open] > summary::before {
+    transform: rotate(90deg);
+}
+
+.browse-expand summary::-webkit-details-marker {
+    display: none;
 }
 
 .browse-expand summary a {

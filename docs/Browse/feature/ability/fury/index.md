@@ -115,7 +115,6 @@
 
 </details>
 
-
 <div class="browse-index" markdown>
 
 - [Aspect of the Wild](aspect-of-the-wild.md)

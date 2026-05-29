@@ -216,7 +216,6 @@
 
 </details>
 
-
 <div class="browse-index" markdown>
 
 - [Aspect Benefits and Animal Form](aspect-benefits-and-animal-form.md)

@@ -25,7 +25,6 @@
 
 </details>
 
-
 <div class="browse-index" markdown>
 
 - [Claw Dirt](claw-dirt.md)
