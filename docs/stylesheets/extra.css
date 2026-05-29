@@ -79,7 +79,7 @@ th:empty {
 }
 
 /* Browse index: multi-column link grid */
-.browse-index ul {
+.md-typeset .browse-index ul {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -88,7 +88,7 @@ th:empty {
     gap: 0.4em 1.5em;
 }
 
-.browse-index li {
+.md-typeset .browse-index li {
     margin: 0;
     padding: 0.4em 0.6em;
     border-radius: 0.3em;
@@ -96,16 +96,16 @@ th:empty {
     transition: background 0.15s, border-color 0.15s;
 }
 
-.browse-index li:last-child {
-    margin-bottom: 0em;
+.md-typeset .browse-index li:last-child {
+    margin-bottom: 0;
 }
 
-.browse-index li:hover {
+.md-typeset .browse-index li:hover {
     background: var(--md-accent-fg-color--transparent);
     border-color: var(--md-accent-fg-color);
 }
 
-.browse-index li a {
+.md-typeset .browse-index li a {
     display: block;
     text-decoration: none;
     color: var(--md-default-fg-color);
@@ -113,7 +113,7 @@ th:empty {
     font-size: 1.1em;
 }
 
-.browse-index li a:hover {
+.md-typeset .browse-index li a:hover {
     color: var(--md-accent-fg-color);
 }
 
@@ -298,6 +298,17 @@ th:empty {
 
 [data-md-color-scheme="slate"] .browse-index li:hover {
     border-color: var(--md-accent-fg-color);
+}
+
+/* Preference dropdowns: match dark mode */
+[data-md-color-scheme="slate"] .pref-card select,
+[data-md-color-scheme="slate"] .pref-card input[type="text"] {
+    color-scheme: dark;
+}
+
+[data-md-color-scheme="slate"] .pref-card select option {
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
 }
 
 /* ============================

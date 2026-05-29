@@ -29,7 +29,7 @@
     }
 
     /* Slightly tighter browse grid */
-    .browse-index ul {
+    .md-typeset .browse-index ul {
         grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
     }
 }
@@ -62,7 +62,7 @@
     }
 
     /* Single-column browse index on small screens */
-    .browse-index ul {
+    .md-typeset .browse-index ul {
         grid-template-columns: 1fr;
         gap: 0.3em;
     }
