@@ -7,11 +7,6 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
-/* H1: tight top, breathing room below */
-.md-typeset h1 {
-    margin: 0 0 1em;
-}
-
 .md-typeset h1 + hr {
     margin-bottom: 1em;
 }
