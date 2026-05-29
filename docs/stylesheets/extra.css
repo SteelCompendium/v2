@@ -12,6 +12,10 @@ th:empty {
     margin: 0 0 1em;
 }
 
+.md-typeset h1 + hr {
+    margin-bottom: 1em;
+}
+
 /* Preferences page */
 .prefs-grid {
     display: grid;
