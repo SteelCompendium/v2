@@ -1,7 +1,7 @@
 # Shadow
 
 <details class="browse-expand" markdown>
-<summary><a href="level-1/index.md">Level 1</a></summary>
+<summary><a href="level-1/">Level 1</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -21,7 +21,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-2/index.md">Level 2</a></summary>
+<summary><a href="level-2/">Level 2</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -36,7 +36,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-3/index.md">Level 3</a></summary>
+<summary><a href="level-3/">Level 3</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -47,7 +47,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-4/index.md">Level 4</a></summary>
+<summary><a href="level-4/">Level 4</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -63,7 +63,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-5/index.md">Level 5</a></summary>
+<summary><a href="level-5/">Level 5</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -77,7 +77,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-6/index.md">Level 6</a></summary>
+<summary><a href="level-6/">Level 6</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -89,7 +89,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-7/index.md">Level 7</a></summary>
+<summary><a href="level-7/">Level 7</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -104,7 +104,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-8/index.md">Level 8</a></summary>
+<summary><a href="level-8/">Level 8</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -119,7 +119,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-9/index.md">Level 9</a></summary>
+<summary><a href="level-9/">Level 9</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -130,7 +130,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="level-10/index.md">Level 10</a></summary>
+<summary><a href="level-10/">Level 10</a></summary>
 
 <div class="browse-index" markdown>
 

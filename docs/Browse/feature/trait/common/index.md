@@ -1,7 +1,7 @@
 # Common
 
 <details class="browse-expand" markdown>
-<summary><a href="main-actions/index.md">Main Actions</a></summary>
+<summary><a href="main-actions/">Main Actions</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -15,7 +15,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="maneuvers/index.md">Maneuvers</a></summary>
+<summary><a href="maneuvers/">Maneuvers</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -35,7 +35,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="move-actions/index.md">Move Actions</a></summary>
+<summary><a href="move-actions/">Move Actions</a></summary>
 
 <div class="browse-index" markdown>
 

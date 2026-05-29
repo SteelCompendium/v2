@@ -1,7 +1,7 @@
 # Common
 
 <details class="browse-expand" markdown>
-<summary><a href="free-strikes/index.md">Free Strikes</a></summary>
+<summary><a href="free-strikes/">Free Strikes</a></summary>
 
 <div class="browse-index" markdown>
 
@@ -13,7 +13,7 @@
 </details>
 
 <details class="browse-expand" markdown>
-<summary><a href="maneuvers/index.md">Maneuvers</a></summary>
+<summary><a href="maneuvers/">Maneuvers</a></summary>
 
 <div class="browse-index" markdown>
 
