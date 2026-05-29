@@ -1,5 +1,5 @@
 (function () {
-    const KEY = "mkdocs:fontPrefs"; // reuse your existing key
+    const KEY = "mkdocs:fontPrefs";
     const VARS = {
         large: "--md-large-header-font",
         small: "--md-small-header-font",
@@ -18,9 +18,9 @@
     function applyWidth(value) {
         const r = document.documentElement.style;
         if (!value || value === "default") {
-            r.removeProperty(WIDTH_VAR);       // <- restores the theme’s own width
+            r.removeProperty(WIDTH_VAR);
         } else {
-            r.setProperty(WIDTH_VAR, value);   // e.g. "70em", "1200px", "90%", "none"
+            r.setProperty(WIDTH_VAR, value);
         }
     }
 
@@ -28,8 +28,6 @@
         localStorage.setItem(KEY, JSON.stringify(prefs));
     }
 
-    // Accept: number+unit (em/rem/px/%), or 'none'/'full'
-    // If user enters a bare number, default to 'em'.
     function normalizeWidth(raw) {
         if (!raw) return null;
         let v = String(raw).trim().toLowerCase();
@@ -37,7 +35,7 @@
         if (v === "none") return v;
         if (v === "default") return v;
         if (/^\d+(\.\d+)?(em|rem|px|%)$/.test(v)) return v;
-        if (/^\d+(\.\d+)?$/.test(v)) return v + "em";  // default unit
+        if (/^\d+(\.\d+)?$/.test(v)) return v + "em";
         return null;
     }
 
@@ -72,8 +70,7 @@
         if (saved.cardStyle) applyCardStyle(saved.cardStyle);
     }
 
-    document.addEventListener("DOMContentLoaded", () => {
-        // font selects (if present)
+    function bindControls() {
         const sel = {
             large: document.getElementById("font-large"),
             small: document.getElementById("font-small"),
@@ -94,39 +91,35 @@
         const applyBtn = document.getElementById("width-apply");
         const resetBtn = document.getElementById("width-reset");
 
-        if (!input || !applyBtn || !resetBtn) return;
+        if (input && applyBtn && resetBtn) {
+            input.value = saved.width || "100%";
 
-        // Initialize field
-        input.value = saved.width || "100%";
-
-        function doApply() {
-            const norm = normalizeWidth(input.value);
-            if (!norm) {
-                input.setCustomValidity("Enter a value like 61em, 1200px, 90%, 'none', or 'default'");
-                input.reportValidity();
-                return;
+            function doApply() {
+                const norm = normalizeWidth(input.value);
+                if (!norm) {
+                    input.setCustomValidity("Enter a value like 61em, 1200px, 90%, 'none', or 'default'");
+                    input.reportValidity();
+                    return;
+                }
+                input.setCustomValidity("");
+                saved.width = norm;
+                applyWidth(saved.width);
+                save(saved);
             }
-            input.setCustomValidity("");
-            saved.width = norm;
-            applyWidth(saved.width);
-            save(saved);
+
+            applyBtn.addEventListener("click", doApply);
+            input.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") { e.preventDefault(); doApply(); }
+            });
+
+            resetBtn.addEventListener("click", () => {
+                input.value = "100%";
+                saved.width = "100%";
+                applyWidth(saved.width);
+                save(saved);
+            });
         }
 
-        // Apply on button click or Enter
-        applyBtn.addEventListener("click", doApply);
-        input.addEventListener("keydown", (e) => {
-            if (e.key === "Enter") { e.preventDefault(); doApply(); }
-        });
-
-        // Reset to theme default
-        resetBtn.addEventListener("click", () => {
-            input.value = "100%";
-            saved.width = "100%";
-            applyWidth(saved.width);
-            save(saved);
-        });
-
-        // Compact mode toggle
         const compactToggle = document.getElementById("compact-toggle");
         if (compactToggle) {
             compactToggle.checked = !!saved.compact;
@@ -137,7 +130,6 @@
             });
         }
 
-        // Site theme
         const themeSel = document.getElementById("site-theme");
         if (themeSel) {
             if (saved.siteTheme) themeSel.value = saved.siteTheme;
@@ -149,7 +141,6 @@
             });
         }
 
-        // Card style
         const cardStyleSel = document.getElementById("card-style");
         if (cardStyleSel) {
             if (saved.cardStyle) cardStyleSel.value = saved.cardStyle;
@@ -161,5 +152,17 @@
                 location.reload();
             });
         }
-    });
+    }
+
+    // Bind on initial load
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", bindControls);
+    } else {
+        bindControls();
+    }
+
+    // Re-bind after instant navigation (MkDocs Material replaces page content)
+    if (typeof document$ !== "undefined") {
+        document$.subscribe(bindControls);
+    }
 })();
