@@ -15,11 +15,11 @@ type: kit
 
 The [Dual Wielder](dual-wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
-##### Equipment
+## Equipment
 
 You wear medium armor and wield a light weapon and a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -29,9 +29,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Double Strike
+### Double Strike
 
 *Why strike once when you could do it twice?*
 

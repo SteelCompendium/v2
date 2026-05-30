@@ -12,13 +12,13 @@ type: trait
 
 You have the following ability.
 
-###### Hands of the Maker
+## Hands of the Maker
 
-> 
-> *You craft objects with the power of your mind.*
-> 
-> | **Magic**                |  **Maneuver** |
-> |--------------------------|--------------:|
-> | **📏 Self**              |   **🎯 Self** |
-> 
-> **Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
+
+*You craft objects with the power of your mind.*
+
+| **Magic**                |  **Maneuver** |
+|--------------------------|--------------:|
+| **📏 Self**              |   **🎯 Self** |
+
+**Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).

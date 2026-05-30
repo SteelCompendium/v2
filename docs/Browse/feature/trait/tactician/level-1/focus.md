@@ -12,7 +12,7 @@ type: trait
 
 The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
 
-##### Focus in Combat
+## Focus in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Victories. At the start of each of your turns during combat, you gain 2 focus.
 
@@ -20,7 +20,7 @@ Additionally, the first time each combat round that you or any ally damages a cr
 
 You lose any remaining focus at the end of the encounter.
 
-##### Focus Outside of Combat
+## Focus Outside of Combat
 
 Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

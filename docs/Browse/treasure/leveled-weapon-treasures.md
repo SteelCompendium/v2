@@ -13,7 +13,7 @@ type: treasure
 
 For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](leveled-weapon-treasures.md) in alphabetical order.
 
-##### Authority's End
+## Authority's End
 
 *This long, sinuous chain is composed entirely of broken links held together by unseen power.*
 
@@ -33,7 +33,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you no longer need to use a maneuver to end one effect when you damage a creature with the weapon. The weapon also refuses to vie for control of your psyche, and no longer counts against the limit of leveled treasures you can carry safely.
 
-##### Blade of Quintessence
+## Blade of Quintessence
 
 *This crystal blade houses a stormy vortex of fire, ice, and lightning.*
 
@@ -51,7 +51,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, while you wield or carry the weapon, you have immunity 10 to cold, fire, lightning, and sonic damage.
 
-##### Blade of the Luxurious Fop
+## Blade of the Luxurious Fop
 
 *Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.*
 
@@ -71,7 +71,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double edge on any test you make using a skill you have from the interpersonal skill group.
 
-##### Displacer
+## Displacer
 
 *This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.*
 
@@ -91,7 +91,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../condition/weakened.md) until the end of their next turn, or you can spend a Recovery.
 
-##### Executioner's Blade
+## Executioner's Blade
 
 *This blade exudes a faint hum that grows louder as its quarry weakens.*
 
@@ -111,7 +111,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is winded. Additionally, you gain an edge on any ability using the weapon against a winded target.
 
-##### Icemaker Maul
+## Icemaker Maul
 
 *The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.*
 
@@ -131,7 +131,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra cold damage increases to 3, and the ice field becomes a 5 burst. Additionally, any enemy in the ice field who is reduced to 0 Stamina by an ability using the weapon can be shattered, killing them and dealing 15 cold damage to each enemy within 3 squares of them.
 
-##### Knife of Nine
+## Knife of Nine
 
 *This ivory dagger features nine faintly glowing indentations along the blade.*
 
@@ -151,7 +151,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** If you make a weapon strike using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
 
-##### Lance of the Sundered Star
+## Lance of the Sundered Star
 
 *This needlelike lance is cast of shimmering metal and induces a yearning for the skies in those who handle it.*
 
@@ -171,7 +171,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that [forced movement](../movement/forced-movement.md) can be vertical.
 
-##### Molten Constrictor
+## Molten Constrictor
 
 *This flexible black-iron net burns with the heat of a volcano.*
 
@@ -191,7 +191,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../condition/grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target [grabbed](../condition/grabbed.md) using the net.
 
-##### Onerous Bow
+## Onerous Bow
 
 *This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.*
 
@@ -211,7 +211,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double bane to target two creatures adjacent to the original target.
 
-##### Steeltongue
+## Steeltongue
 
 *This sinuous whip reflects all light off its plated steel surfaces.*
 
@@ -231,7 +231,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](../condition/bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
 
-##### Third Eye Seeker
+## Third Eye Seeker
 
 *The [shifting](../movement/shifting.md) patterns on this bow's crystalline grip resemble dozens of blinking eyes.*
 
@@ -249,7 +249,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
-##### Thunderhead Bident
+## Thunderhead Bident
 
 *This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.*
 
@@ -269,7 +269,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a ranged strike. Additionally, whenever you make a weapon strike using this weapon, each enemy adjacent to the target takes 6 sonic damage.
 
-##### Wetwork
+## Wetwork
 
 *When first held, this naginata whispers the names of its past victims.*
 

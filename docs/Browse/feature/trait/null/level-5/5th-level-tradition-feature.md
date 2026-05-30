@@ -12,7 +12,7 @@ type: trait
 
 Your [null tradition](../level-1/null-tradition.md) grants you a feature, as shown on the 5th-Level Tradition Features table.
 
-###### 5th-Level Tradition Features Table
+### 5th-Level Tradition Features Table
 
 | Tradition     | Feature            |
 |---------------|--------------------|

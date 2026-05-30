@@ -14,11 +14,11 @@ type: kit
 
 The [Shining Armor](shining-armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-##### Equipment
+## Equipment
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +12 per echelon
 
@@ -26,9 +26,9 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-##### Signature Ability
+## Signature Ability
 
-###### Protective Attack
+### Protective Attack
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 

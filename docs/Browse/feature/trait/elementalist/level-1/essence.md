@@ -12,7 +12,7 @@ type: trait
 
 You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
 
-##### Essence in Combat
+## Essence in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence.
 
@@ -20,7 +20,7 @@ Additionally, the first time each combat round that you or a creature within 10 
 
 You lose any remaining essence at the end of the encounter.
 
-##### Essence Outside of Combat
+## Essence Outside of Combat
 
 Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

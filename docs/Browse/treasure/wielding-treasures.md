@@ -12,7 +12,7 @@ Some treasures are wielded in the form of weapons or implements. A weapon might 
 
 A hero can wield as many weapons, implements, suits of armor, or shields as they can feasibly hold or wear. However, an ability can benefit only from one weapon or implement at a time.
 
-##### Treasures and Kits
+## Treasures and Kits
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the [Warrior Priest](../kit/warrior-priest.md) kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit.
 

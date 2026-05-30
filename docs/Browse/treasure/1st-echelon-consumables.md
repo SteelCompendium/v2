@@ -13,7 +13,7 @@ type: treasure
 
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
-##### Black Ash Dart
+## Black Ash Dart
 
 *A diamond-shaped dart holds a shimmering black vial at its core.*
 
@@ -33,7 +33,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 - **12-16:** You can [teleport](../movement/teleport.md) the target up to 4 squares.
 - **17+:** You can [teleport](../movement/teleport.md) the target up to 6 squares.
 
-##### Blood Essence Vial
+## Blood Essence Vial
 
 *A brittle glass tube has a ruby set atop it, attached by a hinge.*
 
@@ -49,7 +49,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain Stamina equal to half the damage dealt. If you spend 1 Heroic Resource while you drink, you regain Stamina equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 
-##### Buzz Balm
+## Buzz Balm
 
 *This cooling orange salve crackles and pops when exposed to the air.*
 
@@ -65,7 +65,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) conditions on yourself, and you gain a +2 bonus to speed until the start of your next turn.
 
-##### Catapult Dust
+## Catapult Dust
 
 *A small leather pouch is filled with this fine blue powder.*
 
@@ -81,7 +81,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Effect:** Catapult Dust was developed as a cost-effective magic siege weapon. As a main action, you pour the dust out in an adjacent unoccupied space to fill an area as large as a 2 cube. At the start of your next turn, the ground at the bottom of the area erupts violently upwards and in a direction of your choice. Any unattended objects in the area, or creatures who have entered the area since the dust was poured, are launched in an arc that is 6 + 1d6 squares long and 3 + 1d6 squares high.
 
-##### Giant's-Blood Flame
+## Giant's-Blood Flame
 
 *A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.*
 
@@ -101,7 +101,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 Any fire caused by the oil is extinguished after burning for 1 hour.
 
-##### Growth Potion
+## Growth Potion
 
 *This thick green liquid tastes of licorice and potatoes.*
 
@@ -117,7 +117,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
 
-##### Healing Potion
+## Healing Potion
 
 *Thick and red, this liquid tastes of sour beer.*
 
@@ -133,7 +133,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
 
-##### Imp's Tongue
+## Imp's Tongue
 
 *The tongue of an imp has been dried and preserved. Yuck.*
 
@@ -149,7 +149,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Effect:** As a maneuver, you place the imp's tongue on your own tongue, causing it to reconstitute and attach itself to your tongue. While attached, the Imp's Tongue allows you to speak any language and understand any language spoken to you. This benefit ends after 1 hour, when the tongue is absorbed into your body.
 
-##### Lachomp Tooth
+## Lachomp Tooth
 
 *A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.*
 
@@ -169,7 +169,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 - **12-16:** You can affect up to three additional targets with this strike.
 - **17+:** You can affect up to seven additional targets with this strike.
 
-##### Mirror Token
+## Mirror Token
 
 *A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.*
 
@@ -185,7 +185,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Effect:** While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
 
-##### Pocket Homunculus
+## Pocket Homunculus
 
 *A densely interlocking sphere of clockwork gears features facets that show the countenance of the item's wielder.*
 
@@ -203,7 +203,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 Stamina.
 
-##### Portable Cloud
+## Portable Cloud
 
 *This thin glass sphere holds a tiny roiling cloud.*
 
@@ -227,7 +227,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Item Prerequisite:** A spool of copper wire.
 
-##### Professor Veratismo's Quaff 'n Huff Snuff
+## Professor Veratismo's Quaff 'n Huff Snuff
 
 *This tiny compact holds a colorless powder with the slightest astringent smell.*
 
@@ -243,7 +243,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../condition/grabbed.md), [restrained](../condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
 
-##### Snapdragon
+## Snapdragon
 
 *This delicate orange blossom has a sickly-sweet smell.*
 

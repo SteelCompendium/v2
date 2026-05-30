@@ -22,7 +22,7 @@ When you [force move](forced-movement.md) a target, you can always move that tar
 >
 > Some creatures can force move multiple creatures or objects with a single ability. Unless the ability specifies otherwise, the creature using the ability determines the order in which the targets are force moved. The creature should select each target individually and complete their [forced movement](forced-movement.md) before force moving the next target affected.
 
-##### Vertical
+## Vertical
 
 If a [forced movement](forced-movement.md) effect has the word "vertical" in front of it, then the [forced movement](forced-movement.md) can move a target up or down in addition to horizontally. For example, if a [forced movement](forced-movement.md) effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the [forced movement](forced-movement.md) is a straight line.
 
@@ -30,11 +30,11 @@ If a creature who can't [fly](fly.md) is left in midair at the end of a vertical
 
 Though you can't freely push, pull, or slide a target up and down unless that [forced movement](forced-movement.md) specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
-##### Big Versus Little
+## Big Versus Little
 
 When a larger creature force moves a smaller target with a melee weapon ability, the distance of the [forced movement](forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the distance doesn't change.
 
-##### Slamming into Creatures
+## Slamming into Creatures
 
 When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature's [forced movement](forced-movement.md). You can also force move an object into a creature. The object's movement ends, and the creature takes 1 damage for each square remaining in the object's [forced movement](forced-movement.md).
 
@@ -44,7 +44,7 @@ If a creature is killed by damage from an ability or effect that also [force mov
 
 You can [force move](forced-movement.md) another creature into yourself with a pull or a slide.
 
-##### Slamming Into Objects
+## Slamming Into Objects
 
 When a creature force moves a target into a stationary object that is the target's size or larger and the object doesn't break (see below), the movement ends and the target takes 2 damage plus 1 damage for each square remaining in their [forced movement](forced-movement.md).
 
@@ -60,7 +60,7 @@ If you [force move](forced-movement.md) a creature downward into an object that 
 >
 > More fragile objects are destroyed after taking any damage.
 
-##### Hurling Through Objects
+## Hurling Through Objects
 
 When you move a creature into a mundane object, the object can break depending on how many squares of [forced movement](forced-movement.md) remain. The cost of being slammed into an object is tied to the damage a target takes for being hurled through it:
 
@@ -71,20 +71,20 @@ When you move a creature into a mundane object, the object can break depending o
 
 If any [forced movement](forced-movement.md) remains after the object is destroyed, you can continue to move the creature who destroyed the object.
 
-##### Forced Into a Fall
+## Forced Into a Fall
 
 If you can't [fly](fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the [forced movement](forced-movement.md) ends, you fall.
 
-##### Stability
+## Stability
 
 Each creature has a stability that allows them to resist [forced movement](forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 
 A creature's stability can't be less than 0, even when reduced by a penalty.
 
-##### "When a Creature Moves..."
+## "When a Creature Moves..."
 
 Certain abilities and effects trigger when a creature moves into a particular area. [Forced movement](forced-movement.md) triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
-##### Death Effects and Forced Movement
+## Death Effects and Forced Movement
 
 Some creatures have traits or abilities that trigger when they die or are reduced to 0 Stamina. If such a creature is reduced to 0 Stamina by damage from an ability or effect that also force moves them, the [forced movement](forced-movement.md) takes place before the triggered effect.

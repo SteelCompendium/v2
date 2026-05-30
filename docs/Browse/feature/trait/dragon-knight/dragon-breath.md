@@ -11,7 +11,7 @@ type: trait
 
 You have the following signature ability.
 
-###### Dragon Breath
+## Dragon Breath
 
 *A furious exhalation of energy washes over your foes.*
 

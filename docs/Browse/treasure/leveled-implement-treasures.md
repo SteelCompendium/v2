@@ -13,7 +13,7 @@ type: treasure
 
 Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](leveled-implement-treasures.md) in alphabetical order.
 
-##### Abjurer's Bastion
+## Abjurer's Bastion
 
 *An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.*
 
@@ -33,7 +33,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains temporary Stamina equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
 
-##### Brittlebreaker
+## Brittlebreaker
 
 *This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.*
 
@@ -53,7 +53,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's extra psychic damage increases to 4. Additionally, whenever you use a damage-dealing magic or psionic ability, you can take half as much total damage as is dealt to all targets to immediately use the same ability again. The damage you take can't be reduced in any way. You can't use this benefit more than once a turn.
 
-##### Chaldorb
+## Chaldorb
 
 *A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.*
 
@@ -73,7 +73,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3, and the whirlwind you create when you use a magic or psionic ability deals 6 cold damage to each enemy within 2 squares of you. Additionally, the whirlwind creates a 2 aura around you that lasts until the start of your next turn. Each enemy who enters the aura for the first time in a combat round or starts their turn there takes 6 cold damage.
 
-##### Ether-Fueled Vessel
+## Ether-Fueled Vessel
 
 *This bronze bottle has been shaped into the form of a ghostly figure.*
 
@@ -93,7 +93,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3. Additionally, any creature who is insubstantial to you and isn't a leader or solo creature also can't make opportunity attacks against your allies while they remain insubstantial.
 
-##### Foesense Lenses
+## Foesense Lenses
 
 *These spectacles feature pink-tinted glass lenses held in a silver frame.*
 
@@ -113,7 +113,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more rolled damage with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](../condition/dazed.md) until the end of their next turn.
 
-##### Words Become Wonders at Next Breath
+## Words Become Wonders at Next Breath
 
 *This ornate [high elf](../ancestry/high-elf.md) tome seems to sigh each time it is opened.*
 

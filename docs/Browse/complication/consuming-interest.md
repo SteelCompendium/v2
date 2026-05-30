@@ -16,7 +16,7 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Drawback:** You can't imagine ever being wrong on the topic of your obsession. Whenever you make a test to recall lore using your chosen skill, the Director makes the test in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 
-##### Study Lore
+## Study Lore
 
 **Item Prerequisite:** None
 

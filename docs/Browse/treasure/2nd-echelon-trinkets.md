@@ -14,7 +14,7 @@ type: treasure
 
 This section presents 2nd-echelon trinket treasures in alphabetical order.
 
-##### Bastion Belt
+## Bastion Belt
 
 *This thick leather belt features a bone clasp and feels unusually heavy when handled.*
 
@@ -30,7 +30,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to Stability. This Stamina bonus adds to the Stamina bonus granted by other treasures.
 
-##### Evilest Eye
+## Evilest Eye
 
 *A perfectly preserved eyeball hangs unnervingly from a gold chain.*
 
@@ -46,7 +46,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
 
-##### Insightful Crown
+## Insightful Crown
 
 *Shaped of polished crystal, this shimmering circlet shifts through myriad colors in the presence of strong emotions.*
 
@@ -62,7 +62,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While wearing the crown, you gain an edge on Intuition tests made to read the emotions and discern the honesty of other creatures. If you succeed on an Intuition test to read the emotions of another creature within 5 squares, you can ask the Director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
 
-##### Key of Inquiry
+## Key of Inquiry
 
 *A foot-long platinum key is set with three opals.*
 
@@ -78,7 +78,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../condition/grabbed.md), or [restrained](../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 
-##### Mediator's Charm
+## Mediator's Charm
 
 *A fancy gold earring is set with a small ruby.*
 
@@ -94,7 +94,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While you wear the Mediator's Charm, the patience of any NPC you negotiate with increases by 1 (to a maximum of 5). Additionally, at the start of a negotiation, you learn one of an NPC's motivations or pitfalls of the Director's choice.
 
-##### Necklace of the Bayou
+## Necklace of the Bayou
 
 *A worn leather circlet bears a lizard-shaped pendant of rotting wood.*
 
@@ -110,7 +110,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full speed while moving, and you ignore [difficult terrain](../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
 
-##### Scannerstone
+## Scannerstone
 
 *This flat, palm-sized triangular stone is decorated with a starfield of tiny gems.*
 
@@ -126,7 +126,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** When held against a wall or other solid surface 1 square thick or less, the Scannerstone creates an image floating in the air beside it that shows a rough miniature approximation of the space on the other side of the surface. The image displays floors, walls, and other barriers but doesn't show other objects. It shows representations of any moving creatures on the other side, but not creatures who are still.
 
-##### Stop-'n-Go Coin
+## Stop-'n-Go Coin
 
 *This small, featureless coin is solid green on one side and solid red on the other.*
 

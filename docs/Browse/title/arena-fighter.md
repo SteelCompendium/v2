@@ -21,7 +21,7 @@ type: title
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-##### Showstopper (5 Heroic Resource)
+## Showstopper (5 Heroic Resource)
 
 >
 > | **Melee, Strike, Weapon** |     **Main action** |

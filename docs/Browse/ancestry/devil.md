@@ -19,7 +19,7 @@ On rare occasions, though, the summoning goes wrong and the supplicant dies befo
 
 The majority of [devils](devil.md) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
 
-### On Devils
+## On Devils
 
 Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
@@ -112,3 +112,43 @@ Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how
 and the outrageous sums I spend looking good, I always feel *underdressed* in your presence? Do you employ sorcery? Or is it that any outfit is improved by your *unearthly* beauty?"
 
 She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](devil.md)."
+
+## Devil Traits
+
+[Devil](devil.md) heroes have access to the following traits.
+
+### Signature Trait: Silver Tongue
+
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../Read/chapter/negotiation.md)).
+
+### Purchased Devil Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns.)
+
+#### Barbed Tail
+
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.
+
+#### Beast Legs
+
+Your powerful legs make you faster. You have speed 6.
+
+#### Glowing Eyes
+
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.
+
+#### Hellsight
+
+Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with concealment.
+
+#### Impressive Horns
+
+Your cherished horns are larger than the average [devil's](devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+
+#### Prehensile Tail
+
+Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
+
+#### Wings
+
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have damage weakness 5.

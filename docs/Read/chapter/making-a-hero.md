@@ -99,6 +99,30 @@ You can also make free strikes on your turn to represent using weapons your hero
 
 See Free Strikes in Chapter 10: [Combat](combat.md) for more information on using free strikes, and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
 
+###### Melee Weapon Free Strike
+
+| **Charge, Melee, Strike, Weapon**  |               **Main action** |
+|------------------------------------|------------------------------:|
+| **📏 Melee 1**                     | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 2 + M or A damage
+- **12-16:** 5 + M or A damage
+- **17+:** 7 + M or A damage
+
+###### Ranged Weapon Free Strike
+
+| **Ranged, Strike, Weapon**  |               **Main action** |
+|-----------------------------|------------------------------:|
+| **📏 Ranged 5**             | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 2 + M or A damage
+- **12-16:** 4 + M or A damage
+- **17+:** 6 + M or A damage
+
 #### 8. Complication
 
 Complications represent those dramatic moments in a character's backstory that give them pathos, a dramatic reason to be an outsider, doubts about the meaning of life, an urge to avoid intimacy, or an unstoppable vendetta against an enemy from the past. Each complica tion grants a benefit and a drawback that make a character more three dimensional, but complications aren't necessary for making a great hero. Check with your Director as to whether your game is using them, and see Chapter 8: [Complications](complications.md) for more information.

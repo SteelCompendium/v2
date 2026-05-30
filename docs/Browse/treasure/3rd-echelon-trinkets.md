@@ -14,7 +14,7 @@ type: treasure
 
 This section presents 3rd-echelon trinket treasures in alphabetical order.
 
-##### Bracers of Strife
+## Bracers of Strife
 
 *Each of these metallic blue bracers is oversized.*
 
@@ -30,7 +30,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals rolled damage, and a +1 bonus to the distance you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
 
-##### Mask of Oversight
+## Mask of Oversight
 
 *This angular electrum mask is set with an excess of eye holes and a horrifying maw.*
 
@@ -48,7 +48,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more Victories.
 
-##### Mirage Band
+## Mirage Band
 
 *A sable blue circlet shimmers with finely woven threads of sparkling white.*
 
@@ -66,7 +66,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 Additionally, you have the following ability.
 
-###### Hallucination Field
+### Hallucination Field
 
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
@@ -77,7 +77,7 @@ Additionally, you have the following ability.
 >
 > **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the distance of this ability away from you.
 
-##### Nullfield Resonator Ring
+## Nullfield Resonator Ring
 
 *This simple band of copper vibrates slightly when handled.*
 
@@ -95,7 +95,7 @@ Additionally, you have the following ability.
 
 Additionally, you have the following ability.
 
-###### Nullring Strike
+### Nullring Strike
 
 >
 > *Your punch delivers a devastating burst of psionic energy.*
@@ -112,7 +112,7 @@ Additionally, you have the following ability.
 >
 > **Effect:** While [slowed](../condition/slowed.md) in this way, the target takes a bane on magic or psionic abilities.
 
-##### Shifting Ring
+## Shifting Ring
 
 *This silvery metal ring seems to momentarily vanish when observed from certain angles.*
 

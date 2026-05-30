@@ -15,11 +15,11 @@ type: kit
 
 Meant for brawlers and boxers, the [Pugilist](pugilist.md) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
-##### Equipment
+## Equipment
 
 You wear no armor and wield only your unarmed strikes.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -29,9 +29,9 @@ You wear no armor and wield only your unarmed strikes.
 
 **Melee Damage Bonus:** +1/+1/+1
 
-##### Signature Ability
+## Signature Ability
 
-###### Let's Dance
+### Let's Dance
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 

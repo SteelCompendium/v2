@@ -15,7 +15,7 @@ You always know the direction to the exact location of a creature who bears one 
 
 Additionally, you have the following signature ability. Signature abilities can be used at will.
 
-###### Detonate Sigil
+## Detonate Sigil
 
 *A magic sigil you placed on a creature explodes with energy.*
 

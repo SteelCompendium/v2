@@ -21,7 +21,7 @@ But the only [hakaan](hakaan.md) the average [human](human.md) meets is one tryi
 
 [Humans](human.md) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](hakaan.md) sometimes refer to the Doomsight as "wyrdken."
 
-### On Hakaan
+## On Hakaan
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
@@ -104,3 +104,39 @@ The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I
 Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my implements."
 
 "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
+
+## Hakaan Traits
+
+[Hakaan](hakaan.md) heroes have access to the following traits.
+
+### Signature Trait: Big!
+
+Your stature reflects your giant forebears. Your size is 1L.
+
+### Purchased Hakaan Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doomsight, Forceful.)
+
+#### All Is a Feather
+
+You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.
+
+#### Doomsight
+
+Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
+
+If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+
+Additionally, when your Stamina reaches the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain Stamina or have this effect undone in any way. After 12 hours, you regain Stamina equal to your recovery value.
+
+#### Forceful
+
+Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +1 bonus.
+
+#### Great Fortitude
+
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](../condition/weakened.md).
+
+#### Stand Tough
+
+Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.

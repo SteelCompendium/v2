@@ -12,7 +12,7 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you have the Contact Spirits ability.
 
-##### Contact Spirits
+## Contact Spirits
 
 >
 > *The restless dead speak to you.*

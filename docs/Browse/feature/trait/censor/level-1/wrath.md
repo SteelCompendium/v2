@@ -12,7 +12,7 @@ type: trait
 
 The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](../../../../class/censor.md) those your church deems to be heretics.
 
-##### Wrath in Combat
+## Wrath in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
 
@@ -20,7 +20,7 @@ Additionally, the first time each combat round that a creature judged by you (se
 
 You lose any remaining wrath at the end of the encounter.
 
-##### Wrath Outside of Combat
+## Wrath Outside of Combat
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

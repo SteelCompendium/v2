@@ -14,7 +14,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Benefit:** You have the following ability.
 
-##### Issue Order
+## Issue Order
 
 >
 > *"Move or die, folks."*

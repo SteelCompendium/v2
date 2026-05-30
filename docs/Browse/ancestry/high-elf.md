@@ -13,7 +13,7 @@ Children of the solar celestials created to tend their libraries and attend to t
 
 In the millennia since their creators retired to Arcadia, the [high elves](high-elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
-### On High Elves
+## On High Elves
 
 "They're so beautiful," Wenna said. "It's hard to imagine we're in danger."
 
@@ -78,3 +78,39 @@ Llyander shrugged. "What does anyone really look like?" And while the other chil
 The king turned back to them. "Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [human](human.md) child who learned our language, I name thee *elf friend*. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands."
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
+
+## High Elf Traits
+
+[High elf](high-elf.md) heroes have access to the following traits.
+
+### Signature Trait: High Elf Glamor
+
+A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the [Flirt](../skill/flirt.md) or [Persuade](../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+
+### Purchased High Elf Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* High Senses, Otherworldly Grace.)
+
+#### Glamor of Terror
+
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](../condition/frightened.md) of you until the end of their next turn.
+
+#### Graceful Retreat
+
+You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+
+#### High Senses
+
+Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.
+
+#### Otherworldly Grace
+
+Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+
+#### Revisit Memory
+
+Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+
+#### Unstoppable Mind
+
+Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../condition/dazed.md).

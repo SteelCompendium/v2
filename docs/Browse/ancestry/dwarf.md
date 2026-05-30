@@ -13,7 +13,7 @@ Possessed of a strength that belies their size, [dwarves](dwarf.md) have flesh i
 
 [Dwarves](dwarf.md) are the children of the elder god Ord, and a common phrase among [dwarves](dwarf.md) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](dwarf.md) leave their homes to see the world and seek glory in Ord's name.
 
-### On Dwarves
+## On Dwarves
 
 "They can be stubborn," Embers said.
 
@@ -110,3 +110,43 @@ Dazar stared at the man, this knight of Tor, and looked at Embers quietly radiat
 "Come!" he barked. "There's a world needs mending! Why stand we here idle?"
 
 John was grinning madly at Embers. She held up three fingers.
+
+## Dwarf Traits
+
+[Dwarf](dwarf.md) heroes have access to the following traits.
+
+### Signature Trait: Runic Carving
+
+You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
+
+**Detection:** Pick a specific type of creature (such as goblins or [humans](human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have line of effect to the creature or object. You can change the type of creature or object as a maneuver.
+
+**Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
+
+**Voice:** As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature's name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.
+
+You can have one rune active at a time, and can change or remove a rune with 10 uninterrupted minutes of work.
+
+### Purchased Dwarf Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
+
+#### Great Fortitude
+
+Your hearty constitution prevents you from losing strength. You can't be made [weakened](../condition/weakened.md).
+
+#### Grounded
+
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
+
+#### Spark Off Your Skin
+
+Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
+
+#### Stand Tough
+
+Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+
+#### Stone Singer
+
+You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can't destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.

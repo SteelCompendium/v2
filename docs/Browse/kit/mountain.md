@@ -14,11 +14,11 @@ type: kit
 
 The [Mountain](mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
-##### Equipment
+## Equipment
 
 You wear heavy armor and wield a heavy weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +9 per echelon
 
@@ -26,9 +26,9 @@ You wear heavy armor and wield a heavy weapon.
 
 **Melee Damage Bonus:** +0/+0/+4
 
-##### Signature Ability
+## Signature Ability
 
-###### Pain for Pain
+### Pain for Pain
 
 *An enemy who tagged you will pay for that.*
 

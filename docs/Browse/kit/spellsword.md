@@ -15,11 +15,11 @@ type: kit
 
 The [Spellsword](spellsword.md) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
-##### Equipment
+## Equipment
 
 You wear light armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -29,9 +29,9 @@ You wear light armor and wield a shield and a medium weapon.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-##### Signature Ability
+## Signature Ability
 
-###### Leaping Lightning
+### Leaping Lightning
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 

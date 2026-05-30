@@ -15,11 +15,11 @@ type: kit
 
 If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
 
-##### Equipment
+## Equipment
 
 You wear light armor and wield a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +3 per echelon
 
@@ -29,9 +29,9 @@ You wear light armor and wield a medium weapon.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Fancy Footwork
+### Fancy Footwork
 
 *All combat is a dance—and you'll be the one leading.*
 

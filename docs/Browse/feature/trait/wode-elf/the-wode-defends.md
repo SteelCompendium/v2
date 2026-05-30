@@ -11,7 +11,7 @@ type: trait
 
 You have the following signature ability. Signature abilities can be used at will.
 
-###### The Wode Defends
+## The Wode Defends
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 

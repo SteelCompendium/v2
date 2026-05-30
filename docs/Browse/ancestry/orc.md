@@ -17,7 +17,7 @@ Each [orc](orc.md) has within them a fire that causes their veins to glow once b
 
 "Be thankful [orcs](orc.md) do not hold grudges."
 
-### On Orcs
+## On Orcs
 
 The [orc](orc.md) pulled her greataxe from the split skull of the newly dead ogre. [Prone](../condition/prone.md) heroes scrambled to their feet. Dazar healed the wounded.
 
@@ -130,3 +130,35 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 "And veterans," Sir John said. "Who covet peace." Khorva nodded. Respect. "Aye," she said. She looked at each hero then at John again.
 
 "Well," she said. "What do we do next?"
+
+## Orc Traits
+
+[Orc](orc.md) heroes have access to the following traits.
+
+### Signature Trait: Relentless
+
+Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+
+### Purchased Orc Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+
+#### Bloodfire Rush
+
+The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.
+
+#### Glowing Recovery
+
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
+
+#### Grounded
+
+The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.
+
+#### Nonstop
+
+Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](../condition/slowed.md).
+
+#### Passionate Artisan
+
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a project roll for a crafting project that uses these skills, you gain a +2 bonus to the roll.

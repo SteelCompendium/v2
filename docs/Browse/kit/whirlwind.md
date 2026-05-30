@@ -15,11 +15,11 @@ type: kit
 
 The [Whirlwind](whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
-##### Equipment
+## Equipment
 
 You wear no armor and wield a whip.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Speed Bonus:** +3
 
@@ -29,9 +29,9 @@ You wear no armor and wield a whip.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Extension of My Arm
+### Extension of My Arm
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 

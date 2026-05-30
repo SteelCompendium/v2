@@ -14,7 +14,7 @@ Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-s
 
 Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Metakinetic Mastery Table
+## Metakinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
