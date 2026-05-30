@@ -37,7 +37,7 @@ The public-facing reference site for the Draw Steel TTRPG, deployed at steelcomp
 v2/
   CLAUDE.md              # Agent instructions for this sub-repo
   mkdocs.yml             # MkDocs configuration (theme, plugins, extensions)
-  site.yaml              # steel-etl site builder config (sections, composites, groups)
+  site.yaml              # steel-etl site builder config (sections, groups)
   justfile               # Build recipes (update, serve, build, clean_docs)
   docs/                  # MkDocs content root (mostly GENERATED -- do not edit)
     Browse/              # Generated: modular pages by type (class, ancestry, kit, etc.)
