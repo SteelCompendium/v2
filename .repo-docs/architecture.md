@@ -28,7 +28,7 @@ The site has no server-side routing. All dynamic behavior is client-side JavaScr
 Configured by `site.yaml`. Reads ETL md-linked output and maps it into `docs/`:
 
 - **Section mapping**: `Browse/` (modular by type), `Read/` (book order chapters)
-- **Composites**: merge class traits + abilities into one class page; merge ancestry traits into ancestry pages
+- **Book-faithful pages**: each `md-linked` page is a full book-order render of its source section's subtree (own body + all nested descendants inline, headings normalized, ability statblocks un-blockquoted). Pages are direct section-mapped renders — no composite reassembly step. Produced by `RenderSubtree` in `steel-etl/internal/content/render_subtree.go`.
 - **Groups**: nest kit signature abilities under `Kits/` subdirectory
 - **SCC stubs**: generate `scc/{code}/index.html` redirect files (see below)
 - **Static overrides**: `static_content/docs/` files are copied last, overriding generated content
