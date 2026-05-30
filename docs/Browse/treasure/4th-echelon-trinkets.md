@@ -13,7 +13,7 @@ type: treasure
 
 This section presents 4th-echelon trinket treasures in alphabetical order.
 
-##### Gravekeeper's Lantern
+## Gravekeeper's Lantern
 
 *This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.*
 
@@ -35,7 +35,7 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 A trapped spirit remains in the lantern for 10 minutes. They remember being trapped by you, and might become hostile thereafter.
 
-##### Psi Blade
+## Psi Blade
 
 *This wide metal bracer is set with a glowing gemstone.*
 

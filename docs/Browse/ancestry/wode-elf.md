@@ -13,7 +13,7 @@ Children of the sylvan celestials and masters of the elf-haunted forests called 
 
 The [wode elves](wode-elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](wode-elf.md) who dwell in cities naturally adept at urban warfare.
 
-### On Wode Elves
+## On Wode Elves
 
 "I'm scared," Wenna said. "We should go back." The forest felt as if it was closing in on them.
 
@@ -90,3 +90,53 @@ The elf stopped suddenly and spun toward them, serious but kindly. They pointed 
 The children nodded. The elf, satisfied, marched off and they followed.
 
 Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" their escort called out. "The wode is a dream! With a little luck, one you may soon wake safely from."
+
+## Wode Elf Traits
+
+[Wode elf](wode-elf.md) heroes have access to the following traits.
+
+### Signature Trait: Wode Elf Glamor
+
+You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
+
+### Purchased Wode Elf Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)
+
+#### Forest Walk
+
+You can [shift](../movement/shifting.md) into and while within [difficult terrain](../movement/difficult-terrain.md).
+
+#### Quick and Brutal
+
+Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.
+
+#### Otherworldly Grace
+
+Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+
+#### Revisit Memory
+
+Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+
+#### Swift
+
+You have speed 6.
+
+#### The Wode Defends
+
+You have the following signature ability. Signature abilities can be used at will.
+
+##### The Wode Defends
+
+*Thorny vines erupt from every surface and attempt to bind your foe.*
+
+| **Magic, Ranged, Strike** |               **Main action** |
+|---------------------------|------------------------------:|
+| **📏 Ranged 10**          |           **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 2 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
+- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)

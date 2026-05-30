@@ -14,7 +14,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Benefit:** You have the following ability.
 
-##### Stone Eyes
+## Stone Eyes
 
 >
 > *Your looks don't kill—they petrify.*

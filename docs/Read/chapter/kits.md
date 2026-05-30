@@ -148,6 +148,760 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 >
 > Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
+#### Arcane Archer
+
+The [Arcane Archer](../../Browse/kit/arcane-archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+
+##### Equipment
+
+You wear no armor and wield a bow.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +2/+2/+2
+
+**Ranged Distance Bonus:** +10
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Exploding Arrow
+
+*Your ammunition explodes with magical energy.*
+
+| **Magic, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------|------------------------------:|
+| **📏 Ranged 15**                  | **🎯 One creature or object** |
+
+**Power Roll + Agility, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + A, R, I, or P fire damage
+- **12-16:** 7 + A, R, I, or P fire damage
+- **17+:** 10 + A, R, I, or P fire damage
+
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+
+#### Battlemind
+
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](../../Browse/kit/battlemind.md) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+
+##### Equipment
+
+You wear light armor and wield a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+###### Unmooring
+
+*Your weapon unleashes psionic energy that reduces your target's weight.*
+
+| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+|------------------------------------|--------------------:|
+| **📏 Melee 1**                     | **🎯 One creature** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + M, R, I, or P damage
+- **12-16:** 8 + M, R, I, or P damage
+- **17+:** 11 + M, R, I, or P damage
+
+**Effect:** Until the end of the target's next turn, any [forced movement](../../Browse/movement/forced-movement.md) that affects the target has its distance increased by 2.
+
+#### Cloak and Dagger
+
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+
+##### Equipment
+
+You wear light armor and wield one or two light weapons.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Fade
+
+*A stab, and a few quick, careful steps back.*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+|-----------------------------------|--------------------:|
+| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; you can [shift](../../Browse/movement/shifting.md) 1 square
+- **12-16:** 6 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 2 squares
+- **17+:** 8 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 3 squares
+
+#### Dual Wielder
+
+The [Dual Wielder](../../Browse/kit/dual-wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+
+##### Equipment
+
+You wear medium armor and wield a light weapon and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Double Strike
+
+*Why strike once when you could do it twice?*
+
+| **Melee, Strike, Weapon** |                 **Main action** |
+|---------------------------|--------------------------------:|
+| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
+
+**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+
+#### Guisarmier
+
+The [Guisarmier](../../Browse/kit/guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
+
+##### Equipment
+
+You wear medium armor and wield a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Melee Distance Bonus:** +1
+
+##### Signature Ability
+
+###### Forward Thrust, Backward Smash
+
+*In your hands, the haft is as good as the head.*
+
+| **Melee, Strike, Weapon** |                 **Main action** |
+|---------------------------|--------------------------------:|
+| **📏 Melee 2**            | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
+
+#### Martial Artist
+
+If you want to be fast in a fight, then [Martial Artist](../../Browse/kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+
+##### Equipment
+
+You wear no armor and wield only your unarmed strikes.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Battle Grace
+
+*You feint to move your enemies into perfect position.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 8 + M or A damage; you can swap places with the target
+- **17+:** 11 + M or A damage; you can swap places with the target
+
+**Effect:** If you obtain a tier 2 or tier 3 outcome and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
+
+#### Mountain
+
+The [Mountain](../../Browse/kit/mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
+
+##### Equipment
+
+You wear heavy armor and wield a heavy weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Stability Bonus:** +2
+
+**Melee Damage Bonus:** +0/+0/+4
+
+##### Signature Ability
+
+###### Pain for Pain
+
+*An enemy who tagged you will pay for that.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 5 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
+
+#### Panther
+
+If you want a good balance of protection, speed, and damage, the [Panther](../../Browse/kit/panther.md) kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+
+##### Equipment
+
+You wear no armor and wield a heavy weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +0/+0/+4
+
+##### Signature Ability
+
+###### Devastating Rush
+
+*The faster you move, the harder you hit.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+|---------------------------|------------------------------:|
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+
+#### Pugilist
+
+Meant for brawlers and boxers, the [Pugilist](../../Browse/kit/pugilist.md) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+
+##### Equipment
+
+You wear no armor and wield only your unarmed strikes.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +2
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+##### Signature Ability
+
+###### Let's Dance
+
+*Keeping your enemies stumbling around the battlefield is second nature to you.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage; slide 1
+- **17+:** 8 + M or A damage; slide 2
+
+**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you slide them.
+
+#### Raider
+
+The [Raider](../../Browse/kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+
+##### Equipment
+
+You wear light armor and wield a shield and a light weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Raider's Awe
+
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../Browse/feature/trait/tactician/level-7/shock-and-awe.md)")*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+|-----------------------------------|--------------------:|
+| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 8 + M or A damage
+
+**Effect:** The target takes a bane on their next power roll made before the end of their next turn.
+
+#### Ranger
+
+The [Ranger](../../Browse/kit/ranger.md) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+
+##### Equipment
+
+You wear medium armor and wield a bow and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Hamstring Shot
+
+*A well-placed shot leaves your enemy struggling to move.*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+|----------------------------|--------------------:|
+| **📏 Ranged 10**           | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../Browse/condition/slowed.md) (save ends)
+
+#### Rapid-Fire
+
+The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.
+
+##### Equipment
+
+You wear light armor and wield a bow.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +2/+2/+2
+
+**Ranged Distance Bonus:** +7
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Two Shot
+
+*When you fire two arrows back-to-back, both hit their mark.*
+
+| **Ranged, Strike, Weapon** |                 **Main action** |
+|----------------------------|--------------------------------:|
+| **📏 Ranged 12**           | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
+
+#### Retiarius
+
+The [retiarius](../../Browse/kit/retiarius.md) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+
+##### Equipment
+
+You wear light armor and wield several ensnaring weapons and a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Net and Stab
+
+*The well-thrown net that follows your main attack leaves your foes right where you want them.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 2**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (EoT)
+
+#### Shining Armor
+
+The [Shining Armor](../../Browse/kit/shining-armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+
+##### Equipment
+
+You wear heavy armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +12 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+###### Protective Attack
+
+*The strength of your assault makes it impossible for your foe to ignore you.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 8 + M or A damage
+- **17+:** 11 + M or A damage
+
+**Effect:** The target is [taunted](../../Browse/condition/taunted.md) until the end of their next turn.
+
+#### Sniper
+
+The [Sniper](../../Browse/kit/sniper.md) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
+
+##### Equipment
+
+You wear no armor and wield a bow.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +0/+0/+4
+
+**Ranged Distance Bonus:** +10
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Patient Shot
+
+*Breathe... aim... wait... then strike!*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+|----------------------------|--------------------:|
+| **📏 Ranged 15**           | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+
+#### Spellsword
+
+The [Spellsword](../../Browse/kit/spellsword.md) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
+
+##### Equipment
+
+You wear light armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+###### Leaping Lightning
+
+*Lightning jumps from your weapon as you strike to harm a nearby foe.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+|----------------------------------|------------------------------:|
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + M, R, I, or P lightning damage
+- **12-16:** 8 + M, R, I, or P lightning damage
+- **17+:** 11 + M, R, I, or P lightning damage
+
+**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+
+#### Stick and Robe
+
+Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../../Browse/kit/stick-and-robe.md) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+
+##### Equipment
+
+You wear light armor and wield a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Where I Want You
+
+*When your stick speaks, your enemy moves.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 2**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage
+- **12-16:** 7 + M or A damage; slide 1
+- **17+:** 10 + M or A damage; slide 3
+
+#### Swashbuckler
+
+If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](../../Browse/kit/swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
+
+##### Equipment
+
+You wear light armor and wield a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Fancy Footwork
+
+*All combat is a dance—and you'll be the one leading.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 7 + M or A damage; push 1
+- **17+:** 10 + M or A damage; push 2
+
+**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you push them.
+
+#### Sword and Board
+
+The [Sword and Board](../../Browse/kit/sword-and-board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+
+##### Equipment
+
+You wear medium armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Shield Bash
+
+*In your hands, a shield isn't just for protection.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; push 1
+- **12-16:** 7 + M or A damage; push 2
+- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../Browse/condition/prone.md)
+
+#### Warrior Priest
+
+The [Warrior Priest](../../Browse/kit/warrior-priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+
+##### Equipment
+
+You wear heavy armor and wield a light weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+##### Signature Ability
+
+###### Weakening Brand
+
+*The impact of your weapon brands your target for destruction.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+|----------------------------------|------------------------------:|
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 3 + M, R, I, or P holy damage
+- **12-16:** 5 + M, R, I, or P holy damage
+- **17+:** 8 + M, R, I, or P holy damage
+
+**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+
+#### Whirlwind
+
+The [Whirlwind](../../Browse/kit/whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+
+##### Equipment
+
+You wear no armor and wield a whip.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+###### Extension of My Arm
+
+*When you draw your whip back after an attack, your enemy is drawn ever closer.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Melee 3**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; vertical pull 1
+- **12-16:** 7 + M or A damage; vertical pull 2
+- **17+:** 10 + M or A damage; vertical pull 3
+
 ### Optional Rule: Losing Equipment
 
 The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:

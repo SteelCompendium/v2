@@ -16,11 +16,11 @@ type: kit
 
 The [retiarius](retiarius.md) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
-##### Equipment
+## Equipment
 
 You wear light armor and wield several ensnaring weapons and a polearm.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +3 per echelon
 
@@ -32,9 +32,9 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Net and Stab
+### Net and Stab
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 

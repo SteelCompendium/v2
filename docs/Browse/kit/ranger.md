@@ -17,11 +17,11 @@ type: kit
 
 The [Ranger](ranger.md) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
-##### Equipment
+## Equipment
 
 You wear medium armor and wield a bow and a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -35,9 +35,9 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Hamstring Shot
+### Hamstring Shot
 
 *A well-placed shot leaves your enemy struggling to move.*
 

@@ -14,13 +14,13 @@ You instantly recognize illusions for what they are, you can see invisible creat
 
 You also gain the following ability.
 
-###### Shared Void Sense
+## Shared Void Sense
 
-> 
-> *You grant allies a taste of your unearthly vision.*
-> 
-> | **Magic, Ranged, Void** |    **Maneuver** |
-> |-------------------------|----------------:|
-> | **📏 Ranged 10**        |  **🎯 Special** |
-> 
-> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../ability/elementalist/level-1/shared-void-sense.md) ability.
+
+*You grant allies a taste of your unearthly vision.*
+
+| **Magic, Ranged, Void** |    **Maneuver** |
+|-------------------------|----------------:|
+| **📏 Ranged 10**        |  **🎯 Special** |
+
+**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../../ability/elementalist/level-1/shared-void-sense.md) ability.

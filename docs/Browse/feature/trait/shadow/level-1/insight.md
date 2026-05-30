@@ -12,7 +12,7 @@ type: trait
 
 By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
 
-##### Insight in Combat
+## Insight in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.
 
@@ -22,7 +22,7 @@ Whenever you use a heroic ability that makes use of a power roll, that ability c
 
 You lose any remaining insight at the end of the encounter.
 
-##### Insight Outside of Combat
+## Insight Outside of Combat
 
 Although you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

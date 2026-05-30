@@ -12,10 +12,44 @@ type: trait
 
 Your [troubadour class act](../level-1/troubadour-class-act.md) grants you a feature, as shown on the 3rd-Level Class Act Features table.
 
-###### 3rd-Level Class Act Features Table
+### 3rd-Level Class Act Features Table
 
 | Class Act  | Features     |
 |------------|--------------|
 | Auteur     | [Missed Cue](missed-cue.md)   |
 | Duelist    | Foil         |
 | Virtuoso   | [Second Album](second-album.md) |
+
+## Foil
+
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+
+## Missed Cue
+
+If you aren't surprised at the start of an encounter, you can choose one enemy within your line of effect who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 Victories before you can use this feature again.
+
+## Second Album
+
+You have the following performance abilities, which are usable with your [Routines](../level-1/routines.md) feature.
+
+### "Fire Up the Night"
+
+
+*Maybe you and I ♪ We can still bring the light!♪*
+
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../../Read/chapter/tests.md)).
+
+### "Never-Ending Hero"
+
+
+*And toniiight we can truly say ♪ They will alllways find a way!♪*
+
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.

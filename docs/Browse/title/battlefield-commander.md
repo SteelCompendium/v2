@@ -18,7 +18,7 @@ type: title
 
 - *Charge!:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-##### Charge! (9 Heroic Resource)
+## Charge! (9 Heroic Resource)
 
 >
 > *Follow me!*

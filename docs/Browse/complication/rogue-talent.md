@@ -14,7 +14,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 **Benefit:** You have the following ability, which you can use as a ranged free strike.
 
-##### Telekinetic Grasp
+## Telekinetic Grasp
 
 >
 > *You reach out with your mind to move a creature or object.*

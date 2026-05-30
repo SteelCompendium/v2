@@ -15,11 +15,11 @@ type: kit
 
 The [Sword and Board](sword-and-board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
-##### Equipment
+## Equipment
 
 You wear medium armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +9 per echelon
 
@@ -29,9 +29,9 @@ You wear medium armor and wield a shield and a medium weapon.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Shield Bash
+### Shield Bash
 
 *In your hands, a shield isn't just for protection.*
 

@@ -14,62 +14,62 @@ Your choice of domains provides you with two additional ways to earn piety durin
 
 Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain's prayer effect take effect immediately.
 
-###### Creation Domain Piety and Effect
+## Creation Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
 - **Prayer Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose size is 5 + your Intuition score. The wall lasts until the end of the encounter.
 
-###### Death Domain Piety and Effect
+## Death Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.
 - **Prayer Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
-###### Fate Domain Piety and Effect
+## Fate Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.
 - **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.
 
-###### Knowledge Domain Piety and Effect
+## Knowledge Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *Draw Steel: Monsters*).
 - **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.
 
-###### Life Domain Piety and Effect
+## Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.
 - **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they [are prone](../../../../condition/prone.md). Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.
 
-###### Love Domain Piety and Effect
+## Love Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
 - **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
-###### Nature Domain Piety and Effect
+## Nature Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
 - **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
-###### Protection Domain Piety and Effect
+## Protection Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a [triggered action](triggered-action.md) to reduce incoming damage or to impose a bane or double bane on an enemy's power roll.
 - **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.
 
-###### Storm Domain Piety and Effect
+## Storm Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../../../../movement/forced-movement.md).
 - **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.
 
-###### Sun Domain Piety and Effect
+## Sun Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
 - **Prayer Effect:** One enemy within 10 squares takes fire damage equal to three times your Intuition score.
 
-###### Trickery Domain Piety and Effect
+## Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or [Hide](../../../../skill/hide.md) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../../../class/conduit.md) level.
 
-###### War Domain Piety and Effect
+## War Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.

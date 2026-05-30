@@ -13,7 +13,7 @@ type: treasure
 
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
-##### Anamorphic Larva
+## Anamorphic Larva
 
 *A cloudy glass vial holds a writhing monstrous grub.*
 
@@ -31,7 +31,7 @@ This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their Intuition score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
 
-##### Bottled Paradox
+## Bottled Paradox
 
 *Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.*
 
@@ -47,7 +47,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** As a maneuver, you can drink this potion or throw it up to 10 squares. If you drink it, you choose a test you made in the last minute, then reroll that test repeatedly until the outcome changes. If the potion is thrown, it creates a 3-cube area of shimmering magic. Any event that took place in that area in the previous minute changes at the discretion of the Director, who has full freedom to decide what happens. The energy then dissipates.
 
-##### G'Allios Visiting Card
+## G'Allios Visiting Card
 
 *A card bearing the Eighth City Advocacy Services crest smells faintly of smoke and spices.*
 
@@ -63,7 +63,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a [devil](../ancestry/devil.md). You avoid the damage and any accompanying effects, and the [devil](../ancestry/devil.md) redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The [devil](../ancestry/devil.md) then disappears.
 
-##### Personal Effigy
+## Personal Effigy
 
 *This tiny humanoid effigy appears unnervingly lifelike and is always warm to the touch.*
 
@@ -79,7 +79,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature back to life. The creature returns to life with Stamina equal to their winded value and 10 temporary Stamina that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
 
-##### Stygian Liquor
+## Stygian Liquor
 
 *This muddy brown whiskey tastes of peat and death.*
 
@@ -95,7 +95,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
 
-##### Timesplitter
+## Timesplitter
 
 *This spiked crystal makes a beautiful ringing sound when first touched.*
 
@@ -115,7 +115,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../condition/slowed.md) (save ends).
 - **17+:** The target and each creature within 8 squares of them is [slowed](../condition/slowed.md) (save ends).
 
-##### Ward Token
+## Ward Token
 
 *This smoothly polished quartz stone feels strangely warm to the touch.*
 
@@ -131,7 +131,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double bane.
 
-##### Wellness Tonic
+## Wellness Tonic
 
 *This thick purple liquid has a bitter scent that lingers.*
 

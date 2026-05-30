@@ -15,11 +15,11 @@ type: kit
 
 Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](battlemind.md) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
-##### Equipment
+## Equipment
 
 You wear light armor and wield a medium weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +3 per echelon
 
@@ -29,9 +29,9 @@ You wear light armor and wield a medium weapon.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-##### Signature Ability
+## Signature Ability
 
-###### Unmooring
+### Unmooring
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 

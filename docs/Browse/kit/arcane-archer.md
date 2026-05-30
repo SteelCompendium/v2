@@ -15,11 +15,11 @@ type: kit
 
 The [Arcane Archer](arcane-archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
-##### Equipment
+## Equipment
 
 You wear no armor and wield a bow.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Speed Bonus:** +1
 
@@ -29,9 +29,9 @@ You wear no armor and wield a bow.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Exploding Arrow
+### Exploding Arrow
 
 *Your ammunition explodes with magical energy.*
 

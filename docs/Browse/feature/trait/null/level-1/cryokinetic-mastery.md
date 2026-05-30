@@ -14,7 +14,7 @@ Whenever you use your [Inertial Shield](../../../ability/null/level-1/inertial-s
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Cryokinetic Mastery Table
+## Cryokinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

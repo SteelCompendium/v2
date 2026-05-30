@@ -14,15 +14,15 @@ Your sense for stealth shows those around you how to evade notice. While you are
 
 Additionally, you have the following ability.
 
-##### Night Watch
+## Night Watch
 
-> 
-> *A steely dagger from out of the blue knocks another weapon off course.*
-> 
-> | **Ranged, Weapon** |   **Triggered** |
-> |--------------------|----------------:|
-> | **📏 Ranged 5**    | **🎯 One ally** |
-> 
-> **Trigger:** The target takes damage from another creature's ability while you are hidden.
-> 
-> **Effect:** The target takes half the damage. You remain hidden.
+
+*A steely dagger from out of the blue knocks another weapon off course.*
+
+| **Ranged, Weapon** |   **Triggered** |
+|--------------------|----------------:|
+| **📏 Ranged 5**    | **🎯 One ally** |
+
+**Trigger:** The target takes damage from another creature's ability while you are hidden.
+
+**Effect:** The target takes half the damage. You remain hidden.

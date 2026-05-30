@@ -17,11 +17,11 @@ type: kit
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](cloak-and-dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
-##### Equipment
+## Equipment
 
 You wear light armor and wield one or two light weapons.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +3 per echelon
 
@@ -35,9 +35,9 @@ You wear light armor and wield one or two light weapons.
 
 **Disengage Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Fade
+### Fade
 
 *A stab, and a few quick, careful steps back.*
 

@@ -18,7 +18,7 @@ type: title
 
 - *Come Out to Play:* You have the following ability, which can be paid for using the Heroic Resource of your class.
 
-##### Come Out to Play (1 Heroic Resource)
+## Come Out to Play (1 Heroic Resource)
 
 >
 > *Come out to play—yay!*

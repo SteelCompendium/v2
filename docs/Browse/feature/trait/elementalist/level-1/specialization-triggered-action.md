@@ -12,7 +12,7 @@ type: trait
 
 Your [elemental specialization](elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
 
-###### Elemental Specialization Triggered Actions Table
+### Elemental Specialization Triggered Actions Table
 
 | Specialization  | Triggered Action          |
 |-----------------|---------------------------|
@@ -21,62 +21,62 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 | Green           | [Breath of Dawn Remembered](../../../ability/elementalist/level-1/breath-of-dawn-remembered.md) |
 | Void            | [Subtle Relocation](../../../ability/elementalist/level-1/subtle-relocation.md)         |
 
-###### Breath of Dawn Remembered
+### Breath of Dawn Remembered
 
-> 
-> *The power you channel grants the ability to get back in the fight.*
-> 
-> | **Green, Magic, Ranged**          |           **Triggered** |
-> |-----------------------------------|------------------------:|
-> | **📏 Ranged 10**                  | **🎯 Self or one ally** |
-> 
-> **Trigger:** The target starts their turn or takes damage.
-> 
-> **Effect:** The target can spend a Recovery.
-> 
-> **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
-###### Explosive Assistance
+*The power you channel grants the ability to get back in the fight.*
 
-> 
-> *You add a little magic to an ally's aggression at just the right time.*
-> 
-> | **Fire, Magic, Ranged**  |           **Triggered** |
-> |--------------------------|------------------------:|
-> | **📏 Ranged 10**         | **🎯 Self or one ally** |
-> 
-> **Trigger:** The target [force move](../../../../movement/forced-movement.md)s a creature or object. 
-> 
-> **Effect:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
-> 
-> **Spend 1 Essence:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
+| **Green, Magic, Ranged**          |           **Triggered** |
+|-----------------------------------|------------------------:|
+| **📏 Ranged 10**                  | **🎯 Self or one ally** |
 
-###### Skin Like Castle Walls
+**Trigger:** The target starts their turn or takes damage.
 
-> 
-> *You cover yourself or an ally in protective stone.*
-> 
-> | **Earth, Magic, Ranged**  |           **Triggered** |
-> |---------------------------|------------------------:|
-> | **📏 Ranged 10**          | **🎯 Self or one ally** |
-> 
-> **Trigger:** The target takes damage.
-> 
-> **Effect:** The target takes half the damage.
-> 
-> **Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
+**Effect:** The target can spend a Recovery.
 
-###### Subtle Relocation
+**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
-> 
-> *You call on the void to swallow and spit out an ally.*
-> 
-> | **Magic, Ranged, Void**  |           **Triggered** |
-> |--------------------------|------------------------:|
-> | **📏 Ranged 10**         | **🎯 Self or one ally** |
-> 
-> **Trigger:** The target starts their turn, moves, or is [force moved](../../../../movement/forced-movement.md). 
-> 
-> **Effect:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
-> 
-> **Spend 1 Essence:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
+### Explosive Assistance
+
+
+*You add a little magic to an ally's aggression at just the right time.*
+
+| **Fire, Magic, Ranged**  |           **Triggered** |
+|--------------------------|------------------------:|
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
+
+**Trigger:** The target [force move](../../../../movement/forced-movement.md)s a creature or object. 
+
+**Effect:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+
+**Spend 1 Essence:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
+
+### Skin Like Castle Walls
+
+
+*You cover yourself or an ally in protective stone.*
+
+| **Earth, Magic, Ranged**  |           **Triggered** |
+|---------------------------|------------------------:|
+| **📏 Ranged 10**          | **🎯 Self or one ally** |
+
+**Trigger:** The target takes damage.
+
+**Effect:** The target takes half the damage.
+
+**Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
+
+### Subtle Relocation
+
+
+*You call on the void to swallow and spit out an ally.*
+
+| **Magic, Ranged, Void**  |           **Triggered** |
+|--------------------------|------------------------:|
+| **📏 Ranged 10**         | **🎯 Self or one ally** |
+
+**Trigger:** The target starts their turn, moves, or is [force moved](../../../../movement/forced-movement.md). 
+
+**Effect:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
+
+**Spend 1 Essence:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.

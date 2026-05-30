@@ -12,7 +12,7 @@ type: trait
 
 Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../../class/conduit.md) Domain Abilities table.
 
-###### 2nd-Level Conduit Domain Abilities Table
+### 2nd-Level Conduit Domain Abilities Table
 
 | Domain     | Ability                      |
 |------------|------------------------------|
@@ -29,155 +29,155 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Divine Comedy](../../../ability/conduit/level-2/divine-comedy.md)                |
 | War        | [Blessing of Insight](../../../ability/conduit/level-2/blessing-of-insight.md)          |
 
-###### Blessing of Fate and Destiny (5 Piety)
+### Blessing of Fate and Destiny
 
-> 
-> *Your enemies suffer their fate; your allies embrace their destiny!*
-> 
-> | **Magic, Ranged**  |        **Main action** |
-> |--------------------|-----------------------:|
-> | **📏 Ranged 10**   | **🎯 Three creatures** |
-> 
-> **Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
-> 
-> - Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
-> - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
 
-###### Blessing of Insight (5 Piety)
+*Your enemies suffer their fate; your allies embrace their destiny!*
 
-> 
-> *The gods grant insight revealing where best to strike your enemies.*
-> 
-> | **Magic, Ranged**  |              **Maneuver** |
-> |--------------------|--------------------------:|
-> | **📏 Ranged 10**   | **🎯 Self and each ally** |
-> 
-> **Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
+| **Magic, Ranged**  |        **Main action** |
+|--------------------|-----------------------:|
+| **📏 Ranged 10**   | **🎯 Three creatures** |
 
-###### Divine Comedy (5 Piety)
+**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
 
-> 
-> *You and your allies swap places to confound your foes.*
-> 
-> | **Area, Magic**  |                          **Maneuver** |
-> |------------------|--------------------------------------:|
-> | **📏 5 burst**   | **🎯 Self and each ally in the area** |
-> 
-> **Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
+- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
+- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
 
-###### The Gods Command You Obey (5 Piety)
+### Blessing of Insight
 
-> 
-> *You speak with the voice of your saint, commanding your enemies.*
-> 
-> | **Magic, Ranged, Strike** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
-> 
-> **Power Roll + Intuition:**
-> 
-> - **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
-> - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
-> - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
-###### Morning Light (5 Piety)
+*The gods grant insight revealing where best to strike your enemies.*
 
-> 
-> *Light shines at your command, burning your foes and blessing your allies.*
-> 
-> | **Area, Magic**  |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 3 burst**   | **🎯 Each enemy in the area** |
-> 
-> **Power Roll + Intuition:**
-> 
-> - **≤11:** 4 fire damage
-> - **12-16:** 6 fire damage
-> - **17+:** 10 fire damage
-> 
-> **Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+| **Magic, Ranged**  |              **Maneuver** |
+|--------------------|--------------------------:|
+| **📏 Ranged 10**   | **🎯 Self and each ally** |
 
-###### Nature Judges Thee (5 Piety)
+**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
 
-> 
-> *Mystical thorned vines appear at your bidding and bind your foes.*
-> 
-> | **Area, Magic, Ranged**  |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
-> 
-> **Power Roll + Intuition:**
-> 
-> - **≤11:** 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-> - **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-> - **17+:** 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+### Divine Comedy
 
-###### Our Hearts Your Strength (5 Piety)
 
-> 
-> *An ally gains strength from their friends.*
-> 
-> | **Magic, Ranged**  |             **Maneuver** |
-> |--------------------|-------------------------:|
-> | **📏 Ranged 10**   | **🎯 Self and one ally** |
-> 
-> **Effect:** Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+*You and your allies swap places to confound your foes.*
 
-###### Reap (5 Piety)
+| **Area, Magic**  |                          **Maneuver** |
+|------------------|--------------------------------------:|
+| **📏 5 burst**   | **🎯 Self and each ally in the area** |
 
-> 
-> *The gods reward those who smite their foes.*
-> 
-> | **Magic, Ranged**  |     **Maneuver** |
-> |--------------------|-----------------:|
-> | **📏 Ranged 10**   | **🎯 Each ally** |
-> 
-> **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
+**Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
-###### Sacred Bond (5 Piety)
+### The Gods Command You Obey
 
-> 
-> *You forge a divine connection between two creatures.*
-> 
-> | **Magic, Ranged**  |             **Maneuver** |
-> |--------------------|-------------------------:|
-> | **📏 Ranged 10**   | **🎯 Self and one ally** |
-> 
-> **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../level-1/triggered-action.md) to spend a Recovery.
 
-###### Saint's Tempest (5 Piety)
+*You speak with the voice of your saint, commanding your enemies.*
 
-> 
-> *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
-> 
-> | **Area, Magic, Ranged**  |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
-> 
-> **Power Roll + Intuition:**
-> 
-> - **≤11:** 2 lightning damage; vertical slide 1
-> - **12-16:** 5 lightning damage; vertical slide 2
-> - **17+:** 7 lightning damage; vertical slide 3
+| **Magic, Ranged, Strike** |     **Main action** |
+|---------------------------|--------------------:|
+| **📏 Ranged 10**          | **🎯 One creature** |
 
-###### Statue of Power (5 Piety)
+**Power Roll + Intuition:**
 
-> 
-> *A marble statue of your deity rises from the earth.*
-> 
-> | **Magic, Ranged**  |   **Maneuver** |
-> |--------------------|---------------:|
-> | **📏 Ranged 10**   | **🎯 Special** |
-> 
-> **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
+- **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
-###### Wellspring of Grace (5 Piety)
+### Morning Light
 
-> 
-> *A holy light is emitted from your body, healing your allies.*
-> 
-> | **Area, Magic**  |              **Main action** |
-> |------------------|-----------------------------:|
-> | **📏 3 aura**    | **🎯 Each ally in the area** |
-> 
-> **Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.
+
+*Light shines at your command, burning your foes and blessing your allies.*
+
+| **Area, Magic**  |               **Main action** |
+|------------------|------------------------------:|
+| **📏 3 burst**   | **🎯 Each enemy in the area** |
+
+**Power Roll + Intuition:**
+
+- **≤11:** 4 fire damage
+- **12-16:** 6 fire damage
+- **17+:** 10 fire damage
+
+**Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+
+### Nature Judges Thee
+
+
+*Mystical thorned vines appear at your bidding and bind your foes.*
+
+| **Area, Magic, Ranged**  |               **Main action** |
+|--------------------------|------------------------------:|
+| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
+
+**Power Roll + Intuition:**
+
+- **≤11:** 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+- **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+- **17+:** 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+
+### Our Hearts Your Strength
+
+
+*An ally gains strength from their friends.*
+
+| **Magic, Ranged**  |             **Maneuver** |
+|--------------------|-------------------------:|
+| **📏 Ranged 10**   | **🎯 Self and one ally** |
+
+**Effect:** Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+
+### Reap
+
+
+*The gods reward those who smite their foes.*
+
+| **Magic, Ranged**  |     **Maneuver** |
+|--------------------|-----------------:|
+| **📏 Ranged 10**   | **🎯 Each ally** |
+
+**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
+
+### Sacred Bond
+
+
+*You forge a divine connection between two creatures.*
+
+| **Magic, Ranged**  |             **Maneuver** |
+|--------------------|-------------------------:|
+| **📏 Ranged 10**   | **🎯 Self and one ally** |
+
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../level-1/triggered-action.md) to spend a Recovery.
+
+### Saint's Tempest
+
+
+*A raging storm appears, striking your foes with lightning and throwing them around with wind.*
+
+| **Area, Magic, Ranged**  |               **Main action** |
+|--------------------------|------------------------------:|
+| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
+
+**Power Roll + Intuition:**
+
+- **≤11:** 2 lightning damage; vertical slide 1
+- **12-16:** 5 lightning damage; vertical slide 2
+- **17+:** 7 lightning damage; vertical slide 3
+
+### Statue of Power
+
+
+*A marble statue of your deity rises from the earth.*
+
+| **Magic, Ranged**  |   **Maneuver** |
+|--------------------|---------------:|
+| **📏 Ranged 10**   | **🎯 Special** |
+
+**Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+
+### Wellspring of Grace
+
+
+*A holy light is emitted from your body, healing your allies.*
+
+| **Area, Magic**  |              **Main action** |
+|------------------|-----------------------------:|
+| **📏 3 aura**    | **🎯 Each ally in the area** |
+
+**Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.

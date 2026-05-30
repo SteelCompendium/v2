@@ -12,7 +12,7 @@ type: trait
 
 The focus and precision of your thoughts grant you a Heroic Resource called clarity that empowers your psionic abilities.
 
-##### Clarity in Combat
+## Clarity in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity.
 
@@ -24,7 +24,7 @@ Whenever you have clarity below 0, you are strained. Some psionic abilities have
 
 You lose any remaining clarity or reset any negative clarity at the end of the encounter.
 
-##### Clarity Outside of Combat
+## Clarity Outside of Combat
 
 Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

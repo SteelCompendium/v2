@@ -13,7 +13,7 @@ After [humans](human.md), [polders](polder.md) are the most numerous and diverse
 
 Short, averaging 31/2 feet tall, the [polders](polder.md)' origins are obscure. They are a young species who, like [humans](human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](polder.md) can be found in every profession, especially in cities.
 
-### On Polders
+## On Polders
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
@@ -123,10 +123,54 @@ The [dragon knight](dragon-knight.md) stared at them for a moment, then turned b
 
 "Maybe you're right," he said.
 
-### Signature Trait: Shadowmeld
+## Polder Traits
+
+[Polder](polder.md) heroes have access to the following traits.
+
+## Signature Trait: Shadowmeld
 
 You have the following ability.
 
-#### Purchased Polder Traits
+##### Shadowmeld
+
+*You become an actual shadow.*
+
+| **Magic**   |    **Maneuver** |
+|-------------|----------------:|
+| **📏 Self** |     **🎯 Self** |
+
+**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be [force moved](../movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+
+If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
+
+### Signature Trait: Small!
+
+Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
+
+### Purchased Polder Traits
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless, Graceful Retreat.)
+
+#### Corruption Immunity
+
+Your innate [shadow](../class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+
+#### Fearless
+
+Courage is all you know. You can't be made [frightened](../condition/frightened.md).
+
+#### Graceful Retreat
+
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+
+#### Nimblestep
+
+A light step serves you well when speed is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full speed while sneaking.
+
+#### Polder Geist
+
+Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have concealment from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
+
+#### Reactive Tumble
+
+Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free triggered action to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.

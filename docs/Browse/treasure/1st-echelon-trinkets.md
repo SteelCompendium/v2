@@ -14,7 +14,7 @@ type: treasure
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
-##### Color Cloak (Blue)
+## Color Cloak (Blue)
 
 *This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning "ice."*
 
@@ -32,7 +32,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 Additionally, when you are targeted by any effect that deals cold damage, you can use a triggered action to [shift](../movement/shifting.md) a number of squares equal to your level. If you do so, the cold immunity granted by the cloak becomes cold weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-##### Color Cloak (Red)
+## Color Cloak (Red)
 
 *This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning "fire."*
 
@@ -50,7 +50,7 @@ Additionally, when you are targeted by any effect that deals cold damage, you ca
 
 Additionally, when you are targeted by any effect that deals fire damage, you can use a triggered action to reduce the damage to 0. If you do so, the fire immunity granted by this cloak becomes fire weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-##### Color Cloak (Yellow)
+## Color Cloak (Yellow)
 
 *This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning "lightning."*
 
@@ -68,7 +68,7 @@ Additionally, when you are targeted by any effect that deals fire damage, you ca
 
 Additionally, when you are targeted by any effect that deals lightning damage, you can use a triggered action to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-##### Deadweight
+## Deadweight
 
 *Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.*
 
@@ -84,7 +84,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee free strike as a free maneuver once during the fall before you hit the ground.
 
-##### Displacing Replacement Bracer
+## Displacing Replacement Bracer
 
 *A wooden bangle is etched with an ambigram sigil of the Zaliac word for "transfer."*
 
@@ -100,7 +100,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** As a maneuver, you transfer an object of size 1S or 1T held in one hand with another object of the same size that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have I < 4, they fail to notice the transfer.
 
-##### Divine Vine
+## Divine Vine
 
 *A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.*
 
@@ -116,7 +116,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is [grabbed](../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
 
-##### Flameshade Gloves
+## Flameshade Gloves
 
 *These finely stitched gloves appear to flicker in and out of reality when first handled.*
 
@@ -134,7 +134,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful hard Might test made as a main action.
 
-##### Gecko Gloves
+## Gecko Gloves
 
 *These scaled gloves have palms and fingers covered in near-invisible sticky hairs.*
 
@@ -150,7 +150,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../movement/forced-movement.md), and any creature [grabbed](../condition/grabbed.md) by you takes a bane on the test for the Escape Grab maneuver.
 
-##### Hellcharger Helm
+## Hellcharger Helm
 
 *A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
 
@@ -166,7 +166,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the Knockback maneuver as a free maneuver, regardless of the target creature's size.
 
-##### Mask of the Many
+## Mask of the Many
 
 *A plain white mask is lined with soft black velvet—which smells faintly of blood.*
 
@@ -182,7 +182,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent size that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
 
-##### Quantum Satchel
+## Quantum Satchel
 
 *A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.*
 
@@ -198,7 +198,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** When the brooch is removed from this bag and placed in a container or room, it magically entangles that location to the bag. Any item that can be placed in the Quantum Satchel appears near to the brooch and can be recovered by reaching inside while picturing the desired object. The capacity of the satchel is dictated by the size of the container or room where the entangled brooch is. If an item is removed from the container or room containing the brooch, it can't be retrieved through the satchel.
 
-##### Unbinder Boots
+## Unbinder Boots
 
 *A pair of ornately embroidered leather boots are covered in images of broken chains.*
 

@@ -13,7 +13,7 @@ type: treasure
 
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
-##### Breath of Creation
+## Breath of Creation
 
 *A glass flask holds a roiling storm of astral plasma.*
 
@@ -31,7 +31,7 @@ This section presents 4th-echelon consumable treasures in alphabetical order.
 
 Each time you use another Breath of Creation, you can create a new demiplane or expand a demiplane you have already created or visited. The size of an expanded demiplane increases by 20, and you create a second portal to the demiplane with a corresponding portal inside.
 
-##### Elixir of Saint Elspeth
+## Elixir of Saint Elspeth
 
 *This thick red liquid smells of cinnamon.*
 
@@ -47,7 +47,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 
 **Effect:** When you pour the elixir onto your forehead as a maneuver, it vanishes and you protect yourself against effects that might harm your body, mind, or soul. For a number of rounds equal to your current Victories, any enemy ability targeting you automatically obtains a tier 1 outcome against you. Additionally, the ability can only deal damage to you, letting you ignore its other effects.
 
-##### Page From the Infinite Library: Solaris
+## Page From the Infinite Library: Solaris
 
 *This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.*
 
@@ -65,7 +65,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../condition/dazed.md) until the end of their turn.
 
-##### Restorative of the Bright Court
+## Restorative of the Bright Court
 
 *An ornately decorated golden vial smells of summer rain and subtle zesty fruits.*
 

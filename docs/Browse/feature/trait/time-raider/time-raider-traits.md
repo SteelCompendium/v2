@@ -11,10 +11,72 @@ type: trait
 
 [Time raider](../../../ancestry/time-raider.md) heroes have access to the following traits.
 
-#### Purchased Time Raider Traits
+## Signature Trait: Psychic Scar
+
+Your mind is a formidable layer of defense. You have psychic immunity equal to your level.
+
+## Purchased Time Raider Traits
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../../ability/time-raider/psionic-bolt.md).)
 
-##### Unstoppable Mind (2 Points)
+### Beyondsight
+
+As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.
+
+### Foresight
+
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+
+### Four-Armed Athletics
+
+Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
+
+### Four-Armed Martial Arts
+
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time.
+
+### Psionic Gift
+
+Choose one signature ability from the following options. Signature abilities can be used at will.
+
+#### Concussive Slam
+
+*You slam an invisible force down upon the target.*
+
+| **Psionic, Ranged, Strike**  | Main action                   |
+|------------------------------|-------------------------------|
+| **📏 Ranged 10**             | **🎯 One creature or object** |
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- **≤11:** 2 + R, I, or P damage;
+- **12-16:** 5 + R, I, or P damage; push 1
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
+
+#### Psionic Bolt
+
+*You shoot forth a purple beam of psychic force that moves your target.*
+
+| **Psionic, Ranged, Strike**  | Main action                   |
+|------------------------------|-------------------------------|
+| **📏 Ranged 10**             | **🎯 One creature or object** |
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- **≤11:** 2 + R, I, or P psychic damage; slide 1
+- **12-16:** 5 + R, I, or P psychic damage; slide 2
+- **17+:** 7 + R, I, or P psychic damage; slide 3
+
+#### Minor Acceleration
+
+*You fill yourself or an ally with a burst of speed.*
+
+| **Psionic, Melee** | Maneuver               |
+|-------------------|------------------------|
+| **📏 Melee 1**    | **🎯 Self or one ally** |
+
+**Effect:** The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+
+### Unstoppable Mind
 
 Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../../condition/dazed.md).

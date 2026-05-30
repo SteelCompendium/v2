@@ -18,7 +18,7 @@ You choose a specific animal and appearance while in [animal form](../../../../c
 
 You can revert back to your true form as a maneuver. You can't enter an [animal form](../../../../complication/animal-form.md) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
-###### Green Animal Forms Table
+## Green Animal Forms Table
 
 | Animal Type         | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
 |---------------------|-------|-------------------|---------------|------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

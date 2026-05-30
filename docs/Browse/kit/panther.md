@@ -15,11 +15,11 @@ type: kit
 
 If you want a good balance of protection, speed, and damage, the [Panther](panther.md) kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-##### Equipment
+## Equipment
 
 You wear no armor and wield a heavy weapon.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -29,9 +29,9 @@ You wear no armor and wield a heavy weapon.
 
 **Melee Damage Bonus:** +0/+0/+4
 
-##### Signature Ability
+## Signature Ability
 
-###### Devastating Rush
+### Devastating Rush
 
 *The faster you move, the harder you hit.*
 

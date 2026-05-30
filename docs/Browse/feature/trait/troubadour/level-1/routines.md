@@ -14,24 +14,24 @@ You enter every battle with a set of performance abilities at the ready. Perform
 
 You start off with the [Choreography](../../../ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../../../ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
-##### Choreography
+## Choreography
 
->
-> *Taps, kicks, steps. It's all "[choreography](../../../ability/troubadour/level-1/choreography.md)."*
->
-> | **Area, Magic, Performance** |                         **No action** |
-> |------------------------------|--------------------------------------:|
-> | **📏 5 aura**                | **🎯 Self and each ally in the area** |
->
-> **Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
 
-##### Revitalizing Limerick
+*Taps, kicks, steps. It's all "[choreography](../../../ability/troubadour/level-1/choreography.md)."*
 
->
-> *There once was a man from Capital...*
->
-> | **Area, Magic, Performance** |                         **No action** |
-> |------------------------------|--------------------------------------:|
-> | **📏 5 aura**                | **🎯 Self and each ally in the area** |
->
-> **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a Recovery.
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.
+
+## Revitalizing Limerick
+
+
+*There once was a man from Capital...*
+
+| **Area, Magic, Performance** |                         **No action** |
+|------------------------------|--------------------------------------:|
+| **📏 5 aura**                | **🎯 Self and each ally in the area** |
+
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a Recovery.

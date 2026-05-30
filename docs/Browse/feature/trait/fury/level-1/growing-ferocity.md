@@ -14,7 +14,7 @@ You gain certain benefits in combat based on the amount of ferocity you have (se
 
 Some [Growing Ferocity](../boren/growing-ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../boren/growing-ferocity.md) tables in this section.
 
-###### Berserker Growing Ferocity Table
+### Berserker Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ Some [Growing Ferocity](../boren/growing-ferocity.md) benefits can be applied on
 | 10 (7th level)  | You have a double edge on Might tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../../../../movement/forced-movement.md) on a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score. |
 
-###### Reaver Growing Ferocity Table
+### Reaver Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

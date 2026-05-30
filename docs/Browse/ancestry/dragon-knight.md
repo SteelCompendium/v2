@@ -17,7 +17,7 @@ Knighthood was a title carried by every member of that first generation of [drag
 
 Then Ajax came.
 
-### On Dragon Knights
+## On Dragon Knights
 
 The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
@@ -92,3 +92,71 @@ Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and
 The [dragon knight](dragon-knight.md) looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
+
+## Dragon Knight Traits
+
+[Dragon knight](dragon-knight.md) heroes have access to the following traits.
+
+### Signature Trait: Wyrmplate
+
+Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.
+
+### Purchased Dragon Knight Traits
+
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](../feature/ability/dragon-knight/dragon-breath.md), Prismatic Scales.)
+
+#### Draconian Guard
+
+Whenever you or an adjacent creature takes damage from a strike, you can use a triggered action to guard against the blow. You reduce any damage from the strike by an amount equal to your level.
+
+#### Draconian Pride
+
+You have the following signature ability.
+
+##### Draconian Pride
+
+*You let loose a mighty roar to shake your foes' spirits.*
+
+| **Area, Magic** |               **Main action** |
+|-----------------|------------------------------:|
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
+
+**Power Roll + Might or Presence:**
+
+- **≤11:** 2 damage
+- **12-16:** 5 damage; push 1
+- **17+:** 7 damage; push 2
+
+#### Dragon Breath
+
+You have the following signature ability.
+
+##### Dragon Breath
+
+*A furious exhalation of energy washes over your foes.*
+
+| **Area, Magic**        |               **Main action** |
+|------------------------|------------------------------:|
+| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
+
+**Power Roll + Might or Presence:**
+
+- **≤11:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
+
+**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
+
+#### Prismatic Scales
+
+Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
+
+#### Remember Your Oath
+
+As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a saving throw, you succeed on a 4 or higher.
+
+*Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
+
+#### Wings
+
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have damage weakness 5.

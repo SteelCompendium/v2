@@ -12,7 +12,7 @@ type: trait
 
 During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
 
-##### Drama in Combat
+## Drama in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
 
@@ -27,7 +27,7 @@ When you are dead, you continue to gain drama during combat as long as your body
 
 You lose any remaining drama at the end of the encounter.
 
-##### Drama Outside of Combat
+## Drama Outside of Combat
 
 Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 

@@ -15,11 +15,11 @@ type: kit
 
 The [Guisarmier](guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-##### Equipment
+## Equipment
 
 You wear medium armor and wield a polearm.
 
-##### Kit Bonuses
+## Kit Bonuses
 
 **Stamina Bonus:** +6 per echelon
 
@@ -29,9 +29,9 @@ You wear medium armor and wield a polearm.
 
 **Melee Distance Bonus:** +1
 
-##### Signature Ability
+## Signature Ability
 
-###### Forward Thrust, Backward Smash
+### Forward Thrust, Backward Smash
 
 *In your hands, the haft is as good as the head.*
 

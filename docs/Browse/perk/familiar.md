@@ -16,7 +16,7 @@ The [familiar](familiar.md) can hold small objects in their mouth or claws, but 
 
 If your [familiar](familiar.md) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
-###### Familiar Statblock
+### Familiar Statblock
 
 **[Familiar](familiar.md)**
 

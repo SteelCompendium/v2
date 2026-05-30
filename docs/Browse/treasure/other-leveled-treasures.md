@@ -13,7 +13,7 @@ type: treasure
 
 In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](magic-and-psionic-treasures.md). This section presents other types of leveled treasures in alphabetical order.
 
-##### Bloodbound Band
+## Bloodbound Band
 
 *This ring appears to be traced by dried blood, which returns each time it is rubbed away.*
 
@@ -33,7 +33,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../movement/teleport.md) into their possession and ceases to be magic.
 
-##### Bloody Hand Wraps
+## Bloody Hand Wraps
 
 *These rough hand wraps are stained with blood that never comes clean.*
 
@@ -53,7 +53,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee free strike option, or Grab maneuver option, but only one.
 
-##### Lightning Treads
+## Lightning Treads
 
 *Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.*
 
@@ -73,7 +73,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../movement/fly.md) lightning kick on one adjacent creature. That target is pushed up to 5 squares, and you can move to any square adjacent to the target after the push.
 
-##### Revenger's Wrap
+## Revenger's Wrap
 
 *When first handled, this tattered cloak fills the mind with thoughts of revenge.*
 
@@ -93,7 +93,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their distance from you and even if you don't have line of effect to them.
 
-##### Thief of Joy
+## Thief of Joy
 
 *This burnished copper torque thrums with a sense of judgment.*
 

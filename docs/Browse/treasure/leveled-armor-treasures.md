@@ -13,7 +13,7 @@ type: treasure
 
 Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](leveled-armor-treasures.md) in alphabetical order.
 
-##### Adaptive Second Skin of Toxins
+## Adaptive Second Skin of Toxins
 
 *This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.*
 
@@ -33,7 +33,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-cube area of liquid or gas adjacent to you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a combat round or starts their turn there takes 6 acid or poison damage, as appropriate.
 
-##### Chain of the Sea and Sky
+## Chain of the Sea and Sky
 
 *This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.*
 
@@ -53,7 +53,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an edge on ability rolls, and any ability takes a bane when targeting you.
 
-##### Grand Scarab
+## Grand Scarab
 
 *The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.*
 
@@ -73,7 +73,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](../movement/fly.md) any distance before making a strike, that strike gains an edge.
 
-##### King's Roar
+## King's Roar
 
 *A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.*
 
@@ -93,7 +93,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../condition/slowed.md) until the end of their next turn.
 
-##### Kuran'zoi Prismscale
+## Kuran'zoi Prismscale
 
 *Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.*
 
@@ -113,7 +113,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 bonus to speed that lasts until the end of your next turn.
 
-##### Paper Trappings
+## Paper Trappings
 
 *This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.*
 
@@ -133,7 +133,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the Escape Grab maneuver against you and when making strikes against you.
 
-##### Shrouded Memory
+## Shrouded Memory
 
 *This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.*
 
@@ -153,7 +153,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](../movement/teleport.md), you can [teleport](../movement/teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
 
-##### Spiny Turtle
+## Spiny Turtle
 
 *This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.*
 
@@ -173,7 +173,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Additionally, spikes cover the armor, and any adjacent creature who deals damage to you takes 6 damage.
 
-##### Star-Hunter
+## Star-Hunter
 
 *Shimmering light flows like liquid along this suit of crystalline armor.*
 
@@ -193,7 +193,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and you instinctively know the location of any creature with concealment within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
 
-##### Telekinetic Bulwark
+## Telekinetic Bulwark
 
 *An unseen force seems to draw this steel shield toward nearby creatures.* 
 

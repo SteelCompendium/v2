@@ -14,7 +14,7 @@ Whenever you use the [Inertial Shield](../../../ability/null/level-1/inertial-sh
 
 Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-###### Chronokinetic Mastery Table
+## Chronokinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

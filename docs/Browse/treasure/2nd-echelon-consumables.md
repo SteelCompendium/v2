@@ -13,7 +13,7 @@ type: treasure
 
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
-##### Breath of Dawn
+## Breath of Dawn
 
 *A glass flask contains a whirl of gentle sunlight.*
 
@@ -29,7 +29,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), and [taunted](../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 
-##### Bull Shot
+## Bull Shot
 
 *Tiny chips of white bone float within this dark potion, which carries the scent of beef broth.*
 
@@ -45,7 +45,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the Charge main action, the target of your strike is gored upon your horns and [grabbed](../condition/grabbed.md). While [grabbed](../condition/grabbed.md) this way, the creature is [bleeding](../condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
-##### Chocolate of Immovability
+## Chocolate of Immovability
 
 *This decadent-looking treat feels strangely heavy in the hand.*
 
@@ -61,7 +61,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
 
-##### Concealment Potion
+## Concealment Potion
 
 *This dark, viscous liquid tastes like burnt leaves.*
 
@@ -77,7 +77,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the Hide maneuver even while you are observed.
 
-##### Float Powder
+## Float Powder
 
 *A glass vial holds translucent flakes that twinkle in the light.*
 
@@ -93,7 +93,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](../movement/fly.md) and [hover](../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 
-##### Purified Jelly
+## Purified Jelly
 
 *This clear, pasty substance has a bitter aroma.*
 
@@ -109,7 +109,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** Consuming this potion as a maneuver causes your skin to shimmer and a set of tiny gills to appear on your neck or shoulders. For 1 hour, you can breathe in any environment, and you ignore the effects of harmful gases, vapors, and inhaled poisons.
 
-##### Scroll of Resurrection
+## Scroll of Resurrection
 
 *This scroll is marked by sigils of power, death, and life.*
 
@@ -127,7 +127,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite, and the scroll is consumed.
 
-##### Telemagnet
+## Telemagnet
 
 *A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.*
 
@@ -149,7 +149,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
-##### Vial of Ethereal Attack
+## Vial of Ethereal Attack
 
 *Clear liquid seems to constantly churn within an obsidian vial, even when at rest.*
 
