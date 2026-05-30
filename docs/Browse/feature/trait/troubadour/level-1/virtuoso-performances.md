@@ -28,3 +28,14 @@ You have the following performance abilities, which are usable with your [Routin
 > - **≤11:** Lightning damage equal to your level
 > - **12-16:** Lightning damage equal to 5 + your level
 > - **17+:** Lightning damage equal to 10 + your level
+
+###### "Ballad of the Beast"
+
+>
+> *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
+>
+> | **Area, Magic, Performance** |                         **No action** |
+> |------------------------------|--------------------------------------:|
+> | **📏 5 aura**                | **🎯 Self and each ally in the area** |
+>
+> **Effect:** While this performance is active, each target who starts their turn in the area gains 1 surge.

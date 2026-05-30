@@ -37,6 +37,17 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You have the following ability.
 
+###### Blessing of Secrets
+
+> 
+> *You project an illusory aura that makes you and allies harder to notice.*
+> 
+> | **Area, Magic** |                         **Maneuver**  |
+> |-----------------|--------------------------------------:|
+> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
+> 
+> **Effect:** Each creature in the area has a double edge on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+
 ###### Impervious Touch
 
 As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).
@@ -78,14 +89,3 @@ While you have 5 or more Victories, you can [fly](../../../../movement/fly.md). 
 ###### Wode Road
 
 As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to [teleport](../../../../movement/teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).
-
-###### Blessing of Secrets
-
-> 
-> *You project an illusory aura that makes you and allies harder to notice.*
-> 
-> | **Area, Magic** |                         **Maneuver**  |
-> |-----------------|--------------------------------------:|
-> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
-> 
-> **Effect:** Each creature in the area has a double edge on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.

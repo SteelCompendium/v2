@@ -96,6 +96,47 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 >
 > **Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 
+##### Mind Game (5 Focus)
+
+>
+> *Your attack demoralizes your foe. Your allies begin to think you can win.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> |-----------------------------------|------------------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Effect:** You mark the target.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 4 + M damage; R < WEAK, [weakened](../condition/weakened.md) (save ends)
+> - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../condition/weakened.md) (save ends)
+> - **17+:** 10 + M damage; R < STRONG, [weakened](../condition/weakened.md) (save ends)
+>
+> **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
+
+##### Now! (5 Focus)
+
+>
+> *Your allies wait for your command—then unleash death!*
+>
+> | **Ranged**       |        **Maneuver** |
+> |------------------|--------------------:|
+> | **📏 Ranged 10** | **🎯 Three allies** |
+>
+> **Effect:** Each target can make a free strike.
+
+##### This Is What We Planned For (5 Focus)
+
+>
+> *All those coordination drills you made them do finally pay off.*
+>
+> | **Ranged**       |      **Maneuver** |
+> |------------------|------------------:|
+> | **📏 Ranged 10** | **🎯 Two allies** |
+>
+> **Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
+
 ### Commanding Presence
 
 You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
@@ -132,6 +173,36 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 > **Effect:** The target gains 2 surges, which they can use on the triggering damage.
 >
 > **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
+
+###### Overwatch
+
+>
+> *Under your direction, an ally waits for just the right moment to strike.*
+>
+> | **Ranged**       |       **Triggered** |
+> |------------------|--------------------:|
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Trigger:** The target moves.
+>
+> **Effect:** At any time during the target's movement, one ally can make a free strike against them.
+>
+> **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../condition/slowed.md) (EoT).
+
+###### Parry
+
+>
+> *Your quick reflexes cost an enemy the precision they seek.*
+>
+> | **Melee, Weapon** |            **Triggered** |
+> |-------------------|-------------------------:|
+> | **📏 Melee 2**    |  **🎯 Self or one ally** |
+>
+> **Trigger:** A creature deals damage to the target.
+>
+> **Effect:** You can [shift](../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+>
+> **Spend 1 Focus:** This ability's distance becomes Melee 1 + your Reason score, and you can [shift](../movement/shifting.md) up to a number of squares equal to your Reason score instead of 1 square.
 
 ### Field Arsenal
 
@@ -275,6 +346,47 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 > - **≤11:** Each target gains 1 surge.
 > - **12-16:** Each target gains 2 surges.
 > - **17+:** Each target gains 3 surges.
+
+###### Concussive Strike (3 Focus)
+
+>
+> *Your precise strike leaves your foe struggling to respond.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> |-----------------------------------|------------------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M damage; M < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [dazed](../condition/dazed.md) (save ends)
+
+###### Inspiring Strike (3 Focus)
+
+>
+> *Your attack gives an ally hope.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> |-----------------------------------|------------------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
+> - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
+> - **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
+
+###### Squad! Forward! (3 Focus)
+
+>
+> *On your command, you and your allies force back the enemy line.*
+>
+> | **Ranged**       |               **Maneuver** |
+> |------------------|---------------------------:|
+> | **📏 Ranged 10** | **🎯 Self and two allies** |
+>
+> **Effect:** Each target can move up to their speed.
 
 ## 1st-Level Abilities
 
@@ -469,14 +581,6 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 Choose one of the following abilities.
 
-##### 2nd-Level Mastermind Ability
-
-Choose one of the following abilities.
-
-##### 2nd-Level Vanguard Ability
-
-Choose one of the following abilities.
-
 ###### Fog of War (5 Focus)
 
 >
@@ -489,6 +593,91 @@ Choose one of the following abilities.
 > **Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
 >
 > **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
+
+###### Try Me Instead (5 Focus)
+
+>
+> *"Try picking on someone my size."*
+>
+> | **Melee, Strike, Weapon** | **Main action** |
+> |---------------------------|----------------:|
+> | **📏 Self; see below**    |     **🎯 Self** |
+>
+> **Effect:** You [shift](../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R damage; R < WEAK, [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 3 + R damage; R < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 4 + R damage; R < STRONG, [frightened](../condition/frightened.md) (save ends)
+
+##### 2nd-Level Mastermind Ability
+
+Choose one of the following abilities.
+
+###### I've Got Your Back (5 Focus)
+
+>
+> *Your enemy will think twice about attacking your friend.*
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> |----------------------------|--------------------:|
+> | **📏 Ranged 5**            | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 5 + R damage; [taunted](../condition/taunted.md) (EoT)
+> - **12-16:** 9 + R damage; [taunted](../condition/taunted.md) (EoT)
+> - **17+:** 12 + R damage; [taunted](../condition/taunted.md) (EoT)
+>
+> **Effect:** One ally adjacent to the target can spend a Recovery.
+
+###### Targets of Opportunity (5 Focus)
+
+>
+> *You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
+>
+> | **Ranged**      |         **Maneuver** |
+> |-----------------|---------------------:|
+> | **📏 Ranged 5** | **🎯 Two creatures** |
+>
+> **Effect:** Each target is marked by you, and you gain two surges.
+>
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
+
+##### 2nd-Level Vanguard Ability
+
+Choose one of the following abilities.
+
+###### No Dying on My Watch (5 Focus)
+
+>
+> *You prioritize saving an ally over your own safety.*
+>
+> | **Ranged, Strike, Weapon** |    **Triggered** |
+> |----------------------------|-----------------:|
+> | **📏 Ranged 5**            | **🎯 One enemy** |
+>
+> **Trigger:** The target deals damage to an ally.
+>
+> **Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** R < WEAK, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
+> - **12-16:** R < AVERAGE, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
+> - **17+:** R < STRONG, the target is [frightened](../condition/frightened.md) of the triggering ally (save ends)
+
+###### Squad! On Me! (5 Focus)
+
+>
+> *Together we are invincible!*
+>
+> | **Area**       |                          **Maneuver** |
+> |----------------|--------------------------------------:|
+> | **📏 1 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
 
 ### 2nd-Level Doctrine Feature
 
@@ -623,6 +812,39 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 >
 > **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
 
+##### Hit 'Em Hard! (7 Focus)
+
+>
+> *Your allies see the advantages in attacking the targets you select.*
+>
+> | **-**       | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.
+
+##### Rout (7 Focus)
+
+>
+> *The tide begins to turn.*
+>
+> | **-**       | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../condition/frightened.md) of the creature who dealt the damage (save ends).
+
+##### Stay Strong and Focus! (7 Focus)
+
+>
+> *"We can do this! Keep faith and hold fast!"*
+>
+> | **-**       | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.
+
 ### Out of Position
 
 Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
@@ -726,6 +948,39 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 >
 > **Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
 
+##### Squad! Remember Your Training! (9 Focus)
+
+>
+> *You remind your allies how to best use their gear.*
+>
+> | **Ranged**                |                         **Main action** |
+> |------------------------------|----------------------------------------:|
+> | **📏 Ranged 10**  | **🎯 Self and two allies** |
+>
+> **Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.
+
+##### Win This Day! (9 Focus)
+
+>
+> *You inspire your allies to recover and gather their strength.*
+>
+> | **Area**       |                       **Main action** |
+> |----------------|--------------------------------------:|
+> | **📏 3 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they [are prone](../condition/prone.md).
+
+##### You've Still Got Something Left (9 Focus)
+
+>
+> *You push an ally to use a heroic ability sooner than they otherwise would.*
+>
+> | **Ranged**       | **Main action** |
+> |------------------|----------------:|
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
+
 ### Anticipation
 
 You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.
@@ -808,14 +1063,6 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 Choose one of the following abilities.
 
-##### 6th-Level Mastermind Abilities
-
-Choose one of the following abilities.
-
-##### 6th-Level Vanguard Abilities
-
-Choose one of the following abilities.
-
 ###### Coordinated Execution (9 Focus)
 
 >
@@ -828,6 +1075,91 @@ Choose one of the following abilities.
 > **Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.
 >
 > **Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+
+###### Panic in Their Lines (9 Focus)
+
+>
+> *You confuse your foes, causing them to turn on each other.*
+>
+> | **Melee, Ranged, Strike, Weapon** |      **Main action** |
+> |-----------------------------------|---------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 6 + M damage; slide 1
+> - **12-16:** 9 + M damage; slide 3
+> - **17+:** 13 + M damage; slide 5
+>
+> **Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a free strike against that creature.
+
+##### 6th-Level Mastermind Abilities
+
+Choose one of the following abilities.
+
+###### Battle Plan (9 Focus)
+
+>
+> *With new understanding of your foes, you create the perfect plan to win the battle.*
+>
+> | **Ranged**       |           **Maneuver** |
+> |------------------|-----------------------:|
+> | **📏 Ranged 10** | **🎯 Three creatures** |
+>
+> **Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
+>
+> **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
+
+###### Hustle! (9 Focus)
+
+>
+> *You and your allies coordinate to form a new battle line.*
+>
+> | **Area**       |                          **Maneuver** |
+> |----------------|--------------------------------------:|
+> | **📏 2 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../movement/shifting.md) up to their speed. You and each target gain 2 surges.
+
+##### 6th-Level Vanguard Abilities
+
+Choose one of the following abilities.
+
+###### Instant Retaliation (9 Focus)
+
+>
+> *You [parry](../feature/ability/tactician/level-1/parry.md) with almost supernatural speed.*
+>
+> | **Melee, Weapon** | **Free triggered** |
+> | ------------------------------------|-------------------:|
+> | **📏 Melee 1**                   |    **🎯 One ally** |
+>
+> **Trigger:** A creature deals damage to the target.
+>
+> **Effect:** The target takes half the damage. You then make a power roll against the triggering creature.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** A < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** A < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** A < STRONG, [dazed](../condition/dazed.md) (save ends)
+
+###### To Me Squad! (9 Focus)
+
+>
+> *You lead your allies in a charge.*
+>
+> | **Charge, Melee, Strike, Weapon** |     **Main action** |
+> |-----------------------------------|--------------------:|
+> | **📏 Melee 1**                    | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
+> - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
+> - **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
+>
+> **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../condition/dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
 ### Master of Arms
 
@@ -982,6 +1314,47 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 >
 > **Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
 
+##### Finish Them! (11 Focus)
+
+>
+> *You point out an opening to your ally so they can land a killing blow.*
+>
+> | **Ranged**       |  **Free triggered** |
+> |------------------|--------------------:|
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Trigger:** The target is not a leader or solo creature, and becomes winded.
+>
+> **Effect:** The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.
+
+##### Floodgates Open (11 Focus)
+
+>
+> *You direct your squad to strike in unison and with devastating effect.*
+>
+> | **Ranged**       |     **Main action** |
+> |------------------|--------------------:|
+> | **📏 Ranged 10** | **🎯 Three allies** |
+>
+> **Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
+
+##### I'll Open and You'll Close (11 Focus)
+
+>
+> *You create an opening for an ally.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> |-----------------------------------|--------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 6 + M damage
+> - **12-16:** 10 + M damage
+> - **17+:** 14 + M damage
+>
+> **Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
+
 ### 8th-Level Doctrine Feature
 
 Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md) grants you a feature, as shown on the 8th-Level Doctrine Features table.
@@ -1076,14 +1449,6 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 Choose one of the following abilities.
 
-##### 9th-Level Mastermind Abilities
-
-Choose one of the following abilities.
-
-##### 9th-Level Vanguard Abilities
-
-Choose one of the following abilities.
-
 ###### Squad! Hit and Run! (11 Focus)
 
 >
@@ -1094,6 +1459,91 @@ Choose one of the following abilities.
 > | **📏 Ranged 10** | **🎯 Self and two allies** |
 >
 > **Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+
+###### Their Lack of Focus Is Their Undoing (11 Focus)
+
+>
+> *You trick your enemies into attacking each other and leave them confused by the aftermath.*
+>
+> | **Magic, Ranged, Weapon** |      **Main action** |
+> |---------------------------|---------------------:|
+> | **📏 Ranged 10**          | **🎯 Three enemies** |
+>
+> **Effect:** Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** R < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** R < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** R < STRONG, [dazed](../condition/dazed.md) (save ends)
+
+##### 9th-Level Mastermind Abilities
+
+Choose one of the following abilities.
+
+###### Blot Out the Sun! (11 Focus)
+
+>
+> *What makes a good soldier? The ability to fire four shots a minute in any weather.*
+>
+> | **Area**       |                       **Main action** |
+> |----------------|--------------------------------------:|
+> | **📏 3 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+
+###### Counterstrategy (11 Focus)
+
+>
+> *I've identified a way to negate their strengths.*
+>
+> | **-**       | **Main action** |
+> |-------------|----------------:|
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Effect:** You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.
+
+##### 9th-Level Vanguard Abilities
+
+Choose one of the following abilities.
+
+###### No Escape (11 Focus)
+
+>
+> *Nothing will stop you from reaching your foe.*
+>
+> | **Charge, Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1**                    | **🎯 One creature** |
+>
+> **Effect:** You mark the target.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 11 + M damage
+> - **12-16:** 16 + M damage
+> - **17+:** 21 + M damage
+>
+> **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+
+###### That One Is Mine! (11 Focus)
+
+>
+> *You focus on making an enemy irrelevant.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> |-----------------------------------|--------------------:|
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Effect:** The target is marked by you.
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 8 + M damage
+> - **12-16:** 13 + M damage
+> - **17+:** 17 + M damage
+>
+> **Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.
 
 ### Grandmaster of Arms
 

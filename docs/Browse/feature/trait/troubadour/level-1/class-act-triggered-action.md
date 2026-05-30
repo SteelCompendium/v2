@@ -34,3 +34,31 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 > **Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 >
 > **Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.
+
+###### Riposte
+
+>
+> *"I'd have brought treats had I known I'd be fighting a dog."*
+>
+> | **Melee**      |           **Triggered** |
+> |----------------|------------------------:|
+> | **📏 Melee 1** | **🎯 Self or one ally** |
+>
+> **Trigger:** The target takes damage from a melee strike.
+>
+> **Effect:** The target makes a free strike against the creature who made the triggering strike.
+
+###### Turnabout Is Fair Play
+
+>
+> *All's fair in love and whatever.*
+>
+> | **Ranged**       |       **Triggered** |
+> |------------------|--------------------:|
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Trigger:** The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+>
+> **Effect:** An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
+>
+> **Spend 3 Drama:** An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.

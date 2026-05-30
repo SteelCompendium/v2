@@ -120,18 +120,6 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../feature/ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../feature/ability/elementalist/level-1/viscous-fire.md).)
 
-##### Heroic Abilities
-
-You channel a variety of heroic abilities, all of them fueled by your essence.
-
-###### 3-Essence Ability
-
-Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
-
-###### 5-Essence Ability
-
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../feature/ability/elementalist/level-1/conflagration.md).)
-
 ###### Afflict a Bountiful Decay
 
 > 
@@ -148,6 +136,263 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > - **17+:** 6 + R corruption damage
 > 
 > **Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+
+###### Bifurcated Incineration
+
+> 
+> *Two jets of flame lance out at your command.*
+> 
+> | **Fire, Magic, Ranged, Strike** |                 **Main action** |
+> |---------------------------------|--------------------------------:|
+> | **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 fire damage
+> - **12-16:** 4 fire damage
+> - **17+:** 6 fire damage
+
+###### Grasp of Beyond
+
+> 
+> *You absorb the life energy of another creature and use it to [teleport](../movement/teleport.md).*
+> 
+> | **Magic, Melee, Strike, Void** |     **Main action** |
+> |--------------------------------|--------------------:|
+> | **📏 Melee 1**                 | **🎯 One creature** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 3 + R corruption damage
+> - **12-16:** 6 + R corruption damage
+> - **17+:** 9 + R corruption damage
+> 
+> **Effect:** You can [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score.
+
+###### The Green Within, the Green Without
+
+> 
+> *Whipping vines erupt from a foe's body to grasp at another close by.*
+> 
+> | **Green, Magic, Ranged, Strike** |      **Main action** |
+> |----------------------------------|---------------------:|
+> | **📏 Ranged 10**                 |  **🎯 One creature** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 + R damage
+> - **12-16:** 5 + R damage
+> - **17+:** 7 + R damage
+> 
+> **Effect:** You slide one creature within 10 squares of the target up to 2 squares.
+
+###### Meteoric Introduction
+
+> 
+> *You give your enemy a gentle tap-like an asteroid impact.*
+> 
+> | **Earth, Magic, Melee, Strike** |               **Main action** |
+> |---------------------------------|------------------------------:|
+> | **📏 Melee 1**                  | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 3 + R damage; push 2
+> - **12-16:** 5 + R damage; push 3
+> - **17+:** 8 + R damage; push 4
+
+###### Ray of Agonizing Self-Reflection
+
+> 
+> *You inflict pain and doubt in equal measure.*
+> 
+> | **Magic, Ranged, Strike, Void** |               **Main action** | 
+> |---------------------------------|------------------------------:|
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../condition/slowed.md) (save ends)
+
+###### Unquiet Ground
+
+> 
+> *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
+> 
+> | **Area, Earth, Magic, Ranged** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+> 
+> **Effect:** The ground beneath the area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
+
+###### Viscous Fire
+
+> 
+> *A jet of heavy fire erupts where you strike.*
+> 
+> | **Fire, Magic, Ranged, Strike** |               **Main action** | 
+> |---------------------------------|------------------------------:|
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 + R fire damage; push 2
+> - **12-16:** 5 + R fire damage; push 3
+> - **17+:** 7 + R fire damage; push 4
+
+##### Heroic Abilities
+
+You channel a variety of heroic abilities, all of them fueled by your essence.
+
+###### 3-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
+
+###### Behold the Mystery (3 Essence)
+
+> 
+> *You open a rift into the void to harry your foes.*
+> 
+> | **Area, Magic, Ranged, Void** |               **Main action** |
+> |-------------------------------|------------------------------:|
+> | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 psychic damage
+> - **12-16:** 4 psychic damage
+> - **17+:** 6 psychic damage
+> 
+> **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+
+###### The Flesh, a Crucible (3 Essence)
+
+> 
+> *Fire engulfs your target and continues to churn.*
+> 
+> | **Fire, Magic, Ranged, Strike** |               **Main action** |
+> |---------------------------------|------------------------------:|
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 5 + R fire damage
+> - **12-16:** 8 + R fire damage
+> - **17+:** 11 + R fire damage
+> 
+> **Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
+
+###### Invigorating Growth (3 Essence)
+
+> 
+> *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
+> 
+> | **Green, Magic, Ranged, Strike** |      **Main action** |
+> |----------------------------------|---------------------:|
+> | **📏 Ranged 10**                 |  **🎯 One creature** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 4 + R poison damage
+> - **12-16:** 7 + R poison damage
+> - **17+:** 11 + R poison damage
+> 
+> **Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+
+###### Ripples in the Earth (3 Essence)
+
+> 
+> *Like a stone was dropped into a pond, waves in the earth radiate from you.*
+> 
+> | **Area, Earth, Magic** |               **Main action** |
+> |------------------------|------------------------------:|
+> | **📏 2 burst**         | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 8 damage; M < STRONG[, prone](../condition/prone.md)
+> 
+> **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
+
+###### 5-Essence Ability
+
+Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../feature/ability/elementalist/level-1/conflagration.md).)
+
+###### Conflagration (5 Essence)
+
+> 
+> *A storm of fire descends upon your enemies.*
+> 
+> | **Area, Fire, Magic, Ranged** |               **Main action** |
+> |-------------------------------|------------------------------:|
+> | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 4 fire damage
+> - **12-16:** 6 fire damage
+> - **17+:** 10 fire damage
+> 
+> **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+
+###### Instantaneous Excavation (5 Essence)
+
+> 
+> *The surface of the world around you opens up to swallow foes.*
+> 
+> | **Earth, Magic, Ranged** |    **Maneuver** |
+> |--------------------------|----------------:|
+> | **📏 Ranged 10**         |  **🎯 Special** |
+> 
+> **Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** The target can [shift](../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
+> - **12-16:** The target falls into the hole.
+> - **17+:** The target falls into the hole and can't reduce the height of the fall.
+> 
+> **Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
+
+###### No More Than a Breeze (5 Essence)
+
+> 
+> *The material substance of a creature shreds away at your command.*
+> 
+> | **Magic, Ranged, Void** |            **Maneuver** |
+> |-------------------------|------------------------:|
+> | **📏 Ranged 10**        | **🎯 Self or one ally** |
+> 
+> **Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../movement/difficult-terrain.md), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+> 
+> **Persistent 1:** The effect lasts until the start of your next turn.
+
+###### Test of Rain (5 Essence)
+
+> 
+> *You call down a rain that burns your enemies and restores your allies.*
+> 
+> | **Area, Green, Magic, Ranged** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 4 acid damage
+> - **12-16:** 6 acid damage
+> - **17+:** 10 acid damage
+> 
+> **Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
 
 ### Elementalist Ward
 
@@ -322,6 +567,51 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 > **Effect:** The target can spend a Recovery.
 > 
 > **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
+
+###### Explosive Assistance
+
+> 
+> *You add a little magic to an ally's aggression at just the right time.*
+> 
+> | **Fire, Magic, Ranged**  |           **Triggered** |
+> |--------------------------|------------------------:|
+> | **📏 Ranged 10**         | **🎯 Self or one ally** |
+> 
+> **Trigger:** The target [force move](../movement/forced-movement.md)s a creature or object. 
+> 
+> **Effect:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+> 
+> **Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
+
+###### Skin Like Castle Walls
+
+> 
+> *You cover yourself or an ally in protective stone.*
+> 
+> | **Earth, Magic, Ranged**  |           **Triggered** |
+> |---------------------------|------------------------:|
+> | **📏 Ranged 10**          | **🎯 Self or one ally** |
+> 
+> **Trigger:** The target takes damage.
+> 
+> **Effect:** The target takes half the damage.
+> 
+> **Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
+
+###### Subtle Relocation
+
+> 
+> *You call on the void to swallow and spit out an ally.*
+> 
+> | **Magic, Ranged, Void**  |           **Triggered** |
+> |--------------------------|------------------------:|
+> | **📏 Ranged 10**         | **🎯 Self or one ally** |
+> 
+> **Trigger:** The target starts their turn, moves, or is [force moved](../movement/forced-movement.md). 
+> 
+> **Effect:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../movement/teleport.md) them at any point during the move.
+> 
+> **Spend 1 Essence:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
 
 ### Void: Acolyte of the Mystery
 
@@ -790,6 +1080,55 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 > 
 > **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
 
+##### Subvert the Green Within (5 Essence)
+
+> 
+> *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
+> 
+> | **Green, Magic, Ranged, Strike, Void** |     **Main action** |
+> |----------------------------------------|--------------------:|
+> | **📏 Ranged 10**                       | **🎯 One creature** |
+> 
+> **Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 5 + R poison damage
+> - **12-16:** 9 + R poison damage
+> - **17+:** 12 + R poison damage
+
+##### Translated Through Flame (5 Essence)
+
+> 
+> *Your ally disappears, then reappears in a burst of fire.*
+> 
+> | **Fire, Magic, Ranged, Void** |         **Main action** |
+> |-------------------------------|------------------------:|
+> | **📏 Ranged 10**              | **🎯 Self or one ally** |
+> 
+> **Effect:** The target is [teleport](../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 3 fire damage
+> - **12-16:** 5 fire damage
+> - **17+:** 8 fire damage
+
+##### Volcano's Embrace (5 Essence)
+
+> 
+> *Wrap them up in fire and melting stone.*
+> 
+> | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
+> |----------------------------------------|--------------------:|
+> | **📏 Ranged 10**                       | **🎯 One creature** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
+
 ### Perk
 
 You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../chapter/perks.md).
@@ -924,6 +1263,55 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 > - **17+:** Three creatures
 > 
 > **Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+
+##### Maw of Earth (7 Essence)
+
+> 
+> *You open up the ground, spewing out shrapnel of stone and debris.*
+> 
+> | **Area, Earth, Magic, Ranged** |                **Main action** |
+> |--------------------------------|-------------------------------:|
+> | **📏 3 cube within 10**        |  **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 5 damage
+> - **12-16:** 9 damage
+> - **17+:** 12 damage
+> 
+> **Effect:** The ground in or directly beneath the area drops 3 squares.
+
+##### Swarm of Spirits (7 Essence)
+
+> 
+> *Guardian animal spirits surround you to harry your foes and bolster your allies.*
+> 
+> | **Area, Green, Magic** |               **Main action** |
+> |------------------------|------------------------------:|
+> | **📏 3 aura**          | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 3 damage
+> - **12-16:** 6 damage
+> - **17+:** 9 damage
+> 
+> **Effect:** Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
+> 
+> **Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
+
+##### Wall of Fire (7 Essence)
+
+> 
+> *A blazing, beautifully organized inferno erupts at your command.*
+> 
+> | **Area, Fire, Magic, Ranged** |   **Maneuver** |
+> |-------------------------------|---------------:|
+> | **📏 10 wall within 10**      | **🎯 Special** |
+> 
+> **Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+> 
+> **Persistent 1:** The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.
 
 ### A Conversation With Fire
 
@@ -1132,6 +1520,59 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 > 
 > **Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
 
+##### Storm of Sands (9 Essence)
+
+> 
+> *Dirt and debris swirl into a dark, pulsing hurricane.*
+> 
+> | **Area, Earth, Magic, Ranged** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+> 
+> **Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
+> 
+> **Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
+
+##### Subverted Perception of Space (9 Essence)
+
+> 
+> *You rip an enemy's world in twain.*
+> 
+> | **Magic, Ranged, Strike, Void** |               **Main action** |
+> |---------------------------------|------------------------------:|
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 9 + R corruption damage
+> - **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
+> - **17+:** 15 + R corruption damage; the target has line of effect only to adjacent creatures and objects until the start of your next turn
+
+##### Web of All That's Come Before (9 Essence)
+
+> 
+> *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
+> 
+> | **Area, Green, Magic, Ranged** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 2 corruption damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
+> - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
+> - **17+:** 5 corruption damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
+> 
+> **Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../condition/restrained.md) (save ends).
+> 
+> **Persistent 1:** The area remains until the start of your next turn.
+
 ### Hide of Tenfold Shields
 
 Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](../complication/animal-form.md).
@@ -1242,6 +1683,55 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 > **Effect:** The target has a +3 bonus to speed, they can [fly](../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
 > 
 > **Persistent 1:** The effect lasts until the start of your next turn.
+
+##### Magma Titan (9 Essence)
+
+> 
+> *Their body swells with lava, mud, and might, towering over their enemies.*
+> 
+> | **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
+> |---------------------------------------|------------------------:|
+> | **📏 Ranged 10**                      | **🎯 Self or one ally** |
+> 
+> **Effect:** Until the start of your next turn, the target has the following benefits:
+> 
+> - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
+> - They have fire immunity 10.
+> - Their strikes deal extra fire damage equal to twice your Reason score.
+> - When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +2 bonus.
+> - They can use their highest characteristic instead of Might for Might power rolls.
+> 
+> **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.
+
+##### Meteor (9 Essence)
+
+> 
+> *You [teleport](../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
+> 
+> | **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
+> |--------------------------------------|------------------------------:|
+> | **📏 Ranged 10**                     | **🎯 One creature or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** You [teleport](../movement/teleport.md) the target up to 4 squares.
+> - **12-16:** You [teleport](../movement/teleport.md) the target up to 6 squares.
+> - **17+:** You [teleport](../movement/teleport.md) the target up to 8 squares.
+> 
+> **Effect:** If the target is [teleport](../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../movement/difficult-terrain.md).
+
+##### The Wode Remembers and Returns (9 Essence)
+
+> 
+> *You create a terrarium that spans from canopy above to underbrush below.*
+> 
+> | **Area, Earth, Green, Magic, Void** | **Main action** |
+> |-------------------------------------|----------------:|
+> | **📏 4 burst**                      |  **🎯 Special** |
+> 
+> **Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has cover.
+> 
+> **Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.
 
 ### Perk
 
@@ -1357,6 +1847,51 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > 
 > Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
+##### Muse of Fire (11 Essence)
+
+> 
+> *The fire burns hot enough to sear the face of any god watching.*
+> 
+> | **Area, Fire, Magic, Ranged** |               **Main action** |
+> |-------------------------------|------------------------------:|
+> | **📏 5 cube within 10**       | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)
+> - **12-16:** 10 fire damage; the Director loses 3 Malice
+> - **17+:** 15 fire damage; the Director loses 4 Malice
+> 
+> **Effect:** The Director's Malice can become negative as a result of this ability.
+
+##### Return to Oblivion (11 Essence)
+
+> 
+> *You create a tear in reality that could consume everything.*
+> 
+> | **Area, Magic, Ranged, Void** | **Main action** |
+> |-------------------------------|----------------:|
+> | **📏 Ranged 10**              |  **🎯 Special** |
+> 
+> **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+
+##### World Torn Asunder (11 Essence)
+
+> 
+> *You stomp your foot and quake the whole world over.*
+> 
+> | **Area, Earth, Magic** |               **Main action** |
+> |------------------------|------------------------------:|
+> | **📏 5 burst**         | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** M < WEAK[, prone](../condition/prone.md)
+> - **12-16:** M < AVERAGE[, prone](../condition/prone.md)
+> - **17+:** M < STRONG[, prone](../condition/prone.md)
+> 
+> **Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and size 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+
 ### 8th-Level Specialization Feature
 
 Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
@@ -1392,6 +1927,22 @@ You gain one perk of your choice.
 
 You have the following ability.
 
+###### Summon Source of Earth
+
+> 
+> *The ground rumbles as an elemental bursts forth, ready to serve.*
+> 
+> | **Earth, Magic, Ranged** | **Main action** |
+> |--------------------------|----------------:|
+> | **📏 Ranged 10**         |  **🎯 Special** |
+> 
+> **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+> 
+> The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
+> 
+> **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
+>
+
 ###### Source of Earth Statblock
 
 >
@@ -1426,22 +1977,6 @@ You have the following ability.
 >> - **≤11:** 5 damage; push 3
 >> - **12-16:** 9 damage; push 4
 >> - **17+:** 12 damage; push 5
-
-###### Summon Source of Earth
-
-> 
-> *The ground rumbles as an elemental bursts forth, ready to serve.*
-> 
-> | **Earth, Magic, Ranged** | **Main action** |
-> |--------------------------|----------------:|
-> | **📏 Ranged 10**         |  **🎯 Special** |
-> 
-> **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
-> 
-> The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
-> 
-> **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
->
 
 ### The Flame Primordial
 
@@ -1547,6 +2082,47 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 > - **17+:** 13 damage
 > 
 > **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+
+##### The Green Defends Its Servants (11 Essence)
+
+> 
+> *A luminous green shield shows its true beauty the more it cracks.*
+> 
+> | **Green, Magic, Ranged** |            **Maneuver** |
+> |--------------------------|------------------------:|
+> | **📏 Ranged 10**         | **🎯 Self or one ally** |
+> 
+> **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the Defend main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+> 
+> **Persistent 2:** The effect lasts until the start of your next turn.
+
+##### Prism (11 Essence)
+
+> 
+> *You split your essence, allowing you to cast multiple effects at once.*
+> 
+> | **Magic, Void** | **Main action** |
+> |-----------------|----------------:|
+> | **📏 Self**     |     **🎯 Self** |
+> 
+> **Effect:** You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../movement/shifting.md) up to 2 squares between your use of each ability.
+
+##### Unquenchable Fire (11 Essence)
+
+> 
+> *You let fly a fiery missile braided with pure primal energy.*
+> 
+> | **Fire, Magic, Ranged, Strike** |            **Main action** |
+> |---------------------------------|---------------------------:|
+> | **📏 Ranged 10**                | **🎯 One enemy or object** |
+> 
+> **Power Roll + Reason:**
+> 
+> - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** 25 + R fire damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
+> 
+> **Effect:** This damage ignores immunity.
 
 ## 9th-Level Abilities
 

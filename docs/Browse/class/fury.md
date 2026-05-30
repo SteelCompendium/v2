@@ -318,6 +318,36 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 > 
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
+###### Lines of Force
+
+> 
+> *You redirect the energy of motion.*
+> 
+> | **Magic, Melee** |               **Triggered** |
+> |------------------|----------------------------:|
+> | **📏 Melee 1**   | **🎯 Self or one creature** |
+> 
+> **Trigger:** The target would be [force moved](../movement/forced-movement.md).
+> 
+> **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the [forced movement](../movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../movement/forced-movement.md) type. Additionally, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
+> 
+> **Spend 1 Ferocity:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Might score instead.
+
+###### Unearthly Reflexes
+
+> 
+> *You are as elusive as a hummingbird.*
+> 
+> | **-**       | **Triggered** |
+> |-------------|--------------:|
+> | **📏 Self** |    **🎯 Self** |
+> 
+> **Trigger:** You take damage.
+> 
+> **Effect:** You take half the damage from the triggering effect and can [shift](../movement/shifting.md) up to a number of squares equal to your Agility score.
+> 
+> **Spend 1 Ferocity:** If the damage has any potency effects associated with it, the potency is reduced by 1 for you.
+
 ### Beast Shape
 
 You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
@@ -352,18 +382,6 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../feature/ability/fury/level-1/to-the-death.md)!)
 
-##### Heroic Abilities
-
-You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
-
-###### 3-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
-
-###### 5-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
-
 ###### Brutal Slam
 
 > 
@@ -378,6 +396,197 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 > - **≤11:** 3 + M damage; push 1
 > - **12-16:** 6 + M damage; push 2
 > - **17+:** 9 + M damage; push 4
+
+###### Hit and Run
+
+> 
+> *Staying in constant motion helps you slip out of reach after a brutal assault.*
+> 
+> | **Melee, Strike, Weapon** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 2 + M damage
+> - **12-16:** 5 + M damage
+> - **17+:** 7 + M damage; A < STRONG, [slowed](../condition/slowed.md) (save ends)
+> 
+> **Effect:** You can [shift](../movement/shifting.md) 1 square.
+
+###### Impaled!
+
+> 
+> *You skewer your enemy like a boar upon a spit.*
+> 
+> | **Melee, Strike, Weapon** |                             **Main action** |
+> |---------------------------|--------------------------------------------:|
+> | **📏 Melee 1**            | **🎯 One creature of your size or smaller** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
+> - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
+> - **17+:** 7 + M damage; M < STRONG, [grabbed](../condition/grabbed.md)
+
+###### To the Death!
+
+> 
+> *Your reckless assault leaves you tactically vulnerable.*
+> 
+> | **Melee, Strike, Weapon** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 3 + M damage
+> - **12-16:** 6 + M damage
+> - **17+:** 9 + M damage
+> 
+> **Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+
+##### Heroic Abilities
+
+You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
+
+###### 3-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+
+###### Back! (3 Ferocity)
+
+> 
+> *You hew about you with your mighty weapon, hurling enemies backward.*
+> 
+> | **Area, Melee, Weapon** |               **Main action** |
+> |-------------------------|------------------------------:|
+> | **📏 1 burst**          | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 5 damage
+> - **12-16:** 8 damage; push 1
+> - **17+:** 11 damage; push 3
+
+###### Out of the Way! (3 Ferocity)
+
+> 
+> *Your enemies will clear your path—whether they want to or not.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 3 + M damage; slide 2
+> - **12-16:** 5 + M damage; slide 3
+> - **17+:** 8 + M damage; slide 5
+> 
+> **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
+
+###### Tide of Death (3 Ferocity)
+
+> 
+> *Teach them the folly of lining up for you.*
+> 
+> | **Melee, Weapon**      | **Main action** |
+> |------------------------|----------------:|
+> | **📏 Self; see below** |     **🎯 Self** |
+> 
+> **Effect:** You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 2 damage
+> - **12-16:** 3 damage
+> - **17+:** 5 damage
+> 
+> **Effect:** The last target you damage takes extra damage equal to your Might score for each opportunity attack you trigger during your move.
+
+###### Your Entrails Are Your Extrails! (3 Ferocity)
+
+> 
+> *Hard for them to fight when they're busy holding in their giblets.*
+> 
+> | **Melee, Strike, Weapon** |               **Main action** |
+> |---------------------------|------------------------------:|
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 3 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) (save ends)
+> - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
+> - **17+:** 8 + M damage; M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
+> 
+> **Effect:** While [bleeding](../condition/bleeding.md) this way, the target takes damage equal to your Might score at the end of each of your turns.
+
+###### 5-Ferocity Ability
+
+Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
+
+###### Blood for Blood! (5 Ferocity)
+
+> 
+> *See how well they fight after you've bled them dry.*
+> 
+> | **Melee, Strike, Weapon**   |               **Main action** |
+> |-----------------------------|------------------------------:|
+> | **📏 Melee 1**              | **🎯 One creature or object** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 4 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
+> - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
+> - **17+:** 10 + M damage; M < STRONG, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
+> 
+> **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+
+###### Make Peace With Your God! (5 Ferocity)
+
+> 
+> *Anger is your energy.*
+> 
+> | **-**       | **Free maneuver** |
+> |-------------|------------------:|
+> | **📏 Self** |       **🎯 Self** |
+> 
+> **Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+
+###### Thunder Roar (5 Ferocity)
+
+> 
+> *You unleash a howl that hurls your enemies back.*
+> 
+> | **Area, Melee, Weapon**    |               **Main action** |
+> |----------------------------|------------------------------:|
+> | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 6 damage; push 2
+> - **12-16:** 9 damage; push 4
+> - **17+:** 13 damage; push 6
+> 
+> **Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+
+###### To the Uttermost End (5 Ferocity)
+
+> 
+> *You gut your life force to ensure a foe's demise.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 7 + M damage
+> - **12-16:** 11 + M damage
+> - **17+:** 16 + M damage
+> 
+> **Spend 1+ Ferocity:** While you are winded, this ability deals an extra 1d6 damage for each ferocity spent. While you are dying, it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 Stamina after making this strike.
 
 ### Growing Ferocity
 
@@ -677,14 +886,6 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### 2nd-Level Reaver Ability
-
-Choose one of the following abilities.
-
-##### 2nd-Level Stormwight Ability
-
-Choose one of the following abilities.
-
 ###### Special Delivery (5 Ferocity)
 
 > 
@@ -695,6 +896,99 @@ Choose one of the following abilities.
 > | **📏 Melee 1**    | **🎯 One willing ally** |
 > 
 > **Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+
+###### Wrecking Ball (5 Ferocity)
+
+> 
+> *It's easier to destroy than to create. Much easier, in fact!*
+> 
+> | **Melee, Weapon**      | **Maneuver** |
+> |------------------------|-------------:|
+> | **📏 Self; see below** |  **🎯 Self** |
+> 
+> **Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../movement/difficult-terrain.md).
+> 
+> Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** Push 1
+> - **12-16:** Push 2
+> - **17+:** Push 3
+
+##### 2nd-Level Reaver Ability
+
+Choose one of the following abilities.
+
+###### Death... Death! (5 Ferocity)
+
+> 
+> *Your unbridled rage strikes terror in their hearts.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 3 + M damage; P < WEAK, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 8 + M damage; P < STRONG, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
+
+###### Phalanx-Breaker (5 Ferocity)
+
+> 
+> *Organizing your forces like feckless creatures of Law. Pitiful.*
+> 
+> | **Melee, Weapon**      | **Main action** |
+> |------------------------|----------------:|
+> | **📏 Self; see below** |     **🎯 Self** |
+> 
+> **Effect:** You [shift](../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../movement/shifting.md).
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 2 damage; A < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** 4 damage; A < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** 6 damage; A < STRONG, [dazed](../condition/dazed.md) (save ends)
+
+##### 2nd-Level Stormwight Ability
+
+Choose one of the following abilities.
+
+###### Apex Predator (5 Ferocity)
+
+> 
+> *I will hunt you down.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 4 damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 6 damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 10 damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
+> 
+> **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+
+###### Visceral Roar (5 Ferocity)
+
+> 
+> *The sound of the storm within you staggers your opponents.*
+> 
+> | **Area, Magic** |               **Main action** |
+> |-----------------|------------------------------:|
+> | **📏 2 burst**  | **🎯 Each enemy in the area** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../condition/dazed.md) (save ends)
+> - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+> - **17+:** 7 damage; push 3; M < STRONG, [dazed](../condition/dazed.md) (save ends)
+> 
+> **Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)).
 
 ### 2nd-Level Aspect Feature
 
@@ -845,6 +1139,39 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 > 
 > **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../condition/frightened.md) until the end of their turn.
 
+##### Face the Storm! (7 Ferocity)
+
+> 
+> *Shocked in the face of your naked brutality, your enemy's instincts take over.*
+> 
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+> 
+> **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../condition/taunted.md) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+
+##### Steelbreaker (7 Ferocity)
+
+> 
+> *See how useless their weapons are!*
+> 
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+> 
+> **Effect:** You gain 20 temporary Stamina.
+
+##### You Are Already Dead (7 Ferocity)
+
+> 
+> *Slash. Walk away.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+
 ### Immovable Object
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
@@ -968,6 +1295,59 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 > 
 > **Effect:** While [slowed](../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../movement/forced-movement.md).
 
+##### My Turn! (9 Ferocity)
+
+> 
+> *You quickly strike back at a foe.*
+> 
+> | **Melee, Strike, Weapon** |             **Free triggered** |
+> |---------------------------|-------------------------------:|
+> | **📏 Melee 1**            | **🎯 The triggering creature** |
+> 
+> **Trigger:** A creature causes you to be winded or dying, or damages you while you are winded or dying.
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 6 + M damage
+> - **12-16:** 9 + M damage
+> - **17+:** 13 + M damage
+> 
+> **Effect:** You can spend a Recovery.
+
+##### Rebounding Storm (9 Ferocity)
+
+> 
+> *You knock around enemies like playthings.*
+> 
+> | **Melee, Strike, Weapon** |                 **Main action** |
+> |---------------------------|--------------------------------:|
+> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 9 damage; push 3
+> - **12-16:** 14 damage; push 5
+> - **17+:** 19 damage; push 7
+> 
+> **Effect:** When a target would end this [forced movement](../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
+
+##### To Stone! (9 Ferocity)
+
+> 
+> *You channel the Primordial Chaos into blows that petrify your foe... literally.*
+> 
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Melee 1**                   | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 9 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
+> - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
+> - **17+:** 18 + M damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
+> 
+> **Effect:** While the target is [slowed](../condition/slowed.md) this way, any other effect that would make the target [slowed](../condition/slowed.md) instead makes them [restrained](../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+
 ### Bounder
 
 Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
@@ -1058,14 +1438,6 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### 6th-Level Reaver Abilities
-
-Choose one of the following abilities.
-
-##### 6th-Level Stormwight Abilities
-
-Choose one of the following abilities.
-
 ###### Avalanche Impact (9 Ferocity)
 
 > 
@@ -1082,6 +1454,93 @@ Choose one of the following abilities.
 > - **≤11:** 4 damage; push 1
 > - **12-16:** 7 damage; push 2
 > - **17+:** 11 damage; push 3
+
+###### Force of Storms (9 Ferocity)
+
+> 
+> *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 7 + M damage; push 3
+> - **12-16:** 11 + M damage; push 5
+> - **17+:** 16 + M damage; push 7
+> 
+> **Effect:** When the target ends this [forced movement](../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
+
+##### 6th-Level Reaver Abilities
+
+Choose one of the following abilities.
+
+###### Death Strike (9 Ferocity)
+
+> 
+> *Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+> 
+> | **Melee, Strike, Weapon** | **Free triggered** |
+> |---------------------------|-------------------:|
+> | **📏 Melee 1**            |        **🎯 Self** |
+> 
+> **Trigger:** You reduce a creature to 0 Stamina with a strike.
+> 
+> **Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
+
+###### Seek and Destroy (9 Ferocity)
+
+> 
+> *You break through the enemy lines to make an example.*
+> 
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+> 
+> **Effect:** You [shift](../movement/shifting.md) up to your speed.
+> 
+> **Power Roll + Might:**
+> 
+> - **≤11:** 4 + M damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
+> - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
+> - **17+:** 10 + M damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
+> 
+> **Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
+
+##### 6th-Level Stormwight Abilities
+
+Choose one of the following abilities.
+
+###### Pounce (9 Ferocity)
+
+>
+> *You strike at the target like the ultimate predator you are.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 8 damage; M < WEAK, [grabbed](../condition/grabbed.md)
+> - **12-16:** 13 damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
+> - **17+:** 17 damage; M < STRONG, [grabbed](../condition/grabbed.md)
+>
+> **Effect:** You can [shift](../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../condition/grabbed.md) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
+
+###### Riders on the Storm (9 Ferocity)
+
+>
+> *You focus your connection to the Primordial Chaos into a seething storm.*
+>
+> | **Area, Magic** |                     **Maneuver** |
+> |-----------------|---------------------------------:|
+> | **📏 3 aura**   | **🎯 Each creature in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../movement/fly.md) until the start of their next turn or until the effect ends.
+>
+> **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../feature/trait/fury/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
 ### Marauder of the Primordial Chaos
 
@@ -1232,6 +1691,51 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 >
 > **Effect:** You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
 
+##### Overkill (11 Ferocity)
+
+>
+> *You strike so no damage is wasted.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 6 + M damage
+> - **12-16:** 10 + M damage
+> - **17+:** 14 + M damage
+>
+> **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+
+##### Primordial Rage (11 Ferocity)
+
+>
+> *Your ferocity manifests into [primordial power](../feature/trait/fury/level-10/primordial-power.md).*
+>
+> | **Magic**   | **Maneuver** |
+> |-------------|-------------:|
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.
+
+##### Relentless Death (11 Ferocity)
+
+>
+> *You won't escape your fate.*
+>
+> | **Magic, Melee, Strike, Weapon** | **Main action** |
+> |----------------------------------|----------------:|
+> | **📏 Self; see below**           |     **🎯 Self** |
+>
+> **Effect:** You [shift](../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** Any target whose Stamina is equal to or less than 8 dies.
+> - **12-16:** Any target whose Stamina is equal to or less than 11 dies.
+> - **17+:** Any target whose Stamina is equal to or less than 17 dies.
+
 ### 8th-Level Aspect Feature
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
@@ -1324,14 +1828,6 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### 9th-Level Reaver Abilities
-
-Choose one of the following abilities.
-
-##### 9th-Level Stormwight Abilities
-
-Choose one of the following abilities.
-
 ###### Death Comes for You All! (11 Ferocity)
 
 >
@@ -1348,6 +1844,97 @@ Choose one of the following abilities.
 > - **17+:** 15 damage; push 7
 >
 > **Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
+
+###### Primordial Vortex (11 Ferocity)
+
+>
+> *You channel the power of the Primordial Chaos to pull foes to you.*
+>
+> | **Area, Magic, Melee, Weapon** |               **Main action** |
+> |--------------------------------|------------------------------:|
+> | **📏 3 burst**                 | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 damage; vertical pull 3
+> - **12-16:** 5 damage; vertical pull 5
+> - **17+:** 8 damage; vertical pull 7
+>
+> **Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
+
+##### 9th-Level Reaver Abilities
+
+Choose one of the following abilities.
+
+###### Primordial Bane (11 Ferocity)
+
+>
+> *You attune the target to be weaker to a specific element.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> |----------------------------------|--------------------:|
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 11 + M damage
+> - **12-16:** 16 + M damage
+> - **17+:** 21 + M damage
+>
+> **Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).
+
+###### Shower of Blood (11 Ferocity)
+
+>
+> *You shock your foes with the brutality of your strike, resetting the balance of combat.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> |---------------------------|--------------------:|
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 12 + M damage
+> - **12-16:** 18 + M damage
+> - **17+:** 24 + M damage
+>
+> **Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.
+
+##### 9th-Level Stormwight Abilities
+
+Choose one of the following abilities.
+
+###### Death Rattle (11 Ferocity)
+
+>
+> *You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*
+>
+> | **Area, Magic** |               **Main action** |
+> |-----------------|------------------------------:|
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 Stamina
+> - **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature
+> - **17+:** 10 psychic damage; each target who is not a leader or solo creature is winded; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature
+
+###### Deluge (11 Ferocity)
+
+>
+> *You summon your [primordial storm](../feature/trait/fury/primordial-storm.md).*
+>
+> | **Area, Magic, Ranged** |               **Main action** |
+> |-------------------------|------------------------------:|
+> | **📏 5 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 7 damage
+> - **12-16:** 10 damage
+> - **17+:** 15 damage
+>
+> **Effect:** This ability deals your primordial damage type and ignores damage immunity.
 
 ### Harbinger of the Primordial Chaos
 
