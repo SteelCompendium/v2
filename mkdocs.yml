@@ -81,8 +81,12 @@ extra_css:
   - stylesheets/mobile.css
   - stylesheets/print.css
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  # MathJax and Mermaid were removed: no generated page, source doc, static
+  # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
+  # so these two CDN libraries were downloaded and parsed on every page for
+  # nothing. Re-add the relevant one here if math or mermaid content is ever
+  # introduced (the pymdownx.arithmatex / superfences-mermaid extensions that
+  # produce the markup are still configured in markdown_extensions above).
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
   - javascripts/preferences.js

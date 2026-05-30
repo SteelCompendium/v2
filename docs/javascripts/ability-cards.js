@@ -180,7 +180,13 @@
   }
 
   function wrapWideTables() {
+    // Split DOM writes (wrapping) from reads (checkScrollable's scrollWidth/
+    // clientWidth access) into two phases. Interleaving them per-table forced
+    // a synchronous layout on every iteration -- on the Classes chapter that
+    // is 555 tables, i.e. 555 layout passes. Batching the reads after all the
+    // writes lets the browser settle with a single layout. Behavior unchanged.
     var tables = document.querySelectorAll(".md-typeset table:not([class])");
+    var wrappers = [];
     for (var i = 0; i < tables.length; i++) {
       var table = tables[i];
       if (table.parentElement &&
@@ -192,8 +198,11 @@
       wrapper.className = "table-scroll-wrapper";
       table.parentNode.insertBefore(wrapper, table);
       wrapper.appendChild(table);
+      wrappers.push(wrapper);
+    }
 
-      checkScrollable(wrapper);
+    for (var j = 0; j < wrappers.length; j++) {
+      checkScrollable(wrappers[j]);
     }
   }
 

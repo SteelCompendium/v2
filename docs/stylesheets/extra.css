@@ -393,3 +393,27 @@ th:empty {
 .md-typeset [data-preview], .md-typeset abbr {
     border-bottom: none;
 }
+
+/* ──────────────────────────────────────────────────────────────
+   Performance: defer layout/paint of off-screen heavy blocks.
+
+   Full-chapter "Read" pages render an entire chapter as one
+   document. The Classes chapter is by far the largest in the book:
+   docs/Read/chapter/classes.md is ~700 KB of markdown (3x the next
+   chapter) and renders to ~2.3 MB of HTML -- ~35,000 DOM nodes
+   including 555 tables. The browser has to lay out and paint that
+   entire DOM up front, which is the dominant cost of the slow load.
+
+   content-visibility:auto lets the browser skip layout/paint of
+   off-screen tables and ability cards until they are scrolled near.
+   contain-intrinsic-size reserves an estimated height so the
+   scrollbar stays roughly stable; `auto` remembers each block's
+   real size once it has been rendered. Scoped to screen -- print
+   needs the whole document laid out for pagination (see print.css). */
+@media screen {
+  .md-content article table,
+  .md-content article blockquote {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 200px;
+  }
+}
