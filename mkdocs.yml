@@ -30,8 +30,12 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.instant
-    # PERF TEST (perf/isolate-link-preview): instant.preview disabled to isolate
-    # the ~31s render cost on link-heavy pages (classes page = 8,494 links).
+    # navigation.instant.preview disabled 2026-05-31: on link-heavy pages it ran
+    # a render-time pass over every anchor (classes page = 8,494 links) building a
+    # URL + resolving each and pre-wiring tooltip extraction, costing ~31s of
+    # main-thread time. Profiled to RxJS (innerFrom.ts) self-time in resolve/URL/
+    # getElements/extract. Paired with material.extensions.preview below. Revisit
+    # if previews are wanted on small pages only (scope targets narrowly).
     # - navigation.instant.preview
 # Extensions
 markdown_extensions:
@@ -59,9 +63,10 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 1-8
-  # PERF TEST (perf/isolate-link-preview): hover/link previews disabled. This is
-  # the prime suspect for the ~31s render (URL+resolve over every anchor,
-  # getElements+extract to pre-wire each tooltip). Re-enable to revert.
+  # Hover/link previews disabled 2026-05-31 — root cause of the ~31s render on
+  # link-heavy pages (see navigation.instant.preview note above). Re-enable only
+  # with a tightly scoped target include so link-dense pages (class/chapter
+  # aggregates with thousands of anchors) are excluded.
   # - material.extensions.preview:
   #     configurations:
   #       - targets:

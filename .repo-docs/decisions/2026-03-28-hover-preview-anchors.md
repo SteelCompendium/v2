@@ -1,6 +1,6 @@
 # Hover Preview with Anchor Fragments
 
-**Status:** accepted
+**Status:** superseded (by [2026-05-31 Disable link previews for performance](2026-05-31-disable-link-previews-perf.md) — previews caused a ~31s render on link-heavy pages and are now disabled)
 **Date:** 2026-03-28
 
 ## Context
