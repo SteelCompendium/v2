@@ -75,7 +75,7 @@ v2/
 ## Current Status
 
 - **Health:** active development
-- **Last significant change:** SCC permalink system (2026-05-23) -- stable URLs via redirect stubs + address-bar rewriting; instant-nav flash eliminated via `scc-manifest.js` + `pushState` monkey-patch
+- **Last significant change:** Retired the SCC address-bar rewrite (2026-05-31) -- it broke mkdocs-material's search/sitemap fetch on direct page loads; SCC links are now stable redirect stubs + self-canonical + a "Copy permalink" button (supersedes the 2026-05-23 permalink system)
 - **Known blockers:** None
 - **Known issues:** None
 

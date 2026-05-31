@@ -20,9 +20,13 @@
   {% elif config.site_author %}
     <meta name="author" content="{{ config.site_author }}">
   {% endif %}
-  {% if page and page.meta and page.meta.scc %}
-    <link rel="canonical" href="{{ config.site_url }}scc/{{ page.meta.scc }}/">
-  {% elif page.canonical_url %}
+  {#-
+    Self-canonical on the friendly page. The SCC URL (/scc/<code>/) is a stable,
+    shareable redirect entry point, not real content — pointing canonical at it
+    would target a noindex redirect stub. Search engines index the friendly page;
+    the SCC permalink is surfaced to humans via the copy button (scc-permalink-copy.js).
+  -#}
+  {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url }}">
   {% endif %}
   {% if page.previous_page %}
@@ -47,29 +51,12 @@
 {% block extrahead %}
 {{ super() }}
 {% if page and page.meta and page.meta.scc %}
-<meta name="scc-permalink" content="{{ config.site_url }}scc/{{ page.meta.scc }}/">
 {#-
-  Inline early rewrite. Runs synchronously during HTML parse, before the user
-  ever sees the friendly Browse URL in the address bar. Also injects a <base>
-  pointing at the friendly URL so relative links resolve correctly despite the
-  address bar showing the SCC permalink (different directory depth). The
-  deferred listeners in scc-permalink.js handle instant-nav + hash changes.
+  Expose the page's SCC permalink. scc-permalink-copy.js reads this to render a
+  "copy permalink" button. The address bar is NOT rewritten — the friendly URL
+  is the real, canonical, indexable location; the SCC URL is a stable redirect.
 -#}
-<script>
-(function(){
-  try {
-    var u = new URL("{{ config.site_url }}scc/{{ page.meta.scc }}/", location.href);
-    if (location.pathname !== u.pathname) {
-      window.__SCC_FRIENDLY_PATH__ = location.pathname;
-      var base = document.createElement("base");
-      base.setAttribute("data-scc", "");
-      base.href = location.pathname;
-      document.head.prepend(base);
-      history.replaceState(history.state, "", u.pathname + location.search + location.hash);
-    }
-  } catch(e) {}
-})();
-</script>
+<meta name="scc-permalink" content="{{ config.site_url }}scc/{{ page.meta.scc }}/">
 {% endif %}
 <script>
     (function(){

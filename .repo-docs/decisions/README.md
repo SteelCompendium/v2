@@ -84,4 +84,5 @@ Leave blank if recent. Fill in once there's real experience to report.
 | 2026-03-01 | [Switch data-md-linked to v3 branch](2026-03-01-switch-to-v3-branch.md) | accepted |
 | 2026-03-15 | [Grid card index layouts](2026-03-15-grid-card-index-layouts.md) | accepted |
 | 2026-03-28 | [Hover preview with anchor fragments](2026-03-28-hover-preview-anchors.md) | accepted |
-| 2026-05-23 | [SCC-based permalink system](2026-05-23-scc-permalink-system.md) | accepted |
+| 2026-05-23 | [SCC-based permalink system](2026-05-23-scc-permalink-system.md) | superseded |
+| 2026-05-31 | [Retire the SCC address-bar rewrite](2026-05-31-retire-scc-address-bar-rewrite.md) | accepted |

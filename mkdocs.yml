@@ -94,5 +94,4 @@ extra_javascript:
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
-  - javascripts/scc-manifest.js
-  - javascripts/scc-permalink.js
+  - javascripts/scc-permalink-copy.js

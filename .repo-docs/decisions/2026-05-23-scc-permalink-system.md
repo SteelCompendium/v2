@@ -1,10 +1,18 @@
 ---
 title: SCC-based permalink system
-status: accepted
+status: superseded
+superseded_by: 2026-05-31-retire-scc-address-bar-rewrite
 date: 2026-05-23
 ---
 
 # SCC-based Permalink System
+
+> **Superseded 2026-05-31** by [Retire the SCC address-bar rewrite](2026-05-31-retire-scc-address-bar-rewrite.md).
+> Layers 3 (address-bar rewrite) and 4 (manifest) were removed: they made
+> `location.href` disagree with the built path and broke mkdocs-material's
+> runtime search/sitemap fetch on direct page loads. Layers 1 (redirect stubs)
+> and 2 (canonical, now self-canonical) remain. The historical record below is
+> kept for context.
 
 ## Context
 

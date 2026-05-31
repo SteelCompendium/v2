@@ -41,14 +41,17 @@ Safe to edit: `docs/javascripts/`, `docs/stylesheets/`, `overrides/`, `scripts/`
 
 ## SCC Permalink System
 
-SCC (Steel Compendium Classification) codes are permanent identifiers for every piece of content. The permalink system ensures URLs survive site restructuring.
+SCC (Steel Compendium Classification) codes are permanent identifiers for every piece of content. The permalink system gives every page a stable, shareable URL that survives Browse restructuring.
+
+> **History:** an earlier version (ADR [2026-05-23](decisions/2026-05-23-scc-permalink-system.md)) also rewrote the **address bar** to the SCC URL on every page via `history.replaceState` + a friendly→SCC manifest. That made `location.href` disagree with the built path and broke mkdocs-material's runtime search/sitemap fetch on direct page loads. The rewrite was retired in ADR [2026-05-31](decisions/2026-05-31-retire-scc-address-bar-rewrite.md); the friendly URL now stays in the bar.
 
 ### Goals
 
-1. Stable `/v2/scc/{scc-code}/` URLs that work even if Browse hierarchy changes
-2. When users copy the URL from the address bar, they get the SCC permalink, not the friendly Browse path
+1. Stable `/v2/scc/{scc-code}/` URLs that resolve even if the Browse hierarchy changes
+2. The friendly Browse page is the real, canonical, indexable location
+3. A reader can grab the stable SCC link on demand
 
-### Architecture (4 layers)
+### Architecture (3 layers)
 
 **Layer 1: Redirect stubs** (Go, `steel-etl/internal/site/permalinks.go`)
 
@@ -59,32 +62,14 @@ For every page with an `scc` frontmatter field, generates `docs/scc/{scc-code}/i
 - `<link rel="canonical" href="...">` pointing to the friendly page
 - All redirect URLs are relative, so stubs work under any deploy prefix
 
-**Layer 2: Canonical tags** (Jinja2, `overrides/main.html`)
+**Layer 2: Self-canonical** (Jinja2, `overrides/main.html`)
 
-Overrides mkdocs-material's `{% block site_meta %}` to emit `<link rel="canonical">` pointing to the SCC permalink URL when the page has `scc` in its frontmatter. Pages without SCC fall back to `page.canonical_url`.
+Overrides mkdocs-material's `{% block site_meta %}` to emit `<link rel="canonical">` pointing to the page's own friendly URL (`page.canonical_url`). The SCC URL is *not* used as canonical — it is a `noindex` redirect stub, so pointing canonical at it would be circular. Search engines index the friendly page.
 
-**Layer 3: Address-bar rewrite** (JavaScript, two parts)
+**Layer 3: Copy affordance** (JavaScript, `docs/javascripts/scc-permalink-copy.js`)
 
-*Inline early rewrite* (`overrides/main.html`, `{% block extrahead %}`):
-- Emits `<meta name="scc-permalink">` with the SCC URL
-- Inline `<script>` in `<head>` calls `history.replaceState` synchronously during HTML parse
-- Runs before body renders, so the user never sees the friendly URL on initial load
-
-*Deferred handlers* (`docs/javascripts/scc-permalink.js`):
-- Monkey-patches `history.pushState` to intercept mkdocs-material instant-nav clicks and immediately `replaceState` to the SCC URL in the same synchronous task
-- `document$.subscribe` fallback for instant-nav pages not in the manifest
-- `hashchange` listener re-applies the SCC permalink after anchor clicks
-
-**Layer 4: SCC manifest** (`docs/javascripts/scc-manifest.js`)
-
-Generated at build time by steel-etl. Maps friendly URL paths to SCC permalink paths:
-```javascript
-window.__SCC_PERMALINK_MAP__ = {
-  "Browse/class/fury/": "scc/mcdm.heroes.v1/class/fury/",
-  ...
-};
-```
-Used by the `pushState` monkey-patch for instant-nav URL rewriting (lookup is synchronous, no network request).
+- `overrides/main.html` (`{% block extrahead %}`) emits `<meta name="scc-permalink">` with the SCC URL on pages that have an `scc` field.
+- `scc-permalink-copy.js` reads that meta and renders a "🔗 Copy permalink" button next to the page `<h1>`. Clicking it copies the stable SCC URL to the clipboard. Uses `document$.subscribe` so it works under instant navigation. The address bar is **not** modified.
 
 ### URL flow
 
@@ -92,27 +77,20 @@ Used by the `pushState` monkey-patch for instant-nav URL rewriting (lookup is sy
 Initial page load:
   browser requests /v2/Browse/class/fury/
   -> server returns friendly page HTML
-  -> inline <head> script rewrites URL to /v2/scc/mcdm.heroes.v1/class/fury/
-  -> user sees SCC URL in address bar
+  -> address bar stays /v2/Browse/class/fury/ (canonical, indexable)
+  -> "Copy permalink" button copies /v2/scc/mcdm.heroes.v1/class/fury/
 
-SCC permalink visit:
+SCC permalink visit (shared link):
   browser requests /v2/scc/mcdm.heroes.v1/class/fury/
   -> server returns redirect stub HTML
   -> meta-refresh + JS redirects to /v2/Browse/class/fury/
-  -> inline <head> script rewrites URL back to /v2/scc/mcdm.heroes.v1/class/fury/
-
-Instant navigation (clicking links within site):
-  user clicks link to another page
-  -> material calls pushState with friendly URL
-  -> monkey-patched pushState immediately replaceState to SCC URL
-  -> browser never paints the friendly URL
 ```
 
 ## MkDocs Material Customization
 
 ### Theme overrides (`overrides/`)
 
-- `main.html`: extends `base.html` -- owns `site_meta` block (canonical link), `extrahead` block (SCC permalink rewrite, font preference restoration)
+- `main.html`: extends `base.html` -- owns `site_meta` block (self-canonical link), `extrahead` block (`scc-permalink` meta, font preference restoration)
 - `partials/content.html`: content area layout
 - `partials/toc.html`: table of contents layout
 
@@ -122,8 +100,7 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 
 | File | Purpose |
 |------|---------|
-| `scc-permalink.js` | Address-bar URL rewriting to SCC permalinks |
-| `scc-manifest.js` | Generated map of friendly -> SCC paths |
+| `scc-permalink-copy.js` | "Copy permalink" button that copies the stable SCC URL |
 | `ability-cards.js` | Ability card rendering enhancements |
 | `browse-enhancements.js` | Browse section UX improvements |
 | `keyboard-nav.js` | Keyboard navigation support |

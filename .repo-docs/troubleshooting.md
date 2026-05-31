@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: troubleshooting
-updated: 2026-05-23
+updated: 2026-05-31
 ---
 
 # Troubleshooting
@@ -14,7 +14,7 @@ updated: 2026-05-23
 
 **Cause:** mkdocs-material auto-generates a canonical link in `site_meta`. If you add another in `extrahead` without overriding `site_meta`, you get duplicates.
 
-**Fix:** `overrides/main.html` overrides the entire `{% block site_meta %}` to take ownership of canonical emission. The conditional uses `page.meta.scc` to choose between SCC permalink canonical and the default `page.canonical_url`.
+**Fix:** `overrides/main.html` overrides the entire `{% block site_meta %}` to take ownership of canonical emission. It emits a single self-canonical link (`page.canonical_url`). (It used to point canonical at the SCC URL, but that targets a `noindex` redirect stub — see ADR 2026-05-31.)
 
 ### mkdocs INFO warnings about relative links
 
@@ -24,35 +24,19 @@ updated: 2026-05-23
 
 **Fix:** In generated index pages, `steel-etl` uses `d + "/index.md"` form. In static content, use the same pattern.
 
-### SCC URL not appearing in address bar
+### In-page search 404s / fails on a directly-loaded page
 
-**Symptom:** The friendly Browse URL shows instead of the SCC permalink.
+**Symptom (historical):** Loading an SCC-permalinked page directly produced `GET .../scc/search/search_index.json 404` and broke in-page search.
 
-**Check:** Verify the page has `scc` in its YAML frontmatter. Verify `scc-permalink.js` and `scc-manifest.js` are listed in `mkdocs.yml` `extra_javascript`. Verify `overrides/main.html` emits the `<meta name="scc-permalink">` tag.
+**Cause:** The retired address-bar rewrite (ADR 2026-05-23) put a deeper SCC path in `location`, and mkdocs-material resolves its search/sitemap fetch URLs as `new URL(config.base, location.href)` — against the address bar, not `<base>`. The deeper location pushed the fetch one directory too far.
 
-### Anchor clicks revert to Browse URL
+**Fix:** Resolved by retiring the rewrite (ADR 2026-05-31). The friendly URL now stays in the bar, matching the built path, so `config.base` resolves to the true root. If this regresses, confirm nothing is calling `history.replaceState`/`pushState` to change the page's path.
 
-**Symptom:** Clicking a heading anchor (TOC permalink) shows the friendly URL.
+### "Copy permalink" button not appearing
 
-**Fix:** `scc-permalink.js` includes a `hashchange` event listener that re-applies the SCC permalink after anchor navigation.
+**Symptom:** No "🔗 Copy permalink" button next to the page title.
 
-### URL flash on initial page load
-
-**Symptom:** On the first navigation to a page, the Browse URL appears briefly before being replaced by the SCC URL.
-
-**Cause:** If `scc-permalink.js` is the only rewrite mechanism, it loads at the end of `<body>`, so `replaceState` fires after full page render.
-
-**Fix:** `overrides/main.html` includes an inline `<script>` in `<head>` right after the `<meta name="scc-permalink">` tag. This runs synchronously during HTML parse, before the body renders.
-
-### URL flash during instant-nav between pages
-
-**Symptom:** Clicking a link from one page to another briefly shows the friendly Browse URL before flipping to the SCC URL.
-
-**Cause:** mkdocs-material's `navigation.instant` calls `history.pushState` with the friendly URL at click time, then fetches and swaps the DOM, then fires `document$`. Without intervention, the friendly URL is visible for the duration of the fetch+swap. The inline `<head>` script from the initial-load case does not help here — mkdocs-material parses fetched HTML via `DOMParser`, which does not execute its scripts.
-
-**Fix:** `scc-permalink.js` monkey-patches `history.pushState` to immediately call `replaceState` with the SCC URL in the same synchronous task. Two synchronous history calls do not trigger a paint between them, so the address bar shows only the SCC URL. The lookup uses `window.__SCC_PERMALINK_MAP__`, populated by `scc-manifest.js` (generated at build time). If the manifest is missing the destination (e.g., a new page added post-deploy), the existing `document$` fallback still fires and rewrites the URL after the DOM swap.
-
-**Check:** Verify `scc-manifest.js` is listed in `mkdocs.yml` `extra_javascript` BEFORE `scc-permalink.js`. Verify the manifest file exists at `docs/javascripts/scc-manifest.js` after a build.
+**Check:** Verify the page has `scc` in its YAML frontmatter (so `overrides/main.html` emits `<meta name="scc-permalink">`). Verify `scc-permalink-copy.js` is listed in `mkdocs.yml` `extra_javascript`. The button is appended to the first `.md-content h1`, so it only appears on content pages that have an `<h1>`.
 
 ### Content changes not appearing
 
@@ -65,6 +49,5 @@ updated: 2026-05-23
 ## Do NOT
 
 - Edit files under `docs/Browse/`, `docs/Read/`, or `docs/scc/` directly
-- Edit `docs/javascripts/scc-manifest.js` (it is generated)
 - Remove or rename SCC codes in source frontmatter (they are frozen permanent identifiers)
 - Upgrade mkdocs-material without re-checking `overrides/main.html` block compatibility
