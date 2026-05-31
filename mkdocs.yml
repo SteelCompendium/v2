@@ -30,7 +30,9 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.instant
-    - navigation.instant.preview
+    # PERF TEST (perf/isolate-link-preview): instant.preview disabled to isolate
+    # the ~31s render cost on link-heavy pages (classes page = 8,494 links).
+    # - navigation.instant.preview
 # Extensions
 markdown_extensions:
   - footnotes
@@ -57,13 +59,16 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 1-8
-  - material.extensions.preview:
-      configurations:
-        - targets:
-            include:
-              - Browse/*
-              - Read/*
-              - Bestiary/*
+  # PERF TEST (perf/isolate-link-preview): hover/link previews disabled. This is
+  # the prime suspect for the ~31s render (URL+resolve over every anchor,
+  # getElements+extract to pre-wire each tooltip). Re-enable to revert.
+  # - material.extensions.preview:
+  #     configurations:
+  #       - targets:
+  #           include:
+  #             - Browse/*
+  #             - Read/*
+  #             - Bestiary/*
 extra:
   homepage: https://steelcompendium.io/v2
   analytics:
