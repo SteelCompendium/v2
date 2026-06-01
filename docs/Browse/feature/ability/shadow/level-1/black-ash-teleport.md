@@ -7,14 +7,14 @@ flavor: In a swirl of black ash, you step from one place to another.
 keywords:
     - Magic
 level: "1"
-name: Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
-scc: mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport
+name: Black Ash Teleport
+scc: mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport
 spend: '1+ Insight: You [teleport](scc:mcdm.heroes.v1/movement/teleport) 1 additional square for each insight spent.'
 target: Self
 type: ability
 ---
 
-# Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)
+# Black Ash Teleport
 
 ---
 

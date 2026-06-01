@@ -109,7 +109,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 You have the following ability.
 
-##### Black Ash [Teleport](../movement/teleport.md)
+##### Black Ash Teleport
 
 
 *In a swirl of black ash, you step from one place to another.*

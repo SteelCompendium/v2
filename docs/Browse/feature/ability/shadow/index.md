@@ -7,7 +7,7 @@
 
 <div class="browse-index" markdown>
 
-- [Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)](level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport.md)
+- [Black Ash Teleport](level-1/black-ash-teleport.md)
 - [Clever Trick](level-1/clever-trick.md)
 - [Coat the Blade](level-1/coat-the-blade.md)
 - [Coup de Grace](level-1/coup-de-grace.md)

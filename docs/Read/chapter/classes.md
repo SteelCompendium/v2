@@ -7823,7 +7823,7 @@ Your [shadow college](../../Browse/feature/trait/shadow/level-1/shadow-college.m
 
 You have the following ability.
 
-###### Black Ash [Teleport](../../Browse/movement/teleport.md)
+###### Black Ash Teleport
 
 
 *In a swirl of black ash, you step from one place to another.*
