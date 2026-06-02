@@ -1071,180 +1071,139 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don't trigger this effect.
 
-#### HEROIC ABILITIES
+### Heroic Abilities
 
 From traveling and fighting alongside your companion, you have learned a number of heroic abilities.
 
 #### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (Quick Build: Hungry Like the Wolf.)
+Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Hungry Like the Wolf.)
 
-## 
+##### Bring the Thunder
 
-Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.
+*Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.*
 
-Area, Companion, Magic
+| **Area, Companion, Magic** |                **Main action** |
+|----------------------------|-------------------------------:|
+| **📏 2 burst**             | **🎯 Each enemy in the area** |
 
-Main action
+**Power Roll + Intuition:**
 
-2 burst
+- **≤11:** 3 sonic damage; push 1; P < WEAK taunted (save ends)
+- **12-16:** 5 sonic damage; push 2; P < AVERAGE taunted (save ends)
+- **17+:** 7 sonic damage; push 3; P < STRONG frightened (save ends)
 
-🕲 Each enemy in the area
+**Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
 
-#### Power Roll + Intuition:
+##### Herd the Sheep
 
-3 sonic damage; push 1; P<WEAK taunted (save ends)
+*Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.*
 
-12-16 5 sonic damage; push 2; P<AVERAGE taunted (save ends)
+| **Companion, Melee, Strike, Weapon** | **Main action** |
+|--------------------------------------|----------------:|
+| **📏 Melee 1**                       | **🎯 One creature** |
 
-7 sonic damage; push 3; P<STRONG frightened (save ends)
+**Power Roll + Might:**
 
-Spend 1 Ferocity: This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
+- **≤11:** 5 + M damage; slide 1; I < WEAK weakened (save ends)
+- **12-16:** 8 + M damage; slide 2; I < AVERAGE weakened (save ends)
+- **17+:** 11 + M damage; slide 4; I < STRONG weakened (save ends)
 
-#### Herd the Sheep
+**Effect:** You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
 
-Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.
+##### Hungry Like the Wolf
 
-Companion, Melee, Strike, Weapon
+*The enemy's blood flows like wine, invigorating your companion.*
 
-Main action **One** creature
+| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
+|---------------------------------------------|----------------:|
+| **📏 Melee 1**                              | **🎯 One creature** |
 
-Melee 1
+**Power Roll + Might:**
 
-#### Power Roll + Might:
+- **≤11:** 4 + M damage; your companion can spend a Recovery
+- **12-16:** 7 + M damage; you and your companion can each spend a Recovery
+- **17+:** 11 + M damage; A < STRONG bleeding (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
 
-≤11 5 + M damage; slide 1; I<WEAK weakened (save ends)
-</p>
+##### Pushover
 
-(12-16) 8 + M damage; slide 2; I<AVERAGE weakened (save ends)
+*You and your companion surround your foe in order to bring them down.*
 
-17+ 11 + M damage; slide 4; I<STRONG weakened (save ends)
+| **Companion, Melee, Strike, Weapon** | **Main action** |
+|--------------------------------------|----------------:|
+| **📏 Melee 1**                       | **🎯 One creature or object** |
 
-Effect: You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
+**Power Roll + Might:**
 
-#### 
+- **≤11:** 5 + M damage; push 2
+- **12-16:** 8 + M damage; push 4
+- **17+:** 11 + M damage; push 6
 
-The enemy's blood flows like wine, invigorating your companion.
-
-Companion, Magic, Melee, Strike, Weapon
-
-Main action One creature
-
-Melee 1
-
-#### Power Roll + Might:
-
-4 + M damage; your companion can spend a Recovery
-
-12-16 7 + M damage; you and your companion can each spend
-
-17+ 11 + M damage; A < STRONG bleeding (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
-
-#### Pushover
-
-You and your companion surround your foe in order to bring them down.
-
-Companion, Melee, Strike, Weapon
-
-Main action
-
-Melee 1
-
-**One** creature or object
-
-#### Power Roll + Might:
-
-≤11 5 + M damage; push 2
-
-12-16 8 + M damage; push 4
-
-17+ 11 + M damage; push 6
-
-Effect: This forced movement can pass through your space but not end there. If the target passes through your space, they fall prone and take extra damage equal to your Intuition score.
+**Effect:** This forced movement can pass through your space but not end there. If the target passes through your space, they fall prone and take extra damage equal to your Intuition score.
 
 #### 5-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)
 
-#### All of You Versus All of Me
+##### All of You Versus All of Me
 
-Let all of them come forward and shatter themselves against your might!
+*Let all of them come forward and shatter themselves against your might!*
 
-Area. Beastheart
+| **Area, Beastheart** |                  **Maneuver** |
+|----------------------|------------------------------:|
+| **📏 3 burst**       | **🎯 Each enemy in the area** |
 
-**Maneuve**
+**Effect:** You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is taunted by you until the end of their next turn.
 
-3 burst
+**Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are taunted by your companion. An enemy in both areas is taunted only by you.
 
-**©** Each enemy in the area
+##### I Feed On Your Pain!
 
-Effect: You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is taunted by you until the end of their next turn
+*Invigorated by the smell of blood, you strike a savage blow.*
 
-Spend 1 Ferocity: This ability also affects a 3 burst originating from your companion. Targets in this second area are taunted by your companion. An enemy in both areas is taunted only by you.
+| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
+|-----------------------------------------------|----------------:|
+| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |
 
-#### I Feed On Your Pain!
+**Power Roll + Might:**
 
-Invigorated by the smell of blood, you strike a savage blow.
+- **≤11:** 8 + M damage
+- **12-16:** 12 + M damage
+- **17+:** 16 + M damage; M < STRONG bleeding (save ends)
 
-Beastheart, Melee, Range, Strike, Weapon Melee 1 or ranged 5 **One** creature
+**Effect:** If the target is killed by this damage, or is winded or bleeding after taking this damage, you gain 2 surges.
 
-#### Power Roll + Might:
+##### Rain of Fire
 
-≤11 8 + M damage
+*As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.*
 
-12-16 12 + M damage
+| **Area, Beastheart, Weapon** |              **Main action** |
+|------------------------------|-----------------------------:|
+| **📏 3 cube within 5**       | **🎯 Each enemy in the area** |
 
-17+ 16 + M damage; M < STRONG bleeding (save ends)
+**Power Roll + Might:**
 
-Effect: If the target is killed by this damage, or is winded or bleeding after taking this damage, you gain 2 surges.
+- **≤11:** 3 fire damage
+- **12-16:** 5 fire damage
+- **17+:** 8 fire damage
 
-#### Rain of Fire
+**Effect:** If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
 
-As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.
+##### You Let Me Get Too Close
 
-Area, Beastheart, Weapon
+*The wilderness has no concept of fair play.*
 
-Main action
+| **Beastheart, Charge, Melee, Strike, Weapon** | **Main action** |
+|-----------------------------------------------|----------------:|
+| **📏 Melee 1**                                | **🎯 One creature** |
 
-**S** Each enemy in the area
+**Power Roll + Might:**
 
-Main action
+- **≤11:** 8 + M damage; M < WEAK grabbed
+- **12-16:** 12 + M damage; M < AVERAGE grabbed
+- **17+:** 16 + M damage; M < STRONG grabbed
 
-3 cube within 5
-
-**perBell + Mighty**
-
-#### Power Roll + Might:
-
-≤11 3 fire damage
-
-**12-16** 5 fire damage 17+ 8 fire damage
-
-Effect: If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
-
-#### You Let Me Get Too Close
-
-The wilderness has no concept of fair play.
-
-Beastheart, Charge, Melee, Strike, Weapon
-
-Main action **©** One creature
-
-Melee 1
-
-Power Roll + Might:
-
-≤11 8 + M damage; M<WEAK grabbed</p>
-
-12-16 12 + M damage; M<AVERAGE grabbed 17+ 16 + M damage; M<STRONG grabbed
-
-10 + M damage, M **STRONG** grabbed
-
-**Effect:** If you grab the target while your compan
-
-Effect: If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.
-
-![](_page_28_Picture_0.jpeg)
+**Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.
 
 #### 2nd-Level Features
 
@@ -1448,98 +1407,73 @@ As a 3rd-level beastheart, you gain the following features.
 
 Your companion gains the level 3 advancement feature granted by their stat block.
 
-## 
+### 7-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
-![](_page_31_Picture_7.jpeg)
+#### Death and Violence
 
-#### 
+*You leap from your foe's corpse.*
 
-You leap from your foe's corpse.
-
-Beastheart, Magic, Ranged
-Ranged 10
-
-**Triggered One** creature
+| **Beastheart, Magic, Ranged** | **Triggered Action** |
+|-------------------------------|---------------------:|
+| **📏 Ranged 10**              | **🎯 One creature**  |
 
 **Trigger:** Your companion uses an ability that reduces the target to 0 Stamina.
 
 **Effect:** The target dies. You teleport to the target's space, shift up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:
 
-#### Power Roll + Might:
+**Power Roll + Might:**
 
-**≤11** P<WEAK frightened (save ends)
-
-12-16 4 psychic damage; P<AVERAGE frightened (save ends)
-
-17+ 8 psychic damage; P<STRONG frightened (save ends)
-
-![](_page_31_Picture_18.jpeg)
+- **≤11:** P < WEAK frightened (save ends)
+- **12-16:** 4 psychic damage; P < AVERAGE frightened (save ends)
+- **17+:** 8 psychic damage; P < STRONG frightened (save ends)
 
 #### Head to Head
 
-Your bloody-forehead smash drives your companion into a frenzy.
+*Your bloody-forehead smash drives your companion into a frenzy.*
 
-Beastheart, Melee, Strike
+| **Beastheart, Melee, Strike** | **Main action** |
+|-------------------------------|----------------:|
+| **📏 Melee 1**                | **🎯 One creature** |
 
-Main action
+**Power Roll + Might:**
 
-Melee 1
-
-**o** One creature
-
-#### Power Roll + Might:
-
-≤11 13 + M damage; P<WEAK dazed (save ends)
-</p>
-
-12-16 19 + M damage; P < AVERAGE dazed (save ends)
-
-17+ 25 + M damage; P < STRONG dazed (save ends)
+- **≤11:** 13 + M damage; P < WEAK dazed (save ends)
+- **12-16:** 19 + M damage; P < AVERAGE dazed (save ends)
+- **17+:** 25 + M damage; P < STRONG dazed (save ends)
 
 **Effect:** You are bleeding (save ends). Until the end of your next turn, your companion gains an edge on power rolls.
 
 #### Jaws of Death
 
-Spectral teeth clamp on a foe, chaining them to you and draining their life essence.
+*Spectral teeth clamp on a foe, chaining them to you and draining their life essence.*
 
-Beastheart, Magic, Melee, Ranged
+| **Beastheart, Magic, Melee, Ranged** | **Main action** |
+|--------------------------------------|----------------:|
+| **📏 Melee 1 or ranged 5**           | **🎯 One creature** |
 
-Main action
-One creature
+**Power Roll + Intuition:**
 
-Melee 1 or ranged 5
-
-Power Roll + Intuition:
-
-511 7 + I damage; P<WEAK weakened (save ends)
-
-10 + I damage; P<AVERAGE weakened (save ends)
-
-17+ 14 + I damage; P<STRONG weakened (save ends)
+- **≤11:** 7 + I damage; P < WEAK weakened (save ends)
+- **12-16:** 10 + I damage; P < AVERAGE weakened (save ends)
+- **17+:** 14 + I damage; P < STRONG weakened (save ends)
 
 **Effect:** Whenever a target more than 3 squares away from you fails the saving throw while weakened this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.
 
 #### Shieldbreaker
 
-You smash through their guard and shatter their armor, leaving them wide open.
+*You smash through their guard and shatter their armor, leaving them wide open.*
 
-Beastheart, Melee, Ranged, Strike, Weapon
+| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
+|-----------------------------------------------|----------------:|
+| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |
 
-Main action
+**Power Roll + Might:**
 
-Melee 1 or ranged 5
-
-**o** One creature
-
-#### Power Roll + Might:
-
-**≤11** 9 + **M** damage
-
-12-16 14 + M damage
-
-17+ 19 + M damage
+- **≤11:** 9 + M damage
+- **12-16:** 14 + M damage
+- **17+:** 19 + M damage
 
 **Effect:** The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.
 
@@ -1601,97 +1535,73 @@ When you or your companion uses your The Pack Defends ability to spend a Recover
 
 When you or your companion deals damage with your Pyre ability, each enemy adjacent to either of you takes the damage.
 
-## 9-Ferocity Ability
+### 9-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 
 #### Deadshot
 
-You channel your companion's feral senses to take the perfect shot.
+*You channel your companion's feral senses to take the perfect shot.*
 
-Beastheart, Ranged, Strike, Weapon
+| **Beastheart, Ranged, Strike, Weapon** | **Main action** |
+|----------------------------------------|----------------:|
+| **📏 Ranged 15**                       | **🎯 One creature or object** |
 
-Main action
+**Power Roll + Intuition:**
 
-Ranged 15
+- **≤11:** 12 + I damage
+- **12-16:** 18 + I damage
+- **17+:** 30 + I damage
 
-**One** creature or object
-
-#### Power Roll + Intuition:
-
-**≤11** 12 + **1** damage
-
-12-16 18 + I damage
-
-17+ 30 + 1 damage
-
-Effect: If you are hidden, you remain hidden after the strike.
+**Effect:** If you are hidden, you remain hidden after the strike.
 
 #### Dogpile
 
-You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.
+*You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
 
-Beastheart, Melee, Strike, Weapon
+| **Beastheart, Melee, Strike, Weapon** | **Main action** |
+|---------------------------------------|----------------:|
+| **📏 Melee 1**                        | **🎯 One creature** |
 
-Main action
+**Power Roll + Might:**
 
-Melee 1
-
-**O**ne creature
-
-#### Power Roll + Might:
-
-≤11 10 + M damage; M<WEAK grabbed and prone
-</p>
-
-15 + M damage; M<AVERAGE grabbed and prone
-
-17+ 20 + M damage; M<STRONG grabbed and prone
+- **≤11:** 10 + M damage; M < WEAK grabbed and prone
+- **12-16:** 15 + M damage; M < AVERAGE grabbed and prone
+- **17+:** 20 + M damage; M < STRONG grabbed and prone
 
 **Effect:** Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.
 
 #### One, Two, Three, Heave
 
-· Harnessing your companion's strength, you send your foe flying.
+*Harnessing your companion's strength, you send your foe flying.*
 
-Beastheart, Melee, Strike, Weapon
+| **Beastheart, Melee, Strike, Weapon** | **Main action** |
+|---------------------------------------|----------------:|
+| **📏 Melee 1**                        | **🎯 One creature** |
 
-Main action
-One creature
+**Power Roll + Might:**
 
-Melee 1
-
-#### Power Roll + Might:
-
-≤11 10 + M damage; vertical push 4; prone
-
-15 + M damage; vertical push 6; prone
-
-17+ 20 + M damage; vertical push 8; prone
+- **≤11:** 10 + M damage; vertical push 4; prone
+- **12-16:** 15 + M damage; vertical push 6; prone
+- **17+:** 20 + M damage; vertical push 8; prone
 
 **Effect:** If your companion is adjacent to the target, this forced movement can ignore the target's stability.
 
 #### Rip Them Apart!
 
-In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.
+*In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.*
 
-Melee, Strike, Weapon
+| **Melee, Strike, Weapon** | **Main action** |
+|---------------------------|----------------:|
+| **📏 Melee 1**            | **🎯 One creature** |
 
-Main action
+**Power Roll + Might:**
 
-Melee 1
+- **≤11:** 11 + M damage; M < WEAK bleeding (save ends)
+- **12-16:** 17 + M damage; M < AVERAGE bleeding (save ends)
+- **17+:** 22 + M damage; M < STRONG bleeding (save ends)
 
-**O**ne creature
-
-#### Power Roll + Might:
-
-(save ends)
-
-17 + M damage; M<AVERAGE bleeding (save ends)
-
-17+ 22 + M damage; M<STRONG bleeding (save ends)
-
-**Effect:** If the target is grabbed by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has **P**<AVERAGE is frightened (save ends).
+**Effect:** If the target is grabbed by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P < AVERAGE is frightened (save ends).
 
 ## 
 
@@ -1930,71 +1840,65 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 
 You gain one perk of your choice.
 
-## 11-Ferocity Ability
+### 11-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
 
-## Life-Drinking Wound
+#### Life-Drinking Wound
 
-As your attack strikes home, your enemy's escaping life force drifts to your allies in crimson threads.
+*As your attack strikes home, your enemy's escaping life force drifts to your allies in crimson threads.*
 
-Beastheart, Magic, Melee, Ranged, Strike, Weapon
-Main action
-Melee 1 or ranged 5
-One creature
+| **Beastheart, Magic, Melee, Ranged, Strike, Weapon** | **Main action** |
+|------------------------------------------------------|----------------:|
+| **📏 Melee 1 or ranged 5**                           | **🎯 One creature** |
 
-#### Power Roll + Might:
+**Power Roll + Might:**
 
-**≤11** 12 + M damage
-
-12-16 18 + M damage
-
-17+ 24 + M damage
+- **≤11:** 12 + M damage
+- **12-16:** 18 + M damage
+- **17+:** 24 + M damage
 
 **Effect:** Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.
 
 #### On the Razor's Edge
 
-Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.
+*Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.*
 
-Beastheart, Melee, Ranged, Strike, Weapon Main action
+| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
+|-----------------------------------------------|----------------:|
+| **📏 Melee 1 or ranged 5**                    | **🎯 One creature or object** |
 
-Melee 1 or ranged 5 One creature or object
+**Power Roll + Might:**
 
-#### Power Roll + Might:
-
-**≤11** 5 + **M** damage
-
-15 + M damage
-
-17+ 25 + M damage
+- **≤11:** 5 + M damage
+- **12-16:** 15 + M damage
+- **17+:** 25 + M damage
 
 **Effect:** Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is bleeding, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.
 
 #### Ride or Die
 
-Your enemies might be stronger than you, but that's why you're not alone.
+*Your enemies might be stronger than you, but that's why you're not alone.*
 
-Beastheart Main action
-Self Self
+| **Beastheart** | **Main action** |
+|----------------|----------------:|
+| **📏 Self**    | **🎯 Self**     |
 
 **Effect:** You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
 
 #### Turn the World To Ash
 
-Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can't control.
+*Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can't control.*
 
-Area, Beastheart, Magic Main action
+| **Area, Beastheart, Magic** |              **Main action** |
+|-----------------------------|-----------------------------:|
+| **📏 2 burst**              | **🎯 Each enemy in the area** |
 
-2 burst Seach enemy in the area
+**Power Roll + Intuition:**
 
-#### Power Roll + Intuition:
-
-10 cold, fire, lightning, or sonic damage
-
-18 cold, fire, lightning, or sonic damage
-
-26 cold, fire, lightning, or sonic damage
+- **≤11:** 10 cold, fire, lightning, or sonic damage
+- **12-16:** 18 cold, fire, lightning, or sonic damage
+- **17+:** 26 cold, fire, lightning, or sonic damage
 
 **Spend 2+ Ferocity:** You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can't be reduced in any way. You can choose how much ferocity you spend after you make the power roll.
 
