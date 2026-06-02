@@ -42,6 +42,19 @@
 
 <div class="browse-index" markdown>
 
+- [Basilisk](companion/basilisk/)
+- [Bear](companion/bear/)
+- [Boar](companion/boar/)
+- [Condor](companion/condor/)
+- [Deinonychus](companion/deinonychus/)
+- [Drake](companion/drake/)
+- [Elemental Spark](companion/elemental-spark/)
+- [Gummy Ball](companion/gummy-ball/)
+- [Hellhound](companion/hellhound/)
+- [Lightbender](companion/lightbender/)
+- [Panther](companion/panther/)
+- [Spider](companion/spider/)
+- [Sporeling](companion/sporeling/)
 - [Wolf](companion/wolf/)
 
 </div>
