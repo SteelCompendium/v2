@@ -1,8 +1,10 @@
 # steel-etl site configuration for the v2 MkDocs website
 # Usage: steel-etl site --config v2/site.yaml
 
-# Source: steel-etl md-linked output
-source_dir: ../data/data-rules/en/md-linked
+# Source: steel-etl md-linked output (multiple books merged by type)
+source_dirs:
+  - ../data/data-rules/en/md-linked
+  - ../data/data-beastheart/en/md-linked
 
 # MkDocs docs directory
 docs_dir: ./docs
