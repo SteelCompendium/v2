@@ -22,13 +22,11 @@ Your bond with your companion has awakened ancient, predatory instincts in you t
 
 Your wild nature is your subclass, and your choice of wild nature determines many of the features you'll gain as you gain new levels.
 
-### ®
+### Draw Steel Master Classes
 
 The Beastheart is an example of a master class in *Draw Steel*. Master classes are intended for players who are familiar with the game and have played a few sessions. They aren't recommended for first time players—you need to know the rules before we start breaking them on you!
 
 If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](https://shop.mcdmproductions.com/products/the-delian-tomb-pdf)* starter adventure, which includes a step-by-step tutorial on how to play the game and breaks down all the working parts of a hero. Save Broadhurst first, then hurry back here!
-
-£
 
 | ◆ Beastheart Advancement ◆ |                                                                                                                                                                         |                           |                       |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
@@ -43,5 +41,3 @@ If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](http
 | 8th                        | Wild Nature Feature, Perk, 11-Ferocity Ability                                                                                                                          | Signature, 3, 5, 7, 9, 11 | 5, 9                  |
 | 9th                        | Avatar of the Green, Wild Nature Ability                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
 | 10th                       | Characteristic Increase, Companion Advancement Feature, Final Evolution, Perk, Ferox, Rampage Improvement, Skill                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
-
-£

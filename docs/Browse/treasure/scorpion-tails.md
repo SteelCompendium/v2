@@ -26,8 +26,6 @@ type: treasure
 
 **1st Level:** Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, you and your companion can use the following maneuver.
 
-![](_page_43_Figure_37.jpeg)
-
 *Your scorpion tail lashes out.*
 
 ---
@@ -43,5 +41,3 @@ Might score.
 **5th Level:** The weapon's extra poison damage increases to 2. Additionally, the Scorpion Tail ability's distance increases to melee 3.
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, the Scorpion Tail ability's distance increases to melee 4.
-
-40

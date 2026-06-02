@@ -1,20 +1,22 @@
 ---
-name: ""
+name: Wild Rumpus
 scc: mcdm.beastheart.v1/perk/wild-rumpus
 type: perk
 ---
 
+# Wild Rumpus
+
+---
+
 You have the following ability.
 
-### 
+### Wild Rumpus
 
 *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 
 **Beastheart, Magic Main action**
 
 **Main action**
-
-![](_page_44_Picture_25.jpeg)
 
 **Effect:** For one minute or until you or your companion takes damage, you and your companion gain each other's movement types in addition to your own. You and your companion both use your speed or your companion's speed, whichever is higher. Each additional time you use this ability after the first, you take damage
 

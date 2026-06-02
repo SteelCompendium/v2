@@ -7,8 +7,12 @@
 
 <div class="browse-index" markdown>
 
+- [Adding and Subtracting Actions](level-1/adding-and-subtracting-actions.md)
 - [Basics](level-1/basics.md)
 - [Beastheart Abilities](level-1/beastheart-abilities.md)
+- [Beasthearts and Magic Treasure](level-1/beasthearts-and-magic-treasure.md)
+- [Companion Rules](level-1/companion-rules.md)
+- [Companion](level-1/companion.md)
 - [Ferocity](level-1/ferocity.md)
 - [Heart of the Beast](level-1/heart-of-the-beast.md)
 - [Kit](level-1/kit.md)

@@ -37,5 +37,3 @@ type: ability
 - **17+:** 13 cold or sonic damage; slide 4
 
 **Effect:** Until the end of your next turn, you and your companion can fly and gain a +3 bonus to speed.
-
-![](_page_30_Picture_67.jpeg)

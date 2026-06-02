@@ -1,14 +1,16 @@
 ---
-name: ""
+name: Ride Along
 scc: mcdm.beastheart.v1/perk/ride-along
 type: perk
 ---
 
+# Ride Along
+
+---
+
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
-![](_page_44_Picture_9.jpeg)
-
-### 
+### Ride Along
 
 *You ride behind your companion's eyes.*
 

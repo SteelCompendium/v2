@@ -40,7 +40,7 @@ They agreed on a plan. The beast loped off into the forest while she waited, mea
 
 The hobgoblins were still arguing. Good. *If* they were being manipulated by the speech of the bright faerie, then the two faeries might be able to affect their own escape. But no reason to take chances.
 
-She gripped her longspear, stood, and walked into the clearing. ®
+She gripped her longspear, stood, and walked into the clearing. 
 
 "We should have avoided the clearing," the dark one said.
 
@@ -132,7 +132,7 @@ She thought she saw the bright little faerie clap her hands in glee several time
 
 The young woman shook her head, a look of deep regret on her face. "Very well," she said. "I will summon Lord Uldric. I had hoped to spare Bloodlord Varrox, whose power is known to all, from the humiliation of losing an entire fist. But it seems you are committed to your own deaths. I would not have guessed these two," she said nodding at the cage, "were worth your lives, but if Bloodlord Varrox seeks the eternal enmity of House Vašra, I will supply it." She turned to leave.
 
-® "Is she bluffing??" the bright faerie asked.
+"Is she bluffing??" the bright faerie asked.
 
 "She is an excellent herald," the dark faerie said, watching the young woman intently. "She spake truth at every word except the last."
 
@@ -178,10 +178,6 @@ She let the moment build for a moment looking, expressionless, at the captain, t
 
 "Your lives," she said. She spoke as neutrally as one commenting on the weather.
 
-®
-
-®
-
 "What dialog!" the bright faerie said.
 
 Captain Hor'kylut, expecting a quite different answer, recoiled in anger making a noise like "Angh?!"
@@ -214,9 +210,7 @@ The firerunner's body suddenly split in half at the waist, a heavy white blade s
 
 A giant white feline bounded out of the forest, landing by the cage, each end of his bifurcated tail tapered into something like a knife as long as a halberd blade. One was covered in pink hobgoblin blood.
 
-® The fairies turned to each other in delight and said, at the same time, "She's a *beastheart*!"
-
-®
+The fairies turned to each other in delight and said, at the same time, "She's a *beastheart*!"
 
 The lancers braced to attack, and the giant cat let out a deafening bellow. Five of the six hobgoblins were blasted back off their feet, landing on their backs. One stood alone. It thrust its lance at the pantherous beast, piercing its skin, but the big white cat ignored the wound.
 
@@ -225,8 +219,6 @@ Squire Talisia spun her longspear about her and lightning erupted from the tip. 
 Captain Hor'kylut had a raging lightbender before him and an equally devastating human behind him. He pointed to the witch.
 
 The witch twisted her arms around each other in a manner that should not have been possible, and three hell troopers translated next to Squire Talisia; the blast of superheated brimstone that heralded the hell troopers' arrival seared her flesh and scorched her armor.
-
-®
 
 "Sweetie, darling," the bright faerie said. "I believe *this* would be the most dramatic moment to affect our escape."
 
@@ -241,8 +233,6 @@ Inserting his hooked needle, he deftly unlocked the cage with a single twist, an
 "After you," he said, deferring to the other faerie.
 
 "Ever the soul of tact," the bright faerie said, and pushed the unlocked door to the cage open. They both flew out into the fray.
-
-®
 
 The white catbeast leapt on the lone lancer and, with a growl, twisted its head sideways grabbing the lancer by the torso. He bit down and bright pink blood sprayed out, scalding the cat's lips. The cat took no notice of its own searing flesh and shook the hobgoblin several times in rapid succession. Bones snapped, the hobgoblin squealed, and the cat threw its head back, swallowing the hobgoblin whole.
 

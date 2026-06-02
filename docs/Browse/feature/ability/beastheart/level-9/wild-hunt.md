@@ -39,5 +39,3 @@ Your companion targets each enemy inside the pack's area during its movement onc
 - **≤11:** 9 damage
 - **12-16:** 13 damage
 - **17+:** 18 damage
-
-<span id="page-40-0"></span>![](_page_40_Picture_1.jpeg)

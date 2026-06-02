@@ -4,8 +4,12 @@
 
 <div class="browse-index" markdown>
 
+- [Adding and Subtracting Actions](adding-and-subtracting-actions.md)
 - [Basics](basics.md)
 - [Beastheart Abilities](beastheart-abilities.md)
+- [Beasthearts and Magic Treasure](beasthearts-and-magic-treasure.md)
+- [Companion Rules](companion-rules.md)
+- [Companion](companion.md)
 - [Ferocity](ferocity.md)
 - [Heart of the Beast](heart-of-the-beast.md)
 - [Kit](kit.md)

@@ -54,10 +54,10 @@
 - [Trained Thief](trained-thief.md)
 - [Traveling Artisan](traveling-artisan.md)
 - [Traveling Sage](traveling-sage.md)
-- [Voice Of The Wild](voice-of-the-wild.md)
+- [Voice of the Wild](voice-of-the-wild.md)
 - [Wild Rumpus](wild-rumpus.md)
 - [Wilds Explorer](wilds-explorer.md)
 - [Wood Wise](wood-wise.md)
-- [You Can Pet Them Theyre Friendly](you-can-pet-them-theyre-friendly.md)
+- [You Can Pet Them, They're Friendly](you-can-pet-them-theyre-friendly.md)
 
 </div>

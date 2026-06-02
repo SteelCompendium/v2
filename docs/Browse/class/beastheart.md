@@ -1,10 +1,10 @@
 ---
-name: THE BEASTHEART CLASS
+name: The Beastheart Class
 scc: mcdm.beastheart.v1/class/beastheart
 type: class
 ---
 
-# THE BEASTHEART CLASS
+# The Beastheart Class
 
 ---
 
@@ -52,13 +52,11 @@ Your bond with your companion has awakened ancient, predatory instincts in you t
 
 Your wild nature is your subclass, and your choice of wild nature determines many of the features you'll gain as you gain new levels.
 
-#### ®
+#### Draw Steel Master Classes
 
 The Beastheart is an example of a master class in *Draw Steel*. Master classes are intended for players who are familiar with the game and have played a few sessions. They aren't recommended for first time players—you need to know the rules before we start breaking them on you!
 
 If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](https://shop.mcdmproductions.com/products/the-delian-tomb-pdf)* starter adventure, which includes a step-by-step tutorial on how to play the game and breaks down all the working parts of a hero. Save Broadhurst first, then hurry back here!
-
-£
 
 | ◆ Beastheart Advancement ◆ |                                                                                                                                                                         |                           |                       |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
@@ -74,19 +72,19 @@ If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](http
 | 9th                        | Avatar of the Green, Wild Nature Ability                                                                                                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
 | 10th                       | Characteristic Increase, Companion Advancement Feature, Final Evolution, Perk, Ferox, Rampage Improvement, Skill                                                     | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
 
-£
-
-## 
+## Companion
 
 You gain the companionship of a wild animal who travels with you. Your companion isn't your pet. Rather, they've forged a mystical bond with you—one that allows you to share your companion's senses and primal instincts.
 
 Choose a companion from the following options. (*Quick Build:* Wolf.)
 
-#### 
+#### Customizing Your Companion
 
 Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the condor companion for an escaped Hawklord hawk, the wolf for a dog or jackal, or even the boar for a particularly ornery stag or elk.
 
 With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a hellhound you travel with a white wolf that deals cold damage instead of fire damage; maybe your elemental spark is an elemental ember that deals fire damage; or maybe your panther is a shadow whose Pounce maneuver deals corruption or cold damage.
+
+## Companion Stat Blocks
 
 ### Basilisk
 
@@ -736,7 +734,7 @@ While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and crea
 
 While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are frightened until the end of their next turn.
 
-### Companion Rules
+## Companion Rules
 
 - **Companion Stamina and Recoveries.** Your companion's Stamina maximum equals your Stamina maximum. Your companion has no Recoveries. When an effect would allow your companion to spend a Recovery, your companion spends one of your Recoveries.
 - **Companion Death.** A companion can become dying at 0 Stamina and die at negative half their Stamina, just like a hero.
@@ -754,13 +752,11 @@ While the wolf is rampaging, you and the wolf are surrounded by an aura of dread
 - **Changing Your Companion.** As a respite activity, you can release your current companion, then gain a new companion of a different species or summon a companion you previously released.
 - **One Hero.** You and your companion count as one hero for determining the difficulty of combats, montage tests, and other challenges.
 
-### Adding and Subtracting Actions
+## Adding and Subtracting Actions
 
 Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent's Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.
 
 Similarly, the dazed condition limits what a creature can do on their turn. Being dazed works the same on you and your companion as it does on other creatures; whoever is dazed can only do one thing on their turn (a move action, maneuver, or main action). You being dazed has no effect on your companion, and vice versa.
-
-£
 
 ## Heart of the Beast
 
@@ -813,7 +809,7 @@ This ability gains the following benefit based on your wild nature.
 
 You and your companion tap into a predator's bloodlust that grants you a Heroic Resource called ferocity.
 
-#### FEROCITY IN COMBAT
+#### Ferocity in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
 
@@ -821,7 +817,7 @@ Additionally, the first time each combat round that a creature adjacent to your 
 
 You lose any remaining ferocity at the end of the encounter.
 
-#### 
+#### Ferocity Outside of Combat
 
 Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you or your companion uses an ability or effect outside of combat that costs ferocity, that same ability or effect can't be used outside of combat again until you earn 1 or more Victories or finish a respite.
 
@@ -843,8 +839,6 @@ Your companion doesn't spend rampage to activate abilities. Instead, when your c
 | 16 (4th level)  | When your companion uses their Feral Strike ability, they deal extra damage equal to their Intuition score to each target. You gain 1 additional surge for each ally damaged this way.                                                                                                                                                                                                                                                                            |
 | 20 (7th level)  | As a free maneuver, your companion can increase their size up to size 2, or increase their size by 1 if their original size is already 2 or larger. This size increase lasts until your companion’s rampage ends or they use a free maneuver to end it. While your companion’s size is increased, they gain a +2 bonus to speed and stability, the potencies of their abilities increase by 1, and the size of their Feral Strike ability’s burst increases by 1. |
 | 24 (10th level) | When your companion increases their size, they can increase it up to size 3, or increase their size by 1 if their original size is already 3 or larger. Whenever they make a power roll while their size is increased this way, they can roll 3d10 and discard the lowest roll.                                                                                                                                                                                   |
-
-![](_page_24_Picture_0.jpeg)
 
 ## Wild Nature Maneuver
 
@@ -983,19 +977,19 @@ You and your companion both gain the benefits of the kit, with the following exc
 - Only you can use the kit's signature ability, not your companion.
 - Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.
 
-#### 
+#### Beasthearts and Magic Treasure
 
-#### Consumables
+##### Consumables
 
 Your companion can't use every consumable, but with your help, they can benefit from an edible or drinkable consumable, such as a Healing Potion. While using a kit, your companion can also benefit from a consumable that enhances a weapon, such as a Lachomp Tooth. When you use one of these kinds of consumables while you are adjacent to your companion, you can grant the benefit to your companion instead of yourself. You must take the action type required to use the consumable; no action is required of your companion.
 
-#### 
+##### Trinkets
 
 Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
 
 You companion doesn't need to wear their trinket around their neck: a condor might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
 
-#### 
+##### Leveled Items
 
 Although your companion can't wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.
 
@@ -1396,8 +1390,6 @@ Choose one of the following abilities.
 - **17+:** 13 cold or sonic damage; slide 4
 
 **Effect:** Until the end of your next turn, you and your companion can fly and gain a +3 bonus to speed.
-
-![](_page_30_Picture_67.jpeg)
 
 ## 3rd-Level Features
 
@@ -2037,8 +2029,6 @@ Your companion targets each enemy inside the pack's area during its movement onc
 - **12-16:** 13 damage
 - **17+:** 18 damage
 
-<span id="page-40-0"></span>![](_page_40_Picture_1.jpeg)
-
 ## 10th-Level Features
 
 As a 10th-level beastheart, you gain the following features.
@@ -2075,7 +2065,7 @@ Your Rampage feature provides additional effects when your companion has 24 or m
 
 You gain one skill of your choice.
 
-## REWARDS
+## Rewards
 
 The following sections provide new trinkets and leveled treasures for a beastheart and their companion.
 
@@ -2083,7 +2073,7 @@ The following sections provide new trinkets and leveled treasures for a beasthea
 
 This section presents new trinket treasures for a beastheart and their companion in order of echelon.
 
-## 
+## 1st-Echelon Trinkets
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
@@ -2131,7 +2121,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 **Effect:** Only a beastheart's companion or an animal can wear this necklace. While wearing this necklace, the creature's Reason score is 0 unless it would otherwise be higher. The creature can speak any language they know, and another creature who knows a language can teach that language to the creature as a respite activity. When the creature speaks, their voice issues from the scarab on the necklace.
 
-## 
+## 2nd-Echelon Trinket
 
 This section presents a 2nd-echelon trinket treasure.
 
@@ -2151,7 +2141,7 @@ This section presents a 2nd-echelon trinket treasure.
 
 **Effect:** You must be a beastheart to wear this necklace. While wearing this necklace, you can use a free maneuver and spend 1 ferocity during combat to shapeshift into a hybrid form that grants you your companion's physical characteristics. Your hybrid form lasts until the end of the encounter or you revert to your true form as a free maneuver. While in hybrid form, you can use abilities with the Companion keyword, your speed increases to your companion's speed (if it is higher), and you gain your companion's movement types and damage immunities.
 
-## 
+## 3rd-Echelon Trinket
 
 This section presents a 3rd-echelon trinket treasure.
 
@@ -2167,7 +2157,7 @@ This section presents a 3rd-echelon trinket treasure.
 
 **Effect:** Only a beastheart's companion or an animal can wear this bandanna. While wearing this bandanna, the creature is invisible. When the creature uses an ability that deals damage, they become visible until the start of their next turn.
 
-## 
+## 4th-Echelon Trinket
 
 This section presents a 4th-echelon trinket treasure.
 
@@ -2189,7 +2179,7 @@ This section presents a 4th-echelon trinket treasure.
 
 This section presents new leveled treasures for a beastheart and their companion.
 
-## 
+## Leveled Armor Treasures
 
 The following leveled armor treasures are presented in alphabetical order.
 
@@ -2265,7 +2255,7 @@ The following leveled armor treasures are presented in alphabetical order.
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and whenever you or your companion pulls a creature with thorned vines using the armor, the target also takes 5 damage and is grabbed by whoever force moved them.
 
-## 
+## Leveled Weapon Treasures
 
 The following leveled weapon treasures are presented in alphabetical order.
 
@@ -2337,8 +2327,6 @@ The following leveled weapon treasures are presented in alphabetical order.
 
 **1st Level:** Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, you and your companion can use the following maneuver.
 
-![](_page_43_Figure_37.jpeg)
-
 *Your scorpion tail lashes out.*
 
 ---
@@ -2355,9 +2343,7 @@ Might score.
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, the Scorpion Tail ability's distance increases to melee 4.
 
-40
-
-## PERKS
+## Perks
 
 The following perks can be taken only by beastheart characters.
 
@@ -2365,17 +2351,15 @@ The following perks can be taken only by beastheart characters.
 
 This section presents exploration perks in alphabetical order.
 
-## 
+## Born Tracker
 
 You and your companion gain an edge on tests made to track creatures, find your way, or search for hidden creatures.
 
-## 
+## Ride Along
 
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
-![](_page_44_Picture_9.jpeg)
-
-#### 
+#### Ride Along
 
 *You ride behind your companion's eyes.*
 
@@ -2391,11 +2375,11 @@ While you are riding along, your companion continues to benefit from any magic t
 
 While you are riding along, you can't act except to spend a free maneuver to regain your body. You also regain your body if your companion dies or chooses to eject you. When you regain your body, you reappear in a space adjacent to your companion.
 
-## 
+## Wild Rumpus
 
 You have the following ability.
 
-#### 
+#### Wild Rumpus
 
 *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 
@@ -2403,13 +2387,11 @@ You have the following ability.
 
 **Main action**
 
-![](_page_44_Picture_25.jpeg)
-
 **Effect:** For one minute or until you or your companion takes damage, you and your companion gain each other's movement types in addition to your own. You and your companion both use your speed or your companion's speed, whichever is higher. Each additional time you use this ability after the first, you take damage
 
 equal to your level until you finish a respite or gain 1 or more Victories. This damage can't be reduced in any way and doesn't end this ability's effect.
 
-## 
+## Wilds Explorer
 
 You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of difficult terrain you each enter.
 
@@ -2417,7 +2399,7 @@ You and your companion gain an edge on tests made to overcome environmental cold
 
 This section presents an intrigue perk.
 
-## 
+## Trained Thief
 
 You have the Conceal Object or Pick Pocket skill. Your companion can make a test using that skill as a maneuver.
 
@@ -2425,14 +2407,14 @@ You have the Conceal Object or Pick Pocket skill. Your companion can make a test
 
 This section presents interpersonal perks in alphabetical order.
 
-## 
+## People Sense
 
 Whenever you or your companion makes a test to determine a creature's motives, emotions, or body language while within 5 squares of each other, your partner can make the same test as a free triggered action. You both use the higher result.
 
-## 
+## Voice of the Wild
 
 Your companion can speak any language you can speak.
 
-## 
+## You Can Pet Them, They're Friendly
 
 Whenever you make a Presence test to interact with a creature while you are within 5 squares of your companion, you can use your companion's Presence instead of your own.
