@@ -1,12 +1,7 @@
 ---
-average_potency: Might − 1
 name: THE BEASTHEART CLASS
 scc: mcdm.beastheart.v1/class/beastheart
-skills:
-    - You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, Navigate, Track.)
-strong_potency: Might
 type: class
-weak_potency: Might − 2
 ---
 
 # THE BEASTHEART CLASS
@@ -21,11 +16,9 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 
 **Starting Characteristics:** You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:
 
-¥ 2, −1, −1
-
-¥ 1, 1, −1
-
-¥ 1, 0, 0
+- 2, −1, −1
+- 1, 1, −1
+- 1, 0, 0
 
 **Weak Potency:** Might − 2
 
@@ -45,7 +38,7 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 
 As a 1st-level beastheart, you gain the following features.
 
-## 
+## Wild Nature
 
 Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren't bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (*Quick Build:* Punisher.)
 

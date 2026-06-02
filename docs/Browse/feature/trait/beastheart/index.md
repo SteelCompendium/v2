@@ -7,8 +7,10 @@
 
 <div class="browse-index" markdown>
 
+- [Basics](level-1/basics.md)
 - [Ferocity](level-1/ferocity.md)
 - [Rampage](level-1/rampage.md)
+- [Wild Nature](level-1/wild-nature.md)
 
 </div>
 
