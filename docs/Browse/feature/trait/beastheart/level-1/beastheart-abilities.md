@@ -213,11 +213,3 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 - **17+:** 16 + M damage; M < STRONG grabbed
 
 **Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.
-
-### 2nd-Level Features
-
-As a 2nd-level beastheart, you gain the following features.
-
-### Perk
-
-You gain one exploration, interpersonal, or intrigue perk of your choice.
