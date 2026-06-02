@@ -7,11 +7,8 @@
 
 <div class="browse-index" markdown>
 
-- [Basics](level-1/basics.md)
-- [Ferocity](level-1/ferocity.md)
+- [Feral Strike](level-1/feral-strike.md)
 - [Heart of the Beast](level-1/heart-of-the-beast.md)
-- [Rampage](level-1/rampage.md)
-- [Wild Nature](level-1/wild-nature.md)
 
 </div>
 

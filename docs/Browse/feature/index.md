@@ -7,6 +7,7 @@
 
 <div class="browse-index" markdown>
 
+- [Beastheart](ability/beastheart/)
 - [Censor](ability/censor/)
 - [Common](ability/common/)
 - [Companion](ability/companion/)
