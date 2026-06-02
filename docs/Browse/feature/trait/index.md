@@ -3,6 +3,17 @@
 ---
 
 <details class="browse-expand" markdown>
+<summary><a href="beastheart/">Beastheart</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Level 1](beastheart/level-1/)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
 <summary><a href="censor/">Censor</a></summary>
 
 <div class="browse-index" markdown>

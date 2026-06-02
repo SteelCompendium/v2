@@ -34,6 +34,7 @@
 
 <div class="browse-index" markdown>
 
+- [Beastheart](trait/beastheart/)
 - [Censor](trait/censor/)
 - [Common](trait/common/)
 - [Companion](trait/companion/)
