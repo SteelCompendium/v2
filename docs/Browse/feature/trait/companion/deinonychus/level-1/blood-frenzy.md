@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the deinonychus deals damage to a bleeding creature, they gain 1 surge.
+Whenever the deinonychus deals damage to a [bleeding](../../../../../condition/bleeding.md) creature, they gain 1 surge.

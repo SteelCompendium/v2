@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-While the lightbender is rampaging, your grip on spatial reality is weakened, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender's rampage ends.
+While the lightbender is rampaging, your grip on spatial reality is [weakened](../../../../../condition/weakened.md), and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender's rampage ends.

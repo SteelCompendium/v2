@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is grabbed by the ball.
+Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../../../../../condition/grabbed.md) by the ball.

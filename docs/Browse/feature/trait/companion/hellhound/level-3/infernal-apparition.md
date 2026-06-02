@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be frightened until the end of the target's next turn.
+Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../../../../condition/frightened.md) until the end of the target's next turn.

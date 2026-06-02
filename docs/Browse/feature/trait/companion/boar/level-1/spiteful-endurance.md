@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of bleeding.
+While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../../../../../condition/bleeding.md).

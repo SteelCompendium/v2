@@ -17,9 +17,9 @@ scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder
 spend: '2 Ferocity: You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.'
 subclass: punisher
 target: Self
-tier1: 9 sonic damage; M < WEAK prone
-tier2: 13 sonic damage; M < AVERAGE prone
-tier3: 18 sonic damage; M < STRONG prone
+tier1: 9 sonic damage; M < WEAK [prone](scc:mcdm.heroes.v1/condition/prone)
+tier2: 13 sonic damage; M < AVERAGE [prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 18 sonic damage; M < STRONG [prone](scc:mcdm.heroes.v1/condition/prone)
 type: ability
 ---
 
@@ -37,8 +37,8 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 9 sonic damage; M < WEAK prone
-- **12-16:** 13 sonic damage; M < AVERAGE prone
-- **17+:** 18 sonic damage; M < STRONG prone
+- **≤11:** 9 sonic damage; M < WEAK [prone](../../../../condition/prone.md)
+- **12-16:** 13 sonic damage; M < AVERAGE [prone](../../../../condition/prone.md)
+- **17+:** 18 sonic damage; M < STRONG [prone](../../../../condition/prone.md)
 
 **Spend 2 Ferocity:** You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.

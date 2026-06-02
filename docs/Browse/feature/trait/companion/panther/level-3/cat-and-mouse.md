@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target prone.
+Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../../../../condition/prone.md).

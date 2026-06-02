@@ -62,7 +62,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 4 + I damage
 - **17+:** 6 + I damage
 
-**Effect:** If the target is not prone, they must use a free triggered action to fall prone or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
+**Effect:** If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
 
 ### Stormrage
 
@@ -98,9 +98,9 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Power Roll + Intuition:**
 
-- **≤11:** 3 sonic damage; push 1; P < WEAK taunted (save ends)
-- **12-16:** 5 sonic damage; push 2; P < AVERAGE taunted (save ends)
-- **17+:** 7 sonic damage; push 3; P < STRONG frightened (save ends)
+- **≤11:** 3 sonic damage; push 1; P < WEAK [taunted](../../../../condition/taunted.md) (save ends)
+- **12-16:** 5 sonic damage; push 2; P < AVERAGE [taunted](../../../../condition/taunted.md) (save ends)
+- **17+:** 7 sonic damage; push 3; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 
 **Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
 
@@ -114,9 +114,9 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Power Roll + Might:**
 
-- **≤11:** 5 + M damage; slide 1; I < WEAK weakened (save ends)
-- **12-16:** 8 + M damage; slide 2; I < AVERAGE weakened (save ends)
-- **17+:** 11 + M damage; slide 4; I < STRONG weakened (save ends)
+- **≤11:** 5 + M damage; slide 1; I < WEAK [weakened](../../../../condition/weakened.md) (save ends)
+- **12-16:** 8 + M damage; slide 2; I < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
+- **17+:** 11 + M damage; slide 4; I < STRONG [weakened](../../../../condition/weakened.md) (save ends)
 
 **Effect:** You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
 
@@ -132,7 +132,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 - **≤11:** 4 + M damage; your companion can spend a Recovery
 - **12-16:** 7 + M damage; you and your companion can each spend a Recovery
-- **17+:** 11 + M damage; A < STRONG bleeding (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
+- **17+:** 11 + M damage; A < STRONG [bleeding](../../../../condition/bleeding.md) (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
 
 #### Pushover
 
@@ -148,7 +148,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 8 + M damage; push 4
 - **17+:** 11 + M damage; push 6
 
-**Effect:** This forced movement can pass through your space but not end there. If the target passes through your space, they fall prone and take extra damage equal to your Intuition score.
+**Effect:** This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](../../../../condition/prone.md) and take extra damage equal to your Intuition score.
 
 ### 5-Ferocity Ability
 
@@ -162,9 +162,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |----------------------|------------------------------:|
 | **📏 3 burst**       | **🎯 Each enemy in the area** |
 
-**Effect:** You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is taunted by you until the end of their next turn.
+**Effect:** You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.
 
-**Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are taunted by your companion. An enemy in both areas is taunted only by you.
+**Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are [taunted](../../../../condition/taunted.md) by your companion. An enemy in both areas is [taunted](../../../../condition/taunted.md) only by you.
 
 #### I Feed On Your Pain!
 
@@ -178,9 +178,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 - **≤11:** 8 + M damage
 - **12-16:** 12 + M damage
-- **17+:** 16 + M damage; M < STRONG bleeding (save ends)
+- **17+:** 16 + M damage; M < STRONG [bleeding](../../../../condition/bleeding.md) (save ends)
 
-**Effect:** If the target is killed by this damage, or is winded or bleeding after taking this damage, you gain 2 surges.
+**Effect:** If the target is killed by this damage, or is winded or [bleeding](../../../../condition/bleeding.md) after taking this damage, you gain 2 surges.
 
 #### Rain of Fire
 
@@ -208,8 +208,8 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Power Roll + Might:**
 
-- **≤11:** 8 + M damage; M < WEAK grabbed
-- **12-16:** 12 + M damage; M < AVERAGE grabbed
-- **17+:** 16 + M damage; M < STRONG grabbed
+- **≤11:** 8 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md)
+- **12-16:** 12 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md)
+- **17+:** 16 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md)
 
 **Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.

@@ -17,9 +17,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos
 subclass: prowler
 target: One creature
-tier1: 13 + I psychic damage; P < WEAK frightened (save ends)
-tier2: 20 + I psychic damage; P < AVERAGE frightened (save ends)
-tier3: 27 + I psychic damage; P < STRONG frightened (save ends)
+tier1: 13 + I psychic damage; P < WEAK [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier2: 20 + I psychic damage; P < AVERAGE [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier3: 27 + I psychic damage; P < STRONG [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
 type: ability
 ---
 
@@ -37,6 +37,6 @@ type: ability
 
 **Power Roll + Intuition:**
 
-- **≤11:** 13 + I psychic damage; P < WEAK frightened (save ends)
-- **12-16:** 20 + I psychic damage; P < AVERAGE frightened (save ends)
-- **17+:** 27 + I psychic damage; P < STRONG frightened (save ends)
+- **≤11:** 13 + I psychic damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
+- **12-16:** 20 + I psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
+- **17+:** 27 + I psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)

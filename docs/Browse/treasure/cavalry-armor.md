@@ -25,4 +25,4 @@ type: treasure
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and its bonus to stability increases to +2. Additionally, when a creature is force moved into you or your companion, whoever was collided with takes no damage.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and its bonus to stability increases to +3. When you or your companion pushes a creature using this armor's feature, the creature takes damage equal to twice the pusher's Might score and is knocked prone.
+**9th Level:** The armor's bonus to Stamina increases to +21, and its bonus to stability increases to +3. When you or your companion pushes a creature using this armor's feature, the creature takes damage equal to twice the pusher's Might score and is knocked [prone](../condition/prone.md).

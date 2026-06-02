@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Spore Puff
 scc: mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff
-spend: '1 Ferocity: If the target has M < STRONG, they are dazed until the end of their next turn.'
+spend: '1 Ferocity: If the target has M < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) until the end of their next turn.'
 subtype: signature
 target: One enemy
 type: ability
@@ -29,4 +29,4 @@ type: ability
 
 **Effect:** The target takes poison damage equal to 3 + the sporeling's Might score, and the sporeling is invisible to the target until the end of the sporeling's next turn or they deal damage to the target.
 
-**Spend 1 Ferocity:** If the target has M < STRONG, they are dazed until the end of their next turn.
+**Spend 1 Ferocity:** If the target has M < STRONG, they are [dazed](../../../../../condition/dazed.md) until the end of their next turn.

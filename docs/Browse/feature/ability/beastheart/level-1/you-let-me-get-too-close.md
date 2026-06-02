@@ -16,9 +16,9 @@ name: You Let Me Get Too Close
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close
 target: One creature
-tier1: 8 + M damage; M < WEAK grabbed
-tier2: 12 + M damage; M < AVERAGE grabbed
-tier3: 16 + M damage; M < STRONG grabbed
+tier1: 8 + M damage; M < WEAK [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 12 + M damage; M < AVERAGE [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 16 + M damage; M < STRONG [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -34,8 +34,8 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 8 + M damage; M < WEAK grabbed
-- **12-16:** 12 + M damage; M < AVERAGE grabbed
-- **17+:** 16 + M damage; M < STRONG grabbed
+- **≤11:** 8 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md)
+- **12-16:** 12 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md)
+- **17+:** 16 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md)
 
 **Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.

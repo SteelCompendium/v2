@@ -12,7 +12,7 @@ keywords:
 level: "1"
 name: Gore
 scc: mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore
-spend: '1 Ferocity: The target is bleeding until the end of their next turn.'
+spend: '1 Ferocity: The target is [bleeding](scc:mcdm.heroes.v1/condition/bleeding) until the end of their next turn.'
 subtype: signature
 target: One creature or object
 type: ability
@@ -30,4 +30,4 @@ type: ability
 
 **Effect:** The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.
 
-**Spend 1 Ferocity:** The target is bleeding until the end of their next turn.
+**Spend 1 Ferocity:** The target is [bleeding](../../../../../condition/bleeding.md) until the end of their next turn.

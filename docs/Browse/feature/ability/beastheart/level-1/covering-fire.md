@@ -2,7 +2,7 @@
 action_type: Main action
 class: beastheart
 distance: Ranged 5
-effect: If the target is not prone, they must use a free triggered action to fall prone or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
+effect: If the target is not [prone](scc:mcdm.heroes.v1/condition/prone), they must use a free triggered action to fall [prone](scc:mcdm.heroes.v1/condition/prone) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
 flavor: Keep your head down, or I'll shoot it off!
 keywords:
     - Beastheart
@@ -37,4 +37,4 @@ type: ability
 - **12-16:** 4 + I damage
 - **17+:** 6 + I damage
 
-**Effect:** If the target is not prone, they must use a free triggered action to fall prone or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
+**Effect:** If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.

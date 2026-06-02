@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the spider makes a strike against a restrained creature, the spider deals extra poison damage equal to twice their Intuition score.
+Whenever the spider makes a strike against a [restrained](../../../../../condition/restrained.md) creature, the spider deals extra poison damage equal to twice their Intuition score.

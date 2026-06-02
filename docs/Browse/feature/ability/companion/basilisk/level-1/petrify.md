@@ -14,7 +14,7 @@ keywords:
 level: "1"
 name: Petrify
 scc: mcdm.beastheart.v1/feature.ability.companion.basilisk.level-1/petrify
-spend: '1 Ferocity: While stoned this way, the target is also slowed.'
+spend: '1 Ferocity: While stoned this way, the target is also [slowed](scc:mcdm.heroes.v1/condition/slowed).'
 subtype: signature
 target: One enemy
 type: ability
@@ -32,4 +32,4 @@ type: ability
 
 **Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see Stoned).
 
-**Spend 1 Ferocity:** While stoned this way, the target is also slowed.
+**Spend 1 Ferocity:** While stoned this way, the target is also [slowed](../../../../../condition/slowed.md).

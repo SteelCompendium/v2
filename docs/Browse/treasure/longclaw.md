@@ -21,6 +21,6 @@ type: treasure
 
 **1st Level:** Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 damage. Additionally, you and your companion gain a +1 bonus to melee distance.
 
-**5th Level:** The weapon's extra damage increases to 2. Additionally, whenever you or your companion grabs a creature or a creature grabs either of you, the creature is bleeding (save ends).
+**5th Level:** The weapon's extra damage increases to 2. Additionally, whenever you or your companion grabs a creature or a creature grabs either of you, the creature is [bleeding](../condition/bleeding.md) (save ends).
 
-**9th Level:** The weapon's extra damage increases to 3. Additionally, whenever you or your companion causes a creature to become bleeding or uses an ability that deals damage to a bleeding creature, you can each spend a Recovery.
+**9th Level:** The weapon's extra damage increases to 3. Additionally, whenever you or your companion causes a creature to become [bleeding](../condition/bleeding.md) or uses an ability that deals damage to a [bleeding](../condition/bleeding.md) creature, you can each spend a Recovery.

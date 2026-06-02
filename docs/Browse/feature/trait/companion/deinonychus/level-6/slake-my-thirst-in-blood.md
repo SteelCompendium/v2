@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever you use an ability that deals rolled damage to a bleeding creature while the deinonychus is rampaging, you gain 2 surges.
+Whenever you use an ability that deals rolled damage to a [bleeding](../../../../../condition/bleeding.md) creature while the deinonychus is rampaging, you gain 2 surges.

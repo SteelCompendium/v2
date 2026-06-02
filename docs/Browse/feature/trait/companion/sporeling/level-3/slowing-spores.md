@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be slowed until the end of the target's next turn.
+Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../../../../condition/slowed.md) until the end of the target's next turn.

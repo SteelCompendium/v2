@@ -17,9 +17,9 @@ power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/fetch
 subclass: guardian
 target: One creature or object
-tier1: 6 + M damage; M < WEAK grabbed
-tier2: 8 + M damage; M < AVERAGE grabbed
-tier3: 12 + M damage; M < STRONG grabbed
+tier1: 6 + M damage; M < WEAK [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier2: 8 + M damage; M < AVERAGE [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier3: 12 + M damage; M < STRONG [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
 type: ability
 ---
 
@@ -37,8 +37,8 @@ type: ability
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M damage; M < WEAK grabbed
-- **12-16:** 8 + M damage; M < AVERAGE grabbed
-- **17+:** 12 + M damage; M < STRONG grabbed
+- **≤11:** 6 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md)
+- **12-16:** 8 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md)
+- **17+:** 12 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md)
 
-After making the power roll, your companion can teleport with a grabbed creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the grabbed creature or held object is teleported to.
+After making the power roll, your companion can teleport with a [grabbed](../../../../condition/grabbed.md) creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the [grabbed](../../../../condition/grabbed.md) creature or held object is teleported to.

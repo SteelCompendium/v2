@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the deinonychus makes a strike against a creature while rampaging, the target is bleeding until the end of their next turn.
+Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../../../../../condition/bleeding.md) until the end of their next turn.
