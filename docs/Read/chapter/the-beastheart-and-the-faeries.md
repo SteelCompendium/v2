@@ -1,16 +1,16 @@
 ---
 search:
   exclude: true
-name: THE BEASTHEART & THE FAERIES
+name: The Beastheart & The Faeries
 scc: mcdm.beastheart.v1/chapter/the-beastheart-and-the-faeries
 type: chapter
 ---
 
-# THE BEASTHEART & THE FAERIES
+# The Beastheart & The Faeries
 
 ---
 
-## PART ONE: THE BEASTHEART
+## Part One: The Beastheart
 
 Lives lay in moments wasted. But they both knew the value of reading the situation. The lay of the land. Plunging in on perilous impulse, however noble, could mean their own lives added to the tally. They wouldn't have used words like 'tactics' or 'strategy;' to the two of them, it was simply prudent to watch and think and plan before acting.
 
@@ -98,8 +98,6 @@ Her brother gasped. "She braids her hair *and* the ribbons of her raiment! She h
 
 "Ah vanity! All this, with style and grace. If this is our savior, I could not have conjured a better. I may have to…" she turned to her brother. "I may be forced to *omit* details lest the critics accuse me of overwriting!"
 
-®
-
 "Well they do that anyway," her brother said.
 
 "Yes but in *this* case they may be correct."
@@ -143,8 +141,6 @@ The young woman shook her head, a look of deep regret on her face. "Very well," 
 "I believe there must be, and she *is* his herald. 'Vašra.' An eastern county by the name, she is far from home. I believe this is something *like* a bluff, but she weaves the truth and falsehoods so tightly, I cannot…"
 
 "Wait," the bright faerie said looking around the clearing, noting how the herald was positioned exactly opposite them in the clearing and every hobgoblin had their backs to the two faeries. "I recognize this story. She's not bluffing. She's *stalling*."
-
-®
 
 The lieutenant, eyes wild, rushed forward. "Captain!"
 

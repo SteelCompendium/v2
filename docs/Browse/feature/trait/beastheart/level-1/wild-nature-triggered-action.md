@@ -99,31 +99,3 @@ You companion doesn't need to wear their trinket around their neck: a condor mig
 ### 
 
 Although your companion can't wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.
-
-### 
-
-Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.
-
-### SIGNATURE ABILITY
-
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Come On!)
-
-### 
-
-You and your ally morph into each other, magically switching places.
-
-Beastheart, Magic, Melee, Strike, Weapon
-Melee 1
-
-Main action
-One creature or object
-
-**Effect:** If you and a willing ally are standing on the ground within 10 squares of each other, you can teleport to swap places. If you do, you gain an edge on this ability.
-
-### Power Roll + Intuition:
-
-**≤11** 3 + **1** damage
-
-12-16 5 + **1** damage
-
-17+ 7 + 1 damage

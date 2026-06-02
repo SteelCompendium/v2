@@ -5,6 +5,7 @@
 <div class="browse-index" markdown>
 
 - [Basics](basics.md)
+- [Beastheart Abilities](beastheart-abilities.md)
 - [Ferocity](ferocity.md)
 - [Heart of the Beast](heart-of-the-beast.md)
 - [Rampage](rampage.md)

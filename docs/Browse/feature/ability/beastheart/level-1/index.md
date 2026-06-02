@@ -5,6 +5,9 @@
 <div class="browse-index" markdown>
 
 - [Avalanche Rush](avalanche-rush.md)
+- [Bodyswap](bodyswap.md)
+- [Come On!](come-on.md)
+- [Covering Fire](covering-fire.md)
 - [Feral Strike](feral-strike.md)
 - [Heart of the Beast](heart-of-the-beast.md)
 - [Jaws of the Storm](jaws-of-the-storm.md)
@@ -12,6 +15,7 @@
 - [Living Arrow](living-arrow.md)
 - [Pyre](pyre.md)
 - [Shadow in the Mist](shadow-in-the-mist.md)
+- [Stormrage](stormrage.md)
 - [The Pack Defends](the-pack-defends.md)
 - [Thunderclap](thunderclap.md)
 
