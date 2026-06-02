@@ -27,6 +27,14 @@
 
 <div class="browse-index" markdown>
 
+- [Burning Lash](level-2/burning-lash.md)
+- [Fetch!](level-2/fetch.md)
+- [Foe Bowling](level-2/foe-bowling.md)
+- [Howling Gale](level-2/howling-gale.md)
+- [Jump Scare](level-2/jump-scare.md)
+- [Omnomnom](level-2/omnomnom.md)
+- [On You Like Your Shadow](level-2/on-you-like-your-shadow.md)
+- [One Roar and We're Back In the Fight](level-2/one-roar-and-were-back-in-the-fight.md)
 - [This One's Yours](level-2/this-ones-yours.md)
 
 </div>
