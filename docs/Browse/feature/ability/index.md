@@ -8,6 +8,7 @@
 <div class="browse-index" markdown>
 
 - [Level 1](beastheart/level-1/)
+- [Level 2](beastheart/level-2/)
 
 </div>
 
