@@ -82,6 +82,24 @@
 </details>
 
 <details class="browse-expand" markdown>
+<summary><a href="level-6/">Level 6</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Elements Unleashed](level-6/elements-unleashed.md)
+- [Killing Frost](level-6/killing-frost.md)
+- [Lead the Pack](level-6/lead-the-pack.md)
+- [Rolling Thunder](level-6/rolling-thunder.md)
+- [Sic 'Em!](level-6/sic-em.md)
+- [Soft Underbelly](level-6/soft-underbelly.md)
+- [Stare Down](level-6/stare-down.md)
+- [Wraith Heart](level-6/wraith-heart.md)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
 <summary><a href="level-8/">Level 8</a></summary>
 
 <div class="browse-index" markdown>
@@ -90,6 +108,24 @@
 - [On the Razor's Edge](level-8/on-the-razors-edge.md)
 - [Ride or Die](level-8/ride-or-die.md)
 - [Turn the World To Ash](level-8/turn-the-world-to-ash.md)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
+<summary><a href="level-9/">Level 9</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Banshee Howl](level-9/banshee-howl.md)
+- [Battle Frenzy](level-9/battle-frenzy.md)
+- [Behold the Face of Chaos](level-9/behold-the-face-of-chaos.md)
+- [For the Pack!](level-9/for-the-pack.md)
+- [Juggernaut](level-9/juggernaut.md)
+- [Let's Take This Outside](level-9/lets-take-this-outside.md)
+- [Relentless](level-9/relentless.md)
+- [Wild Hunt](level-9/wild-hunt.md)
 
 </div>
 

@@ -11,7 +11,9 @@
 - [Level 2](beastheart/level-2/)
 - [Level 3](beastheart/level-3/)
 - [Level 5](beastheart/level-5/)
+- [Level 6](beastheart/level-6/)
 - [Level 8](beastheart/level-8/)
+- [Level 9](beastheart/level-9/)
 
 </div>
 
