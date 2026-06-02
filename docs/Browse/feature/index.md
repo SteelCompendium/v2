@@ -9,6 +9,7 @@
 
 - [Censor](ability/censor/)
 - [Common](ability/common/)
+- [Companion](ability/companion/)
 - [Conduit](ability/conduit/)
 - [Dragon Knight](ability/dragon-knight/)
 - [Elementalist](ability/elementalist/)
@@ -33,8 +34,10 @@
 
 <div class="browse-index" markdown>
 
+- [Beastheart](trait/beastheart/)
 - [Censor](trait/censor/)
 - [Common](trait/common/)
+- [Companion](trait/companion/)
 - [Conduit](trait/conduit/)
 - [Devil](trait/devil/)
 - [Dragon Knight](trait/dragon-knight/)

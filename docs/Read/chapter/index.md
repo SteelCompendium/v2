@@ -28,6 +28,7 @@ search:
 - [Skills](skills.md)
 - [Tests](tests.md)
 - [The Basics](the-basics.md)
+- [THE BEASTHEART & THE FAERIES](the-beastheart-and-the-faeries.md)
 - [Titles](titles.md)
 - [Treasures](treasures.md)
 

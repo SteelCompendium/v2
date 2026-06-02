@@ -38,6 +38,17 @@
 </details>
 
 <details class="browse-expand" markdown>
+<summary><a href="companion/">Companion</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Wolf](companion/wolf/)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
 <summary><a href="conduit/">Conduit</a></summary>
 
 <div class="browse-index" markdown>

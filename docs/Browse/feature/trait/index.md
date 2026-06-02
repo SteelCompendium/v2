@@ -3,6 +3,18 @@
 ---
 
 <details class="browse-expand" markdown>
+<summary><a href="beastheart/">Beastheart</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Adding and Subtracting Actions](beastheart/adding-and-subtracting-actions.md)
+- [Companion Rules](beastheart/companion-rules.md)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
 <summary><a href="censor/">Censor</a></summary>
 
 <div class="browse-index" markdown>
@@ -30,6 +42,17 @@
 - [Main Actions](common/main-actions/)
 - [Maneuvers](common/maneuvers/)
 - [Move Actions](common/move-actions/)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
+<summary><a href="companion/">Companion</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Wolf](companion/wolf/)
 
 </div>
 

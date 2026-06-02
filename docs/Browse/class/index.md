@@ -4,6 +4,7 @@
 
 <div class="browse-index" markdown>
 
+- [THE BEASTHEART CLASS](beastheart.md)
 - [Censor](censor.md)
 - [Conduit](conduit.md)
 - [Elementalist](elementalist.md)
