@@ -13,6 +13,7 @@ level: "9"
 name: Battle Frenzy
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy
+subclass: punisher
 target: Special
 tier1: P < WEAK the target is battle-frenzied
 tier2: P < AVERAGE the target is battle-frenzied

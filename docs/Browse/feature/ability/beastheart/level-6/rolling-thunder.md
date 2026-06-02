@@ -15,6 +15,7 @@ name: Rolling Thunder
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder
 spend: '2 Ferocity: You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.'
+subclass: punisher
 target: Self
 tier1: 9 sonic damage; M < WEAK prone
 tier2: 13 sonic damage; M < AVERAGE prone

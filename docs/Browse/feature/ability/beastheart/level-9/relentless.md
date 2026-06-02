@@ -15,6 +15,7 @@ level: "9"
 name: Relentless
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/relentless
+subclass: guardian
 target: One enemy
 tier1: 11 + M damage; P < WEAK taunted (save ends)
 tier2: 17 + M damage; P < AVERAGE taunted (save ends)

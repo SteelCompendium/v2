@@ -3,6 +3,7 @@ class: beastheart
 level: "2"
 name: Stormheart
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-2/stormheart
+subclass: spark
 type: trait
 ---
 

@@ -10,6 +10,7 @@ keywords:
 level: "6"
 name: Wraith Heart
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/wraith-heart
+subclass: prowler
 target: Self
 type: ability
 ---

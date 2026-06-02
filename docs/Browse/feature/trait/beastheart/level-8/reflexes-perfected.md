@@ -3,6 +3,7 @@ class: beastheart
 level: "8"
 name: Reflexes Perfected
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-8/reflexes-perfected
+subclass: guardian
 type: trait
 ---
 

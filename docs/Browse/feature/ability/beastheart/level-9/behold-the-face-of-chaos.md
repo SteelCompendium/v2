@@ -15,6 +15,7 @@ level: "9"
 name: Behold the Face of Chaos
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos
+subclass: prowler
 target: One creature
 tier1: 13 + I psychic damage; P < WEAK frightened (save ends)
 tier2: 20 + I psychic damage; P < AVERAGE frightened (save ends)

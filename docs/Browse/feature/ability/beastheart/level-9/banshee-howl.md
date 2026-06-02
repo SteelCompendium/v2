@@ -14,6 +14,7 @@ name: Banshee Howl
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl
 spend: '1 Ferocity: This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.'
+subclass: guardian
 target: Each enemy in the area
 tier1: 5 sonic damage; I < WEAK frightened (save ends)
 tier2: 10 sonic damage; I < AVERAGE frightened (save ends)

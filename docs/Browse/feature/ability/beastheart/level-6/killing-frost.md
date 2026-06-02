@@ -13,6 +13,7 @@ level: "6"
 name: Killing Frost
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/killing-frost
+subclass: spark
 target: Each enemy in the area
 tier1: 5 cold damage; I < WEAK restrained (save ends)
 tier2: 7 cold damage; I < AVERAGE restrained (save ends)

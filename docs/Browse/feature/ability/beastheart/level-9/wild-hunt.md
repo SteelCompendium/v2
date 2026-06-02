@@ -13,6 +13,7 @@ level: "9"
 name: Wild Hunt
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt
+subclass: spark
 target: Each enemy in the area
 tier1: 9 damage
 tier2: 13 damage

@@ -10,6 +10,7 @@ keywords:
 level: "6"
 name: Lead the Pack
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/lead-the-pack
+subclass: punisher
 target: Self
 type: ability
 ---

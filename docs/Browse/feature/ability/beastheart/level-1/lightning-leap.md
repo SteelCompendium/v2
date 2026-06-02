@@ -12,6 +12,7 @@ level: "1"
 name: Lightning Leap
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/lightning-leap
 spend: '1 Ferocity: Your jump doesn''t provoke opportunity attacks.'
+subclass: prowler
 target: One creature
 type: ability
 ---

@@ -13,6 +13,7 @@ level: "6"
 name: Stare Down
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/stare-down
+subclass: guardian
 target: One creature
 tier1: 9 + I psychic damage; I < WEAK weakened (save ends)
 tier2: 13 + I psychic damage; I < AVERAGE weakened (save ends)

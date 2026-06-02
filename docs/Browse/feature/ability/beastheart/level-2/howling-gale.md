@@ -13,6 +13,7 @@ level: "2"
 name: Howling Gale
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/howling-gale
+subclass: spark
 target: Each enemy in the area
 tier1: 6 cold or sonic damage; slide 1
 tier2: 9 cold or sonic damage; slide 2

@@ -10,6 +10,7 @@ level: "1"
 name: Pyre
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/pyre
 spend: '1 Ferocity: When you teleport this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.'
+subclass: spark
 target: Self
 trigger: You take damage.
 type: ability

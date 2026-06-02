@@ -12,6 +12,7 @@ level: "1"
 name: Avalanche Rush
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/avalanche-rush
 spend: '1 Ferocity: If the target has M < STRONG, they are knocked prone.'
+subclass: punisher
 target: One creature
 type: ability
 ---

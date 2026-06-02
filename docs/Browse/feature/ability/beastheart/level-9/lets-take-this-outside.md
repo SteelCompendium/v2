@@ -11,6 +11,7 @@ keywords:
 level: "9"
 name: Let's Take This Outside
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/lets-take-this-outside
+subclass: prowler
 target: One creature
 type: ability
 ---

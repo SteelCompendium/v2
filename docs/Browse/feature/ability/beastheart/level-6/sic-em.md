@@ -15,6 +15,7 @@ name: Sic 'Em!
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/sic-em
 spend: '2 Ferocity: Your companion can use this ability as a triggered action against an enemy who damages you.'
+subclass: guardian
 target: One creature
 tier1: 11 + M damage; taunted (save ends); M < WEAK prone
 tier2: 16 + M damage; taunted (save ends); M < AVERAGE prone

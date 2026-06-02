@@ -11,6 +11,7 @@ level: "1"
 name: Thunderclap
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/thunderclap
 spend: '1 Ferocity: The forced movement distance is doubled.'
+subclass: punisher
 target: One enemy
 trigger: The target deals damage to a creature.
 type: ability

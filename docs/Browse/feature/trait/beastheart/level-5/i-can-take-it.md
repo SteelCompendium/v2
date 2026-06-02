@@ -3,6 +3,7 @@ class: beastheart
 level: "5"
 name: I Can Take It
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-5/i-can-take-it
+subclass: punisher
 type: trait
 ---
 

@@ -13,6 +13,7 @@ level: "9"
 name: For the Pack!
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack
+subclass: spark
 target: Self
 tier1: 20 cold, fire, lightning, or sonic damage
 tier2: 25 cold, fire, lightning, or sonic damage

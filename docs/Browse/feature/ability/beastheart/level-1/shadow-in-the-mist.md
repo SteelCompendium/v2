@@ -10,6 +10,7 @@ level: "1"
 name: Shadow in the Mist
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/shadow-in-the-mist
 spend: '1 Ferocity: You can move up to a number of squares equal to twice your Intuition score and ignore difficult terrain during this movement.'
+subclass: prowler
 target: Self
 trigger: An enemy within 10 squares deals damage to a creature other than you.
 type: ability

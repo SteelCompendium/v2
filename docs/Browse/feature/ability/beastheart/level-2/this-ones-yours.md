@@ -6,6 +6,7 @@ level: "2"
 name: This One's Yours
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours
 spend: '1 Ferocity: You and your companions can each use this free triggered action on the same turn.'
+subclass: punisher
 trigger: A creature force moved by another creature enters a space adjacent to you.
 type: ability
 ---

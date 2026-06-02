@@ -15,6 +15,7 @@ name: Burning Lash
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/burning-lash
 spend: '1 Ferocity: If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.'
+subclass: spark
 target: One creature
 tier1: 6 + I fire or lightning damage; M < WEAK prone
 tier2: 9 + I fire or lightning damage; M < AVERAGE prone

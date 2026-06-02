@@ -3,6 +3,7 @@ class: beastheart
 level: "5"
 name: Wildfire Pyre
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-5/wildfire-pyre
+subclass: spark
 type: trait
 ---
 

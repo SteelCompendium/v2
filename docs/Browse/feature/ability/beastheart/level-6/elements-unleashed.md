@@ -12,6 +12,7 @@ level: "6"
 name: Elements Unleashed
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/elements-unleashed
 spend: '2 Ferocity: You also transform.'
+subclass: spark
 target: Self
 type: ability
 ---

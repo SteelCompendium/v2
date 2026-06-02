@@ -13,6 +13,7 @@ level: "2"
 name: Jump Scare
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/jump-scare
+subclass: prowler
 target: Each enemy in the area
 tier1: 4 damage; P < WEAK frightened (save ends)
 tier2: 6 damage; P < AVERAGE frightened (save ends)

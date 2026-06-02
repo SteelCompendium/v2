@@ -10,6 +10,7 @@ level: "1"
 name: The Pack Defends
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends
 spend: '1 Ferocity: You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.'
+subclass: guardian
 target: One ally
 trigger: The target takes damage.
 type: ability

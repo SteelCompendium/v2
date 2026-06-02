@@ -10,6 +10,7 @@ keywords:
 level: "2"
 name: One Roar and We're Back In the Fight
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/one-roar-and-were-back-in-the-fight
+subclass: punisher
 target: One ally
 type: ability
 ---

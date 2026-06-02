@@ -3,6 +3,7 @@ class: beastheart
 level: "2"
 name: This One's Yours
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-2/this-ones-yours
+subclass: punisher
 type: trait
 ---
 

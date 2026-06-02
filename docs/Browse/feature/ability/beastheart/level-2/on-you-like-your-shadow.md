@@ -15,6 +15,7 @@ level: "2"
 name: On You Like Your Shadow
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/on-you-like-your-shadow
+subclass: prowler
 target: One creature or object
 tier1: 5 + M damage
 tier2: 8 + M damage

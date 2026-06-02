@@ -15,6 +15,7 @@ level: "2"
 name: Fetch!
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/fetch
+subclass: guardian
 target: One creature or object
 tier1: 6 + M damage; M < WEAK grabbed
 tier2: 8 + M damage; M < AVERAGE grabbed

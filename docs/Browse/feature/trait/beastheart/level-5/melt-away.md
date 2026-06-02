@@ -3,6 +3,7 @@ class: beastheart
 level: "5"
 name: Melt Away
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-5/melt-away
+subclass: prowler
 type: trait
 ---
 

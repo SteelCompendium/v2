@@ -14,6 +14,7 @@ level: "2"
 name: Omnomnom
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/omnomnom
+subclass: guardian
 target: One creature
 tier1: 6 + M damage; M < WEAK the target is swallowed
 tier2: 10 + M damage; M < AVERAGE the target is swallowed

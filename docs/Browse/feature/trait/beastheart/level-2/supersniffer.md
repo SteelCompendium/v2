@@ -3,6 +3,7 @@ class: beastheart
 level: "2"
 name: Supersniffer
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-2/supersniffer
+subclass: prowler
 type: trait
 ---
 

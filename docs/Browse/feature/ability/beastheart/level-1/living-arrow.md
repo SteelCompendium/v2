@@ -12,6 +12,7 @@ level: "1"
 name: Living Arrow
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/living-arrow
 spend: '1 Ferocity: The distance increases to ranged 15.'
+subclass: guardian
 target: One unoccupied space
 type: ability
 ---

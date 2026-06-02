@@ -3,6 +3,7 @@ class: beastheart
 level: "8"
 name: Built for Violence
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-8/built-for-violence
+subclass: punisher
 type: trait
 ---
 

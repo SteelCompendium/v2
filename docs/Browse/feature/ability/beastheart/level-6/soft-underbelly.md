@@ -14,6 +14,7 @@ level: "6"
 name: Soft Underbelly
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/soft-underbelly
+subclass: prowler
 target: One creature
 tier1: 10 + M damage; A < WEAK bleeding (save ends)
 tier2: 15 + M damage; A < AVERAGE bleeding (save ends)

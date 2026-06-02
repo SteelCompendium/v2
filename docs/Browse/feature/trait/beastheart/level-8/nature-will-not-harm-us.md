@@ -3,6 +3,7 @@ class: beastheart
 level: "8"
 name: Nature Will Not Harm Us
 scc: mcdm.beastheart.v1/feature.trait.beastheart.level-8/nature-will-not-harm-us
+subclass: spark
 type: trait
 ---
 

@@ -13,6 +13,7 @@ level: "9"
 name: Juggernaut
 power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut
+subclass: punisher
 target: Each creature
 tier1: 9 damage; vertical slide 2; M < WEAK prone
 tier2: 13 damage; vertical slide 4; M < AVERAGE prone

@@ -12,6 +12,7 @@ level: "1"
 name: Jaws of the Storm
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/jaws-of-the-storm
 spend: '1 Ferocity: The size of the cube increases by 1.'
+subclass: spark
 target: Each enemy in the area
 type: ability
 ---
