@@ -3,18 +3,6 @@
 ---
 
 <details class="browse-expand" markdown>
-<summary><a href="beastheart/">Beastheart</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Adding and Subtracting Actions](beastheart/adding-and-subtracting-actions.md)
-- [Companion Rules](beastheart/companion-rules.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
 <summary><a href="censor/">Censor</a></summary>
 
 <div class="browse-index" markdown>
