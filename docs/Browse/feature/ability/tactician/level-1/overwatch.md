@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
-spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).'
+spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) (EoT).'
 subtype: triggered
 target: One creature
 trigger: The target moves.

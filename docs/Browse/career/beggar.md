@@ -1,10 +1,10 @@
 ---
 language: Two languages
 name: Beggar
-perk: One interpersonal perk (*Quick Build:* [Spot the Tell](scc:mcdm.heroes.v1/perk/spot-the-tell).)
+perk: One interpersonal perk (*Quick Build:* [Spot the Tell](../perk/spot-the-tell.md).)
 scc: mcdm.heroes.v1/career/beggar
 skills:
-    - The [Rumors](scc:mcdm.heroes.v1/skill/rumors) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](scc:mcdm.heroes.v1/skill/empathize), [Endurance](scc:mcdm.heroes.v1/skill/endurance), [Rumors](scc:mcdm.heroes.v1/skill/rumors).)
+    - The [Rumors](../skill/rumors.md) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../skill/empathize.md), [Endurance](../skill/endurance.md), [Rumors](../skill/rumors.md).)
 type: career
 ---
 

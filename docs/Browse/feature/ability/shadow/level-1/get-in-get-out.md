@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 3 Insight
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed, dividing that movement before or after your strike as desired.
+effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your strike as desired.
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
     - Melee

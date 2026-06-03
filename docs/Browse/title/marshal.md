@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Marshal
-prerequisite: 'You join an organization that hunts criminals, such as the Far Mariners (see Orden and the Timescape in Chapter 1: [The Basics](scc:mcdm.heroes.v1/chapter/the-basics)), or you are deputized to act for the local authorities.'
+prerequisite: 'You join an organization that hunts criminals, such as the Far Mariners (see Orden and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.'
 scc: mcdm.heroes.v1/title/marshal
 type: title
 ---

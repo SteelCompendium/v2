@@ -16,9 +16,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike
 subtype: triggered
 target: One creature
-tier1: 7 + A damage; I < WEAK, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-tier2: 10 + A damage; I < AVERAGE, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
-tier3: 13 + A damage; I < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier1: 7 + A damage; I < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+tier2: 10 + A damage; I < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+tier3: 13 + A damage; I < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 trigger: The target moves or uses a main action.
 type: ability
 ---

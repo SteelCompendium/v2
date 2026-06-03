@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 3 Wrath
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed in a straight line toward the target after pushing them.
+effect: You can [shift](../../../../movement/shifting.md) up to your speed in a straight line toward the target after pushing them.
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
     - Melee

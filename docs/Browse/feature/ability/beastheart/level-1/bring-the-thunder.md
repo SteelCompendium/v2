@@ -14,9 +14,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder
 spend: '1 Ferocity: This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.'
 target: Each enemy in the area
-tier1: 3 sonic damage; push 1; P < WEAK [taunted](scc:mcdm.heroes.v1/condition/taunted) (save ends)
-tier2: 5 sonic damage; push 2; P < AVERAGE [taunted](scc:mcdm.heroes.v1/condition/taunted) (save ends)
-tier3: 7 sonic damage; push 3; P < STRONG [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 3 sonic damage; push 1; P < WEAK [taunted](../../../../condition/taunted.md) (save ends)
+tier2: 5 sonic damage; push 2; P < AVERAGE [taunted](../../../../condition/taunted.md) (save ends)
+tier3: 7 sonic damage; push 3; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

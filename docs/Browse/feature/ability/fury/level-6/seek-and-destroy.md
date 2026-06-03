@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 9 Ferocity
 distance: Melee 1
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed.
+effect: You [shift](../../../../movement/shifting.md) up to your speed.
 flavor: You break through the enemy lines to make an example.
 keywords:
     - Melee
@@ -14,9 +14,9 @@ name: Seek and Destroy
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy
 target: One creature
-tier1: 4 + M damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: 6 + M damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: 10 + M damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 4 + M damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 6 + M damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 10 + M damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

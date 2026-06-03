@@ -14,9 +14,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm
 subtype: signature
 target: One creature
-tier1: 2 + P psychic damage; P < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
-tier3: 7 + P psychic damage; P < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends)
+tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 type: ability
 ---
 

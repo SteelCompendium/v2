@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 3 Insight
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) into any square the target leaves when you slide them.
+effect: You can [shift](../../../../movement/shifting.md) into any square the target leaves when you slide them.
 flavor: Your attack leaves them reeling, allowing you to follow up.
 keywords:
     - Melee

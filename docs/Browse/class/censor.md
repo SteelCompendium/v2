@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). (*Quick Build:* [Intimidate](scc:mcdm.heroes.v1/skill/intimidate), [Religion](scc:mcdm.heroes.v1/skill/religion).)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2

@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 3 Discipline
 distance: Melee 1
-effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](scc:mcdm.heroes.v1/movement/forced-movement), you can use a free triggered action to [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. You must end this [shift](scc:mcdm.heroes.v1/movement/shifting) adjacent to the target.
+effect: Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
 flavor: You strike, and for the next few moments, your enemy can't escape you.
 keywords:
     - Melee

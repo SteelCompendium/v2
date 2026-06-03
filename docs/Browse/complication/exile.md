@@ -1,5 +1,5 @@
 ---
-benefit: 'You know one extant language of your choice (see Languages in Orden in Chapter 4: [Background](scc:mcdm.heroes.v1/chapter/background)).'
+benefit: 'You know one extant language of your choice (see Languages in Orden in Chapter 4: [Background](../../Read/heroes/background.md)).'
 drawback: If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 name: Exile
 scc: mcdm.heroes.v1/complication/exile

@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: beastheart
 distance: Ranged 10
-effect: If your companion is within range and can fit into the target space, they [teleport](scc:mcdm.heroes.v1/movement/teleport) to the space. They can then make a melee free strike.
+effect: If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.
 flavor: You point, and your companion appears.
 keywords:
     - Beastheart

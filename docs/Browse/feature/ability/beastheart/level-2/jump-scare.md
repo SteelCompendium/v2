@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: 2 burst
-effect: Your companion [shifts](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
+effect: Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
 flavor: Surprised to see me?
 keywords:
     - Area
@@ -15,9 +15,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/jump-scare
 subclass: prowler
 target: Each enemy in the area
-tier1: 4 damage; P < WEAK [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: 6 damage; P < AVERAGE [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: 10 damage; P < STRONG [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 4 damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 6 damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 10 damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

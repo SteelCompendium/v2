@@ -10,8 +10,8 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
 target: One creature
 tier1: No effect.
-tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
-tier3: The target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by you.
+tier2: You can grab the target, but if you do, the target can make a melee free strike against you before they are [grabbed](../../../../condition/grabbed.md).
+tier3: The target is [grabbed](../../../../condition/grabbed.md) by you.
 type: ability
 ---
 

@@ -4,7 +4,7 @@ name: Sailor
 perk: One exploration perk (*Quick Build:* Put Your Back Into It!)
 scc: mcdm.heroes.v1/career/sailor
 skills:
-    - Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](scc:mcdm.heroes.v1/skill/climb), [Gymnastics](scc:mcdm.heroes.v1/skill/gymnastics), [Swim](scc:mcdm.heroes.v1/skill/swim).)
+    - Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), [Swim](../skill/swim.md).)
 type: career
 ---
 

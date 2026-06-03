@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Melee 1
-effect: If your companion is adjacent to the target, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can ignore the target's stability.
+effect: If your companion is adjacent to the target, this [forced movement](../../../../movement/forced-movement.md) can ignore the target's stability.
 flavor: Harnessing your companion's strength, you send your foe flying.
 keywords:
     - Beastheart
@@ -15,9 +15,9 @@ name: One, Two, Three, Heave
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave
 target: One creature
-tier1: 10 + M damage; vertical push 4; [prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 15 + M damage; vertical push 6; [prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 20 + M damage; vertical push 8; [prone](scc:mcdm.heroes.v1/condition/prone)
+tier1: 10 + M damage; vertical push 4; [prone](../../../../condition/prone.md)
+tier2: 15 + M damage; vertical push 6; [prone](../../../../condition/prone.md)
+tier3: 20 + M damage; vertical push 8; [prone](../../../../condition/prone.md)
 type: ability
 ---
 

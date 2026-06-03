@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You take half the damage from the triggering effect and can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Agility score.
+effect: You take half the damage from the triggering effect and can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Agility score.
 flavor: You are as elusive as a hummingbird.
 keywords:
     - '-'

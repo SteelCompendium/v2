@@ -13,9 +13,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 subtype: signature
 target: One creature of your size or smaller
-tier1: 2 + M damage; M < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier2: 5 + M damage; M < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier3: 7 + M damage; M < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

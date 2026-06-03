@@ -1,7 +1,7 @@
 ---
 effect: 'Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Unchained
-prerequisite: You have the [Heist Hero](scc:mcdm.heroes.v1/title/heist-hero) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
+prerequisite: You have the [Heist Hero](heist-hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 scc: mcdm.heroes.v1/title/unchained
 type: title
 ---

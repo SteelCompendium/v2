@@ -1,6 +1,6 @@
 ---
-benefit: While you are [taunted](scc:mcdm.heroes.v1/condition/taunted) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
-drawback: In combat, whenever a creature makes a strike against you and you are not [taunted](scc:mcdm.heroes.v1/condition/taunted), you are [taunted](scc:mcdm.heroes.v1/condition/taunted) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
+benefit: While you are [taunted](../condition/taunted.md) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
+drawback: In combat, whenever a creature makes a strike against you and you are not [taunted](../condition/taunted.md), you are [taunted](../condition/taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
 name: Wrathful Spirit
 scc: mcdm.heroes.v1/complication/wrathful-spirit
 type: complication

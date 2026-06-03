@@ -16,7 +16,7 @@ scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth
 target: Each enemy in the area
 tier1: 3 damage
 tier2: 5 damage
-tier3: 8 damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

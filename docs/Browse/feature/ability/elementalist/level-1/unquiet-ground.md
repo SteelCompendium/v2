@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 distance: 2 cube within 10
-effect: The ground beneath the area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
+effect: The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
 keywords:
     - Area

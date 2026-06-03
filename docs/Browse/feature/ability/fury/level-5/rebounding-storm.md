@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 9 Ferocity
 distance: Melee 1
-effect: When a target would end this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) remains, this effect continues if the target collides with another creature or object.
+effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 flavor: You knock around enemies like playthings.
 keywords:
     - Melee

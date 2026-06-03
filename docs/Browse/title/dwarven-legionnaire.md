@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Dwarven Legionnaire
-prerequisite: You fight alongside three or more [dwarves](scc:mcdm.heroes.v1/ancestry/dwarf).
+prerequisite: You fight alongside three or more [dwarves](../ancestry/dwarf.md).
 scc: mcdm.heroes.v1/title/dwarven-legionnaire
 type: title
 ---

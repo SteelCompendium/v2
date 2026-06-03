@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
-effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain).
+effect: You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../../../../movement/difficult-terrain.md).
 flavor: It's easier to destroy than to create. Much easier, in fact!
 keywords:
     - Melee

@@ -1,5 +1,5 @@
 ---
-benefit: You can secretly call on your [betrothed](scc:mcdm.heroes.v1/complication/betrothed) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
+benefit: You can secretly call on your [betrothed](betrothed.md) for favors. Though they support you from afar, they might be constrained in how much aid they provide—and they can't openly reveal their connection with you.
 drawback: When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 name: Forbidden Romance
 scc: mcdm.heroes.v1/complication/forbidden-romance

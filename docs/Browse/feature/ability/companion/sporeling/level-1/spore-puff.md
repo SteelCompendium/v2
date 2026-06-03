@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Spore Puff
 scc: mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff
-spend: '1 Ferocity: If the target has M < STRONG, they are [dazed](scc:mcdm.heroes.v1/condition/dazed) until the end of their next turn.'
+spend: '1 Ferocity: If the target has M < STRONG, they are [dazed](../../../../../condition/dazed.md) until the end of their next turn.'
 subtype: signature
 target: One enemy
 type: ability

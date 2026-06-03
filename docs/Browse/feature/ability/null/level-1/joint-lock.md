@@ -14,9 +14,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/joint-lock
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; A < WEAK, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier2: 7 + A damage; A < AVERAGE, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier3: 9 + A damage; A < STRONG, [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

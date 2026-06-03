@@ -15,9 +15,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast
 subtype: signature
 target: One creature or object
-tier1: 2 + R damage; M < WEAK[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 4 + R damage; M < AVERAGE[, prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 6 + R damage; M < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier1: 2 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
+tier2: 4 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)
+tier3: 6 + R damage; M < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

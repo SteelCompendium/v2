@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 cube within 10
-effect: The area lasts until the start of your next turn. It is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies, and you and your allies have concealment while in the area.
+effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
     - Area

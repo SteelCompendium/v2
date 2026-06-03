@@ -1,10 +1,10 @@
 ---
 language: Two languages
 name: Explorer
-perk: One exploration perk (*Quick Build:* [Wood Wise](scc:mcdm.heroes.v1/perk/wood-wise).)
+perk: One exploration perk (*Quick Build:* [Wood Wise](../perk/wood-wise.md).)
 scc: mcdm.heroes.v1/career/explorer
 skills:
-    - The [Navigate](scc:mcdm.heroes.v1/skill/navigate) skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](scc:mcdm.heroes.v1/skill/climb), [Heal](scc:mcdm.heroes.v1/skill/heal), [Navigate](scc:mcdm.heroes.v1/skill/navigate).)
+    - The [Navigate](../skill/navigate.md) skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../skill/climb.md), [Heal](../skill/heal.md), [Navigate](../skill/navigate.md).)
 type: career
 ---
 

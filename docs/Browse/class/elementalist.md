@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Elementalist
 scc: mcdm.heroes.v1/class/elementalist
 skills:
-    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
+    - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2

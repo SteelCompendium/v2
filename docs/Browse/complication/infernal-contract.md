@@ -1,6 +1,6 @@
 ---
-benefit: 'Whenever you are present for a battle in which both sides have creatures who aren''t surprised, your side determines who goes first if the d10 roll is a 4 or higher (see Combat Round in Chapter 10: [Combat](scc:mcdm.heroes.v1/chapter/combat)).'
-drawback: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](scc:mcdm.heroes.v1/ancestry/devil) after you and those you care about.
+benefit: 'Whenever you are present for a battle in which both sides have creatures who aren''t surprised, your side determines who goes first if the d10 roll is a 4 or higher (see Combat Round in Chapter 10: [Combat](../../Read/heroes/combat.md)).'
+drawback: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](../ancestry/devil.md) after you and those you care about.
 name: Infernal Contract
 scc: mcdm.heroes.v1/complication/infernal-contract
 type: complication

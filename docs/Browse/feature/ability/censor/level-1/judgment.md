@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: Ranged 10
-effect: The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](scc:mcdm.heroes.v1/class/censor) judges the target.
+effect: The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../class/censor.md) judges the target.
 flavor: You utter a prayer that outlines your foe in holy energy.
 keywords:
     - Magic

@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Maestro
-prerequisite: You visit the realms of gods, [devils](scc:mcdm.heroes.v1/ancestry/devil), or other immortal beings and hear a note of the Music of Creation.
+prerequisite: You visit the realms of gods, [devils](../ancestry/devil.md), or other immortal beings and hear a note of the Music of Creation.
 scc: mcdm.heroes.v1/title/maestro
 type: title
 ---

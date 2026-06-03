@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 9 Piety
 distance: Three 10 x 1 lines within 1
-effect: The targets are [force moved](scc:mcdm.heroes.v1/movement/forced-movement) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 flavor: Lightning bursts forth from your body in several directions.
 keywords:
     - Area

@@ -3,7 +3,7 @@ average_potency: Might − 1
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the [Nature](scc:mcdm.heroes.v1/skill/nature) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+    - 'You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 strong_potency: Might
 type: class
 weak_potency: Might − 2

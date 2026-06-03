@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: Melee 2
-effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](scc:mcdm.heroes.v1/condition/prone).
+effect: The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
 flavor: Your foe gets a glimpse of how it will end for them.
 keywords:
     - Chronopathy

@@ -1,6 +1,6 @@
 ---
 benefit: You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
-drawback: You take a bane on any test made to know about anything related to the world where you [crash landed](scc:mcdm.heroes.v1/complication/crash-landed).
+drawback: You take a bane on any test made to know about anything related to the world where you [crash landed](crash-landed.md).
 name: Crash Landed
 scc: mcdm.heroes.v1/complication/crash-landed
 type: complication

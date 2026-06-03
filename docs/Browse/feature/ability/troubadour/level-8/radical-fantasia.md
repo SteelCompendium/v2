@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain), and any ability they use that imposes [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) gains a +2 bonus to the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
+effect: While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../../../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../../../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../../../movement/forced-movement.md) distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.
 flavor: "\U0001D160♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪"
 keywords:
     - Area

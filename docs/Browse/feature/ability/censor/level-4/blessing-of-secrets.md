@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: 3 aura
-effect: Each creature in the area has a double edge on tests made to [hide](scc:mcdm.heroes.v1/skill/hide) or [sneak](scc:mcdm.heroes.v1/skill/sneak). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+effect: Each creature in the area has a double edge on tests made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 flavor: You project an illusory aura that makes you and allies harder to notice.
 keywords:
     - Area

@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: Ranged 10
-effect: If the target is already [frightened](scc:mcdm.heroes.v1/condition/frightened) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
+effect: If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 flavor: I am but a vessel. Your own deeds weigh upon you.
 keywords:
     - Magic
@@ -14,9 +14,9 @@ name: It Is Justice You Fear
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear
 target: One creature
-tier1: 8 + M holy damage; P < WEAK, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier2: 12 + M holy damage; P < AVERAGE, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
-tier3: 15 + M holy damage; P < STRONG, [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends)
+tier1: 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+tier2: 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+tier3: 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 type: ability
 ---
 

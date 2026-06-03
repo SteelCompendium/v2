@@ -3,7 +3,7 @@ action_type: Maneuver
 class: beastheart
 companion: drake
 distance: 1 or 2 cube within 1
-effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](scc:mcdm.beastheart.v1/feature.trait.companion.drake.level-1/elementally-attuned)) equal to the drake's Might score.
+effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../../../trait/companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
 flavor: The drake exhales a blast of flesh-melting energy.
 keywords:
     - Area

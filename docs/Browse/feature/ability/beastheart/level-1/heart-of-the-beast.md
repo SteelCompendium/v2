@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: beastheart
 distance: Self
-effect: You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner [teleports](scc:mcdm.heroes.v1/movement/teleport) to your space from any distance, even if they don't have line of effect to you.
+effect: You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner [teleports](../../../../movement/teleport.md) to your space from any distance, even if they don't have line of effect to you.
 flavor: '"Better look away—this might not be pretty."'
 keywords:
     - Magic
@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Heart of the Beast
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/heart-of-the-beast
-spend: '1 Ferocity: Your partner can [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed.'
+spend: '1 Ferocity: Your partner can [shift](../../../../movement/shifting.md) up to their speed.'
 target: Self
 type: ability
 ---

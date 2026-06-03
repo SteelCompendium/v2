@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Fleet Admiral
-prerequisite: You have the [Corsair](scc:mcdm.heroes.v1/title/corsair) title, and you lead a fleet of at least three ships.
+prerequisite: You have the [Corsair](corsair.md) title, and you lead a fleet of at least three ships.
 scc: mcdm.heroes.v1/title/fleet-admiral
 type: title
 ---

@@ -14,9 +14,9 @@ power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/kinetic-strike
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
-tier2: 5 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 1
-tier3: 6 + A damage; [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT), slide 2
+tier1: 4 + A damage; [taunted](../../../../condition/taunted.md) (EoT)
+tier2: 5 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 1
+tier3: 6 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 2
 type: ability
 ---
 

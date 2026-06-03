@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](scc:mcdm.heroes.v1/condition/frightened) of the creature who dealt the damage (save ends).
+effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
 flavor: The tide begins to turn.
 keywords:
     - '-'

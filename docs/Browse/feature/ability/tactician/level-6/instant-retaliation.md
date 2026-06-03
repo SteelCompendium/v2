@@ -4,7 +4,7 @@ class: tactician
 cost: 9 Focus
 distance: Melee 1
 effect: The target takes half the damage. You then make a power roll against the triggering creature.
-flavor: You [parry](scc:mcdm.heroes.v1/feature.ability.tactician.level-1/parry) with almost supernatural speed.
+flavor: You [parry](../level-1/parry.md) with almost supernatural speed.
 keywords:
     - Melee
     - Weapon
@@ -14,9 +14,9 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 subtype: triggered
 target: One ally
-tier1: A < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: A < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: A < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---

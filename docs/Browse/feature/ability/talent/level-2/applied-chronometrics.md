@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](scc:mcdm.heroes.v1/condition/dazed), and they can use an additional maneuver on their turn. If a target is already [dazed](scc:mcdm.heroes.v1/condition/dazed), that condition ends for them.
+effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
     - Chronopathy

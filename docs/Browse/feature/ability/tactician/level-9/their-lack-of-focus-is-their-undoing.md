@@ -14,9 +14,9 @@ name: Their Lack of Focus Is Their Undoing
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing
 target: Three enemies
-tier1: R < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier2: R < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
-tier3: R < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) (save ends)
+tier1: R < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: R < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: R < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 

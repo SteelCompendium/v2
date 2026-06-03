@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 3 Discipline
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
     - Melee

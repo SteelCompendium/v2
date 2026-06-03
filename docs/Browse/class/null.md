@@ -3,7 +3,7 @@ average_potency: Intuition − 1
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the [Psionics](scc:mcdm.heroes.v1/skill/psionics) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Timescape.)'
+    - 'You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)'
 strong_potency: Intuition
 type: class
 weak_potency: Intuition − 2

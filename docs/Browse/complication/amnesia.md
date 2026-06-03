@@ -1,5 +1,5 @@
 ---
-benefit: 'You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)) that might have some connection with your former life.'
+benefit: 'You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapter 13: [Rewards](../../Read/heroes/rewards.md)) that might have some connection with your former life.'
 drawback: You take a bane on any test made to recall lore.
 name: Amnesia
 scc: mcdm.heroes.v1/complication/amnesia

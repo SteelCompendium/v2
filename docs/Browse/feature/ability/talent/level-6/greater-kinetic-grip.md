@@ -14,9 +14,9 @@ name: Greater Kinetic Grip
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
 target: One creature or object
-tier1: Slide 4 + R; M < WEAK, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
-tier2: Slide 8 + R; M < AVERAGE, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
-tier3: Slide 12 + R; [prone](scc:mcdm.heroes.v1/condition/prone); M < STRONG, the [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) is vertical
+tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 type: ability
 ---
 

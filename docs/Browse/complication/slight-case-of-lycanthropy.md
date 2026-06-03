@@ -1,6 +1,6 @@
 ---
 benefit: Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
-drawback: At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+drawback: At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can [shift](../movement/shifting.md) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 name: Slight Case of Lycanthropy
 scc: mcdm.heroes.v1/complication/slight-case-of-lycanthropy
 type: complication

@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 3 squares.
+effect: You can [shift](../../../../movement/shifting.md) up to 3 squares.
 flavor: And they said practicing fencing was a waste!
 keywords:
     - Melee

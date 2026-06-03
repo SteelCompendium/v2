@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) until the end of their next turn.
+effect: The target is [taunted](../../../condition/taunted.md) until the end of their next turn.
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
     - Melee

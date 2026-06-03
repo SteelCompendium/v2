@@ -14,9 +14,9 @@ name: Stunning Blow
 power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow
 target: One creature or object
-tier1: 4 + A damage; I < WEAK, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 5 + A damage; I < AVERAGE, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 7 + A damage; I < STRONG, [dazed](scc:mcdm.heroes.v1/condition/dazed) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier1: 4 + A damage; I < WEAK, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 + A damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 7 + A damage; I < STRONG, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

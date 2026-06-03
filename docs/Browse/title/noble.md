@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Noble
-prerequisite: A [monarch](scc:mcdm.heroes.v1/title/monarch) or important [noble](scc:mcdm.heroes.v1/title/noble) grants you a [noble](scc:mcdm.heroes.v1/title/noble) rank.
+prerequisite: A [monarch](monarch.md) or important [noble](noble.md) grants you a [noble](noble.md) rank.
 scc: mcdm.heroes.v1/title/noble
 type: title
 ---

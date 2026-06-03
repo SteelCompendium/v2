@@ -14,9 +14,9 @@ name: Blood for Blood!
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood
 target: One creature or object
-tier1: 4 + M damage; M < WEAK, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 6 + M damage; M < AVERAGE, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 10 + M damage; M < STRONG, [bleeding](scc:mcdm.heroes.v1/condition/bleeding) and [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier1: 4 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 6 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 10 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

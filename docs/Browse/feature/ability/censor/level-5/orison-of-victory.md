@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 9 Wrath
 distance: 1 burst
-effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](scc:mcdm.heroes.v1/condition/prone) can stand up.
+effect: A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
 flavor: You channel your god's will to overcome hardship and inflict pain.
 keywords:
     - Area

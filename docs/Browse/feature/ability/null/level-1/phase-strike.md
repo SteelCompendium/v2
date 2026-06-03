@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 5 Discipline
 distance: Melee 1
-effect: A target who goes out of phase is [slowed](scc:mcdm.heroes.v1/condition/slowed), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
     - Melee

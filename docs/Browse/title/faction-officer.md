@@ -1,7 +1,7 @@
 ---
 effect: 'You are given a position of great authority in your faction. Additionally, you gain the following benefits:'
 name: Faction Officer
-prerequisite: You have the [Faction Member](scc:mcdm.heroes.v1/title/faction-member) title, and you greatly advance the faction's goals.
+prerequisite: You have the [Faction Member](faction-member.md) title, and you greatly advance the faction's goals.
 scc: mcdm.heroes.v1/title/faction-officer
 type: title
 ---

@@ -3,7 +3,7 @@ average_potency: Presence − 1
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the [Read Person](scc:mcdm.heroes.v1/skill/read-person) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](scc:mcdm.heroes.v1/skill/read-person), Rumors.)'
+    - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
 strong_potency: Presence
 type: class
 weak_potency: Presence − 2

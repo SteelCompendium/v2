@@ -2,7 +2,7 @@
 action_type: Main action
 class: beastheart
 distance: Melee 1 or ranged 5
-effect: Your companion can make a melee free strike. You both [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Intuition score.
+effect: Your companion can make a melee free strike. You both [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score.
 flavor: You launch a flurry of attacks to cover your movement.
 keywords:
     - Beastheart

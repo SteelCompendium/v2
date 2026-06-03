@@ -1,5 +1,5 @@
 ---
-effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](scc:mcdm.heroes.v1/condition/frightened), [slowed](scc:mcdm.heroes.v1/condition/slowed), and [taunted](scc:mcdm.heroes.v1/condition/taunted) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), and [taunted](../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 keywords:
     - Psionic
 name: 2nd-Echelon Consumables

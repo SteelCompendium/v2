@@ -1,11 +1,11 @@
 ---
 language: One language
 name: Farmer
-perk: One exploration perk (*Quick Build:* [Monster Whisperer](scc:mcdm.heroes.v1/perk/monster-whisperer).)
+perk: One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
 project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
 skills:
-    - The [Handle Animals](scc:mcdm.heroes.v1/skill/handle-animals) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](scc:mcdm.heroes.v1/skill/drive), [Handle Animals](scc:mcdm.heroes.v1/skill/handle-animals), [Lift](scc:mcdm.heroes.v1/skill/lift).)
+    - The [Handle Animals](../skill/handle-animals.md) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](../skill/drive.md), [Handle Animals](../skill/handle-animals.md), [Lift](../skill/lift.md).)
 type: career
 ---
 

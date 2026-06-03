@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 9 Piety
 distance: 4 burst
-effect: Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](scc:mcdm.heroes.v1/condition/prone).
+effect: Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../../../condition/prone.md).
 flavor: With a gesture, you restore your health and that of your allies.
 keywords:
     - Area

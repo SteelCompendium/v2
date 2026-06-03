@@ -2,7 +2,7 @@
 action_type: Triggered
 class: shadow
 distance: Self
-effect: You take half the triggering damage, then can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares after the triggering effect resolves. If you end this [shift](scc:mcdm.heroes.v1/movement/shifting) with concealment or cover, you can use the Hide maneuver even if you are observed.
+effect: You take half the triggering damage, then can [shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../../../../movement/shifting.md) with concealment or cover, you can use the Hide maneuver even if you are observed.
 flavor: When an enemy attacks, you roll with the impact to reduce the harm.
 keywords:
     - '-'

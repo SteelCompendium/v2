@@ -2,8 +2,8 @@
 action_type: Main action
 class: elementalist
 distance: Melee 1
-effect: You can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to a number of squares equal to your Reason score.
-flavor: You absorb the life energy of another creature and use it to [teleport](scc:mcdm.heroes.v1/movement/teleport).
+effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your Reason score.
+flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
 keywords:
     - Magic
     - Melee

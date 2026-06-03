@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 3 Drama
 distance: Self; see below
-effect: You [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](scc:mcdm.heroes.v1/movement/shifting).
+effect: You [shift](../../../../movement/shifting.md) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md).
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 keywords:
     - Melee

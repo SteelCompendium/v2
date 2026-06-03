@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Ratcatcher
-prerequisite: You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](scc:mcdm.heroes.v1/title/monarch).
+prerequisite: You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](monarch.md).
 scc: mcdm.heroes.v1/title/ratcatcher
 type: title
 ---

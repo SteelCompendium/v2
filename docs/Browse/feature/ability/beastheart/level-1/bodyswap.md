@@ -2,7 +2,7 @@
 action_type: Main action
 class: beastheart
 distance: Melee 1
-effect: If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](scc:mcdm.heroes.v1/movement/teleport) to swap places. If you do, you gain an edge on this ability.
+effect: If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](../../../../movement/teleport.md) to swap places. If you do, you gain an edge on this ability.
 flavor: You and your ally morph into each other, magically switching places.
 keywords:
     - Beastheart

@@ -1,10 +1,10 @@
 ---
 language: Two languages
 name: Watch Officer
-perk: One exploration perk (*Quick Build:* [Team Leader](scc:mcdm.heroes.v1/perk/team-leader).)
+perk: One exploration perk (*Quick Build:* [Team Leader](../perk/team-leader.md).)
 scc: mcdm.heroes.v1/career/watch-officer
 skills:
-    - Alertness (from the intrigue skill group), plus two more skills from the intrigue group (*Quick Build:* [Alertness](scc:mcdm.heroes.v1/skill/alertness), [Search](scc:mcdm.heroes.v1/skill/search), Track.)
+    - Alertness (from the intrigue skill group), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../skill/alertness.md), [Search](../skill/search.md), Track.)
 type: career
 ---
 

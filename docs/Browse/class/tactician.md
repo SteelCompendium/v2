@@ -3,7 +3,7 @@ average_potency: Reason − 1
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the [Lead](scc:mcdm.heroes.v1/skill/lead) skill (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)'
 strong_potency: Reason
 type: class
 weak_potency: Reason − 2

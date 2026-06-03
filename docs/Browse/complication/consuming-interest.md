@@ -1,5 +1,5 @@
 ---
-benefit: 'You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different project source, and the project goal increases. (See Chapter 12: [Downtime Projects](scc:mcdm.heroes.v1/chapter/downtime-projects).)'
+benefit: 'You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different project source, and the project goal increases. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md).)'
 drawback: You can't imagine ever being wrong on the topic of your obsession. Whenever you make a test to recall lore using your chosen skill, the Director makes the test in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 name: Consuming Interest
 scc: mcdm.heroes.v1/complication/consuming-interest

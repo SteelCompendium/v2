@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](scc:mcdm.heroes.v1/condition/bleeding) until the end of their turn.
+effect: While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
 flavor: And toniiight we can truly say ♪ They will alllways find a way!♪
 keywords:
     - Area

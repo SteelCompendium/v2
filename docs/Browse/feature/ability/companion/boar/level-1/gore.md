@@ -12,7 +12,7 @@ keywords:
 level: "1"
 name: Gore
 scc: mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore
-spend: '1 Ferocity: The target is [bleeding](scc:mcdm.heroes.v1/condition/bleeding) until the end of their next turn.'
+spend: '1 Ferocity: The target is [bleeding](../../../../../condition/bleeding.md) until the end of their next turn.'
 subtype: signature
 target: One creature or object
 type: ability

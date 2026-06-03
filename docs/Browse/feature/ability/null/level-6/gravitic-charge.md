@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](scc:mcdm.heroes.v1/movement/forced-movement)ment had ended, but you keep moving through that creature's space.
+effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
     - Psionic

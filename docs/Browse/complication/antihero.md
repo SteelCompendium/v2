@@ -1,6 +1,6 @@
 ---
-benefit: You have 3 [antihero](scc:mcdm.heroes.v1/complication/antihero) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](scc:mcdm.heroes.v1/complication/antihero) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](scc:mcdm.heroes.v1/complication/antihero) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](scc:mcdm.heroes.v1/complication/antihero) token.
-drawback: While you have fewer than 3 [antihero](scc:mcdm.heroes.v1/complication/antihero) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+benefit: You have 3 [antihero](antihero.md) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](antihero.md) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](antihero.md) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](antihero.md) token.
+drawback: While you have fewer than 3 [antihero](antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 name: Antihero
 scc: mcdm.heroes.v1/complication/antihero
 type: complication

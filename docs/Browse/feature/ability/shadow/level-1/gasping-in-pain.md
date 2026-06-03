@@ -16,7 +16,7 @@ subtype: signature
 target: One creature
 tier1: 3 + A damage
 tier2: 5 + A damage
-tier3: 8 + A damage; I < STRONG[, prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: 8 + A damage; I < STRONG[, prone](../../../../condition/prone.md)
 type: ability
 ---
 

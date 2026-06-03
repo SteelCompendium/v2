@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 3 Drama
 distance: 3 cube within 10
-effect: The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies.
+effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
     - Area
@@ -14,9 +14,9 @@ name: Quick Rewrite
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite
 target: Each enemy in the area
-tier1: 4 damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 5 damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 6 damage; P < STRONG, [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends)
+tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 type: ability
 ---
 

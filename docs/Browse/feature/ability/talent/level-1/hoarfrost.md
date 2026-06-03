@@ -14,9 +14,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 subtype: signature
 target: One creature
-tier1: 2 + R cold damage; M < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier2: 4 + R cold damage; M < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
-tier3: 6 + R cold damage; M < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
+tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
+tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
 type: ability
 ---
 

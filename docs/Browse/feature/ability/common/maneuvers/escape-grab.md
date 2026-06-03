@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 distance: Self
-effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](scc:mcdm.heroes.v1/condition/grabbed).
+effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
 keywords:
     - '-'
 name: Escape Grab

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 7 Wrath
 distance: 2 aura
-effect: Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+effect: Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
 keywords:
     - Area

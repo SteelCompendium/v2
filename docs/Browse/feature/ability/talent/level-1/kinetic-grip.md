@@ -15,7 +15,7 @@ subtype: signature
 target: One creature or object
 tier1: Slide 2 + R
 tier2: Slide 4 + R
-tier3: Slide 6 + R; [prone](scc:mcdm.heroes.v1/condition/prone)
+tier3: Slide 6 + R; [prone](../../../../condition/prone.md)
 type: ability
 ---
 

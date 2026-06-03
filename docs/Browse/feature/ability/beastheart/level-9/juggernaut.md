@@ -15,9 +15,9 @@ power_roll_characteristic: Intuition
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut
 subclass: punisher
 target: Each creature
-tier1: 9 damage; vertical slide 2; M < WEAK [prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 13 damage; vertical slide 4; M < AVERAGE [prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 18 damage; vertical slide 6; M < STRONG [prone](scc:mcdm.heroes.v1/condition/prone)
+tier1: 9 damage; vertical slide 2; M < WEAK [prone](../../../../condition/prone.md)
+tier2: 13 damage; vertical slide 4; M < AVERAGE [prone](../../../../condition/prone.md)
+tier3: 18 damage; vertical slide 6; M < STRONG [prone](../../../../condition/prone.md)
 type: ability
 ---
 

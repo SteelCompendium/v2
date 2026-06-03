@@ -1,6 +1,6 @@
 ---
 benefit: You have the following heroic ability.
-drawback: Whenever you become [bleeding](scc:mcdm.heroes.v1/condition/bleeding), [frightened](scc:mcdm.heroes.v1/condition/frightened), or [weakened](scc:mcdm.heroes.v1/condition/weakened), you must use Psychic Blast as a free triggered action.
+drawback: Whenever you become [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md), or [weakened](../condition/weakened.md), you must use Psychic Blast as a free triggered action.
 name: Psychic Eruption
 scc: mcdm.heroes.v1/complication/psychic-eruption
 type: complication

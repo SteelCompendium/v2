@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: Melee 1
-effect: You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to the same number of squares that you pushed the target.
+effect: You can [shift](../../../movement/shifting.md) up to the same number of squares that you pushed the target.
 flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
     - Melee

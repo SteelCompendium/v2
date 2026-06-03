@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: shadow
 distance: Self
-effect: You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](scc:mcdm.heroes.v1/movement/shifting).
-flavor: Taking on an illusory countenance gives you an advantage on [subterfuge](scc:mcdm.heroes.v1/feature.trait.shadow.level-10/subterfuge).
+effect: You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](../../../../movement/shifting.md).
+flavor: Taking on an illusory countenance gives you an advantage on [subterfuge](../../../trait/shadow/level-10/subterfuge.md).
 keywords:
     - Magic
 level: "1"

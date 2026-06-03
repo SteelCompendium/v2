@@ -3,7 +3,7 @@ average_potency: Agility − 1
 name: Shadow
 scc: mcdm.heroes.v1/class/shadow
 skills:
-    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](scc:mcdm.heroes.v1/chapter/tests)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
+    - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
 strong_potency: Agility
 type: class
 weak_potency: Agility − 2

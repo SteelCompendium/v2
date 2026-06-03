@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1
-effect: The target is [taunted](scc:mcdm.heroes.v1/condition/taunted) by you or a willing ally adjacent to you until the end of the target's next turn.
+effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 flavor: I didn't do it! What?
 keywords:
     - Melee

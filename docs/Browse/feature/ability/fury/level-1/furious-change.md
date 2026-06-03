@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](scc:mcdm.heroes.v1/complication/animal-form) or hybrid form.
+effect: You gain temporary Stamina equal to your Might score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
 flavor: In your anger, you revert to a more bestial form.
 keywords:
     - '-'

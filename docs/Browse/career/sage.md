@@ -1,11 +1,11 @@
 ---
 language: One language
 name: Sage
-perk: One lore perk (*Quick Build:* [Expert Sage](scc:mcdm.heroes.v1/perk/expert-sage).)
+perk: One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
 project_points: "240"
 scc: mcdm.heroes.v1/career/sage
 skills:
-    - Two skills from the lore skill group (*Quick Build:* [History](scc:mcdm.heroes.v1/skill/history), [Magic](scc:mcdm.heroes.v1/skill/magic).)
+    - Two skills from the lore skill group (*Quick Build:* [History](../skill/history.md), [Magic](../skill/magic.md).)
 type: career
 ---
 

@@ -1,5 +1,5 @@
 ---
-benefit: 'Choose an artifact (see Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)). The first time in an encounter that you are reduced to 0 Stamina against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 Stamina, whichever comes first.'
+benefit: 'Choose an artifact (see Treasures in Chapter 13: [Rewards](../../Read/heroes/rewards.md)). The first time in an encounter that you are reduced to 0 Stamina against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 Stamina, whichever comes first.'
 drawback: Each time the artifact appears, you lose a Recovery. If you have no Recoveries remaining, you take 1d10 damage instead, which can't be reduced in any way.
 name: Artifact Bonded
 scc: mcdm.heroes.v1/complication/artifact-bonded

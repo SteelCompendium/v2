@@ -14,9 +14,9 @@ power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection
 subtype: signature
 target: One creature or object
-tier1: 2 + R corruption damage; R < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 4 + R corruption damage; R < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 6 + R corruption damage; R < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier1: 2 + R corruption damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 4 + R corruption damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 6 + R corruption damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

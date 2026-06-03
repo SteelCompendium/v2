@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: My Life for Yours
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours
-spend: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](scc:mcdm.heroes.v1/condition/prone) target can stand up.'
+spend: '1 Wrath: You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../../../../condition/prone.md) target can stand up.'
 subtype: triggered
 target: Self or one ally
 trigger: The target starts their turn or takes damage.

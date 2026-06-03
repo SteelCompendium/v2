@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 3 Ferocity
 distance: Self; see below
-effect: You move up to your speed in a straight line, and enemy squares are not [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
+effect: You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 flavor: Teach them the folly of lining up for you.
 keywords:
     - Melee

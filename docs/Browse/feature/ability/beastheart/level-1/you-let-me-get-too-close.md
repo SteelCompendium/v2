@@ -16,9 +16,9 @@ name: You Let Me Get Too Close
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close
 target: One creature
-tier1: 8 + M damage; M < WEAK [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier2: 12 + M damage; M < AVERAGE [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
-tier3: 16 + M damage; M < STRONG [grabbed](scc:mcdm.heroes.v1/condition/grabbed)
+tier1: 8 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md)
+tier2: 12 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md)
+tier3: 16 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 

@@ -15,9 +15,9 @@ name: Doubt
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/doubt
 target: One creature or object
-tier1: 10 + P damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 14 + P damage; P < AVERAGE, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 20 + P damage; P < STRONG, [weakened](scc:mcdm.heroes.v1/condition/weakened) and [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier1: 10 + P damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 14 + P damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 20 + P damage; P < STRONG, [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

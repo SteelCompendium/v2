@@ -5,7 +5,7 @@ perk: One exploration perk (*Quick Build:* Brawny.)
 project_points: "120"
 scc: mcdm.heroes.v1/career/laborer
 skills:
-    - The [Endurance](scc:mcdm.heroes.v1/skill/endurance) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](scc:mcdm.heroes.v1/skill/blacksmithing), [Endurance](scc:mcdm.heroes.v1/skill/endurance), [Lift](scc:mcdm.heroes.v1/skill/lift).)
+    - The [Endurance](../skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/blacksmithing.md), [Endurance](../skill/endurance.md), [Lift](../skill/lift.md).)
 type: career
 ---
 

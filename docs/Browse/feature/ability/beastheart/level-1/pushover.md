@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 3 Ferocity
 distance: Melee 1
-effect: This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](scc:mcdm.heroes.v1/condition/prone) and take extra damage equal to your Intuition score.
+effect: This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](../../../../condition/prone.md) and take extra damage equal to your Intuition score.
 flavor: You and your companion surround your foe in order to bring them down.
 keywords:
     - Companion

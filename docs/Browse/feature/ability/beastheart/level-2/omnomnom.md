@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: Melee 1
-effect: A swallowed creature shares your companion's space, is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) and [restrained](scc:mcdm.heroes.v1/condition/restrained), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
+effect: A swallowed creature shares your companion's space, is [grabbed](../../../../condition/grabbed.md) and [restrained](../../../../condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
 flavor: What do you have in your mouth? No! Bad boy!
 keywords:
     - Companion

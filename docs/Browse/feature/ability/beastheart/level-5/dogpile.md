@@ -15,9 +15,9 @@ name: Dogpile
 power_roll_characteristic: Might
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile
 target: One creature
-tier1: 10 + M damage; M < WEAK [grabbed](scc:mcdm.heroes.v1/condition/grabbed) and [prone](scc:mcdm.heroes.v1/condition/prone)
-tier2: 15 + M damage; M < AVERAGE [grabbed](scc:mcdm.heroes.v1/condition/grabbed) and [prone](scc:mcdm.heroes.v1/condition/prone)
-tier3: 20 + M damage; M < STRONG [grabbed](scc:mcdm.heroes.v1/condition/grabbed) and [prone](scc:mcdm.heroes.v1/condition/prone)
+tier1: 10 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
+tier2: 15 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
+tier3: 20 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
 type: ability
 ---
 

@@ -1,11 +1,11 @@
 ---
 language: One language
 name: Gladiator
-perk: One exploration perk (*Quick Build:* [Friend Catapult](scc:mcdm.heroes.v1/perk/friend-catapult).)
+perk: One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
 renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
-    - Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](scc:mcdm.heroes.v1/skill/gymnastics), [Jump](scc:mcdm.heroes.v1/skill/jump).)
+    - Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../skill/gymnastics.md), [Jump](../skill/jump.md).)
 type: career
 ---
 

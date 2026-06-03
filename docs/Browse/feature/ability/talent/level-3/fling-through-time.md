@@ -15,9 +15,9 @@ name: Fling Through Time
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time
 target: One creature or object
-tier1: 3 + P corruption damage; P < WEAK, [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier2: 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
-tier3: 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](scc:mcdm.heroes.v1/condition/weakened) (save ends)
+tier1: 3 + P corruption damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 

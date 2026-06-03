@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 11 Essence
 distance: Self
-effect: You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares between your use of each ability.
+effect: You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../../movement/shifting.md) up to 2 squares between your use of each ability.
 flavor: You split your essence, allowing you to cast multiple effects at once.
 keywords:
     - Magic

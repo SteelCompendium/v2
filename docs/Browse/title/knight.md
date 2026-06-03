@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Knight
-prerequisite: A [noble](scc:mcdm.heroes.v1/title/noble) or [monarch](scc:mcdm.heroes.v1/title/monarch) grants you knighthood or a similar rank.
+prerequisite: A [noble](noble.md) or [monarch](monarch.md) grants you knighthood or a similar rank.
 scc: mcdm.heroes.v1/title/knight
 type: title
 ---

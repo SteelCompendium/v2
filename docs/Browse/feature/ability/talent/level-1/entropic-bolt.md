@@ -15,9 +15,9 @@ power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt
 subtype: signature
 target: One creature or object
-tier1: 2 + P corruption damage; P < WEAK, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier2: 3 + P corruption damage; P < AVERAGE, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
-tier3: 5 + P corruption damage; P < STRONG, [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends)
+tier1: 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 5 + P corruption damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 

@@ -1,6 +1,6 @@
 ---
-benefit: While you are [frightened](scc:mcdm.heroes.v1/condition/frightened), you can move toward the source of your fear.
-drawback: Whenever you make a saving throw to end the [frightened](scc:mcdm.heroes.v1/condition/frightened) condition, you roll a d10 twice and take the lower roll.
+benefit: While you are [frightened](../condition/frightened.md), you can move toward the source of your fear.
+drawback: Whenever you make a saving throw to end the [frightened](../condition/frightened.md) condition, you roll a d10 twice and take the lower roll.
 name: Coward
 scc: mcdm.heroes.v1/complication/coward
 type: complication

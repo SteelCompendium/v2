@@ -1,5 +1,5 @@
 ---
-benefit: 'You know one language of your choice. Additionally, you have one leveled treasure of your choice (see Treasures in Chapter 13: [Rewards](scc:mcdm.heroes.v1/chapter/rewards)).'
+benefit: 'You know one language of your choice. Additionally, you have one leveled treasure of your choice (see Treasures in Chapter 13: [Rewards](../../Read/heroes/rewards.md)).'
 drawback: The chosen leveled treasure is broken and completely inoperative. Repairing the treasure requires that you complete the Craft Treasure project for it. The project goal is half of what it would cost to create such an item, and you already have the project source you need. You must seek out any item prerequisite.
 name: Shattered Legacy
 scc: mcdm.heroes.v1/complication/shattered-legacy

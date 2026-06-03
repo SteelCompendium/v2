@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: 3 cube within 5
-effect: Until the end of your next turn, you and your companion can [fly](scc:mcdm.heroes.v1/movement/fly) and gain a +3 bonus to speed.
+effect: Until the end of your next turn, you and your companion can [fly](../../../../movement/fly.md) and gain a +3 bonus to speed.
 flavor: A blizzard or thunderstorm sends foes flying and lifts you like a feather.
 keywords:
     - Area

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: beastheart
 companion: spider
 distance: Ranged 5
-effect: If the target has M < AVERAGE, they are [restrained](scc:mcdm.heroes.v1/condition/restrained) until the end of their next turn.
+effect: If the target has M < AVERAGE, they are [restrained](../../../../../condition/restrained.md) until the end of their next turn.
 flavor: The spider fires a ball of sticky silk.
 keywords:
     - Companion
@@ -12,7 +12,7 @@ keywords:
 level: "1"
 name: Web Shot
 scc: mcdm.beastheart.v1/feature.ability.companion.spider.level-1/web-shot
-spend: '1 Ferocity: If the target has M < STRONG, they are [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).'
+spend: '1 Ferocity: If the target has M < STRONG, they are [restrained](../../../../../condition/restrained.md) (save ends).'
 subtype: signature
 target: One enemy
 type: ability

@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: Before the push is resolved, you [teleport](scc:mcdm.heroes.v1/movement/teleport) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](scc:mcdm.heroes.v1/movement/teleport)ed this way, you can't push them.
+effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
 flavor: You step momentarily out of phase as you pull an enemy through you.
 keywords:
     - Melee

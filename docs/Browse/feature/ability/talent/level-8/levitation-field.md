@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 distance: 3 burst
-effect: Each target can [fly](scc:mcdm.heroes.v1/movement/fly) until the start of your next turn, and can immediately [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed. You can also [shift](scc:mcdm.heroes.v1/movement/shifting) up to your speed. While [flying](scc:mcdm.heroes.v1/movement/fly), a target's stability is reduced to 0 and can't be increased.
+effect: Each target can [fly](../../../../movement/fly.md) until the start of your next turn, and can immediately [shift](../../../../movement/shifting.md) up to their speed. You can also [shift](../../../../movement/shifting.md) up to your speed. While [flying](../../../../movement/fly.md), a target's stability is reduced to 0 and can't be increased.
 flavor: You manipulate the air around your allies so they can move as freely through the sky as you can.
 keywords:
     - Area
