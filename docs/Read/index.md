@@ -3,13 +3,14 @@ search:
   exclude: true
 ---
 
-# Rulebook Chapters
+# Books
 
 ---
 
 <div class="browse-index" markdown>
 
-- [Draw Steel Heroes](heroes/)
-- [Draw Steel: Beastheart](beastheart/)
+- [Heroes](heroes/)
+- [Beastheart](beastheart/)
+- [Bestiary](bestiary/)
 
 </div>

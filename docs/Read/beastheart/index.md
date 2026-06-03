@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Draw Steel: Beastheart
+# Beastheart
 
 ---
 

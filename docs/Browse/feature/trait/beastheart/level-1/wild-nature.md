@@ -28,7 +28,8 @@ The Beastheart is an example of a master class in *Draw Steel*. Master classes a
 
 If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](https://shop.mcdmproductions.com/products/the-delian-tomb-pdf)* starter adventure, which includes a step-by-step tutorial on how to play the game and breaks down all the working parts of a hero. Save Broadhurst first, then hurry back here!
 
-| ◆ Beastheart Advancement ◆ |                                                                                                                                                                         |                           |                       |
+#### Beastheart Advancement Table
+
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
 | Level | Features | Abilities | Wild Nature Abilities |
 | 1st | [Wild Nature](wild-nature.md), [Companion](companion.md), [Heart of the Beast](heart-of-the-beast.md), [Feral Strike](../../../ability/beastheart/level-1/feral-strike.md), [Ferocity](ferocity.md), [Rampage](rampage.md), [Wild Nature Maneuver](wild-nature-maneuver.md), [Wild Nature Triggered Action](wild-nature-triggered-action.md), [Kit](kit.md), [Beastheart Abilities](beastheart-abilities.md) | Signature, 3, 5 | — |
