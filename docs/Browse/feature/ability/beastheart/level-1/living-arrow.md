@@ -23,8 +23,8 @@ type: ability
 
 *You point, and your companion appears.*
 
-| **Beastheart, Magic, Ranged** |              **Maneuver** |
-|-------------------------------|--------------------------:|
+| **Beastheart, Magic, Ranged** |                **Maneuver** |
+|-------------------------------|----------------------------:|
 | **📏 Ranged 10**              | **🎯 One unoccupied space** |
 
 **Effect:** If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.

@@ -24,8 +24,8 @@ type: ability
 
 *The bear casually swats the pesky foe into next week.*
 
-| **Companion, Melee, Weapon** |               **Maneuver** |
-|------------------------------|---------------------------:|
+| **Companion, Melee, Weapon** |                  **Maneuver** |
+|------------------------------|------------------------------:|
 | **📏 Melee 1**               | **🎯 One creature or object** |
 
 **Effect:** The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.

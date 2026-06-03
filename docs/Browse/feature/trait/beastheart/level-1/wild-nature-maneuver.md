@@ -12,11 +12,11 @@ type: trait
 
 Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.
 
-| Wild Nature | Maneuver          |
-|-------------|-------------------|
-| Guardian    | [Living Arrow](../../../ability/beastheart/level-1/living-arrow.md)      |
-| Prowler     | [Lightning Leap](../../../ability/beastheart/level-1/lightning-leap.md)    |
-| Punisher    | [Avalanche Rush](../../../ability/beastheart/level-1/avalanche-rush.md)    |
+| Wild Nature | Maneuver                                                                                         |
+|-------------|--------------------------------------------------------------------------------------------------|
+| Guardian    | [Living Arrow](../../../ability/beastheart/level-1/living-arrow.md)           |
+| Prowler     | [Lightning Leap](../../../ability/beastheart/level-1/lightning-leap.md)       |
+| Punisher    | [Avalanche Rush](../../../ability/beastheart/level-1/avalanche-rush.md)       |
 | Spark       | [Jaws of the Storm](../../../ability/beastheart/level-1/jaws-of-the-storm.md) |
 
 ### Avalanche Rush
@@ -37,8 +37,8 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 *Your foes are torn by a tempest of primordial teeth and claws.*
 
-| **Area, Beastheart, Magic** |               **Maneuver** |
-|-----------------------------|---------------------------:|
+| **Area, Beastheart, Magic** |                  **Maneuver** |
+|-----------------------------|------------------------------:|
 | **📏 2 cube within 5**      | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.
@@ -61,8 +61,8 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 *You point, and your companion appears.*
 
-| **Beastheart, Magic, Ranged** |              **Maneuver** |
-|-------------------------------|--------------------------:|
+| **Beastheart, Magic, Ranged** |                **Maneuver** |
+|-------------------------------|----------------------------:|
 | **📏 Ranged 10**              | **🎯 One unoccupied space** |
 
 **Effect:** If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.

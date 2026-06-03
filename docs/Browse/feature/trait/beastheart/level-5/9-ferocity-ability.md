@@ -16,8 +16,8 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 *You channel your companion's feral senses to take the perfect shot.*
 
-| **Beastheart, Ranged, Strike, Weapon** | **Main action** |
-|----------------------------------------|----------------:|
+| **Beastheart, Ranged, Strike, Weapon** |               **Main action** |
+|----------------------------------------|------------------------------:|
 | **📏 Ranged 15**                       | **🎯 One creature or object** |
 
 **Power Roll + Intuition:**
@@ -32,8 +32,8 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 *You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
 
-| **Beastheart, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------|----------------:|
+| **Beastheart, Melee, Strike, Weapon** |     **Main action** |
+|---------------------------------------|--------------------:|
 | **📏 Melee 1**                        | **🎯 One creature** |
 
 **Power Roll + Might:**

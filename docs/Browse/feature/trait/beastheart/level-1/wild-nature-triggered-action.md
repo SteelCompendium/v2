@@ -12,12 +12,12 @@ type: trait
 
 Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.
 
-| Wild Nature | Triggered Action   |
-|-------------|--------------------|
-| Guardian    | [The Pack Defends](../../../ability/beastheart/level-1/the-pack-defends.md)   |
+| Wild Nature | Triggered Action                                                                                   |
+|-------------|----------------------------------------------------------------------------------------------------|
+| Guardian    | [The Pack Defends](../../../ability/beastheart/level-1/the-pack-defends.md)     |
 | Prowler     | [Shadow in the Mist](../../../ability/beastheart/level-1/shadow-in-the-mist.md) |
-| Punisher    | [Thunderclap](../../../ability/beastheart/level-1/thunderclap.md)        |
-| Spark       | [Pyre](../../../ability/beastheart/level-1/pyre.md)               |
+| Punisher    | [Thunderclap](../../../ability/beastheart/level-1/thunderclap.md)               |
+| Spark       | [Pyre](../../../ability/beastheart/level-1/pyre.md)                             |
 
 ### Pyre
 
@@ -25,7 +25,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 | **Magic**   | **Triggered Action** |
 |-------------|---------------------:|
-| **📏 Self** | **🎯 Self**          |
+| **📏 Self** |          **🎯 Self** |
 
 **Trigger:** You take damage.
 
@@ -39,7 +39,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 | **Magic**   | **Triggered Action** |
 |-------------|---------------------:|
-| **📏 Self** | **🎯 Self**          |
+| **📏 Self** |          **🎯 Self** |
 
 **Trigger:** An enemy within 10 squares deals damage to a creature other than you.
 
@@ -53,7 +53,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 | **Magic**      | **Triggered Action** |
 |----------------|---------------------:|
-| **📏 Melee 1** | **🎯 One ally**      |
+| **📏 Melee 1** |      **🎯 One ally** |
 
 **Trigger:** The target takes damage.
 

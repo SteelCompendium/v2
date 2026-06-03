@@ -28,8 +28,8 @@ type: ability
 
 *You launch a flurry of attacks to cover your movement.*
 
-| **Beastheart, Melee, Ranged, Strike, Weapon** |              **Main action** |
-|-----------------------------------------------|-----------------------------:|
+| **Beastheart, Melee, Ranged, Strike, Weapon** |               **Main action** |
+|-----------------------------------------------|------------------------------:|
 | **📏 Melee 1 or ranged 5**                    | **🎯 One creature or object** |
 
 **Power Roll + Might:**

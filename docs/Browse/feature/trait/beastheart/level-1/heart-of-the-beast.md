@@ -34,8 +34,8 @@ Both you and your companion can use the following ability.
 
 Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.
 
-| **Area, Companion, Melee, Strike, Weapon** |               **Main action** |
-|--------------------------------------------|------------------------------:|
+| **Area, Companion, Melee, Strike, Weapon** |                  **Main action** |
+|--------------------------------------------|---------------------------------:|
 | **📏 1 burst**                             | **🎯 Each creature in the area** |
 
 **Effect:** Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.

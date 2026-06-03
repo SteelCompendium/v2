@@ -27,8 +27,8 @@ type: ability
 
 *You channel your companion's feral senses to take the perfect shot.*
 
-| **Beastheart, Ranged, Strike, Weapon** | **Main action** |
-|----------------------------------------|----------------:|
+| **Beastheart, Ranged, Strike, Weapon** |               **Main action** |
+|----------------------------------------|------------------------------:|
 | **📏 Ranged 15**                       | **🎯 One creature or object** |
 
 **Power Roll + Intuition:**

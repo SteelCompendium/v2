@@ -27,8 +27,8 @@ type: ability
 
 *You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
 
-| **Beastheart, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------|----------------:|
+| **Beastheart, Melee, Strike, Weapon** |     **Main action** |
+|---------------------------------------|--------------------:|
 | **📏 Melee 1**                        | **🎯 One creature** |
 
 **Power Roll + Might:**

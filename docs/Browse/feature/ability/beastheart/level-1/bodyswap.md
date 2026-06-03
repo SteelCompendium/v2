@@ -28,8 +28,8 @@ type: ability
 
 *You and your ally morph into each other, magically switching places.*
 
-| **Beastheart, Magic, Melee, Strike, Weapon** |              **Main action** |
-|----------------------------------------------|-----------------------------:|
+| **Beastheart, Magic, Melee, Strike, Weapon** |               **Main action** |
+|----------------------------------------------|------------------------------:|
 | **📏 Melee 1**                               | **🎯 One creature or object** |
 
 **Effect:** If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](../../../../movement/teleport.md) to swap places. If you do, you gain an edge on this ability.

@@ -23,8 +23,8 @@ type: ability
 
 *Your foes are torn by a tempest of primordial teeth and claws.*
 
-| **Area, Beastheart, Magic** |               **Maneuver** |
-|-----------------------------|---------------------------:|
+| **Area, Beastheart, Magic** |                  **Maneuver** |
+|-----------------------------|------------------------------:|
 | **📏 2 cube within 5**      | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.

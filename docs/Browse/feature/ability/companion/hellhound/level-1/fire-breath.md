@@ -25,8 +25,8 @@ type: ability
 
 *The hellhound exhales infernal flames.*
 
-| **Companion, Magic, Melee, Ranged** |               **Maneuver** |
-|-------------------------------------|---------------------------:|
+| **Companion, Magic, Melee, Ranged** |                  **Maneuver** |
+|-------------------------------------|------------------------------:|
 | **📏 Melee 1 or Ranged 2**          | **🎯 One creature or object** |
 
 **Effect:** The target takes fire damage equal to 3 + the hellhound's Might score.

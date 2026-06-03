@@ -24,7 +24,7 @@ type: ability
 
 | **Magic**      | **Triggered Action** |
 |----------------|---------------------:|
-| **📏 Melee 1** | **🎯 One ally**      |
+| **📏 Melee 1** |      **🎯 One ally** |
 
 **Trigger:** The target takes damage.
 
