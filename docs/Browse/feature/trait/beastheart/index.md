@@ -30,6 +30,8 @@
 
 <div class="browse-index" markdown>
 
+- [2nd-Level Wild Nature Ability](level-2/2nd-level-wild-nature-ability.md)
+- [2nd-Level Wild Nature Feature](level-2/2nd-level-wild-nature-feature.md)
 - [Everyone's Best Friend](level-2/everyones-best-friend.md)
 - [Perk](level-2/perk.md)
 - [Stormheart](level-2/stormheart.md)
@@ -46,6 +48,7 @@
 
 <div class="browse-index" markdown>
 
+- [7-Ferocity Ability](level-3/7-ferocity-ability.md)
 - [Companion Advancement Feature](level-3/companion-advancement-feature.md)
 
 </div>
@@ -72,6 +75,8 @@
 
 <div class="browse-index" markdown>
 
+- [5th-Level Wild Nature Feature](level-5/5th-level-wild-nature-feature.md)
+- [9-Ferocity Ability](level-5/9-ferocity-ability.md)
 - [I Can Take It](level-5/i-can-take-it.md)
 - [Melt Away](level-5/melt-away.md)
 - [There For Each Other](level-5/there-for-each-other.md)
@@ -86,6 +91,7 @@
 
 <div class="browse-index" markdown>
 
+- [6th-Level Wild Nature Ability](level-6/6th-level-wild-nature-ability.md)
 - [Become the Beast](level-6/become-the-beast.md)
 - [Perk](level-6/perk.md)
 
@@ -112,6 +118,8 @@
 
 <div class="browse-index" markdown>
 
+- [8th-Level Wild Nature Feature](level-8/8th-level-wild-nature-feature.md)
+- [11-Ferocity Ability](level-8/11-ferocity-ability.md)
 - [Born to Run](level-8/born-to-run.md)
 - [Built for Violence](level-8/built-for-violence.md)
 - [Nature Will Not Harm Us](level-8/nature-will-not-harm-us.md)
@@ -127,6 +135,7 @@
 
 <div class="browse-index" markdown>
 
+- [9th-Level Wild Nature Ability](level-9/9th-level-wild-nature-ability.md)
 - [Avatar of the Green](level-9/avatar-of-the-green.md)
 
 </div>
