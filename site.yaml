@@ -9,6 +9,19 @@ source_dirs:
 # MkDocs docs directory
 docs_dir: ./docs
 
+# Books for per-book Read grouping. `key` matches the SCC prefix (substring
+# before the first '/'); `folder` is the URL slug; `label` is the display title;
+# `order` sets book ordering in the Read tab.
+books:
+  - key: mcdm.heroes.v1
+    folder: heroes
+    label: Draw Steel Heroes
+    order: 1
+  - key: mcdm.beastheart.v1
+    folder: beastheart
+    label: "Draw Steel: Beastheart"
+    order: 2
+
 # Site sections (mapped to MkDocs tabs)
 sections:
   # Browse: modular pages by type (classes, abilities, conditions, etc.)
@@ -41,12 +54,12 @@ sections:
         # and rewrite the page name to "Kit (Ability)" for the heading + nav.
         flatten: true
 
-  # Read: chapters in book order
+  # Read: chapters grouped by book, ordered by source-document position
   - name: Read
     title: Rulebook Chapters
     include:
       - chapter/
-    sort: natural
+    group_by_book: true
 
   # Bestiary (when monsters are added)
   # - name: Bestiary
