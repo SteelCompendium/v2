@@ -1,6 +1,6 @@
 /**
  * Reading Progress Bar — thin accent-colored bar at top of viewport
- * for long pages (Full Book, Read chapters).
+ * for long pages (Read chapters).
  *
  * Only shows on pages taller than 3x the viewport height.
  */
