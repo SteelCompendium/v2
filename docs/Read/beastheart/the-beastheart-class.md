@@ -65,8 +65,8 @@ If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](http
 
 ###### Beastheart Advancement Table
 
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
 | Level | Features | Abilities | Wild Nature Abilities |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
 | 1st | [Wild Nature](../../Browse/feature/trait/beastheart/level-1/wild-nature.md), [Companion](../../Browse/feature/trait/beastheart/level-1/companion.md), [Heart of the Beast](../../Browse/feature/trait/beastheart/level-1/heart-of-the-beast.md), [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md), [Ferocity](../../Browse/feature/trait/beastheart/level-1/ferocity.md), [Rampage](../../Browse/feature/trait/beastheart/level-1/rampage.md), [Wild Nature Maneuver](../../Browse/feature/trait/beastheart/level-1/wild-nature-maneuver.md), [Wild Nature Triggered Action](../../Browse/feature/trait/beastheart/level-1/wild-nature-triggered-action.md), [Kit](../../Browse/feature/trait/beastheart/level-1/kit.md), [Beastheart Abilities](../../Browse/feature/trait/beastheart/level-1/beastheart-abilities.md) | Signature, 3, 5 | — |
 | 2nd | [Perk](../../Browse/feature/trait/beastheart/level-2/perk.md), [Everyone’s Best Friend](../../Browse/feature/trait/beastheart/level-2/everyones-best-friend.md), Wild Nature Feature, Wild Nature Ability | Signature, 3, 5 | 5 |
 | 3rd | [Companion Advancement Feature](../../Browse/feature/trait/beastheart/level-3/companion-advancement-feature.md), 7-Ferocity Ability | Signature, 3, 5, 7 | 5 |

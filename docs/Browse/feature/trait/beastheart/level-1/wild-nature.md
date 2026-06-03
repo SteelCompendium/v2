@@ -30,8 +30,8 @@ If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](http
 
 #### Beastheart Advancement Table
 
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
 | Level | Features | Abilities | Wild Nature Abilities |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
 | 1st | [Wild Nature](wild-nature.md), [Companion](companion.md), [Heart of the Beast](heart-of-the-beast.md), [Feral Strike](../../../ability/beastheart/level-1/feral-strike.md), [Ferocity](ferocity.md), [Rampage](rampage.md), [Wild Nature Maneuver](wild-nature-maneuver.md), [Wild Nature Triggered Action](wild-nature-triggered-action.md), [Kit](kit.md), [Beastheart Abilities](beastheart-abilities.md) | Signature, 3, 5 | — |
 | 2nd | [Perk](../level-2/perk.md), [Everyone’s Best Friend](../level-2/everyones-best-friend.md), Wild Nature Feature, Wild Nature Ability | Signature, 3, 5 | 5 |
 | 3rd | [Companion Advancement Feature](../level-3/companion-advancement-feature.md), 7-Ferocity Ability | Signature, 3, 5, 7 | 5 |
