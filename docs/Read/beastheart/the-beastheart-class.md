@@ -94,15 +94,11 @@ With the Director's permission, you can also change the damage types of your com
 
 #### Basilisk
 
-*Beast, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1L   | 5     | 2         | 1 + M       |
-
-**Immunity:** Poison 3 **Movement:** — **Skills:** [Alertness](../../Browse/skill/alertness.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +2
+| Beast, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1L**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **2**<br>Stability | **1 + M**<br>Free Strike |
+| **Poison 3**<br>Immunity | **—**<br>Movement | **[Alertness](../../Browse/skill/alertness.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+2**<br>Presence |
 
 ##### Petrify
 
@@ -140,15 +136,11 @@ While the basilisk is rampaging, you and the basilisk have damage immunity 10 as
 
 #### Bear
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1L   | 5     | 2         | 1 + M       |
-
-**Immunity:** — **Movement:** Climb **Skills:** [Intimidate](../../Browse/skill/intimidate.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +2
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1L**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **2**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Intimidate](../../Browse/skill/intimidate.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+2**<br>Presence |
 
 ##### Backhand
 
@@ -186,15 +178,11 @@ While the bear is rampaging, you gain a +1 bonus to distance with melee weapon a
 
 #### Boar
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 5     | 2         | 1 + M       |
-
-**Immunity:** — **Movement:** — **Skills:** [Search](../../Browse/skill/search.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +2
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **2**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **—**<br>Movement | **[Search](../../Browse/skill/search.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+2**<br>Presence |
 
 ##### Gore
 
@@ -232,15 +220,11 @@ Whenever you or the boar use an ability that deals damage while the boar is ramp
 
 #### Condor
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 0         | 1 + M       |
-
-**Immunity:** — **Movement:** Fly **Skills:** [Alertness](../../Browse/skill/alertness.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +1
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **0**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **Fly**<br>Movement | **[Alertness](../../Browse/skill/alertness.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Flurry of Wings
 
@@ -278,15 +262,11 @@ While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
 #### Deinonychus
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 1         | 1 + M       |
-
-**Immunity:** — **Movement:** — **Skills:** [Track](../../Browse/skill/track.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/track.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Terrible Claws
 
@@ -324,15 +304,11 @@ The deinonychus's claws slash at creatures underfoot. When the deinonychus moves
 
 #### Drake
 
-*Companion, Dragon*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 5     | 1         | 1 + M       |
-
-**Immunity:** Attuned damage type 3 (see [Elementally Attuned](../../Browse/feature/trait/companion/drake/level-1/elementally-attuned.md)) **Movement:** Fly **Skills:** [Intimidate](../../Browse/skill/intimidate.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +2
+| Companion, Dragon |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **Attuned damage type 3 (see [Elementally Attuned](../../Browse/feature/trait/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../../Browse/skill/intimidate.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+2**<br>Presence |
 
 ##### Drake Breath
 
@@ -374,15 +350,11 @@ While the drake is rampaging, you and the drake have immunity all to the drake's
 
 #### Elemental Spark
 
-*Companion, Elemental*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 1         | 1 + M       |
-
-**Immunity:** Lightning 3 **Movement:** — **Skills:** [Magic](../../Browse/skill/magic.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Companion, Elemental |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **Lightning 3**<br>Immunity | **—**<br>Movement | **[Magic](../../Browse/skill/magic.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Static Shock
 
@@ -420,15 +392,11 @@ While the spark is rampaging, you and the spark can [shift](../../Browse/movemen
 
 #### Gummy Ball
 
-*Companion, Ooze*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1L   | 5     | 2         | 1 + M       |
-
-**Immunity:** Acid 3 **Movement:** — **Skills:** [Sneak](../../Browse/skill/sneak.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Companion, Ooze |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1L**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **2**<br>Stability | **1 + M**<br>Free Strike |
+| **Acid 3**<br>Immunity | **—**<br>Movement | **[Sneak](../../Browse/skill/sneak.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Absorb
 
@@ -466,15 +434,11 @@ While the ball is rampaging, you and the ball have acid immunity 10, and wheneve
 
 #### Hellhound
 
-*Companion, Infernal*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 1         | 1 + M       |
-
-**Immunity:** Fire 3 **Movement:** — **Skills:** [Intimidate](../../Browse/skill/intimidate.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Companion, Infernal |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **Fire 3**<br>Immunity | **—**<br>Movement | **[Intimidate](../../Browse/skill/intimidate.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Fire Breath
 
@@ -512,15 +476,11 @@ While the hellhound is rampaging, you and the hellhound are surrounded by an aur
 
 #### Lightbender
 
-*Beast, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1L   | 7     | 2         | 1 + M       |
-
-**Immunity:** — **Movement:** — **Skills:** [Hide](../../Browse/skill/hide.md)
-
-**Might** +2 **Agility** +1 **Reason** −1 **Intuition** +2 **Presence** +2
+| Beast, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1L**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **2**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **—**<br>Movement | **[Hide](../../Browse/skill/hide.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+2**<br>Presence |
 
 ##### Sparking Tail Whip
 
@@ -558,15 +518,11 @@ While the lightbender is rampaging, your grip on spatial reality is [weakened](.
 
 #### Panther
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 1         | 1 + M       |
-
-**Immunity:** — **Movement:** Climb **Skills:** [Sneak](../../Browse/skill/sneak.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../../Browse/skill/sneak.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Pounce
 
@@ -604,15 +560,11 @@ While the panther is rampaging, you and the panther are invisible and can move t
 
 #### Spider
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 5     | 1         | 1 + M       |
-
-**Immunity:** — **Movement:** Climb **Skills:** [Sneak](../../Browse/skill/sneak.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../../Browse/skill/sneak.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Web Shot
 
@@ -650,15 +602,11 @@ Whenever you or the spider deals damage with a maneuver while the spider is ramp
 
 #### Sporeling
 
-*Beast, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1S   | 5     | 0         | 1 + M       |
-
-**Immunity:** Poison 3 **Movement:** — **Skills:** [Track](../../Browse/skill/track.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Beast, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1S**<br>Size | **5**<br>Speed | **= yours**<br>Stamina | **0**<br>Stability | **1 + M**<br>Free Strike |
+| **Poison 3**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/track.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Spore Puff
 
@@ -696,15 +644,11 @@ While the sporeling is rampaging, you and the sporeling sprout rootlike, grippin
 
 #### Wolf
 
-*Animal, Companion*
-
-| Size | Speed | Stability | Free Strike |
-|------|-------|-----------|-------------|
-| 1M   | 7     | 1         | 1 + M       |
-
-**Immunity:** — **Movement:** — **Skills:** [Track](../../Browse/skill/track.md)
-
-**Might** +2 **Agility** +2 **Reason** −1 **Intuition** +2 **Presence** +1
+| Animal, Companion |  | Level 1 |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| **1M**<br>Size | **7**<br>Speed | **= yours**<br>Stamina | **1**<br>Stability | **1 + M**<br>Free Strike |
+| **—**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/track.md)**<br>Skills |  |  |
+| **+2**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **+2**<br>Intuition | **+1**<br>Presence |
 
 ##### Clamping Jaws
 
