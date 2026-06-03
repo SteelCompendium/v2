@@ -10,7 +10,7 @@ type: perk
 
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
-### Ride Along
+## Ride Along
 
 *You ride behind your companion's eyes.*
 

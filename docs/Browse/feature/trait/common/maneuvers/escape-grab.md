@@ -25,4 +25,4 @@ A creature who is [grabbed](../../../../condition/grabbed.md) by another creatur
 
 **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
 
-See Conditions in Chapter 5: [Classes](../../../../../Read/chapter/classes.md) for information on the [grabbed](../../../../condition/grabbed.md) condition.
+See Conditions in Chapter 5: [Classes](../../../../../Read/heroes/classes.md) for information on the [grabbed](../../../../condition/grabbed.md) condition.

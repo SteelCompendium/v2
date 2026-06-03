@@ -41,7 +41,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Recoveries:** 8
 
-**Skills:** You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)
+**Skills:** You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
 ##### Null Advancement Table
 
@@ -495,7 +495,7 @@ As a 2nd-level [null](null.md), you gain the following features.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Tradition Feature
 
@@ -709,7 +709,7 @@ The first time each combat round that an enemy in the area of your [Null Field](
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ## 5th-Level Features
 

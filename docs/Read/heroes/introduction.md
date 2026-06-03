@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Introduction
+order: 0
 scc: mcdm.heroes.v1/chapter/introduction
 type: chapter
 ---

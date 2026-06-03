@@ -41,7 +41,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Recoveries:** 10
 
-**Skills:** You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
 
 ##### Tactician Advancement Table
 
@@ -118,7 +118,7 @@ At the Director's discretion, you and your allies can use skills from the intrig
 
 #### Studied Commander
 
-Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md) for more information.)
+Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md) for more information.)
 
 Additionally, if you have 24 hours or more before a combat encounter or negotiation, and you have one or more clues or rumors regarding the encounter or negotiation, you can make a Reason test as a respite activity. The following test outcomes apply to a combat encounter:
 
@@ -193,7 +193,7 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 ### Field Arsenal
 
-You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](../../Read/chapter/kits.md) for more information. (*Quick Build:* [Shining Armor](../kit/shining-armor.md), Sniper.)
+You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Shining Armor](../kit/shining-armor.md), Sniper.)
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
@@ -393,7 +393,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Doctrine Feature
 
@@ -605,7 +605,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ## 5th-Level Features
 

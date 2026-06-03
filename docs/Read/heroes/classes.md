@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Classes
+order: 7
 scc: mcdm.heroes.v1/chapter/classes
 type: chapter
 ---

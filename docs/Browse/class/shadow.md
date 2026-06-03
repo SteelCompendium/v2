@@ -40,7 +40,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **Recoveries:** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ##### Shadow Advancement Table
 
@@ -236,7 +236,7 @@ You have the following ability.
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/chapter/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../kit/cloak-and-dagger.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../kit/cloak-and-dagger.md).)
 
 ### Shadow Abilities
 
@@ -454,7 +454,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 
 ### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level College Feature
 
@@ -708,7 +708,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ### Surge of Insight
 

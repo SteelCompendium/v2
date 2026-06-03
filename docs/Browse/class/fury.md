@@ -41,7 +41,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Recoveries:** 10
 
-**Skills:** You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ##### Fury Advancement Table
 
@@ -140,7 +140,7 @@ You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/chapter/kits.md) for more information. (*Quick Build:* [Panther](../kit/panther.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../kit/panther.md).)
 
 #### Primordial Cunning
 
@@ -217,7 +217,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 ### Mighty Leaps
 
-You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](../../Read/chapter/combat.md)).
+You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)).
 
 ### Fury Abilities
 
@@ -439,7 +439,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 
 ### Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Aspect Feature
 
@@ -687,7 +687,7 @@ You can manifest your ferocity directly as an elemental force created by the Pri
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ## 5th-Level Features
 
@@ -707,7 +707,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 #### Bounder
 
-Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../../Read/chapter/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
+Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
 
 #### Stormborn
 
@@ -1209,7 +1209,7 @@ You gain one skill of your choice.
 
 ## Stormwight Kits
 
-The stormwight [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/trait/fury/stormwight-kits.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/chapter/kits.md)).
+The stormwight [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/trait/fury/stormwight-kits.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
 
 ### Kit Features
 
@@ -1246,7 +1246,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 #### Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../Read/chapter/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
+These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../Read/heroes/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
 
 #### Signature Ability
 

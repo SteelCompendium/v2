@@ -37,7 +37,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 ## Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../../../../Read/chapter/downtime-projects.md)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../../../../Read/heroes/downtime-projects.md)).
 
 ## Blessing of Fortunate Weather
 

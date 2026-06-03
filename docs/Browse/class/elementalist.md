@@ -42,7 +42,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ##### Elementalist Advancement Table
 
@@ -159,7 +159,7 @@ You have the following ability.
 
 **Effect:** Choose one of the following effects:
 
-- You use the Knockback maneuver (see Chapter 10: [Combat](../../Read/chapter/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
+- You use the Knockback maneuver (see Chapter 10: [Combat](../../Read/heroes/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
 - You choose a creature within the distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 - You [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
 
@@ -638,7 +638,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 
 ### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Specialization Feature
 
@@ -959,7 +959,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ## 5th-Level Features
 
@@ -1454,7 +1454,7 @@ Additionally, as a respite activity, you can shape the mundane earth around you 
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../Read/chapter/rewards.md)), you gain breath equal to its echelon.
+Additionally, your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../Read/heroes/rewards.md)), you gain breath equal to its echelon.
 
 #### Master of Green
 

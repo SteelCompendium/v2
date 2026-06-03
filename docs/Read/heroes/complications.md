@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Complications
+order: 10
 scc: mcdm.heroes.v1/chapter/complications
 type: chapter
 ---

@@ -42,7 +42,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **Recoveries:** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
 
 ##### Conduit Advancement Table
 
@@ -65,7 +65,7 @@ As a [conduit](conduit.md), you gain the following features.
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* Adûn for deity, and Life and Protection as domains.)
 
@@ -186,7 +186,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 #### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)).
 
 #### Blessing of Fortunate Weather
 
@@ -670,7 +670,7 @@ Your deity is aware of your growing influence, making it easier to draw their at
 
 ### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Domain Feature
 
@@ -944,7 +944,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ### 4th-Level Domain Feature
 
@@ -1364,7 +1364,7 @@ Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healin
 
 #### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 #### Light of the Burning Sun
 

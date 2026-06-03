@@ -10,7 +10,7 @@ type: complication
 
 ---
 
-You were born in the dusk land ruled by the Queen of [Shadows](../class/shadow.md), and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: [The Basics](../../Read/chapter/the-basics.md).)
+You were born in the dusk land ruled by the Queen of [Shadows](../class/shadow.md), and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md).)
 
 **Benefit:** Whenever you start your turn with concealment, you gain 1 surge.
 

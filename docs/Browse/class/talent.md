@@ -41,7 +41,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Recoveries:** 8
 
-**Skills:** You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)
+**Skills:** You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
 ##### Talent Advancement Table
 
@@ -170,7 +170,7 @@ Your ward allows you to slip away from threats. Whenever you take damage, you be
 
 ### Telepathic Speech
 
-You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../../Read/chapter/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../../Read/heroes/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
 ### 1st-Level Tradition Features
 
@@ -575,7 +575,7 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Tradition Feature
 
@@ -731,7 +731,7 @@ As a 3rd-level [talent](talent.md), you gain the following features.
 
 ### Scan
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/chapter/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
+You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
 
 ### 7-Clarity Ability
 
@@ -835,7 +835,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ### Suspensor Field
 

@@ -1,4 +1,5 @@
-sort:
-    by: title
-    type: natural
 title: Rulebook Chapters
+nav:
+  - index.md
+  - heroes
+  - beastheart

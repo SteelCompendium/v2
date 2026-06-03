@@ -17,7 +17,7 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow college](../feature/trait/shadow/level-1/shadow-college.md) features Coat the Blade or [Smoke Bomb](../feature/trait/shadow/level-1/smoke-bomb.md) (see Chapter 5: [Classes](../../Read/chapter/classes.md)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow college](../feature/trait/shadow/level-1/shadow-college.md) features Coat the Blade or [Smoke Bomb](../feature/trait/shadow/level-1/smoke-bomb.md) (see Chapter 5: [Classes](../../Read/heroes/classes.md)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 ## Boffin Properties

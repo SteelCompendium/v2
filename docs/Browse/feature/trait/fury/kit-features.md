@@ -42,7 +42,7 @@ You wear no armor and wield only your unarmed strikes—which become devastating
 
 ## Kit Bonuses
 
-These bonuses apply in your true form, your [animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../../../Read/chapter/kits.md) for information on [kit bonuses](boren/kit-bonuses.md).
+These bonuses apply in your true form, your [animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../../../Read/heroes/kits.md) for information on [kit bonuses](boren/kit-bonuses.md).
 
 ## Signature Ability
 

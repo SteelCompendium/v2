@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: The Basics
+order: 1
 scc: mcdm.heroes.v1/chapter/the-basics
 type: chapter
 ---

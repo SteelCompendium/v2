@@ -12,6 +12,6 @@ type: complication
 
 When you were young, you found or were given a magic weapon. Since then, you've carried it always at your side, letting it inspire you to lead the life of a hero—even though the weapon is cursed.
 
-**Benefit:** You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](../../Read/chapter/rewards.md)).
+**Benefit:** You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](../../Read/heroes/rewards.md)).
 
 **Drawback:** You have damage weakness 2.

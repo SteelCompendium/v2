@@ -45,7 +45,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **Recoveries:** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
 
 ##### Censor Advancement Table
 
@@ -78,7 +78,7 @@ Your [censor order](../feature/trait/censor/level-1/censor-order.md) is your sub
 
 ### Deity and Domains
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/chapter/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
 
@@ -138,7 +138,7 @@ The first time on a turn that you use your [Judgment](../feature/ability/censor/
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/chapter/kits.md) for more information. (*Quick Build:* [Warrior Priest](../kit/warrior-priest.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Warrior Priest](../kit/warrior-priest.md).)
 
 ### My Life for Yours
 
@@ -188,7 +188,7 @@ Additionally, when you are present at the start of a negotiation, one NPC of you
 
 #### Blessing of Comprehension
 
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md)).
+You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any crafting or research project (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)).
 
 #### Blessing of Fortunate Weather
 
@@ -497,7 +497,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Order Features
 
@@ -701,7 +701,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ### Wrath Beyond Wrath
 
@@ -1058,7 +1058,7 @@ Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-
 
 #### Gods' Library
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../Read/chapter/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
 #### Light of the Burning Sun
 

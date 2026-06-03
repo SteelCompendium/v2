@@ -1,361 +1,71 @@
 ---
 search:
   exclude: true
-name: Background
-scc: mcdm.heroes.v1/chapter/background
+name: Careers
+order: 6
+scc: mcdm.heroes.v1/chapter/careers
 type: chapter
 ---
 
-# Background
+# Careers
 
 ---
 
-What makes a hero? Is their desire to stand up for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are those who need it most?
-
-No. A hero's life experience and background make them what they are. That background starts with the culture in which a hero was raised, and is threaded through the career that led them to a life of adventuring.
-
-## Culture
-
-A hero's culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn't share their culture's values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
-
-For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the great city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
-
-## Using Culture
-
-Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find the right place for that culture within the world of the campaign.
-
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in the region of Vasloria on Orden, are mostly [humans](../../Browse/ancestry/human.md). The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily [wode elves](../../Browse/ancestry/wode-elf.md). However, you can always choose to be from one of these cultures and take a different ancestry. A [dwarf](../../Browse/ancestry/dwarf.md) raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [dwarf](../../Browse/ancestry/dwarf.md) raised in the [dwarf](../../Browse/ancestry/dwarf.md) thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
-
-You can build your culture one aspect at a time, or you can use the following tables if you want to assess sample cultures or make your own culture quickly. To create an archetypical culture for a hero who grew up surrounded mostly by other members of their ancestry, use or modify the aspect options on the Typical Ancestry Cultures table. ([Revenants](../../Browse/ancestry/revenant.md) are missing from this table because they don't gain their ancestry until after they die.) If you'd rather quickly create a culture based on a cultural archetype, such as a noble house or a pirate crew, use the Archetypical Cultures table, then add a language that fits the culture's concept.
-
-###### Typical Ancestry Cultures Table
-
-| Ancestry      | Language    | Environment | Organization | Upbringing |
-|---------------|-------------|-------------|--------------|------------|
-| [Devil](../../Browse/ancestry/devil.md)         | Anjali      | Urban       | Bureaucratic | Academic   |
-| [Dragon knight](../../Browse/ancestry/dragon-knight.md) | Vastariax   | Secluded    | Bureaucratic | Martial    |
-| [Dwarf](../../Browse/ancestry/dwarf.md)         | Zaliac      | Secluded    | Bureaucratic | Creative   |
-| [Wode elf](../../Browse/ancestry/wode-elf.md)      | Yllyric     | Wilderness  | Bureaucratic | Martial    |
-| [High elf](../../Browse/ancestry/high-elf.md)      | Hyrallic    | Secluded    | Bureaucratic | Martial    |
-| [Hakaan](../../Browse/ancestry/hakaan.md)        | Vhoric      | Rural       | Communal     | Labor      |
-| [Human](../../Browse/ancestry/human.md)         | Vaslorian   | Urban       | Communal     | Labor      |
-| [Memonek](../../Browse/ancestry/memonek.md)       | Axiomatic   | Nomadic     | Communal     | Academic   |
-| [Orc](../../Browse/ancestry/orc.md)           | Kalliak     | Wilderness  | Communal     | Creative   |
-| [Polder](../../Browse/ancestry/polder.md)        | Khoursirian | Urban       | Communal     | Creative   |
-| [Time raider](../../Browse/ancestry/time-raider.md)   | Voll        | Nomadic     | Communal     | Martial    |
-
-###### Archetypical Cultures Table
-
-| Community              | Environment | Organization | Upbringing |
-|------------------------|-------------|--------------|------------|
-| Artisan guild          | Urban       | Bureaucratic | Creative   |
-| Borderland homestead   | Wilderness  | Communal     | Labor      |
-| College conclave       | Urban       | Bureaucratic | Academic   |
-| Criminal gang          | Urban       | Communal     | Lawless    |
-| Farming village        | Rural       | Bureaucratic | Labor      |
-| Herding community      | Nomadic     | Communal     | Labor      |
-| Knightly order         | Secluded    | Bureaucratic | Martial    |
-| Laborer neighborhood   | Urban       | Communal     | Labor      |
-| Mercenary band         | Nomadic     | Bureaucratic | Martial    |
-| Merchant caravan       | Nomadic     | Bureaucratic | Creative   |
-| Monastic order         | Secluded    | Bureaucratic | Academic   |
-| Noble house            | Urban       | Bureaucratic | Noble      |
-| Outlaw band            | Wilderness  | Communal     | Lawless    |
-| Pirate crew            | Nomadic     | Communal     | Lawless    |
-| Telepathic hive        | Secluded    | Communal     | Creative   |
-| Traveling entertainers | Nomadic     | Communal     | Creative   |
-
-### Why Build a Culture?
-
-Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
-
-### Culture Benefits
-
-The culture you choose or create grants you the following benefits:
-
-- You know the language of your culture, in addition to knowing Caelian.
-- From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect's list of options. (Skills in Chapter 9: [Tests](tests.md) has information on the part skills play in the game.)
-- You gain an edge on tests made to recall lore about your culture, and on tests made to influence and interact with people of your culture. (See Edges and Banes in Chapter 1: [The Basics](the-basics.md).)
-
-#### Language
-
-Your culture's language aspect determines how the people of your culture communicate. Languages in Orden below discusses the many languages of the world of Orden, including Caelian—the language of the fallen empire that once dominated that world.
-
-#### Environment
-
-Your culture's environment aspect describes where the people of that culture spend most of their time. Is your culture centered in a bustling city or a small village? Did you spend your early life in an isolated monastery? Or did you wander the wilderness, never staying in one place for long?
-
-When you build a culture, select its environment aspect from the following options: nomadic, rural, secluded, urban, or wilderness. You gain skill options from your chosen environment. All of these environments can be found in any sort of terrain, whether aboveground, in subterranean caverns, deep in trackless forest, or even underwater.
-
-##### Nomadic
-
-A [nomadic](../../Browse/culture/nomadic.md) culture travels from place to place to survive. Members of a [nomadic](../../Browse/culture/nomadic.md) culture might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in [nomadic](../../Browse/culture/nomadic.md) cultures learn to navigate the wilderness and work closely with others to survive.
-
-**Skill Options:** One skill from the exploration or interpersonal skill groups. (*Quick Build:* [Navigate](../../Browse/skill/navigate.md).)
-
-##### Rural
-
-A [rural](../../Browse/culture/rural.md) culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
-
-Living among a small population, most folks in a [rural](../../Browse/culture/rural.md) community learn a trade and are handed down bits of essential knowledge to help their community survive. For example, when a rural culture has only one blacksmith, it's important to have an apprentice already learning at the anvil well before that smith starts to get old. If the only priest in town
-
-gets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.
-
-**Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../../Browse/skill/nature.md).)
-
-##### Secluded
-
-A [secluded](../../Browse/culture/secluded.md) culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a [secluded](../../Browse/culture/secluded.md) culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening beyond their enclave.
-
-When people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.
-
-**Skill Options:** One skill from the interpersonal or lore skill groups. (*Quick Build:* [Read Person](../../Browse/skill/read-person.md).)
-
-##### Urban
-
-An [urban](../../Browse/culture/urban.md) culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of [urban](../../Browse/culture/urban.md) cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
-
-**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Alertness](../../Browse/skill/alertness.md).)
-
-##### Wilderness
-
-A [wilderness](../../Browse/culture/wilderness.md) culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of [orc](../../Browse/ancestry/orc.md) mercenaries who call the trackless mountains home. People in a [wilderness](../../Browse/culture/wilderness.md) culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
-
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Endurance](../../Browse/skill/endurance.md).)
-
-#### Organization
-
-Your culture's organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less-formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
-
-When you build a culture, select its organization aspect from the following options: [bureaucratic](../../Browse/culture/bureaucratic.md) or [communal](../../Browse/culture/communal.md). You gain skill options from your chosen system of organization.
-
-##### Bureaucratic
-
-[Bureaucratic](../../Browse/culture/bureaucratic.md) cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities
-
-have one person at the top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights who in turn rule over peasants working the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
-
-Those who thrive in [bureaucratic](../../Browse/culture/bureaucratic.md) cultures don't simply follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a [bureaucratic](../../Browse/culture/bureaucratic.md) culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
-
-**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../../Browse/skill/persuade.md).)
-
-##### Communal
-
-A [communal](../../Browse/culture/communal.md) culture is a place where all members of the culture are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
-
-Many [communal](../../Browse/culture/communal.md) cultures operate outside settled lands, sticking to the wilds, a specific district in a larger settlement, city sewers, forgotten ruins, or other isolated places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in [communal](../../Browse/culture/communal.md) cultures focus on fending for themselves while avoiding the danger that other groups can represent.
-
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Jump](../../Browse/skill/jump.md).)
-
-#### Upbringing
-
-Your culture's upbringing aspect is a more specific and personal part of your hero's story, describing how you were raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a mountain kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
-
-Pick your upbringing aspect from the following list: [academic](../../Browse/culture/academic.md), [creative](../../Browse/culture/creative.md), [labor](../../Browse/culture/labor.md), [lawless](../../Browse/culture/lawless.md), [martial](../../Browse/culture/martial.md), or [noble](../../Browse/culture/noble.md). You gain skill options from your chosen aspect.
-
-##### Academic
-
-Your hero was raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an [academic](../../Browse/culture/academic.md) culture learn how to wield the power that is knowledge.
-
-**Skill Options:** One skill from the lore skill group. (*Quick Build:* [History](../../Browse/skill/history.md).)
-
-##### Creative
-
-A hero with a [creative](../../Browse/culture/creative.md) upbringing was raised among folk who create art or other works valuable enough to trade. A [creative](../../Browse/culture/creative.md) culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
-
-**Skill Options:** The [Music](../../Browse/skill/music.md) or [Perform](../../Browse/skill/perform.md) skill (from the interpersonal skill group), or one skill from the crafting group. (*Quick Build:* [Perform](../../Browse/skill/perform.md).)
-
-##### Labor
-
-Your hero came of age in a culture where people labored for a living. They might have been cultivators, typically raising crops or livestock on a farm. They might have harvested natural resources, whether by hunting, trapping, logging, or mining. Or they might have excelled at manual [labor](../../Browse/culture/labor.md) tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a [labor](../../Browse/culture/labor.md) upbringing know the value of hard work.
-
-**Skill Options:** The [Blacksmithing](../../Browse/skill/blacksmithing.md) skill (from the crafting skill group), the [Handle Animals](../../Browse/skill/handle-animals.md) skill (from the interpersonal group), or a skill from the exploration group. (*Quick Build:* [Lift](../../Browse/skill/lift.md).)
-
-##### Lawless
-
-Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered [lawless](../../Browse/culture/lawless.md) in their actions and activities. People brought up in a [lawless](../../Browse/culture/lawless.md) culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
-
-**Skill Options:** One skill from the intrigue skill group. (*Quick Build:* [Sneak](../../Browse/skill/sneak.md).)
-
-##### Martial
-
-A hero with a [martial](../../Browse/culture/martial.md) upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a [martial](../../Browse/culture/martial.md) upbringing are always ready for a fight—and they know how to finish that fight.
-
-**Skill Options:** One of the following: [Blacksmithing](../../Browse/skill/blacksmithing.md) or [Fletching](../../Browse/skill/fletching.md) from the crafting skill group; [Climb](../../Browse/skill/climb.md), [Endurance](../../Browse/skill/endurance.md), or [Ride](../../Browse/skill/ride.md) from the exploration group; [Intimidate](../../Browse/skill/intimidate.md) from the interpersonal group; [Alertness](../../Browse/skill/alertness.md) or [Track](../../Browse/skill/track.md) from the intrigue group; or [Monsters](../../Browse/skill/monsters.md) or [Strategy](../../Browse/skill/strategy.md) from the lore skill group (*Quick Build:* [Intimidate](../../Browse/skill/intimidate.md).)
-
-##### Noble
-
-Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are [noble](../../Browse/culture/noble.md)s by birthright, but some cultures have [noble](../../Browse/culture/noble.md) titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
-
-**Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* [Lead](../../Browse/skill/lead.md).)
-
-> **But I Really Want Alertness**
->
-> If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
-
-#### Languages in Orden
-
-The languages granted by your hero's culture shape their understanding of the world and their relationship to the creatures within it. The following section details the languages of Orden, the baseline world of the game, but the Director can use these languages in their own campaign world or can swap this list with their own list of languages.
-
-If your hero knows a language, they can speak, read, write, and understand it.
-
-##### Caelian Empire
-
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent [human](../../Browse/ancestry/human.md) empire, all [humans](../../Browse/ancestry/human.md) (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
-
-Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [humans](../../Browse/ancestry/human.md) in most regions to one extent or another.
-
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [dwarves](../../Browse/ancestry/dwarf.md), [dragon knights](../../Browse/ancestry/dragon-knight.md), elves, [hakaan](../../Browse/ancestry/hakaan.md), [orcs](../../Browse/ancestry/orc.md), [polders](../../Browse/ancestry/polder.md), lizardfolk, and goblins. If a person speaks more than one language in Orden, the second language is almost always Caelian. All player characters know Caelian! As a result, that language of empire is now colloquially referred to as "the common tongue"-the language that most folk of Orden have in common.
-
-##### Extant Languages
-
-Folk have been speaking, signing, and writing in Orden for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
-
-The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian [Human](../../Browse/ancestry/human.md) Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your [orc](../../Browse/ancestry/orc.md) hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
-
-Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple [human](../../Browse/ancestry/human.md) languages.
-
-Each extant language has a spoken, signed, and written version. When you learn a language, you know how to speak, sign, and read it.
-
-###### Vaslorian Human Languages Table
-
-| Region                    | Language    |
-|---------------------------|-------------|
-| The Gol                   | Uvalic      |
-| Higara                    | Higaran     |
-| Ix                        | Oaxuatl     |
-| Khemhara                  | Khemharic   |
-| Khoursir                  | Khoursirian |
-| Phaedros                  | Phaedran    |
-| Rioja                     | Riojan      |
-| Vanigar                   | Vaniric     |
-| Vasloria                  | Vaslorian   |
-
-###### Languages by Ancestry Table
-
-| Language              | Ancestry                              | Notes                                                                          |
-|-----------------------|---------------------------------------|--------------------------------------------------------------------------------|
-| Anjali                | [Devils](../../Browse/ancestry/devil.md), hobgoblins                    | Language of contract law                                                       |
-| Axiomatic             | [Memonek](../../Browse/ancestry/memonek.md)                               | Native language of Axiom, and the common<br>language of the timescape by trade |
-| Caelian               | Orden denizens                        | Common language of Orden                                                       |
-| Filliaric             | Angulotls                             |                                                                                |
-| The First<br>Language | Elder dragons                         | Language of magic                                                              |
-| Hyrallic              | [High elves](../../Browse/ancestry/high-elf.md)                            | Language of interspecies diplomacy                                             |
-| Illyvric              | Shadow elves                          |                                                                                |
-| Kalliak               | [Orcs](../../Browse/ancestry/orc.md)                                  | Offshoot of Zaliac                                                             |
-| Kethaic               | Kobolds                               | Patois of Vastariax and Caelian                                                |
-| Khelt                 | Bugbears, fey                         | Offshoot of Kheltivari                                                         |
-| Khoursirian           | [Polder](../../Browse/ancestry/polder.md), [humans](../../Browse/ancestry/human.md)                        | Distant offshoot of Khamish                                                    |
-| High Kuric            | Bredbeddles, giants,<br>ogres, trolls |                                                                                |
-| Low Kuric             | Elementals                            |                                                                                |
-| Mindspeech            | Voiceless talkers                     | A symbolic language shared among native<br>telepaths                           |
-| Proto-Ctholl          | Lower demons                          | Incomplete precursor of Tholl                                                  |
-| Szetch                | Goblins, radenwights                  |                                                                                |
-| Tholl                 | Higher demons, gnolls                 |                                                                                |
-| Urollialic            | Olothec                               |                                                                                |
-| Variac                | Olothec, trolls,<br>voiceless talkers | Common language of the World Below                                             |
-| Vastariax             | Dragons, [dragon<br>knights](../../Browse/ancestry/dragon-knight.md)            |                                                                                |
-| Vhoric                | [Hakaan](../../Browse/ancestry/hakaan.md)                                | Offshoot of the stone giant dialect of High<br>Kuric                           |
-| Voll                  | [Time raiders](../../Browse/ancestry/time-raider.md)                          |                                                                                |
-| Yllyric               | [Wode elves](../../Browse/ancestry/wode-elf.md)                            | Language of druids                                                             |
-| Za'hariax             | Overminds                             |                                                                                |
-| Zaliac                | [Dwarves](../../Browse/ancestry/dwarf.md)                               | Language of engineering                                                        |
-
-##### Language Usage
-
-**Hyrallic** is the primary language of the [high elves](../../Browse/ancestry/high-elf.md) in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [dwarves](../../Browse/ancestry/dwarf.md). As a result, while anyone who lives near or trades with a [human](../../Browse/ancestry/human.md) culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
-
-**Yllyric** is the cultural language of [wode elves](../../Browse/ancestry/wode-elf.md), and also the common language among those who defend and protect the natural forests of Orden.
-
-Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular [dwarf](../../Browse/ancestry/dwarf.md) language. Even when such texts aren't fully written in Zaliac, they use a lot of [dwarf](../../Browse/ancestry/dwarf.md) language when describing esoteric, complex ideas.
-
-Just as Zaliac is used in engineering, contract law isn't written purely in **Anjali**, the dominant language of the Seven Cities of Hell. But a lot of the legal jargon in any contract, as well as some of the language of trial courts, features many Anjali words. People are sticklers for detail in the Seven Cities, and this makes their language popular among lawyers.
-
-In the same way that intelligent creatures in Orden who live near or trade with other cultures use Caelian as a common language, the denizens of the World Below, the Dark Under All, often speak **Variac**, the language of the voiceless talkers.
-
-##### Dead Languages
-
-For an adventuring hero with an ambition to create great works or unlock deep lore, being able to read ancient writing is most useful. Much deep lore is attested only in ancient tomes and scrolls written in languages that no modern culture uses.
-
-Most of these ancient writings were written by people who expected other people to read it. The lore might have been kept secret by not sharing it with anyone outside the college or cult whose members originally wrote it, but the actual writing was not intended to be difficult to read or understand. It wasn't written in code—just in a language that people stopped speaking long ago.
-
-Sages can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for crafting and research.
-
-The Dead Languages table shows some of the dead languages of Orden, and the modern languages related to those ancient languages.
-
-###### Dead Languages Table
-
-| Language       | Ancestry                   | Related Languages  | Common Topics                          |
-|----------------|----------------------------|--------------------|----------------------------------------|
-| Ananjali       | Old hobgoblin              | Anjali             | Zodiakol, the bloodmetal               |
-| High Rhyvian   | Sun elf                    | Hyrallic, Yllyric  | Liannar, the sunmetal                  |
-| Khamish        | Beast lord                 | Khoursirian        | Beast magic                            |
-| Kheltivari     | Old fae                    | Yllyric, Khelt     | Using a wode to travel<br>through time |
-| Low Rhyvian    | Sky elf                    | Hyrallic           | Flying castles                         |
-| Old Variac     | Olothec, voiceless talkers | Variac             | Kollar, the sinmetal                   |
-| Phorialtic     | Old elemental              | Low and High Kuric | Moving between<br>manifolds            |
-| Rallarian      | Steel [dwarf](../../Browse/ancestry/dwarf.md)                | Zaliac             | Valiar, the truemetal                  |
-| Ullorvic       | Star elf                   | Hyrallic, Yllyric  | Rovion, the starmetal                  |
-
-Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
-
-## Careers
-
 Being a hero isn't a job. It's a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 
-### Career Questions
+## Career Questions
 
 The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an [artisan](../../Browse/career/artisan.md), a [criminal](../../Browse/career/criminal.md), or a [gladiator](../../Browse/career/gladiator.md) does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the [Artisan](../../Browse/career/artisan.md) career, one of the questions is: "What did you create?"
 
 You don't need to answer these questions, but doing so can help shape a more complete picture of your hero. And if you do answer them, consider telling your Director the answers so they can think about working those details into the game. Directors already have a lot to juggle, but they certainly can't create dramatic moments from your backstory if you never tell them what that backstory is.
 
-### Career Benefits
+## Career Benefits
 
 Your career describes what your life was before you became a hero. When you select a career, you gain a number of benefits, the details of which are specified in the career's description.
 
-#### Skills
+### Skills
 
 Each career grants you two or three skills, detailed in the Skills section of Chapter 9: [Tests](tests.md).
 
-#### Languages
+### Languages
 
 Some careers allow you to learn extra languages, chosen from those available in Languages in Orden above.
 
-#### Renown
+### Renown
 
 Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
 
-#### Wealth
+### Wealth
 
 Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](rewards.md) for more information.
 
-#### Project Points
+### Project Points
 
 Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
 
 At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your project points toward those projects—possibly before the adventure begins! This is especially useful for characters who are going on only one adventure. Otherwise, you can hold onto the points and spend them once you do start a project.
 
-#### Perk
+### Perk
 
 Your career provides you with a specific type of perk—a special feature that lets you customize your character, with a focus outside of combat. See Chapter 7: [Perks](perks.md) for more information.
 
-### Inciting Incident
+## Inciting Incident
 
 Each career has a list of inciting incidents, each of which suggests a potential reason why you gave up your career, turned away from a possibly comfortable and reliable living, and took up the sword (or axe or wand) to become an adventuring hero. Each inciting incident represents a life-changing event that might have motivated you to change course, becoming a person who risks it all to save others.
 
 You can roll for or choose an inciting incident from the table that accompanies each career. You can also use your career's table (or another career's table) as inspiration as you work with your Director to come up with a unique inciting incident of your own.
 
-#### What Was Taken From You?
+### What Was Taken From You?
 
 During your inciting incident, something was taken from you. It might have been a material object, such as an heirloom sword or a locket that proves your royal heritage. Perhaps a person you loved was killed, kidnapped, or cursed. It might be something deeper and more abstract, such as a chance for happiness, belief in the future, belief in basic goodness, or a lifetime goal snatched away.
 
 It might be the case that you're obsessed with getting back what you lost. You might be in a position where you'll never recover what was taken from you, but you want to prevent that same loss from happening to others. Perhaps your loss left you in a position where helping others is the only thing that gives your life meaning. Whatever the case, the loss you've suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 
-### Careers A to Z
+## Careers A to Z
 
 The careers your character can select from are presented in alphabetical order.
 
-#### Agent
+### Agent
 
 You worked as a spy for a government or organization. In defining your career, think about the following questions:
 
@@ -381,7 +91,7 @@ You gain the following career benefits:
 | 5   | **Spies and Lovers:** While embedded in an undercover assignment, you fell for someone on the other side. They discovered you were a double [agent](../../Browse/career/agent.md), and though you insisted your feelings were real, the deceit cut too deep for your love interest to ignore. They exposed you, spurned you, or died because of their closeness to you. You left the espionage business to become a hero with nothing to hide.                                                 |
 | 6   | **Turncoat:** You spent your life in service of your country or an organization that upheld your values. During your undercover operations, you discovered that everything you had been told was a lie. Whether you confronted your superiors or were exposed, you were stripped of your service medals before you left to become a true hero.                                                                                                                 |
 
-#### Aristocrat
+### Aristocrat
 
 Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth. In defining your career, think about the following questions:
 
@@ -411,7 +121,7 @@ You gain the following career benefits:
 | 5  | **Royal Pauper:** Seeking a break from noble duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever you were bored. Unfortunately, your counterpart became so good at imitating you that they convinced all those around you that you were an impostor. You lost contact with your family, but now pursue a heroic path free of the pomp of your old life. |
 | 6  | **Wicked Secret:** One parent passed away when you were a baby and the other remarried years later. Then that parent died under suspicious circumstances. Their spouse ousted you, and you were banished (and possibly hunted). Rising from tragedy, you now seek to right the wrongs of the world. |
 
-#### Artisan
+### Artisan
 
 You made and sold useful wares. In defining your career, think about the following questions:
 
@@ -439,7 +149,7 @@ You gain the following career benefits:
 | 5  | **Tarnished Honor:** A new patron commissioned some art, but on completion, they refused to pay you and claimed the work as their own. You were accused of plagiarism and run out of town. For you, heroics are about restoring your name and honor. |
 | 6  | **Twisted Skill:** You had great success that caused an unscrupulous rival to curse you. For a time, everything you tried to create turned to ruin. You broke the curse through adventuring, and in doing so, discovered a new joy and purpose that now defines you. |
 
-#### Beggar
+### Beggar
 
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
@@ -465,7 +175,7 @@ You gain the following career benefits:
 | 5  | **Strange Charity:** A passerby dropped something in your cup. When you counted your day's collections, you found a magic coin among the coppers. You knew immediately that it was special. When the other beggars—your friends, you thought—showed that they were ready to murder you for it, you killed several of them in self-defense before you fled, leaving behind the only semblance of community you had. |
 | 6  | **Witness:** You witnessed something you weren't meant to. Others would kill you if they knew, and they might be searching for you even now. You remain on the move, terrified of remaining in one place too long lest it all catch up to you. Perhaps if you make a big enough name for yourself, you can become untouchable and finally speak of what happened without fear. |
 
-#### Criminal
+### Criminal
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -493,7 +203,7 @@ You gain the following career benefits:
 | 5  | **Simply Survival:** Stealing was a matter of survival for you and not what defined you—at least in your mind. But when your thieving actions led to innocent folk being harmed, you knew you could be better. You turned your back on your old life, though your old skills still come in handy. |
 | 6  | **Stand Against Tyranny:** When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn't matter, with pickpockets and beggars made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-#### Disciple
+### Disciple
 
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
@@ -519,7 +229,7 @@ You gain the following career benefits:
 | 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life. |
 | 6  | **Taxing Times:** The faith-based organization you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, while its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the deaths of many. You became a hero to fight against such corruption and to honor those you lost. |
 
-#### Explorer
+### Explorer
 
 You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter. In defining your career, think about the following questions:
 
@@ -546,7 +256,7 @@ You gain the following career benefits:
 | 5  | **Wanderlust:** You saw yourself as an observer and operated within a code of conduct. You swore to never interfere with a group by exposing them to your technology, knowledge, or values. But when faced with a moral conundrum, you either broke your code or stood idly by—and suffered the consequences. During this incident, you lost your observation journal but became a hero who refuses to let evil stand unchecked. |
 | 6  | **Wind in Your Sails:** As a seafaring [explorer](../../Browse/career/explorer.md), you lived to chart unknown courses. Though travel on the high seas was fraught with danger, the destination was always rewarding in riches, knowledge, or some other meaningful benefit. But your luck ran out when your ship was destroyed by pirates or other enemy forces. Now you've taken to protecting those who seek safe passage while also hoping to avenge your crew. |
 
-#### Farmer
+### Farmer
 
 You grew crops or cared for livestock. In defining your career, think about the following questions:
 
@@ -574,7 +284,7 @@ You gain the following career benefits:
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
 | 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
 
-#### Gladiator
+### Gladiator
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -602,7 +312,7 @@ You gain the following career benefits:
 | 5  | **Scion's Compassion:** You were born a noble, but the duplicitous and power-hungry nature of your family had you seeking your own fortune in the arena. You saw that competitors brought there by circumstance and not choice suffered. You gave all you could of your family money to those lessfortunate folk, and then set out to make a real difference in this cruel world. |
 | 6  | **Warriors' Home:** The orphanage you grew up in secretly supplied gladiators to the arena. Forced to fight against many childhood friends as an adult, you vowed to dismantle the arena and free other victims. You became a liberator, dedicated to ending the oppression of others until your dying breath. |
 
-#### Laborer
+### Laborer
 
 You worked as a [farmer](../../Browse/career/farmer.md), builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -630,7 +340,7 @@ You gain the following career benefits:
 | 5  | **Shining Light:** You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the supernatural, you left to find out what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime. |
 | 6  | **Slow and Steady:** You labored silently as an uncaring boss drove those around you into the ground, pushing you to work harder to lessen the burden on your companions. But when the boss pushed too far and killed a friend of yours, you led an uprising against them. That was the start of your adventuring life. |
 
-#### Mage's Apprentice
+### Mage's Apprentice
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -658,7 +368,7 @@ You gain the following career benefits:
 | 5  | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is! | 
 | 6  | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](../../Browse/class/elementalist.md) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 
-#### Performer
+### Performer
 
 You can sing, act, or dance well enough that people actually pay you to do it. Imagine that! In defining your career, think about the following questions:
 
@@ -684,7 +394,7 @@ You gain the following career benefits:
 | 5  | **Speechless:** A heckler's mocking words left you utterly speechless during a performance, stinging your pride and stirring your arrogance. The incident strained your legendary voice, and you could speak only in soft whispers. The heckler was a fey trickster who stole your voice, promising to give it back after you accomplished real good in the world. |
 | 6  | **Tragic Lesson:** When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward them inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you made it your responsibility to protect others. |
 
-#### Politician
+### Politician
 
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
 
@@ -714,7 +424,7 @@ You gain the following career benefits:
 | 5  | **Self-Serving:** You used your skills to collect incriminating or scandalous information about your opponents to blackmail them. A rival got one step ahead of you and stole your book of dirty secrets. But instead of using it against you, they gave you an opportunity to leave the world of politics behind. Saved from public humiliation, you now use your skills for the greater good. |
 | 6  | **Unbound:** The red tape required to achieve anything through your political position resulted in a crisis being mishandled and countless people harmed or killed. After that unfortunate event, you resolved to live unfettered by bureaucratic interference, seeking to do good through action, not paperwork. |
 
-#### Sage
+### Sage
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -742,7 +452,7 @@ You gain the following career benefits:
 | 5  | **Unforeseen Futures:** In your pursuit of ancient knowledge, you discovered a prophecy that has yet to come to pass. And that prophecy involves someone who might be... you. Since your discovery, strange dreams have plagued you, driving you to seek out your destiny. |
 | 6  | **Vanishing:** At first you thought it was your imagination, and you brushed off the disappearance of random sentences in historical books. Then as the books changed to entirely blank pages, the disappearances became difficult to ignore, particularly those involving ancient or critical text. Driven by the desire to preserve knowledge, you have made it your purpose to restore and reverse those vanishing texts before they forever disappear. |
 
-#### Sailor
+### Sailor
 
 You worked on a ship, whether a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain. In defining your career, think about the following questions:
 
@@ -768,7 +478,7 @@ You gain the following career benefits:
 **Marooned:** There was a mutiny, and you were on the losing side. You were marooned on an island and escaped when a merchant vessel was blown off course by a storm and found you. Your reputation is ruined among sailors, so you seek adventure elsewhere.
 **Water Fear:** A catastrophic storm hit while you were at sea, destroying your ship and leaving you as the only survivor. Once you recovered, you tried to sign on with another ship, but the thought of the open water turned your legs to jelly. Instead, you've taken on the role of a traveling hero to make ends meet.
 
-#### Soldier
+### Soldier
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -796,7 +506,7 @@ You gain the following career benefits:
 | 5  | **Stolen Valor:** Tired of eking out an existence on the streets, you enrolled in the military. However, you were unable to escape your lower-status background until the officer leading your unit fell in battle. In the chaos that ensued, you assumed their identity and returned home a hero. But when suspicion arose, you took on the life of an adventurer, staying always on the move. |
 | 6  | **Vow of Sacrifice:** You promised a fellow [soldier](../../Browse/career/soldier.md) that you'd protect his family if he ever fell in battle. When he did, you traveled to his village, but found its people slain or scattered by war. Driven by your vow, you have dedicated your life to finding any survivors and protecting others from a similar fate. |
 
-#### Warden
+### Warden
 
 You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
@@ -824,7 +534,7 @@ You gain the following career benefits:
 | 5  | **Portents:** There were signs. You tried to ignore them, but when a great beast died at your feet, you had to recognize the truth. You were meant to leave your home territory, meant to fight a battle for the fate of all lands—and so you gave up the only life you've ever known. |
 | 6  | **Theft:** You were responsible for guarding something precious, something vital to your region's survival. But you let someone in, and they betrayed your trust by stealing the thing you were meant to guard. You left your chosen territory to atone for your mistake. |
 
-#### Watch Officer
+### Watch Officer
 
 You served as an officer of the law for a local government. You might have been a single person in a much larger city watch or the only constable patrolling a small village. In defining your career, think about the following questions:
 

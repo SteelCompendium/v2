@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Making a Hero
+order: 2
 scc: mcdm.heroes.v1/chapter/making-a-hero
 type: chapter
 ---

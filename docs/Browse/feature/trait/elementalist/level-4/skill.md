@@ -10,4 +10,4 @@ type: trait
 
 ---
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../../Read/heroes/tests.md).

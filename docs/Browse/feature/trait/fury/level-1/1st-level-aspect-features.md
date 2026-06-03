@@ -26,7 +26,7 @@ You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../
 
 ## Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../../Read/chapter/kits.md) for more information. (*Quick Build:* [Panther](../../../../kit/panther.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../../../../kit/panther.md).)
 
 ## Primordial Cunning
 

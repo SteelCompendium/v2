@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Tests
+order: 11
 scc: mcdm.heroes.v1/chapter/tests
 type: chapter
 ---

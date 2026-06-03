@@ -27,4 +27,4 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 
 Unless otherwise indicated, a creature can grab only one creature at a time.
 
-See Conditions in Chapter 5: [Classes](../../../../../Read/chapter/classes.md) for information on the [grabbed](../../../../condition/grabbed.md) condition.
+See Conditions in Chapter 5: [Classes](../../../../../Read/heroes/classes.md) for information on the [grabbed](../../../../condition/grabbed.md) condition.

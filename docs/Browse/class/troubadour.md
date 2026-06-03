@@ -41,7 +41,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/chapter/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
 
 ##### Troubadour Advancement Table
 
@@ -109,7 +109,7 @@ When you use an ability outside of combat that lets you spend unlimited drama on
 
 ### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/chapter/kits.md) for more information. (*Quick Build:* [Swashbuckler](../kit/swashbuckler.md).)
+You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Swashbuckler](../kit/swashbuckler.md).)
 
 ### Scene Partner
 
@@ -569,7 +569,7 @@ Whenever you take the first turn in a combat encounter, you can use a main actio
 
 As a respite activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional hero tokens (Chapter 1: [The Basics](../../Read/chapter/the-basics.md)). These hero tokens disappear at the end of the encounter.
+The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional hero tokens (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These hero tokens disappear at the end of the encounter.
 
 #### My Reputation Precedes Me
 
@@ -579,7 +579,7 @@ The Director can award the heroes 1 hero token to make you infamous among the gr
 
 ### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/chapter/perks.md).
+You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Class Act Ability
 
@@ -712,7 +712,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/chapter/tests.md)).
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
 
 ##### "Never-Ending Hero"
 
@@ -819,7 +819,7 @@ You gain one perk of your choice.
 
 ### Skill
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/chapter/tests.md).
+You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
 ### Zeitgeist
 

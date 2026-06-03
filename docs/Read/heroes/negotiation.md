@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: Negotiation
+order: 14
 scc: mcdm.heroes.v1/chapter/negotiation
 type: chapter
 ---

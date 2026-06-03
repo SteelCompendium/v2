@@ -2,6 +2,7 @@
 search:
   exclude: true
 name: The Beastheart & The Faeries
+order: 0
 scc: mcdm.beastheart.v1/chapter/the-beastheart-and-the-faeries
 type: chapter
 ---
