@@ -12,7 +12,7 @@ keywords:
 level: "1"
 name: Backhand
 scc: mcdm.beastheart.v1/feature.ability.companion.bear.level-1/backhand
-spend: '1 Ferocity: The target is force moved up to a number of additional squares equal to the bear''s Might score.'
+spend: '1 Ferocity: The target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) up to a number of additional squares equal to the bear''s Might score.'
 subtype: signature
 target: One creature or object
 type: ability
@@ -30,4 +30,4 @@ type: ability
 
 **Effect:** The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.
 
-**Spend 1 Ferocity:** The target is force moved up to a number of additional squares equal to the bear's Might score.
+**Spend 1 Ferocity:** The target is [force moved](../../../../../movement/forced-movement.md) up to a number of additional squares equal to the bear's Might score.

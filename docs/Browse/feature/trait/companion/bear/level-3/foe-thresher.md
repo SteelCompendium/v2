@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the bear targets a creature with a strike that doesn't impose forced movement while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
+Whenever the bear targets a creature with a strike that doesn't impose [forced movement](../../../../../movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.

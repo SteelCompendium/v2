@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 3 Ferocity
 distance: Melee 1
-effect: You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
+effect: You and your companion can [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to the number of squares the target was [force moved](scc:mcdm.heroes.v1/movement/forced-movement).
 flavor: Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.
 keywords:
     - Companion
@@ -37,4 +37,4 @@ type: ability
 - **12-16:** 8 + M damage; slide 2; I < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
 - **17+:** 11 + M damage; slide 4; I < STRONG [weakened](../../../../condition/weakened.md) (save ends)
 
-**Effect:** You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
+**Effect:** You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md).

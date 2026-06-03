@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-While the condor is flying and has a speed greater than 0, ranged strikes against them take a bane.
+While the condor is [flying](../../../../../movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane.

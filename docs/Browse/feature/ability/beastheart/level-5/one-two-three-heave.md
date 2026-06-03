@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Melee 1
-effect: If your companion is adjacent to the target, this forced movement can ignore the target's stability.
+effect: If your companion is adjacent to the target, this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) can ignore the target's stability.
 flavor: Harnessing your companion's strength, you send your foe flying.
 keywords:
     - Beastheart
@@ -37,4 +37,4 @@ type: ability
 - **12-16:** 15 + M damage; vertical push 6; [prone](../../../../condition/prone.md)
 - **17+:** 20 + M damage; vertical push 8; [prone](../../../../condition/prone.md)
 
-**Effect:** If your companion is adjacent to the target, this forced movement can ignore the target's stability.
+**Effect:** If your companion is adjacent to the target, this [forced movement](../../../../movement/forced-movement.md) can ignore the target's stability.

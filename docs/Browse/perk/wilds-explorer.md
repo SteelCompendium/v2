@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of difficult terrain you each enter.
+You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of [difficult terrain](../movement/difficult-terrain.md) you each enter.

@@ -14,10 +14,10 @@ Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers ta
 
 | Wild Nature | Maneuver          |
 |-------------|-------------------|
-| Guardian    | Living Arrow      |
-| Prowler     | Lightning Leap    |
-| Punisher    | Avalanche Rush    |
-| Spark       | Jaws of the Storm |
+| Guardian    | [Living Arrow](../../../ability/beastheart/level-1/living-arrow.md)      |
+| Prowler     | [Lightning Leap](../../../ability/beastheart/level-1/lightning-leap.md)    |
+| Punisher    | [Avalanche Rush](../../../ability/beastheart/level-1/avalanche-rush.md)    |
+| Spark       | [Jaws of the Storm](../../../ability/beastheart/level-1/jaws-of-the-storm.md) |
 
 ### Avalanche Rush
 
@@ -53,7 +53,7 @@ You can move up to 3 squares before and after you use this ability. During this 
 |-------------------------------|--------------------:|
 | **📏 Melee 1**                | **🎯 One creature** |
 
-**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can jump up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as difficult terrain for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
+**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can [jump](../../../../movement/jump.md) up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
 
 **Spend 1 Ferocity:** Your jump doesn't provoke opportunity attacks.
 
@@ -65,6 +65,6 @@ You can move up to 3 squares before and after you use this ability. During this 
 |-------------------------------|--------------------------:|
 | **📏 Ranged 10**              | **🎯 One unoccupied space** |
 
-**Effect:** If your companion is within range and can fit into the target space, they teleport to the space. They can then make a melee free strike.
+**Effect:** If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.
 
 **Spend 1 Ferocity:** The distance increases to ranged 15.

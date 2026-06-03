@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 11 Ferocity
 distance: Melee 1
-effect: Your companion teleports up to their speed.
+effect: Your companion [teleports](scc:mcdm.heroes.v1/movement/teleport) up to their speed.
 flavor: Your companion appears next to their victim in the guise of a heart-stopping nightmare.
 keywords:
     - Companion
@@ -33,7 +33,7 @@ type: ability
 |---------------------------------------------|----------------:|
 | **📏 Melee 1**                              | **🎯 One creature** |
 
-**Effect:** Your companion teleports up to their speed.
+**Effect:** Your companion [teleports](../../../../movement/teleport.md) up to their speed.
 
 **Power Roll + Intuition:**
 

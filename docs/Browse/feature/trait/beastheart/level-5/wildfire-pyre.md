@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-When you or your companion deals damage with your Pyre ability, each enemy adjacent to either of you takes the damage.
+When you or your companion deals damage with your [Pyre](../../../ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage.

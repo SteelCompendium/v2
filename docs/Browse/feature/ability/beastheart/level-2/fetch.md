@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: Melee 1
-effect: Your companion can teleport up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
+effect: Your companion can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
 flavor: Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.
 keywords:
     - Companion
@@ -33,7 +33,7 @@ type: ability
 |---------------------------------------------|----------------:|
 | **📏 Melee 1**                              | **🎯 One creature or object** |
 
-**Effect:** Your companion can teleport up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
+**Effect:** Your companion can [teleport](../../../../movement/teleport.md) up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
 
 **Power Roll + Might:**
 

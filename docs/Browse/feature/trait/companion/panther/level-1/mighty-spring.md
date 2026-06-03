@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the panther takes the Advance move action or the Charge action, they can jump up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.
+Whenever the panther takes the Advance move action or the Charge action, they can [jump](../../../../../movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.

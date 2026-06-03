@@ -1,5 +1,5 @@
 ---
-effect: Only a beastheart's companion or an animal can wear this item. While wearing it, the creature grows feathered wings if they don't already have wings and can fly. If the creature can already fly, they gain a +3 bonus to their speed while flying.
+effect: Only a beastheart's companion or an animal can wear this item. While wearing it, the creature grows feathered wings if they don't already have wings and can [fly](scc:mcdm.heroes.v1/movement/fly). If the creature can already fly, they gain a +3 bonus to their speed while flying.
 keywords:
     - Magic
     - Neck
@@ -22,4 +22,4 @@ type: treasure
 
 **Project Goal:** 600
 
-**Effect:** Only a beastheart's companion or an animal can wear this item. While wearing it, the creature grows feathered wings if they don't already have wings and can fly. If the creature can already fly, they gain a +3 bonus to their speed while flying.
+**Effect:** Only a beastheart's companion or an animal can wear this item. While wearing it, the creature grows feathered wings if they don't already have wings and can [fly](../movement/fly.md). If the creature can already fly, they gain a +3 bonus to their speed while flying.

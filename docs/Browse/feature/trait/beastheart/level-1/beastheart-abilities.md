@@ -24,7 +24,7 @@ Choose one signature ability from the following options. Signature abilities can
 |----------------------------------------------|-----------------------------:|
 | **📏 Melee 1**                               | **🎯 One creature or object** |
 
-**Effect:** If you and a willing ally are standing on the ground within 10 squares of each other, you can teleport to swap places. If you do, you gain an edge on this ability.
+**Effect:** If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](../../../../movement/teleport.md) to swap places. If you do, you gain an edge on this ability.
 
 **Power Roll + Intuition:**
 
@@ -46,7 +46,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 3 + M damage
 - **17+:** 4 + M damage
 
-**Effect:** Your companion can make a melee free strike. You both shift up to a number of squares equal to your Intuition score.
+**Effect:** Your companion can make a melee free strike. You both [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score.
 
 ### Covering Fire
 
@@ -118,7 +118,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 8 + M damage; slide 2; I < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
 - **17+:** 11 + M damage; slide 4; I < STRONG [weakened](../../../../condition/weakened.md) (save ends)
 
-**Effect:** You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.
+**Effect:** You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md).
 
 #### Hungry Like the Wolf
 

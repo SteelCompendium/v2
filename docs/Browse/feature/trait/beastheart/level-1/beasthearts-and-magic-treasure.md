@@ -18,7 +18,7 @@ Your companion can't use every consumable, but with your help, they can benefit 
 
 Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
 
-You companion doesn't need to wear their trinket around their neck: a condor might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
+You companion doesn't need to wear their trinket around their neck: a [condor](../../../../feature-group/companion/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
 
 ## Leveled Items
 

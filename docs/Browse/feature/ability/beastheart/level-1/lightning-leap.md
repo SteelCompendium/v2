@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: beastheart
 distance: Melee 1
-effect: The target takes damage equal to 3 + your Might score. Before you use this ability, you can jump up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as difficult terrain for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
+effect: The target takes damage equal to 3 + your Might score. Before you use this ability, you can [jump](scc:mcdm.heroes.v1/movement/jump) up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
 flavor: You summon a lightning bolt and ride it into battle.
 keywords:
     - Beastheart
@@ -27,6 +27,6 @@ type: ability
 |-------------------------------|--------------------:|
 | **📏 Melee 1**                | **🎯 One creature** |
 
-**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can jump up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as difficult terrain for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
+**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can [jump](../../../../movement/jump.md) up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
 
 **Spend 1 Ferocity:** Your jump doesn't provoke opportunity attacks.

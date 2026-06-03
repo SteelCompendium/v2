@@ -3,7 +3,7 @@ action_type: Triggered Action
 class: beastheart
 cost: 7 Ferocity
 distance: Ranged 10
-effect: 'The target dies. You teleport to the target''s space, shift up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:'
+effect: 'The target dies. You [teleport](scc:mcdm.heroes.v1/movement/teleport) to the target''s space, [shift](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:'
 flavor: You leap from your foe's corpse.
 keywords:
     - Beastheart
@@ -33,7 +33,7 @@ type: ability
 
 **Trigger:** Your companion uses an ability that reduces the target to 0 Stamina.
 
-**Effect:** The target dies. You teleport to the target's space, shift up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:
+**Effect:** The target dies. You [teleport](../../../../movement/teleport.md) to the target's space, [shift](../../../../movement/shifting.md) up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:
 
 **Power Roll + Might:**
 

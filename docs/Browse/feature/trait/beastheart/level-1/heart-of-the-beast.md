@@ -22,9 +22,9 @@ Both you and your companion can use the following ability.
 |-------------------|-------------:|
 | **📏 Self**       | **🎯 Self**  |
 
-**Effect:** You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner teleports to your space from any distance, even if they don't have line of effect to you.
+**Effect:** You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner [teleports](../../../../movement/teleport.md) to your space from any distance, even if they don't have line of effect to you.
 
-**Spend 1 Ferocity:** Your partner can shift up to their speed.
+**Spend 1 Ferocity:** Your partner can [shift](../../../../movement/shifting.md) up to their speed.
 
 **Spend 1–5 Ferocity:** Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.
 

@@ -14,10 +14,10 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 | Wild Nature | Triggered Action   |
 |-------------|--------------------|
-| Guardian    | The Pack Defends   |
-| Prowler     | Shadow in the Mist |
-| Punisher    | Thunderclap        |
-| Spark       | Pyre               |
+| Guardian    | [The Pack Defends](../../../ability/beastheart/level-1/the-pack-defends.md)   |
+| Prowler     | [Shadow in the Mist](../../../ability/beastheart/level-1/shadow-in-the-mist.md) |
+| Punisher    | [Thunderclap](../../../ability/beastheart/level-1/thunderclap.md)        |
+| Spark       | [Pyre](../../../ability/beastheart/level-1/pyre.md)               |
 
 ### Pyre
 
@@ -29,9 +29,9 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Trigger:** You take damage.
 
-**Effect:** You take half the damage and teleport up to 5 squares.
+**Effect:** You take half the damage and [teleport](../../../../movement/teleport.md) up to 5 squares.
 
-**Spend 1 Ferocity:** When you teleport this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.
+**Spend 1 Ferocity:** When you [teleport](../../../../movement/teleport.md) this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.
 
 ### Shadow in the Mist
 
@@ -43,9 +43,9 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Trigger:** An enemy within 10 squares deals damage to a creature other than you.
 
-**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the Hide maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.
+**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the [Hide](../../../../skill/hide.md) maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.
 
-**Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore difficult terrain during this movement.
+**Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore [difficult terrain](../../../../movement/difficult-terrain.md) during this movement.
 
 ### The Pack Defends
 
@@ -71,9 +71,9 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Trigger:** The target deals damage to a creature.
 
-**Effect:** You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this forced movement pushes the target away from the creature they damaged, the creature takes half the triggering damage.
+**Effect:** You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this [forced movement](../../../../movement/forced-movement.md) pushes the target away from the creature they damaged, the creature takes half the triggering damage.
 
-**Spend 1 Ferocity:** The forced movement distance is doubled.
+**Spend 1 Ferocity:** The [forced movement](../../../../movement/forced-movement.md) distance is doubled.
 
 ### Kit
 
@@ -94,7 +94,7 @@ Your companion can't use every consumable, but with your help, they can benefit 
 
 Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
 
-You companion doesn't need to wear their trinket around their neck: a condor might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
+You companion doesn't need to wear their trinket around their neck: a [condor](../../../../feature-group/companion/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
 
 #### Leveled Items
 

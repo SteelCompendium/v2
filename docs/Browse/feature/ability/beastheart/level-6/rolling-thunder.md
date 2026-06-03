@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Self
-effect: Your companion shifts up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
+effect: Your companion [shifts](scc:mcdm.heroes.v1/movement/shifting) up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
 flavor: The rumble of your companion's dash is a rolling thunderclap, their impact an earthquake.
 keywords:
     - Companion
@@ -33,7 +33,7 @@ type: ability
 |-------------------------------------|----------------:|
 | **📏 Self**                         | **🎯 Self**     |
 
-**Effect:** Your companion shifts up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
+**Effect:** Your companion [shifts](../../../../movement/shifting.md) up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
 
 **Power Roll + Might:**
 

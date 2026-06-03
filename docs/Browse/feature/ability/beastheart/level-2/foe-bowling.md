@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: Melee 1
-effect: If the target is force moved at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.
+effect: If the target is [force moved](scc:mcdm.heroes.v1/movement/forced-movement) at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.
 flavor: Your companion sends one enemy tumbling into another, taking them both out.
 keywords:
     - Charge
@@ -39,4 +39,4 @@ type: ability
 - **12-16:** 5 + M damage; push 3; M < AVERAGE [prone](../../../../condition/prone.md)
 - **17+:** 8 + M damage; push 4; M < STRONG [prone](../../../../condition/prone.md)
 
-**Effect:** If the target is force moved at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.
+**Effect:** If the target is [force moved](../../../../movement/forced-movement.md) at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.

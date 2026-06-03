@@ -28,4 +28,4 @@ type: trait
 
 **Recoveries:** 12
 
-**Skills:** You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, Navigate, Track.)
+**Skills:** You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, [Navigate](../../../../skill/navigate.md), [Track](../../../../skill/track.md).)

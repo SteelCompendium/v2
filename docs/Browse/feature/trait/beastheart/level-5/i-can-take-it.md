@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-When you or your companion uses your Thunderclap ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.
+When you or your companion uses your [Thunderclap](../../../ability/beastheart/level-1/thunderclap.md) ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.

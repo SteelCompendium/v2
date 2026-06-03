@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-While the drake is rampaging, you gain draconic wings and can fly. If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
+While the drake is rampaging, you gain draconic wings and can [fly](../../../../../movement/fly.md). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.

@@ -29,7 +29,7 @@ type: ability
 
 **Effect:** Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:
 
-- Your companion can fly. If they could already fly, they gain a +2 bonus to speed.
+- Your companion can [fly](../../../../movement/fly.md). If they could already fly, they gain a +2 bonus to speed.
 - When your companion enters another creature's space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature.
 - Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.
 

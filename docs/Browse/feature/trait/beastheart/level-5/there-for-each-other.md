@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-When you or your companion uses your The Pack Defends ability to spend a Recovery, you and the target both regain Stamina.
+When you or your companion uses your [The Pack Defends](../../../ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina.

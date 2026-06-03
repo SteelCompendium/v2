@@ -10,4 +10,4 @@ type: trait
 
 ---
 
-Your Rampage feature provides additional effects when your companion has 20 or more rampage.
+Your [Rampage](../level-1/rampage.md) feature provides additional effects when your companion has 20 or more rampage.

@@ -3,7 +3,7 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: 2 burst
-effect: Your companion shifts up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
+effect: Your companion [shifts](scc:mcdm.heroes.v1/movement/shifting) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
 flavor: Surprised to see me?
 keywords:
     - Area
@@ -33,7 +33,7 @@ type: ability
 
 **Special:** This ability targets only enemies with line of effect to your companion.
 
-**Effect:** Your companion shifts up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
+**Effect:** Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
 
 **Power Roll + Intuition:**
 

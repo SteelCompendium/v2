@@ -11,4 +11,4 @@ type: trait
 
 ---
 
-Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can teleport up to 5 squares and use the Hide maneuver.
+Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../../../../movement/teleport.md) up to 5 squares and use the [Hide](../../../../../skill/hide.md) maneuver.
