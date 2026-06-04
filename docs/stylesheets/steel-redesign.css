@@ -158,13 +158,17 @@
 [data-md-color-scheme="default"] .sc-card__stat { background: rgba(0,0,0,.04); }
 .sc-card__stat .v { font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .92rem; color: var(--sc-steel-lighter); }
 .sc-card__stat .l { font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem;
-  letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; }
+  letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; line-height: 1.05; }
 .sc-card__stat.is-dmg .v { color: var(--fx-metal-bright); }
 
-/* extra card pieces for the other index types */
-.sc-card__line { font-family: var(--md-small-header-font); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .55rem; }
-.sc-card__line b { color: var(--fx-metal); font-variant: small-caps; letter-spacing: .04em; font-weight: 400; }
-.sc-card__line .hl { color: var(--fx-metal-bright); font-variant: normal; letter-spacing: 0; }
+/* extra card pieces for the other index types. The field name (b) and its
+   value read as two distinct registers — like the ancestry "Signature Trait"
+   line: the label is the small-caps metal field-name font, the value is plain
+   body text — so the label never blends into the content. */
+.sc-card__line { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .55rem; }
+.sc-card__line b { font-family: var(--md-small-header-font); color: var(--fx-metal); font-variant: small-caps;
+  letter-spacing: .06em; font-weight: 400; margin-right: .3rem; }
+.sc-card__line .hl { color: var(--fx-metal-bright); }
 .sc-card__tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .6rem; }
 .sc-tag { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em; font-size: .74rem;
   color: var(--md-default-fg-color--light); border: 1px solid var(--fx-metal-faint); border-radius: 5px; padding: .08rem .5rem; }

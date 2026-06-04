@@ -48,6 +48,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Boren</div></div></div>
+  <div class="sc-card__equip">&nbsp;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
@@ -87,6 +88,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Corven</div></div></div>
+  <div class="sc-card__equip">&nbsp;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
@@ -226,6 +228,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Raden</div></div></div>
+  <div class="sc-card__equip">&nbsp;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
@@ -445,6 +448,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Vuken</div></div></div>
+  <div class="sc-card__equip">&nbsp;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
