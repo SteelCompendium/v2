@@ -105,4 +105,4 @@ extra_javascript:
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
-  - javascripts/scc-permalink-copy.js
+  - javascripts/scc-headerlinks.js
